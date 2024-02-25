@@ -1,0 +1,11 @@
+---
+#    build:    path to build directory where output files should be written
+#    images:   path to source directory containing images.
+#    styles:   path to source directory containing css style files (and svg files used in styles).
+#    articles: path to source directory where source markdown files are located.
+#    sitemap:  path to sitemap.yaml file that structures the articles into a hierarchy.
+build: ../build
+images: images
+styles: styles
+articles: articles
+sitemap: sitemap.yaml

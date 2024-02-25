@@ -1,0 +1,67 @@
+/* Table of Contents styling (Left Sidebar) */
+    
+.left-side-colors {
+  color: var(--dark-cerulean);
+  background:  var(--wispy-blue);
+}
+
+.leftsidebar-closed {
+  height: 1750px;
+  width:45px;
+  margin-left: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  overflow-y: scroll;
+
+  transition:width 0.75s 1s;
+  outline:0;
+
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+}
+
+.leftsidebar-open {
+  height: 1750px;
+  width: 450px;
+  margin-left: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  overflow-y: scroll;
+
+  outline:0;
+  transition:width 0.5s 0.75s;
+
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+}
+
+#toggle {
+  display: block;
+  position: fixed;
+  top: 360px;
+  left: 20px;
+  width:80px;
+  height:40px;
+  z-index: 1;
+}
+
+/* 
+The toggle buttons open and close the TOC. 
+Two styles are used to swap between the open button (shown when TOC is closed) 
+and the close button (shown when TOC is open).
+*/
+
+.show-toggle {
+  display: block;
+  position: fixed;
+  top: 360px;
+  left: 20px;
+  color: var(--dark-cerulean);
+}
+
+.hide-toggle {
+  display: none;
+  position: fixed;
+}

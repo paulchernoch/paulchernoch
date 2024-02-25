@@ -1,0 +1,187 @@
+---
+# Sitemap for the Website.
+#   - All articles will be listed in a hierarchy.
+#   - Leaves are articles while category nodes are summary pages.
+#     Articles do not have a list of parts while summary pages do.
+#   - All articles and sections will be stored in the same directory, 
+#     so the same article may appear in multiple places in the hierarchy.
+#   - The hierarchy is used to generate the table of contents 
+#     that appears in the left sidebar.
+#
+# Each article or category section has these properties (some optional):
+#
+#   - title:   Title of the article or section.
+#   - sub:     Subtitle of the article or section (optional).
+#   - named:   The file name (optional). If omitted, use the title to generate it.
+#   - brief:   Summary or synopsis of the article or section (optional).
+#   - image:   FontAwesome classes that identify the icon to use (if omitted, no icon)
+#   - dates:   List of publication dates in the format "yyyy-mm-dd" (with no quotes).
+#   - parts:   Lists subsections or articles belonging to the section (optional).
+#              If parts is present, it is a section, otherwise an article.
+#
+# Every article or category will have a corresponding markdown file.
+# The article or category section of the page will be assembled
+# as follows:
+#    
+#   1. If "named" is given, it names the markdown file holding the article or section.
+#      If not, the title will be converted into a file name 
+#      by replacing spaces and punctuation with hyphens.
+#      The input markdown file has the ".md" extension.
+#      A second file name will be generated with an ".html" extension 
+#      to hold the generated html code..
+#
+#   2. The article title from this yaml file will be used in the table of contents.
+#      If the markdown file has its own "title" property, that title will be 
+#      enclosed in an h1 tag and inserted before the body of the article.
+#      If the markdown file has no "title" property, the title from this 
+#      yaml file will be used instead.
+#      This allows the TOC to have a short name for the article but the article listing
+#      to have a longer title.
+#
+#   3. If the yaml file has a "sub" property, a subtitle will be added on a separate
+#      line after the title in the article. If not but the markdown file has a "sub""
+#      property, it will be used as the subtitle. 
+#      Subtitles will be styled as h2 elements, but centered.
+# 
+#   4. The article summary given by the "brief" property will be enclosed in 
+#      a synopsis box following the title.
+#      This is done by enclosing the text in a div with class="synopsis".
+#      If no "brief" is given, no synopsis box will be shown.
+#
+#   5. The rest of the article listing will be made by converting the markdown file
+#      into HTML using the python markdown2 library (https://github.com/trentm/python-markdown2). 
+#      Poetry lines with different indentation should begin with 
+#      four, five or six hashes, which become h4, h5 or h6 elements.
+#      Thus the title should not be repeated in the markdown file, 
+#      except as an attribute in the attribute block.
+#
+#   6. If it is a section node in the hierarchy, hyperlinks to all the articles 
+#      or subsections in the section will be added at the end of the sectin text.
+#
+#   7. Every article or subsection will have a link up to the enclosing section, if any.
+#
+#   8. At the end of the article, the original publication date from "dates" will be noted,
+#      and if there are more than one, the most recent date as well will be given as the revision date.
+#      Assume that the dates are sorted from oldest to newest.
+
+#   - title
+#   - sub
+#   - named
+#   - brief
+#   - image
+#   - dates
+#   - parts
+
+- title: Home
+  image: fa-solid fa-house-chimney
+  parts:
+  - title: About this Site
+    image: fas fa-address-card
+  - title: Author
+    image: fas fa-feather-al
+  - title: Books
+    image: fas fa-book
+    parts:
+    - title: The Endless Hunt
+      sub:   Or if I've Found God, Whay am I still Looking?
+      named: the-endless-hunt.md
+    - title: Job Rises
+      sub:   Thirteen Keys to a Resilient Life
+      named: job-rises.md
+    - title: Peace, Like Solomon Never Knew
+      named: peace-book.md
+    - title: Plague, Precept, Prophet, Peace
+      sub:   God's Ten Liberating Commandments
+  - title: Lady Wisdom's House
+    image: fas fa-synagogue
+    parts:
+    - title: Lady Wisdom
+    - title: Hannah's Song
+    - title: Blueprint for Lady Wisdom's House
+    - title: "Foundation: The Commandments"
+    - title: "Lanterns: Seven Spirits of God"
+    - title: Seven Pillars of Wisdom
+      parts:
+      - title: Psalms
+      - title: Job
+      - title: Proverbs
+      - title: Song of Songs
+      - title: Ecclesiastes
+      - title: Matthew
+      - title: Revelation
+    - title: "Roof: Paul's Gospel of Peace"
+  - title: Spiritual Growth
+    image: fas fa-seedling
+    parts:
+    - title: What are life's Most Important Questions?
+      named: most-important-questions.md  
+    - title: What are the Heavenly Treasures?
+      named: heavenly-treasures.md
+    - title: The Harvest Pattern of Jesus
+    - title: The Growth Pattern of Solomon
+    - title: The Motherhood Pattern
+    - title: The Law Pattern of Moses
+    - title: The Journey Pattern
+    - title: Emotional Prophecies of the Psalms
+    - title: Job and the Ways to Talk to God
+  - title: The End Times
+    image: fas fa-hourglass-half
+    parts:
+    - title: Seven Cycles of Judgment
+    - title: Satan, Bound and Released
+    - title: The Millennial Kingdom
+    - title: The Four Horsemen of the Apocalypse
+    - title: The Fifth Trumpet
+    - title: The Fifth Seal
+    - title: Voice of the Seven Thunders
+  - title: Numerology
+    image: fas fa-list-ol
+    parts:
+    - title: Principles of Biblical Numerology
+    - title: The Genesis Flood
+    - title: 2 is for Jesus
+    - title: 3 is for the Father
+    - title: 7 is for the Holy Spirit
+    - title: 17 is for Victory
+    - title: 40 is for Suffering
+    - title: 42 is for the Journey
+    - title: 153 is for Total Victory
+  - title: Prophetic Clocks
+    image: fas fa-scroll
+    parts:
+    - title: Types of Clock
+    - title: Generation Clocks
+    - title: Celestial Clocks
+    - title: Spiritual Clocks
+    - title: Empire Clocks
+    - title: Commandment Clocks
+    - title: Other Clocks
+  - title: Riddles
+    image: fas fa-question-circle
+    parts:
+    - title: The Righteous Fall Seven Times
+      sub:   "Proverbs 24:16"
+    - title: Twice a Thousand Years
+      sub:   Ecclesisates 6
+    - title: The Seven Pillars of Wisdom
+      sub:   Proverbs 9
+    - title: Why 153 Fish? John 21
+    - title: Riddles of War
+      sub:   Proverbs 30
+    - title: Building a House
+      sub:   Ecclesiastes 10
+    - title: Hannah's Song
+    - title: Satan's Taunt
+      sub:   Psalm 91
+    - title: Parable of the Workers in the Vineyard
+    - title: The Parable of the Wedding Feast
+    - title: The Childbearing
+      sub:   1 Timothy 2
+  - title: Chronology
+    image: fas fa-calendar-alt
+    parts:
+    - title: Antediluvian Chronology
+    - title: Sojourn of Israel
+    - title: Judges
+
+

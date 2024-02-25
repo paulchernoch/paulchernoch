@@ -1,0 +1,123 @@
+@import "colors.css"; 
+
+/*
+   Styling for the main article section.
+
+   Some common elements are:
+
+     - title
+     - summary / synopsis box
+     - body text
+     - quoted block
+     - poetry block
+
+*/
+
+.article {
+  display: block;
+  position:relative;
+  width: 100%;
+
+  font-family : Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  font-size   : 16px;
+  font-style: normal;
+  color: var(--dark-cerulean);
+  background: var(--wispy-blue);
+}
+
+.article h1 {
+  font-family: Optima, Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  font-size   : 48px;
+  font-style: normal;
+  text-align: center;
+}
+
+.article h2 {
+  font-family: Optima, Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  font-size   : 24px;
+  font-style: normal;
+  text-align: left;
+  text-indent : 0.25em;
+}
+
+.article p {
+  font-family: Optima, Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  font-size   : 16px;
+  font-style: normal;
+  text-align: left;
+  text-indent : 0.25em;
+}
+
+.date {
+  font-family: Optima, Helvetica, Arial, sans-serif;
+  font-weight:bold;
+  font-size   : 14px;
+  text-align: right;
+  color: var(--light-blue-grey)
+}
+
+/* 
+   Poetry
+
+   Use h4, h5, and h6 heading styles for indented, double-indented and triple-indented lines
+   of poetry, respectively.
+
+   The poetry lines must be inside a div with class="article".
+*/
+.article h4 {
+  font-family : Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  font-size   : 14px;
+  font-style: italic;
+  text-indent : 2.5em;
+  margin-bottom: -4px;
+  margin-block-start: 1.5em;
+  margin-block-end: 1.5em;
+  line-height: 1pt;
+}
+.article h5 {
+  font-family : Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  font-size   : 14px;
+  font-style: italic;
+  text-indent : 4em;
+  margin-bottom: -12px;
+  margin-block-start: 1.5em;
+  margin-block-end: 1.5em;
+  line-height: 3pt;
+}
+.article h6 {
+  font-family : Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  font-size   : 14px;
+  font-style: italic;
+  text-indent : 5.5em;
+  margin-bottom: -4px;
+  margin-block-start: 1.5em;
+  margin-block-end: 1.5em;
+  line-height: 1pt;
+}
+
+/*
+  Synopsis box
+*/
+
+.synopsis { 
+  display: block;
+  position:relative;
+
+  border: 2px solid var(--chiffon); 
+  width: 94%; 
+  left: 3%;
+  box-sizing: border-box; 
+  padding: 1rem; 
+  color: var(--coral-blue);
+  background-color: var(--dark-cerulean);
+
+  font-size   : 18px;
+  text-align: left; 
+} 

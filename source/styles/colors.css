@@ -1,0 +1,46 @@
+/*
+Theme colors for website
+*/
+
+:root{
+  --wispy-blue        : #e8f5f7;
+  --pale-sky-blue     : #d2f0f7;
+  --coral-blue        : #a2deed;
+  --flat-blue         : #3178b2;
+  --dark-cerulean     : #154085; 
+
+  --index-blue        : #4280b5;
+
+  --book-blue         : #0b528d;
+
+  --wedgewood         : #5080b1;
+  --lighter-wedgewood : #5889b7;
+  --shadow-wedgewood  : #46791f;
+
+  --grey-teal         : #60978f;
+  --dark-grey-blue    : #1d4a55;
+  --sea-mist          : #bfdddf;
+  --moss              : #6c9159;
+  --tree-green        : #696;
+
+  --chiffon           : #fffebc;
+  --shadow-chiffon    : #f7f9ba;
+
+  --metallic-silver   : #bdc7cb;
+
+  --light-blue-grey         : #81a4c7;
+
+  /* Expandable Tree */
+  --width      : 36;
+  --rounding   : 4px;
+
+  --dark-grey  : #ddd;
+  --grey       : #eee;
+  --light-grey : #f8f8f8;
+
+  --tree-background: var(--coral-blue);
+  --accent     : var(--flat-blue);
+  --tree-line  : var(--pale-sky-blue);
+  --tree-leaf  : var(--coral-blue);
+
+}
