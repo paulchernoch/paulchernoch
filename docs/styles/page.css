@@ -1,0 +1,84 @@
+/* Header, Footer and General Page styling */
+
+    
+    .header-colors {
+      color: var(--sea-mist);
+      background:  var(--book-blue);
+    }
+    
+    .header {
+      display: flex;
+      height: 250px;
+      width: 100%;
+      margin-top: 10px;
+      justify-content: left;
+    }
+
+    .site-title {
+      font-family              : Helvetica, Arial, sans-serif;
+      font-weight              : 800;
+      font-size                : 56px;
+    }
+
+
+    .footer {
+      display: flex;
+      height: 100px;
+      width: 100%;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      justify-content: center;
+    }
+    
+    h3.text {
+      text-align: center;
+    }
+    .container {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around; 
+      flex-wrap: wrap;
+      height: 1770px;
+      background: #353535;
+    }
+
+    .body {
+      display: flex;
+      position: relative;
+      height: 1750px;
+      flex-grow: 1;
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+
+    /*
+      Tooltips
+    */
+    .tooltip {
+      position: relative;
+      display: inline-block;
+      border-bottom: 1px dotted black;
+      z-index: 10;
+    }
+
+    .tooltip .tooltiptext {
+      visibility: hidden;
+      width: 80px;
+      background-color: var(--dark-cerulean);
+      color: #fff;
+      text-align: center;
+      border-radius: 6px;
+      padding: 5px 0;
+      
+      /* Position the tooltip */
+      position: absolute;
+      z-index: 10;
+      top: -5px;
+      left: 105%;
+
+      font-size: 16px;
+    }
+
+    .tooltip:hover .tooltiptext {
+      visibility: visible;
+    }

@@ -4,7 +4,7 @@
 #    styles:   path to source directory containing css style files (and svg files used in styles).
 #    articles: path to source directory where source markdown files are located.
 #    sitemap:  path to sitemap.yaml file that structures the articles into a hierarchy.
-build: ../build
+build: ../docs
 images: images
 styles: styles
 articles: articles
