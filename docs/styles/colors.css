@@ -43,4 +43,17 @@ Theme colors for website
   --tree-line  : var(--pale-sky-blue);
   --tree-leaf  : var(--coral-blue);
 
+
+  /* Size of body and toc, which changes when TOC is shown or hidden  */
+  --standard-width    : 95vw;
+
+  --toc-left-margin   : 5px;
+  --toc-open-width    : 450px;
+  --toc-closed-width  : 45px;
+
+  --body-left-margin  : 0px;
+  --body-narrow-width : calc(var(--standard-width) - var(--body-left-margin) - var(--toc-left-margin) - var(--toc-open-width));
+  --body-wide-width   : calc(var(--standard-width) - var(--body-left-margin) - var(--toc-left-margin) - var(--toc-closed-width));
+
+
 }

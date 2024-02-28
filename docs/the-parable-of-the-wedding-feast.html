@@ -24,16 +24,19 @@
       const sidebar = document.getElementById("leftsidebar");
       const open_button = document.getElementById("leftsidebaropen");
       const close_button = document.getElementById("leftsidebarclose");
+      const body = document.getElementById("articlebody")
      
       if (open) {
         replace_class(sidebar, "leftsidebar-closed", "leftsidebar-open")
         replace_class(open_button, "show-toggle", "hide-toggle")
         replace_class(close_button, "hide-toggle", "show-toggle")
+        replace_class(body, "body-wide", "body-narrow")
       }
       else {
         replace_class(sidebar, "leftsidebar-open", "leftsidebar-closed")
         replace_class(open_button, "hide-toggle", "show-toggle")
         replace_class(close_button, "show-toggle", "hide-toggle")
+        replace_class(body, "body-narrow", "body-wide")
       }
    }
 
@@ -67,26 +70,26 @@
   <div class="container">
     <div id="leftsidebar" class="leftsidebar-open left-side-colors" tabindex="0">
         <ul class="tree-padding tree-vertical-lines tree-horizontal-lines tree-summaries tree-markers tree-buttons">
-                      <li>
+          <li>
             <details open="">
-              <summary><li><i class="fa-solid fa-house-chimney"></i> <a href="home.html">Home</a></li></summary>
+              <summary><i class="fa-solid fa-house-chimney"></i> <a href="home.html">Home</a></summary>
                 <ul>
                   <li><i class="fas fa-address-card"></i> <a href="about-this-site.html">About this Site</a></li>
-                  <li><i class="fas fa-feather-al"></i> <a href="author.html">Author</a></li>
+                  <li><i class="fas fa-feather-alt"></i> <a href="author.html">Author</a></li>
                   <li>
                     <details>
-                      <summary><li><i class="fas fa-book"></i> <a href="books.html">Books</a></li></summary>
+                      <summary><i class="fas fa-book"></i> <a href="books.html">Books</a></summary>
                         <ul>
                           <li> <a href="the-endless-hunt.html">The Endless Hunt</a></li>
                           <li> <a href="job-rises.html">Job Rises</a></li>
                           <li> <a href="peace-book.html">Peace, Like Solomon Never Knew</a></li>
                           <li> <a href="plague-precept-prophet-peace.html">Plague, Precept, Prophet, Peace</a></li>
                         </ul>
-                      </details>
-                    </li>
+                    </details>
+                  </li>
                   <li>
                     <details>
-                      <summary><li><i class="fas fa-synagogue"></i> <a href="lady-wisdom-s-house.html">Lady Wisdom's House</a></li></summary>
+                      <summary><i class="fas fa-synagogue"></i> <a href="lady-wisdom-s-house.html">Lady Wisdom's House</a></summary>
                         <ul>
                           <li> <a href="lady-wisdom.html">Lady Wisdom</a></li>
                           <li> <a href="hannah-s-song.html">Hannah's Song</a></li>
@@ -95,7 +98,7 @@
                           <li> <a href="lanterns-seven-spirits-of-god.html">Lanterns: Seven Spirits of God</a></li>
                           <li>
                             <details>
-                              <summary><li> <a href="seven-pillars-of-wisdom.html">Seven Pillars of Wisdom</a></li></summary>
+                              <summary> <a href="seven-pillars-of-wisdom.html">Seven Pillars of Wisdom</a></summary>
                                 <ul>
                                   <li> <a href="psalms.html">Psalms</a></li>
                                   <li> <a href="job.html">Job</a></li>
@@ -105,15 +108,15 @@
                                   <li> <a href="matthew.html">Matthew</a></li>
                                   <li> <a href="revelation.html">Revelation</a></li>
                                 </ul>
-                              </details>
-                            </li>
+                            </details>
+                          </li>
                           <li> <a href="roof-paul-s-gospel-of-peace.html">Roof: Paul's Gospel of Peace</a></li>
                         </ul>
-                      </details>
-                    </li>
+                    </details>
+                  </li>
                   <li>
                     <details>
-                      <summary><li><i class="fas fa-seedling"></i> <a href="spiritual-growth.html">Spiritual Growth</a></li></summary>
+                      <summary><i class="fas fa-seedling"></i> <a href="spiritual-growth.html">Spiritual Growth</a></summary>
                         <ul>
                           <li> <a href="most-important-questions.html">What are life's Most Important Questions?</a></li>
                           <li> <a href="heavenly-treasures.html">What are the Heavenly Treasures?</a></li>
@@ -125,11 +128,11 @@
                           <li> <a href="emotional-prophecies-of-the-psalms.html">Emotional Prophecies of the Psalms</a></li>
                           <li> <a href="job-and-the-ways-to-talk-to-god.html">Job and the Ways to Talk to God</a></li>
                         </ul>
-                      </details>
-                    </li>
+                    </details>
+                  </li>
                   <li>
                     <details>
-                      <summary><li><i class="fas fa-hourglass-half"></i> <a href="the-end-times.html">The End Times</a></li></summary>
+                      <summary><i class="fas fa-hourglass-half"></i> <a href="the-end-times.html">The End Times</a></summary>
                         <ul>
                           <li> <a href="seven-cycles-of-judgment.html">Seven Cycles of Judgment</a></li>
                           <li> <a href="satan-bound-and-released.html">Satan, Bound and Released</a></li>
@@ -139,11 +142,11 @@
                           <li> <a href="the-fifth-seal.html">The Fifth Seal</a></li>
                           <li> <a href="voice-of-the-seven-thunders.html">Voice of the Seven Thunders</a></li>
                         </ul>
-                      </details>
-                    </li>
+                    </details>
+                  </li>
                   <li>
                     <details>
-                      <summary><li><i class="fas fa-list-ol"></i> <a href="numerology.html">Numerology</a></li></summary>
+                      <summary><i class="fas fa-list-ol"></i> <a href="numerology.html">Numerology</a></summary>
                         <ul>
                           <li> <a href="principles-of-biblical-numerology.html">Principles of Biblical Numerology</a></li>
                           <li> <a href="the-genesis-flood.html">The Genesis Flood</a></li>
@@ -155,11 +158,11 @@
                           <li> <a href="42-is-for-the-journey.html">42 is for the Journey</a></li>
                           <li> <a href="153-is-for-total-victory.html">153 is for Total Victory</a></li>
                         </ul>
-                      </details>
-                    </li>
+                    </details>
+                  </li>
                   <li>
                     <details>
-                      <summary><li><i class="fas fa-scroll"></i> <a href="prophetic-clocks.html">Prophetic Clocks</a></li></summary>
+                      <summary><i class="fas fa-scroll"></i> <a href="prophetic-clocks.html">Prophetic Clocks</a></summary>
                         <ul>
                           <li> <a href="types-of-clock.html">Types of Clock</a></li>
                           <li> <a href="generation-clocks.html">Generation Clocks</a></li>
@@ -169,11 +172,11 @@
                           <li> <a href="commandment-clocks.html">Commandment Clocks</a></li>
                           <li> <a href="other-clocks.html">Other Clocks</a></li>
                         </ul>
-                      </details>
-                    </li>
+                    </details>
+                  </li>
                   <li>
                     <details open="">
-                      <summary><li><i class="fas fa-question-circle"></i> <a href="riddles.html">Riddles</a></li></summary>
+                      <summary><i class="fas fa-question-circle"></i> <a href="riddles.html">Riddles</a></summary>
                         <ul>
                           <li> <a href="the-righteous-fall-seven-times.html">The Righteous Fall Seven Times</a></li>
                           <li> <a href="twice-a-thousand-years.html">Twice a Thousand Years</a></li>
@@ -187,38 +190,39 @@
                           <li> <a href="the-parable-of-the-wedding-feast.html">The Parable of the Wedding Feast</a></li>
                           <li> <a href="the-childbearing.html">The Childbearing</a></li>
                         </ul>
-                      </details>
-                    </li>
+                    </details>
+                  </li>
                   <li>
                     <details>
-                      <summary><li><i class="fas fa-calendar-alt"></i> <a href="chronology.html">Chronology</a></li></summary>
+                      <summary><i class="fas fa-calendar-alt"></i> <a href="chronology.html">Chronology</a></summary>
                         <ul>
                           <li> <a href="antediluvian-chronology.html">Antediluvian Chronology</a></li>
                           <li> <a href="sojourn-of-israel.html">Sojourn of Israel</a></li>
                           <li> <a href="judges.html">Judges</a></li>
                         </ul>
-                      </details>
-                    </li>
+                    </details>
+                  </li>
                 </ul>
-              </details>
-            </li>
+            </details>
+          </li>
 
         </ul>
-  </div>
-  <!-- Article Text -->
-  <div class="body" tabindex="3">
-    <div class="article">
-      <h1>The Parable of the Wedding Feast</h1>
-      
-      
-      
-      <p>This article is under construction.</p>
     </div>
+    <!-- Article Text -->
+    <div id="articlebody" class="body-narrow" tabindex="3">
+      <div class="article">
+        <h1>The Parable of the Wedding Feast</h1>
+        
+        
+        
+        <p>This article is under construction.</p>
+      </div>
 
-  </div>
-  <!-- Page Footer -->
-  <div class="footer faint">
-    
+    </div>
+    <!-- Page Footer -->
+    <div class="footer faint">
+      
+    </div>
   </div>
 </body>
 </html>

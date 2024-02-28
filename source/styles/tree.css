@@ -57,7 +57,7 @@ main{
 
 #leftsidebar h1,
 #leftsidebar p,
-#leftsidebar ul,
+/* #leftsidebar ul, This line breaks TOC line placement */
 main > div{
   max-width  : calc(1rem * var(--width));
   margin     : 0 auto;
@@ -74,6 +74,9 @@ main > div{
   font-size : 2rem;
 }
 
+/*
+These two rules broke the TOC line placement! Leave out.
+
 #leftsidebar ul{
   padding : 1rem 2rem 0 3rem;
 }
@@ -81,6 +84,7 @@ main > div{
 #leftsidebar ul ul{
   padding : 0 0 0 1rem;
 }
+*/
 
 
 #leftsidebar abbr{

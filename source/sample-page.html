@@ -23,16 +23,19 @@
       const sidebar = document.getElementById("leftsidebar");
       const open_button = document.getElementById("leftsidebaropen");
       const close_button = document.getElementById("leftsidebarclose");
+      const body = document.getElementById("articlebody")
      
       if (open) {
         replace_class(sidebar, "leftsidebar-closed", "leftsidebar-open")
         replace_class(open_button, "show-toggle", "hide-toggle")
         replace_class(close_button, "hide-toggle", "show-toggle")
+        replace_class(body, "body-wide", "body-narrow")
       }
       else {
         replace_class(sidebar, "leftsidebar-open", "leftsidebar-closed")
         replace_class(open_button, "hide-toggle", "show-toggle")
         replace_class(close_button, "show-toggle", "hide-toggle")
+        replace_class(body, "body-narrow", "body-wide")
       }
    }
 
@@ -56,24 +59,22 @@
       </a>
     </div>
   </div>
-<!-- -->
+  <!-- Page Header -->
   <div class="header header-colors">
-    <img src="images/wisdom-house.png"/>
-
+    <a href="index.html">
+      <img src="images/wisdom-house.png" width="676" height="250"/>
+    </a>
   </div>
+  <!-- Left Sidebar TOC -->
   <div class="container">
-
     <div id="leftsidebar" class="leftsidebar-open left-side-colors" tabindex="0">
-
         <ul class="tree-padding tree-vertical-lines tree-horizontal-lines tree-summaries tree-markers tree-buttons">
           <li>
             <details open="">
               <summary><i class="fa-solid fa-house-chimney"></i> Home</summary>
               <ul>
                 <li><i class="fas fa-address-card"></i> About this Site</li>
-
                 <li><i class="fas fa-feather-alt"></i> Author</li>
-                
                 <li>
                   <details>
                     <summary><i class="fas fa-book"></i> Books</summary>
@@ -149,54 +150,62 @@
                 <li>
                   <details>
                     <summary><i class="fas fa-list-ol"></i> Numerology</summary>
-                    <li>Principles of Biblical Numerology</li>
-                    <li>The Genesis Flood</li>
-                    <li>2 is for Jesus</li>
-                    <li>3 is for the Father</li>
-                    <li>7 is for the Holy Spirit</li>
-                    <li>17 is for Victory</li>
-                    <li>40 is for Suffering</li>
-                    <li>42 is for the Journey</li>
-                    <li>153 is for Total Victory</li>
+                    <ul>
+                      <li>Principles of Biblical Numerology</li>
+                      <li>The Genesis Flood</li>
+                      <li>2 is for Jesus</li>
+                      <li>3 is for the Father</li>
+                      <li>7 is for the Holy Spirit</li>
+                      <li>17 is for Victory</li>
+                      <li>40 is for Suffering</li>
+                      <li>42 is for the Journey</li>
+                      <li>153 is for Total Victory</li>
+                    </ul>
                   </details>
                 </li>
 
                 <li>
                   <details>
                     <summary><i class="fas fa-scroll"></i> Prophetic Clocks</summary>
-                    <li>Types of Clock</li>
-                    <li>Generation Clocks</li>
-                    <li>Celestial Clocks</li>
-                    <li>Spiritual Clocks</li>
-                    <li>Empire Clocks</li>
-                    <li>Commandment Clocks</li>
-                    <li>Other Clocks</li>
+                    <ul>
+                      <li>Types of Clock</li>
+                      <li>Generation Clocks</li>
+                      <li>Celestial Clocks</li>
+                      <li>Spiritual Clocks</li>
+                      <li>Empire Clocks</li>
+                      <li>Commandment Clocks</li>
+                      <li>Other Clocks</li>
+                    </ul>
                   </details>
                 </li>
 
                 <li>
                   <details>
                     <summary><i class="fas fa-question-circle"></i> Riddles</summary>
-                    <li>The Righteous Fall Seven Times: Proverbs 24:16</li>
-                    <li>Twice a Thousand Years: Ecclesisates 6</li>
-                    <li>The Seven Pillars of Wisdom: Proverbs 9</li>
-                    <li>Why 153 Fish? John 21</li>
-                    <li>Riddles of War: Proverbs 30</li>
-                    <li>Building a House: Ecclesiastes 10</li>
-                    <li>Hannah's Song</li>
-                    <li>Satan's Taunt: Psalm 91</li>
-                    <li>Parable of the Workers in the Vineyard</li>
-                    <li>The Parable of the Wedding Feast</li>
-                    <li>The Childbearing: 1 Timothy 2</li>
+                    <ul>
+                      <li>The Righteous Fall Seven Times: Proverbs 24:16</li>
+                      <li>Twice a Thousand Years: Ecclesisates 6</li>
+                      <li>The Seven Pillars of Wisdom: Proverbs 9</li>
+                      <li>Why 153 Fish? John 21</li>
+                      <li>Riddles of War: Proverbs 30</li>
+                      <li>Building a House: Ecclesiastes 10</li>
+                      <li>Hannah's Song</li>
+                      <li>Satan's Taunt: Psalm 91</li>
+                      <li>Parable of the Workers in the Vineyard</li>
+                      <li>The Parable of the Wedding Feast</li>
+                      <li>The Childbearing: 1 Timothy 2</li>
+                    </ul>
                   </details>
                 </li>
 
                 <li>
                   <details>
                     <summary><i class="fas fa-calendar-alt"></i> Chronology</summary>
-                    <li>Antediluvian Chronology</li>
-                    <li>Sojourn of Israel</li>
-                    <li>Judges</li>
+                    <ul>
+                      <li>Antediluvian Chronology</li>
+                      <li>Sojourn of Israel</li>
+                      <li>Judges</li>
+                    </ul>
                   </details>
                 </li>
 
@@ -205,39 +214,41 @@
           </li>
         </ul>
 
-  </div>
-  <div class="body" tabindex="3">
-    <div class="article">
-      <h1>The Title of the Article!</h1>
-      <div class="synopsis"> 
-            Shakespeare wrote a lot of sonnets.
+    </div>
+    <!-- Article Text -->
+    <div id="articlebody" class="body-narrow" tabindex="3">
+      <div class="article">
+        <h1>The Title of the Article!</h1>
+        <div class="synopsis"> 
+              Shakespeare wrote a lot of sonnets.
+        </div>
+
+        <p>Here is a paragraph.</p>
+
+        <h2>Sonnet 28</h2>
+
+        <h4>Shall I compare thee to a summer's day?</h4>
+        <h5>Thou art more lovely and more temperate.</h5>
+        <h4>Rough winds do shake the darling buds of May,</h4>
+        <h5>And summer's lease hath all too short a date.</h5>
+        <h4>Sometime too hot the eye of heaven shines,</h4>
+        <h5>And often is his gold complexion dimmed;</h5>
+        <h6>And every fair from fair sometime declines,</h6>
+        <h4>By chance, or nature's changing course, untrimmed;</h4>
+        <h5>But thy eternal summer shall not fade,</h5>
+        <h6>Nor lose possession of that fair thou ow'st,</h6>
+        <h4>Nor shall death brag thou wand'rest in his shade,</h4>
+        <h5>When in eternal lines to Time thou grow'st.</h5>
+        <h6>So long as men can breathe, or eyes can see,</h6>
+        <h6>So long lives this, and this gives life to thee.</h6>
+
+        <p>This is where I say impressive things...</p>
       </div>
 
-      <p>Here is a paragraph.</p>
-
-      <h2>Sonnet 28</h2>
-
-      <h4>Shall I compare thee to a summer's day?</h4>
-      <h5>Thou art more lovely and more temperate.</h5>
-      <h4>Rough winds do shake the darling buds of May,</h4>
-      <h5>And summer's lease hath all too short a date.</h5>
-      <h4>Sometime too hot the eye of heaven shines,</h4>
-      <h5>And often is his gold complexion dimmed;</h5>
-      <h6>And every fair from fair sometime declines,</h6>
-      <h4>By chance, or nature's changing course, untrimmed;</h4>
-      <h5>But thy eternal summer shall not fade,</h5>
-      <h6>Nor lose possession of that fair thou ow'st,</h6>
-      <h4>Nor shall death brag thou wand'rest in his shade,</h4>
-      <h5>When in eternal lines to Time thou grow'st.</h5>
-      <h6>So long as men can breathe, or eyes can see,</h6>
-      <h6>So long lives this, and this gives life to thee.</h6>
-
-      <p>This is where I say impressive things...</p>
     </div>
-
-  </div>
-  <div class="footer faint">
-    <h3 class="text">Footer text here</h3>
+    <div class="footer faint">
+      <h3 class="text">Footer text here</h3>
+    </div>
   </div>
 </body>
 </html>

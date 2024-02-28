@@ -24,16 +24,19 @@
       const sidebar = document.getElementById("leftsidebar");
       const open_button = document.getElementById("leftsidebaropen");
       const close_button = document.getElementById("leftsidebarclose");
+      const body = document.getElementById("articlebody")
      
       if (open) {
         replace_class(sidebar, "leftsidebar-closed", "leftsidebar-open")
         replace_class(open_button, "show-toggle", "hide-toggle")
         replace_class(close_button, "hide-toggle", "show-toggle")
+        replace_class(body, "body-wide", "body-narrow")
       }
       else {
         replace_class(sidebar, "leftsidebar-open", "leftsidebar-closed")
         replace_class(open_button, "hide-toggle", "show-toggle")
         replace_class(close_button, "show-toggle", "hide-toggle")
+        replace_class(body, "body-narrow", "body-wide")
       }
    }
 
@@ -67,23 +70,24 @@
   <div class="container">
     <div id="leftsidebar" class="leftsidebar-open left-side-colors" tabindex="0">
         <ul class="tree-padding tree-vertical-lines tree-horizontal-lines tree-summaries tree-markers tree-buttons">
-            $TOC$
+$TOC$
         </ul>
-  </div>
-  <!-- Article Text -->
-  <div class="body" tabindex="3">
-    <div class="article">
-      <h1>$ARTICLE_TITLE$</h1>
-      <h2>$ARTICLE_SUBTITLE$</h2>
-      <p class="date">$ARTICLE_DATE$</p>
-      <div class="synopsis">$ARTICLE_SYNOPSIS$</div>
-      $ARTICLE_BODY$
     </div>
+    <!-- Article Text -->
+    <div id="articlebody" class="body-narrow" tabindex="3">
+      <div class="article">
+        <h1>$ARTICLE_TITLE$</h1>
+        <h2>$ARTICLE_SUBTITLE$</h2>
+        <p class="date">$ARTICLE_DATE$</p>
+        <div class="synopsis">$ARTICLE_SYNOPSIS$</div>
+        $ARTICLE_BODY$
+      </div>
 
-  </div>
-  <!-- Page Footer -->
-  <div class="footer faint">
-    <p>$FOOTER$</p>
+    </div>
+    <!-- Page Footer -->
+    <div class="footer faint">
+      <p>$FOOTER$</p>
+    </div>
   </div>
 </body>
 </html>

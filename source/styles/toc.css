@@ -7,8 +7,8 @@
 
 .leftsidebar-closed {
   height: 1750px;
-  width:45px;
-  margin-left: 5px;
+  width: var(--toc-closed-width);
+  margin-left: var(--toc-left-margin);
   margin-top: 10px;
   margin-bottom: 10px;
   overflow-y: scroll;
@@ -23,8 +23,8 @@
 
 .leftsidebar-open {
   height: 1750px;
-  width: 450px;
-  margin-left: 5px;
+  width: var(--toc-open-width);
+  margin-left: var(--toc-left-margin);
   margin-top: 10px;
   margin-bottom: 10px;
   overflow-y: scroll;
@@ -35,13 +35,15 @@
   display: flex;
   flex-wrap: wrap;
   position: relative;
+
+  font-size: 14px;
 }
 
 #toggle {
   display: block;
   position: fixed;
   top: 360px;
-  left: 20px;
+  left: 15px;
   width:80px;
   height:40px;
   z-index: 1;
@@ -58,10 +60,11 @@ and the close button (shown when TOC is open).
   position: fixed;
   top: 360px;
   left: 20px;
-  color: var(--dark-cerulean);
+  color: red;
 }
 
 .hide-toggle {
   display: none;
   position: fixed;
+  color: red;
 }

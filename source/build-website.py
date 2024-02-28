@@ -318,12 +318,21 @@ def build_toc(sitemap: dict, title: str, do_select: bool = True) -> str:
 
 def toc_link(page_record) -> str:
     title_with_link = f'<a href="{page_record["link"]}">{page_record["title"]}</a>'
-    if page_record['image'] is not None:
-      # Has an icon from FontAwesome
-      link = f'<li><i class="{page_record["image"]}"></i> {title_with_link}</li>'
+    if len(page_record['parts']) == 0:
+      if page_record['image'] is not None:
+        # Has an icon from FontAwesome
+        link = f'<li><i class="{page_record["image"]}"></i> {title_with_link}</li>'
+      else:
+        # No icon before title
+        link = f'<li> {title_with_link}</li>'
+
     else:
-      # No icon before title
-      link = f'<li> {title_with_link}</li>'
+      if page_record['image'] is not None:
+        # Has an icon from FontAwesome
+        link = f'<i class="{page_record["image"]}"></i> {title_with_link}'
+      else:
+        # No icon before title
+        link = f' {title_with_link}'
     return link
 
 def build_toc_helper(page_record: dict, indent: int) -> str:
@@ -339,7 +348,7 @@ def build_toc_helper(page_record: dict, indent: int) -> str:
     else:
       open = ''
     toc_parent_before = f'{spaces}<li>\n{spaces}  <details{open}>\n{spaces}    <summary>{link}</summary>\n{spaces}      <ul>\n'
-    toc_parent_after = f'{spaces}      </ul>\n{spaces}    </details>\n{spaces}  </li>\n'
+    toc_parent_after  = f'{spaces}      </ul>\n{spaces}  </details>\n{spaces}</li>\n'
     toc_children = ''
     # The indent must exceed the details, summary and ul indentations, so be enlarged more than six. 
     indent += 8

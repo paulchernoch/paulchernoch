@@ -18,6 +18,16 @@
 #   - dates:   List of publication dates in the format "yyyy-mm-dd" (with no quotes).
 #   - parts:   Lists subsections or articles belonging to the section (optional).
 #              If parts is present, it is a section, otherwise an article.
+#   - footer:  Page footer text.
+#
+# While building the site, additional volatile properties will be added to the page record, so do not set these:
+#   - link:      The href file reference for the toc hyperlinks pointing to the given file.
+#   - open:      True if toc entry should start out in the expanded state, false if collapsed.
+#   - created:   First date from dates
+#   - updated:   Last date from dates
+#   - target:    Path to write html page, derived from config build dir and named or title props.
+#   - words:     Text loaded from markdown file and converted to html.
+#        
 #
 # Every article or category will have a corresponding markdown file.
 # The article or category section of the page will be assembled
@@ -78,7 +88,7 @@
   - title: About this Site
     image: fas fa-address-card
   - title: Author
-    image: fas fa-feather-al
+    image: fas fa-feather-alt
   - title: Books
     image: fas fa-book
     parts:
