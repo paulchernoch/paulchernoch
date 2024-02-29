@@ -56,8 +56,12 @@ Command line for script:
     check: Validate the config.yaml and sitemap.yaml files and 
            list all source markdown files that are missing.
     clean: Delete the previous contents of the build directory.
-    build: Delete the previous contents of the build directory, then read the source files 
-           and generate the new website under the build directory. 
+           This prompts the user before deleting the build directory.
+    build: Delete the previous contents of the build directory, 
+           then read the source files and generate the new website
+           under the build directory. 
+           This prompts the user before deleting the build directory.
+    force: Cleans and builds without asking the user.
 
   If no config filename is given, assume config.yaml.
 
@@ -264,7 +268,7 @@ def check_action():
 # The indicator is True if the build directory is removed successfully
 # OR if there is nothing to remove.
 # If there is an error in the configuration, False is returned.
-def clear_action() -> tuple[dict,dict,bool]:
+def clear_action(askBeforeDeleting: bool = True) -> tuple[dict,dict,bool]:
   config, sitemap, valid = load_config()
   if not valid:
     print("Error: No directories or files removed because of configuration error(s).")
@@ -275,8 +279,11 @@ def clear_action() -> tuple[dict,dict,bool]:
     print(f"Warning: Build directory {dir_to_remove} does not exist, nothing to remove.")
     return config, sitemap, True
   else:
-    answer = input(f"Remove Build directory {dir_to_remove}? (y/n) ")
-    if answer in ['y', 'Y', 'yes', 'Yes', 'YES']:
+    if askBeforeDeleting:
+      answer = input(f"Remove Build directory {dir_to_remove}? (y/n) ")
+    else:
+      answer = 'y'
+    if answer in ['y', 'Y', 'yes', 'Yes', 'YES', 'T', 'True']:
       shutil.rmtree(dir_to_remove) 
       if isdir(dir_to_remove):
         print(f"Warning: Build directory {dir_to_remove} could not be removed.")
@@ -489,11 +496,20 @@ if __name__ == '__main__':
 
   elif action in ['clean', 'clear']:
     # Validate configuration and sitemap and remove old build if present; do not create new build.
-    clear_action()
+    # Prompt user before deleting files.
+    clear_action(True)
 
   elif action == 'build':
     # Validate configuration and sitemap and remove old build if present, then create new build.
-    config, sitemap, is_clear = clear_action()
+    # Prompt user before deleting files.
+    config, sitemap, is_clear = clear_action(True)
+    if is_clear:
+      build_action(config, sitemap)
+
+  elif action == 'force':
+    # Validate configuration and sitemap and remove old build if present, then create new build.
+    # Do not prompt user before deleting files.
+    config, sitemap, is_clear = clear_action(False)
     if is_clear:
       build_action(config, sitemap)
     
