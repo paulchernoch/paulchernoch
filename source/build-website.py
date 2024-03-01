@@ -227,7 +227,7 @@ def load_articles(config: dict, sitemap: dict, found = {}, missing: list[str] = 
     sitemap['words'] = load_and_convert_article(source_path)
 
   for part in sitemap['parts']:
-    load_articles(config, part, missing)
+    load_articles(config, part, found, missing)
   return found, missing
 
 # Load an article from a file that is in markdown format and convert it to HTML.
