@@ -54,7 +54,7 @@ The key insights are captured by three interlocking patterns:
 2. A **Harvest pattern**, defined by Jesus in Matthew. The *Lord of the Harvest* explained how to reap a spiritual harvest to help us attain spiritual maturity and overcome challenges like depression, anxiety, the fear of death and a life without purpose. 
 3. A **Law pattern**, defined by Moses in Exodus. The Lawgiver supplies the matrix into which the Growth and Harvest patterns fit. God's Law supplies transcendent purpose and direction to humanity, a truth that for many years was NOT obvious to this author.
 
-The unique contribution of this author is that all seven wisdom books (Psalms, Job, Proverbs, Sng of Songs, Ecclesiastes, Matthew and Revelation) conform to both the Growth and Harvest Patterns. Once you see and comprehend this surprising structural connection you will be able to draw out many wonderful insights.
+The unique contribution of this author is that all seven wisdom books (Psalms, Job, Proverbs, Song of Songs, Ecclesiastes, Matthew and Revelation) conform to both the Growth and Harvest Patterns. Once you see and comprehend this surprising structural connection you will be able to draw out many wonderful insights.
 
 ## Seeing the End from the Beginning
 

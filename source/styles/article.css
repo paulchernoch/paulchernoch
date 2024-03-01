@@ -13,6 +13,10 @@
 
 */
 
+#articlebody {
+  overflow-y: scroll;
+}
+
 .article {
   display: block;
   position:relative;
