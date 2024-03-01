@@ -51,7 +51,10 @@ Second, there are people of weak faith who because they are enduring great hards
 
 Third, there are people moved by the Spirit to pray. A wise Christian once told me that when God wants something done, he calls his people to pray. This is also true when God, out of the abundance of his mercy and grace, desires to give you a gift. God can give you a gift without notice, without warning and without prayer, but it is so helpful to your soul and the vibrancy of your prayer life when you pray for a blessing and God grants it. Do we know what we need? Do we believe in the abundant generosity of God? Have we the audacity and wisdom and creativity to ask for the marvelous blessings available to the faitfhul? Many times we do not!
 
-#### Now to him who is able to do immeasurably more than all we ask or imagine, according to his power that is at work within us, to him be glory in the church and in Christ Jesus throughout all generations, for ever and ever! Amen. - Ephesians 3:20-21 (NIV)
+#### Now to him who is able to do immeasurably more than all we ask or imagine, 
+##### according to his power that is at work within us, 
+#### to him be glory in the church and in Christ Jesus throughout all generations, 
+##### for ever and ever! Amen. - Ephesians 3:20-21 (NIV)
 
 It is when God has a gift reserved for us that is beyond our wildest expectations that He causes even the lazy, unfocused, weak and fearful among us to pray with expectant passion for extended periods of time. I have found myself in their number on many occasions. It is because of such prayers that I have made progress in my pursuit of God's wisdom. A few examples should suffice.
 
