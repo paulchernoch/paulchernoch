@@ -41,27 +41,31 @@
 .article h2 {
   font-family: Optima, Helvetica, Arial, sans-serif;
   font-weight: bold;
-  font-size   : 24px;
+  font-size   : 28px;
   font-style: normal;
   text-align: left;
   text-indent : 0.25em;
 }
 
 .article p {
-  font-family: Optima, Helvetica, Arial, sans-serif;
-  font-weight: normal;
-  font-size   : 16px;
-  font-style: normal;
-  text-align: left;
   text-indent : 0.75em;
   margin-top: 0.6em;  
   margin-bottom: 0.6em;
 }
 
+.article p,
+.article li {
+  font-family: Optima, Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  font-size   : 20px;
+  font-style: normal;
+  text-align: left;
+}
+
 .date {
   font-family: Optima, Helvetica, Arial, sans-serif;
   font-weight:bold;
-  font-size   : 14px;
+  font-size   : 16px;
   text-align: right;
   color: var(--light-blue-grey)
 }
