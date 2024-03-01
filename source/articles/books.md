@@ -2,7 +2,7 @@
 title: Books by Paul Anton Chernoch
 
 ---
-I wrote a bunch of books. Here is what they are about and where you can buy them. All are avaiable as e-books. Most are also available in paperback.
+I wrote a bunch of books. Here is what they are about and where you can buy them. All are available as e-books. Most are also available in paperback.
 
 ## A Most Refined Dragon (2015)
 
@@ -27,7 +27,7 @@ Where is the Rainbow Bride? Flying a mission for the Red Cross, Dr. Melissa Long
 
 ## The Endless Hunt: Or if I've found God, why am I still Looking? (2012)
 
-This is Christian nonfiction about my personal search for spiritual treasures. It was inspired by Jesus words in the Sermon on the Mount:
+This is Christian nonfiction about my personal search for spiritual treasures. It was inspired by Jesus' words in the Sermon on the Mount:
 
 #### “Do not lay up for yourselves treasures on earth, 
 ##### where moth and rust destroy 
@@ -83,7 +83,7 @@ This book unearths ancient wisdom that can help you increase your resilience in 
   - Religious persecution?
   - Chronic disease?
   - A life without meaning?
-  - 
+  
 How did that suffering change you? Did it produce these outcomes?
 
   - Increased Resilience?
@@ -94,7 +94,7 @@ How did that suffering change you? Did it produce these outcomes?
   - Long life?
 
 3,700 years ago, there was a man who overcame all these trials and obtained all these benefits. He left a timeless account of his struggle. Down through the centuries, millions of people have found guidance and comfort from his words. That man's name is Job.
-Job Rises explores the ancient Book of Job along with other parts of the Bible in search of principles that can help suffering people overcome their troubles. Job had thirteen beliefs and habits that combined to make him resilient in the face of horrifying loss, extreme need, deep loneliness and relentless persecution. Teasing those keys to reslience out of the sea of despair in which Job was mired requires patience. Understanding God's answers to Job's probing questions requires equal patience.
+*Job Rises* explores the ancient Book of Job along with other parts of the Bible in search of principles that can help suffering people overcome their troubles. Job had thirteen beliefs and habits that combined to make him resilient in the face of horrifying loss, extreme need, deep loneliness and relentless persecution. Teasing those keys to reslience out of the sea of despair in which Job was mired requires patience. Understanding God's answers to Job's probing questions requires equal patience.
 
 The literature is full of contradictory opinions about the meaning of Job. On the larger issues of interpretation, this book comes to conclusions similar to those offered by the late Pastor Ray Stedman in Let God Be God: Life-Changing Truths from the Book of Job. The author attends an American Baptist church, adopts an Evangelical perspective in his arguments and assumes the Bible is inerrant.
 
