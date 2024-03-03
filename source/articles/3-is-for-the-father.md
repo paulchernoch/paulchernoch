@@ -43,7 +43,7 @@ In this passage, the Holy Spirit is numbered as seven. Deriving a number from th
 
 The chapter "Selah: Stop, Entreat, Listen, Apply, Hear" in *Plague, Precept, Prophet, Peace* finds many connections between the Father and Psalm 3. Here are a few:
 
-David's enemies are threefold, which stands abut by his repetition of the word "many":
+David's enemies are threefold, which stands out by his repetition of the word "many":
 
 #### O Lord, how **many** are my foes!
 #####  **Many** are rising against me;
