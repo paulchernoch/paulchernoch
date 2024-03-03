@@ -399,7 +399,10 @@ def apply_template(template: str, sitemap: dict, title: str) -> str:
   page = replace_macro("ARTICLE_TITLE", title, page)
 
   quote = sitemap['quote']
-  page = replace_macro("QUOTE", quote, page)
+  if quote is None:
+    page = remove_macro("QUOTE", page)
+  else:
+    page = replace_macro("QUOTE", quote, page)
 
   subtitle = page_record['sub']
   if subtitle is None:

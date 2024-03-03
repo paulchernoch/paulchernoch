@@ -1,0 +1,426 @@
+
+<!DOCTYPE html>
+<head>
+  <!--from template: default-page.html -->
+  <title>Books</title>
+  <link rel="stylesheet" href="./styles/tree.css" type="text/css">
+  <link rel="stylesheet" href="./styles/toc.css" type="text/css">
+  <link rel="stylesheet" href="./styles/article.css" type="text/css">
+  <!-- Font Awesome supplies the icons used in the TOC -->
+  <script src="https://kit.fontawesome.com/ecadd7b212.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="./styles/page.css" type="text/css">
+
+  <script>
+    /* Search for a css class name in an HTML element and replace it with a second class. */
+    function replace_class(element, from_class, to_class) {
+      element.classList.remove(from_class)
+      element.classList.add(to_class)
+    }
+
+    /* Show or hide the table of contents menu in the left sidebar by changing the style classes.
+       Also show and hide the buttons used to open and close the menu.
+     */
+    function toggleLeftSidebar(open) {
+      const sidebar = document.getElementById("leftsidebar");
+      const open_button = document.getElementById("leftsidebaropen");
+      const close_button = document.getElementById("leftsidebarclose");
+      const body = document.getElementById("articlebody")
+     
+      if (open) {
+        replace_class(sidebar, "leftsidebar-closed", "leftsidebar-open")
+        replace_class(open_button, "show-toggle", "hide-toggle")
+        replace_class(close_button, "hide-toggle", "show-toggle")
+        replace_class(body, "body-wide", "body-narrow")
+      }
+      else {
+        replace_class(sidebar, "leftsidebar-open", "leftsidebar-closed")
+        replace_class(open_button, "hide-toggle", "show-toggle")
+        replace_class(close_button, "show-toggle", "hide-toggle")
+        replace_class(body, "body-narrow", "body-wide")
+      }
+   }
+
+  </script>
+</head>
+<html>
+
+
+<body>
+  <!-- Floating buttons to open and close the TOC -->
+  <div id="toggle">
+    <div class="tooltip">
+
+      <a id="leftsidebaropen" class="hide-toggle" role="button" tabindex="1" onclick="toggleLeftSidebar(true)" >
+        <i class="fas fa-angle-double-right"></i>
+        <span class="tooltiptext">Show</span>
+      </a>
+      <a id="leftsidebarclose" class="show-toggle" role="button" tabindex="2" onclick="toggleLeftSidebar(false)">
+        <i class="fas fa-angle-double-left"></i>
+        <span class="tooltiptext">Hide</span>
+      </a>
+    </div>
+  </div>
+  <!-- Page Header -->
+  <div class="header header-colors">
+    <a href="index.html">
+      <img src="images/wisdom-house.png" width="676" height="250"/>
+    </a>
+
+    <div class="quote">
+$QUOTE$
+    </div>
+
+  </div>
+  <!-- Left Sidebar TOC -->
+  <div class="container">
+    <div id="leftsidebar" class="leftsidebar-open left-side-colors" tabindex="0">
+        <ul class="tree-padding tree-vertical-lines tree-horizontal-lines tree-summaries tree-markers tree-buttons">
+          <li>
+            <details open="">
+              <summary><i class="fa-solid fa-house-chimney"></i> <a href="home.html">Home</a></summary>
+                <ul>
+                  <li><i class="fas fa-address-card"></i> <a href="about-this-site.html">About this Site</a></li>
+                  <li><i class="fas fa-feather-alt"></i> <a href="author.html">Author</a></li>
+                  <li>
+                    <details open="">
+                      <summary><i class="fas fa-book"></i> <a href="books.html">Books</a></summary>
+                        <ul>
+                          <li> <a href="the-endless-hunt.html">The Endless Hunt</a></li>
+                          <li> <a href="job-rises.html">Job Rises</a></li>
+                          <li> <a href="peace-book.html">Peace, Like Solomon Never Knew</a></li>
+                          <li> <a href="plague-precept-prophet-peace.html">Plague, Precept, Prophet, Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-synagogue"></i> <a href="lady-wisdom-s-house.html">Lady Wisdom's House</a></summary>
+                        <ul>
+                          <li> <a href="lady-wisdom.html">Lady Wisdom</a></li>
+                          <li> <a href="hannah-s-song.html">Hannah's Song</a></li>
+                          <li> <a href="blueprint-for-lady-wisdom-s-house.html">Blueprint for Lady Wisdom's House</a></li>
+                          <li> <a href="foundation-the-commandments.html">Foundation: The Commandments</a></li>
+                          <li> <a href="lanterns-seven-spirits-of-god.html">Lanterns: Seven Spirits of God</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="seven-pillars-of-wisdom.html">Seven Pillars of Wisdom</a></summary>
+                                <ul>
+                                  <li> <a href="psalms.html">Psalms</a></li>
+                                  <li> <a href="job.html">Job</a></li>
+                                  <li> <a href="proverbs.html">Proverbs</a></li>
+                                  <li> <a href="song-of-songs.html">Song of Songs</a></li>
+                                  <li> <a href="ecclesiastes.html">Ecclesiastes</a></li>
+                                  <li> <a href="matthew.html">Matthew</a></li>
+                                  <li> <a href="revelation.html">Revelation</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="roof-paul-s-gospel-of-peace.html">Roof: Paul's Gospel of Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-seedling"></i> <a href="spiritual-growth.html">Spiritual Growth</a></summary>
+                        <ul>
+                          <li> <a href="most-important-questions.html">What are life's Most Important Questions?</a></li>
+                          <li> <a href="heavenly-treasures.html">What are the Heavenly Treasures?</a></li>
+                          <li> <a href="the-harvest-pattern-of-jesus.html">The Harvest Pattern of Jesus</a></li>
+                          <li> <a href="the-growth-pattern-of-solomon.html">The Growth Pattern of Solomon</a></li>
+                          <li> <a href="the-motherhood-pattern.html">The Motherhood Pattern</a></li>
+                          <li> <a href="the-law-pattern-of-moses.html">The Law Pattern of Moses</a></li>
+                          <li> <a href="the-journey-pattern.html">The Journey Pattern</a></li>
+                          <li> <a href="emotional-prophecies-of-the-psalms.html">Emotional Prophecies of the Psalms</a></li>
+                          <li> <a href="job-and-the-ways-to-talk-to-god.html">Job and the Ways to Talk to God</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-hourglass-half"></i> <a href="the-end-times.html">The End Times</a></summary>
+                        <ul>
+                          <li> <a href="seven-cycles-of-judgment.html">Seven Cycles of Judgment</a></li>
+                          <li> <a href="satan-bound-and-released.html">Satan, Bound and Released</a></li>
+                          <li> <a href="the-millennial-kingdom.html">The Millennial Kingdom</a></li>
+                          <li> <a href="the-four-horsemen-of-the-apocalypse.html">The Four Horsemen of the Apocalypse</a></li>
+                          <li> <a href="the-fifth-trumpet.html">The Fifth Trumpet</a></li>
+                          <li> <a href="the-fifth-seal.html">The Fifth Seal</a></li>
+                          <li> <a href="voice-of-the-seven-thunders.html">Voice of the Seven Thunders</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-list-ol"></i> <a href="numerology.html">Numerology</a></summary>
+                        <ul>
+                          <li> <a href="to-number-our-days.html">To Number our Days</a></li>
+                          <li> <a href="2-is-for-jesus.html">2 is for Jesus</a></li>
+                          <li> <a href="3-is-for-the-father.html">3 is for the Father</a></li>
+                          <li> <a href="4-is-for-cycles-of-nature.html">4 is for Cycles of Nature</a></li>
+                          <li> <a href="5-is-for-grace.html">5 is for Grace</a></li>
+                          <li> <a href="6-is-for-man.html">6 is for Man</a></li>
+                          <li> <a href="7-is-for-the-holy-spirit.html">7 is for the Holy Spirit</a></li>
+                          <li> <a href="17-is-for-victory.html">17 is for Victory</a></li>
+                          <li> <a href="40-is-for-suffering.html">40 is for Suffering</a></li>
+                          <li> <a href="42-is-for-the-journey.html">42 is for the Journey</a></li>
+                          <li> <a href="120-is-for-consecration.html">120 is for Consecration</a></li>
+                          <li> <a href="153-is-for-total-victory.html">153 is for Total Victory</a></li>
+                          <li> <a href="210-is-for-peace.html">210 is for Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-scroll"></i> <a href="prophetic-clocks.html">Prophetic Clocks</a></summary>
+                        <ul>
+                          <li> <a href="types-of-clock.html">Types of Clock</a></li>
+                          <li> <a href="generation-clocks.html">Generation Clocks</a></li>
+                          <li> <a href="celestial-clocks.html">Celestial Clocks</a></li>
+                          <li> <a href="spiritual-clocks.html">Spiritual Clocks</a></li>
+                          <li> <a href="empire-clocks.html">Empire Clocks</a></li>
+                          <li> <a href="commandment-clocks.html">Commandment Clocks</a></li>
+                          <li> <a href="other-clocks.html">Other Clocks</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-question-circle"></i> <a href="riddles.html">Riddles</a></summary>
+                        <ul>
+                          <li> <a href="the-righteous-fall-seven-times.html">The Righteous Fall Seven Times</a></li>
+                          <li> <a href="twice-a-thousand-years.html">Twice a Thousand Years</a></li>
+                          <li> <a href="the-seven-pillars-of-wisdom.html">The Seven Pillars of Wisdom</a></li>
+                          <li> <a href="why-153-fish-john-21.html">Why 153 Fish? John 21</a></li>
+                          <li> <a href="riddles-of-war.html">Riddles of War</a></li>
+                          <li> <a href="building-a-house.html">Building a House</a></li>
+                          <li> <a href="hannah-s-song.html">Hannah's Song</a></li>
+                          <li> <a href="satan-s-taunt.html">Satan's Taunt</a></li>
+                          <li> <a href="parable-of-the-workers-in-the-vineyard.html">Parable of the Workers in the Vineyard</a></li>
+                          <li> <a href="the-parable-of-the-wedding-feast.html">The Parable of the Wedding Feast</a></li>
+                          <li> <a href="the-childbearing.html">The Childbearing</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-calendar-alt"></i> <a href="chronology.html">Chronology</a></summary>
+                        <ul>
+                          <li> <a href="antediluvian-chronology.html">Antediluvian Chronology</a></li>
+                          <li> <a href="sojourn-of-israel.html">Sojourn of Israel</a></li>
+                          <li> <a href="judges.html">Judges</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                </ul>
+            </details>
+          </li>
+
+        </ul>
+    </div>
+    <!-- Article Text -->
+    <div id="articlebody" class="body-narrow" tabindex="3">
+      <div class="article">
+        <h1>Books</h1>
+        
+        
+        
+        <p>I wrote a bunch of books. Here is what they are about and where you can buy them. All are available as e-books. Most are also available in paperback.</p>
+
+<h2>A Most Refined Dragon (2015)</h2>
+
+<p>This is a fantasy romance about Melissa Long, a Chinese American doctor whose spirit changes places with a dragon on another world. There she meets the man of her dreams. There is one problem. He is a dragon hunter!</p>
+
+<p><strong>Kindle version:</strong></p>
+
+<p><a href="https://www.amazon.com/Most-Refined-Dragon-Paul-Chernoch-ebook/dp/B014GJNWDM">A Most Refined Dragon</a></p>
+
+<p><strong>Product Description:</strong></p>
+
+<p>If Beauty and the Beast collided with Dragonriders of Pern and crash-landed in Jurassic Park, they'd have it easier...</p>
+
+<p>Every seven years, death stalks Kibota. The Census Stone awakens and its beguiling call summons the great dinosaur migration. White Talon, the dragon queen, should be fortifying their defenses while searching for the Rainbow Bride. Instead, cloistered in her cave, she stares into an orb, pining for her lost mate.</p>
+
+<p>Her human apprentice, Shorassa, is searching, pestering crickets, fireflies and unicorns for news of the bride. Between Rampart and Seakeep, none surpass Shorassa at loom, glass torch or pottery wheel. One medium resists her mastery, though: her brother. Shoroko is as stubborn as the quaggas he breaks in as draught animals. She's wasted all her telepathic utter-flies trying to bend his will (and find him a wife, ingrate), but the farm-boy refuses to become hero or groom. Without king, Rainbow Bride or brain-washed champion, who will stop the dinosaur onslaught?</p>
+
+<p>The Hand-Claw alliance shatters when White Talon goes crazy and attacks Shorassa, fiancé to a nobleman. Confined to her bed, Shorassa sees her designs go awry, for Shoroko's idea of heroism is riding forth to exact revenge upon her friend, the queen.</p>
+
+<p>Where is the Rainbow Bride? Flying a mission for the Red Cross, Dr. Melissa Long is over Sudan when her plane is shot down, ripping her soul from her body and exchanging it with someone on Kibota. The good physician awakes in a cave to see the man of her dreams, and he tries to kill her. Shoroko has become a dragon hunter, and Melissa - an unrefined dragon.</p>
+
+<h2>The Endless Hunt: Or if I've found God, why am I still Looking? (2012)</h2>
+
+<p>This is Christian nonfiction about my personal search for spiritual treasures. It was inspired by Jesus' words in the Sermon on the Mount:</p>
+
+<h4>“Do not lay up for yourselves treasures on earth,</h4>
+
+<h5>where moth and rust destroy</h5>
+
+<h6>and where thieves break in and steal,</h6>
+
+<h4>but lay up for yourselves treasures in heaven,</h4>
+
+<h5>where neither moth nor rust destroys</h5>
+
+<h6>and where thieves do not break in and steal.</h6>
+
+<h4>For where your treasure is,</h4>
+
+<h5>there your heart will be also.</h5>
+
+<h6>- Matthew 6:19-21</h6>
+
+<p><strong>Paperback:</strong></p>
+
+<p><a href="https://www.amazon.com/Endless-Hunt-found-Still-Looking/dp/147762919X/">The Endless Hunt: Or if I've found God, why am I still Looking?</a></p>
+
+<p><strong>Kindle:</strong></p>
+
+<p><a href="https://www.amazon.com/Endless-Hunt-Paul-Chernoch-ebook/dp/B008A6Y08O">The Endless Hunt: Or if I've found God, why am I still Looking?</a></p>
+
+<p><strong>Product Description:</strong></p>
+
+<p>Life is a treasure hunt. For what treasures have you been prospecting? Jesus said that we should lay up treasures in heaven, where moth and rust do not destroy. To which treasures was he referring? The Endless Hunt proposes a list of twelve spiritual treasures and argues why they should appear at the top of everyone's To-do list.</p>
+
+<p>The text is sprinkled with original poems and worship songs and includes a complete novelette, "The Disconnected", exploring loneliness and the universal need to get connected. For those who have questions about the Bible's accuracy, it includes a section addressing issues like creation and evolution, the age of the universe, archeology and prophecy.</p>
+
+<p>The text unfolds as a treasure hunt, complete with rhyming riddles, a treasure map, and a compass. Every point is argued both from the Bible and from the author's personal experience. Every treasure is carefully related to the human needs it addresses. Those needs range from existence and survival to personal relationships, and from basic spiritual nourishment to ultimate fulfillment. The book addresses problems like loneliness, depression, unfruitfulness, fear, and poverty.</p>
+
+<p>Some of the treasures listed in this book - such as life, liberty and happiness - won't surprise anyone, but two of them surprised even the author. He didn't add them to his list until the last chapters were being written, which is why even after finding God, he keeps on looking. If you are stuck in a spiritual rut, or think you've found all the answers, this book can help you rejoin the endless hunt.</p>
+
+<h2>Job Rises: Thirteen Keys to a Resilient Life (2019)</h2>
+
+<p><strong>Paperback:</strong></p>
+
+<p><a href="https://www.amazon.com/Job-Rises-Thirteen-Keys-Resilient/dp/1086797531">Job Rises: Thirteen Keys to a Resilient Life</a></p>
+
+<p><strong>Kindle:</strong></p>
+
+<p><a href="https://www.amazon.com/Job-Rises-Thirteen-Keys-Resilient-ebook/dp/B07WVV9ZZV">Job Rises: Thirteen Keys to a Resilient Life</a></p>
+
+<p><strong>Product Description:</strong></p>
+
+<p>This book unearths ancient wisdom that can help you increase your resilience in the face of modern problems. Have you suffered any of the following?</p>
+
+<ul>
+<li>Injustice?</li>
+<li>Anxiety?</li>
+<li>Suicidal Depression?</li>
+<li>Self-harm?</li>
+<li>Death of a child?</li>
+<li>Financial ruin?</li>
+<li>Social ostracism?</li>
+<li>Marital strife?</li>
+<li>Religious persecution?</li>
+<li>Chronic disease?</li>
+<li>A life without meaning?</li>
+</ul>
+
+<p>How did that suffering change you? Did it produce these outcomes?</p>
+
+<ul>
+<li>Increased Resilience?</li>
+<li>An overcoming spirit?</li>
+<li>Happiness?</li>
+<li>Peace?</li>
+<li>Prosperity?</li>
+<li>Long life?</li>
+</ul>
+
+<p>3,700 years ago, there was a man who overcame all these trials and obtained all these benefits. He left a timeless account of his struggle. Down through the centuries, millions of people have found guidance and comfort from his words. That man's name is Job.
+<em>Job Rises</em> explores the ancient Book of Job along with other parts of the Bible in search of principles that can help suffering people overcome their troubles. Job had thirteen beliefs and habits that combined to make him resilient in the face of horrifying loss, extreme need, deep loneliness and relentless persecution. Teasing those keys to reslience out of the sea of despair in which Job was mired requires patience. Understanding God's answers to Job's probing questions requires equal patience.</p>
+
+<p>The literature is full of contradictory opinions about the meaning of Job. On the larger issues of interpretation, this book comes to conclusions similar to those offered by the late Pastor Ray Stedman in Let God Be God: Life-Changing Truths from the Book of Job. The author attends an American Baptist church, adopts an Evangelical perspective in his arguments and assumes the Bible is inerrant.</p>
+
+<p>The opening chapters introduce the plot and characters and tackle the interpretative problems. Which speakers should do you trust and why? What is the structure of the poem and how does that help us understand it? Did God even answer Job's questions? How do the divine words match the suffering man's concerns?</p>
+
+<p>Next, each key to resilience is uncovered in the text of Job, supported by reference to the rest of scripture, and illustrated through personal stories which prove its effectiveness. The author credits the principles with assisting him during his own struggle to overcome depression, anxiety, the fear of death, and the isolating effects of life with Asperger's Syndrome. He details his journey through confusion to a place that can quench the thirst for meaning in a world that appears meaningless. Most chapters conclude with Key Meditations to stimulate prayer and reflection.</p>
+
+<h2>Peace, like Solomon Never Knew: (2022)</h2>
+
+<h2>Ecclesiastes' hidden message for all times</h2>
+
+<p><strong>Paperback:</strong></p>
+
+<p><a href="https://www.amazon.com/Peace-like-Solomon-Never-Knew/dp/B0BJ4R44XG">Peace, like Solomon Never Knew:</a></p>
+
+<p><strong>Ebooks (epub):</strong></p>
+
+<p>This link will allow you to see options to purchase this ebook from any of these websites:</p>
+
+<ul>
+<li>Apple Books</li>
+<li>Rakuten Kobo</li>
+<li>Thalia</li>
+<li>Angus &amp; Robertson</li>
+<li>Vivlio</li>
+</ul>
+
+<p><a href="https://books2read.com/u/bp8X56">Peace, like Solomon Never Knew</a></p>
+
+<p><strong>Ebook (Kindle):</strong></p>
+
+<p><a href="https://www.amazon.com/Peace-like-Solomon-never-Knew-ebook/dp/B0B9KL8VNG">Peace, like Solomon Never Knew</a></p>
+
+<p><strong>Product Description:</strong></p>
+
+<p>The prerequisite for a peaceful life is a wise soul.</p>
+
+<p><strong>Pillars</strong>. To unearth that wisdom, this book explores the Bible's seven pillars of wisdom: Psalms, Job, Proverbs, Song of Songs, Ecclesiastes, Matthew and Revelation. These seven books possess a unity of structure. That includes two patterns to guide you on your path to peace: the harvest pattern and the growth pattern. Follow them and you will become an unshakable pillar of strength.</p>
+
+<p><strong>Patterns</strong>. First comes the sevenfold harvest pattern. During each season of life, we need to reap a spiritual harvest to propel us toward the abundant life we desire. The steps to a harvest are preparation, plowing, planting, pouring, plucking, producing and peace. They embrace the whole person: the mind receives the planted gospel seed, the heart is watered by the Holy Spirit, and the hands are trained by the Father's discipline.</p>
+
+<p>Second, the growth pattern introduced by Solomon governs our journey from birth to spiritual maturity. Drawn from Ecclesiastes 3, twenty-eight times of life may be grouped into seven developmental phases: security, ability, stability, amity, opportunity, community, and loyalty. We combine the two patterns by employing the harvest pattern tactically, in pursuit of strategic goals related to our growth towards maturity.</p>
+
+<p><strong>Prophecies</strong>. How can we gain resolve to prefer advice from these ancient books to the self-help books of today? We need to see the miraculous power at work in their pages. That power becomes evident when you encounter the prophecies these seven books contain. The two patterns not only expertly direct the feet of individual pilgrims, they chart the course of empires. This book puts both halves together: advice on how to reap a bountiful harvest and hundreds of never-before-seen prophecies to encourage you that these are God's words, not the questionable ideas of well-educated fools.</p>
+
+<p>Think these prophecies only apply to people living long ago or in the distant future near when Christ returns? Guess again. These seven pillars of wisdom span all of history. Collectively, they contain distinct, chronologically arranged prophecies for every single generation from the creation of the world until the final trumpet blows. Every generation. No exceptions!</p>
+
+<p><strong>Peace</strong>. Dine with Lady Wisdom and find pillars to empower, patterns to guide, and prophecies to persuade. "Her ways are ways of pleasantness, and all her paths are peace." - Proverbs 3:17 (ESV)</p>
+
+<p><strong>Additions to the Second Edition</strong>. This new edition adds 150 pages of new material. In a new appendix, hundreds of Biblical connections between the seven pillars of wisdom are shown and understanding of the pillars is sharpened. In a second appendix, the message of freedom in 1 &amp; 2 Timothy is dissected and related to the seven pillars of wisdom. Then their amazing prophetic content is revealed.</p>
+
+<h2>Plague, Precept, Prophet, Peace: God's Ten Liberating Commandments (2024)</h2>
+
+<p><strong>Paperback:</strong></p>
+
+<p><a href="https://www.amazon.com/Plague-Precept-Prophet-Peace-Commandments/dp/B0CR1V2HXM">Plague, Precept, Prophet, Peace - at Amazon</a></p>
+
+<p><a href="https://www.barnesandnoble.com/w/plague-precept-prophet-peace-paul-a-chernoch/1144538906?ean=9798218328788">Plague, Precept, Prophet, Peac - at Barnes &amp; Noble</a></p>
+
+<p><a href="https://www.walmart.com/ip/Plague-Precept-Prophet-Peace-God-s-Ten-Liberating-Commandments-Paperback-9798218328788/5296412817">Plague, Precept, Prophet, Peac - at Walmart</a></p>
+
+<p><strong>Ebook (EPUB):</strong></p>
+
+<p><a href="https://www.kobo.com/us/en/ebook/plague-precept-prophet-peace">Plague, Precept, Prophet, Peace - at Kobo</a></p>
+
+<p><strong>Product Description:</strong></p>
+
+<p>King David said, "Open my eyes, that I may behold wondrous things out of your law." (Psalms 119:18)</p>
+
+<ul>
+<li>If you see in the Ten Commandments not beauty but utilitarian rules or inflexible dogmatism, you have not seen the law.</li>
+<li>If you sought a world whose history is governed by God's universal, objective rules but see only moral anarchy and injustice, you have not seen the law at work.</li>
+<li>If you have been seeking a path to maturity and spiritual peace outside of God's law because it seems irrelevant, you have not seen the law at work for you.</li>
+</ul>
+
+<p>Talking history, this book proves God judged ten world empires according to the Ten Commandments, one commandment per empire, chronologically. As prophesied by Job and Revelation, these events demonstrate the power of the commandments to shape not only world history, but shape your history.</p>
+
+<p>Talking personal growth in worldly matters, this book shows the commandments are seeds. Once sprouted, they power a Growth Pattern which King Solomon put in Ecclesiastes to guide us through our time "under the sun".</p>
+
+<p>Talking spiritual growth in heavenly matters, this book shows how those sprouting seeds also power Jesus' Harvest Pattern from Matthew. By it you can reap spiritual harvests, like victory over depression, anxiety, purposelessness and the fear of death.</p>
+
+<p>Talking emotional support, this book shows how the Psalms are meditations on the law. The psalter is carefully arranged into sections. Psalms 1-28 are ordered as a companion to Solomon's Growth pattern, with meditations for every stage of life. Another collection of fifty psalms shows that God has prophetically "been there" for his people from beginning to end. They are arranged to show that God knew how his children would feel during every era in history, marking every turbulent emotion and answering heartfelt prayers with action and consolation. You will see that God knows how you are feeling, listens to your prayers, and has a plan to comfort you.</p>
+
+<p>Proverbs 9 tells us that Lady Wisdom has built her house. This book will walk you through her blueprints. The precepts of the Law are the foundation of her house.</p>
+
+<p>Lastly, the epilogue shows from the Bible God's specific, itemized, quantified plan for the liberation of women from oppression, presenting the Motherhood pattern. Jesus will not leave any of his Father's children behind.</p>
+
+      </div>
+
+    </div>
+    <!-- Page Footer -->
+    <div class="footer faint">
+      
+    </div>
+  </div>
+</body>
+</html>
