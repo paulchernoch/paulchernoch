@@ -206,6 +206,15 @@ def is_config_valid(config) -> bool:
 
   return  valid
 
+# Add the metadata found in the markdown file.
+def add_metadata(sitemap: dict, html: str):
+  if hasattr(html, 'metadata'):
+    metadata = html.metadata
+    if 'quote' in metadata:
+      sitemap['quote'] = metadata['quote']
+  else:
+    sitemap['quote'] = None
+
 # Load the article markdown for each title into 'words' and store it in the sitemap.
 # Also set the output HTML file path as 'target' 
 # and the relative link path for hyper links fro the TOC to 'link'.
@@ -226,11 +235,14 @@ def load_articles(config: dict, sitemap: dict, found = {}, missing: list[str] = 
     sitemap['found'] = True
     sitemap['words'] = load_and_convert_article(source_path)
 
+  add_metadata(sitemap, sitemap['words'])
+
   for part in sitemap['parts']:
     load_articles(config, part, found, missing)
   return found, missing
 
 # Load an article from a file that is in markdown format and convert it to HTML.
+# If the markdown has metadata, it will be attached to the returned HTML as the metadata property, a dict.
 def load_and_convert_article(path) -> str:
   with open(path) as f:
     markdown = f.read()
@@ -375,6 +387,7 @@ def build_toc_helper(page_record: dict, indent: int) -> str:
 #   - $ARTICLE_SYNOPSIS$ will be replaced by the article synopsis if present, or blanked if not
 #   - $ARTICLE_DATE$ will be replaced by the publication date if present, or blanked if not
 #   - $FOOTER$ will be replaced with the article footer if present, or blanked if not
+#   - $QUOTE$ will be replaced by a pull quote if presejnt, or blanked if not
 def apply_template(template: str, sitemap: dict, title: str) -> str:
   select_node(sitemap, title)
   page_record = find_node(sitemap, title)
@@ -384,6 +397,9 @@ def apply_template(template: str, sitemap: dict, title: str) -> str:
   page = replace_macro("TOC", toc, page)
 
   page = replace_macro("ARTICLE_TITLE", title, page)
+
+  quote = page_record['quote']
+  page = replace_macro("QUOTE", quote, page)
 
   subtitle = page_record['sub']
   if subtitle is None:
