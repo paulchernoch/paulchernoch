@@ -1,7 +1,7 @@
 ---
 title: To Number our Days
 ---
-This article is adapted from the early pages of the chapter named "To Number our Days" in *Peace, like Solomon Never Knew*.
+This article is adapted from the early pages of the chapter named "To Number our Days" in *Peace, like Solomon Never Knew*. I published it before church on Sunday, March 3, 2024. During the service, a church member named Sydney led us in prayer. She recited Psalm 90:12 (quoted later in this article) as part of that prayer. When a church member introduces the same Bible passage into a prayer or sermon as I have been studying during the preceding week or even that morning, I know that the Holy Spirit is speaking and the church is listening.
 
 Math was always my best subject. It is when you combine mathematics and religion that things become weird. The Bible is full of numbers, and when those do not suffice, you can begin counting letters, words, phrases, verses and deadly sins. The Bible holds patterns true and instructive, but also useless patterns pulled from the imagination of clever minds like mine. Look to the sky. Shifting masses of clouds drifting overhead project cotton candy delusions galore, now a fish, now a face, and after a fire breathing dragon, a dissolving mist. Ephemeral patterns are that mist. Numerology is steeped in mind clouding patterns that dazzle and deceive.
 

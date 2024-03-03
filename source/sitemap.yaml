@@ -148,6 +148,7 @@
     image: fas fa-list-ol
     parts:
     - title: To Number our Days
+      dates: [2024-03-03]
     - title: 2 is for Jesus
     - title: 3 is for the Father
     - title: 4 is for Cycles of Nature
