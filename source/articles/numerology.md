@@ -17,7 +17,7 @@ Theologically, this happens when you apply poor hermeneutical principles when wo
 
 I love numbers. Math has always been my favorite subject. In one of my books I count over twenty mathematical techniques that I applied to discover or prove my ideas related to the Bible. The current anti-mathematical bias is stifling to me because of the way I pursue knowledge and so I reject it. I reject it, but acknowledge the good reasons for it and attempt to avoid the errors of the past by substituting new hermeneutic principles to weed out bad database matches. In database programming, we call this adding a "WHERE CLAUSE". The "WHERE CLAUSE" is an expression that weeds out false matches. Numbers are vital for understanding prophecy because prophecy is about time and time is always measured by numbers. The key is to use numbers to foster creativity and suggest possible associations but never rely on the numbers alone to prove them. Always you must use other features of the text to prove the soundness of the interpretation. Those additional correspondences are your theological "WHERE CLAUSE".
 
-## Chapter and Verse
+## The Many Sources of Numbers
 
 Where do the Bible's numbers come from? If we are to make use of numbers drawn from the Bible, we need to know. The first challenge is to decide when and where the numbers are. The following list is not exhaustive.
 
@@ -28,6 +28,8 @@ Where do the Bible's numbers come from? If we are to make use of numbers drawn f
   - **Structural Elements**. Once you discover the structure of a Bible book or passage, you will have broken it into parts that can be counted. Habakkuk is currently divided into three chapters in our Bibles, but it is really composed of seven sections. Observing the number seven is integral to understanding Habakkuk.
   - **Gematria**. Ancient Hebrew and Greek did not have separate symbols for numbers. The letters of their alphabets served double duty as numbers. They did not have a decimal system, so the value of a word - its "gematria" - is the sum of the values of each of the letters in that word. This means that every Hebrew or Greek word or phrase may be expressed as a number. That is a lot of numbers! This is a vast chasm into which many pious Christians and Jews have fallen over the millennia. The fanciful (and even heretical) Bible interpretations that spring from this technique are legion. I make sparing use of these numbers. One fruitful example is the gematria for *Eloah* (which means God), the singular form for *Elohim*. The value of *Eloah* is 42. Do you recall the comical science fiction work *The Hitchhiker's Guide to the Galaxy*? In that book, a supercomputer solved the question of life, the universe, and eveything and concluded that the answer was 42. Its author, Douglas Adams, was right: God is the answer!
   - **Chapter and Verse Numbers**. The most controversial and strongly discouraged sources of numbers are the chapter and verse numbers found in almost every modern Bible. This needs further discussion.
+
+## Chapter and Verse
 
 Wikipedia helpfully tells us where the chapter numbers come from:
 
