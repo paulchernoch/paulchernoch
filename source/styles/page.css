@@ -20,9 +20,9 @@
       font-weight              : 200;
       font-size                : 32px;
 
-      position: relative; 
+      position: absolute; 
       top:      50px;
-      right:    300px;
+      right:    200px;
     }
 
     .site-title {

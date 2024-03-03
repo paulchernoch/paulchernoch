@@ -212,6 +212,7 @@ def add_metadata(sitemap: dict, html: str):
   if hasattr(html, 'metadata'):
     metadata = html.metadata
     if 'quote' in metadata:
+      print(f'FOUND A QUOTE!\n{metadata['quote']}')
       sitemap['quote'] = metadata['quote']
 
 
@@ -387,7 +388,7 @@ def build_toc_helper(page_record: dict, indent: int) -> str:
 #   - $ARTICLE_SYNOPSIS$ will be replaced by the article synopsis if present, or blanked if not
 #   - $ARTICLE_DATE$ will be replaced by the publication date if present, or blanked if not
 #   - $FOOTER$ will be replaced with the article footer if present, or blanked if not
-#   - $QUOTE$ will be replaced by a pull quote if presejnt, or blanked if not
+#   - $QUOTE$ will be replaced by a pull quote if present, or blanked if not
 def apply_template(template: str, sitemap: dict, title: str) -> str:
   select_node(sitemap, title)
   page_record = find_node(sitemap, title)
