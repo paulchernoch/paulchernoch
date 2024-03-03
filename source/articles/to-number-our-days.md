@@ -1,6 +1,6 @@
 ---
 title: To Number our Days
-quote: "Teach us to number our days,<br/>that we may gain a heart of wisdom.<br/>Psalm 90:12, NIV"
+quote: "Teach us to number our days,<br/>that we may gain a heart of wisdom."<br/> - Psalm 90:12, NIV
 ---
 This article is adapted from the early pages of the chapter named "To Number our Days" in *Peace, like Solomon Never Knew*. I published it before church on Sunday, March 3, 2024. During the service, a church member named Sydney led us in prayer. She recited Psalm 90:12 (quoted later in this article) as part of that prayer. When a church member introduces the same Bible passage into a prayer or sermon as I have been studying during the preceding week or even that morning, I know that the Holy Spirit is speaking and the church is listening.
 
