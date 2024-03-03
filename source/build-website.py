@@ -212,7 +212,7 @@ def add_metadata(sitemap: dict, html: str):
   if hasattr(html, 'metadata'):
     metadata = html.metadata
     if 'quote' in metadata:
-      print(f'FOUND A QUOTE!\n{metadata['quote']}')
+      print(f'FOUND A QUOTE!\n{metadata["quote"]}')
       sitemap['quote'] = metadata['quote']
 
 
