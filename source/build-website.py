@@ -208,12 +208,12 @@ def is_config_valid(config) -> bool:
 
 # Add the metadata found in the markdown file.
 def add_metadata(sitemap: dict, html: str):
+  sitemap['quote'] = None
   if hasattr(html, 'metadata'):
     metadata = html.metadata
     if 'quote' in metadata:
       sitemap['quote'] = metadata['quote']
-  else:
-    sitemap['quote'] = None
+
 
 # Load the article markdown for each title into 'words' and store it in the sitemap.
 # Also set the output HTML file path as 'target' 
@@ -398,7 +398,7 @@ def apply_template(template: str, sitemap: dict, title: str) -> str:
 
   page = replace_macro("ARTICLE_TITLE", title, page)
 
-  quote = page_record['quote']
+  quote = sitemap['quote']
   page = replace_macro("QUOTE", quote, page)
 
   subtitle = page_record['sub']
