@@ -10,7 +10,7 @@ Jesus possesses two natures, divine and human, and as a man, shall visit this wo
 
 Psalm 2 focuses on Jesus, calling him the anointed and begotten son:
 
-#### ~1~ Why do the nations rage
+#### <sup>1</sup> Why do the nations rage
 #####    and the peoples plot in vain?
 #### 2 The kings of the earth set themselves,
 #####    and the rulers take counsel together,
