@@ -29,10 +29,14 @@ Myriad other meanings surround the number three but one speaks loudest, because 
 ###### - Revelation 1:4-5, NIV
 
 In this passage, the Holy Spirit is numbered as seven. Deriving a number from this for Jesus is tricky. Counting firstborn from the dead and ruler of kings, you get two, matching his first and second comings. Numbering the Father as existing in present, past and future gives you three, an idea repeated several chapters later:
-Each of the four living creatures had six wings and was covered with eyes all around, even under its wings. Day and night they never stop saying:
 
-#### “ ‘Holy, holy, holy is the Lord God Almighty,’
-##### who was, and is, and is to come.” 
+#### Each of the four living creatures 
+##### had six wings and was covered with eyes all around, 
+###### even under its wings. 
+#### Day and night they never stop saying:
+
+##### “ ‘Holy, holy, holy is the Lord God Almighty,’
+###### who was, and is, and is to come.” 
 ###### - Revelation 4:8, NIV
 
 ## The Father and Psalm 3
