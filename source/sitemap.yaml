@@ -84,6 +84,7 @@
 
 - title: Home
   image: fa-solid fa-house-chimney
+  dates: [2024-02-28]
   parts:
   - title: About this Site
     image: fas fa-address-card
