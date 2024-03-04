@@ -1,6 +1,6 @@
 ---
 title: Home
-quote: Wisdom has built her house;<br/>she has hewn her seven pillars.<br/>She has slaughtered her beasts;<br/>she has mixed her wine;<br/>she has also set her table. - Proverbs 9:1-2
+quote: Wisdom has built her house... hewn her seven pillars...<br/>slaughtered her beasts... mixed her wine...<br/>she has also set her table. - Proverbs 9:1-2
 ---
 ## Welcome to Lady Wisdom's House
 
