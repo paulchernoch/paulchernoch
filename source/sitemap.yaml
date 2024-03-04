@@ -91,6 +91,7 @@
     image: fas fa-feather-alt
   - title: Books
     image: fas fa-book
+    dates: [2024-03-01]
     parts:
     - title: The Endless Hunt
       sub:   Or if I've Found God, Whay am I still Looking?
