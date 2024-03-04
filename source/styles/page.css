@@ -20,8 +20,8 @@
       font-weight              : 200;
 
       position: absolute; 
-      top:      50px;
-      right:    50px;
+      top:      30px;
+      right:    40px;
     }
 
     @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
