@@ -1,5 +1,6 @@
 ---
 title: About the Author
+quote: Moses said, “Please show me your glory.”<br/> - Exodus 33:18
 ---
 Who am I?
 
