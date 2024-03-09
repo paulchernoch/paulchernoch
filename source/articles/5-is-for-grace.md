@@ -22,7 +22,7 @@ The correspondence to the sevenfold Harvest pattern is:
   1. **Preparation**: No corresponding sacrifice. Instead this is the preparation for those sacrifices.
   2. **Plowing**: The plowing phase is suffering, and in Job his trials began while the oxen were plowing a field. The **burnt offering** consumes the whole animal, which is often an ox. 
   3. **Planting**: What is planted is the seed of the gospel. Seeds are of grain, so this matches the **grain offering**. 
-  4. **Pouring**: Just as water is poured upon the fields to make the plants grow, whether by rain or irrigation, so the Holy Spirit is poured upon the believer to make their spirit grow. Since the **purification offering** is about, well, purification, it is a good fit to water and the Holyt Spirit.
+  4. **Pouring**: Just as water is poured upon the fields to make the plants grow, whether by rain or irrigation, so the Holy Spirit is poured upon the believer to make their spirit grow. Since the **purification offering** is about, well, purification, it is a good fit to water and the Holy Spirit.
   5. **Plucking**: The **Guilt Offering** is a fit match to the father's plucking, pruning and guiding of the believer toward new habits and new priorities.
   6. **Producing**: This matches a less common offering, used to dedicate people to temple service. 
   7. **Peace**: The **Peace offering** is on the nose. The experience of peace at the end of the harvest is the full receipt of God's grace.
