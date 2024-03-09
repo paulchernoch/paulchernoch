@@ -27,7 +27,7 @@ Some Bible books that use seven often are (in descending frequency):
   - Exodus
   - Ezekiel
 
-As you can see, the Pentateuch makes significant use of the number. Some significant sevens:
+As you can see, the Pentateuch makes significant use of the number. Some magnificent sevens:
 
   - Leviticus regulates holy living, the consecrating of priests, the treatment for skin disease and the keeping of feasts which lasted seven days.
   - Genesis describes the creation in seven days and the purification of the world by the flood, which began seven days after God's final announcement.
@@ -80,6 +80,30 @@ What Zechariah and John number, Isaiah lists, when he tells us the names of all 
 ###### - Isaiah 11:1-3, NIV
 
 The names of these spirits are vital. Each spirit matches one of the seven pillars of wisdom to illuminate it.
+
+## Psalm 7
+
+In *Plague, Precept, Prophet, Peace*, I showed that some psalms supply the spiritual meaning for the number associated with that Psalm.
+This is true for Psalm 7 and the number seven. The Psalm speaks of the Holy Spirit.
+Here is some of what was said about this psalm in the chapter "Selah: Stop, Entreat, Listen, Apply, Hear":
+
+Psalm 7 speaks of judgment executed with sword and bow. This calls to mind the Great
+Flood. After the flood, God “hung up is bow” symbolically, by the sign of the rainbow.
+The flood began on the 17th day of the second month and ended when the Ark ran
+aground on the 17th day of the seventh month. By this token the number 17 symbolizes
+victory, for God was victorious over mankind. Psalm 7 has seventeen verses. Since the
+flood used water to wash away man’s evil, it symbolizes baptism by the Holy Spirit.
+
+There is also a negative reference to the Holy Spirit. One ministry of the Holy Spirit is to
+act as midwife, as illustrated by Elihu’s role in Job. Psalm 7 speaks of the midwifery of the
+wicked:
+
+#### Behold, the wicked man conceives evil
+##### and is pregnant with mischief
+###### and gives birth to lies. 
+###### - Psalm 7:14, ESV
+
+We do NOT want THAT midwife, which brings death. No, we want a midwife that brings life...
 
 ## Seven brings Life
 
