@@ -402,7 +402,6 @@ def apply_template(template: str, sitemap: dict, title: str) -> str:
   if quote is None:
     page = remove_macro("QUOTE", page)
   else:
-    print(f'QUOTE TO USE:\n{quote}')
     page = replace_macro("QUOTE", quote, page)
 
   subtitle = page_record['sub']
