@@ -212,7 +212,6 @@ def add_metadata(sitemap: dict, html: str):
   if hasattr(html, 'metadata'):
     metadata = html.metadata
     if 'quote' in metadata:
-      print(f'FOUND A QUOTE!\n{metadata["quote"]}')
       sitemap['quote'] = metadata['quote']
 
 
@@ -400,6 +399,7 @@ def apply_template(template: str, sitemap: dict, title: str) -> str:
   page = replace_macro("ARTICLE_TITLE", title, page)
 
   quote = sitemap['quote']
+  print(f'QUOTE TO USE:\n{quote}')
   if quote is None:
     page = remove_macro("QUOTE", page)
   else:
