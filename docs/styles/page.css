@@ -18,11 +18,11 @@
       color                    : var(coral-blue);
       font-family              : Optima, Helvetica, Arial, sans-serif;
       font-weight              : 200;
-      font-size                : 32px;
+      font-size                : 28px;
 
       position: absolute; 
       top:      50px;
-      right:    200px;
+      right:    50px;
     }
 
     .site-title {
