@@ -4,7 +4,7 @@ quote: and on the seventeenth day of the seventh month<br/>the ark came to rest 
 ---
 This number speaks of conflict and victory. If seven is divine completeness and ten is human completeness, what is seventeen?
 
-**17 = 7 + 10 **
+**17 = 7 + 10**
  
 This sum shows us a conflict between the divine and the human. Biblestudy.org lists occurrences of the number seventeen 
 and counts of items that total seventeen in Scripture. Comparison to the original languages shows that some of them 
