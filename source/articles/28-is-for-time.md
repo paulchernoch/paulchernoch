@@ -216,9 +216,9 @@ by way of comparing and contrasting:
 #### “To what can I compare this generation? 
 #### They are like children sitting in the marketplaces and calling out to others:
 ##### “ ‘We played the pipe for you,
-###### and you did not dance;
+###### and you did not **dance**;
 ##### we sang a dirge,
-###### and you did not mourn.’
+###### and you did not **mourn**.’
 #### For John came neither eating nor drinking, 
 ##### and they say, ‘He has a demon.’ 
 #### The Son of Man came eating and drinking, and they say, 
@@ -228,7 +228,7 @@ by way of comparing and contrasting:
 ###### - Matthew 11:16-19
 
 In the preceding passage, Jesus is talking about physical self-control and knowing the propriety of what to do and not do at any given time.
-He mentions both mourning and dancing and how to the world hs is out of step with time.
+He mentions both mourning and dancing and how to the world he is out of step with time.
 However, it is the world that does not know the proper times. It is out of step with God's times. 
 
 The succeeding chapter seems to mention neither mourning nor dancing. It does, but only by way of
@@ -239,7 +239,7 @@ Only the priests were supposed to eat it. That story includes this:
 
 #### But the servants of Achish said to him, 
 ##### “Isn’t this David, the king of the land? 
-##### Isn’t he the one they sing about in their dances:
+##### Isn’t he the one they sing about in their **dances**:
 ###### “ ‘Saul has slain his thousands,
 ###### and David his tens of thousands’?” 
 ###### - 1 Samuel 21:11, NIV
