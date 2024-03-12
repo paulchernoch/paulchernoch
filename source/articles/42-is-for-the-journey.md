@@ -1,5 +1,6 @@
 ---
 title: 42 is for the Journey
+quote: 42 is the value of Eloah<br/>the Hebrew word for God
 ---
 Finding meaning in the number forty-two is the reason I wrote the prophetic sections of this book (*Peace, like Solomon Never Knew*). While the number five corresponds primarily to God’s process for pouring blessing (or judgment) into the lives of individuals, forty-two governs God’s dealings with nations and the whole of mankind.
 
@@ -29,7 +30,7 @@ Pharaoh dreamt of seven healthy cattle followed by seven emaciated cattle. Then 
 Finally, Joseph explained the dream to Pharaoh: seven years of plenty followed by seven years of famine. 
 In all, fourteen cattle are described three times, or forty-two cattle in all (making Habakkuk envious).
 
-T**he Book of Job** has forty-two chapters.
+**The Book of Job** has forty-two chapters.
 
 **Balaam**, a mercenary prophet hired by Israel’s enemies to curse her, in the course of three sacrifices 
 cumulatively sacrificed forty-two animals on seven altars (Numbers 23:2, 14, 29). 
@@ -265,7 +266,7 @@ At every scale, large to small, the same pattern is evident. It is the same with
 
   - ... are measured in **generations of men**. Matthew’s genealogy shows the struggle from Abraham to Christ to fulfill God’s covenant with Abraham. Luke shows the parallel struggle to fulfill God’s covenant with David. In both cases, Jesus faced the crisis and was victorious.
   
-  - 42 = 40 generations of sinners + 1 savior dying + 1 Church inheriting salvation 
+### 42 = 40 generations of sinners + 1 savior dying + 1 Church inheriting salvation 
 
 Days, months, years, generations... Could there be an even larger timescale over which God acts in multiples of forty-two? 
 Is there a scale that stretches all the way from the creation of the world until the day that Christ returns?
