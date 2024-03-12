@@ -85,13 +85,13 @@ The values of the letters are:
 <p style="font-size:32spx">
 
 א = 1
-
+<br/>
 ל = 30
-
+<br/>
 ו = 6
-
+<br/>
 ה = 5
-
+<br/>
 אלוה = 42
 
 </p>
