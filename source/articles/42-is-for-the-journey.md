@@ -26,7 +26,7 @@ the tower was destroyed and mankind’s speech was confused.
 
 **A rainbow** (reminder of the great flood) is visible when light is refracted by 42 degrees.
 
-Pharaoh dreamt of seven healthy cattle followed by seven emaciated cattle. Then he repeated the dream to Joseph. 
+**Pharaoh** dreamt of seven healthy cattle followed by seven emaciated cattle. Then he repeated the dream to Joseph. 
 Finally, Joseph explained the dream to Pharaoh: seven years of plenty followed by seven years of famine. 
 In all, fourteen cattle are described three times, or forty-two cattle in all (making Habakkuk envious).
 
@@ -74,9 +74,9 @@ In Jewish Kabbalistic tradition, God has a special name that is forty-two letter
 Some say this name is formed by rearranging the first forty-two letters of Genesis. 
 They therefore believe that the number is tied up with creation.
 
-There is a simpler word that gets us there. In Hebrew, since they did not have numerals, 
-each letter of the alphabet doubles as a number. Thus each word in Hebrew has a numeric value. 
-The singular form of God is Eloah, spelled in Hebrew (right-to-left) as
+There is a simpler word that gets us there. Again taking the values of individual Hebrew letters, 
+what happens if we add up the value for one of the most common Hebrew words for God? 
+The singular form of God is Eloah, spelled in Hebrew (right-to-left) as:
 
 <p style="font-size:32spx;text-align:center">
 .אלוה 
@@ -250,7 +250,8 @@ then stitch the copies together with line segments to form the second curve. The
 filling the plane with wiggles.
 
 Why this analogy? The Hilbert curve preserves a rough impression of its initial shape even as you add details. 
-At every scale, large to small, the same pattern is evident. It is the same with the number forty-two. We have Biblical forty-twos that...
+At every scale, large to small, the same pattern is evident. It is the same with the number forty-two. 
+We have Biblical forty-twos that span...
 
   - ... last **days**: from the crossing of the Red Sea to Moses receiving the law on Sinai took 42 days.
   - ... last **months** (at least symbolically), such as the prophecies of the tribulation in Revelation.
