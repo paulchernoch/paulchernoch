@@ -77,13 +77,13 @@ There is a simpler word that gets us there. In Hebrew, since they did not have n
 each letter of the alphabet doubles as a number. Thus each word in Hebrew has a numeric value. 
 The singular form of God is Eloah, spelled in Hebrew (right-to-left) as
 
-<p style="font-size:32spx">
+<p style="font-size:32spx;text-align:center">
 .אלוה 
 </p>
 
 The values of the letters are:
-<p style="font-size:32spx">
-
+<p style="font-size:32spx;text-align:center">
+<br/>
 א = 1
 <br/>
 ל = 30
