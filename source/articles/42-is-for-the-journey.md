@@ -1,6 +1,6 @@
 ---
 title: 42 is for the Journey
-quote: 42 is the value of Eloah<br/>the Hebrew word for God
+quote: 42 is the value of Eloah,<br/>the Hebrew word for God.
 ---
 Finding meaning in the number forty-two is the reason I wrote the prophetic sections of this book (*Peace, like Solomon Never Knew*). While the number five corresponds primarily to God’s process for pouring blessing (or judgment) into the lives of individuals, forty-two governs God’s dealings with nations and the whole of mankind.
 
@@ -78,12 +78,12 @@ There is a simpler word that gets us there. Again taking the values of individua
 what happens if we add up the value for one of the most common Hebrew words for God? 
 The singular form of God is Eloah, spelled in Hebrew (right-to-left) as:
 
-<p style="font-size:32spx;text-align:center">
-.אלוה 
+<p style="font-size:40px;text-align:center">
+אלוה 
 </p>
 
 The values of the letters are:
-<p style="font-size:32spx;text-align:center">
+<p style="font-size:40px;text-align:center">
 <br/>
 א = 1
 <br/>
