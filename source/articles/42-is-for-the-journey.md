@@ -82,12 +82,19 @@ The singular form of God is Eloah, spelled in Hebrew (right-to-left) as
 </p>
 
 The values of the letters are:
+<p style="font-size:32spx">
 
 א = 1
+
 ל = 30
+
 ו = 6
+
 ה = 5
+
 אלוה = 42
+
+</p>
 
 This means that forty-two is the measure of the immeasurable God.
 
