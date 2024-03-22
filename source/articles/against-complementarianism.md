@@ -45,7 +45,7 @@ the Almighty's great concern for his daughters and how he was determined to show
 My lack of empathy was a grave sin.
 
 I was cut to the heart. I immediately prayed, "Lord, what is your plan for the liberation of women 
-from opporession?" Over the course of the next week, I pored over the Bible. God's glory
+from oppression?" Over the course of the next week, I pored over the Bible. God's glory
 entered my mind and illuminated passages and ideas that I had either never seen before or discounted
 and downplayed. I did a complete 180. I now believe that I was not only factually wrong, 
 I was spiritually deaf to what God has to say about such things. I was not just ignorant, but culpable.
@@ -85,7 +85,9 @@ alone? Consider Solomon's words:
 ##### but the glory of kings is to search things out.
 ###### - Proverbs 25:2
 
-Then recall the story of Cornelius, Peter and the acceptance of the Gentiles into the church.
+Reflect on Solomon's words. **This is a glory issue.** It is not clear. It must be searched out.
+
+Recall the story in the Book of Acts about Cornelius, Peter and the acceptance of the Gentiles into the church.
 The Old Testament is filled with promises of God's desire to spread his message to all peoples, not just the Jews.
 Not until Peter's vision of being permitted to eat unclean animals did the church accept this
 "obvious" truth. It is not the clear words that govern the meaning, it is the defining passages
@@ -98,12 +100,20 @@ been overlooked by the church.
 **Purpose**. With the second quote, Keller admits **ignorance** as to God's purposes concerning 
 the restrictions upon women. Such humility is a good start. However, what if knowing the very thing 
 of which she claims ignorance is essential if we are to arrive at a true and just understanding? 
-There are two ways to understand this: a fact or an attitude. As a fact, it is a statement that 
+There are two ways to read this: as a fact or as an attitude. As a fact, it is a statement that 
 the Lord has not revealed this information. As an attitude, it is a resistance to looking for that 
 answer, persevering until you have it, and then forming your conclusions.
 
-We know that God has revealed this information about why women are suffering because He promised
-that He would tell it to us. Keller's problem is that she is close to charging God with breaking that promise. 
+#### **Q:** Has God has revealed to us this information about why women are suffering? 
+#### **A:** Yes. 
+
+#### **Q:** How do we know? 
+#### **A:** We know because He promised that He would tell it to us. 
+
+#### **Q:** Where is the promise? 
+#### **A:** In the Book of Amos.
+
+Keller's problem is that she is close to charging God with breaking that promise. 
 
 #### Is a trumpet blown in a city,
 ##### and the people are not afraid?
@@ -133,8 +143,38 @@ I figured that if he didn't know why, he really didn't know.
 
 Since Keller admits she doesn't know why, she really doesn't know.
 
-I know why. I don't know everything about the why, but I learned something about it.
+I know why. I don't know *everything* about the why, but I learned *something* about it.
 I learned enough about the WHY to also know the WHEN. The WHEN is when God began to permit 
-women to serve as pastors and elders. We will get to that soon.
+women to serve as pastors and elders.
 
-In progress...
+Why should there be a when? Why not have women endure this until the end? 
+The reason is found in Isaiah. Even if we do not know the cause for suffering, 
+we can know that it will end.
+
+#### **Does he who plows for sowing plow continually?**
+##### Does he continually open and harrow his ground?
+#### When he has leveled its surface,
+##### does he not scatter dill, sow cumin,
+#### and put in wheat in rows
+##### and barley in its proper place,
+##### and emmer as the border?
+#### For he is rightly instructed;
+##### his God teaches him.
+###### - Isaiah 28:24-26
+
+The prophet tells us that you don't plow forever. Eventually you plant, the seed grows, 
+and you reap a harvest. Plowing is used in Scripture as a metaphor for suffering, as in 
+Psalms 129 and 141, as well as Job 1. The plowing of the wicked may not end, but not the 
+plowing of the righteous. 
+
+**This is a sacrifice issue**. No suffering ordained by God for our good is without 
+purpose or an end date.
+
+**Hearing**. In the third quote, the Keller accuses women of pursuing these offices so
+they can "get to do what \[they\] want to do". I doubt that women are different from men
+when it comes to their capacity for pride and presumption. I will apply Keller's charge to myself.
+
+... In progress ...
+
+## The Three Errors, Synthesized
+
