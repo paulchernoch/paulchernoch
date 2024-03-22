@@ -174,7 +174,45 @@ purpose or an end date.
 they can "get to do what \[they\] want to do". I doubt that women are different from men
 when it comes to their capacity for pride and presumption. I will apply Keller's charge to myself.
 
-... In progress ...
+From 1989 to 1993, I passionately pursued oversea missionary service until the mission board, 
+Pastor Larry, and finally my own reluctant spirit said no, I was not called.
+
+Around that time I also pursued studies at seminary until it became clear to me 
+that I was not called to the pastorate. I wept bitterly.
+
+Only after another decade passed did the Lord begin to guide me into my calling, in the area 
+of Christian writing.
+
+I was a proud, impulsive, multi-talented MIT graduate passionately set on pursuiing a course
+that God had not ordained and yet I heard the voice of the Holy Spirit when he said, "No!" 
+I heard and obeyed with tears. Are not godly women equally capable of hearing a "No!" from God?
+Or a "Yes"?
+
+**This is a spiritual hearing issue.**
 
 ## The Three Errors, Synthesized
 
+The three errors fall into three complementary categories that touch on the three principle aspects 
+of a person: the mind, the heart and the hand.
+
+  - The windows to the *mind* are your *ears*. They let God's truth in.
+
+  - The windows to the *heart* are your *eyes*. They let God's glory in.
+
+  - The door from the soul to the *world* are your *hands*. By them your actions speak your purposes, priorities and plans to the world and to God.
+
+Keller said women cannot clearly **hear** from God concerning their calling. 
+She herself did not **see** the glory of the hidden words that Solomon urged us to seek out, words that
+free women to lead. And she dismisses as inadequate the collective sacrifice offered by the **hands** of Christian women
+down through the centuries. Abraham paid a tenth to Melchizedek. In American Colonial times, 
+one in eight women died in childbirth, and by many other measures they devoted themselves to
+the work handed to them. What more sacrifice is needed?
+
+The three categories above are not chosen as a rhetorical device. Jesus alluded to them in his parable
+about the sower and the seed. 
+
+  - The **seed** snatched by the bird is the knowledge of the gospel targeted at your **ears**. Trampled earth represents our deaf ears.
+  - The **rocky soil** is the **heart** that shuts out the glory of God shining from the sun. It needs the water of the Holy Spirit to survive, like tears of repentance to wash the dust from our eyes.
+  - The **thorny soil** is the **hand** that won't give. Its priorities are selfish, its habits dissolute, and its sacrifices made for show. It needs to have those clingy weeds pulled up and those thorns pruned, to mourn the loss of worthless things and find things of eternal value.
+
+...In progress...
