@@ -106,7 +106,7 @@
     - title: Plague, Precept, Prophet, Peace
       sub:   God's Ten Liberating Commandments
   - title: Lady Wisdom's House
-    image: fas fa-synagogue
+    image: fa-solid fa-building-columns
     parts:
     - title: Lady Wisdom
     - title: Hannah's Song
@@ -207,6 +207,12 @@
     - title: The Parable of the Wedding Feast
     - title: The Childbearing
       sub:   1 Timothy 2
+  - title: A Divided World
+    sub: Social Issues and the Coming Time to Hate
+    image: fa-solid fa-person-harassing
+    parts: 
+    - title: Against Complementarianism
+      sub: A Critique of Jesus, Justice & Gender Roles by Kathy Keller
   - title: Chronology
     image: fas fa-calendar-alt
     parts:
