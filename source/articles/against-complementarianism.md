@@ -42,6 +42,7 @@ plan for the liberation of women from oppression. The damning realization was no
 not found God's plan. My sin was that I had not even asked the question! All my curiosity at
 poring over millennia of history to understand God's ways and I had no curiosity about
 the Almighty's great concern for his daughters and how he was determined to show it.
+My lack of empathy was a grave sin.
 
 I was cut to the heart. I immediately prayed, "Lord, what is your plan for the liberation of women 
 from opporession?" Over the course of the next week, I pored over the Bible. God's glory
@@ -53,4 +54,87 @@ And God is forgiving.
 
 ## The Three Errors of Kathy Keller
 
+Keller's book is concise and well-written. She offers excellent exegesis of passages that demolish 
+the more extreme views of churches who place even more restrictions upon women than she advocates.
+Without her penetrating logic, I would have overlooked critical holes in my own argument.
+I owe her a debt because I would have overlooked a key aspect of the most wonderful Biblical evidence
+in favor of egalitarianism, the need for a Biblical model of ordination that applies to women. 
+Before we get to that, here are the errors that I spotted. I will collect the quotes up front, 
+then address each in turn.
 
+#### "What is clear in the Bible interprets what is cloudy." 
+###### - Page 12
+
+#### "Why did God arrange things this way, 
+#### with a gender-based division of labor?" 
+#### At the end of the day, I still don't know.
+###### - Page 29
+
+#### "... and your life takes on meaning and matures
+#### when you conform to God's will, not when
+#### you get to do what you want to do."
+###### - Page 32
+
+**Perspicacity**. The first quote argues for the perspicacity of Scripture. The main things are the plain things
+and the plain things are the main things. It is a fruitful attitude to hold when approaching
+the more confusing passages of the Bible. However, is it universally applicable?
+Can God's plan for women vis-a-vis leadership in the church be understood from the clear passages
+alone? Consider Solomon's words:
+ 
+#### It is the glory of God to conceal things, 
+##### but the glory of kings is to search things out.
+###### - Proverbs 25:2
+
+Then recall the story of Cornelius, Peter and the acceptance of the Gentiles into the church.
+The Old Testament is filled with promises of God's desire to spread his message to all peoples, not just the Jews.
+Not until Peter's vision of being permitted to eat unclean animals did the church accept this
+"obvious" truth. It is not the clear words that govern the meaning, it is the defining passages
+that do so. The defining passages for a topic can then be used to deal with the special cases.
+Sometimes the Holy Spirit must illuminate a formerly unrecognized defining passage so that its
+teaching may be applied to the unclear verses elsewhere. In a while I will show that there
+is a defining portion of the Bible that tackles the issue of God's plan for women and it has 
+been overlooked by the church.
+
+**Purpose**. With the second quote, Keller admits **ignorance** as to God's purposes concerning 
+the restrictions upon women. Such humility is a good start. However, what if knowing the very thing 
+of which she claims ignorance is essential if we are to arrive at a true and just understanding? 
+There are two ways to understand this: a fact or an attitude. As a fact, it is a statement that 
+the Lord has not revealed this information. As an attitude, it is a resistance to looking for that 
+answer, persevering until you have it, and then forming your conclusions.
+
+We know that God has revealed this information about why women are suffering because He promised
+that He would tell it to us. Keller's problem is that she is close to charging God with breaking that promise. 
+
+#### Is a trumpet blown in a city,
+##### and the people are not afraid?
+#### Does disaster come to a city,
+##### unless the Lord has done it?
+
+#### For the Lord God does nothing
+##### without revealing his secret
+###### to his servants the prophets.
+###### - Amos 3:6-7
+
+What was the first breach in human relationships?
+
+What problem affects half of humanity?
+
+Of all the trials afflicting the world, which by its very magnitude and longevity 
+screams loudest for a solution with the possible exception of mortality itself?
+
+If ANY plan of God's to address ANY evil in the world deserves to be spelled out
+in Scripture, the plan to relieve the suffering of women is that plan.
+Surely the purpose behind the suffering of women is integral to the purpose behind God's plan.
+
+Years ago, a man gave a talk at Ruggles Baptist Church. He shared his ideas about
+Revelation. Revelation is filled with plagues. I asked the speaker why God chose the 
+particular plagues that He did. What was the purpose behind each plague? He said he didn't know.
+I figured that if he didn't know why, he really didn't know. 
+
+Since Keller admits she doesn't know why, she really doesn't know.
+
+I know why. I don't know everything about the why, but I learned something about it.
+I learned enough about the WHY to also know the WHEN. The WHEN is when God began to permit 
+women to serve as pastors and elders. We will get to that soon.
+
+In progress...

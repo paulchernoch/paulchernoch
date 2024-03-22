@@ -2,9 +2,9 @@
 title: A Divided World
 ---
 A significant result from my research into Biblical prophecy is that Solomon gave us a roadmap to history.
-He provided the mainspring for God's prophetic clocks by listing twenty-eight times in Eccluesiastes 3.
+He provided the mainspring for God's prophetic clocks by listing twenty-eight times in Ecclesiastes 3.
 Those times, in the order he listed them, correspond to twenty-eight eras of history of equal length.
-His clock begins with the dedication of the temple in Jerusalem in 960 BC. The length of each era is one hunmdred twenty years.
+His clock begins with the dedication of the temple in Jerusalem in 960 BC. The length of each era is one hundred twenty years.
 By this reckoning, we are in the waning days of **a time to love**. The world is now transitioning to the next era,
 **a time to hate**, which begins in 2040 AD. The divisions within society and between nations will deepen and conflict,
 persecution and great hardship will afflict Christians, Jews and everyone else.
@@ -37,8 +37,8 @@ The world will become so wicked that distance between the culture and communitie
 unbelievers must increase. Otherwise the corruption would destroy the church.
 
 The great waves of persectution that are on the horizon will be the visible aspect of the spiritual 
-forces propeling the separation. The recent worldwide demonstrations in support of the terrosists of Hamas
-and the rapid escalation in anti-semitism is just the beginning. In the three months following the 
+forces propeling the separation. The recent worldwide demonstrations in support of the terrorists of Hamas
+and the rapid escalation in anti-semitism are just the beginning. In the three months following the 
 savage October 7 attack by Hamas against Israeli civilians, there was a 360% jump in antisemitic incidents 
 in the US, according to the Anti-Defamation League (ADL). The 3,283 antisemitic incidents included 628 
 acts against synagogues and 505 incidents on college campuses. For more details, read:
