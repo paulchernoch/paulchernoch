@@ -744,7 +744,7 @@ my eyes were opened. The book is pregnant with them!
  - Born (8) including a “born of woman” reference to Jesus in Job 25
  - Birth (8)
  - Begotten (1)
- - Delivered (of childbirth) 1, Deliver(s,ed) (from evil & suffering) (7)
+ - Delivered (of childbirth) (1), Deliver(s,ed) (from evil & suffering) (7)
  - Breast(s) (2), Nursed (1)
  - Mountain goats and does calving
  - Firstborn (1)
@@ -756,6 +756,20 @@ my eyes were opened. The book is pregnant with them!
  - Widow(s) (7)
  - Fatherless (8)
  - Total = 122
+
+In addition to direct words, there are clever turns of phrase. In Job 1, the troubles begin when the oxen are plowing.
+Plowing with oxen is figure of speech that can mean having sex and conceiving. Remember Samson, who posed a riddle to the 
+Philistines, only to have them cheat by getting his wife to cajole the answer out of him?
+
+#### And he said to them, 
+##### “If you had not plowed with my heifer, 
+##### you would not have found out my riddle.”
+###### - Judges 14:18b
+
+One more analogy is significant. In Job 32:19, Elihu says, "Behold, my belly is like wine that has no vent; like new wineskins ready to burst."
+That is a clever way to speak about a woman's water getting ready to break. Elihu was Job's spiritual midwife,
+to ensure that the wisdom God was forming in Job would come to term and not be stillborn, with Job giving up in despair, 
+cursing His Maker and losing his reward, his baby.
 
 See God's love for women? He doesn't just care about whether they can give him children. 
 
@@ -774,5 +788,110 @@ The words alone should get the message across, but there is more.
 
 I spent years deducing the structures of Job. It has more than one, each making a different point.
 Somehow I missed a big one. The whole book maps out, week by week, month by month, the course of a woman's pregnancy.
+The words and phrases paint a **qualitative** picture of a pregnant woman. The structure makes it **quantitative**.
+
+To begin, how long does an average pregnancy last? Today it ranges from 276 to 285 days, depending on measurement method. 
+Forty (40) weeks is thus an accurate definition for the length of a pregnancy.
+Hmmm. In the Bible, forty is a number that signifies suffering, like:
+
+  - the forty days and nights of rain in the flood
+  - Jesus being tempted in the desert by Satan for forty days
+  - the Jews wandering in the desert for forty years
+
+After a woman gives birth, there is a laying-in period, a time to rest and heal from the birth. 
+This typically lasts two to three weeks.
+
+Thus the whole of a pregnancy plus the laying-in period lasts forty-two weeks.
+
+There are forty-two chapters in Job! Coincidence? No! What does God say in Job 39?
+
+#### “Do you know when the mountain goats give birth?
+##### Do you observe the calving of the does?
+#### **Can you number the months that they fulfill**,
+##### and do you know the time when they give birth,
+#### when they crouch, bring forth their offspring,
+##### and are delivered of their young?
+###### - Job 39:1-3
+
+In her thirty-ninth week, don't you think that women are counting the days until it is all over?
+Well God is right there alongside her, counting those days with just as much anticipation!
+
+The same analysis can be done to count the months.
+
+  - A half month for conception, chapters 1 & 2
+  - Nine speeches by Job, for the nine full months of pregnancy
+  - Elihu as midwife and God as expectant Father there for the delivery and post-partum period
+
+All the major aspects of a woman bearing a child and giving birth are present and slotted into the right chapters:
+
+  - Chapter 1, the plowing, is the time of conception. Chapters one and two are the first two weeks of pregnancy.
+  - Chapter 3 has Job's first big speech. He spends most of it talking about not wishing he was born, speaks of his mother nursing him, and generally focuses his words on the analogy of childbirth, cementing it as the key theme of the book
+  - The bulk of the book is a back and forth between Job's friends, who say hurtful lies, and Job, who looks to God for help. This alternation of good and bad symbolizes the labor pains.
+  - The last words from one of the friends specifically addresses birth, when Bildad says in Job 25:
+#### How then can man be in the right before God?
+#### How can he who is **born** of woman be pure?
+  - Elihu arrives to serve as midwife. 
+  - When Elihu talks about being a wineskin about to burst, that is the water ready to break. 
+  - Elihu announces the arrival of God in Job 37, which symbolizes the arrival of the baby.
+  - But what if the baby is stillborn, arriving too early in week 38, cold as ice? God even shows his care for women who endure this horror:
+#### From whose womb did the ice come forth,
+##### and who has given birth to the frost of heaven? 
+###### - Job 38:29, ESV
+  - God in chapter 39 speaks tenderly about caring for pregnant animals and counts the days until delivery.
+  - Job 40 shows God as a proud papa, boasting about his baby Behemoth. It is like God is saying, "My kid will be the strongest kid ever born! Nobody can touch him!"
+#### “He is the first of the works of God;
+##### let him who made him bring near his sword!"
+  - Job recovers his health in chaoter 42, the end of the laying-in period. 
+  - His family members bring gifts, like people do to celebrate the birth of a child.
+  
+At the end of Job, the narrative traces out the family's future, which speaks of new generations to be born:
+
+#### And after this Job lived 140 years, and saw his sons, 
+##### and his sons' sons, four generations.
+#### And Job died, an old man, and full of days.
+###### - Job 42:16-17
+
+One curiousity is the words day and days, which occur 52 times in Job, suggesting the weeks in a full year, symbolizing time.
+
+When you get to the end, what is the full set of blessings that Job (and his dughters) received?
+Now compare it to the blessing that women have received in the last few centuries:
+
+  - Improved Health
+  - Long life
+  - Antibiotics and blood transfusions in mid 20th century reduced death in childbirth by more than fifty-fold.
+  - Wealth
+  - Property rights (to the daughters)
+  - restored Family relationships
+  - Honor in the community
+  - A priestly calling
+  - Ability to read the Word of God.
+
+This last one, the Word of God, is vital. Job prayed one of the most powerful prayers ever prayed in all of history.
+
+#### **“Oh that my words were written!**
+##### **Oh that they were inscribed in a book!**
+#### **Oh that with an iron pen and lead**
+##### **they were engraved in the rock forever!**
+#### For I know that my Redeemer lives,
+##### and at the last he will stand upon the earth.
+#### And after my skin has been thus destroyed,
+##### yet in my flesh I shall see God,
+#### whom I shall see for myself,
+##### and my eyes shall behold, and not another.
+#### My heart faints within me!
+###### - Job 19:23-27
+
+Job’s prayer created the Bible! His was the first Bible book written down. He declared that God can raise the dead.
+During medieval times women were prevented from doing many things, but one thing was not denied them.
+
+Women were permitted to be scribes and copy Bibles. Medieval nuns were active in preserving and transmitting 
+the Word of God to future generations. That is because those women knew that their redeemer lives and would
+eventually save them, too.
+
+It is now incontestable that the book of Job has a deep, prophetic message for women.
+Since the whole of the book concerns women, surely the ordination that Job received
+was also promised to them. But when?
+
+It is time to tie Job's prophcecy of the Childbearing down to history.
 
 ...In progress...
