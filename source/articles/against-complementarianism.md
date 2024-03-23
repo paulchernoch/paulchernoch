@@ -685,7 +685,7 @@ In Job 39, God speaks about his care for his animals. This is what he says about
 
 God sets the donkey free! In my books, I argue that Job 39 corresponds to "a time for love".
 Again, "a time for love" began in 1920 AD with women getting the right to vote.
-Then in 1921, women in Loisiana gained the right to sit on a jury, followed soon by the other states.
+Then in 1921, women in Louisiana gained the right to sit on a jury, followed soon by the other states.
 
 Matthew 21 has one more surprise:
 
@@ -711,10 +711,68 @@ And of course, the final scene in Revelation is the wedding supper of the lamb, 
 This brings us to Job. Like the other pillars, this book ends with Job's daughters being exalted. 
 At the start of the story, his first daughters visited their brothers' houses to celebrate. That means that they did not have houses of their own.
 His three new daughters now receive an equal share in the inheritance with their brothers. This shows a change in Job.
+This also has God on record as demanding equality between men and women in the first book of the Bible to be written.
+Equality was not an afterthought!
 We learn the daughters' names but not the names of their brothers. In the Bible, which names many men but fewer women, this is a huge reversal.
  
 However, the Book of Job has much more to say about women than a footnote about his daughters' excellencies.
-The other pillars of wisdom have things to 
+In fact, the Book of Job contains more feminine analogies than any other book in the Bible. 
+If you are like me, my early thoughts on seeing references to women in Job were that his suffering was being compared
+to the suffering of women as a simple analogy. He suffered *like* a woman. He had no reputation, no authority and no property *like* a woman.
+It is not that way. The tragedies of women's lives are more than literary turns of phrase to be exploited in a clever poem. 
+This book is many things:
 
+  1. a true story about the suffering of a righteous man
+  2. a parable about the sufferings of the Christ (as I show in my book *Job Rises: Thirsteen Keys to a Resilinet Life*)
+  3. a parable of the suffering of the Jewish people
+  4. a prophecy of the suffering of women throughout history and their redemption.
+
+I wrote a whole book about Job and never noticed the fourth. I didn't spot it until last year. 
+It is one of the hidden things of God that need to be searched out. Let's begin by looking at words.
+
+**Feminine Analogies in Job**
+
+The word **womb** is found more times in Job than any other book of the Bible. It is not the only word related to the
+life experiences of women to be found here. When I at last dcided to look and for the first time saw how often these words occur in Job,
+my eyes were opened. The book is pregnant with them!
+
+ - Womb (10) Most of any book in the Bible
+ - Woman (7), Women (2)
+ - Wife (3)
+ - Conceive(d) (2)
+ - Labor (of childbirth) (1)
+ - Born (8) including a “born of woman” reference to Jesus in Job 25
+ - Birth (8)
+ - Begotten (1)
+ - Delivered (of childbirth) 1, Deliver(s,ed) (from evil & suffering) (7)
+ - Breast(s) (2), Nursed (1)
+ - Mountain goats and does calving
+ - Firstborn (1)
+ - Child(ren) (15), Infants (1), Offspring (3)
+ - Daughter(s) (6)
+ - Son(s) (18)
+ - Mother(s) (3)
+ - Barren (3), Stillborn (1), Childless (1)
+ - Widow(s) (7)
+ - Fatherless (8)
+ - Total = 122
+
+See God's love for women? He doesn't just care about whether they can give him children. 
+
+  - He care about widows. 
+  - He cares about women who can't have babies.
+  - He cares about the stillborn and the devastated woman whose hopes were dashed. 
+  - He cares about the fatherless, because that means that there is a single mother struggling to make ends meet.
+  - And the Lord stands by women as they watch their children grow up and move away, a bittersweet time, as related in Job 39.
+
+And in the person of Job's wife, you have the caretaker, overwhelmed by the burden of caring for a sick husband after she 
+also lost her ten children, her property, and her respect in the community.
+
+The words alone should get the message across, but there is more.
+
+**Weeks and Months**
+
+I spent years deducing the structures of Job. It has more than one, each making a different point.
+Somehow I missed a big one. The whole book maps out, week by week, month by month, the course of a woman's pregnancy.
 
 ...In progress...
