@@ -199,7 +199,7 @@ of a person: the mind, the heart and the hand.
 
   - The windows to the *heart* are your *eyes*. They let God's glory in.
 
-  - The door from the soul to the *world* are your *hands*. By them your actions speak your purposes, priorities and plans to the world and to God.
+  - The door from the soul to the *world* is your *hands*. By them your actions speak your purposes, priorities and plans to the world and to God.
 
 Keller said women cannot clearly **hear** from God concerning their calling. 
 She herself did not **see** the glory of the hidden words that Solomon urged us to seek out, words that
@@ -214,5 +214,98 @@ about the sower and the seed.
   - The **seed** snatched by the bird is the knowledge of the gospel targeted at your **ears**. Trampled earth represents our deaf ears.
   - The **rocky soil** is the **heart** that shuts out the glory of God shining from the sun. It needs the water of the Holy Spirit to survive, like tears of repentance to wash the dust from our eyes.
   - The **thorny soil** is the **hand** that won't give. Its priorities are selfish, its habits dissolute, and its sacrifices made for show. It needs to have those clingy weeds pulled up and those thorns pruned, to mourn the loss of worthless things and find things of eternal value.
+
+Keller is a well-educated, dedicated Christian with long experience in Christian minstry. Who am I to challenge her?
+Where do I get the audacity to say that I understand these things better? I get it from making the same mistakes that she made
+and having God turn me around. Here are my credentials:
+
+**Hearing.** In January 2005, I lost all hearing in my left ear. A month of steroids and trips to the doctor did nothing. 
+At the end of one doctor visit, I went into the waiting room and pulled out my Bible and a card with a yearly Bible reading plan.
+The plan told me to open to Exodus 4, where God is speaking to Moses from the burning bush. This is what I read:
+
+#### Then the Lord said to him, 
+##### “Who has made man's mouth? 
+##### Who makes him mute, or **deaf**, or seeing, or blind? 
+##### Is it not I, the Lord? 
+##### Now therefore go, and **I will be with your mouth **
+##### **and teach you what you shall speak**.”
+###### - Exodus 4:11-12
+
+That is the only place in the Bible that says that God makes people deaf. As I read those words, I knew God was in the room with me.
+He knew why I was deaf and it was part of his plan. I accepted it in peace and stopped praying for healing.
+Two days later, my hearing returned. By these words from God, I received a sobering message. I was spiritually deaf.
+I also received a promise. The Lord would open my spiritual ears so that I could learn the things that he would teach me.
+
+That was why, years later, I was able to ask the Lord about his plan for freeing women from oppression and hear an answer that
+contradicted what I believed.
+
+**Seeing.** Around 2012, reflecting on Moses again, I realized that he knew something that I did not: what is of ultimate value.
+A conversation between Moses and God in Exodus shows us what Moses desired to see above everything else in all creation.
+
+#### Moses said, “Please show me your glory.” 
+###### - Exodus 33:18
+
+God's glory was what Moses' eyes longed most to see. My priorities were different. What did I do about it? I prayed.
+For the next three years I fasted each Monday, and repeated the same simple prayer: "Lord, show me your glory."
+During the time of my fast I saw no visions, had no dreams, and experienced no miracles, yet when I concluded my fast,
+I knew that I had been heard. A year later, I began to see the world differently. I lost my job and a few days later, 
+my mother died. Though out of work and with no savings, my first thought was to help my father in his time of sorrow. 
+I took him on a vacation to New York City to visit his relatives and the city of his birth. Then I stayed with him
+in the hospital for weeks when he almost died of anaplasmosis. All this time I was at peace. A year after that, 
+the Lord began to open up the Scriptures to me, starting with Job. He was showing me His glory through His Word. 
+My studies of Job eventually led me to revise my ideas about women in leadership, among other things.
+
+**Touching.** There is no specific connection between my miraculous recovery of hearing, my prayer to see God's glory,
+and receiving wisdom about God's plan for women in ministry. When someone challenged me a couple years ago
+by asking something along the lines of "Why would God choose you to tell these things?", I had no answer.
+Only while reflecting on Keller's book did the answer finally come to me. It is with our hands that we offer
+our sacrifices to God. Some sacrifices we make willingly. Others are involuntary. They spring from the sufferings of life.
+The latter provoke deep mourning. Just as women have made both kinds of offering, so have I.
+
+*First, the suffering*. Around 2003, I dreamt that while driving my family in our car, a tornado caught us up.
+We were lifted up, then came crashing down. This repeated too many times to count: up, down, up, down. 
+Then the storm ended and we drove on in safety. Days later, a visiting preacher at the International Family Church
+spoke about Jesus calming the storm. He said that the reason Jesus guided the disciples into the storm was not 
+primarily to teach them faith. They entered the storm so that they could reach the other side of the lake.
+Two demon-possessed men were waiting there, in desperate need of a savior.
+
+The conjunction of dream and sermon told me that God was about to thrust my family and I into a long storm but that 
+it would eventually come to an end and we would move on in safety. The imagery of a whirlwind would one day 
+guide me to study Job. And like my hearing loss less than two years later, I was being told that on the other side of the
+storm there would be something fruitful for me to do.
+
+This nearly two decade long period of suffering gave me empathy for women who fear that their suffering has no end.
+All suffering has an end. The suffering of the faithful also has a noble purpose. I am convinced that what
+God made plain to me is also true of women. They were subjected to a long trial, but it is over and we should acknowledge that.
+
+*Second, the sacrifice*. When I was in my late twenties, I was foolish with money. I made one really bad decision and the Lord
+spoke to me sternly in a dream, warning me to reverse my decision, which warning I heeded. Some months later, I 
+came into a sum of money. Knowing that I could not trust myself to make wise use of the money, I prayed. I asked the Lord
+to let me know what I should do with the money. In my prayer, I named the exact amount: eight thousand dollars.
+At the time, this was more that half of all I owned in this world.
+
+Days later, I attended a prayer meeting. One person at the meeting said that a Christian charity for which she volunteered
+had an urgent need. The amount of that need was exactly eight thousand dollars.
+
+Days later, I went to Pastor Larry and asked him to pray with me, to decide if it was really the Lord's will.
+I was a willing but not so cheerful giver. Then I made arrangements to give the money anonymously, because
+Jesus warned us about making big gestures to gain the approval of men. After I made this sacrifice, I searched my
+heart and did not like how hard it was for me to obey. In the Bible, when many people offered God a sacrifice they also
+made a petition. What did I ask God for? I prayed, "Lord, give me a generous heart."
+
+It was a generous heart that I would one day need if I was to expend months of study, writing and prayer for the benefit of women.
+So why did God answer my prayer by directing me to study what His word says about this particular subject?
+Why shine a light on His care for the suffering of women?
+It was because the money that I donated, most of what I owned, was to a crisis pregnancy center. And so the Lord taught me the meaning of 
+these words of Saint Paul:
+
+#### and she shall be saved through **the child-bearing**, 
+##### if they remain in faith, and love, and sanctification, with sobriety.
+###### - 1 Timothy 2:15 (YLT)
+
+The Child-bearing is not what you think...
+
+## A Model for the Ordination of Women
+
 
 ...In progress...
