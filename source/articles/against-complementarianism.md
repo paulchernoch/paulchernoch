@@ -511,7 +511,7 @@ Can we apply Job’s model of Ordination to Women? Yes!
 
 How do we connect the Book of Job to women? 
 
-  - First, Job is part of a larger group of seven books, the Seven Pillars of Wisdom. The names of the books are Psalms, Job, Proverbs, Song of Songs, Ecclesiastes, Matthew and Revelation. These seven books share common structural and thematic patterns. The words and actions of several women in these books are relevant to the subject of ordination, so their presence in one of the pillar books connects them to Job. Those women are Lady Wisdom, the Wife of Noble Character, King Lemuel's mother, the bride in Song of Songs and Hannah, mother of the prophet Samuel. (Hannah appears in 1 Samuel, which is not a pillar book. However, Hannah is the one who prophesies the existence of the seven pillars.)
+  First, Job is part of a larger group of seven books, the Seven Pillars of Wisdom. The names of the books are Psalms, Job, Proverbs, Song of Songs, Ecclesiastes, Matthew and Revelation. These seven books share common structural and thematic patterns. The words and actions of several women in these books are relevant to the subject of ordination, so their presence in one of the pillar books connects them to Job. Those women are Lady Wisdom, the Wife of Noble Character, King Lemuel's mother, the bride in Song of Songs and Hannah, mother of the prophet Samuel. (Hannah appears in 1 Samuel, which is not a pillar book. However, Hannah is the one who prophesies the existence of the seven pillars.)
 
 ### Lady Wisdom
 
@@ -547,7 +547,7 @@ Each quartet of times in the poem describes one phase of life.
 The seven themes are the seven phases of life that a person goes through to get from birth to full maturity.
 In the quoted passage, I have added those themes.
 
-#### **SECURITY (Birth to Age 7)**:
+#### **SECURITY** (Birth to Age 7):
 ##### The bows of the mighty are broken, 
 ###### but the feeble bind on strength.
 #### **ABILITY** (Ages 7 to 14):
@@ -607,5 +607,114 @@ The four times of the community phase were crucial for women:
   - a time to mend was when women began to heal from their pregnancy
   - a time to be silent was when women began to be educated in large numbers
   - a time to speak was the misisonary age, 1800 to 1920 AD, when women were sent out with men to speak the gospel in foreign lands.
+
+### More Women!
+
+Just as women are being liberated as we near the end of history, so the ends of the books that constitute the seven pillars
+also show the progress of women.
+
+**Proverbs**. The final chapter, Proverbs 31, includes a mention of King Lemuel's mother, who taught him the wise sayings that he included in his chapter.
+ She was a teacher of men. The chapter concludes with the description of a wife of noble character. 
+ Such a woman buys and sells property, creates and sells goods at market and is worthy of respect. 
+ She is described in terms that show she is the equal of any man.
+
+**Psalms**. The last mention of women in the Psalms is in Psalm 144. 
+
+#### May our sons in their youth be like plants full grown, 
+##### our daughters like corner pillars cut for the structure of a palace...
+###### - Psalm 144:12
+
+By describing the daughters as palace pillars, the Bible both extols not just their beauty but also their strength and wisdom,
+by connecting them to the pillars of wisdom.
+
+The most significant reference to women in the Psalms is in Psalm 68:
+
+#### The Lord gives the word;
+##### the women who announce the news are a great host:
+##### “The kings of the armies—they flee, they flee!”
+##### The women at home divide the spoil—
+###### though you men lie among the sheepfolds—
+##### the wings of a dove covered with silver,
+###### its pinions with shimmering gold.
+##### When the Almighty scatters kings there,
+###### let snow fall on Zalmon.
+###### - Psalm 68:11-14, ESV
+
+In this psalm, the men are lazy and the women industrious. The men are cowards and the women, courageous.
+It is a mighty throng of women who broadcast the news of the gospel, fight the battle, and scatter the kings of the earth.
+Think about that...
+
+**Song of Songs**. The main character is a woman to whom many come for advice. She tells them not to arouse or awaken love until it so desires.
+This was a prophecy of "a time for love". It has been during our current era, "a time for love", 
+that women have made the greatest strides towards equality.
+
+**Matthew**. It is women who first see Jesus and report his resurrection. Yet there is another amazing event that is overlooked by people 
+studying this gospel, the story of Jesus sending for a donkey to ride into Jerusalem.
+
+#### Now when they drew near to Jerusalem and came to Bethphage, 
+#### to the Mount of Olives, then Jesus sent two disciples, 
+#### saying to them, “Go into the village in front of you, 
+#### and immediately you will find a donkey tied, and a colt with her. 
+#### Untie them and bring them to me. If anyone says anything to you, 
+#### you shall say, 
+##### ‘The Lord needs them,’ and he will send them at once.” 
+#### This took place to fulfill what was spoken by the prophet, saying,
+##### “Say to the daughter of Zion,
+###### ‘Behold, your king is coming to you,
+##### humble, and mounted on a donkey,
+###### on a colt, the foal of a beast of burden.’”
+###### - Matthew 21:1-5
+
+Jesus is telling them that the daughter of Zion will be set free!
+In *Peace, like Solomon Never Knew*, I show how each of Mattthew's twenty-eight chapters corresponds to a different one of Solomon's times, in order.
+This chapter of Matthew, chapter 21, corresponds to the twenty-first time, "a time to tear". The time of tearing is the time when 
+a woman gives birth and is set free from her burden.
+
+Why use a donkey as an image? Women were treated like beasts of burden, so that fits, but there is a deeper reason.
+In Job 39, God speaks about his care for his animals. This is what he says about the donkey:
+
+#### “Who has let the wild donkey go free?
+##### Who has loosed the bonds of the swift donkey,
+#### to whom I have given the arid plain for his home
+##### and the salt land for his dwelling place?
+#### He scorns the tumult of the city;
+##### he hears not the shouts of the driver.
+#### He ranges the mountains as his pasture,
+##### and he searches after every green thing.
+###### - Job 39:5-8
+
+God sets the donkey free! In my books, I argue that Job 39 corresponds to "a time for love".
+Again, "a time for love" began in 1920 AD with women getting the right to vote.
+Then in 1921, women in Loisiana gained the right to sit on a jury, followed soon by the other states.
+
+Matthew 21 has one more surprise:
+
+#### But when the chief priests and the scribes saw the wonderful things
+####  that he did, and the children crying out in the temple, 
+##### “Hosanna to the Son of David!” 
+#### they were indignant, and they said to him, 
+##### “Do you hear what these are saying?” 
+#### And Jesus said to them, 
+##### “Yes; have you never read,
+###### “‘Out of the mouth of infants and nursing babies
+###### you have prepared praise’?”
+###### - Matthew 21:15-16
+
+Again, the Bible draws our attention to infants and nursing babies. There is surely a message about God's plan for women hidden here.
+
+**Revelation**. In two of my books I show how the locusts with women's hair in Revelation 9 are Christian queens, sent to opporess the ungodly.
+That prophecy was fulfilled by Queen Victoria of England, Maria Theresa of Austria, and the women Tsars of Russia, like Catherine and Anna, to name a few.
+And of course, the final scene in Revelation is the wedding supper of the lamb, where the bride has made herself ready.
+
+### Job at Last!
+
+This brings us to Job. Like the other pillars, this book ends with Job's daughters being exalted. 
+At the start of the story, his first daughters visited their brothers' houses to celebrate. That means that they did not have houses of their own.
+His three new daughters now receive an equal share in the inheritance with their brothers. This shows a change in Job.
+We learn the daughters' names but not the names of their brothers. In the Bible, which names many men but fewer women, this is a huge reversal.
+ 
+However, the Book of Job has much more to say about women than a footnote about his daughters' excellencies.
+The other pillars of wisdom have things to 
+
 
 ...In progress...
