@@ -430,7 +430,7 @@ The next two are hereditary, only for Jews, and only for men.
 
 The age of the Apostles has passed.
 
-This leave only pastors and elders as defined by Paul, and by the refgulations he gives,
+This leave only pastors and elders as defined by Paul, and by the regulations he gives,
 this is only open to men.
 
 The Book of Hebrews devotes a lot of space to Jesus as belonging to the Order of Melchizedek.
@@ -509,58 +509,103 @@ Can we apply Job’s model of Ordination to Women? Yes!
 
 ## Identification: The Metaphor of Childbirth
 
-Lady Wisdom
+How do we connect the Book of Job to women? 
+
+  - First, Job is part of a larger group of seven books, the Seven Pillars of Wisdom. The names of the books are Psalms, Job, Proverbs, Song of Songs, Ecclesiastes, Matthew and Revelation. These seven books share common structural and thematic patterns. The words and actions of several women in these books are relevant to the subject of ordination, so their presence in one of the pillar books connects them to Job. Those women are Lady Wisdom, the Wife of Noble Character, King Lemuel's mother, the bride in Song of Songs and Hannah, mother of the prophet Samuel. (Hannah appears in 1 Samuel, which is not a pillar book. However, Hannah is the one who prophesies the existence of the seven pillars.)
+
+### Lady Wisdom
+
 The book of Proverbs describes a scene that may be related to the ordination of women:
-Wisdom has built her house;
-she has hewn her **seven pillars.**
-She has **slaughtered her beasts**;  she has mixed her **wine;**
-she has also set her **table.**
-She has sent out her young women to call
-from the highest places in the town,
-“Whoever is simple, let him turn in here!”
-To him who lacks sense she says,
-“Come, **eat of my bread**
-and **drink of the wine** I have mixed. (Proverbs 9:1-5, ESV)
-Communion:
-Note how Lady Wisdom’s offering of bread and wine imitates the Christian ritual of communion.
-Conclusion: Women are permitted to serve communion.
+
+#### Wisdom has built her house;
+##### she has hewn her **seven pillars.**
+#### She has **slaughtered her beasts**;  
+##### she has mixed her **wine;**
+###### she has also set her **table.**
+#### She has sent out her young women to call
+#### from the highest places in the town,
+##### “Whoever is simple, let him turn in here!”
+##### To him who lacks sense she says,
+###### “Come, **eat of my bread**
+###### and **drink of the wine** I have mixed. 
+###### - Proverbs 9:1-5, ESV
+
+  - **Observation**: Lady Wisdom’s offering of bread and wine imitates the Christian ritual of communion.
+  - **Conclusion**: Women are permitted to serve communion.
+  
 The slaughtering of beasts, which figuratively is the destruction of evil empires, is the burnt offering of the ordination sacrifice.
-The seven pillars are first hinted at in the prayer of a woman who made a great sacrifice.
-Hannah
+The seven pillars which are named by Solomon were first hinted at in the prayer of a woman who made a great sacrifice: her first born son.
+
+### Hannah
+
 Hannah dedicated her firstborn son, Samuel, to serve the Lord.
 To Honor her sacrifice, God put a prophecy on her lips.
 Her prayer prophesies the existence of the seven pillars of wisdom a century before Solomon wrote of them.
-Hannah’s prayer of 1 Samuel 2:4-10, ESV
-SECURITY:
-The bows of the mighty are broken, 
-but the feeble bind on strength.
-ABILITY:
-Those who were full have hired themselves out for bread, 
-but those who were hungry have ceased to hunger.
-STABILITY:
-**The barren has borne seven,** 
-but she who has many children is **forlorn.**
-AMITY:
-The Lord kills and brings to life; 
-he brings down to Sheol and raises up.
-OPPORTUNITY: 
-The Lord makes poor and makes rich; 
-he brings low and he exalts.
-COMMUNITY:
-He raises up the poor from the dust; 
-he lifts the needy from the ash heap
-to make them sit with princes 
-and inherit a seat of honor.
-INTERLUDE:
-**For the pillars of the earth are the Lord's,**
-and on them he has set the world.
-LOYALTY: 
-He will guard the feet of his faithful ones, but the wicked shall be cut off in darkness, for not by might shall a man prevail.
-The adversaries of the Lord shall be broken to pieces; against them he will thunder in heaven.
-CONCLUSION: 
-The Lord will judge the ends of the earth; 
-he will give strength to his king 
-and exalt the horn of his anointed.”
+Hannah's prayer includes seven reversals of fortune, some of which concern women.
+These seven reversals conform to seven themes expressed by Solomon in Ecclesiastes 3 in his poem of the twenty-eight times of life.
+Each quartet of times in the poem describes one phase of life.
+The seven themes are the seven phases of life that a person goes through to get from birth to full maturity.
+In the quoted passage, I have added those themes.
 
+#### **SECURITY (Birth to Age 7)**:
+##### The bows of the mighty are broken, 
+###### but the feeble bind on strength.
+#### **ABILITY** (Ages 7 to 14):
+##### Those who were full have hired themselves out for bread, 
+###### but those who were hungry have ceased to hunger.
+#### **STABILITY** (Ages 14 to 21)
+##### **The barren has borne seven,** 
+###### but she who has many children is **forlorn.**
+#### **AMITY** (Ages 21 to 28):
+##### The Lord kills and brings to life; 
+###### he brings down to Sheol and raises up.
+#### **OPPORTUNITY** (Ages 28 to 35): 
+##### The Lord makes poor and makes rich; 
+###### he brings low and he exalts.
+#### **COMMUNITY** (Ages 35 to 42):
+##### He raises up the poor from the dust; 
+###### he lifts the needy from the ash heap
+##### to make them sit with princes 
+###### and inherit a seat of honor.
+#### **INTERLUDE** :
+##### **For the pillars of the earth are the Lord's,**
+###### and on them he has set the world.
+#### **LOYALTY** (Ages 42 to 49): 
+##### He will guard the feet of his faithful ones, 
+###### but the wicked shall be cut off in darkness, 
+###### for not by might shall a man prevail.
+##### The adversaries of the Lord shall be broken to pieces; 
+###### against them he will thunder in heaven.
+#### **CONCLUSION**: 
+##### The Lord will judge the ends of the earth; 
+###### he will give strength to his king 
+###### and exalt the horn of his anointed.”
+###### - 1 Samuel 2:4-10, ESV
+
+Hannah reveals the seven pillars in two ways. 
+
+  - First, she shows seven reversals.
+  - Second, she splits the identification of the pillars into two statements. "The barren has borne seven" numbers the pillars. Several verses later, she names "the pillars of the earth".
+
+In my book *Peace, like Solomon Never Knew*, I connect each time of life to a 120 year period. 
+The clock started in 960 BC, with the dedication of Solomon's temple.
+Thus each phase lasts 480 years. The stability phase (for gaining verbal and physical self control during the teen years) ran from 1 to 480 AD. 
+It was near the end of this time that the final removal of woman from church leadership as elders and even communion servers occurred. 
+The verse speaks of a barren woman bearing children. A pregnant woman is confined; she cannot do all the work she once did until the baby is delivered.
+The end of the stability phase is the latter part of the teen years, when girls got married. Thus the historical era of stability saw the beginning of
+women's confinement, but a confinement that would eventually end.
+
+The next time of interest is the phase of community. The poor and needy are raised up to places of honor.
+The corresponding time in history was 1440 to 1920 AD. At the end of this time women began to be educated in schools, 
+received the right to own their own property, became missionaries, and a few became pastors.
+The last year of the era, 1920 AD, was when women in the US earned the right to vote.
+Truly, women were lifted up.
+
+The four times of the community phase were crucial for women:
+
+  - a time to tear was when the baby was delivered
+  - a time to mend was when women began to heal from their pregnancy
+  - a time to be silent was when women began to be educated in large numbers
+  - a time to speak was the misisonary age, 1800 to 1920 AD, when women were sent out with men to speak the gospel in foreign lands.
 
 ...In progress...
