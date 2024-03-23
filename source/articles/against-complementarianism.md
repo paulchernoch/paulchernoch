@@ -183,7 +183,7 @@ that I was not called to the pastorate. I wept bitterly.
 Only after another decade passed did the Lord begin to guide me into my calling, in the area 
 of Christian writing.
 
-I was a proud, impulsive, multi-talented MIT graduate passionately set on pursuiing a course
+I was a proud, impulsive, multi-talented MIT graduate passionately set on pursuing a course
 that God had not ordained and yet I heard the voice of the Holy Spirit when he said, "No!" 
 I heard and obeyed with tears. Are not godly women equally capable of hearing a "No!" from God?
 Or a "Yes"?
@@ -215,7 +215,7 @@ about the sower and the seed.
   - The **rocky soil** is the **heart** that shuts out the glory of God shining from the sun. It needs the water of the Holy Spirit to survive, like tears of repentance to wash the dust from our eyes.
   - The **thorny soil** is the **hand** that won't give. Its priorities are selfish, its habits dissolute, and its sacrifices made for show. It needs to have those clingy weeds pulled up and those thorns pruned, to mourn the loss of worthless things and find things of eternal value.
 
-Keller is a well-educated, dedicated Christian with long experience in Christian minstry. Who am I to challenge her?
+Keller is a well-educated, dedicated Christian with long experience in Christian ministry. Who am I to challenge her?
 Where do I get the audacity to say that I understand these things better? I get it from making the same mistakes that she made
 and having God turn me around. Here are my credentials:
 
@@ -324,7 +324,7 @@ God directly or through a prophet defines the rights and responsibilities of the
 And something is established about how to pass the baton to the next generation, such as regulations about 
 hereditary offices or matters of character and wisdom.
 These patterns and the constraints guide us to the questions we must answer, namely statements we must find in the Bible
-and reall events we must find in history.
+and real events we must find in history.
 Only if we can answer these questions and point to these events can we assert that the Bible sanctions women serving in these roles.
 Here is what we must find:
 
@@ -606,7 +606,7 @@ The four times of the community phase were crucial for women:
   - a time to tear was when the baby was delivered
   - a time to mend was when women began to heal from their pregnancy
   - a time to be silent was when women began to be educated in large numbers
-  - a time to speak was the misisonary age, 1800 to 1920 AD, when women were sent out with men to speak the gospel in foreign lands.
+  - a time to speak was the missionary age, 1800 to 1920 AD, when women were sent out with men to speak the gospel in foreign lands.
 
 ### More Women!
 
@@ -651,7 +651,7 @@ that women have made the greatest strides towards equality.
 **Matthew**. It is women who first see Jesus and report his resurrection. Yet there is another amazing event that is overlooked by people 
 studying this gospel, the story of Jesus sending for a donkey to ride into Jerusalem.
 
-#### Now when they drew near to Jerusalem and came to Bethphage, 
+#### Now when they drew near to Jerusalem and came to Bethpage, 
 #### to the Mount of Olives, then Jesus sent two disciples, 
 #### saying to them, “Go into the village in front of you, 
 #### and immediately you will find a donkey tied, and a colt with her. 
@@ -666,7 +666,7 @@ studying this gospel, the story of Jesus sending for a donkey to ride into Jerus
 ###### - Matthew 21:1-5
 
 Jesus is telling them that the daughter of Zion will be set free!
-In *Peace, like Solomon Never Knew*, I show how each of Mattthew's twenty-eight chapters corresponds to a different one of Solomon's times, in order.
+In *Peace, like Solomon Never Knew*, I show how each of Matthew's twenty-eight chapters corresponds to a different one of Solomon's times, in order.
 This chapter of Matthew, chapter 21, corresponds to the twenty-first time, "a time to tear". The time of tearing is the time when 
 a woman gives birth and is set free from her burden.
 
@@ -702,7 +702,7 @@ Matthew 21 has one more surprise:
 
 Again, the Bible draws our attention to infants and nursing babies. There is surely a message about God's plan for women hidden here.
 
-**Revelation**. In two of my books I show how the locusts with women's hair in Revelation 9 are Christian queens, sent to opporess the ungodly.
+**Revelation**. In two of my books I show how the locusts with women's hair in Revelation 9 are Christian queens, sent to oppress the ungodly.
 That prophecy was fulfilled by Queen Victoria of England, Maria Theresa of Austria, and the women Tsars of Russia, like Catherine and Anna, to name a few.
 And of course, the final scene in Revelation is the wedding supper of the lamb, where the bride has made herself ready.
 
@@ -723,7 +723,7 @@ It is not that way. The tragedies of women's lives are more than literary turns 
 This book is many things:
 
   1. a true story about the suffering of a righteous man
-  2. a parable about the sufferings of the Christ (as I show in my book *Job Rises: Thirsteen Keys to a Resilinet Life*)
+  2. a parable about the sufferings of the Christ (as I show in my book *Job Rises: Thirteen Keys to a Resilient Life*)
   3. a parable of the suffering of the Jewish people
   4. a prophecy of the suffering of women throughout history and their redemption.
 
@@ -733,7 +733,7 @@ It is one of the hidden things of God that need to be searched out. Let's begin 
 **Feminine Analogies in Job**
 
 The word **womb** is found more times in Job than any other book of the Bible. It is not the only word related to the
-life experiences of women to be found here. When I at last dcided to look and for the first time saw how often these words occur in Job,
+life experiences of women to be found here. When I at last decided to look and for the first time saw how often these words occur in Job,
 my eyes were opened. The book is pregnant with them!
 
  - Womb (10) Most of any book in the Bible
@@ -841,7 +841,7 @@ All the major aspects of a woman bearing a child and giving birth are present an
   - Job 40 shows God as a proud papa, boasting about his baby Behemoth. It is like God is saying, "My kid will be the strongest kid ever born! Nobody can touch him!"
 #### “He is the first of the works of God;
 ##### let him who made him bring near his sword!"
-  - Job recovers his health in chaoter 42, the end of the laying-in period. 
+  - Job recovers his health in chapter 42, the end of the laying-in period. 
   - His family members bring gifts, like people do to celebrate the birth of a child.
   
 At the end of Job, the narrative traces out the family's future, which speaks of new generations to be born:
@@ -853,7 +853,7 @@ At the end of Job, the narrative traces out the family's future, which speaks of
 
 One curiousity is the words day and days, which occur 52 times in Job, suggesting the weeks in a full year, symbolizing time.
 
-When you get to the end, what is the full set of blessings that Job (and his dughters) received?
+When you get to the end, what is the full set of blessings that Job (and his daughters) received?
 Now compare it to the blessing that women have received in the last few centuries:
 
   - Improved Health
@@ -892,6 +892,6 @@ It is now incontestable that the book of Job has a deep, prophetic message for w
 Since the whole of the book concerns women, surely the ordination that Job received
 was also promised to them. But when?
 
-It is time to tie Job's prophcecy of the Childbearing down to history.
+It is time to tie Job's prophecy of the Childbearing down to history.
 
 ...In progress...
