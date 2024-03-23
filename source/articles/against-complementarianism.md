@@ -307,5 +307,260 @@ The Child-bearing is not what you think...
 
 ## A Model for the Ordination of Women
 
+Keller is clear that she believes women will never be permitted to serve in authoritative roles. 
+I disagree with her, but also with many of her opponents. Agreeing with Keller, I accept the following propositions:
+
+  - The Bible has not been tampered with and its words can be trusted.
+  - The Apostle Paul did not speak in error or out of malice or misogyny.
+  - Jesus' death and resurrection did not immediately qualify women to serve as pastors and elders, or Paul would have said so.
+  - Paul's limitations in 1 Timothy and Ephesians were not just because of a few disorderly women, they were universal in scope, covering all churches in his era.
+  - The Scripture passages forming the legal basis regulating which men may become pastors and elders still apply only to men.
+
+Reading my above concessions to Keller's logic one might assume there is no alternative to the complementarian view.
+Rather, it defines constraints that must be satisfied if another solution to the puzzle is to be found. 
+After studying what the Bible has to say about ordaining people for service, some patterns are clear.
+The seeker or the community offer a sacrifice. They hold a special ceremony of ordination. 
+God directly or through a prophet defines the rights and responsibilities of the position.
+And something is established about how to pass the baton to the next generation, such as regulations about 
+hereditary offices or matters of character and wisdom.
+These patterns and the constraints guide us to the questions we must answer, namely statements we must find in the Bible
+and reall events we must find in history.
+Only if we can answer these questions and point to these events can we assert that the Bible sanctions women serving in these roles.
+Here is what we must find:
+
+1. The actual offering of a special sacrifice for ordination
+2. A Bible story about a ceremony of ordination
+3. A prophetic metaphor in that Bible story that proves that the ceremony applies to women
+4. A prophetic framework for time that tells us when the ordination occurred
+5. A clear connection between that story and the challenging passages in 1&2 Timothy and Ephesians 5 that fairly reinterprets those texts
+6. An explanation for why the wait had to be so long, God’s purpose for women’s suffering even after the Cross
+7. Personal testimony demonstrating that I was guided to these ideas through supernatural means via the Holy Spirit
+
+I have already partly addressed the seventh point, so the rest of this article will tackle the first six.
+It is time to find a Biblical model for the ordination of women.
+
+## Submission: The Sacrifice of Long-suffering Christian Women
+
+When a Christian suffers but holds onto their faith, God endows them with spiritual power. So it has been with women.
+
+In my books I share the story of Janet Sullivan. Pastor Larry urged the congregation to visit an ailing church member
+who lived in a nursing facility.
+I had suffered for a decade from depression so I was determined not to visit her. 
+Didn't I have enough problems of my own? After numerous appeals from the pulpit, I relented.
+It seems that she lived a block from my apartment in Somerville. Nobody else in the church lived anywhere near her.
+I was her neighbor. So one morning, on my way to church, I visited her, gave her a cassette of Christian music,
+prayed for her and read to her from the Bible. I was there maybe fifteen minutes.
+After I left, I began to sob. I had never seen anyone in such pain. I never before cried so hard for somebody 
+besides myself. Then after a half hour of walking, as I reached the BU Bridge, a miracle. 
+My soul was flooded with joy. It stayed for a week. I doubt that any day this side of heaven I will every experience
+so much joy again. After meeting Janet, I was permanently delivered from my depression.
+
+Six months later, Janet Sullivan died. At her funeral, another mourner said something with which we all agreed. 
+
+#### "When you were with Janet it was like the Holy Spirit was pouring out of her."
+
+The best analogy that I can think of is how the breaking of a jar of perfume fills the whole house with fragrance.
+That was Janet. Even near death, she shared her faith with visiting family, friends and strangers. She never let 
+go of God and He never let go of her. Apart from the person who led me to Christ, no one has had as big an impact
+on my life as a frail woman with rheumatoid arthritis with only months left to live.
+
+Her suffering produced a harvest of righteousness. Her suffering came to an end. 
+How many women down the centuries have held onto their faith in Jesus, suffered and died?
+Shall their collective suffering not eventually complete the sacrifice for their daughter's ceremony of ordination?
+Has it not been reached already?
+
+Before modern times, few things terrified women more than childbirth. As noted earlier, one in eight women died bearing children.
+It is with good reason that Paul used that allusion in his letter to Timothy. 
+
+#### But **she** will be saved by **The Childbearing**, 
+#### if **they** continue in faith 
+#### and love 
+#### and holiness 
+#### with sound-mindedness.
+###### - 1 Timothy 2:15 YLT (Young’s Literal Translation)
+
+The construction is peculiar. It is not "childbearing" but "The Childbearing". 
+This speaks of a special event. 
+
+  - It is not the birth of Jesus, as that was already in the past, and this event was in the future. 
+  - It is also not a reference to normal childbirth, as "she" will be saved by what "they" do. The ones having the child are a "they", a group of women.
+  - The references to faith, love, holiness and sound-mindedness as well as the ordeal of bearing a child speak of a sacrifice.
+
+My interpretation (in part) is as follows:
+
+  - Christian Women were instructed to make great sacrifices for the faith.
+  - This would prepare them and the church for an event called The Childbearing.
+  - The event would save later women from the trials the earlier women once endured and the oppression they once suffered.
+  - This sacrifice would be a sacrifice of ordination, qualifying women to serve as pastors and elders.
+  
+So what is The Childbearing?
+
+When did it happen?
+
+Where in the Bible is it hidden?
+
+Let’s back up and consider the varieties of ordination for service...
+
+## Consecration: Models of Ordination
+
+The Bible offers several models for ordination. They confer an honor given by God, not men.
+
+#### For every high priest chosen from among men is appointed to act
+#### on behalf of men in relation to God, to offer gifts and sacrifices
+#### for sins. He can deal gently with the ignorant and wayward, 
+#### since he himself is beset with weakness. Because of this 
+#### he is obligated to offer sacrifice for his own sins just as 
+#### he does for those of the people. 
+#### **And no one takes this honor for himself, but only**
+#### **when called by God, just as Aaron was**. 
+###### Hebrews 5:1-4, ESV
+
+Here are some models for ordination of which I am aware:
+
+  - The Order of Melchizedek
+  - The Levitical Priesthood (defined in Leviticus)
+  - The Aaronic Priesthood (defined in Leviticus)
+  - The Apostles
+  - Male Pastors and Elders (defined by Paul)
+
+The first applies only to Jesus (and the original Melchizedek, as a type).
+Hebrews 7:11-16 tells us how Jesus qualifies. It is *by the power of an indestructible life*.
+
+The next two are hereditary, only for Jews, and only for men.
+
+The age of the Apostles has passed.
+
+This leave only pastors and elders as defined by Paul, and by the refgulations he gives,
+this is only open to men.
+
+The Book of Hebrews devotes a lot of space to Jesus as belonging to the Order of Melchizedek.
+In the middle of this, the writer uses a marvelous feminine analogy:
+
+#### For though by this time you ought to be teachers, 
+#### you need someone to teach you again the basic principles 
+#### of the oracles of God. You need **milk,** not **solid food,** 
+#### for everyone who lives on **milk** is unskilled in 
+#### the word of righteousness, since he is a **child.** 
+###### Hebrews 5:12-13, ESV
+
+This analogy talks about the mature getting past the time when they need to drink
+their mother's milk. If there is an event called "The Childbearing", 
+then perhaps there is additional development past that to get to a mature faith
+and become qualified to lead in the church? We shall see. Between 1 Timothy and Hebrews,
+we have these two analogies related to the role of women in bearing and raising children.
+Could they be pointing us to a part of the Bible rich in feminine analogies that
+we can use to interpret their deeper meaning?
+
+Before we see about that, we still have not found a suitable model for the ordination of women.
+Are there any other models we have overlooked?
+
+Yes! We have the ordination of Job.
+
+Chronologically, the first mention of a priest in the Bible (other than a pagan one) was Melchizedek.
+The second was Job. Here are the steps whereby Job became a priest:
+
+  1. **Sacrifice**. Job offered many sacrifices. One was to continue to praise God despite his suffering. The second was to let go of his thirst for vengeance.
+  2. **Ordination**. God officiated the ceremony. He authorized Job's service without any intermediary.
+  3. **Regulations**. God described the rituals of animal sacrifice to be followed by the friends.
+  4. **Scope of Authority**. God authorized Job to forgive his friends' sins and endorsed Job's words about himself.
+
+Here is part of Job's story:
+
+#### After the Lord had spoken these words to Job, the Lord said 
+#### to Eliphaz the Temanite: “My anger burns against you and 
+#### against your two friends, for you have not spoken of me 
+#### what is right, as my servant Job has. Now therefore take 
+#### seven bulls and seven rams and go to my servant Job and 
+#### offer up a **burnt offering** for yourselves. And my servant Job 
+#### shall pray for you, for **I will accept his prayer**
+#### **not to deal with you according to your folly**. 
+#### For you have not spoken of me what is right, as my servant Job has.” 
+#### So Eliphaz the Temanite and Bildad the Shuhite and Zophar the Naamathite 
+#### went and did what the Lord had told them, and **the Lord accepted Job's prayer.**
+###### - Job 42:7-9
+
+Chronologically, Job is the first person in the Bible explicitly authorized to forgive the sins of others. (The remit of Melchizedek is fuzzy.)
+The friends' burnt offering is significant. Such an offering was used in many Levitical ceremonies, including the original ordination 
+of Aaron's sons in Leviticus:
+
+#### And he put all these in the hands of Aaron and in the hands 
+#### of his sons and waved them as a wave offering before the Lord. 
+#### Then Moses took them from their hands and burned them on the altar 
+#### with the **burnt offering**. This was an **ordination offering** 
+#### with a pleasing aroma, a food offering to the Lord.
+###### - Leviticus 8:27-28
+
+How important is the ordination of Job to be a priest?
+
+  - The Book of Job is likely the first Bible book written.
+  - Job 29 is the central chapter of the Old Testament. Thus Job is close to God’s heart and his ordination as priest is foundational.
+  - Job ends with a startling change:
+  
+#### And he called the name of the first daughter Jemimah, 
+#### and the name of the second Keziah, 
+#### and the name of the third Keren-happuch. 
+#### And in all the land there were no women so beautiful as Job's daughters. 
+#### And **their father gave them an inheritance among their brothers**. 
+###### - Job 42:14-15, ESV
+
+This is the earliest and one of the strongest declarations of equality between the sexes in the Bible.
+
+Can we apply Job’s model of Ordination to Women? Yes!
+
+## Identification: The Metaphor of Childbirth
+
+Lady Wisdom
+The book of Proverbs describes a scene that may be related to the ordination of women:
+Wisdom has built her house;
+she has hewn her **seven pillars.**
+She has **slaughtered her beasts**;  she has mixed her **wine;**
+she has also set her **table.**
+She has sent out her young women to call
+from the highest places in the town,
+“Whoever is simple, let him turn in here!”
+To him who lacks sense she says,
+“Come, **eat of my bread**
+and **drink of the wine** I have mixed. (Proverbs 9:1-5, ESV)
+Communion:
+Note how Lady Wisdom’s offering of bread and wine imitates the Christian ritual of communion.
+Conclusion: Women are permitted to serve communion.
+The slaughtering of beasts, which figuratively is the destruction of evil empires, is the burnt offering of the ordination sacrifice.
+The seven pillars are first hinted at in the prayer of a woman who made a great sacrifice.
+Hannah
+Hannah dedicated her firstborn son, Samuel, to serve the Lord.
+To Honor her sacrifice, God put a prophecy on her lips.
+Her prayer prophesies the existence of the seven pillars of wisdom a century before Solomon wrote of them.
+Hannah’s prayer of 1 Samuel 2:4-10, ESV
+SECURITY:
+The bows of the mighty are broken, 
+but the feeble bind on strength.
+ABILITY:
+Those who were full have hired themselves out for bread, 
+but those who were hungry have ceased to hunger.
+STABILITY:
+**The barren has borne seven,** 
+but she who has many children is **forlorn.**
+AMITY:
+The Lord kills and brings to life; 
+he brings down to Sheol and raises up.
+OPPORTUNITY: 
+The Lord makes poor and makes rich; 
+he brings low and he exalts.
+COMMUNITY:
+He raises up the poor from the dust; 
+he lifts the needy from the ash heap
+to make them sit with princes 
+and inherit a seat of honor.
+INTERLUDE:
+**For the pillars of the earth are the Lord's,**
+and on them he has set the world.
+LOYALTY: 
+He will guard the feet of his faithful ones, but the wicked shall be cut off in darkness, for not by might shall a man prevail.
+The adversaries of the Lord shall be broken to pieces; against them he will thunder in heaven.
+CONCLUSION: 
+The Lord will judge the ends of the earth; 
+he will give strength to his king 
+and exalt the horn of his anointed.”
+
 
 ...In progress...
