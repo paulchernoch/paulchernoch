@@ -1104,118 +1104,180 @@ of Old Testament prophecies to describe the coming exile.
 As Revelation 13 reveals, Satan controls the beasts of the world, its evil empires. That means that Satan controlled the empire of Alexander, 
 one of the beasts and one of the heads of Daniel’s visions. The devil is full of hatred, even for his servants. 
 Job 20 is Satan’s *epitaphios logos*, his funeral oration, for the fallen “Lord of Asia”, the “Great King” and “Son of Zeus”. 
+In the case of Alexander the Great, we have the unusual situation that he was attended by doctors and their notes
+about his medical condition were preserved by secular historians down through the ages, such as Flavius Arrianus, 
+Ptolemy, Plutarch, and Quintus Curtius. Because of that, we can match his known symptoms to the prophecy of Job with precision.
 Here then are the profound connections between Job 20 (from the NIV) and the death of Alexander:
 
-#### Verse 5. **“... the mirth of the wicked is brief, the joy of the godless lasts but a moment.”** 
-##### Alexander fell ill during the merriment of a banquet.
+#### Verse 5. **“... the mirth of the wicked is brief, 
+#### the joy of the godless lasts but a moment.”** 
+Alexander fell ill during the merriment of a banquet.
 
-#### Verse 6. “**Though the pride of the godless person reaches to the heavens and his head touches the clouds...**” 
-##### Though a man, he pursued and accepted divine honors and titles, just as Satan sought the throne of heaven.
+#### Verse 6. “**Though the pride of the godless person 
+#### reaches to the heavens and his head touches the clouds...**” 
+Though a man, he pursued and accepted divine honors and titles, just as Satan sought the throne of heaven.
 
-#### Verse 7. “**he will perish forever, like his own dung; those who have seen him will say, ‘Where is he?’**” 
-##### The word dung brings to mind the diarrhea that beset him.
+#### Verse 7. “**he will perish forever, like his own dung; 
+#### those who have seen him will say, ‘Where is he?’**” 
+The word dung brings to mind the diarrhea that beset him.
 
-#### Verse 8. “**Like a dream he flies away, no more to be found, banished like a vision of the night.**” 
-##### Delirium and hallucinations seized him.
+#### Verse 8. “**Like a dream he flies away, no more to be found, 
+#### banished like a vision of the night.**” 
+Delirium and hallucinations seized him.
 
-#### Verses 9-10. “**The eye that saw him will not see him again; his place will look on him no more. His children must make amends to the poor; his own hands must give back his wealth.**” 
-##### After Alexander died, his generals, called the Diadochi, fought each other to seize his title and kingdom. One was Cassander, who ordered the execution of Alexander’s wife Roxane and his sons Heracles and Alexander IV and usurped the throne of Macedon. Wikipedia says this of Cassander. “It was later even said that he could not pass a statue of Alexander without feeling faint.” Truly the one who took his place did not want look on him any more. Among those who contend that Alexander was poisoned, Cassander is their prime suspect.
+#### Verses 9-10. “**The eye that saw him will not see him again; 
+##### his place will look on him no more. 
+#### His children must make amends to the poor; 
+##### his own hands must give back his wealth.**” 
+After Alexander died, his generals, called the Diadochi, fought each other to seize his title and kingdom. One was Cassander, who ordered the execution of Alexander’s wife Roxane and his sons Heracles and Alexander IV and usurped the throne of Macedon. Wikipedia says this of Cassander. “It was later even said that he could not pass a statue of Alexander without feeling faint.” Truly the one who took his place did not want look on him any more. Among those who contend that Alexander was poisoned, Cassander is their prime suspect.
 
-#### Verse 11. “**The youthful vigor that fills his bones will lie with him in the dust.**” 
-##### Alexander died young.
+#### Verse 11. “**The youthful vigor that fills his bones 
+#### will lie with him in the dust.**” 
+Alexander died young.
 
-#### Verses 12-14. “**Though evil is sweet in his mouth and he hides it under his tongue, though he cannot bear to let it go and lets it linger in his mouth, yet his food will turn sour in his stomach; it will become the venom of serpents within him.**” 
-##### The first symptoms were excruciating stomach pain. Yet despite the travails of the first day of his illness, Alexander attended another banquet the next day. He could not bear to let his pleasures go.
+#### Verses 12-14. “**Though evil is sweet in his mouth and 
+##### he hides it under his tongue, 
+#### though he cannot bear to let it go and 
+##### lets it linger in his mouth, 
+#### yet his food will turn sour in his stomach; 
+##### it will become the venom of serpents within him.**” 
+The first symptoms were excruciating stomach pain. Yet despite the travails of the first day of his illness, Alexander attended another banquet the next day. He could not bear to let his pleasures go.
 
-#### Verse 15. “**He will spit out the riches he swallowed; God will make his stomach vomit them up.**” 
-##### His doctors induced vomiting.
+#### Verse 15. “**He will spit out the riches he swallowed; 
+##### God will make his stomach vomit them up.**” 
+His doctors induced vomiting.
 
-#### Verse 16. “**He will suck the poison of serpents; the fangs of an adder will kill him**.” 
-##### There is no mention of real snakes in the historical record. This may refer to medicines that his doctors gave him that worsened his condition, or metaphorically to the supernatural agent contributing to his death: Satan.
+#### Verse 16. “**He will suck the poison of serpents; 
+##### the fangs of an adder will kill him**.” 
+There is no mention of real snakes in the historical record. This may refer to medicines that his doctors gave him that worsened his condition, or metaphorically to the supernatural agent contributing to his death: Satan.
 
-#### Verse 17. “**He will not enjoy the streams, the rivers flowing with honey and cream.**” 
-##### His corpse was encased in a sarcophagus filled with honey! (Honey deters the decomposition of dead bodies.)
+#### Verse 17. “**He will not enjoy the streams, 
+##### the rivers flowing with honey and cream.**” 
+His corpse was encased in a sarcophagus filled with honey! (Honey deters the decomposition of dead bodies.)
 
-#### Verse 18. “**What he toiled for he must give back uneaten; he will not enjoy the profit from his trading.**” 
-##### Alexander eventually lost his appetite. Metaphorically, it means he never enjoyed ruling over the empire he conquered.
+#### Verse 18. “**What he toiled for he must give back uneaten; 
+##### he will not enjoy the profit from his trading.**” 
+Alexander eventually lost his appetite. Metaphorically, it means he never enjoyed ruling over the empire he conquered.
 
-#### Verse 20. “**Surely he will have no respite from his craving; he cannot save himself by his treasure.**” 
-##### Alexander suffered an unquenchable thirst.
+#### Verse 20. “**Surely he will have no respite from his craving; 
+##### he cannot save himself by his treasure.**” 
+Alexander suffered an unquenchable thirst.
 
-#### Verses 22-23. “**In the midst of his plenty, distress will overtake him; the full force of misery will come upon him. When he has filled his belly, God will vent his burning anger against him and rain down his blows on him.**” 
-##### This describes the start of his anguish, when he filled his belly with food and wine. The full force of misery struck his belly first. Reports indicated that if anyone touched his midsection gently it caused sharp pain. This also identifies the second, more substantial spiritual agent of Alexander’s destruction: God.
+#### Verses 22-23. “**In the midst of his plenty, distress will overtake him; 
+##### the full force of misery will come upon him. 
+#### When he has filled his belly, 
+##### God will vent his burning anger against him 
+###### and rain down his blows on him.**” 
+This describes the start of his anguish, when he filled his belly with food and wine. The full force of misery struck his belly first. Reports indicated that if anyone touched his midsection gently it caused sharp pain. This also identifies the second, more substantial spiritual agent of Alexander’s destruction: God.
 
-#### Verses 24-26. “**Though he flees from an iron weapon, a bronze-tipped arrow pierces him. He pulls it out of his back, the gleaming point out of his liver. Terrors will come over him; total darkness lies in wait for his treasures. A fire unfanned will consume him and devour what is left in his tent.**” 
-##### Though doctors say his symptoms do not indicate cirrhosis as the cause of death, Alexander was a heavy drinker, and drank to excess the first two days of his illness, which may have injured his liver and weakened his body’s ability to fight off disease. Reports of his symptoms include jaundice, indicating liver failure.
+#### Verses 24-26. “**Though he flees from an iron weapon, 
+##### a bronze-tipped arrow pierces him. 
+#### He pulls it out of his back, 
+##### the gleaming point out of his liver. 
+#### Terrors will come over him; 
+##### total darkness lies in wait for his treasures. 
+#### A fire unfanned will consume him and 
+##### devour what is left in his tent.**” 
+Though doctors say his symptoms do not indicate cirrhosis as the cause of death, Alexander was a heavy drinker, and drank to excess the first two days of his illness, which may have injured his liver and weakened his body’s ability to fight off disease. Reports of his symptoms include jaundice, indicating liver failure.
 
 There is no mistaking the “fire unfanned”; persistent high fever plagued him until he met his end. Also, recall how Plutarch described the initial pain as feeling like being stuck in the back with a spear, an almost identical analogy to being pierced by an arrowhead.
 A skeptic might argue that these symptoms could apply to someone other than Alexander the Great. Iron and bronze connect this passage to Nebuchadnezzar’s vision of the statue in Daniel 2. Bronze refers to Alexander’s own empire. This suggests treachery: the king of the bronze empire laid low by bronze. Iron represents the next empire: Rome. The kingdoms that sprang from his empire, the Ptolemaic and Seleucid empires, would eventually be conquered by Rome, the iron weapon from which his successors could not flee.
 
-#### Verses 27-28. “**The heavens will expose his guilt; the earth will rise up against him. A flood will carry off his house, rushing waters on the day of God’s wrath.**” 
-##### The flood could be a poetic description of the ailing man’s diarrhea, but there is no mistaking the wrath of both heaven and earth. Both God and Satan had their hand in Alexander’s destruction, including his house: the murder of his wife and children.
+#### Verses 27-28. “**The heavens will expose his guilt; 
+##### the earth will rise up against him. 
+#### A flood will carry off his house, 
+##### rushing waters on the day of God’s wrath.**” 
+The flood could be a poetic description of the ailing man’s diarrhea, but there is no mistaking the wrath of both heaven and earth. Both God and Satan had their hand in Alexander’s destruction, including his house: the murder of his wife and children.
 
 *Job 23, 1 BC-120 AD, A time to weep: Jesus endures the Cross*
 
-Passages from Job 23:
-“Today also my complaint is bitter;
-my hand is heavy on account of my **groaning.** (23:2)
-Behold, I go forward, but **he is not there**, and backward, but I do not perceive him;
-on the left hand when he is working, I do not behold him; he turns to the right hand, but **I do not see him**. (23:8-9)
-God has made my **heart faint**; the Almighty has **terrified** me;
-yet I am **not silenced** because of the **darkness,**
-nor because thick darkness covers my face. (23:16-17)
-Compare to what Jesus said in John’s gospel:
-A little while, and you will see me no longer; and again a little while, and you will see me.” (John 16:16, ESV)
+#### “Today also my complaint is bitter;
+##### my hand is heavy on account of my **groaning.** (23:2)
+#### Behold, I go forward, but **he is not there**, 
+##### and backward, but I do not perceive him;
+#### on the left hand when he is working, 
+##### I do not behold him; 
+#### he turns to the right hand, 
+##### but **I do not see him**. (23:8-9)
+#### God has made my **heart faint**; 
+##### the Almighty has **terrified** me;
+#### yet I am **not silenced** because of the **darkness,**
+##### nor because thick darkness covers my face. (23:16-17)
+Compare the words of Job to what Jesus said in John’s gospel:
+
+#### A little while, and you will see me no longer; 
+##### and again a little while, and you will see me.” 
+###### - John 16:16, ESV
 
 *Job 26, 360-480 AD, A time to dance*
 
-By the Edict of Thessalonica in 380 AD, Rome becomes a Christian empire and all Roman persecution of Christians ceases.
+By the Edict of Thessalonica in 380 AD, Rome became a Christian empire and all Roman persecution of Christians ceased.
 Rome was one of Satan’s beasts, now pierced and controlled by Christ’s kingdom. 
 Rome in this passage is symbolized by two sea serpents, Rahab and Leviathan, the Western and Eastern Roman empires, respectively:
-By his power he stilled the sea;
-by his understanding he **shattered Rahab**.
-By his wind the heavens were made fair;
-his hand **pierced the fleeing serpent**. (26:12-13)
+
+#### By his power he stilled the sea;
+##### by his understanding he **shattered Rahab**.
+#### By his wind the heavens were made fair;
+##### his hand **pierced the fleeing serpent**. (26:12-13)
 
 *Job 34, 1328-1447 AD (by a different clock), or 1320-1440 AD, A time to cast away.*
 
-The Black Plague and sieges against Constantinople are prophesied. The incurable would is both the effects of the plague and a series of devastating sieges by the Ottoman’s from which Byzantium would never recover. 
-The reference to water is the terrible thirst suffered by plague victims.
-Those who are “shaken” have fever and chills.
-When it says “they die in an instant”, people who often seemed well when they went to bed died during the night. 
-Although I am right, I am considered a liar; although I am guiltless, his **arrow** inflicts an **incurable wound**.’ (34:6)
-Is there anyone like Job, who drinks scorn like **water?** (34:7, NIV)
-They die in an instant, **in the middle of the night**; the people are **shaken** and they pass away; the mighty are removed without human hand. (34:20-21, NIV)
-Without inquiry he shatters the mighty and sets up others in their place. Because he takes note of their deeds, he **overthrows them in the night** and they are crushed. (34:24-25, NIV)
+The Black Plague and sieges against Constantinople are prophesied in Job 34. 
+
+  - The "incurable wound" is both the effects of the plague and a series of devastating sieges by the Ottoman’s from which Byzantium would never recover. 
+  - The reference to water is the terrible thirst suffered by plague victims.
+  - Those who are “shaken” have fever and chills.
+  - When it says “they die in an instant”, people who often seemed well when they went to bed died during the night. 
+  
+#### Although I am right, I am considered a liar; 
+##### although I am guiltless, his **arrow** inflicts an **incurable wound**.’ (34:6)
+#### Is there anyone like Job, who drinks scorn like **water?** (34:7, NIV)
+#### They die in an instant, **in the middle of the night**; 
+##### the people are **shaken** and they pass away; 
+###### the mighty are removed without human hand. (34:20-21, NIV)
+#### Without inquiry he shatters the mighty and 
+##### sets up others in their place. 
+#### Because he takes note of their deeds, 
+##### he **overthrows them in the night** and they are crushed. (34:24-25, NIV)
 
 *Job 35, 1440-1560 AD, a time to tear.*
 
 This is the time when greater wisdom began to arrive, the Childbearing, when a woman cries out in the night as she delivers her child.
-Because of the multitude of oppressions people cry out;
-they call for help because of the arm of the mighty.
-But none says, ‘Where is God my Maker,
-who gives **songs in the night**,
-**who teaches us more than the beasts of the earth**
-and makes us wiser than the birds of the heavens?’ (Job 35:9-11, ESV)
+
+#### Because of the multitude of oppressions people cry out;
+#### they call for help because of the arm of the mighty.
+#### But none says, 
+##### ‘Where is God my Maker,
+###### who gives **songs in the night**,
+##### **who teaches us more than the beasts of the earth**
+###### and makes us wiser than the birds of the heavens?’ (Job 35:9-11, ESV)
 This points us to the heavens, when Copernicus wrote *De Revolutionibus orbium coelestium* and began the Copernican revolution in astronomy.
-Look up at the heavens and see;
-gaze at the clouds so high above you. (35:5, NIV)
+
+#### Look up at the heavens and see;
+##### gaze at the clouds so high above you. (35:5, NIV)
 
 *Job 36, 1560-1680 AD, A time to mend*
 
 The new Protestant churches believed that all people must be taught to read, so that they may read the Bible for themselves:
-“God is exalted in his power. **Who is a teacher like him?** (36:22, NIV)
+
+#### “God is exalted in his power. 
+##### **Who is a teacher like him?** (36:22, NIV)
 Lawrence Stone, in “The Educational Revolution in England 1500-1640”, revealed something remarkable. Between the Reformation and the mid-seventeenth century, England built schools. Lots of schools! In fact, the number of schools increased more than tenfold. Puritans especially were keen to teach everyone how to read so that they could read the Bible. England devoted one quarter of all charitable funds to the construction of schools and their endowment, so that the poor could be educated. By the end of this period, over half of all people in England could read and 2.5% of men had a college degree.
+
 Job 36 even prophesies the first Thanksgiving of the Pilgrims in America:
-“He is wooing you from the jaws of distress
-to **a spacious place free from restriction**,
-to the comfort of your **table laden with choice food**. (Job 36:16)
+
+#### “He is wooing you from the jaws of distress
+##### to **a spacious place free from restriction**,
+#### to the comfort of your **table laden with choice food**. (Job 36:16)
+
 It also predicts the explosion in the writing of Christian hymns during that era:
-**Remember to extol his work, which people have praised in song.** (36:24, NIV)
+#### **Remember to extol his work, 
+##### which people have praised in song.** (36:24, NIV)
 
 *Job 37: 1680-1800 AD, a time to be silent.*
 
 God’s determination to silence people is given here:
+
 He seals up the hand of every man,
 that all men whom he made may know it.
 Then the beasts go into their lairs,
