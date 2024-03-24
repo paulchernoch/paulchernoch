@@ -988,70 +988,174 @@ Here is how the twenty-eight times map to sections of each book:
   - **Matthew**: Each of Matthew's twenty-eight chapters matches its corresponding time.
   - **Revelation**: This book is different. It is broken into seven parts, not twenty-eight, one for each phase of four times. Each section ends with a reference to thunder.
 
-Since the ordinary meaning of the poem is to regulate the course of a single human life from birth to maturity and finally to the grave,
+**Prolepsis: That's too complicated!**
 
-  - The clock starts with the dedication of Solomon’s temple.
-The twenty-eight times match successive eras in history
-Timeline. The history of Israel and the church.
-1. 960 BC. A time to **be born**. Northern kingdom of Israel born by civil war.
-2. 840 BC. A time to **die.** Israel taken captive by Assyria in 722 BC.
-3. 720 BC. A time to **plant.** Judah prospers under Hezekiah.
-4. 600 BC. A time to **uproot.** Judah exiled by Babylon.
-5. 480 BC. A time to **kill.** Haman incites genocide against the Jews but is killed instead, thanks to Queen Esther.
-6. 360 BC. A time to **heal.** Mild Ptolemaic rule.
-7. 240 BC. A time to **tear down**. Harsh Seleucid rule. Antiochus Epiphanes suppresses Judaism & desecrates the temple.
-8. 120 BC. A time to **build.** Herod rebuilds temple and the birth of Jesus, God’s new temple.
-9. 1 AD. A time to **weep.** Jesus crucified.
-10. 120 AD. A time to **laugh.** Justin Martyr.  “For I myself, when I discovered the wicked disguise which the evil spirits had thrown around the divine doctrines of the Christians, to turn aside others from joining them, **laughed** both at those who framed these falsehoods, and at the disguise itself and at popular opinion and I confess that I both boast and with all my strength strive to be found a Christian.”
-11. 240 AD. A time to **mourn.** Diocletian’s persecution.
-12. 360 AD. A time to **dance.** Edict of Thessalonica (380 AD). Christianity becomes official state religion of Rome and Roman persecution ends.
-13. 480 AD. A time to **scatter stones**. Rome sacked twice. Fall of Rome in 476 AD. Icelandic volcanoes trigger year of darkness in 536 AD and usher in the Dark Ages.
-14. 600 AD. A time to **gather stones**. Dome of the Rock built, 688-691 AD.
-15. 720 AD. A time to **embrace.** Seventh and Last Ecumenical Council, concerning proper worship, the embrace of God.
-16. 840 AD. A time to **refrain.** Division between eastern and western Christianity. Church corruption, a thing to avoid, not embrace.
-17. 960 AD. A time to **seek.** Church seeks freedom from secular governmental control. Believers seek Jesus’ return as it is one thousand years since he ascended to heaven.
-18. 1080 AD. A time to **lose.** First crusade. Jerusalem captured & lost.
-19. 1200 AD. A time to **keep.** Saint Francis of Assisi. Keeping God’s commands.
-20. 1320 AD. A time to **throw away**. God throws away Byzantium. Black Death.
-21. 1440 AD. A time to **tear.** Protestant Reformation. Wars of religion.
-22. 1560 AD. A time to **mend.** Peace of Westphalia. Religious tolerance extended to Lutherans, Calvinists & Jews.
-23. 1680 AD. A time to **be silent**. In the Pietism movement, Methodist revival and Great Awakening, people listen to God.
-24. 1800 AD. A time to **speak.** Christian overseas missions triple the number of believers. Abolition movement frees the slaves.
-25. 1920 AD. A time to **love.** God blesses the world with Prosperity & longer life and Israel with a new nation.
-26. 2040 AD. A time to **hate.** Civil discord & persecution grow. Behemoth.
-27. 2160 AD. A time for **war.** Armageddon. Leviathan.
-28. 2280 AD. A time for **peace.** Christ possibly returns. Wedding supper of the lamb.
-The twenty-eight times also match chapters 15 thru 42 of Job.
-This concordance anchors Job’s prophecies in time.
-By this, we know when “The Childbearing” occurred.
-Here are a selection of prophecies from Job:
-Job 18, 600-480 BC, A time to uproot, Babylonian Exile
-He is **torn from the tent** in which he trusted and is brought to the king of terrors.
-In his tent dwells that which is none of his; sulfur is scattered over his habitation.
-His **roots dry up** beneath,
-and his **branches wither** above.
-His memory perishes from the earth,
-and he has no name in the street. (18:14-17)
-Job 20, 360-240 BC, A time to Heal, Death of Alexander the Great 
-As Revelation 13 reveals, Satan controls the beasts of the world, its evil empires. That means that Satan controlled the empire of Alexander, one of the beasts and one of the heads of Daniel’s visions. The devil is full of hatred, even for his servants. Job 20 is Satan’s epitaphios logos, his funeral oration, for the fallen “Lord of Asia”, the “Great King” and “Son of Zeus”. Here then are the profound connections between Job 20 (from the NIV) and the death of Alexander:
-Verse 5. **“... the mirth of the wicked is brief, the joy of the godless lasts but a moment.”** Alexander fell ill during the merriment of a banquet.
-Verse 6. “**Though the pride of the godless person reaches to the heavens and his head touches the clouds...**” Though a man, he pursued and accepted divine honors and titles, just as Satan sought the throne of heaven.
-Verse 7. “**he will perish forever, like his own dung; those who have seen him will say, ‘Where is he?’**” The word dung brings to mind the diarrhea that beset him.
-Verse 8. “**Like a dream he flies away, no more to be found, banished like a vision of the night.**” Delirium and hallucinations seized him.
-Verses 9-10. “**The eye that saw him will not see him again; his place will look on him no more. His children must make amends to the poor; his own hands must give back his wealth.**” After Alexander died, his generals, called the Diadochi, fought each other to seize his title and kingdom. One was Cassander, who ordered the execution of Alexander’s wife Roxane and his sons Heracles and Alexander IV and usurped the throne of Macedon. Wikipedia says this of Cassander. “It was later even said that he could not pass a statue of Alexander without feeling faint.” Truly the one who took his place did not want look on him any more. Among those who contend that Alexander was poisoned, Cassander is their prime suspect.
-Verse 11. “**The youthful vigor that fills his bones will lie with him in the dust.**” Alexander died young.
-Verses 12-14. “**Though evil is sweet in his mouth and he hides it under his tongue, though he cannot bear to let it go and lets it linger in his mouth, yet his food will turn sour in his stomach; it will become the venom of serpents within him.**” The first symptoms were excruciating stomach pain. Yet despite the travails of the first day of his illness, Alexander attended another banquet the next day. He could not bear to let his pleasures go.
-Verse 15. “**He will spit out the riches he swallowed; God will make his stomach vomit them up.**” His doctors induced vomiting.
-Verse 16. “**He will suck the poison of serpents; the fangs of an adder will kill him**.” There is no mention of real snakes in the historical record. This may refer to medicines that his doctors gave him that worsened his condition, or metaphorically to the supernatural agent contributing to his death: Satan.
-Verse 17. “**He will not enjoy the streams, the rivers flowing with honey and cream.**” His corpse was encased in a sarcophagus filled with honey! (Honey deters the decomposition of dead bodies.)
-Verse 18. “**What he toiled for he must give back uneaten; he will not enjoy the profit from his trading.**” Alexander eventually lost his appetite. Metaphorically, it means he never enjoyed ruling over the empire he conquered.
-Verse 20. “**Surely he will have no respite from his craving; he cannot save himself by his treasure.**” Alexander suffered an unquenchable thirst.
-Verses 22-23. “**In the midst of his plenty, distress will overtake him; the full force of misery will come upon him. When he has filled his belly, God will vent his burning anger against him and rain down his blows on him.**” This describes the start of his anguish, when he filled his belly with food and wine. The full force of misery struck his belly first. Reports indicated that if anyone touched his midsection gently it caused sharp pain. This also identifies the second, more substantial spiritual agent of Alexander’s destruction: God.
-Verses 24-26. “**Though he flees from an iron weapon, a bronze-tipped arrow pierces him. He pulls it out of his back, the gleaming point out of his liver. Terrors will come over him; total darkness lies in wait for his treasures. A fire unfanned will consume him and devour what is left in his tent.**” Though doctors say his symptoms do not indicate cirrhosis as the cause of death, Alexander was a heavy drinker, and drank to excess the first two days of his illness, which may have injured his liver and weakened his body’s ability to fight off disease. Reports of his symptoms include jaundice, indicating liver failure.
+The universal reaction I get to these ideas is that there is no way God would make things so complicated as what I am describing. 
+Let me ask you:
+
+  - Have you ever seen the blueprints for a nuclear reactor?
+  - Have you ever seen the data flow and sequence diagrams for an enterprise software application?
+  - Have you ever seen my manager's planning calendar?
+  - Would you even consider answering the questions God posed to Job without differential equations, laws of gravity and electricity, fluid dynamics, or population genetics?
+
+Millions (maybe billions) of people key their lives into calendar applications like Outlook or Teams. 
+They mark up spiral bound paper planners or dog and cat calendars posted on their fridge. 
+They plan out their lives day by day, month by month, year by year.
+All I am saying is that God speaks to us in ways to which we can relate. 
+
+  - God broke His work of saving the world into seven categories.
+  - He divided His activities into those seven categories.
+  - He created a separate ledger for each category, the Seven Pillars of Wisdom.
+  - He divided time into equal increments, like a planner.
+  - He sorted his activities by time.
+  - He slotted each activity into its proper time period on each calendar.
+  - He wrote out his first draft of a complete plan for the salvation of the righteous and judgment of the wicked.
+  - Then He came up with a special set of code words.
+  - Then He encrypted the event descriptions, making them into parables using the code words.
+  - And He threw away the year and month markers.
+  - And He distributed parts of the answer key throughout the Bible.
+  - And He threw away the chapter and verse boundaries.
+  - Lastly, he oversaw the process of translating it into Greek, then Latin, then Old English, then Elizabethan English, and finally modern English so that we could read it today.
+
+It is the work of the church to recover the original message so that we can plan our lives, plan the work of the church, 
+understand God's will and find weapons to use against the enemy.
+
+  - Jewish scholars added back the verse boundaries to the Old Testament.
+  - Christian scholars added back the verse boundaries to the New Testament.
+  - A Christian scholar added back the chapter divisions. (Called by most scholars "uninspired", but the evidence is mounting that they were sovereignly determined and prophetically significant.)
+  - Many Jewish and Christian scholars have labored long to deduce the meaning of the code words.
+
+In this process, I have been doing this:
+
+  - adding to the set of decoded words and phrases
+  - using pattern recognition techniques to identify the planning ledgers (the Seven Pillars of Wisdom)
+  - identifying the categories associated with each ledger
+  - finding portions of the decryption key
+  - recovering the time grid so that each "page" of each planner can be dated
+  - comparing the rediscovered times to historical events to decode the prophecies
+  - discovering the larger trends and so clarifying and constraining the meaning of each prophecy
+  - applying the time grid to other books of the Bible where warranted
+
+In high school, the first thing I did every morning when I arrived was to go to the school library, get the latest Schenectady Gazette,
+and solve the Daily Cryptoquote puzzle. It was a single substitution cypher. If you cracked the code you were rewarded with a clever quote
+from a poet, philosopher or public figure. In my work, I developed a high speed computer algorithm for the unassisted classification of data
+with thousands of attributes per record. This is the kind of problem I was made for.
+
+**Back to the Clock**
+
+The main clock in Ecclesiastes starts with the dedication of Solomon’s temple in 960 BC.
+It follows the history of Israel and the Church. In my two most recent books, I work out a complex riddle
+in Ecclesiastes which gives us the duration of each era as 120 years. 
+Here then is how we can match Solomon's words to history:
+
+  1. 960 BC. A time to **be born**. Northern kingdom of Israel born by civil war.
+  2. 840 BC. A time to **die.** Israel taken captive by Assyria in 722 BC.
+  3. 720 BC. A time to **plant.** Judah prospers under Hezekiah.
+  4. 600 BC. A time to **uproot.** Judah exiled by Babylon.
+  5. 480 BC. A time to **kill.** Haman incites genocide against the Jews but is killed instead, thanks to Queen Esther.
+  6. 360 BC. A time to **heal.** Mild Ptolemaic rule.
+  7. 240 BC. A time to **tear down**. Harsh Seleucid rule. Antiochus Epiphanes suppresses Judaism & desecrates the temple.
+  8. 120 BC. A time to **build.** Herod rebuilds temple and the birth of Jesus, God’s new temple.
+  9. 1 AD. A time to **weep.** Jesus crucified.
+  10. 120 AD. A time to **laugh.** Justin Martyr.  “For I myself, when I discovered the wicked disguise which the evil spirits had thrown around the divine doctrines of the Christians, to turn aside others from joining them, **laughed** both at those who framed these falsehoods, and at the disguise itself and at popular opinion and I confess that I both boast and with all my strength strive to be found a Christian.”
+  11. 240 AD. A time to **mourn.** Diocletian’s persecution.
+  12. 360 AD. A time to **dance.** Edict of Thessalonica (380 AD). Christianity becomes official state religion of Rome and Roman persecution ends.
+  13. 480 AD. A time to **scatter stones**. Rome sacked twice. Fall of Rome in 476 AD. Icelandic volcanoes trigger year of darkness in 536 AD and usher in the Dark Ages.
+  14. 600 AD. A time to **gather stones**. Dome of the Rock built, 688-691 AD.
+  15. 720 AD. A time to **embrace.** Seventh and Last Ecumenical Council, concerning proper worship, the embrace of God.
+  16. 840 AD. A time to **refrain.** Division between eastern and western Christianity. Church corruption, a thing to avoid, not embrace.
+  17. 960 AD. A time to **seek.** Church seeks freedom from secular governmental control. Believers seek Jesus’ return as it is one thousand years since he ascended to heaven.
+  18. 1080 AD. A time to **lose.** First crusade. Jerusalem captured & lost.
+  19. 1200 AD. A time to **keep.** Saint Francis of Assisi, whose rule of faith emphasizes "Keeping" God’s commands.
+  20. 1320 AD. A time to **throw away**. God throws away Byzantium and the bodies of people lost to the Black Death.
+  21. 1440 AD. A time to **tear.** Protestant Reformation. Wars of religion.
+  22. 1560 AD. A time to **mend.** Peace of Westphalia. Religious tolerance extended to Lutherans, Calvinists & Jews.
+  23. 1680 AD. A time to **be silent**. In the Pietism movement, Methodist revival and Great Awakening, people listen to God.
+  24. 1800 AD. A time to **speak.** Christian overseas missionaries "speak" the gospel and triple the number of believers. Abolition movement frees the slaves.
+  25. 1920 AD. A time to **love.** God blesses the world with Prosperity & longer life and Israel with a new nation.
+  26. 2040 AD. A time to **hate.** Civil discord & persecution grow. Behemoth shall arise.
+  27. 2160 AD. A time for **war.** Armageddon. Leviathan.
+  28. 2280 AD. A time for **peace.** Christ *possibly* returns. Wedding supper of the lamb.
+   
+By matching the above to chapters 15 thru 42 of Job, we can anchor Job's prophecies in time.
+By this, we now know when “The Childbearing” occurred, which is "a time to tear", or 1440-1560 AD.
+
+**The Childbearing is the Protestant Reformation and the dawn of a new civilization. **
+
+Here are a selection of prophecies from Job, matching the time bounds to chapters in Job:
+
+*Job 18, 600-480 BC, A time to uproot, Babylonian Exile*
+
+#### He is **torn from the tent** in which he trusted 
+##### and is brought to the king of terrors.
+#### In his tent dwells that which is none of his; 
+##### sulfur is scattered over his habitation.
+#### His **roots dry up** beneath,
+##### and his **branches wither** above.
+#### His memory perishes from the earth,
+##### and he has no name in the street. 
+###### - Job 18:14-17
+
+Who was the King of terrors? King Nebuchadnezzar. The uprooting of plants and trees is the dominant metaphor used in scores 
+of Old Testament prophecies to describe the coming exile.  
+
+*Job 20, 360-240 BC, A time to Heal, Death of Alexander the Great *
+
+As Revelation 13 reveals, Satan controls the beasts of the world, its evil empires. That means that Satan controlled the empire of Alexander, 
+one of the beasts and one of the heads of Daniel’s visions. The devil is full of hatred, even for his servants. 
+Job 20 is Satan’s *epitaphios logos*, his funeral oration, for the fallen “Lord of Asia”, the “Great King” and “Son of Zeus”. 
+Here then are the profound connections between Job 20 (from the NIV) and the death of Alexander:
+
+#### Verse 5. **“... the mirth of the wicked is brief, the joy of the godless lasts but a moment.”** 
+##### Alexander fell ill during the merriment of a banquet.
+
+#### Verse 6. “**Though the pride of the godless person reaches to the heavens and his head touches the clouds...**” 
+##### Though a man, he pursued and accepted divine honors and titles, just as Satan sought the throne of heaven.
+
+#### Verse 7. “**he will perish forever, like his own dung; those who have seen him will say, ‘Where is he?’**” 
+##### The word dung brings to mind the diarrhea that beset him.
+
+#### Verse 8. “**Like a dream he flies away, no more to be found, banished like a vision of the night.**” 
+##### Delirium and hallucinations seized him.
+
+#### Verses 9-10. “**The eye that saw him will not see him again; his place will look on him no more. His children must make amends to the poor; his own hands must give back his wealth.**” 
+##### After Alexander died, his generals, called the Diadochi, fought each other to seize his title and kingdom. One was Cassander, who ordered the execution of Alexander’s wife Roxane and his sons Heracles and Alexander IV and usurped the throne of Macedon. Wikipedia says this of Cassander. “It was later even said that he could not pass a statue of Alexander without feeling faint.” Truly the one who took his place did not want look on him any more. Among those who contend that Alexander was poisoned, Cassander is their prime suspect.
+
+#### Verse 11. “**The youthful vigor that fills his bones will lie with him in the dust.**” 
+##### Alexander died young.
+
+#### Verses 12-14. “**Though evil is sweet in his mouth and he hides it under his tongue, though he cannot bear to let it go and lets it linger in his mouth, yet his food will turn sour in his stomach; it will become the venom of serpents within him.**” 
+##### The first symptoms were excruciating stomach pain. Yet despite the travails of the first day of his illness, Alexander attended another banquet the next day. He could not bear to let his pleasures go.
+
+#### Verse 15. “**He will spit out the riches he swallowed; God will make his stomach vomit them up.**” 
+##### His doctors induced vomiting.
+
+#### Verse 16. “**He will suck the poison of serpents; the fangs of an adder will kill him**.” 
+##### There is no mention of real snakes in the historical record. This may refer to medicines that his doctors gave him that worsened his condition, or metaphorically to the supernatural agent contributing to his death: Satan.
+
+#### Verse 17. “**He will not enjoy the streams, the rivers flowing with honey and cream.**” 
+##### His corpse was encased in a sarcophagus filled with honey! (Honey deters the decomposition of dead bodies.)
+
+#### Verse 18. “**What he toiled for he must give back uneaten; he will not enjoy the profit from his trading.**” 
+##### Alexander eventually lost his appetite. Metaphorically, it means he never enjoyed ruling over the empire he conquered.
+
+#### Verse 20. “**Surely he will have no respite from his craving; he cannot save himself by his treasure.**” 
+##### Alexander suffered an unquenchable thirst.
+
+#### Verses 22-23. “**In the midst of his plenty, distress will overtake him; the full force of misery will come upon him. When he has filled his belly, God will vent his burning anger against him and rain down his blows on him.**” 
+##### This describes the start of his anguish, when he filled his belly with food and wine. The full force of misery struck his belly first. Reports indicated that if anyone touched his midsection gently it caused sharp pain. This also identifies the second, more substantial spiritual agent of Alexander’s destruction: God.
+
+#### Verses 24-26. “**Though he flees from an iron weapon, a bronze-tipped arrow pierces him. He pulls it out of his back, the gleaming point out of his liver. Terrors will come over him; total darkness lies in wait for his treasures. A fire unfanned will consume him and devour what is left in his tent.**” 
+##### Though doctors say his symptoms do not indicate cirrhosis as the cause of death, Alexander was a heavy drinker, and drank to excess the first two days of his illness, which may have injured his liver and weakened his body’s ability to fight off disease. Reports of his symptoms include jaundice, indicating liver failure.
+
 There is no mistaking the “fire unfanned”; persistent high fever plagued him until he met his end. Also, recall how Plutarch described the initial pain as feeling like being stuck in the back with a spear, an almost identical analogy to being pierced by an arrowhead.
 A skeptic might argue that these symptoms could apply to someone other than Alexander the Great. Iron and bronze connect this passage to Nebuchadnezzar’s vision of the statue in Daniel 2. Bronze refers to Alexander’s own empire. This suggests treachery: the king of the bronze empire laid low by bronze. Iron represents the next empire: Rome. The kingdoms that sprang from his empire, the Ptolemaic and Seleucid empires, would eventually be conquered by Rome, the iron weapon from which his successors could not flee.
-Verses 27-28. “**The heavens will expose his guilt; the earth will rise up against him. A flood will carry off his house, rushing waters on the day of God’s wrath.**” The flood could be a poetic description of the ailing man’s diarrhea, but there is no mistaking the wrath of both heaven and earth. Both God and Satan had their hand in Alexander’s destruction, including his house: the murder of his wife and children.
-Job 23, 1 BC-120 AD, A time to weep: Jesus endures the Cross
+
+#### Verses 27-28. “**The heavens will expose his guilt; the earth will rise up against him. A flood will carry off his house, rushing waters on the day of God’s wrath.**” 
+##### The flood could be a poetic description of the ailing man’s diarrhea, but there is no mistaking the wrath of both heaven and earth. Both God and Satan had their hand in Alexander’s destruction, including his house: the murder of his wife and children.
+
+*Job 23, 1 BC-120 AD, A time to weep: Jesus endures the Cross*
+
 Passages from Job 23:
 “Today also my complaint is bitter;
 my hand is heavy on account of my **groaning.** (23:2)
@@ -1062,7 +1166,9 @@ yet I am **not silenced** because of the **darkness,**
 nor because thick darkness covers my face. (23:16-17)
 Compare to what Jesus said in John’s gospel:
 A little while, and you will see me no longer; and again a little while, and you will see me.” (John 16:16, ESV)
-Job 26, 360-480 AD, A time to dance
+
+*Job 26, 360-480 AD, A time to dance*
+
 By the Edict of Thessalonica in 380 AD, Rome becomes a Christian empire and all Roman persecution of Christians ceases.
 Rome was one of Satan’s beasts, now pierced and controlled by Christ’s kingdom. 
 Rome in this passage is symbolized by two sea serpents, Rahab and Leviathan, the Western and Eastern Roman empires, respectively:
@@ -1070,7 +1176,9 @@ By his power he stilled the sea;
 by his understanding he **shattered Rahab**.
 By his wind the heavens were made fair;
 his hand **pierced the fleeing serpent**. (26:12-13)
-Job 34, 1328-1447 AD (by a different clock), or 1320-1440 AD, A time to cast away.
+
+*Job 34, 1328-1447 AD (by a different clock), or 1320-1440 AD, A time to cast away.*
+
 The Black Plague and sieges against Constantinople are prophesied. The incurable would is both the effects of the plague and a series of devastating sieges by the Ottoman’s from which Byzantium would never recover. 
 The reference to water is the terrible thirst suffered by plague victims.
 Those who are “shaken” have fever and chills.
@@ -1079,7 +1187,9 @@ Although I am right, I am considered a liar; although I am guiltless, his **arro
 Is there anyone like Job, who drinks scorn like **water?** (34:7, NIV)
 They die in an instant, **in the middle of the night**; the people are **shaken** and they pass away; the mighty are removed without human hand. (34:20-21, NIV)
 Without inquiry he shatters the mighty and sets up others in their place. Because he takes note of their deeds, he **overthrows them in the night** and they are crushed. (34:24-25, NIV)
-Job 35, 1440-1560 AD, a time to tear.
+
+*Job 35, 1440-1560 AD, a time to tear.*
+
 This is the time when greater wisdom began to arrive, the Childbearing, when a woman cries out in the night as she delivers her child.
 Because of the multitude of oppressions people cry out;
 they call for help because of the arm of the mighty.
@@ -1090,7 +1200,9 @@ and makes us wiser than the birds of the heavens?’ (Job 35:9-11, ESV)
 This points us to the heavens, when Copernicus wrote *De Revolutionibus orbium coelestium* and began the Copernican revolution in astronomy.
 Look up at the heavens and see;
 gaze at the clouds so high above you. (35:5, NIV)
-Job 36, 1560-1680 AD, A time to mend
+
+*Job 36, 1560-1680 AD, A time to mend*
+
 The new Protestant churches believed that all people must be taught to read, so that they may read the Bible for themselves:
 “God is exalted in his power. **Who is a teacher like him?** (36:22, NIV)
 Lawrence Stone, in “The Educational Revolution in England 1500-1640”, revealed something remarkable. Between the Reformation and the mid-seventeenth century, England built schools. Lots of schools! In fact, the number of schools increased more than tenfold. Puritans especially were keen to teach everyone how to read so that they could read the Bible. England devoted one quarter of all charitable funds to the construction of schools and their endowment, so that the poor could be educated. By the end of this period, over half of all people in England could read and 2.5% of men had a college degree.
@@ -1100,7 +1212,9 @@ to **a spacious place free from restriction**,
 to the comfort of your **table laden with choice food**. (Job 36:16)
 It also predicts the explosion in the writing of Christian hymns during that era:
 **Remember to extol his work, which people have praised in song.** (36:24, NIV)
-Job 37: 1680-1800 AD, a time to be silent.
+
+*Job 37: 1680-1800 AD, a time to be silent.*
+
 God’s determination to silence people is given here:
 He seals up the hand of every man,
 that all men whom he made may know it.
@@ -1145,7 +1259,9 @@ Combining the lightning imagery of both chapters 36 and 37, you get an extended 
 **England, France & Allies**. The Seven Years War was the final blow to exhaust the European powers. Snuffing out over a million lives in Europe, Africa, North and South America, India and the Philippines, it was a precursor of the world wars.
 Yes, God’s lightning struck the whole world. Why? Verses 7 and 8 give us a clue. “The animals take cover, they remain in their dens.” What are those animals? Kingdoms and empires. Why are they stopped from continuing their labor? So that they may watch God do “great things beyond our understanding” as it says in verse 5.
 What great thing did God do? He arranged for the founding of the United States of America.
-Job 38: 1800-1920 AD, a time to speak.
+
+*Job 38: 1800-1920 AD, a time to speak.*
+
 In this era, God changed the whole world:
 The earth takes shape like clay under a seal;
 its features stand out like those of a garment. (Job 38:14, NIV)
