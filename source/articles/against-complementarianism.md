@@ -1080,7 +1080,7 @@ Here then is how we can match Solomon's words to history:
 By matching the above to chapters 15 thru 42 of Job, we can anchor Job's prophecies in time.
 By this, we now know when “The Childbearing” occurred, which is "a time to tear", or 1440-1560 AD.
 
-**The Childbearing is the Protestant Reformation and the dawn of a new civilization. **
+**The Childbearing is the Protestant Reformation and the dawn of a new civilization.**
 
 Here are a selection of prophecies from Job, matching the time bounds to chapters in Job:
 
@@ -1099,7 +1099,7 @@ Here are a selection of prophecies from Job, matching the time bounds to chapter
 Who was the King of terrors? King Nebuchadnezzar. The uprooting of plants and trees is the dominant metaphor used in scores 
 of Old Testament prophecies to describe the coming exile.  
 
-*Job 20, 360-240 BC, A time to Heal, Death of Alexander the Great *
+*Job 20, 360-240 BC, A time to Heal, Death of Alexander the Great*
 
 As Revelation 13 reveals, Satan controls the beasts of the world, its evil empires. That means that Satan controlled the empire of Alexander, 
 one of the beasts and one of the heads of Daniel’s visions. The devil is full of hatred, even for his servants. 
@@ -1278,102 +1278,245 @@ It also predicts the explosion in the writing of Christian hymns during that era
 
 God’s determination to silence people is given here:
 
-He seals up the hand of every man,
-that all men whom he made may know it.
-Then the beasts go into their lairs,
-and remain in their dens. (Job 37:7-8, ESV)
+#### He seals up the hand of every man,
+##### that all men whom he made may know it.
+#### Then the beasts go into their lairs,
+##### and remain in their dens. (Job 37:7-8, ESV)
+
 How do you compel people to cease from work and spend time listening to God? First, you shout:
-Keep **listening** to the **thunder** of **his voice**
-and the **rumbling** that comes from **his mouth**.
-Under the whole heaven he lets it go,
-and his **lightning** to the corners of the earth.
-After it his **voice roars;**
-he **thunders** with his majestic **voice,**
-and he does not restrain the lightnings when **his voice** is heard.
-God **thunders** wondrously with **his voice**;
-he does great things that we cannot comprehend. (37:2-5)
-God’s voice is the theme:
-Thunder (3)
-Lightning(s) (4) plus golden splendor
-Rumbling + Roars
-His Voice (4) + his majestic voice
-Historically, this was the time of the Enlightenment & Scientific Revolution
-Climatologically, this was the Little Ice Age
-From its chamber comes the whirlwind,
-and cold from the scattering winds.
-By the breath of God ice is given,
-and **the broad waters are frozen fast**. (Job 37:9-10, ESV)
-During this period fell the year 1709, a particularly deadly time amidst the continuing Little Ice Age. “Winter Is Coming: Europe’s Deep Freeze of 1709” by Juan José Sánchez Arreseigor provides the chilling details. In England, William Derham wrote: “I believe the Frost was greater ... than any other within the Memory of Man.” Scientists reckon it the coldest winter in five hundred years. The Baltic Sea froze over for four months, permitting people to walk from Denmark to Sweden. Venetians forsook their gondolas to skate along their canals while the “broad waters” of the Rhône River in France could support the weight of a cart. That year, the harsh winter and subsequent flooding and poor harvest killed 600,000 in France alone. This deadly year fell near the end of the Maunder Minimum, a period from 1645-1715 when the sun seldom sported any sunspots, suggesting the light of the sun was diminished.
+
+#### Keep **listening** to the **thunder** of **his voice**
+##### and the **rumbling** that comes from **his mouth**.
+#### Under the whole heaven he lets it go,
+##### and his **lightning** to the corners of the earth.
+#### After it his **voice roars;**
+##### he **thunders** with his majestic **voice,**
+###### and he does not restrain the lightnings when **his voice** is heard.
+#### God **thunders** wondrously with **his voice**;
+##### he does great things that we cannot comprehend. (37:2-5)
+
+From the language, we know that God’s voice is the theme of this chapter:
+
+  - Thunder (3)
+  - Lightning(s) (4) plus golden splendor
+  - Rumbling + Roars
+  - His Voice (4) + his majestic voice
+  
+Historically, this was the time of the Enlightenment & Scientific Revolution.
+Climatologically, this was the Little Ice Age.
+
+#### From its chamber comes the whirlwind,
+##### and cold from the scattering winds.
+#### By the breath of God ice is given,
+##### and **the broad waters are frozen fast**. 
+###### - Job 37:9-10, ESV
+
+During this period fell the year 1709, a particularly deadly time amidst the continuing Little Ice Age. 
+“Winter Is Coming: Europe’s Deep Freeze of 1709” by Juan José Sánchez Arreseigor provides the chilling details. 
+In England, William Derham wrote: “I believe the Frost was greater ... than any other within the Memory of Man.” 
+Scientists reckon it the coldest winter in five hundred years. 
+The Baltic Sea froze over for four months, permitting people to walk from Denmark to Sweden.
+Venetians forsook their gondolas to skate along their canals while the “broad waters” of the Rhône River in France could support the weight of a cart. 
+That year, the harsh winter and subsequent flooding and poor harvest killed 600,000 in France alone. 
+This deadly year fell near the end of the Maunder Minimum, a period from 1645-1715 when the sun seldom sported any sunspots, suggesting the light of the sun was diminished.
+
 Not only new ideas and weather got people to stop working. So did war:
-Under the whole heaven he lets it go,
-and his lightning to the corners of the earth. (Job 37:3, ESV)
-This period saw more wars and more deaths due to warfare than any preceding epoch in history, surpassed only by the 20th century. By historians it is called the General Crisis of the seventeenth century.
-The prophecy is no hyperbole: it struck the whole “civilized” world, excepting those parts of Africa lacking large kingdoms, Australia and many island peoples.
-Combining the lightning imagery of both chapters 36 and 37, you get an extended period of unrest, climate disruption, war, and famine. No other period in history saw so many wars flare up across so great an area until we reach the Twentieth Century with its two World Wars and communist revolutions.
-**India.** The Mughal-Maratha wars lasted half a century and left five million dead, adding to the earlier misery of the Deccan famine which killed seven million more. China. The Ming-Qing dynasty transition killed 25 million.
-**Japan.** The Sengoku period of constant civil war lasted 150 years.
-**Germany.** The Thirty Years War killed up to 12 million. England. The Wars of the Three Kingdoms killed almost a million.
-**Spain.** The War of the Spanish Succession claimed over a million lives.
-**Other European nations**. The French, Dutch, Swedes, Russians, Ottomans and others became embroiled in deadly wars of their own. Poland collapsed completely. 
-**Burma.** Invaded by China.
-**Southeast Asia**. Ports and islands were captured by the Spanish, Dutch, Portuguese, British and French, including the Philippines.
-**The Americas**. All indigenous empires had already been overthrown by Spain, Portugal and other European colonial empires. Now disease, climate change and war killed a majority of the survivors. **Africa.** The largest Central African empires either fractured or were absorbed into the Muslim world. Many of their subjects wound up in Muslim slave markets or New World plantations.
-**England, France & Allies**. The Seven Years War was the final blow to exhaust the European powers. Snuffing out over a million lives in Europe, Africa, North and South America, India and the Philippines, it was a precursor of the world wars.
-Yes, God’s lightning struck the whole world. Why? Verses 7 and 8 give us a clue. “The animals take cover, they remain in their dens.” What are those animals? Kingdoms and empires. Why are they stopped from continuing their labor? So that they may watch God do “great things beyond our understanding” as it says in verse 5.
+
+#### Under the whole heaven he lets it go,
+##### and his lightning to the corners of the earth. 
+###### - Job 37:3, ESV
+
+This period saw more wars and more deaths due to warfare than any preceding epoch in history, surpassed only by the 20th century. 
+By historians it is called the General Crisis of the seventeenth century.
+The prophecy is no hyperbole: it struck the whole “civilized” world, excepting those parts of Africa lacking large kingdoms, 
+Australia and many island peoples. Combining the lightning imagery of both chapters 36 and 37, you get an extended period of unrest, 
+climate disruption, war, and famine. No other period in history saw so many wars flare up across so great an area until we reach the 
+Twentieth Century with its two World Wars and communist revolutions. Here is a summary of the strife:
+
+  - **India.** The Mughal-Maratha wars lasted half a century and left five million dead, adding to the earlier misery of the Deccan famine which killed seven million more. China. The Ming-Qing dynasty transition killed 25 million.
+  - **Japan.** The Sengoku period of constant civil war lasted 150 years.
+  - **Germany.** The Thirty Years War killed up to 12 million. England. The Wars of the Three Kingdoms killed almost a million.
+  - **Spain.** The War of the Spanish Succession claimed over a million lives.
+  - **Other European nations**. The French, Dutch, Swedes, Russians, Ottomans and others became embroiled in deadly wars of their own. Poland collapsed completely. 
+  - **Burma.** Invaded by China.
+  - **Southeast Asia**. Ports and islands were captured by the Spanish, Dutch, Portuguese, British and French, including the Philippines.
+  - **The Americas**. All indigenous empires had already been overthrown by Spain, Portugal and other European colonial empires. Now disease, climate change and war killed a majority of the survivors. **Africa.** The largest Central African empires either fractured or were absorbed into the Muslim world. Many of their subjects wound up in Muslim slave markets or New World plantations.
+  - **England, France & Allies**. The Seven Years War was the final blow to exhaust the European powers. Snuffing out over a million lives in Europe, Africa, North and South America, India and the Philippines, it was a precursor of the world wars.
+
+Yes, God’s lightning struck the whole world. Why? Verses 7 and 8 give us a clue. 
+
+#### “The animals take cover, 
+##### they remain in their dens.” 
+
+What are those animals? Kingdoms and empires. Why are they stopped from continuing their labor? 
+So that they may watch God do “great things beyond our understanding” as it says in verse 5.
 What great thing did God do? He arranged for the founding of the United States of America.
 
 *Job 38: 1800-1920 AD, a time to speak.*
 
 In this era, God changed the whole world:
-The earth takes shape like clay under a seal;
-its features stand out like those of a garment. (Job 38:14, NIV)
+
+#### The earth takes shape like clay under a seal;
+##### its features stand out like those of a garment. (Job 38:14, NIV)
+
 How did God mold the world into new image?
-Slavery forcefully outlawed in most of the world Serfs freed in Russia
-Dalits (untouchables) & other low caste peoples in British India enjoyed modest improvements in status and rights
-Women gained the right to vote and hold office in dozens of nations
-Democratic institutions matured
-Prisons reformed
-Public education expanded, 
-literacy increased 
-Mentally ill treated more humanely
-Old age pensions instituted
-Science, Medicine & public health advanced 
-Agriculture, industry & transportation revolutionized 
-Christianity spread by missionaries worldwide
-How did people rise to meet God’s challenges?
-Have you entered the storehouses of the snow,
-or have you seen the storehouses of the hail,
-which I have reserved for the time of trouble,
-for the day of battle and war? (Job 38:22-23, ESV)
+
+  - Slavery forcefully outlawed in most of the world Serfs freed in Russia
+  - Dalits (untouchables) & other low caste peoples in British India enjoyed modest improvements in status and rights
+  - Women gained the right to vote and hold office in dozens of nations
+  - Democratic institutions matured
+  - Prisons reformed
+  - Public education expanded, 
+  - literacy increased 
+  - Mentally ill treated more humanely
+  - Old age pensions instituted
+  - Science, Medicine & public health advanced 
+  - Agriculture, industry & transportation revolutionized 
+  - Christianity spread by missionaries worldwide
+
+How did people rise to meet God’s challenges? By our science we began to find answers to the questions that God put to Job:
+
+#### Have you entered the storehouses of the snow,
+##### or have you seen the storehouses of the hail,
+#### which I have reserved for the time of trouble,
+##### for the day of battle and war? (Job 38:22-23, ESV)
+
 Roald Amundsen in 1911 reached the South Pole, the heart of earth’s greatest “storehouse of snow”.
-Those storehouses proved decisive against Napoleon in 1812. First, the Russian Winter, worsened by the continuing Little Ice Age, killed, crippled or captured hundreds of thousands of Napoleon’s soldiers, humbling the largest army ever assembled in Europe up to that time.
+Those storehouses proved decisive against Napoleon in 1812. First, the Russian Winter, worsened by the continuing Little Ice Age, 
+killed, crippled or captured hundreds of thousands of Napoleon’s soldiers, humbling the largest army ever assembled in Europe up to that time.
+
 How did God speak to the world in a new way?
-Do you know the laws of the heavens?
-Can you set up God’s dominion over the earth?
-**Do you send the lightning bolts on their way? Do they report to you, ‘Here we are’? **(38:33,35, NIV)
-Christian missions were amplified by new technologies: telegraph, telephone and radio, all invented in this era, all dependent upon mankind being able to “send the lightning bolts on their way” through power lines and report “Here we are!” by sending human voices over the wires. 
+
+#### Do you know the laws of the heavens?
+##### Can you set up God’s dominion over the earth?
+#### **Do you send the lightning bolts on their way?** 
+##### **Do they report to you, ‘Here we are’?**
+###### - Job 38:33,35, NIV
+
+Christian missions were amplified by new technologies, all dependent upon mankind being able to “send the lightning bolts on their way” 
+through power lines and report “Here we are!” by sending human voices over the wires. All these marvels were invented in this era:
+
+  - telegraph
+  - telephone
+  - radio
+  
+On top of this, an early prototype of the television was demonstrated in 1911 by Boris Lvovich Rosing of Russia, though television would
+not have an impact on the world until the next era.
+    
 The first telegraph message sent by Samuel Morse was, “What hath God wrought?”
-And some relevant passages from Matthew 21 (a time to tear)
-Unloosing the donkey and colt symbolizes freeing the women of a new world, the daughter of Zion.
-“Go into the village in front of you, and immediately you will find **a donkey tied, and a colt with her.** Untie them and bring them to me. If anyone says anything to you, you shall say, ‘The Lord needs them,’ and he will send them at once.” This took place to fulfill what was spoken by the prophet, saying,
-“Say to the **daughter** of Zion,
-‘Behold, your king is coming to you,
-humble, and mounted on a donkey,
-on a colt, the foal of a beast of burden.’” (Matthew 21:2-5, ESV)
-But when the chief priests and the scribes saw the wonderful things that he did, and the children crying out in the temple, “Hosanna to the Son of David!” they were indignant, and they said to him, “Do you hear what these are saying?” And Jesus said to them, “Yes; have you never read,
-‘Out of the mouth of **infants and nursing babies**
-you have prepared praise’?” (Matthew 21:15-16, ESV)
-From Psalm 22 (a time to mend):
-Yet you are he who took me from the womb;
-you made me trust you **at my mother's breasts**.
-On you was I cast **from my birth**,
-and **from my mother's womb** you have been my God. (Psalm 22:9-10, ESV)
-Posterity shall serve him;
-it shall be told of the Lord to **the coming generation**;
-they shall come and proclaim his righteousness **to a people yet unborn**,
-that he has done it. (Psalm 22:30-31, ESV)
-**Reconciliation:** The Childbearing in 1 Timothy and the Law in Ephesians 5
-**Impartation:** The Unsealing of the Scroll of Wisdom
+
+What God wrought was a new world. From the Protestant Reformation to the Scientific Revolution to the Industrial Revolution, 
+the world was upended. It was a true "Childbearing". The remnants of the ancient world gave birth to the modern world.
+And it happened exactly when the Bible predicted it would.
+
+### Matthew 21
+
+While Job defines a model for ordination, applies it to women, and by connection to Ecclesiastes tells us when it would happen,
+the Gospel of Matthew has important contributions to offer. According to the calendar given to us by Solomon,
+Matthew 21 matches the twenty-first time, "a time to tear", the Protestant Reformation, which accelerated the liberation of women.
+The story of Palm Sunday, when Jesus entered Jerusalem, includes these words:
+
+#### “Go into the village in front of you, and immediately 
+#### you will find **a donkey tied, and a colt with her.** 
+#### Untie them and bring them to me. If anyone says anything to you, 
+#### you shall say, 
+##### ‘The Lord needs them,’ 
+#### and he will send them at once.” 
+#### This took place to fulfill what was spoken by the prophet, saying,
+##### “Say to the **daughter** of Zion,
+###### ‘Behold, your king is coming to you,
+##### humble, and mounted on a donkey,
+###### on a colt, the foal of a beast of burden.’” 
+###### Matthew 21:2-5, ESV
+
+Job 39, which matches "a time for love", has a parallel passage. Right after describing the mountain goats giving birth
+and the calving of the does, God talks about the greater liberty that is to follow the Childbearing:
+
+#### “Who has let the wild donkey go free?
+##### Who has loosed the bonds of the swift donkey,
+#### to whom I have given the arid plain for his home
+##### and the salt land for his dwelling place?
+#### He scorns the tumult of the city;
+##### he hears not the shouts of the driver.
+#### He ranges the mountains as his pasture,
+##### and he searches after every green thing.
+###### - Job 39:5-8
+
+In Job, God takes credit for setting the donkey free. The donkey is a beast of burden, 
+symbolizing all who work as slaves or menial servants. Since Job 39 has been talking about 
+female creatures giving birth, it is logical to conclude that this passage speaks of the freeing of women from servitude.
+
+Then in Matthew, the picture is clearer.:
+
+  - The female donkey represents the women who lived before the Protestant Reformation, before the Childbearing, who had known hard service.
+  - The colt represents the women who live after the Childbearing for they are the children. They are loosed before ever having to endure servitude, freed as children.
+  
+The donkey and colt are being set free to serve Jesus.
+The colt symbolizes a new world, a new civilization, the daughter of Zion.
+
+Later in Matthew 21 we find another passage with feminine analogies:
+
+#### But when the chief priests and the scribes 
+#### saw the wonderful things that he did, 
+#### and the children crying out in the temple, 
+##### “Hosanna to the Son of David!” 
+#### they were indignant, and they said to him, 
+##### “Do you hear what these are saying?” 
+#### And Jesus said to them, 
+##### “Yes; have you never read,
+##### ‘Out of the mouth of **infants and nursing babies**
+##### you have prepared praise’?” 
+###### - Matthew 21:15-16, ESV
+
+  - The infants and nursing babies are the children of the Reformation.
+  - The priests and scribes are indignant because these children are 
+filling the temple with praise in a way that broke their ancient rules.
+  - These children are emphatically NOT quiet.
+
+### Psalm 22 
+
+Psalm 22 matches the twenty-second time, a time to mend. It too has feminine analogies that
+tie it to the matter at hand:
+
+#### Yet you are he who took me from the womb;
+##### you made me trust you **at my mother's breasts**.
+#### On you was I cast **from my birth**,
+##### and **from my mother's womb** you have been my God. 
+###### - Psalm 22:9-10, ESV
+
+#### Posterity shall serve him;
+##### it shall be told of the Lord 
+###### to **the coming generation**;
+#### they shall come and proclaim his righteousness 
+##### **to a people yet unborn**,
+###### that he has done it. 
+###### - Psalm 22:30-31, ESV
+
+The coming generation, those "people yet unborn", in a broad sense, is every future generation of
+Christians who benefited from the Lord's sacrifice. But by the focusing effect of the timetable of Ecclesiastes,
+these are the free people who burst from the womb of the Reformation, accomplished by means that only 
+Jesus could have employed. Psalm 22 is a celebrated Psalm
+that Christ quoted while on the cross. It speaks about his suffering, but also the miracles
+that his suffering would accomplish. I believe that by quoting this Psalm, which maps to the time
+of mending immediately following the Reformation, Jesus is promising from the cross to set women free.
+This was a shout-out to all Christian women down through the centuries that he would finish the task.
+
+This concludes a brief defense of the proposition that Job and several other Bible books contain 
+prophecies laid out so regularly that you can set your watch by them. This regularity allows us
+to connect key prophecies in Job to history and show when the sacrifice of women would be complete 
+and their Ordination accomplished. That sacrifice was completed with the Childbearing, the Protestant Reformation.
+After that, women needed to:
+
+  -  heal in *a time to mend* (1560-1680 AD)
+  -  be taught to read, to study the Bible, and to listen to God in prayer during *a time to be silent* (1680-1800 AD)
+  -  be commissioned to preach and share the gospel, during *a time to speak* (1800-1920 AD)
+  
+With this result, we can tackle some thorny passages in the New Testament.
+
+## Reconciliation: The Childbearing in 1 Timothy and the Law in Ephesians 5
+
+## Impartation: The Unsealing of the Scroll of Wisdom
+
 Why the long wait?
 The revelation of this information had to wait until Jesus began to unseal the scroll of Revelation.
 Four seals have already been removed. They sealed up a portion of the wisdom found in:
