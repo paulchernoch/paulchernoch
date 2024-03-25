@@ -1492,10 +1492,10 @@ tie it to the matter at hand:
 ###### that he has done it. 
 ###### - Psalm 22:30-31, ESV
 
-The coming generation, those "people yet unborn", in a broad sense, is every future generation of
+In a broad sense, the coming generation, those "people yet unborn", is every future generation of
 Christians who benefited from the Lord's sacrifice. But by the focusing effect of the timetable of Ecclesiastes,
-these are the free people who burst from the womb of the Reformation, accomplished by means that only 
-Jesus could have employed. Psalm 22 is a celebrated Psalm
+the more direct fulfillment of these words is the creation of a free people who burst from the womb of the Reformation, 
+accomplished by means that only Jesus could have employed. Psalm 22 is a celebrated Psalm
 that Christ quoted while on the cross. It speaks about his suffering, but also the miracles
 that his suffering would accomplish. I believe that by quoting this Psalm, which maps to the time
 of mending immediately following the Reformation, Jesus is promising from the cross to set women free.
@@ -1513,7 +1513,60 @@ After that, women needed to:
   
 With this result, we can tackle some thorny passages in the New Testament.
 
-## Reconciliation: The Childbearing in 1 Timothy and the Law in Ephesians 5
+## Reconciliation: The Childbearing in 1 Timothy 2 and the Law in Ephesians 5
+
+A major battleground in the debate over whether God permits women to serve as pastors and elders is 1 Timothy 2.
+I will offer a prophetic interpretation of those verses that shows a redemptive trajectory from the restricted 
+state of women in Paul's time to the less restricted state of today. It is a struggle to express these ideas clearly and
+concisely. It occurred to me this month that God has given us two signs by which we can know the truth:
+
+  - A spiritual sign, given earlier
+  - A literal sign, given later
+
+God gave the spiritual sign to Christians who were more in tune with the Holy Spirit to begin the age of liberation. 
+Those believers could hear what others could not and began to obey and change the world, despite opposition from 
+outside AND INSIDE the church. The signs given to them were difficult to express by reference to Scripture, because
+before the mind can see the truth in the Bible, hearts must be freed, ears unstopped, eyes opened and hands 
+put to the plow. It is the faith that comes through obedience. Only the scholarship that proceeded from a community
+steeped in this faith could unlock the mysteries in the Bible that prophesied this time.
+
+God loves His daughters. Therefore he gave us a second sign, a concrete one. This sign is harder to ignore, 
+but the hard of heart still do. This sign is the fruit of the transformation. This sign is the ministry of women
+and the marvels that their service has performed. 
+
+The two signs are two different meanings of the same passage, Paul's verse in 1 Timothy 2 about the Childbearing. 
+
+  - The beginning of the era was the Reformation, a spiritual Childbearing that spawned a new civilization. 
+  - The end of the era of liberation was marked by the twin discoveries of safe blood transfusions from 1818 onward and of the first antibiotic in 1928.
+  
+Summarizing what was said previously, the transition period for the liberation of women spanned five of Solomon's times:
+
+  - a time to tear (1440-1560 AD). The Childbearing of the Reformation.
+  - a time time mend (1560-1680 AD). The Wars of religion, when the patient suffered hemorrhaging, until the beginnings of religious freedom stopped the bleed.
+  - a time to be silent (1680-1800 AD). Women (and men) are silent and listen to God during the Pietism movement, Methodist Revival and Great Awakening.
+  - a time to speak (1800-1920 AD). Women and men go forth as missionaries to spread the gospel to the whole world and the first women become ordained ministers in the US.
+  - a time to love (1920-2040 AD). Begins with women getting the vote in 1920 and results in women gaining equal rights in most spheres of life.
+
+The history of blood transfusions is important, as many women died during childbirth from blood loss. The following timeline is courtesy of the Red Cross. See [History of Blood Transfusion](https://www.redcrossblood.org/donate-blood/blood-donation-process/what-happens-to-donated-blood/blood-transfusions/history-blood-transfusion.html) for more details.
+
+  - 1628: British physician William Harvey discovers the circulation of blood. The first known blood transfusion is attempted soon afterward.
+  - 1658: Microscopist Jan Swammerdam observes and describes red blood cells.
+  - 1665: The first recorded successful blood transfusion occurs in England: Physician Richard Lower keeps dog alive by transfusing blood from other dogs.
+  - 1667: Jean-Baptiste Denis in France and Richard Lower and Edmund King in England separately report successful transfusions from sheep to humans.
+  - 1818: British obstetrician James Blundell performs the first successful transfusion of human blood to a patient for the treatment of postpartum hemorrhage.
+  - 1884: Saline infusion replaces milk as a “blood substitute” due to the increased frequency of adverse reactions to milk.
+  - 1901: Karl Landsteiner, an Austrian physician, discovers the first three human blood groups.
+  - 1907: Ludvig Hektoen suggests that the safety of transfusion might be improved by cross-matching blood between donors and patients to exclude incompatible mixtures.
+  - 1907: Reuben Ottenberg performs the first blood transfusion using blood typing and cross-matching.
+  - 1914: Long-term anticoagulants, among them sodium citrate, are developed, allowing longer preservation of blood.
+  - 1939-1940: The Rh blood group system is discovered by Karl Landsteiner, Alexander Wiener, Philip Levine and R.E. Stetson.
+  - 1940: Lots happened:
+    -  The U.S. government establishes a national blood collection program.
+    -  Edwin Cohn develops cold ethanol fractionation, the process of breaking down plasma into components and products. Albumin, gamma globulin and fibrinogen are isolated and become available for clinical use.
+    -  John Elliott develops the first blood container, a vacuum bottle extensively used by the Red Cross.
+    -  Early blood processing program for relief of English war victims, called Plasma for Britain, begins under direction of Charles R. Drew, MD.
+
+
 
 ## Impartation: The Unsealing of the Scroll of Wisdom
 
