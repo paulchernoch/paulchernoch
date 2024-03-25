@@ -1541,11 +1541,11 @@ The two signs are two different meanings of the same passage, Paul's verse in 1 
   
 Summarizing what was said previously, the transition period for the liberation of women spanned five of Solomon's times:
 
-  - a time to tear (1440-1560 AD). The Childbearing of the Reformation.
-  - a time time mend (1560-1680 AD). The Wars of religion, when the patient suffered hemorrhaging, until the beginnings of religious freedom stopped the bleed.
-  - a time to be silent (1680-1800 AD). Women (and men) are silent and listen to God during the Pietism movement, Methodist Revival and Great Awakening.
-  - a time to speak (1800-1920 AD). Women and men go forth as missionaries to spread the gospel to the whole world and the first women become ordained ministers in the US.
-  - a time to love (1920-2040 AD). Begins with women getting the vote in 1920 and results in women gaining equal rights in most spheres of life.
+  - **a time to tear** (1440-1560 AD). The Childbearing of the Reformation.
+  - **a time time mend** (1560-1680 AD). The Wars of religion, when the patient suffered hemorrhaging, until the beginnings of religious freedom stopped the bleed.
+  - **a time to be silent** (1680-1800 AD). Women (and men) are silent and listen to God during the Pietism movement, Methodist Revival and Great Awakening.
+  - **a time to spea**k (1800-1920 AD). Women and men go forth as missionaries to spread the gospel to the whole world and the first women become ordained ministers in the US.
+  - **a time to love** (1920-2040 AD). Begins with women getting the vote in 1920 and results in women gaining equal rights in most spheres of life.
 
 The history of blood transfusions is important, as many women died during childbirth from blood loss. The following timeline is courtesy of the Red Cross. See [History of Blood Transfusion](https://www.redcrossblood.org/donate-blood/blood-donation-process/what-happens-to-donated-blood/blood-transfusions/history-blood-transfusion.html) for more details.
 
@@ -1565,6 +1565,33 @@ The history of blood transfusions is important, as many women died during childb
     -  Edwin Cohn develops cold ethanol fractionation, the process of breaking down plasma into components and products. Albumin, gamma globulin and fibrinogen are isolated and become available for clinical use.
     -  John Elliott develops the first blood container, a vacuum bottle extensively used by the Red Cross.
     -  Early blood processing program for relief of English war victims, called Plasma for Britain, begins under direction of Charles R. Drew, MD.
+
+Why focus on the history of blood transfusions? It is because the suffering of women is a type of the suffering of Christ.
+
+  - Christ offered us his body to eat so that we might have eternal life and Women's bodies are used to create life
+  - Christ offered us his blood to drink, and hundreds of millions of women throughout history have dids from post partum blood loss.
+
+The development of antibiotics protected the bodies of women from infection.
+
+The development of safe techniques for blood storage and transfusion saved women from death by postpartum hemorrhage. 
+The process of discovery for this life saving miracle began during "a time to mend" and took almost the whole of this transitional period 
+to reach a state of general safety.
+
+Combined, these two medical miracles, transfusion and antibiotics, reduced mortality from childbirth by a factor of more than fifty!
+When Paul prophesied that women would be saved through "the Childbearing", he meant it. Not only would the world be transformed spiritually, 
+saving souls, but the material lives of hundreds of millions of women would be saved. The upshot is that Paul told us to expect a special time
+when women would be elevated both spiritually and materially to reach a place equal with men.
+
+Thus, for the spiritual, the good news arrived centuries ago, with revelation of the doctrine of the priesthood of ALL believers. 
+For the less spiritual, the good news arrived later, with medical developments (and advances in education and other areas) 
+that removed the disabilities suffered by women which disqualified them from service.
+
+The ideas I share about prophetic clocks are complicated and connect passages from all over the Bible into patterns that 
+you might not have the patience to digest. The medical miracles, however, are incontrovertible. They are not wrapped in parables, riddles 
+or peculiar analogies. They literally accomplished what Paul promised: women saved from the perils of childbirth. 
+They are a firm anchor in time announcing by a miracle of God that the time of women's equality had arrived. 
+
+Now for 1 Timothy 2.
 
 
 
