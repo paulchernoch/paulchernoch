@@ -1523,6 +1523,8 @@ concisely. It occurred to me this month that God has given us two signs by which
   - A spiritual sign, given earlier
   - A literal sign, given later
 
+### Two Signs so the Church might see
+
 God gave the spiritual sign to Christians who were more in tune with the Holy Spirit to begin the age of liberation. 
 Those believers could hear what others could not and began to obey and change the world, despite opposition from 
 outside AND INSIDE the church. The signs given to them were difficult to express by reference to Scripture, because
@@ -1591,9 +1593,12 @@ you might not have the patience to digest. The medical miracles, however, are in
 or peculiar analogies. They literally accomplished what Paul promised: women saved from the perils of childbirth. 
 They are a firm anchor in time announcing by a miracle of God that the time of women's equality had arrived. 
 
-Now for 1 Timothy 2.
+Before we get to 1 Timothy 2, two questions. 
 
+  - Who conducts all those blood drives that save lives? The Red Cross. 
+  - And who started the Red Cross? Clara Barton. A woman.
 
+### 1 Timothy 2
 
 ## Impartation: The Unsealing of the Scroll of Wisdom
 
