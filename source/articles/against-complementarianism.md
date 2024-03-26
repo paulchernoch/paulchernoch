@@ -1539,14 +1539,14 @@ and the marvels that their service has performed.
 The two signs are two different meanings of the same passage, Paul's verse in 1 Timothy 2 about the Childbearing. 
 
   - The beginning of the era was the Reformation, a spiritual Childbearing that spawned a new civilization. 
-  - The end of the era of liberation was marked by the twin discoveries of safe blood transfusions from 1818 onward and of the first antibiotic in 1928.
+  - The end of the era of liberation was marked by twin discoveries: safe blood transfusions (developed over the course of centuries) and the first antibiotic in 1928.
   
 Summarizing what was said previously, the transition period for the liberation of women spanned five of Solomon's times:
 
-  - **a time to tear** (1440-1560 AD). The Childbearing of the Reformation.
+  - **a time to tear** (1440-1560 AD). The Childbearing of the Reformation, where the baby is the Protestant Church.
   - **a time time mend** (1560-1680 AD). The Wars of religion, when the patient suffered hemorrhaging, until the beginnings of religious freedom stopped the bleed.
   - **a time to be silent** (1680-1800 AD). Women (and men) are silent and listen to God during the Pietism movement, Methodist Revival and Great Awakening.
-  - **a time to spea**k (1800-1920 AD). Women and men go forth as missionaries to spread the gospel to the whole world and the first women become ordained ministers in the US.
+  - **a time to speak** (1800-1920 AD). Women and men go forth as missionaries to speak the gospel to the whole world and the first women become ordained ministers in the US.
   - **a time to love** (1920-2040 AD). Begins with women getting the vote in 1920 and results in women gaining equal rights in most spheres of life.
 
 The history of blood transfusions is important, as many women died during childbirth from blood loss. The following timeline is courtesy of the Red Cross. See [History of Blood Transfusion](https://www.redcrossblood.org/donate-blood/blood-donation-process/what-happens-to-donated-blood/blood-transfusions/history-blood-transfusion.html) for more details.
@@ -1570,12 +1570,12 @@ The history of blood transfusions is important, as many women died during childb
 
 Why focus on the history of blood transfusions? It is because the suffering of women is a type of the suffering of Christ.
 
-  - Christ offered us his body to eat so that we might have eternal life and Women's bodies are used to create life
-  - Christ offered us his blood to drink, and hundreds of millions of women throughout history have dids from post partum blood loss.
+  - Christ offered us his body to eat so that we might have eternal life and Women's bodies, used to create life, often perish from the ordeal.
+  - Christ offered us his blood to drink, and hundreds of millions of women throughout history have died from postpartum blood loss.
 
-The development of antibiotics protected the bodies of women from infection.
+The development of antibiotics protected the **bodies** of women from infection.
 
-The development of safe techniques for blood storage and transfusion saved women from death by postpartum hemorrhage. 
+The development of safe techniques for **blood** storage and transfusion saved women from death by postpartum hemorrhage. 
 The process of discovery for this life saving miracle began during "a time to mend" and took almost the whole of this transitional period 
 to reach a state of general safety.
 
