@@ -1545,11 +1545,11 @@ Summarizing what was said previously, the transition period for the liberation o
 
   - **a time to tear** (1440-1560 AD). The Childbearing of the Reformation, where the baby is the Protestant Church.
   - **a time time mend** (1560-1680 AD). The Wars of religion, when the patient suffered hemorrhaging, until the beginnings of religious freedom stopped the bleed.
-  - **a time to be silent** (1680-1800 AD). Women (and men) are silent and listen to God during the Pietism movement, Methodist Revival and Great Awakening.
-  - **a time to speak** (1800-1920 AD). Women and men go forth as missionaries to speak the gospel to the whole world and the first women become ordained ministers in the US.
+  - **a time to be silent** (1680-1800 AD). Women (and men) are **silent** and listen to God during the Pietism movement, Methodist Revival and Great Awakening.
+  - **a time to speak** (1800-1920 AD). Women and men go forth as missionaries to **speak** the gospel to the whole world and the first women become ordained ministers in the US.
   - **a time to love** (1920-2040 AD). Begins with women getting the vote in 1920 and results in women gaining equal rights in most spheres of life.
 
-The history of blood transfusions is important, as many women died during childbirth from blood loss. The following timeline is courtesy of the Red Cross. See [History of Blood Transfusion](https://www.redcrossblood.org/donate-blood/blood-donation-process/what-happens-to-donated-blood/blood-transfusions/history-blood-transfusion.html) for more details.
+The history of blood transfusions is important, as many women died following childbirth from blood loss. The following timeline is courtesy of the Red Cross. See [History of Blood Transfusion](https://www.redcrossblood.org/donate-blood/blood-donation-process/what-happens-to-donated-blood/blood-transfusions/history-blood-transfusion.html) for more details.
 
   - 1628: British physician William Harvey discovers the circulation of blood. The first known blood transfusion is attempted soon afterward.
   - 1658: Microscopist Jan Swammerdam observes and describes red blood cells.
@@ -1576,13 +1576,18 @@ Why focus on the history of blood transfusions? It is because the suffering of w
 The development of antibiotics protected the **bodies** of women from infection.
 
 The development of safe techniques for **blood** storage and transfusion saved women from death by postpartum hemorrhage. 
-The process of discovery for this life saving miracle began during "a time to mend" and took almost the whole of this transitional period 
-to reach a state of general safety.
+The process of discovery for this latter life saving miracle began in 1628 during "a time to mend". It took almost the whole of this transitional period 
+for transfusions to reach a state of general safety. 
+
+Over forty million people died during the General Crisis of the 17th century, many in the wars of religion fought between 
+Catholics and Protestants. It was the bloodiest century in history before the twentieth. If any era in history is a fitting analogy 
+to a woman's postpartum blood loss, it is this one.
 
 Combined, these two medical miracles, transfusion and antibiotics, reduced mortality from childbirth by a factor of more than fifty!
 When Paul prophesied that women would be saved through "the Childbearing", he meant it. Not only would the world be transformed spiritually, 
 saving souls, but the material lives of hundreds of millions of women would be saved. The upshot is that Paul told us to expect a special time
-when women would be elevated both spiritually and materially to reach a place equal with men.
+when women would be elevated both spiritually and materially to reach a place equal with men. That time would be linked to 
+the actual, material deliverance of women from death during childbirth.
 
 Thus, for the spiritual, the good news arrived centuries ago, with revelation of the doctrine of the priesthood of ALL believers. 
 For the less spiritual, the good news arrived later, with medical developments (and advances in education and other areas) 
