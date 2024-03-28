@@ -70,6 +70,11 @@
   color: var(--light-blue-grey)
 }
 
+/* Table cells */
+.article td {
+  vertical-align: top;
+}
+
 /* 
    Poetry
 
