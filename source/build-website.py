@@ -246,7 +246,7 @@ def load_articles(config: dict, sitemap: dict, found = {}, missing: list[str] = 
 def load_and_convert_article(path) -> str:
   with open(path) as f:
     markdown = f.read()
-  html = markdown2.markdown(markdown, extras=["metadata"])
+  html = markdown2.markdown(markdown, extras=["metadata","tables"])
   return html
 
   
