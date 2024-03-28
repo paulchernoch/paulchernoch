@@ -1731,11 +1731,11 @@ In the following table:
 
 |        **Word**             |       **Time**       | **Scripture to which Word points**                       |
 | :-------------------------: | :------------------- | :------------------------------------------------------- |
-| * * * * * | * * * * * | * * * * * |
+| --------------------------- |
 | * <br/> No other gods. <br> No making idols <br><br> Focus: <br> 1&2 Thessalonians <br> (2 Ti 4:10a) | 1-240 AD <br> **Eternity** <br><br> Persecuted Christians weep. | **1 Timothy 1** <br> Key themes are the Law (with examples of breaking all Ten Commandments given in v8-11), Grace, Persecution and Freedom. Prophetically, this matches the Roman persecutions of the early church. The next and more potent mention of persecution is in 2 Timothy 4, foretelling the great tribulation. <br> These verses touch on eternity: <br> *But I received mercy for this reason, that in me, as the foremost, Jesus Christ might display his perfect patience as an example to those who were to believe in him for eternal life. To the King of the ages, immortal, invisible, the only God, be honor and glory forever and ever. Amen.* (v16-17) |
-| * * * * * | * * * * * | * * * * * |
+| --------------------------- |
 | * <br/> No other gods. <br> No making idols <br><br> Focus: <br> Galatians <br> (2 Ti 4:10b) | 240-480 AD <br> **Mourn & Dance** <br><br> Christians dance when Roman persecutions end and many kings become Christians, in answer to prayer, as prophesied. | **1 Timothy 2** <br> In addition to the eight words of power, we find this marvelous prophesy: <br> *First of all, then, I urge that supplications, prayers, intercessions, and thanksgivings be made for all people, for kings and all who are in high positions, that we may lead a peaceful and quiet life, godly and dignified in every way. This is good, and it is pleasing in the sight of God our Savior, who desires all people to be saved and to come to the knowledge of the truth.* (v1-4) <br> During this period even kings and emperors submitted to Christ! In 300 AD, the Arsacid king Tiridates III in Armenia was the first, followed in 313 AD by Constantine, Emperor of Rome, Ezana of Aksum (Eritrea and Ethiopia), and Mirian III of Iberia (Georgia). This fourth king was converted by Nino, a female missionary.  |
-| * * * * * | * * * * * | * * * * * |
+| --------------------------- |
 
 
 ...In progress...
