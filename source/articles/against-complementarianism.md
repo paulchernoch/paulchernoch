@@ -1605,7 +1605,18 @@ Before we get to 1 Timothy 2, two questions.
 
 ### Paul's Letters to Timothy
 
-The following is excerpted from the concluding chapter in my book *Plague, Precept, Prophet, Peace*, named "Epilogue: The Fifth Commandment". 
+The following section is excerpted from the concluding chapter in my book *Plague, Precept, Prophet, Peace*, 
+named "Epilogue: The Fifth Commandment". The extended discussion of Paul's letters to Timothy is necessary. 
+There are two ways to look at the letters' definition of people's roles in society: static or dynamic.
+
+  - If static, then the restrictions apply for all time, at least until the Lord returns and eternity is ushered in. 
+  - If dynamic, then a progressive change toward a more just arrangement is in view. 
+
+The passage that most enrages falls in 1 Timothy 2. Those who advocate a static interpretation will not buy the
+prophetic interpretation that I propose. Arguing that a few short verses taken in isolation define a prophetic process is impossible.
+That is why it must be shown that the whole of the two letters is prophetic, as well as three shorter passages.
+Once the letters are seen as fundamentally prophetic in nature on several fronts, including slavery, women's roles, persecution and world missions, 
+then the narrower focus on 1 Timothy 2 will not seen to be such a stretch.
 
 **1 Timothy 2: The Time Limit**
 
@@ -1759,7 +1770,28 @@ In the following table:
 | *<br> No coveting<br><br> **Promise: Christ’s Return**<br> (2 Ti 4:18) | 2160-? <br> **War & Peace** <br><br> The day of his appearing! | **2 Timothy 4** <br><br> The church will depart the world’s stage to meet the Lord.<br><br> *For I am already being poured out as a drink offering, and **the time of my departure** has come. I have fought the good fight, I have finished the race, I have kept the faith. Henceforth there is laid up for me the crown of righteousness, which the Lord, the righteous judge, will award to me on **that Day**, and not only to me but also to all who have loved his appearing.* (v6-8) |
 | <hr> | <hr> | <hr> |
 
-...In progress...
+
+Many things could be called out from the preceding table, but Paul’s stance on slavery stands out. Stripped of any reference to God’s prophetic timeline, Paul is seen as ennobling slaves and the work they do, but seems to tolerate the institution. This is why the temporal framework supplied by Solomon’s times and the commandments is vital. It shows when God’s age old plan to abolish slavery would kick into high gear. The chapter where Paul offers encouragement and advice to slaves corresponds to the era 1200-1440 AD. This author’s contention is that the pivotal era for abolition would fall in the next era, or 1440-1680 AD. Let us ponder some milestones in God’s unfolding plan for abolition:
+
+  - 1315 - King Louis X abolished slavery in France (but it would later be reestablished)
+  - 1435 - Pope Eugene IV, “Sicut Dudum”, opposed slavery in the Canary Islands
+  - 1504 - Queen Isabella of Castile, then of Spain, in her last will forbids the enslavement of the indigenous peoples of the New World
+  - 1537 - Pope Paul III, “Sublimus Deus”
+  - 1591 - Pope Gregory XIV, “Bulla Cum Sicuti”, ordered payment of reparations to enslaved Philippine natives
+  - 1639 - Pope Urban VIII, “Commissum Nobis”
+  - 1686 - Pope Innocent XI condemned slavery due to the influence of Lourenço da Silva Mendouça, a member of the royal family of the Kingdom of Ndongo in what is now Angola
+  - 1741 - Pope Benedict XIV, “Immensa Pastorum”
+  - 1807 - British Parliament, “An Act for the Abolition of the Slave Trade”
+  - 1808 - US Congress, “Act Prohibiting the Importation of Slaves”
+  - 1815 - Pope Pius VII at the Congress of Vienna
+  - 1839 - Pope Gregory, “In Supremo”
+  - 1863 - Lincoln’s Emancipation Proclamation
+
+Prior to 1440 AD, select theologians and lower church officials opposed slavery, plus one French king, whose successors allowed slavery to return. From 1440-1660, you see the beginning of top-down pressure from monarchs and popes to limit or outlaw slavery. These efforts had modest results. Then from 1680-1800, calls for abolition began to capture the public imagination. Finally, from 1800 onward slavery was forcefully opposed and rooted out worldwide.
+
+Thus we see that Paul’s prophecy truly addresses the last generation where acceptance of slavery was virtually universal. This is no coincidence. God did not sugarcoat his message. Slaves in this and all prior eras were told that freedom would come, but likely not for them. God does not lie, but instead tells people how to live and have hope in the situations in which they find themselves. Then, in the fullness of time, would come the answer to this prophecy from 2 Timothy 2:9: “But the word of God is not bound!” Paul announced the time when liberty would be given, too. 
+
+If the letters to Timothy spell out God's timetable for the abolition of slavery, then why not also the liberation of women?
 
 ## Impartation: The Unsealing of the Scroll of Wisdom
 
