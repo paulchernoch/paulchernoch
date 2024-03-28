@@ -1609,7 +1609,7 @@ The following is excerpted from the concluding chapter in my book *Plague, Prece
 
 **1 Timothy 2: The Time Limit**
 
-It is time to apply the vocabulary for time to 1 Timothy 2. The times of Solomon are firmly anchored in history and prophecy and have a special meaning as they relate to women. They are also the key to understanding Paul’s letters to Timothy. Appendix I of Peace devoted over fifty pages to these two letters. We shall have to sacrifice most of the evidence that proves their prophetic nature and limit discussion to key results from that analysis.
+It is time to apply the vocabulary for time to 1 Timothy 2. The times of Solomon are firmly anchored in history and prophecy and have a special meaning as they relate to women. They are also the key to understanding Paul’s letters to Timothy. Appendix I of *Peace, like Solomon Never Knew* devoted over fifty pages to these two letters. We shall have to sacrifice most of the evidence that proves their prophetic nature and limit discussion to key results from that analysis.
 
   - 1 & 2 Timothy form a coherent unit, contrary to expectations. A single structure and pattern unifies them: the Ten Commandments.
   - The chapter divisions are significant. Each chapter matches a commandment, in sequence.
@@ -1661,7 +1661,7 @@ The crops come in at the end of the season, which causes us to look in 2 Timothy
 ##### To him be the glory forever and ever. Amen. 
 ###### - 2 Timothy 4:9-18
 
-In Peace, it was shown that the references to the first six people and cities are references to six Bible books. Each era would face new challenges. Thus the Apostle Paul was calling attention to a different book in each case to help the church face that challenge.
+In *Peace*, it was shown that the references to the first six people and cities are references to six Bible books. Each era would face new challenges. Thus the Apostle Paul was calling attention to a different book in each case to help the church face that challenge.
 
   - **Thessalonians** would help the early church face disillusionment when the Lord did not return during their lifetime. (See 2 Thessalonians 2:1-12).
   - **Galatians** would help the church through the Roman persecutions, by giving the example of Paul himself: *For you have heard of my former life in Judaism, how I persecuted the church of God violently and tried to destroy it.* (Galatians 1:13, ESV) If God could make a Roman persecutor like him repent, he could transform an empire of persecutors!
@@ -1713,14 +1713,14 @@ These words are easy to match to times:
   - Quiet to *“a time to be silent”*
   - Childbearing to *“a time to tear”* because tearing is what delivering a baby does
   - Self-control to *“a time to scatter stones”* and *“a time to gather stones”*, because the Growth Pattern interprets them as being about cooperation in the chores of life between married couples or friends. Cooperation requires self-control.
-  - 
+  
 The more difficult matches are these:
 
   - Saved to *“a time to mend*”. Once the cataclysmic scope of the tearing becomes apparent, the need to be “saved” from it becomes obvious. The tearing included the General Crisis of the seventeenth century, featuring the Thirty Years War that killed half of all Germans.
   - Faith to *“a time to keep”* and *“a time to throw away”*. This falls out of history with support from the matching chapter.
   - Love to “a time to seek” and “a time to give up”. You would think it should match the literal “a time to love”. We will get to the reason for this assignment soon.
   - Holiness to *“a time to embrace”* and *“a time to refrain from embracing”*. The embracing here is Christians embracing God through acceptable worship, or rejecting God through idolatry and superstition.
-  - 
+  
 What makes these eight words a structured prophecy and not a mere exhortation is that they are a summary of prophetic utterances from 1 Timothy 3 to 2 Timothy 2. By looking at the prophetic word, the matching chapter, Solomon’s times and Church history side-by-side the connections become clear. 
 
 In the following table:
@@ -1728,6 +1728,10 @@ In the following table:
   - The **Word** column gives the “power word” from 1 Timothy 2:11-15. Asterisk (*) means that there is no word corresponding to that chapter, namely the chapters before and after the ones covered by the prophecy. That column also gives the commandment that corresponds to that chapter of 1 or 2 Timothy. (1 Timothy 1 & 2 each match two commandments.) Finally, it also matches some eras to New Testament books that speak to problems that would be encountered by the church during those times, according to the encapsulated clock (the Planting Almanac) from 2 Timothy 4. This is alternately identified as “Focus”, “Challenge” or “Promise”.
   - The **Time** column gives the historical time period for the main prophecies found in that chapter as well as the name of the time or times from Solomon’s poem in Ecclesiastes 3. Occasionally, it summarizes a prophecy.
   - The **Scripture** column names the book and chapter that matches this time and power word. It cites phrases or verses in the chapter that substantiate the correspondence and for some, historical events that match the prophecies of that chapter.
+
+|        **Word**             |       **Time**       | **Scripture to which Word points**                       |
+| :-------------------------: | :------------------- | :------------------------------------------------------- |
+| * <br/> Not other gods. <br> No making idols <br><br> Focus: <br> 1&2 Thessalonians <br> (2 Ti 4:10a) | 1-240 AD <br> **Eternity** <br><br> Persecuted Christians weep. | **1 Timothy 1** <br> Key themes are the Law (with examples of breaking all Ten Commandments given in v8-11), Grace, Persecution and Freedom. Prophetically, this matches the Roman persecutions of the early church. The next and more potent mention of persecution is in 2 Timothy 4, foretelling the great tribulation. <br> These verses touch on eternity: <br> *But I received mercy for this reason, that in me, as the foremost, Jesus Christ might display his perfect patience as an example to those who were to believe in him for eternal life. To the King of the ages, immortal, invisible, the only God, be honor and glory forever and ever. Amen.* (v16-17) |
 
 ...In progress...
 
