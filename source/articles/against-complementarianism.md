@@ -1603,7 +1603,133 @@ Before we get to 1 Timothy 2, two questions.
   - Who conducts all those blood drives that save lives? The Red Cross. 
   - And who started the Red Cross? Clara Barton. A woman.
 
-### 1 Timothy 2
+### Paul's Letters to Timothy
+
+The following is excerpted from the concluding chapter in my book *Plague, Precept, Prophet, Peace*, named "Epilogue: The Fifth Commandment". 
+
+**1 Timothy 2: The Time Limit**
+
+It is time to apply the vocabulary for time to 1 Timothy 2. The times of Solomon are firmly anchored in history and prophecy and have a special meaning as they relate to women. They are also the key to understanding Paul’s letters to Timothy. Appendix I of Peace devoted over fifty pages to these two letters. We shall have to sacrifice most of the evidence that proves their prophetic nature and limit discussion to key results from that analysis.
+
+  - 1 & 2 Timothy form a coherent unit, contrary to expectations. A single structure and pattern unifies them: the Ten Commandments.
+  - The chapter divisions are significant. Each chapter matches a commandment, in sequence.
+  - The table of contents to the letters is in 1 Timothy 1:9-10. The fourteen examples of ungodly behavior there include violations of all Ten Commandments, with an intentional swap of commands one and two and another swap of three and four. These swaps are mirrored in the content of the corresponding chapters. 
+  - Nine of the ten chapters, five from 1 Timothy and four from 2 Timothy, contain references to some of the times from Ecclesiastes 3, in order. 
+  - Only 1 Timothy 1 lacks reference to Solomon’s times. (2 Timothy 1 has its pair of times from the sequence, plus the times “missing” from 1 Timothy 1, the times to weep and laugh, as well.) Just as Solomon’s poem of the times ends with a word about eternity, Paul’s letter begins with words about eternity: Now to the King eternal, immortal, invisible, the only God, be honor and glory for ever and ever. Amen. (1 Timothy 1:17, NIV)
+  - All ten chapters are prophetic. Each corresponds to a distinct era of history 240 years in duration, in chronological order. These eras are tied to both the commandment for that chapter and Solomon’s times. The first chapter begins the clock near Christ’s birth. We are living through the era of the ninth chapter.
+  - Some chapters contain sections that hold additional prophecies spanning longer periods of time than the era governed by the bulk of the chapter. The most striking are 1 Timothy 2:11-15, 1 Timothy 3:2-3, 2 Timothy 3:10-11, and 2 Timothy 4:9-18. Let us call these four “encapsulated clocks”.
+
+**The Break**. What is most interesting about the letters is the break between them. Paul wrote in his first letter to Timothy with instructions about women’s place in the church. Then in his second letter, his tone changes. He takes pains in 2 Timothy 1:5 to remind Timothy of the crucial role that two women played in his (Timothy’s) life of faith: his grandmother Lois and mother, Eunice, the woman who gave birth to him. Could Timothy have been too harsh in interpreting Paul’s previous instructions about keeping women in line? Could this correction be a prophecy to the church to reform its treatment of women?
+  
+Since each season lasts 240 years (two times of 120 years apiece), the break between the six chapters of the former letter and four chapters of the latter corresponds to the year 1440 AD. Well isn’t that interesting. That matches the start of “a time to tear”. Another name for that time is “the childbearing”. It was the birth of a revitalized church, prepared to take the gospel to the whole world.
+
+To understand this momentous event, this childbearing, we need to follow the events that lead up to it and the consequences that flow from it. The metaphor of childbirth is the major one, found summarized in 1 Timothy 2 and elaborated upon throughout the rest of 1 & 2 Timothy. Before we get to that, there is a second analogy, of farming.
+
+**A Planting Almanac.** The final chapter in the two books ends with an encapsulated clock devoted to certain seeds planted by God into the church. That chapter does not seem to refer to the sowing of seed, but that is what it is. The metaphor was introduced here:
+
+#### It is the hard-working farmer who ought 
+##### to have the first share of the crops. 
+###### - 2 Timothy 2:6
+
+The crops come in at the end of the season, which causes us to look in 2 Timothy 4. The following verses describe a scattering, not of seeds, but of people. In brackets are their correspondence to eras of the church.
+
+#### Do your best to come to me soon. 
+#### \[1: 1-240 AD\] For Demas, in love with this present world, 
+##### has deserted me and gone to **Thessalonica**. 
+#### \[2: 240-480 AD\] Crescens has gone to **Galatia**, 
+#### \[3: 480-720 AD\] **Titus** to Dalmatia. 
+#### \[4: 720-960 AD\] **Luke** alone is with me. 
+#### \[5: 960-1200 AD\] Get **Mark** and bring him with you, 
+##### for he is very useful to me for ministry. 
+#### \[6: 1200-1440 AD\] Tychicus I have sent to **Ephesus**. 
+#### \[7: 1440-1680 AD\] When you \[**Timothy**\] come, 
+##### bring the cloak that I left with Carpus at Troas, 
+##### also the **books**, 
+##### and above all the **parchments**. 
+#### \[8: 1680-1920 AD\] Alexander the coppersmith did me great harm; 
+##### the Lord will repay him according to his deeds. 
+##### Beware of him yourself, for he strongly opposed our message. 
+#### \[9: 1920-2160 AD\] At my first defense no one came 
+##### to stand by me, but all deserted me. 
+##### May it not be charged against them! 
+#### \[10: 2160-?\] But the Lord stood by me and strengthened me, 
+##### so that through me the message might be fully proclaimed 
+##### and all the Gentiles might hear it. 
+##### So I was rescued from the lion's mouth. 
+##### The Lord will rescue me from every evil deed 
+##### and bring me safely into his heavenly kingdom. 
+##### To him be the glory forever and ever. Amen. 
+###### - 2 Timothy 4:9-18
+
+In Peace, it was shown that the references to the first six people and cities are references to six Bible books. Each era would face new challenges. Thus the Apostle Paul was calling attention to a different book in each case to help the church face that challenge.
+
+  - **Thessalonians** would help the early church face disillusionment when the Lord did not return during their lifetime. (See 2 Thessalonians 2:1-12).
+  - **Galatians** would help the church through the Roman persecutions, by giving the example of Paul himself: *For you have heard of my former life in Judaism, how I persecuted the church of God violently and tried to destroy it.* (Galatians 1:13, ESV) If God could make a Roman persecutor like him repent, he could transform an empire of persecutors!
+  - **Titus** would help the church retain sound doctrine as the Western Roman Empire fell.
+  - **Luke** helped the church hold fast to sound worship practices during the Great Iconoclasm.
+  - **Mark** stirred a laconic church to action, raising armies of faithful to carry the banner of Christ on crusades and elsewhere.
+  - **Ephesians** contained God’s rebuke of the church’s adoption of Canon 21 of the Fourth Lateran Council of 1215 AD, which now required human works (like regular confession) as a necessary part of salvation: *For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, **not a result of works**, so that no one may boast.* (Ephesians 2:8-9) This rebuke would prompt the Reformation of the subsequent era.
+  - **Timothy** is seventh on the list, which I overlooked when I wrote *Peace* because the second person pronoun is used, not his name. Paul has already exhorted Timothy to come as soon as he can. Why the urgency? First, see what he is to bring: Paul’s books and parchments. This era saw Gutenberg print the Bible using his new printing press, enabling millions of people to read the Bible. If Paul “planted” one book in each prior era as a seed to help grow the church, now he is broadcasting a basketful of seed. The whole Bible is unleashed. Second, Timothy represents the liberation of women. Paul is calling for Timothy to come soon so that the women of the church may be liberated soon!
+  - **Alexander**? What seed is to be planted in eighth place? This is the great missionary era. The long description of opposition names Alexander, whose name means “man’s defender”. Like Alexander the Great, this man advanced **humanism**, which blossomed in this era and became the church’s fiercest opponent. As a metalworker, Alexander may represent the industrial revolution and the greed and wealth that corrupted the souls of many.
+  - **Apostasy**. This ninth section describes apostasy. It suggests that Paul’s writings will be attacked with none to defend them. May it not be!
+  - **The Lord will rescue me…** This describes two things: a great persecution and the return of the Savior.
+
+Since this passage falls in 2 Timothy, Timothy is the marker pointing to the climactic event that would occur in the seventh era. This tells us something vital. In order to accomplish the reform of the church in ways that permitted women to be liberated to serve on equal terms with men, God would have to plant many seeds. Bible knowledge and wisdom would have to multiply greatly, as attested to by verse 13.
+
+How do we know that the Second Letter to Timothy’s fundamental purpose concerns women? If you look for the words woman, women, mother, mothers, sisters, widow, widows, wife, wives, marriage, and “old wive’s fables”, or particular women like Lois, Eunice, Prisca, and Aquila, some are found in every chapter of the two letters but two. The exceptions are 1 Timothy 6 and 2 Timothy 2. The latter chapter is one of two places where Paul refers to Timothy as “my child”. Being connected to the eighth era, this matches “a time to be silent” and “a time to speak”. By this time the childbearing has occurred. The child is born. This chapter, this era, lists no restrictions against women. This new church, this new child, is one where women and men are equal as they serve the Lord. *“It is the hard-working farmer who ought to have the first share of the crops.”* (2 Timothy 2:6) This era brought forth the greatest crop of souls in the church’s history AND HARD-WORKING WOMEN DESERVED TO HAVE THEIR SHARE OF THE CROPS.
+
+The preceding encapsulated clock focused on what the Lord did to facilitate this transformation. He followed this Proverb:
+
+#### To make an apt answer is a joy to a man, 
+##### and a word in season, how good it is! 
+###### - Proverbs 15:23
+
+According to the schedule outlined by Paul, the Holy Spirit delivered apt words of wisdom in their proper season to a church in dire need of his instruction. Now for insights more targeted towards women.
+
+**A Due Date Clock**. Pregnant women keep careful track of their predicted delivery date. They plan all their activities around that “due date”. The Bible has such a clock, and it is found here. The encapsulated clock we are interested in here is from 1 Timothy 2. It covers church history from 480-1920 AD. According to a survey of women theologians, this passage is the second most hated passage in the Bible for feminists.
+
+#### Let a woman learn quietly with all submissiveness. 
+#### I do not permit a woman to **teach** 
+##### or to exercise authority over a man; 
+###### rather, she is to remain **quiet**.
+#### For Adam was formed first, then Eve; 
+#### and Adam was not deceived, 
+##### but the woman was deceived and became a transgressor. 
+###### Yet she will be **saved**
+###### through **childbearing**-
+###### if they continue in **faith**
+###### and **love**
+###### and **holiness**,
+###### with **self-control**. 
+###### - 1 Timothy 2:11-15, ESV
+
+Bolded words refer to prophetic times: teach, quiet, saved, childbearing, faith, love, holiness and self-control. They are in reverse chronological order. Think about that for a minute. Many espouse the proposition that Jesus reversed the curse by his death, which should work itself out by women being freed to serve as pastors and elders. This intentional reversal of time wrapped around a reference to Eve is symbolic of exactly that sentiment. Jesus has reversed the curse. Now for the details of how and when.
+
+**Eight Powerful Words**. Let us un-reverse these eight words and tell the story in forward, chronological order. Some of the words clearly correspond to a single one of Solomon’s times, while others match a whole season, which is two times. 
+
+These words are easy to match to times:
+
+  - Teach to *“a time to speak”*
+  - Quiet to *“a time to be silent”*
+  - Childbearing to *“a time to tear”* because tearing is what delivering a baby does
+  - Self-control to *“a time to scatter stones”* and *“a time to gather stones”*, because the Growth Pattern interprets them as being about cooperation in the chores of life between married couples or friends. Cooperation requires self-control.
+  - 
+The more difficult matches are these:
+
+  - Saved to *“a time to mend*”. Once the cataclysmic scope of the tearing becomes apparent, the need to be “saved” from it becomes obvious. The tearing included the General Crisis of the seventeenth century, featuring the Thirty Years War that killed half of all Germans.
+  - Faith to *“a time to keep”* and *“a time to throw away”*. This falls out of history with support from the matching chapter.
+  - Love to “a time to seek” and “a time to give up”. You would think it should match the literal “a time to love”. We will get to the reason for this assignment soon.
+  - Holiness to *“a time to embrace”* and *“a time to refrain from embracing”*. The embracing here is Christians embracing God through acceptable worship, or rejecting God through idolatry and superstition.
+  - 
+What makes these eight words a structured prophecy and not a mere exhortation is that they are a summary of prophetic utterances from 1 Timothy 3 to 2 Timothy 2. By looking at the prophetic word, the matching chapter, Solomon’s times and Church history side-by-side the connections become clear. 
+
+In the following table:
+
+  - The **Word** column gives the “power word” from 1 Timothy 2:11-15. Asterisk (*) means that there is no word corresponding to that chapter, namely the chapters before and after the ones covered by the prophecy. That column also gives the commandment that corresponds to that chapter of 1 or 2 Timothy. (1 Timothy 1 & 2 each match two commandments.) Finally, it also matches some eras to New Testament books that speak to problems that would be encountered by the church during those times, according to the encapsulated clock (the Planting Almanac) from 2 Timothy 4. This is alternately identified as “Focus”, “Challenge” or “Promise”.
+  - The **Time** column gives the historical time period for the main prophecies found in that chapter as well as the name of the time or times from Solomon’s poem in Ecclesiastes 3. Occasionally, it summarizes a prophecy.
+  - The **Scripture** column names the book and chapter that matches this time and power word. It cites phrases or verses in the chapter that substantiate the correspondence and for some, historical events that match the prophecies of that chapter.
+
+...In progress...
 
 ## Impartation: The Unsealing of the Scroll of Wisdom
 
