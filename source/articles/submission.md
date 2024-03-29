@@ -71,5 +71,5 @@ Other articles in this Series:
 3. [Submission: The Sacrifice of Long-suffering Christian Women](./submission.html)
 4. [Consecration: Models of Ordination](./consecration.html)
 5. [Identification: The Metaphor of Childbirth](./identification.html)
-6. [Quantification: When did the Ordination Occur?](./quatification.html)
+6. [Quantification: When did the Ordination Occur?](./quantification.html)
 7. [Reconciliation: The Childbearing in 1 Timothy 2](./reconciliation.html)

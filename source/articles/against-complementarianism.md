@@ -324,7 +324,7 @@ This article asks the question, "Are there any models that can be applied to wom
 
 Having identified a promising model of ordination in the Book of Job, this article proves that it applies to women.
 
-[Quantification: When did the Ordination Occur?](./quatification.html)
+[Quantification: When did the Ordination Occur?](./quantification.html)
 
 It is not enough to have a promising model for ordination and know what sacrifice must be offered at the ceremony.
 The sacrifice must actually be offered at a definite time by actual people and the ceremony performed.
