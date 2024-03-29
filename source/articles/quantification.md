@@ -618,3 +618,15 @@ After that, women needed to:
   -  be commissioned to preach and share the gospel, during *a time to speak* (1800-1920 AD)
   
 With this result, we can tackle some thorny passages in the New Testament.
+
+<hr>
+
+Other articles in this Series:
+
+1. [Against Complementarianism](./against-complementarianism.html)
+2. [A Model for the Ordination of Women](./a-model-for-the-ordination-of-women.html)
+3. [Submission: The Sacrifice of Long-suffering Christian Women](./submission.html)
+4. [Consecration: Models of Ordination](./consecration.html)
+5. [Identification: The Metaphor of Childbirth](./identification.html)
+6. [Quantification: When did the Ordination Occur?](./quatification.html)
+7. [Reconciliation: The Childbearing in 1 Timothy 2](./reconciliation.html)

@@ -289,3 +289,16 @@ Prior to 1440 AD, select theologians and lower church officials opposed slavery,
 Thus we see that Paul’s prophecy truly addresses the last generation where acceptance of slavery was virtually universal. This is no coincidence. God did not sugarcoat his message. Slaves in this and all prior eras were told that freedom would come, but likely not for them. God does not lie, but instead tells people how to live and have hope in the situations in which they find themselves. Then, in the fullness of time, would come the answer to this prophecy from 2 Timothy 2:9: “But the word of God is not bound!” Paul announced the time when liberty would be given, too. 
 
 If the letters to Timothy spell out God's timetable for the abolition of slavery, then why not also the liberation of women?
+
+<hr>
+
+Other articles in this Series:
+
+1. [Against Complementarianism](./against-complementarianism.html)
+2. [A Model for the Ordination of Women](./a-model-for-the-ordination-of-women.html)
+3. [Submission: The Sacrifice of Long-suffering Christian Women](./submission.html)
+4. [Consecration: Models of Ordination](./consecration.html)
+5. [Identification: The Metaphor of Childbirth](./identification.html)
+6. [Quantification: When did the Ordination Occur?](./quatification.html)
+7. [Reconciliation: The Childbearing in 1 Timothy 2](./reconciliation.html)
+   
