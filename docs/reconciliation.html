@@ -1,0 +1,722 @@
+
+<!DOCTYPE html>
+<head>
+  <!--from template: default-page.html -->
+  <title>Reconciliation</title>
+  <link rel="stylesheet" href="./styles/tree.css" type="text/css">
+  <link rel="stylesheet" href="./styles/toc.css" type="text/css">
+  <link rel="stylesheet" href="./styles/article.css" type="text/css">
+  <!-- Font Awesome supplies the icons used in the TOC -->
+  <script src="https://kit.fontawesome.com/ecadd7b212.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="./styles/page.css" type="text/css">
+
+  <script>
+    /* Search for a css class name in an HTML element and replace it with a second class. */
+    function replace_class(element, from_class, to_class) {
+      element.classList.remove(from_class)
+      element.classList.add(to_class)
+    }
+
+    /* Show or hide the table of contents menu in the left sidebar by changing the style classes.
+       Also show and hide the buttons used to open and close the menu.
+     */
+    function toggleLeftSidebar(open) {
+      const sidebar = document.getElementById("leftsidebar");
+      const open_button = document.getElementById("leftsidebaropen");
+      const close_button = document.getElementById("leftsidebarclose");
+      const body = document.getElementById("articlebody")
+     
+      if (open) {
+        replace_class(sidebar, "leftsidebar-closed", "leftsidebar-open")
+        replace_class(open_button, "show-toggle", "hide-toggle")
+        replace_class(close_button, "hide-toggle", "show-toggle")
+        replace_class(body, "body-wide", "body-narrow")
+      }
+      else {
+        replace_class(sidebar, "leftsidebar-open", "leftsidebar-closed")
+        replace_class(open_button, "hide-toggle", "show-toggle")
+        replace_class(close_button, "show-toggle", "hide-toggle")
+        replace_class(body, "body-narrow", "body-wide")
+      }
+   }
+
+  </script>
+</head>
+<html>
+
+
+<body>
+  <!-- Floating buttons to open and close the TOC -->
+  <div id="toggle">
+    <div class="tooltip">
+
+      <a id="leftsidebaropen" class="hide-toggle" role="button" tabindex="1" onclick="toggleLeftSidebar(true)" >
+        <i class="fas fa-angle-double-right"></i>
+        <span class="tooltiptext">Show</span>
+      </a>
+      <a id="leftsidebarclose" class="show-toggle" role="button" tabindex="2" onclick="toggleLeftSidebar(false)">
+        <i class="fas fa-angle-double-left"></i>
+        <span class="tooltiptext">Hide</span>
+      </a>
+    </div>
+  </div>
+  <!-- Page Header -->
+  <div class="header header-colors">
+    <a href="index.html">
+      <img src="images/wisdom-house.png" width="676" height="250"/>
+    </a>
+
+    
+
+  </div>
+  <!-- Left Sidebar TOC -->
+  <div class="container">
+    <div id="leftsidebar" class="leftsidebar-open left-side-colors" tabindex="0">
+        <ul class="tree-padding tree-vertical-lines tree-horizontal-lines tree-summaries tree-markers tree-buttons">
+          <li>
+            <details open="">
+              <summary><i class="fa-solid fa-house-chimney"></i> <a href="home.html">Home</a></summary>
+                <ul>
+                  <li><i class="fas fa-address-card"></i> <a href="about-this-site.html">About this Site</a></li>
+                  <li><i class="fas fa-feather-alt"></i> <a href="author.html">Author</a></li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-book"></i> <a href="books.html">Books</a></summary>
+                        <ul>
+                          <li> <a href="the-endless-hunt.html">The Endless Hunt</a></li>
+                          <li> <a href="job-rises.html">Job Rises</a></li>
+                          <li> <a href="peace-book.html">Peace, Like Solomon Never Knew</a></li>
+                          <li> <a href="plague-precept-prophet-peace.html">Plague, Precept, Prophet, Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fa-solid fa-building-columns"></i> <a href="lady-wisdom-s-house.html">Lady Wisdom's House</a></summary>
+                        <ul>
+                          <li> <a href="lady-wisdom.html">Lady Wisdom</a></li>
+                          <li> <a href="hannah-s-song.html">Hannah's Song</a></li>
+                          <li> <a href="blueprint-for-lady-wisdom-s-house.html">Blueprint for Lady Wisdom's House</a></li>
+                          <li> <a href="foundation-the-commandments.html">Foundation: The Commandments</a></li>
+                          <li> <a href="lanterns-seven-spirits-of-god.html">Lanterns: Seven Spirits of God</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="seven-pillars-of-wisdom.html">Seven Pillars of Wisdom</a></summary>
+                                <ul>
+                                  <li> <a href="psalms.html">Psalms</a></li>
+                                  <li> <a href="job.html">Job</a></li>
+                                  <li> <a href="proverbs.html">Proverbs</a></li>
+                                  <li> <a href="song-of-songs.html">Song of Songs</a></li>
+                                  <li> <a href="ecclesiastes.html">Ecclesiastes</a></li>
+                                  <li> <a href="matthew.html">Matthew</a></li>
+                                  <li> <a href="revelation.html">Revelation</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="roof-paul-s-gospel-of-peace.html">Roof: Paul's Gospel of Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-seedling"></i> <a href="spiritual-growth.html">Spiritual Growth</a></summary>
+                        <ul>
+                          <li> <a href="most-important-questions.html">What are life's Most Important Questions?</a></li>
+                          <li> <a href="heavenly-treasures.html">What are the Heavenly Treasures?</a></li>
+                          <li> <a href="the-harvest-pattern-of-jesus.html">The Harvest Pattern of Jesus</a></li>
+                          <li> <a href="the-growth-pattern-of-solomon.html">The Growth Pattern of Solomon</a></li>
+                          <li> <a href="the-motherhood-pattern.html">The Motherhood Pattern</a></li>
+                          <li> <a href="the-law-pattern-of-moses.html">The Law Pattern of Moses</a></li>
+                          <li> <a href="the-journey-pattern.html">The Journey Pattern</a></li>
+                          <li> <a href="emotional-prophecies-of-the-psalms.html">Emotional Prophecies of the Psalms</a></li>
+                          <li> <a href="job-and-the-ways-to-talk-to-god.html">Job and the Ways to Talk to God</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-hourglass-half"></i> <a href="the-end-times.html">The End Times</a></summary>
+                        <ul>
+                          <li> <a href="seven-cycles-of-judgment.html">Seven Cycles of Judgment</a></li>
+                          <li> <a href="satan-bound-and-released.html">Satan, Bound and Released</a></li>
+                          <li> <a href="the-millennial-kingdom.html">The Millennial Kingdom</a></li>
+                          <li> <a href="the-four-horsemen-of-the-apocalypse.html">The Four Horsemen of the Apocalypse</a></li>
+                          <li> <a href="the-fifth-trumpet.html">The Fifth Trumpet</a></li>
+                          <li> <a href="the-fifth-seal.html">The Fifth Seal</a></li>
+                          <li> <a href="voice-of-the-seven-thunders.html">Voice of the Seven Thunders</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-list-ol"></i> <a href="numerology.html">Numerology</a></summary>
+                        <ul>
+                          <li> <a href="to-number-our-days.html">To Number our Days</a></li>
+                          <li> <a href="2-is-for-jesus.html">2 is for Jesus</a></li>
+                          <li> <a href="3-is-for-the-father.html">3 is for the Father</a></li>
+                          <li> <a href="4-is-for-cycles-of-nature.html">4 is for Cycles of Nature</a></li>
+                          <li> <a href="5-is-for-grace.html">5 is for Grace</a></li>
+                          <li> <a href="6-is-for-man.html">6 is for Man</a></li>
+                          <li> <a href="7-is-for-the-holy-spirit.html">7 is for the Holy Spirit</a></li>
+                          <li> <a href="17-is-for-victory.html">17 is for Victory</a></li>
+                          <li> <a href="28-is-for-time.html">28 is for Time</a></li>
+                          <li> <a href="40-is-for-suffering.html">40 is for Suffering</a></li>
+                          <li> <a href="42-is-for-the-journey.html">42 is for the Journey</a></li>
+                          <li> <a href="120-is-for-consecration.html">120 is for Consecration</a></li>
+                          <li> <a href="153-is-for-total-victory.html">153 is for Total Victory</a></li>
+                          <li> <a href="210-is-for-peace.html">210 is for Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-scroll"></i> <a href="prophetic-clocks.html">Prophetic Clocks</a></summary>
+                        <ul>
+                          <li> <a href="types-of-clock.html">Types of Clock</a></li>
+                          <li> <a href="generation-clocks.html">Generation Clocks</a></li>
+                          <li> <a href="celestial-clocks.html">Celestial Clocks</a></li>
+                          <li> <a href="spiritual-clocks.html">Spiritual Clocks</a></li>
+                          <li> <a href="empire-clocks.html">Empire Clocks</a></li>
+                          <li> <a href="commandment-clocks.html">Commandment Clocks</a></li>
+                          <li> <a href="other-clocks.html">Other Clocks</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-question-circle"></i> <a href="riddles.html">Riddles</a></summary>
+                        <ul>
+                          <li> <a href="the-righteous-fall-seven-times.html">The Righteous Fall Seven Times</a></li>
+                          <li> <a href="twice-a-thousand-years.html">Twice a Thousand Years</a></li>
+                          <li> <a href="the-seven-pillars-of-wisdom.html">The Seven Pillars of Wisdom</a></li>
+                          <li> <a href="why-153-fish-john-21.html">Why 153 Fish? John 21</a></li>
+                          <li> <a href="riddles-of-war.html">Riddles of War</a></li>
+                          <li> <a href="building-a-house.html">Building a House</a></li>
+                          <li> <a href="hannah-s-song.html">Hannah's Song</a></li>
+                          <li> <a href="satan-s-taunt.html">Satan's Taunt</a></li>
+                          <li> <a href="parable-of-the-workers-in-the-vineyard.html">Parable of the Workers in the Vineyard</a></li>
+                          <li> <a href="the-parable-of-the-wedding-feast.html">The Parable of the Wedding Feast</a></li>
+                          <li> <a href="the-childbearing.html">The Childbearing</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details open="">
+                      <summary><i class="fa-solid fa-person-harassing"></i> <a href="a-divided-world.html">A Divided World</a></summary>
+                        <ul>
+                          <li>
+                            <details open="">
+                              <summary> <a href="against-complementarianism.html">Against Complementarianism</a></summary>
+                                <ul>
+                                  <li> <a href="a-model-for-the-ordination-of-women.html">A Model for the Ordination of Women</a></li>
+                                  <li> <a href="submission.html">Submission</a></li>
+                                  <li> <a href="consecration.html">Consecration</a></li>
+                                  <li> <a href="identification.html">Identification</a></li>
+                                  <li> <a href="quantification.html">Quantification</a></li>
+                                  <li> <a href="reconciliation.html">Reconciliation</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-calendar-alt"></i> <a href="chronology.html">Chronology</a></summary>
+                        <ul>
+                          <li> <a href="antediluvian-chronology.html">Antediluvian Chronology</a></li>
+                          <li> <a href="sojourn-of-israel.html">Sojourn of Israel</a></li>
+                          <li> <a href="judges.html">Judges</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                </ul>
+            </details>
+          </li>
+
+        </ul>
+    </div>
+    <!-- Article Text -->
+    <div id="articlebody" class="body-narrow" tabindex="3">
+      <div class="article">
+        <h1>Reconciliation</h1>
+        <h2>The Childbearing in 1 Timothy 2</h2>
+        <p class="date">Published on 2024-03-28</p>
+        
+        <p>A major battleground in the debate over whether God permits women to serve as pastors and elders is 1 Timothy 2.
+I will offer a prophetic interpretation of those verses that shows a redemptive trajectory from the restricted 
+state of women in Paul's time to the less restricted state of today. It is a struggle to express these ideas clearly and
+concisely. It occurred to me this month that God has given us two signs by which we can know the truth:</p>
+
+<ul>
+<li>A spiritual sign, given earlier</li>
+<li>A literal sign, given later</li>
+</ul>
+
+<h2>Two Signs so the Church might see</h2>
+
+<p>God gave the spiritual sign to Christians who were more in tune with the Holy Spirit to begin the age of liberation. 
+Those believers could hear what others could not and began to obey and change the world, despite opposition from 
+outside AND INSIDE the church. The signs given to them were difficult to express by reference to Scripture, because
+before the mind can see the truth in the Bible, hearts must be freed, ears unstopped, eyes opened and hands 
+put to the plow. It is the faith that comes through obedience. Only the scholarship that proceeded from a community
+steeped in this faith could unlock the mysteries in the Bible that prophesied this time.</p>
+
+<p>God loves His daughters. Therefore he gave us a second sign, a concrete one. This sign is harder to ignore, 
+but the hard of heart still do. This sign is the fruit of the transformation. This sign is the ministry of women
+and the marvels that their service has performed. </p>
+
+<p>The two signs are two different meanings of the same passage, Paul's verse in 1 Timothy 2 about the Childbearing. </p>
+
+<ul>
+<li>The beginning of the era was the Reformation, a spiritual Childbearing that spawned a new civilization. </li>
+<li>The end of the era of liberation was marked by twin discoveries: safe blood transfusions (developed over the course of centuries) and the first antibiotic in 1928.</li>
+</ul>
+
+<p>Summarizing what was said previously, the transition period for the liberation of women spanned five of Solomon's times:</p>
+
+<ul>
+<li><strong>a time to tear</strong> (1440-1560 AD). The Childbearing of the Reformation, where the baby is the Protestant Church.</li>
+<li><strong>a time time mend</strong> (1560-1680 AD). The Wars of religion, when the patient suffered hemorrhaging, until the beginnings of religious freedom stopped the bleed.</li>
+<li><strong>a time to be silent</strong> (1680-1800 AD). Women (and men) are <strong>silent</strong> and listen to God during the Pietism movement, Methodist Revival and Great Awakening.</li>
+<li><strong>a time to speak</strong> (1800-1920 AD). Women and men go forth as missionaries to <strong>speak</strong> the gospel to the whole world and the first women become ordained ministers in the US.</li>
+<li><strong>a time to love</strong> (1920-2040 AD). Begins with women getting the vote in 1920 and results in women gaining equal rights in most spheres of life.</li>
+</ul>
+
+<p>The history of blood transfusions is important, as many women died following childbirth from blood loss. The following timeline is courtesy of the Red Cross. See <a href="https://www.redcrossblood.org/donate-blood/blood-donation-process/what-happens-to-donated-blood/blood-transfusions/history-blood-transfusion.html">History of Blood Transfusion</a> for more details.</p>
+
+<ul>
+<li>1628: British physician William Harvey discovers the circulation of blood. The first known blood transfusion is attempted soon afterward.</li>
+<li>1658: Microscopist Jan Swammerdam observes and describes red blood cells.</li>
+<li>1665: The first recorded successful blood transfusion occurs in England: Physician Richard Lower keeps dog alive by transfusing blood from other dogs.</li>
+<li>1667: Jean-Baptiste Denis in France and Richard Lower and Edmund King in England separately report successful transfusions from sheep to humans.</li>
+<li>1818: British obstetrician James Blundell performs the first successful transfusion of human blood to a patient for the treatment of postpartum hemorrhage.</li>
+<li>1884: Saline infusion replaces milk as a “blood substitute” due to the increased frequency of adverse reactions to milk.</li>
+<li>1901: Karl Landsteiner, an Austrian physician, discovers the first three human blood groups.</li>
+<li>1907: Ludvig Hektoen suggests that the safety of transfusion might be improved by cross-matching blood between donors and patients to exclude incompatible mixtures.</li>
+<li>1907: Reuben Ottenberg performs the first blood transfusion using blood typing and cross-matching.</li>
+<li>1914: Long-term anticoagulants, among them sodium citrate, are developed, allowing longer preservation of blood.</li>
+<li>1939-1940: The Rh blood group system is discovered by Karl Landsteiner, Alexander Wiener, Philip Levine and R.E. Stetson.</li>
+<li>1940: Lots happened:
+<ul>
+<li>The U.S. government establishes a national blood collection program.</li>
+<li>Edwin Cohn develops cold ethanol fractionation, the process of breaking down plasma into components and products. Albumin, gamma globulin and fibrinogen are isolated and become available for clinical use.</li>
+<li>John Elliott develops the first blood container, a vacuum bottle extensively used by the Red Cross.</li>
+<li>Early blood processing program for relief of English war victims, called Plasma for Britain, begins under direction of Charles R. Drew, MD.</li>
+</ul></li>
+</ul>
+
+<p>Why focus on the history of blood transfusions? It is because the suffering of women is a type of the suffering of Christ.</p>
+
+<ul>
+<li>Christ offered us his body to eat so that we might have eternal life and Women's bodies, used to create life, often perish from the ordeal.</li>
+<li>Christ offered us his blood to drink, and hundreds of millions of women throughout history have died from postpartum blood loss.</li>
+</ul>
+
+<p>The development of antibiotics protected the <strong>bodies</strong> of women from infection.</p>
+
+<p>The development of safe techniques for <strong>blood</strong> storage and transfusion saved women from death by postpartum hemorrhage. 
+The process of discovery for this latter life saving miracle began in 1628 during "a time to mend". It took almost the whole of this transitional period 
+for transfusions to reach a state of general safety. </p>
+
+<p>Over forty million people died during the General Crisis of the 17th century, many in the wars of religion fought between 
+Catholics and Protestants. It was the bloodiest century in history before the twentieth. If any era in history is a fitting analogy 
+to a woman's postpartum blood loss, it is this one.</p>
+
+<p>Combined, these two medical miracles, transfusion and antibiotics, reduced mortality from childbirth by a factor of more than fifty!
+When Paul prophesied that women would be saved through "the Childbearing", he meant it. Not only would the world be transformed spiritually, 
+saving souls, but the material lives of hundreds of millions of women would be saved. The upshot is that Paul told us to expect a special time
+when women would be elevated both spiritually and materially to reach a place equal with men. That time would be linked to 
+the actual, material deliverance of women from death during childbirth.</p>
+
+<p>Thus, for the spiritual, the good news arrived centuries ago, with revelation of the doctrine of the priesthood of ALL believers. 
+For the less spiritual, the good news arrived later, with medical developments (and advances in education and other areas) 
+that removed the disabilities suffered by women which disqualified them from service.</p>
+
+<p>The ideas I share about prophetic clocks are complicated and connect passages from all over the Bible into patterns that 
+you might not have the patience to digest. The medical miracles, however, are incontrovertible. They are not wrapped in parables, riddles 
+or peculiar analogies. They literally accomplished what Paul promised: women saved from the perils of childbirth. 
+They are a firm anchor in time announcing by a miracle of God that the time of women's equality had arrived. </p>
+
+<p>Before we get to 1 Timothy 2, two questions. </p>
+
+<ul>
+<li>Who conducts all those blood drives that save lives? The Red Cross. </li>
+<li>And who started the Red Cross? Clara Barton. A woman.</li>
+</ul>
+
+<h2>Paul's Letters to Timothy</h2>
+
+<p>The following section is excerpted from the concluding chapter in my book <em>Plague, Precept, Prophet, Peace</em>, 
+named "Epilogue: The Fifth Commandment". The extended discussion of Paul's letters to Timothy is necessary. 
+There are two ways to look at the letters' definition of people's roles in society: static or dynamic.</p>
+
+<ul>
+<li>If static, then the restrictions apply for all time, at least until the Lord returns and eternity is ushered in. </li>
+<li>If dynamic, then a progressive change toward a more just arrangement is in view. </li>
+</ul>
+
+<p>The passage that most enrages falls in 1 Timothy 2. Those who advocate a static interpretation will not buy the
+prophetic interpretation that I propose. Arguing that a few short verses taken in isolation define a prophetic process is impossible.
+That is why it must be shown that the whole of the two letters is prophetic, as well as three shorter passages.
+Once the letters are seen as fundamentally prophetic in nature on several fronts, including slavery, women's roles, persecution and world missions, 
+then the narrower focus on 1 Timothy 2 will not seen to be such a stretch.</p>
+
+<h2>1 Timothy 2: The Time Limit</h2>
+
+<p>It is time to apply the vocabulary for time to 1 Timothy 2. The times of Solomon are firmly anchored in history and prophecy and have a special meaning as they relate to women. They are also the key to understanding Paul’s letters to Timothy. Appendix I of <em>Peace, like Solomon Never Knew</em> devoted over fifty pages to these two letters. We shall have to sacrifice most of the evidence that proves their prophetic nature and limit discussion to key results from that analysis.</p>
+
+<ul>
+<li>1 &amp; 2 Timothy form a coherent unit, contrary to expectations. A single structure and pattern unifies them: the Ten Commandments.</li>
+<li>The chapter divisions are significant. Each chapter matches a commandment, in sequence.</li>
+<li>The table of contents to the letters is in 1 Timothy 1:9-10. The fourteen examples of ungodly behavior there include violations of all Ten Commandments, with an intentional swap of commands one and two and another swap of three and four. These swaps are mirrored in the content of the corresponding chapters. </li>
+<li>Nine of the ten chapters, five from 1 Timothy and four from 2 Timothy, contain references to some of the times from Ecclesiastes 3, in order. </li>
+<li>Only 1 Timothy 1 lacks reference to Solomon’s times. (2 Timothy 1 has its pair of times from the sequence, plus the times “missing” from 1 Timothy 1, the times to weep and laugh, as well.) Just as Solomon’s poem of the times ends with a word about eternity, Paul’s letter begins with words about eternity: Now to the King eternal, immortal, invisible, the only God, be honor and glory for ever and ever. Amen. (1 Timothy 1:17, NIV)</li>
+<li>All ten chapters are prophetic. Each corresponds to a distinct era of history 240 years in duration, in chronological order. These eras are tied to both the commandment for that chapter and Solomon’s times. The first chapter begins the clock near Christ’s birth. We are living through the era of the ninth chapter.</li>
+<li>Some chapters contain sections that hold additional prophecies spanning longer periods of time than the era governed by the bulk of the chapter. The most striking are 1 Timothy 2:11-15, 1 Timothy 3:2-3, 2 Timothy 3:10-11, and 2 Timothy 4:9-18. Let us call these four “encapsulated clocks”.</li>
+</ul>
+
+<h2>The Break</h2>
+
+<p>What is most interesting about the letters is the break between them. Paul wrote in his first letter to Timothy with instructions about women’s place in the church. Then in his second letter, his tone changes. He takes pains in 2 Timothy 1:5 to remind Timothy of the crucial role that two women played in his (Timothy’s) life of faith: his grandmother Lois and mother, Eunice, the woman who gave birth to him. Could Timothy have been too harsh in interpreting Paul’s previous instructions about keeping women in line? Could this correction be a prophecy to the church to reform its treatment of women?</p>
+
+<p>Since each season lasts 240 years (two times of 120 years apiece), the break between the six chapters of the former letter and four chapters of the latter corresponds to the year 1440 AD. Well isn’t that interesting. That matches the start of “a time to tear”. Another name for that time is “the childbearing”. It was the birth of a revitalized church, prepared to take the gospel to the whole world.</p>
+
+<p>To understand this momentous event, this childbearing, we need to follow the events that lead up to it and the consequences that flow from it. The metaphor of childbirth is the major one, found summarized in 1 Timothy 2 and elaborated upon throughout the rest of 1 &amp; 2 Timothy. Before we get to that, there is a second analogy, of farming.</p>
+
+<h2>A Planting Almanac.</h2>
+
+<p>The final chapter in the two books ends with an encapsulated clock devoted to certain seeds planted by God into the church. That chapter does not seem to refer to the sowing of seed, but that is what it is. The metaphor was introduced here:</p>
+
+<h4>It is the hard-working farmer who ought</h4>
+
+<h5>to have the first share of the crops.</h5>
+
+<h6>- 2 Timothy 2:6</h6>
+
+<p>The crops come in at the end of the season, which causes us to look in 2 Timothy 4. The following verses describe a scattering, not of seeds, but of people. In brackets are their correspondence to eras of the church.</p>
+
+<h4>Do your best to come to me soon.</h4>
+
+<h4>[1: 1-240 AD] For Demas, in love with this present world,</h4>
+
+<h5>has deserted me and gone to <strong>Thessalonica</strong>.</h5>
+
+<h4>[2: 240-480 AD] Crescens has gone to <strong>Galatia</strong>,</h4>
+
+<h4>[3: 480-720 AD] <strong>Titus</strong> to Dalmatia.</h4>
+
+<h4>[4: 720-960 AD] <strong>Luke</strong> alone is with me.</h4>
+
+<h4>[5: 960-1200 AD] Get <strong>Mark</strong> and bring him with you,</h4>
+
+<h5>for he is very useful to me for ministry.</h5>
+
+<h4>[6: 1200-1440 AD] Tychicus I have sent to <strong>Ephesus</strong>.</h4>
+
+<h4>[7: 1440-1680 AD] When you [<strong>Timothy</strong>] come,</h4>
+
+<h5>bring the cloak that I left with Carpus at Troas,</h5>
+
+<h5>also the <strong>books</strong>,</h5>
+
+<h5>and above all the <strong>parchments</strong>.</h5>
+
+<h4>[8: 1680-1920 AD] Alexander the coppersmith did me great harm;</h4>
+
+<h5>the Lord will repay him according to his deeds.</h5>
+
+<h5>Beware of him yourself, for he strongly opposed our message.</h5>
+
+<h4>[9: 1920-2160 AD] At my first defense no one came</h4>
+
+<h5>to stand by me, but all deserted me.</h5>
+
+<h5>May it not be charged against them!</h5>
+
+<h4>[10: 2160-?] But the Lord stood by me and strengthened me,</h4>
+
+<h5>so that through me the message might be fully proclaimed</h5>
+
+<h5>and all the Gentiles might hear it.</h5>
+
+<h5>So I was rescued from the lion's mouth.</h5>
+
+<h5>The Lord will rescue me from every evil deed</h5>
+
+<h5>and bring me safely into his heavenly kingdom.</h5>
+
+<h5>To him be the glory forever and ever. Amen.</h5>
+
+<h6>- 2 Timothy 4:9-18</h6>
+
+<p>In <em>Peace</em>, it was shown that the references to the first six people and cities are references to six Bible books. Each era would face new challenges. Thus the Apostle Paul was calling attention to a different book in each case to help the church face that challenge.</p>
+
+<ul>
+<li><strong>Thessalonians</strong> would help the early church face disillusionment when the Lord did not return during their lifetime. (See 2 Thessalonians 2:1-12).</li>
+<li><strong>Galatians</strong> would help the church through the Roman persecutions, by giving the example of Paul himself: <em>For you have heard of my former life in Judaism, how I persecuted the church of God violently and tried to destroy it.</em> (Galatians 1:13, ESV) If God could make a Roman persecutor like him repent, he could transform an empire of persecutors!</li>
+<li><strong>Titus</strong> would help the church retain sound doctrine as the Western Roman Empire fell.</li>
+<li><strong>Luke</strong> helped the church hold fast to sound worship practices during the Great Iconoclasm.</li>
+<li><strong>Mark</strong> stirred a laconic church to action, raising armies of faithful to carry the banner of Christ on crusades and elsewhere.</li>
+<li><strong>Ephesians</strong> contained God’s rebuke of the church’s adoption of Canon 21 of the Fourth Lateran Council of 1215 AD, which now required human works (like regular confession) as a necessary part of salvation: <em>For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, <strong>not a result of works</strong>, so that no one may boast.</em> (Ephesians 2:8-9) This rebuke would prompt the Reformation of the subsequent era.</li>
+<li><strong>Timothy</strong> is seventh on the list, which I overlooked when I wrote <em>Peace</em> because the second person pronoun is used, not his name. Paul has already exhorted Timothy to come as soon as he can. Why the urgency? First, see what he is to bring: Paul’s books and parchments. This era saw Gutenberg print the Bible using his new printing press, enabling millions of people to read the Bible. If Paul “planted” one book in each prior era as a seed to help grow the church, now he is broadcasting a basketful of seed. The whole Bible is unleashed. Second, Timothy represents the liberation of women. Paul is calling for Timothy to come soon so that the women of the church may be liberated soon!</li>
+<li><strong>Alexander</strong>? What seed is to be planted in eighth place? This is the great missionary era. The long description of opposition names Alexander, whose name means “man’s defender”. Like Alexander the Great, this man advanced <strong>humanism</strong>, which blossomed in this era and became the church’s fiercest opponent. As a metalworker, Alexander may represent the industrial revolution and the greed and wealth that corrupted the souls of many.</li>
+<li><strong>Apostasy</strong>. This ninth section describes apostasy. It suggests that Paul’s writings will be attacked with none to defend them. May it not be!</li>
+<li><strong>The Lord will rescue me…</strong> This describes two things: a great persecution and the return of the Savior.</li>
+</ul>
+
+<p>Since this passage falls in 2 Timothy, Timothy is the marker pointing to the climactic event that would occur in the seventh era. This tells us something vital. In order to accomplish the reform of the church in ways that permitted women to be liberated to serve on equal terms with men, God would have to plant many seeds. Bible knowledge and wisdom would have to multiply greatly, as attested to by verse 13.</p>
+
+<p>How do we know that the Second Letter to Timothy’s fundamental purpose concerns women? If you look for the words woman, women, mother, mothers, sisters, widow, widows, wife, wives, marriage, and “old wive’s fables”, or particular women like Lois, Eunice, Prisca, and Aquila, some are found in every chapter of the two letters but two. The exceptions are 1 Timothy 6 and 2 Timothy 2. The latter chapter is one of two places where Paul refers to Timothy as “my child”. Being connected to the eighth era, this matches “a time to be silent” and “a time to speak”. By this time the childbearing has occurred. The child is born. This chapter, this era, lists no restrictions against women. This new church, this new child, is one where women and men are equal as they serve the Lord. <em>“It is the hard-working farmer who ought to have the first share of the crops.”</em> (2 Timothy 2:6) This era brought forth the greatest crop of souls in the church’s history AND HARD-WORKING WOMEN DESERVED TO HAVE THEIR SHARE OF THE CROPS.</p>
+
+<p>The preceding encapsulated clock focused on what the Lord did to facilitate this transformation. He followed this Proverb:</p>
+
+<h4>To make an apt answer is a joy to a man,</h4>
+
+<h5>and a word in season, how good it is!</h5>
+
+<h6>- Proverbs 15:23</h6>
+
+<p>According to the schedule outlined by Paul, the Holy Spirit delivered apt words of wisdom in their proper season to a church in dire need of his instruction. Now for insights more targeted towards women.</p>
+
+<h2>A Due Date Clock</h2>
+
+<p>Pregnant women keep careful track of their predicted delivery date. They plan all their activities around that “due date”. The Bible has such a clock, and it is found here. The encapsulated clock we are interested in here is from 1 Timothy 2. It covers church history from 480-1920 AD. According to a survey of women theologians, this passage is the second most hated passage in the Bible for feminists.</p>
+
+<h4>Let a woman learn quietly with all submissiveness.</h4>
+
+<h4>I do not permit a woman to <strong>teach</strong></h4>
+
+<h5>or to exercise authority over a man;</h5>
+
+<h6>rather, she is to remain <strong>quiet</strong>.</h6>
+
+<h4>For Adam was formed first, then Eve;</h4>
+
+<h4>and Adam was not deceived,</h4>
+
+<h5>but the woman was deceived and became a transgressor.</h5>
+
+<h6>Yet she will be <strong>saved</strong></h6>
+
+<h6>through <strong>childbearing</strong>-</h6>
+
+<h6>if they continue in <strong>faith</strong></h6>
+
+<h6>and <strong>love</strong></h6>
+
+<h6>and <strong>holiness</strong>,</h6>
+
+<h6>with <strong>self-control</strong>.</h6>
+
+<h6>- 1 Timothy 2:11-15, ESV</h6>
+
+<p>Bolded words refer to prophetic times: teach, quiet, saved, childbearing, faith, love, holiness and self-control. They are in reverse chronological order. Think about that for a minute. Many espouse the proposition that Jesus reversed the curse by his death, which should work itself out by women being freed to serve as pastors and elders. This intentional reversal of time wrapped around a reference to Eve is symbolic of exactly that sentiment. Jesus has reversed the curse. Now for the details of how and when.</p>
+
+<h2>Eight Powerful Words</h2>
+
+<p>Let us un-reverse these eight words and tell the story in forward, chronological order. Some of the words clearly correspond to a single one of Solomon’s times, while others match a whole season, which is two times. </p>
+
+<p>These words are easy to match to times:</p>
+
+<ul>
+<li>Teach to <em>“a time to speak”</em></li>
+<li>Quiet to <em>“a time to be silent”</em></li>
+<li>Childbearing to <em>“a time to tear”</em> because tearing is what delivering a baby does</li>
+<li>Self-control to <em>“a time to scatter stones”</em> and <em>“a time to gather stones”</em>, because the Growth Pattern interprets them as being about cooperation in the chores of life between married couples or friends. Cooperation requires self-control.</li>
+</ul>
+
+<p>The more difficult matches are these:</p>
+
+<ul>
+<li>Saved to <em>“a time to mend</em>”. Once the cataclysmic scope of the tearing becomes apparent, the need to be “saved” from it becomes obvious. The tearing included the General Crisis of the seventeenth century, featuring the Thirty Years War that killed half of all Germans.</li>
+<li>Faith to <em>“a time to keep”</em> and <em>“a time to throw away”</em>. This falls out of history with support from the matching chapter.</li>
+<li>Love to “a time to seek” and “a time to give up”. You would think it should match the literal “a time to love”. We will get to the reason for this assignment soon.</li>
+<li>Holiness to <em>“a time to embrace”</em> and <em>“a time to refrain from embracing”</em>. The embracing here is Christians embracing God through acceptable worship, or rejecting God through idolatry and superstition.</li>
+</ul>
+
+<p>What makes these eight words a structured prophecy and not a mere exhortation is that they are a summary of prophetic utterances from 1 Timothy 3 to 2 Timothy 2. By looking at the prophetic word, the matching chapter, Solomon’s times and Church history side-by-side the connections become clear. </p>
+
+<p>In the following table:</p>
+
+<ul>
+<li>The <strong>Word</strong> column gives the “power word” from 1 Timothy 2:11-15. Asterisk (*) means that there is no word corresponding to that chapter, namely the chapters before and after the ones covered by the prophecy. That column also gives the commandment that corresponds to that chapter of 1 or 2 Timothy. (1 Timothy 1 &amp; 2 each match two commandments.) Finally, it also matches some eras to New Testament books that speak to problems that would be encountered by the church during those times, according to the encapsulated clock (the Planting Almanac) from 2 Timothy 4. This is alternately identified as “Focus”, “Challenge” or “Promise”.</li>
+<li>The <strong>Time</strong> column gives the historical time period for the main prophecies found in that chapter as well as the name of the time or times from Solomon’s poem in Ecclesiastes 3. Occasionally, it summarizes a prophecy.</li>
+<li>The <strong>Scripture</strong> column names the book and chapter that matches this time and power word. It cites phrases or verses in the chapter that substantiate the correspondence and for some, historical events that match the prophecies of that chapter.</li>
+</ul>
+
+<hr />
+
+<table>
+<thead>
+<tr>
+  <th style="text-align:center;"><strong>Word</strong></th>
+  <th style="text-align:left;"><strong>Time</strong></th>
+  <th style="text-align:left;"><strong>Scripture to which Word points</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td style="text-align:center;"><hr></td>
+  <td style="text-align:left;"><hr></td>
+  <td style="text-align:left;"><hr></td>
+</tr>
+<tr>
+  <td style="text-align:center;">* <br/> No other gods. <br> No making idols. <br><br> Focus: <br> 1&amp;2 Thessalonians <br> (2 Ti 4:10a)</td>
+  <td style="text-align:left;">1-240 AD <br> <strong>Eternity</strong> <br><br> Persecuted Christians weep.</td>
+  <td style="text-align:left;"><strong>1 Timothy 1</strong> <br> Key themes are the Law (with examples of breaking all Ten Commandments given in v8-11), Grace, Persecution and Freedom. Prophetically, this matches the Roman persecutions of the early church. The next and more potent mention of persecution is in 2 Timothy 4, foretelling the great tribulation. <br> These verses touch on eternity: <br> <em>But I received mercy for this reason, that in me, as the foremost, Jesus Christ might display his perfect patience as an example to those who were to believe in him for eternal life. To the King of the ages, immortal, invisible, the only God, be honor and glory forever and ever. Amen.</em> (v16-17)</td>
+</tr>
+<tr>
+  <td style="text-align:center;"><hr></td>
+  <td style="text-align:left;"><hr></td>
+  <td style="text-align:left;"><hr></td>
+</tr>
+<tr>
+  <td style="text-align:center;">* <br/> No other gods. <br> No making idols <br><br> Focus: <br> Galatians <br> (2 Ti 4:10b)</td>
+  <td style="text-align:left;">240-480 AD <br> <strong>Mourn &amp; Dance</strong> <br><br> Christians dance when Roman persecutions end and many kings become Christians, in answer to prayer, as prophesied.</td>
+  <td style="text-align:left;"><strong>1 Timothy 2</strong> <br> In addition to the eight words of power, we find this marvelous prophesy: <br> <em>First of all, then, I urge that supplications, prayers, intercessions, and thanksgivings be made for all people, for kings and all who are in high positions, that we may lead a peaceful and quiet life, godly and dignified in every way. This is good, and it is pleasing in the sight of God our Savior, who desires all people to be saved and to come to the knowledge of the truth.</em> (v1-4) <br> During this period even kings and emperors submitted to Christ! In 300 AD, the Arsacid king Tiridates III in Armenia was the first, followed in 313 AD by Constantine, Emperor of Rome, Ezana of Aksum (Eritrea and Ethiopia), and Mirian III of Iberia (Georgia). This fourth king was converted by Nino, a female missionary.</td>
+</tr>
+<tr>
+  <td style="text-align:center;"><hr></td>
+  <td style="text-align:left;"><hr></td>
+  <td style="text-align:left;"><hr></td>
+</tr>
+<tr>
+  <td style="text-align:center;"><strong>Self-control</strong> <br> No vain oaths. <br> Keep sabbath holy. <br><br> Focus: <br> Titus <br> (2 Ti 4:10c)</td>
+  <td style="text-align:left;">480-720 AD <br> <strong>Scatter &amp; Gather</strong></td>
+  <td style="text-align:left;"><strong>1 Timothy 3</strong> <br> <em>Therefore an overseer must be above reproach, the husband of one wife, sober-minded, self-controlled, respectable, hospitable, able to teach…</em> (v2) <br> <em>Their wives likewise must be dignified, not slanderers, but sober-minded, faithful in all things.</em>  (v11) <br><br> Self-control means courage when disaster strikes. This fearful time saw the Western Roman Empire collapse, with Rome falling to invaders, never to rise again. It was the beginning of the Dark Ages and included the Muslim conquest of the Holy Land and Egypt. One third of Christendom was destroyed. <br><br> One woman exhibited more self control than her husband. Byzantine Empress Theodora fearlessly persuaded her husband, Emperor Justinian, to not flee into exile but instead fight for the crown, saving the empire. She championed legislation benefiting women, like permitting poor women to marry wealthy men, giving large restitution to victims of rape and enacting fairer divorce laws.</td>
+</tr>
+<tr>
+  <td style="text-align:center;"><hr></td>
+  <td style="text-align:left;"><hr></td>
+  <td style="text-align:left;"><hr></td>
+</tr>
+<tr>
+  <td style="text-align:center;"><strong>Holiness</strong> <br><br>No vain oaths.<br>Keep sabbath holy.<br><br>Focus:<br>Luke<br>(2 Ti 4:11a)</td>
+  <td style="text-align:left;">720-960 AD <br> <strong>Embrace &amp; Refrain</strong> <br><br> Iconoclasm Controversy <br> Seventh Ecumenical Council <br> Reign of the Harlots</td>
+  <td style="text-align:left;"><strong>1 Timothy 4</strong> <br> <em>Now the Spirit expressly says that in later times some will depart from the faith by devoting themselves to deceitful spirits and teachings of demons,</em> (v1) <br> <em>for it is made holy by the word of God and prayer.</em> (v5) <br> <em>for while bodily training is of some value, godliness is of value in every way, as it holds promise for the present life and also for the life to come.</em> (v8) <br> <em>Let no one despise you for your youth, but set the believers an example in speech, in conduct, in love, in faith, in purity.</em> (v12) <br><br> The first half of this season was occupied with the Iconoclasm Controversy, about how to worship God in holiness, not idolatry. The prominent figures who helped resolve this crisis were the Byzantine Empresses Irene and Theodora. Irene called the Seventh Ecumenical Council to resolve the crisis. That was the last council in which the eastern and western churches embraced. <br><br>Then in the latter half of the era, unholy women named Theodora and Marozzia wielded a negative influence over the Catholic Church during the Reign of the Harlots. One Pope they maneuvered into office was killed by a jealous husband who found his wife in the Pope’s adulterous embrace. Truly, their ways one should refrain from embracing.</td>
+</tr>
+<tr>
+  <td style="text-align:center;"><hr></td>
+  <td style="text-align:left;"><hr></td>
+  <td style="text-align:left;"><hr></td>
+</tr>
+<tr>
+  <td style="text-align:center;"><strong>Love</strong> <br><br> Honor father &amp; mother <br><br> Focus: <br> Mark <br> (2 Ti 4:11b)</td>
+  <td style="text-align:left;">960-1200 AD <br> <strong>Seek &amp; Give up</strong> <br><br> Jerusalem captured then lost</td>
+  <td style="text-align:left;"><strong>1 Timothy 5</strong> <br>The word love never appears in this chapter, but the definition of love from 1 Corinthians 13 is mirrored in the examples given here:<br><br> <em>Encourage</em> (v1) <br> <em>Honor</em> (v3) <br> <em>Hope</em> (v5) <br> <em>Provide</em> (v 8) <br> <em>Good works… hospitality… washed the feet of the saints… cared</em> (v10) <br> <em>Care</em> (v16) <br> <em>Good works</em> (v25) <br><br> Saint Anselm and Eadmer wrote of the excellencies of Mary and the dignity of women in general on a theological and philosophical level. This era saw the development of the ideals of chivalry and courtly love, an attempt to honor, respect and protect women. In the First Crusade, the church sought to regain what it had lost - Jerusalem and the fading glory of Rome. It held the city briefly, then had to give it up.</td>
+</tr>
+<tr>
+  <td style="text-align:center;"><hr></td>
+  <td style="text-align:left;"><hr></td>
+  <td style="text-align:left;"><hr></td>
+</tr>
+<tr>
+  <td style="text-align:center;"><strong>Faith</strong><br><br> No murder <br><br> Focus: Ephesians<br> (2 Ti 4:12)</td>
+  <td style="text-align:left;">1200-1440 AD<br> <strong>Keep &amp; Throw away</strong><br><br> Slaves being told to be obedient to masters defines the last season before philosophical and religious abolition movements take hold. Today’s slaves must help build the church, because tomorrow’s church will set slaves free.<br><br> God throws Byzantium away, as well as the lives of millions claimed by the Black Plague, God’s judgment for murder.</td>
+  <td style="text-align:left;"><strong>1 Timothy 6</strong> <br>Examples of faith &amp; its opposite are given.<br><br><em>For the love of money is a root of all kinds of evils. It is through this craving that some have wandered away from the faith and pierced themselves with many pangs.</em> (v10)<br><br> <em>But as for you, O man of God, flee these things. Pursue righteousness, godliness, <strong>faith</strong>, love, steadfastness, gentleness. Fight the good fight of the <strong>faith</strong>. Take hold of the eternal life to which you were called and about which you made the <strong>good confession</strong> in the presence of many witnesses. I charge you in the presence of God, who gives life to all things, and of Christ Jesus, who in his testimony before Pontius Pilate made the <strong>good confession</strong>, to keep the commandment unstained and free from reproach until the appearing of our Lord Jesus Christ,</em> (v11-14)<br><br><em>O Timothy, guard the deposit entrusted to you. Avoid the irreverent babble and contradictions of what is falsely called “knowledge,” for by professing it some have swerved from the faith…</em> (v20-21)<br><br>A disagreeable verse tolerant of slavery takes on new meaning:<br><br> <em>Let all who are under a yoke as bondservants regard their own masters as worthy of all honor, so that the name of God and the teaching may not be reviled. Those who have believing masters must not be disrespectful on the ground that they are brothers; rather they must serve all the better since those who benefit by their good service are believers and beloved…</em> (v1-2)<br><br>Church opposition to slavery would steadily increase in the next season.</td>
+</tr>
+<tr>
+  <td style="text-align:center;"><hr></td>
+  <td style="text-align:left;"><hr></td>
+  <td style="text-align:left;"><hr></td>
+</tr>
+<tr>
+  <td style="text-align:center;"><strong>Child-bearing</strong><br><br> No adultery <br> (Part 1)<br><br> Focus:<br> 1&amp;2 Timothy<br> (2 Ti 4:9,13)</td>
+  <td style="text-align:left;">1440-1560 AD <br><br><strong>Weep, Laugh &amp; Tear</strong><br><br>In the 15th &amp; 16th centuries, all who are in Asia turn against the church, as prophesied by Paul. This included Japan &amp; the Mongolian and Ottoman Empires.<br><br>Luther’s doctrine “the priesthood of all believers” elevated women’s place in the church.</td>
+  <td style="text-align:left;"><strong>2 Timothy 1</strong><br><br> This first quote repeats many of the eight powerful words from 1 Timothy 2, such as faith, love and self-control. This focuses our attention here. By mentioning Timothy’s mother and grandmother, Paul recalls Timothy’s physical and spiritual <strong>birth</strong>. The phrase “fan into flame” prophesies the fire of the Holy Spirit that would reignite the guttering candle of the church during this time of the Protestant Reformation:<br><br><em>I am reminded of your sincere <strong>faith</strong>, a faith that dwelt first in your <strong>grandmother Lois and your mother Eunice</strong> and now, I am sure, dwells in you as well. For this reason I remind you to <strong>fan into flame</strong> the gift of God, which is in you through the laying on of my hands, for God gave us a spirit not of fear but of <strong>power</strong> and <strong>love</strong> and <strong>self-control</strong>.</em> (v5-7)<br><br> A second quote gives an example of tearing, people turning against Paul &amp; the faith:<br><br> <em>You are aware that <strong>all who are in Asia turned away from me</strong>, among whom are Phygelus and Hermogenes.</em> (v15)<br><br>Verse 15 above is a startlingly accurate prophecy! What happened to the church in Asia during this era in church history? <br><br> &middot; Japan expelled all Christian missionaries and killed many believers.<br> &middot; Vietnam followed suit in 1625.<br> &middot; The once tolerant Mongolian Empire, which had Christian princesses and generals, now embraced Islam and persecuted Christians.<br> &middot; The Ottoman Empire besieged Constantinople and conquered the Byzantine Empire. They slaughtered millions of Christians and forced millions more to convert to Islam.</td>
+</tr>
+<tr>
+  <td style="text-align:center;"><hr></td>
+  <td style="text-align:left;"><hr></td>
+  <td style="text-align:left;"><hr></td>
+</tr>
+<tr>
+  <td style="text-align:center;"><strong>Saved</strong><br><br>No adultery <br> (Part 2)<br><br>Focus:<br>1&amp;2 Timothy<br> (2 Ti 4:9,13)</td>
+  <td style="text-align:left;">1560-1680 AD <br> <strong>Mend</strong> <br></td>
+  <td style="text-align:left;"><strong>2 Timothy 1</strong><br><br>The same chapter that speaks of tearing also addresses mending by calling it “saving” or being “refreshed”.<br><br> <em>Therefore do not be ashamed of the testimony about our Lord, nor of me his prisoner, but share in suffering for the gospel by the power of God, who <strong>saved</strong> us and called us to a holy calling, not because of our works but because of his own purpose and grace, which he gave us in Christ Jesus before the ages began,</em> (v8-9)<br><br> <em>and which now has been manifested through the appearing of our Savior Christ Jesus, who <strong>abolished death and brought life and immortality</strong> to light through the gospel</em>, (v10)<br><br> <em>May the Lord grant mercy to the household of Onesiphorus, for he often <strong>refreshed</strong> me and was not ashamed of my chains,</em> (2 Timothy 1:16, ESV)<br><br> Protestant countries endured attacks by Catholic countries and tens of millions perished. Truly, they were a people who needed the help of God to be saved. Protestant noblewomen like Queen Elizabeth I, Marguerite de Navarre, Jeanne d’Albret and Argula von Grumbach played a huge role in accomplishing this. <br><br>Consider the brave words of Jeanne d’Albret, Queen of Navarre, protector of the Huguenots:<br><br> <em>“Although I am just a little Princess, God has given me the government of this country so I may rule it according to His Gospel and teach it His Laws. I rely on God, who is more powerful than the King of Spain.”</em></td>
+</tr>
+<tr>
+  <td style="text-align:center;"><hr></td>
+  <td style="text-align:left;"><hr></td>
+  <td style="text-align:left;"><hr></td>
+</tr>
+<tr>
+  <td style="text-align:center;"><strong>Quiet</strong><br><br> No theft <br> (Part 1)<br><br>Challenge: Humanism<br> (2 Ti 4:14-15)</td>
+  <td style="text-align:left;">1680-1800 AD<br> <strong>Be Silent</strong> <br><br> Pietism Movement &amp; Great Awakening</td>
+  <td style="text-align:left;"><strong>2 Timothy 2</strong> <br><br> Paul urges Timothy to listen and reflect on his words, in keeping with the theme of silence.<br><br> <em>and what you have <strong>heard</strong> from me…</em> (v2)<br><br> <strong>Think over</strong> <em>what I say…</em> (v7)<br><br> <em>Do your best to present yourself to God as one approved, a worker who has no need to be ashamed, rightly handling the word of truth.</em> (v15)<br><br> Paul also speaks at length about emotional, untrained, argumentative people who have not listened carefully and speak falsehoods, in v17-18, 22-26. For example:<br><br> <em>their talk will spread like gangrene. Among them are Hymenaeus and Philetus,</em> (v17)</td>
+</tr>
+<tr>
+  <td style="text-align:center;"><hr></td>
+  <td style="text-align:left;"><hr></td>
+  <td style="text-align:left;"><hr></td>
+</tr>
+<tr>
+  <td style="text-align:center;"><strong>Teach</strong> <br> No theft <br> (Part 2)<br><br> Challenge: Humanism<br> (2 Ti 4:14-15)</td>
+  <td style="text-align:left;">1800-1920 AD<br> <strong>Speak</strong><br><br> Women become  Missionaries &amp; Pastors, gain property rights and the vote</td>
+  <td style="text-align:left;"><strong>2 Timothy 2</strong><br><br> Women can speak at last! They become missionaries and the first American woman is ordained a minister in 1853. The abolition movement breaks the chains of slaves, whose freedom was stolen, contra the eighth commandment.<br><br> <em>Remember Jesus Christ, risen from the dead, the offspring of David, as preached in my gospel, for which I am suffering, bound with <strong>chains</strong> as a criminal. But the word of God is <strong>not bound</strong>!</em> (v8-9)<br><br> Emphasis is on becoming qualified to teach and not imitating the false teachers:<br><br> <em>and what you have heard from me in the presence of many witnesses <strong>entrust to faithful men who will be able to teach others also</strong>.</em> (v2)</td>
+</tr>
+<tr>
+  <td style="text-align:center;"><hr></td>
+  <td style="text-align:left;"><hr></td>
+  <td style="text-align:left;"><hr></td>
+</tr>
+<tr>
+  <td style="text-align:center;">*<br> No lying <br><br> Challenge: Persecution<br>(2 Ti 4:16-17)</td>
+  <td style="text-align:left;">1920-2160 AD <br> <strong>Love &amp; Hate</strong> <br><br> Avoid such people</td>
+  <td style="text-align:left;"><strong>2 Timothy 3</strong> <br><br> Many of the forms of evil listed in this chapter are forms of lying, matching the commandment:<br><br> “<em>Slanderous… having the appearance of godliness, but denying its power… always learning and never able to arrive at a knowledge of the truth… [they] oppose the truth…</em>” <br><br> The most prominent example compares teachers who make a habit of deceiving women to Jannes &amp; Jambres, Pharaoh’s court magicians who opposed the truth spoken by Moses. This chapter compares the evil self-love of the wicked (v2-5) to the godly love of the righteous (v10). <br><br> Concerning hate, believers are cautioned to peacefully separate themselves from the ungodly (“Avoid such people” in v5). Conversely, the ungodly person’s response to believers is not peaceful, but hostile persecution (v1-8,10-12).<br>This persecution will at last bring the church to full maturity: <br><br> <em>All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness, that the man of God may be complete, equipped for every good work.</em> (v16-17)</td>
+</tr>
+<tr>
+  <td style="text-align:center;"><hr></td>
+  <td style="text-align:left;"><hr></td>
+  <td style="text-align:left;"><hr></td>
+</tr>
+<tr>
+  <td style="text-align:center;">*<br> No coveting<br><br> <strong>Promise: Christ’s Return</strong><br> (2 Ti 4:18)</td>
+  <td style="text-align:left;">2160-? <br> <strong>War &amp; Peace</strong> <br><br> The day of his appearing!</td>
+  <td style="text-align:left;"><strong>2 Timothy 4</strong> <br><br> The church will depart the world’s stage to meet the Lord.<br><br> <em>For I am already being poured out as a drink offering, and <strong>the time of my departure</strong> has come. I have fought the good fight, I have finished the race, I have kept the faith. Henceforth there is laid up for me the crown of righteousness, which the Lord, the righteous judge, will award to me on <strong>that Day</strong>, and not only to me but also to all who have loved his appearing.</em> (v6-8)</td>
+</tr>
+<tr>
+  <td style="text-align:center;"><hr></td>
+  <td style="text-align:left;"><hr></td>
+  <td style="text-align:left;"><hr></td>
+</tr>
+</tbody>
+</table>
+
+<h2>The Long War against Slavery</h2>
+
+<p>Many things could be called out from the preceding table, but Paul’s stance on slavery stands out. Stripped of any reference to God’s prophetic timeline, Paul is seen as ennobling slaves and the work they do, but seems to tolerate the institution. This is why the temporal framework supplied by Solomon’s times and the commandments is vital. It shows when God’s age old plan to abolish slavery would kick into high gear. The chapter where Paul offers encouragement and advice to slaves corresponds to the era 1200-1440 AD. This author’s contention is that the pivotal era for abolition would fall in the next era, or 1440-1680 AD. Let us ponder some milestones in God’s unfolding plan for abolition:</p>
+
+<ul>
+<li>1315 - King Louis X abolished slavery in France (but it would later be reestablished)</li>
+<li>1435 - Pope Eugene IV, “Sicut Dudum”, opposed slavery in the Canary Islands</li>
+<li>1504 - Queen Isabella of Castile, then of Spain, in her last will forbids the enslavement of the indigenous peoples of the New World</li>
+<li>1537 - Pope Paul III, “Sublimus Deus”</li>
+<li>1591 - Pope Gregory XIV, “Bulla Cum Sicuti”, ordered payment of reparations to enslaved Philippine natives</li>
+<li>1639 - Pope Urban VIII, “Commissum Nobis”</li>
+<li>1686 - Pope Innocent XI condemned slavery due to the influence of Lourenço da Silva Mendouça, a member of the royal family of the Kingdom of Ndongo in what is now Angola</li>
+<li>1741 - Pope Benedict XIV, “Immensa Pastorum”</li>
+<li>1807 - British Parliament, “An Act for the Abolition of the Slave Trade”</li>
+<li>1808 - US Congress, “Act Prohibiting the Importation of Slaves”</li>
+<li>1815 - Pope Pius VII at the Congress of Vienna</li>
+<li>1839 - Pope Gregory, “In Supremo”</li>
+<li>1863 - Lincoln’s Emancipation Proclamation</li>
+</ul>
+
+<p>Prior to 1440 AD, select theologians and lower church officials opposed slavery, plus one French king, whose successors allowed slavery to return. From 1440-1660, you see the beginning of top-down pressure from monarchs and popes to limit or outlaw slavery. These efforts had modest results. Then from 1680-1800, calls for abolition began to capture the public imagination. Finally, from 1800 onward slavery was forcefully opposed and rooted out worldwide.</p>
+
+<p>Thus we see that Paul’s prophecy truly addresses the last generation where acceptance of slavery was virtually universal. This is no coincidence. God did not sugarcoat his message. Slaves in this and all prior eras were told that freedom would come, but likely not for them. God does not lie, but instead tells people how to live and have hope in the situations in which they find themselves. Then, in the fullness of time, would come the answer to this prophecy from 2 Timothy 2:9: “But the word of God is not bound!” Paul announced the time when liberty would be given, too. </p>
+
+<p>If the letters to Timothy spell out God's timetable for the abolition of slavery, then why not also the liberation of women?</p>
+
+      </div>
+
+    </div>
+    <!-- Page Footer -->
+    <div class="footer faint">
+      
+    </div>
+  </div>
+</body>
+</html>

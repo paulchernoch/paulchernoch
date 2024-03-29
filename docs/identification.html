@@ -1,0 +1,789 @@
+
+<!DOCTYPE html>
+<head>
+  <!--from template: default-page.html -->
+  <title>Identification</title>
+  <link rel="stylesheet" href="./styles/tree.css" type="text/css">
+  <link rel="stylesheet" href="./styles/toc.css" type="text/css">
+  <link rel="stylesheet" href="./styles/article.css" type="text/css">
+  <!-- Font Awesome supplies the icons used in the TOC -->
+  <script src="https://kit.fontawesome.com/ecadd7b212.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="./styles/page.css" type="text/css">
+
+  <script>
+    /* Search for a css class name in an HTML element and replace it with a second class. */
+    function replace_class(element, from_class, to_class) {
+      element.classList.remove(from_class)
+      element.classList.add(to_class)
+    }
+
+    /* Show or hide the table of contents menu in the left sidebar by changing the style classes.
+       Also show and hide the buttons used to open and close the menu.
+     */
+    function toggleLeftSidebar(open) {
+      const sidebar = document.getElementById("leftsidebar");
+      const open_button = document.getElementById("leftsidebaropen");
+      const close_button = document.getElementById("leftsidebarclose");
+      const body = document.getElementById("articlebody")
+     
+      if (open) {
+        replace_class(sidebar, "leftsidebar-closed", "leftsidebar-open")
+        replace_class(open_button, "show-toggle", "hide-toggle")
+        replace_class(close_button, "hide-toggle", "show-toggle")
+        replace_class(body, "body-wide", "body-narrow")
+      }
+      else {
+        replace_class(sidebar, "leftsidebar-open", "leftsidebar-closed")
+        replace_class(open_button, "hide-toggle", "show-toggle")
+        replace_class(close_button, "show-toggle", "hide-toggle")
+        replace_class(body, "body-narrow", "body-wide")
+      }
+   }
+
+  </script>
+</head>
+<html>
+
+
+<body>
+  <!-- Floating buttons to open and close the TOC -->
+  <div id="toggle">
+    <div class="tooltip">
+
+      <a id="leftsidebaropen" class="hide-toggle" role="button" tabindex="1" onclick="toggleLeftSidebar(true)" >
+        <i class="fas fa-angle-double-right"></i>
+        <span class="tooltiptext">Show</span>
+      </a>
+      <a id="leftsidebarclose" class="show-toggle" role="button" tabindex="2" onclick="toggleLeftSidebar(false)">
+        <i class="fas fa-angle-double-left"></i>
+        <span class="tooltiptext">Hide</span>
+      </a>
+    </div>
+  </div>
+  <!-- Page Header -->
+  <div class="header header-colors">
+    <a href="index.html">
+      <img src="images/wisdom-house.png" width="676" height="250"/>
+    </a>
+
+    
+
+  </div>
+  <!-- Left Sidebar TOC -->
+  <div class="container">
+    <div id="leftsidebar" class="leftsidebar-open left-side-colors" tabindex="0">
+        <ul class="tree-padding tree-vertical-lines tree-horizontal-lines tree-summaries tree-markers tree-buttons">
+          <li>
+            <details open="">
+              <summary><i class="fa-solid fa-house-chimney"></i> <a href="home.html">Home</a></summary>
+                <ul>
+                  <li><i class="fas fa-address-card"></i> <a href="about-this-site.html">About this Site</a></li>
+                  <li><i class="fas fa-feather-alt"></i> <a href="author.html">Author</a></li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-book"></i> <a href="books.html">Books</a></summary>
+                        <ul>
+                          <li> <a href="the-endless-hunt.html">The Endless Hunt</a></li>
+                          <li> <a href="job-rises.html">Job Rises</a></li>
+                          <li> <a href="peace-book.html">Peace, Like Solomon Never Knew</a></li>
+                          <li> <a href="plague-precept-prophet-peace.html">Plague, Precept, Prophet, Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fa-solid fa-building-columns"></i> <a href="lady-wisdom-s-house.html">Lady Wisdom's House</a></summary>
+                        <ul>
+                          <li> <a href="lady-wisdom.html">Lady Wisdom</a></li>
+                          <li> <a href="hannah-s-song.html">Hannah's Song</a></li>
+                          <li> <a href="blueprint-for-lady-wisdom-s-house.html">Blueprint for Lady Wisdom's House</a></li>
+                          <li> <a href="foundation-the-commandments.html">Foundation: The Commandments</a></li>
+                          <li> <a href="lanterns-seven-spirits-of-god.html">Lanterns: Seven Spirits of God</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="seven-pillars-of-wisdom.html">Seven Pillars of Wisdom</a></summary>
+                                <ul>
+                                  <li> <a href="psalms.html">Psalms</a></li>
+                                  <li> <a href="job.html">Job</a></li>
+                                  <li> <a href="proverbs.html">Proverbs</a></li>
+                                  <li> <a href="song-of-songs.html">Song of Songs</a></li>
+                                  <li> <a href="ecclesiastes.html">Ecclesiastes</a></li>
+                                  <li> <a href="matthew.html">Matthew</a></li>
+                                  <li> <a href="revelation.html">Revelation</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="roof-paul-s-gospel-of-peace.html">Roof: Paul's Gospel of Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-seedling"></i> <a href="spiritual-growth.html">Spiritual Growth</a></summary>
+                        <ul>
+                          <li> <a href="most-important-questions.html">What are life's Most Important Questions?</a></li>
+                          <li> <a href="heavenly-treasures.html">What are the Heavenly Treasures?</a></li>
+                          <li> <a href="the-harvest-pattern-of-jesus.html">The Harvest Pattern of Jesus</a></li>
+                          <li> <a href="the-growth-pattern-of-solomon.html">The Growth Pattern of Solomon</a></li>
+                          <li> <a href="the-motherhood-pattern.html">The Motherhood Pattern</a></li>
+                          <li> <a href="the-law-pattern-of-moses.html">The Law Pattern of Moses</a></li>
+                          <li> <a href="the-journey-pattern.html">The Journey Pattern</a></li>
+                          <li> <a href="emotional-prophecies-of-the-psalms.html">Emotional Prophecies of the Psalms</a></li>
+                          <li> <a href="job-and-the-ways-to-talk-to-god.html">Job and the Ways to Talk to God</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-hourglass-half"></i> <a href="the-end-times.html">The End Times</a></summary>
+                        <ul>
+                          <li> <a href="seven-cycles-of-judgment.html">Seven Cycles of Judgment</a></li>
+                          <li> <a href="satan-bound-and-released.html">Satan, Bound and Released</a></li>
+                          <li> <a href="the-millennial-kingdom.html">The Millennial Kingdom</a></li>
+                          <li> <a href="the-four-horsemen-of-the-apocalypse.html">The Four Horsemen of the Apocalypse</a></li>
+                          <li> <a href="the-fifth-trumpet.html">The Fifth Trumpet</a></li>
+                          <li> <a href="the-fifth-seal.html">The Fifth Seal</a></li>
+                          <li> <a href="voice-of-the-seven-thunders.html">Voice of the Seven Thunders</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-list-ol"></i> <a href="numerology.html">Numerology</a></summary>
+                        <ul>
+                          <li> <a href="to-number-our-days.html">To Number our Days</a></li>
+                          <li> <a href="2-is-for-jesus.html">2 is for Jesus</a></li>
+                          <li> <a href="3-is-for-the-father.html">3 is for the Father</a></li>
+                          <li> <a href="4-is-for-cycles-of-nature.html">4 is for Cycles of Nature</a></li>
+                          <li> <a href="5-is-for-grace.html">5 is for Grace</a></li>
+                          <li> <a href="6-is-for-man.html">6 is for Man</a></li>
+                          <li> <a href="7-is-for-the-holy-spirit.html">7 is for the Holy Spirit</a></li>
+                          <li> <a href="17-is-for-victory.html">17 is for Victory</a></li>
+                          <li> <a href="28-is-for-time.html">28 is for Time</a></li>
+                          <li> <a href="40-is-for-suffering.html">40 is for Suffering</a></li>
+                          <li> <a href="42-is-for-the-journey.html">42 is for the Journey</a></li>
+                          <li> <a href="120-is-for-consecration.html">120 is for Consecration</a></li>
+                          <li> <a href="153-is-for-total-victory.html">153 is for Total Victory</a></li>
+                          <li> <a href="210-is-for-peace.html">210 is for Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-scroll"></i> <a href="prophetic-clocks.html">Prophetic Clocks</a></summary>
+                        <ul>
+                          <li> <a href="types-of-clock.html">Types of Clock</a></li>
+                          <li> <a href="generation-clocks.html">Generation Clocks</a></li>
+                          <li> <a href="celestial-clocks.html">Celestial Clocks</a></li>
+                          <li> <a href="spiritual-clocks.html">Spiritual Clocks</a></li>
+                          <li> <a href="empire-clocks.html">Empire Clocks</a></li>
+                          <li> <a href="commandment-clocks.html">Commandment Clocks</a></li>
+                          <li> <a href="other-clocks.html">Other Clocks</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-question-circle"></i> <a href="riddles.html">Riddles</a></summary>
+                        <ul>
+                          <li> <a href="the-righteous-fall-seven-times.html">The Righteous Fall Seven Times</a></li>
+                          <li> <a href="twice-a-thousand-years.html">Twice a Thousand Years</a></li>
+                          <li> <a href="the-seven-pillars-of-wisdom.html">The Seven Pillars of Wisdom</a></li>
+                          <li> <a href="why-153-fish-john-21.html">Why 153 Fish? John 21</a></li>
+                          <li> <a href="riddles-of-war.html">Riddles of War</a></li>
+                          <li> <a href="building-a-house.html">Building a House</a></li>
+                          <li> <a href="hannah-s-song.html">Hannah's Song</a></li>
+                          <li> <a href="satan-s-taunt.html">Satan's Taunt</a></li>
+                          <li> <a href="parable-of-the-workers-in-the-vineyard.html">Parable of the Workers in the Vineyard</a></li>
+                          <li> <a href="the-parable-of-the-wedding-feast.html">The Parable of the Wedding Feast</a></li>
+                          <li> <a href="the-childbearing.html">The Childbearing</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details open="">
+                      <summary><i class="fa-solid fa-person-harassing"></i> <a href="a-divided-world.html">A Divided World</a></summary>
+                        <ul>
+                          <li>
+                            <details open="">
+                              <summary> <a href="against-complementarianism.html">Against Complementarianism</a></summary>
+                                <ul>
+                                  <li> <a href="a-model-for-the-ordination-of-women.html">A Model for the Ordination of Women</a></li>
+                                  <li> <a href="submission.html">Submission</a></li>
+                                  <li> <a href="consecration.html">Consecration</a></li>
+                                  <li> <a href="identification.html">Identification</a></li>
+                                  <li> <a href="quantification.html">Quantification</a></li>
+                                  <li> <a href="reconciliation.html">Reconciliation</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-calendar-alt"></i> <a href="chronology.html">Chronology</a></summary>
+                        <ul>
+                          <li> <a href="antediluvian-chronology.html">Antediluvian Chronology</a></li>
+                          <li> <a href="sojourn-of-israel.html">Sojourn of Israel</a></li>
+                          <li> <a href="judges.html">Judges</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                </ul>
+            </details>
+          </li>
+
+        </ul>
+    </div>
+    <!-- Article Text -->
+    <div id="articlebody" class="body-narrow" tabindex="3">
+      <div class="article">
+        <h1>Identification</h1>
+        <h2>The Metaphor of Childbirth</h2>
+        <p class="date">Published on 2024-03-26</p>
+        
+        <h2>How do we connect the Book of Job to women?</h2>
+
+<p>First, Job is part of a larger group of seven books, the Seven Pillars of Wisdom. The names of the books are: 
+  - Psalms
+  - Job
+  - Proverbs
+  - Song of Songs
+  - Ecclesiastes
+  - Matthew
+  - Revelation</p>
+
+<p>These seven books share common structural and thematic patterns. The words and actions of several women in these books are relevant to the subject of ordination, so their presence in one of the pillar books connects them to Job. Those women are Lady Wisdom, the Wife of Noble Character, King Lemuel's mother, the bride in Song of Songs and Hannah, mother of the prophet Samuel. (Hannah appears in 1 Samuel, which is not a pillar book. However, Hannah is the one who prophesies the existence of the seven pillars.)</p>
+
+<h2>Lady Wisdom</h2>
+
+<p>The book of Proverbs describes a scene that may be related to the ordination of women:</p>
+
+<h4>Wisdom has built her house;</h4>
+
+<h5>she has hewn her <strong>seven pillars.</strong></h5>
+
+<h4>She has <strong>slaughtered her beasts</strong>;</h4>
+
+<h5>she has mixed her <strong>wine;</strong></h5>
+
+<h6>she has also set her <strong>table.</strong></h6>
+
+<h4>She has sent out her young women to call</h4>
+
+<h4>from the highest places in the town,</h4>
+
+<h5>“Whoever is simple, let him turn in here!”</h5>
+
+<h5>To him who lacks sense she says,</h5>
+
+<h6>“Come, <strong>eat of my bread</strong></h6>
+
+<h6>and <strong>drink of the wine</strong> I have mixed.</h6>
+
+<h6>- Proverbs 9:1-5, ESV</h6>
+
+<ul>
+<li><strong>Observation</strong>: Lady Wisdom’s offering of bread and wine imitates the Christian ritual of communion.</li>
+<li><strong>Conclusion</strong>: Women are permitted to serve communion.</li>
+</ul>
+
+<p>The slaughtering of beasts, which figuratively is the destruction of evil empires, is the burnt offering of the ordination sacrifice.
+The seven pillars which are named by Solomon were first hinted at in the prayer of a woman who made a great sacrifice: her first born son.</p>
+
+<h2>Hannah</h2>
+
+<p>Hannah dedicated her firstborn son, Samuel, to serve the Lord.
+To Honor her sacrifice, God put a prophecy on her lips.
+Her prayer prophesies the existence of the seven pillars of wisdom a century before Solomon wrote of them.
+Hannah's prayer includes seven reversals of fortune, some of which concern women.
+These seven reversals conform to seven themes expressed by Solomon in Ecclesiastes 3 in his poem of the twenty-eight times of life.
+Each quartet of times in the poem describes one phase of life.
+The seven themes are the seven phases of life that a person goes through to get from birth to full maturity.
+In the quoted passage, I have added those themes.</p>
+
+<h4><strong>SECURITY</strong> (Birth to Age 7):</h4>
+
+<h5>The bows of the mighty are broken,</h5>
+
+<h6>but the feeble bind on strength.</h6>
+
+<h4><strong>ABILITY</strong> (Ages 7 to 14):</h4>
+
+<h5>Those who were full have hired themselves out for bread,</h5>
+
+<h6>but those who were hungry have ceased to hunger.</h6>
+
+<h4><strong>STABILITY</strong> (Ages 14 to 21)</h4>
+
+<h5><strong>The barren has borne seven,</strong></h5>
+
+<h6>but she who has many children is <strong>forlorn.</strong></h6>
+
+<h4><strong>AMITY</strong> (Ages 21 to 28):</h4>
+
+<h5>The Lord kills and brings to life;</h5>
+
+<h6>he brings down to Sheol and raises up.</h6>
+
+<h4><strong>OPPORTUNITY</strong> (Ages 28 to 35):</h4>
+
+<h5>The Lord makes poor and makes rich;</h5>
+
+<h6>he brings low and he exalts.</h6>
+
+<h4><strong>COMMUNITY</strong> (Ages 35 to 42):</h4>
+
+<h5>He raises up the poor from the dust;</h5>
+
+<h6>he lifts the needy from the ash heap</h6>
+
+<h5>to make them sit with princes</h5>
+
+<h6>and inherit a seat of honor.</h6>
+
+<h4><strong>INTERLUDE</strong> :</h4>
+
+<h5><strong>For the pillars of the earth are the Lord's,</strong></h5>
+
+<h6>and on them he has set the world.</h6>
+
+<h4><strong>LOYALTY</strong> (Ages 42 to 49):</h4>
+
+<h5>He will guard the feet of his faithful ones,</h5>
+
+<h6>but the wicked shall be cut off in darkness,</h6>
+
+<h6>for not by might shall a man prevail.</h6>
+
+<h5>The adversaries of the Lord shall be broken to pieces;</h5>
+
+<h6>against them he will thunder in heaven.</h6>
+
+<h4><strong>CONCLUSION</strong>:</h4>
+
+<h5>The Lord will judge the ends of the earth;</h5>
+
+<h6>he will give strength to his king</h6>
+
+<h6>and exalt the horn of his anointed.”</h6>
+
+<h6>- 1 Samuel 2:4-10, ESV</h6>
+
+<p>Hannah reveals the seven pillars in two ways. </p>
+
+<ul>
+<li>First, she shows seven reversals.</li>
+<li>Second, she splits the identification of the pillars into two statements. "The barren has borne seven" numbers the pillars. Several verses later, she names "the pillars of the earth".</li>
+</ul>
+
+<p>In my book <em>Peace, like Solomon Never Knew</em>, I connect each time of life to a 120 year period. 
+The clock started in 960 BC, with the dedication of Solomon's temple.
+Thus each phase lasts 480 years. The stability phase (for gaining verbal and physical self control during the teen years) ran from 1 to 480 AD. 
+It was near the end of this time that the final removal of woman from church leadership as elders and even communion servers occurred. 
+The verse speaks of a barren woman bearing children. A pregnant woman is confined; she cannot do all the work she once did until the baby is delivered.
+The end of the stability phase is the latter part of the teen years, when girls got married. Thus the historical era of stability saw the beginning of
+women's confinement, but a confinement that would eventually end.</p>
+
+<p>The next time of interest is the phase of community. The poor and needy are raised up to places of honor.
+The corresponding time in history was 1440 to 1920 AD. At the end of this time women began to be educated in schools, 
+received the right to own their own property, became missionaries, and a few became pastors.
+The last year of the era, 1920 AD, was when women in the US earned the right to vote.
+Truly, women were lifted up.</p>
+
+<p>The four times of the community phase were crucial for women:</p>
+
+<ul>
+<li>a time to tear was when the baby was delivered</li>
+<li>a time to mend was when women began to heal from their pregnancy</li>
+<li>a time to be silent was when women began to be educated in large numbers</li>
+<li>a time to speak was the missionary age, 1800 to 1920 AD, when women were sent out with men to speak the gospel in foreign lands.</li>
+</ul>
+
+<h2>More Women!</h2>
+
+<p>Just as women are being liberated as we near the end of history, so the ends of the books that constitute the seven pillars
+also show the progress of women.</p>
+
+<p><strong>Proverbs</strong>. The final chapter, Proverbs 31, includes a mention of King Lemuel's mother, who taught him the wise sayings that he included in his chapter.
+ She was a teacher of men. The chapter concludes with the description of a wife of noble character. 
+ Such a woman buys and sells property, creates and sells goods at market and is worthy of respect. 
+ She is described in terms that show she is the equal of any man.</p>
+
+<p><strong>Psalms</strong>. The last mention of women in the Psalms is in Psalm 144. </p>
+
+<h4>May our sons in their youth be like plants full grown,</h4>
+
+<h5>our daughters like corner pillars cut for the structure of a palace...</h5>
+
+<h6>- Psalm 144:12</h6>
+
+<p>By describing the daughters as palace pillars, the Bible both extols not just their beauty but also their strength and wisdom,
+by connecting them to the pillars of wisdom.</p>
+
+<p>The most significant reference to women in the Psalms is in Psalm 68:</p>
+
+<h4>The Lord gives the word;</h4>
+
+<h5>the women who announce the news are a great host:</h5>
+
+<h5>“The kings of the armies—they flee, they flee!”</h5>
+
+<h5>The women at home divide the spoil—</h5>
+
+<h6>though you men lie among the sheepfolds—</h6>
+
+<h5>the wings of a dove covered with silver,</h5>
+
+<h6>its pinions with shimmering gold.</h6>
+
+<h5>When the Almighty scatters kings there,</h5>
+
+<h6>let snow fall on Zalmon.</h6>
+
+<h6>- Psalm 68:11-14, ESV</h6>
+
+<p>In this psalm, the men are lazy and the women industrious. The men are cowards and the women, courageous.
+It is a mighty throng of women who broadcast the news of the gospel, fight the battle, and scatter the kings of the earth.
+Think about that...</p>
+
+<p><strong>Song of Songs</strong>. The main character is a woman to whom many come for advice. She tells them not to arouse or awaken love until it so desires.
+This was a prophecy of "a time for love". It has been during our current era, "a time for love", 
+that women have made the greatest strides towards equality.</p>
+
+<p><strong>Matthew</strong>. It is women who first see Jesus and report his resurrection. Yet there is another amazing event that is overlooked by people 
+studying this gospel, the story of Jesus sending for a donkey to ride into Jerusalem.</p>
+
+<h4>Now when they drew near to Jerusalem and came to Bethpage,</h4>
+
+<h4>to the Mount of Olives, then Jesus sent two disciples,</h4>
+
+<h4>saying to them, “Go into the village in front of you,</h4>
+
+<h4>and immediately you will find a donkey tied, and a colt with her.</h4>
+
+<h4>Untie them and bring them to me. If anyone says anything to you,</h4>
+
+<h4>you shall say,</h4>
+
+<h5>‘The Lord needs them,’ and he will send them at once.”</h5>
+
+<h4>This took place to fulfill what was spoken by the prophet, saying,</h4>
+
+<h5>“Say to the daughter of Zion,</h5>
+
+<h6>‘Behold, your king is coming to you,</h6>
+
+<h5>humble, and mounted on a donkey,</h5>
+
+<h6>on a colt, the foal of a beast of burden.’”</h6>
+
+<h6>- Matthew 21:1-5</h6>
+
+<p>Jesus is telling them that the daughter of Zion will be set free!
+In <em>Peace, like Solomon Never Knew</em>, I show how each of Matthew's twenty-eight chapters corresponds to a different one of Solomon's times, in order.
+This chapter of Matthew, chapter 21, corresponds to the twenty-first time, "a time to tear". The time of tearing is the time when 
+a woman gives birth and is set free from her burden.</p>
+
+<p>Why use a donkey as an image? Women were treated like beasts of burden, so that fits, but there is a deeper reason.
+In Job 39, God speaks about his care for his animals. This is what he says about the donkey:</p>
+
+<h4>“Who has let the wild donkey go free?</h4>
+
+<h5>Who has loosed the bonds of the swift donkey,</h5>
+
+<h4>to whom I have given the arid plain for his home</h4>
+
+<h5>and the salt land for his dwelling place?</h5>
+
+<h4>He scorns the tumult of the city;</h4>
+
+<h5>he hears not the shouts of the driver.</h5>
+
+<h4>He ranges the mountains as his pasture,</h4>
+
+<h5>and he searches after every green thing.</h5>
+
+<h6>- Job 39:5-8</h6>
+
+<p>God sets the donkey free! In my books, I argue that Job 39 corresponds to "a time for love".
+Again, "a time for love" began in 1920 AD with women getting the right to vote.
+Then in 1921, women in Louisiana gained the right to sit on a jury, followed soon by the other states.</p>
+
+<p>Matthew 21 has one more surprise:</p>
+
+<h4>But when the chief priests and the scribes saw the wonderful things</h4>
+
+<h4>that he did, and the children crying out in the temple,</h4>
+
+<h5>“Hosanna to the Son of David!”</h5>
+
+<h4>they were indignant, and they said to him,</h4>
+
+<h5>“Do you hear what these are saying?”</h5>
+
+<h4>And Jesus said to them,</h4>
+
+<h5>“Yes; have you never read,</h5>
+
+<h6>“‘Out of the mouth of infants and nursing babies</h6>
+
+<h6>you have prepared praise’?”</h6>
+
+<h6>- Matthew 21:15-16</h6>
+
+<p>Again, the Bible draws our attention to infants and nursing babies. There is surely a message about God's plan for women hidden here.</p>
+
+<p><strong>Revelation</strong>. In two of my books I show how the locusts with women's hair in Revelation 9 are Christian queens, sent to oppress the ungodly.
+That prophecy was fulfilled by Queen Victoria of England, Maria Theresa of Austria, and the women Tsars of Russia, like Catherine and Anna, to name a few.
+And of course, the final scene in Revelation is the wedding supper of the lamb, where the bride has made herself ready.</p>
+
+<h2>Job at Last!</h2>
+
+<p>This brings us to Job. Like the other pillars, this book ends with Job's daughters being exalted. 
+At the start of the story, his first daughters visited their brothers' houses to celebrate. That means that they did not have houses of their own.
+His three new daughters now receive an equal share in the inheritance with their brothers. This shows a change in Job.
+This also has God on record as demanding equality between men and women in the first book of the Bible to be written.
+Equality was not an afterthought!
+We learn the daughters' names but not the names of their brothers. In the Bible, which names many men but fewer women, this is a huge reversal.</p>
+
+<p>However, the Book of Job has much more to say about women than a footnote about his daughters' excellencies.
+In fact, the Book of Job contains more feminine analogies than any other book in the Bible. 
+If you are like me, my early thoughts on seeing references to women in Job were that his suffering was being compared
+to the suffering of women as a simple analogy. He suffered <em>like</em> a woman. He had no reputation, no authority and no property <em>like</em> a woman.
+It is not that way. The tragedies of women's lives are more than literary turns of phrase to be exploited in a clever poem. 
+This book is many things:</p>
+
+<ol>
+<li>a true story about the suffering of a righteous man</li>
+<li>a parable about the sufferings of the Christ (as I show in my book <em>Job Rises: Thirteen Keys to a Resilient Life</em>)</li>
+<li>a parable of the suffering of the Jewish people</li>
+<li>a prophecy of the suffering of women throughout history and their redemption.</li>
+</ol>
+
+<p>I wrote a whole book about Job and never noticed the fourth. I didn't spot it until last year. 
+It is one of the hidden things of God that need to be searched out. Let's begin by looking at words.</p>
+
+<p><strong>Feminine Analogies in Job</strong></p>
+
+<p>The word <strong>womb</strong> is found more times in Job than any other book of the Bible. It is not the only word related to the
+life experiences of women to be found here. When I at last decided to look and for the first time saw how often these words occur in Job,
+my eyes were opened. The book is pregnant with them!</p>
+
+<ul>
+<li>Womb (10) Most of any book in the Bible</li>
+<li>Woman (7), Women (2)</li>
+<li>Wife (3)</li>
+<li>Conceive(d) (2)</li>
+<li>Labor (of childbirth) (1)</li>
+<li>Born (8) including a “born of woman” reference to Jesus in Job 25</li>
+<li>Birth (8)</li>
+<li>Begotten (1)</li>
+<li>Delivered (of childbirth) (1), Deliver(s,ed) (from evil &amp; suffering) (7)</li>
+<li>Breast(s) (2), Nursed (1)</li>
+<li>Mountain goats and does calving</li>
+<li>Firstborn (1)</li>
+<li>Child(ren) (15), Infants (1), Offspring (3)</li>
+<li>Daughter(s) (6)</li>
+<li>Son(s) (18)</li>
+<li>Mother(s) (3)</li>
+<li>Barren (3), Stillborn (1), Childless (1)</li>
+<li>Widow(s) (7)</li>
+<li>Fatherless (8)</li>
+<li>Total = 122</li>
+</ul>
+
+<p>In addition to direct words, there are clever turns of phrase. In Job 1, the troubles begin when the oxen are plowing.
+Plowing with oxen is figure of speech that can mean having sex and conceiving. Remember Samson, who posed a riddle to the 
+Philistines, only to have them cheat by getting his wife to cajole the answer out of him?</p>
+
+<h4>And he said to them,</h4>
+
+<h5>“If you had not plowed with my heifer,</h5>
+
+<h5>you would not have found out my riddle.”</h5>
+
+<h6>- Judges 14:18b</h6>
+
+<p>One more analogy is significant. In Job 32:19, Elihu says, "Behold, my belly is like wine that has no vent; like new wineskins ready to burst."
+That is a clever way to speak about a woman's water getting ready to break. Elihu was Job's spiritual midwife,
+to ensure that the wisdom God was forming in Job would come to term and not be stillborn, with Job giving up in despair, 
+cursing His Maker and losing his reward, his baby.</p>
+
+<p>See God's love for women? He doesn't just care about whether they can give him children. </p>
+
+<ul>
+<li>He care about widows. </li>
+<li>He cares about women who can't have babies.</li>
+<li>He cares about the stillborn and the devastated woman whose hopes were dashed. </li>
+<li>He cares about the fatherless, because that means that there is a single mother struggling to make ends meet.</li>
+<li>And the Lord stands by women as they watch their children grow up and move away, a bittersweet time, as related in Job 39.</li>
+</ul>
+
+<p>And in the person of Job's wife, you have the caretaker, overwhelmed by the burden of caring for a sick husband after she 
+also lost her ten children, her property, and her respect in the community.</p>
+
+<p>The words alone should get the message across, but there is more.</p>
+
+<p><strong>Weeks and Months</strong></p>
+
+<p>I spent years deducing the structures of Job. It has more than one, each making a different point.
+Somehow I missed a big one. The whole book maps out, week by week, month by month, the course of a woman's pregnancy.
+The words and phrases paint a <strong>qualitative</strong> picture of a pregnant woman. The structure makes it <strong>quantitative</strong>.</p>
+
+<p>To begin, how long does an average pregnancy last? Today it ranges from 276 to 285 days, depending on measurement method. 
+Forty (40) weeks is thus an accurate definition for the length of a pregnancy.
+Hmmm. In the Bible, forty is a number that signifies suffering, like:</p>
+
+<ul>
+<li>the forty days and nights of rain in the flood</li>
+<li>Jesus being tempted in the desert by Satan for forty days</li>
+<li>the Jews wandering in the desert for forty years</li>
+</ul>
+
+<p>After a woman gives birth, there is a laying-in period, a time to rest and heal from the birth. 
+This typically lasts two to three weeks.</p>
+
+<p>Thus the whole of a pregnancy plus the laying-in period lasts forty-two weeks.</p>
+
+<p>There are forty-two chapters in Job! Coincidence? No! What does God say in Job 39?</p>
+
+<h4>“Do you know when the mountain goats give birth?</h4>
+
+<h5>Do you observe the calving of the does?</h5>
+
+<h4><strong>Can you number the months that they fulfill</strong>,</h4>
+
+<h5>and do you know the time when they give birth,</h5>
+
+<h4>when they crouch, bring forth their offspring,</h4>
+
+<h5>and are delivered of their young?</h5>
+
+<h6>- Job 39:1-3</h6>
+
+<p>In her thirty-ninth week, don't you think that women are counting the days until it is all over?
+Well God is right there alongside her, counting those days with just as much anticipation!</p>
+
+<p>The same analysis can be done to count the months.</p>
+
+<ul>
+<li>A half month for conception, chapters 1 &amp; 2</li>
+<li>Nine speeches by Job, for the nine full months of pregnancy</li>
+<li>Elihu as midwife and God as expectant Father there for the delivery and post-partum period</li>
+</ul>
+
+<p>All the major aspects of a woman bearing a child and giving birth are present and slotted into the right chapters:</p>
+
+<ul>
+<li>Chapter 1, the plowing, is the time of conception. Chapters one and two are the first two weeks of pregnancy.</li>
+<li>Chapter 3 has Job's first big speech. He spends most of it talking about not wishing he was born, speaks of his mother nursing him, and generally focuses his words on the analogy of childbirth, cementing it as the key theme of the book</li>
+<li>The bulk of the book is a back and forth between Job's friends, who say hurtful lies, and Job, who looks to God for help. This alternation of good and bad symbolizes the labor pains.</li>
+<li>The last words from one of the friends specifically addresses birth, when Bildad says in Job 25:
+<h4>How then can man be in the right before God?</h4></li>
+</ul>
+
+<h4>How can he who is <strong>born</strong> of woman be pure?</h4>
+
+<ul>
+<li>Elihu arrives to serve as midwife. </li>
+<li>When Elihu talks about being a wineskin about to burst, that is the water ready to break. </li>
+<li>Elihu announces the arrival of God in Job 37, which symbolizes the arrival of the baby.</li>
+<li>But what if the baby is stillborn, arriving too early in week 38, cold as ice? God even shows his care for women who endure this horror:
+<h4>From whose womb did the ice come forth,</h4></li>
+</ul>
+
+<h5>and who has given birth to the frost of heaven?</h5>
+
+<h6>- Job 38:29, ESV</h6>
+
+<ul>
+<li>God in chapter 39 speaks tenderly about caring for pregnant animals and counts the days until delivery.</li>
+<li>Job 40 shows God as a proud papa, boasting about his baby Behemoth. It is like God is saying, "My kid will be the strongest kid ever born! Nobody can touch him!"
+<h4>“He is the first of the works of God;</h4></li>
+</ul>
+
+<h5>let him who made him bring near his sword!"</h5>
+
+<ul>
+<li>Job recovers his health in chapter 42, the end of the laying-in period. </li>
+<li>His family members bring gifts, like people do to celebrate the birth of a child.</li>
+</ul>
+
+<p>At the end of Job, the narrative traces out the family's future, which speaks of new generations to be born:</p>
+
+<h4>And after this Job lived 140 years, and saw his sons,</h4>
+
+<h5>and his sons' sons, four generations.</h5>
+
+<h4>And Job died, an old man, and full of days.</h4>
+
+<h6>- Job 42:16-17</h6>
+
+<p>One curiousity is the words day and days, which occur 52 times in Job, suggesting the weeks in a full year, symbolizing time.</p>
+
+<p>When you get to the end, what is the full set of blessings that Job (and his daughters) received?
+Now compare it to the blessing that women have received in the last few centuries:</p>
+
+<ul>
+<li>Improved Health</li>
+<li>Long life</li>
+<li>Antibiotics and blood transfusions in mid 20th century reduced death in childbirth by more than fifty-fold.</li>
+<li>Wealth</li>
+<li>Property rights (to the daughters)</li>
+<li>restored Family relationships</li>
+<li>Honor in the community</li>
+<li>A priestly calling</li>
+<li>Ability to read the Word of God.</li>
+</ul>
+
+<p>This last one, the Word of God, is vital. Job prayed one of the most powerful prayers ever prayed in all of history.</p>
+
+<h4><strong>“Oh that my words were written!</strong></h4>
+
+<h5><strong>Oh that they were inscribed in a book!</strong></h5>
+
+<h4><strong>Oh that with an iron pen and lead</strong></h4>
+
+<h5><strong>they were engraved in the rock forever!</strong></h5>
+
+<h4>For I know that my Redeemer lives,</h4>
+
+<h5>and at the last he will stand upon the earth.</h5>
+
+<h4>And after my skin has been thus destroyed,</h4>
+
+<h5>yet in my flesh I shall see God,</h5>
+
+<h4>whom I shall see for myself,</h4>
+
+<h5>and my eyes shall behold, and not another.</h5>
+
+<h4>My heart faints within me!</h4>
+
+<h6>- Job 19:23-27</h6>
+
+<p>Job’s prayer created the Bible! His was the first Bible book written down. He declared that God can raise the dead.
+During medieval times women were prevented from doing many things, but one thing was not denied them.</p>
+
+<p>Women were permitted to be scribes and copy Bibles. Medieval nuns were active in preserving and transmitting 
+the Word of God to future generations. That is because those women knew that their redeemer lives and would
+eventually save them, too.</p>
+
+<p>It is now incontestable that the book of Job has a deep, prophetic message for women.
+Since the whole of the book concerns women, surely the ordination that Job received
+was also promised to them. But when?</p>
+
+<p>It is time to tie Job's prophecy of the Childbearing down to history.</p>
+
+      </div>
+
+    </div>
+    <!-- Page Footer -->
+    <div class="footer faint">
+      
+    </div>
+  </div>
+</body>
+</html>

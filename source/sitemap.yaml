@@ -214,7 +214,25 @@
     parts: 
     - title: Against Complementarianism
       sub: A Critique of Jesus, Justice & Gender Roles by Kathy Keller
-      dates: [2024-03-23]
+      dates: [2024-03-22]
+      parts:
+      - title: A Model for the Ordination of Women
+        dates: [2024-03-23]
+      - title: Submission
+        sub: The Sacrifice of Long-suffering Christian Women
+        dates: [2024-03-24]
+      - title: Consecration
+        sub: Models of Ordination
+        dates: [2024-03-25]
+      - title: Identification
+        sub: The Metaphor of Childbirth
+        dates: [2024-03-26]
+      - title: Quantification
+        sub: When did the Ordination Occur?
+        dates: [2024-03-27]
+      - title: Reconciliation
+        sub: The Childbearing in 1 Timothy 2
+        dates: [2024-03-28]
   - title: Chronology
     image: fas fa-calendar-alt
     parts:
