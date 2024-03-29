@@ -313,12 +313,13 @@ This article breaks down the problem.
 
 [Submission: The Sacrifice of Long-suffering Christian Women](./submission.html)
 
-Every ceremony of ordination requires a sacrifice. THis article speaks of the sacrifice that women have already offered.
+Every ceremony of ordination requires a sacrifice. This article speaks of the sacrifice that women have already offered.
 
 [Consecration: Models of Ordination](./consecration.html)
 
-There are many models of ordination in the Bible. All of them seem to only apply to men.
+There are many models of ordination in the Bible. All seem to apply only to men.
 This article asks the question, "Are there any models that can be applied to women?"
+It finds one in Job.
 
 [Identification: The Metaphor of Childbirth](./identification.html)
 
@@ -342,16 +343,39 @@ even in matters of church leadership.
 
 ## Impartation: The Unsealing of the Scroll of Wisdom
 
-Why the long wait?
+Why the long wait? Why should the understanding of these prophecies about God's plans for women and many other things have been delayed until now?
+
 The revelation of this information had to wait until Jesus began to unseal the scroll of Revelation.
-Four seals have already been removed. They sealed up a portion of the wisdom found in:
-Psalms: The Lordship of Jesus, widespread publication of the Bible
-Job: God’s sovereignty, suffering that produces wisdom, the priesthood of all believers
-Proverbs: Economic freedom, capitalism, abolition of slavery
-Song of Songs: Sexual and racial equality, revolution in social relationships
-The fifth seal is about to be removed.
-This unsealing will teach wisdom found in Ecclesiastes.
-The focus of this new wisdom is time, the understanding of the rough outline of God’s plan for history and how to arrange the prophecies into an orderly, quantifiable structure.
+Recall that the scroll is secured with seven seals.
+The seven Bible books that constitute the Seven Pillars of Wisdom are each associated with one of the seals.
+As each seal is removed, information in that book that God had once concealed is opened to the church.
+The demonstration that this is so is found in "Appendix H: Clues to the Seven Pillars" in *Peace, like Solomon Never Knew*.
+Four seals have already been removed:
 
+  - The first seal: Psalms. This concerns the Lordship of Jesus. The unsealing led to the widespread publication of the Bible via Gutenberg's new printing press.
+  - The second seal: Job. This concerns God’s sovereignty. The suffering of the Reformation unleashed wisdom, leading to the recognition of the priesthood of all believers. Progress towards democracy accelerated.
+  - The third seal: Proverbs. This resulted in economic freedom, capitalism, and the abolition of slavery.
+  - The fourth seal: Song of Songs. This promoted sexual and racial equality and a revolution in social relationships.
 
-...In progress...
+The fifth seal is about to be removed. This unsealing will teach the church about the wisdom found in Ecclesiastes.
+The focus of this new wisdom is time, the understanding of the rough outline of God’s plan for history and how to 
+arrange the prophecies into an orderly, quantifiable structure.
+
+It is because the church has long been confused about time that it has been unable to recognize the time to abolish slavery, the time to permit women to lead in the church, and many other things. That is about to change, and just in time. Only armed with this new knowledge will the church be able to
+survive the challenges now arising.
+
+Those challenges require that women be fully equipped. From my study of Job and reflection on my own experiences, I learned that the 
+suffering of the faithful creates a channel for God to communicate His wisdom. Since women have suffered so much and so long, 
+it is evident that He has been communicating a special wisdom to them. This special wisdom will be needed by the church in the coming years. 
+
+  - Why else would God personify wisdom as a woman in Proverbs? 
+  - Why else announce the Seven Pillars of Wisdom via Hannah, a woman? 
+  - Why else describe women collecting the spoils of war in Psalm 68?
+  - Why else model all of Job after a woman's pregnancy?
+  - Why else present the Bride of Song of Songs as the one to whom all the friends turn for advice?
+  - Why else entrust the original message of the resurrection to women?
+  - Why describe the elect of Revelation as virgins?
+
+If the virgins of the church are not prepared, the church will fall. This is not a fairness issue or a justice issue. 
+
+This is a survival issue.
