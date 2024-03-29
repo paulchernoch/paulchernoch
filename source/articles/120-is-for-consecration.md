@@ -1,6 +1,6 @@
 ---
 title: 120 is for Consecration
-quote: Then she gave the king 120 talents of gold, and ... spices <br/> and precious stones. Never again came such an abundance <br/> of spices as these that the queen of Sheba gave to King Solomon. <br/> - 1 Kings 10:10
+quote: Then she gave the king 120 talents of gold, and ... spices <br/> and precious stones. <br/> Never again came such an abundance <br/> of spices as these that the queen of Sheba <br/> gave to King Solomon. - 1 Kings 10:10
 ---
 The number One hundred twenty (120) is of first importance, yet presents contradictory meanings. From its obvious factoring we get:
 
@@ -18,18 +18,18 @@ It is also a factorial:
 It may also be divided into three parts of forty each, and forty has to do with suffering. Let’s see one hundred twenty in its normal 
 habitat.
 
-These usages relate to being consecrated for service:
+## These usages relate to being consecrated for service:
 
-  - When David brought the ark to Jerusalem: And David gathered together the sons of Aaron and the Levites: of the sons of Kohath, Uriel the chief, with **120 of his brothers**; (1 Chronicles 15:4-5, ESV)
+  - When David brought the ark to Jerusalem: *And David gathered together the sons of Aaron and the Levites: of the sons of Kohath, Uriel the chief, with **120 of his brothers**;* (1 Chronicles 15:4-5, ESV)
   - **120 talents of gold** were paid in a transaction between Solomon and King Hiram of Tyre in 1 Kings 9:14, related to building expenses for the temple.
   - **120 talents of gold** was part of the Queen of Sheba’s gift to Solomon in 1 Kings 10:10.
   - **120 priests blew trumpets** when the ark of the covenant was brought into the temple at its dedication by Solomon in 2 Chronicles 5:12. The temple filled with a cloud “and the priests could not perform their service because of the cloud, for the glory of the LORD filled the temple of God.” (2 Chronicles 5:14, NIV)
-  - After Solomon offered the prayer for the dedication of the temple, they made their sacrifice. Then the king and all the people offered sacrifice before the Lord. King Solomon offered as a sacrifice 22,000 oxen and **120,000 sheep**. So the king and all the people dedicated the house of God. (2 Chronicles 7:4-5, ESV)
+  - After Solomon offered the prayer for the dedication of the temple, they made their sacrifice. *Then the king and all the people offered sacrifice before the Lord. King Solomon offered as a sacrifice 22,000 oxen and **120,000 sheep**. So the king and all the people dedicated the house of God.* (2 Chronicles 7:4-5, ESV)
   - *It pleased Darius to appoint 120 satraps to rule throughout the kingdom, with three administrators over them, one of whom was Daniel. The satraps were made accountable to them so that the king might not suffer loss.* (Daniel 6:1-2, NIV) Here we see 120 representing the complete leadership of a nation, divided into three groups of forty.
   - According to Jewish tradition, Ezra the scribe gathered many manuscripts and commissioned a Great Synagogue of **120 scribes** to codify the Old Testament.  Additionally, the number of those who returned from Babylon with Ezra was 42,360 = 120 x 353. (Ezra 2:8-66)
   - In Acts 1:15-17, Peter instructed the **hundred and twenty believers** meeting with him to **consecrate** a man to replace Judas Iscariot as the twelfth apostle. Presumably, this same **120 people were present on the day of Pentecost** days later when the Holy Spirit consecrated them from Heaven in Acts 2.
 
-These next usages have to do with judgment:
+## These next usages have to do with judgment:
 
   - *When human beings began to increase in number on the earth and daughters were born to them, the sons of God saw that the daughters of humans were beautiful, and they married any of them they chose. Then the LORD said, “My Spirit will not contend with humans forever, for they are mortal; their days will be a hundred and twenty years.”* (Genesis 6:1-3, NIV)
   - *Moses was a **hundred and twenty years old** when he died, yet his eyes were not weak nor his strength gone.* (Deuteronomy 34:7, NIV) 
