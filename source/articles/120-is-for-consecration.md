@@ -42,7 +42,7 @@ habitat.
 ##### though you did not tend it or make it grow. 
 #### It sprang up overnight and died overnight. 
 #### And should I not have concern for the great city of Nineveh, 
-##### in which there are more than a hundred and twenty thousand people 
+##### in which there are more than **a hundred and twenty thousand people** 
 #### who cannot tell their right hand from their left—
 ##### and also many animals?”
 ###### - Jonah 4:10-11, NIV
@@ -56,9 +56,12 @@ So the number one hundred twenty has a part to play from Genesis to Revelation. 
   - The world had 120 years of probation to reform or be destroyed by the flood. During that time, Noah built the ark.
   - The maximum human lifespan was to be reduced from 1,000 years to 120 years.
   
-Standing against the idea that the reduction in maximum human lifespan was intended is the fact that after the flood, people continued to live longer than 120 years for centuries. However, human lifespan did steadily decline. Who was the last person in the Bible to live 120 years? Moses, lawgiver and author of Genesis, who lived a thousand years after God spoke to Noah.
+Standing against the idea that the reduction in maximum human lifespan was intended is the fact that after the flood, people continued to live longer than 120 years for centuries. However, human lifespan did steadily decline. Who were the last two people in the Bible to live at least 120 years? 
 
-Step back and consider God’s warning to Adam: 
+  - Jehoiada the priest: *But Jehoiada grew old and full of days, and died. He was 130 years old at his death.* - 2 Chronicles 24:15
+  - Moses, lawgiver and author of Genesis, who lived a thousand years after God spoke to Noah.
+
+Jehoiada is surely an outlier, specially blessed by God. (In *Peace, like Solomon Never Knew*, I overlooked Jehoiada and erroneously said that Moses was the last person to reach 120 years of age.) The case of Moses is different. Step back and consider God’s warning to Adam: 
 
 #### And the Lord God commanded the man, saying, 
 ##### “You may surely eat of every tree of the garden, 
