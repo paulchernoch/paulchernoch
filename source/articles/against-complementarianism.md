@@ -305,6 +305,8 @@ these words of Saint Paul:
 
 The Child-bearing is not what you think...
 
+The rest of this article (except the conclusion) is divided into pieces found at these links:
+
 [A Model for the Ordination of Women](./a-model-for-the-ordination-of-women.html)
 
 You can never just assume that you have the right to do something. God has to authorize it.

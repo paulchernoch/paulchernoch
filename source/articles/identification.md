@@ -1,6 +1,7 @@
 ---
 title: Identification
 sub: The Metaphor of Childbirth
+quote: The Lord announces the word,<br/> and the women who proclaim it are a mighty throng...<br/> - Psalm 68:11
 ---
 
 ## How do we connect the Book of Job to women? 

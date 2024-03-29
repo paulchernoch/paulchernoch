@@ -1,6 +1,7 @@
 ---
 title: Reconciliation
 sub: The Childbearing in 1 Timothy 2
+quote: Yet she will be saved through childbearing-<br/>if they continue in faith and love <br/> and holiness, with self-control. <br/> - 1 Timothy 2:15
 ---
 
 A major battleground in the debate over whether God permits women to serve as pastors and elders is 1 Timothy 2.
