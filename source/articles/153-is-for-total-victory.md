@@ -25,7 +25,7 @@ Here are links to the many articles in this section:
   2. [Defining 153](defining-153.html) Noah's Flood is shown to have lasted precisely 153 days.
   3. [Fear](153-and-fear.html) 153 is connected to the Fear of the Lord through Psalms 24 and 119, Luke 12 and 2 Kings 17.
   4. [Hope](153-and-hope.html) Jeremiah connects a related victory number, seventeen (17), to hope. Then the themes of John 21 are connected to Habakkuk.
-  5. [Habakkuk: Part 1](habakkuk-part-1.html) Analysis of Habakkuk 1:1-4. Habakkuk's puts questions to God.
+  5. [Habakkuk: Part 1](habakkuk-part-1.html) Analysis of Habakkuk 1:1-4. Habakkuk puts questions to God.
   6. [Habakkuk: Part 2](habakkuk-part-2.html) Analysis of Habakkuk 1:5-11. God doubles down: the bitter and hasty Chaldeans are coming.
   7. [Habakkuk: Part 3](habakkuk-part-3.html) Analysis of Habakkuk 1:12-2:1. Habakkuk complains with three threes about innocent people caught in a cruel net.
   8. [Habakkuk: Part 4](habakkuk-part-4.html) Analysis of Habakkuk 2:2-5. God offers a fourfold assurance to the faithful.

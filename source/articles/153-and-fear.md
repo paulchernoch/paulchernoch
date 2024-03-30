@@ -1,6 +1,6 @@
 ---
 title: 153 and Fear
-quote: Simon, son of John, do you love me more than these? <br/> - Jesus
+quote: Simon, son of John, <br/> do you love me more than these? <br/> - Jesus
 ---
 ## Calendar Arithmetic and the Psalms
 
@@ -50,7 +50,7 @@ John 21, the passage we are trying to understand, reaches its climax when Jesus 
 #### And after saying this he said to him, “Follow me.”
 ###### - John 21:15-19, ESV
 
-The association of Jesus with a lamb is central to Revelation, where Jesus in Revelation 5:12 is praised as the lamb who was slain. It is the climax of John 21 and Psalm 119. (In Peace it was shown that Psalm 119 is an extensive prophecy about the coming of Messiah, and the mention of a lost sheep at the end of Psalm 119 is an appeal to the shepherd to bring salvation.) Sheep are also prominent in Habakkuk. Habakkuk employs negative theology. In his concluding psalm, the prophet laments in 3:17 that *“the flocks \[are\] cut off from the fold”*. If they are cut off, then they need a shepherd to go out and gather them back.
+The association of Jesus with a lamb is central to Revelation, where Jesus in Revelation 5:12 is praised as the lamb who was slain. It is the climax of John 21 and Psalm 119. (In *Peace* it was shown that Psalm 119 is an extensive prophecy about the coming of Messiah, and the mention of a lost sheep at the end of Psalm 119 is an appeal to the shepherd to bring salvation.) Sheep are also prominent in Habakkuk. Habakkuk employs negative theology. In his concluding psalm, the prophet laments in 3:17 that *“the flocks \[are\] cut off from the fold”*. If they are cut off, then they need a shepherd to go out and gather them back.
 
 One more observation about the number seventeen. If you add the ages from the genealogies in Genesis from Adam to Noah, you find that the flood occurred in the second half of the **seventeenth** century following the creation.
 
