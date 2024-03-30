@@ -1,6 +1,6 @@
 ---
 title: 153 is for Total Victory
-quote: So Simon Peter went aboard and hauled the net ashore, <br/> full of large fish, 153 of them. <br/> And although there were so many, <br/>the net was not torn. - John 21:11
+quote: So Simon Peter ... hauled the net ashore, <br/> full of large fish, 153 of them. <br/> And although there were so many, <br/>the net was not torn. - John 21:11
 ---
 This number is different from the others.
 All other numbers in this section of the website were described in the chapter "To Number Our Days" in *Peace, like Solomon Never Knew*.
