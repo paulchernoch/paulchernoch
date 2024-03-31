@@ -3,8 +3,8 @@ title: Peace, like Solomon Never Knew
 ---
 ## Front Cover:
 
-![Front cover of Peace, like Solomon Never Knew](./images/peace-like-solomon-never-knew-cover.png)
+<img alt="Front cover of Peace, like Solomon Never Knew" src="./images/peace-like-solomon-never-knew-cover.png" width="800"/>
 
 ## Back Cover:
 
-![Back cover of Peace, like Solomon Never Knew](./images/peace-back-cover.png)
+<img alt="Back cover of Peace, like Solomon Never Knew" src="./images/peace-back-cover.png" width="800"/>
