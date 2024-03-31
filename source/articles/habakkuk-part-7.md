@@ -2,7 +2,7 @@
 title: "Habakkuk: Part 7"
 quote: yet I will rejoice in the Lord; <br/> I will take joy in the God of my salvation. <br/> - Habakkuk 3:18
 ---
-# Praise amid Barrenness
+## Praise amid Barrenness
 
 One more observation about Habakkuk: the shepherd. The final section lists six agricultural failures. They were both literal and symbolic.
 
