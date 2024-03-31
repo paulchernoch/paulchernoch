@@ -144,8 +144,8 @@ Habakkuk asked God how long all this would take. There is no obvious quantitativ
 | Rome 63 BC-637 AD              |   700     |      3     |     31      |      121      |
 |              <hr>              |   <hr>    |    <hr>    |     <hr>    |     <hr>      |
 | Islam <sup>2</sup> 637-1099, <br/> 1187-1229, 1244-1967 |   ~1230     |      4     |     36      |      152      |
-|              <hr>              |   <hr>    |    <hr>    |     <hr>    |     <hr>      |
 
+<hr/>
 
 <sup>1</sup> The dates for Greece do not recognize Jewish Commonwealth or Hasmonean rule of Jerusalem between periods of Seleucid and Roman rule, instead considering the end to be when Rome captured Jerusalem in 60 AD. 
 
@@ -168,3 +168,23 @@ Why will the Lord answer your questions? Why should anyone but Habakkuk and the 
 When I was a depressed, twenty-three year old in danger of being expelled from college, what did I need? If I knew the names of ancient empires and the atrocities they committed against the Jews and each other, how would that help me know God? If I could recognize two millennia of history compressed into a few chapters, would that soothe my soul? It was my ignorance that allowed me to feel kinship with that ancient prophet. I desperately needed an abundant harvest to brighten my worthless, barren life. I programmed my computer to print Habakkuk 3:17-19 to the terminal every time I logged in. Even though I had only the faintest inkling of their meaning, those words gave me hope. For eighteen months, that prayer and that praise became my desperate prayer and my daily praise. The empires that I could not see became the impersonal and destructive forces in my life over which I had no control. A few years later, I graduated from college. If a brand new Christian who knew almost nothing could read words he didn’t understand and find a hope powerful enough to change the course of his life, they can do the same for you. “The righteous will live by his faith.” These words are life.
 
 The “day of trouble” will come with the blowing of the seventh trumpet. The Day of the Lord will come. Lord, help us be like Habakkuk and quiet our spirits as we await that day. Such peace we cannot conjure by our own efforts. Only your Holy Spirit can deliver it to us, and deliver us through the days to come. Lord, give us songs in the night.
+
+
+<hr>
+
+Links to the other articles in this section:
+
+  1. [Connections to other books](153-connections.html) The scope of inquiry is given. The riddle is connected to Genesis, Psalms 34 and 119, Jeremiah 32, Habakkuk, John 21,  Matthew 13, and Revelation 9. 
+  2. [Defining 153](defining-153.html) Noah's Flood is shown to have lasted precisely 153 days.
+  3. [Fear](153-and-fear.html) 153 is connected to the Fear of the Lord through Psalms 24 and 119, Luke 12 and 2 Kings 17.
+  4. [Hope](153-and-hope.html) Jeremiah connects a related victory number, seventeen (17), to hope. Then the themes of John 21 are connected to Habakkuk.
+  5. [Habakkuk: Part 1](habakkuk-part-1.html) Analysis of Habakkuk 1:1-4. Habakkuk puts questions to God.
+  6. [Habakkuk: Part 2](habakkuk-part-2.html) Analysis of Habakkuk 1:5-11. God doubles down: the bitter and hasty Chaldeans are coming.
+  7. [Habakkuk: Part 3](habakkuk-part-3.html) Analysis of Habakkuk 1:12-2:1. Habakkuk complains with three threes about innocent people caught in a cruel net.
+  8. [Habakkuk: Part 4](habakkuk-part-4.html) Analysis of Habakkuk 2:2-5. God offers a fourfold assurance to the faithful.
+  9. [Habakkuk: Part 5](habakkuk-part-5.html) Analysis of Habakkuk 2:6-20. Five woes are pronounced against lawbreakers.
+  10. [Habakkuk: Part 6](habakkuk-part-6.html) Analysis of Habakkuk 3:1-16. Prophecy of God's coming six-ply war against the wicked.
+  11. [Habakkuk: Part 7](habakkuk-part-7.html) Analysis of Habakkuk 3:17-19. Six laments over a barren harvest and a seventh praise of God in faith.
+  12. [The Fifth Trumpet of Revelation](153-and-the-fifth-trumpet.html) The Revelation 9 Plague of Locusts lasts 153 Years.
+  13. [Habakkuk's War](habakkuk-s-war.html) Revisits the sixth section of Habakkuk with a final insight into God's battle plan.
+  
