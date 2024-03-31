@@ -15,4 +15,4 @@ There is only one solution to this maze. If you right click to open the image in
 
 One of the bird images may puzzle you. It is a mourning dove, signifying "a time to mourn".
 
-<img alt="Maze" src="./images/maze.png" width="720"/>
+<img alt="Maze" src="./images/maze.png" width="800"/>
