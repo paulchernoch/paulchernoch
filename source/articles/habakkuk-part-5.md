@@ -52,13 +52,13 @@ The Christian European Colonial empires certainly cut off many peoples and were 
 
 ## Third woe, against Greece
 
-#### Woe to him who builds a town with blood
+#### Woe to him who builds a town with **blood**
 ##### and founds a city on iniquity!
 #### Behold, is it not from the Lord of hosts
 ##### that peoples labor merely for fire,
 ##### and nations weary themselves for nothing?
 #### For the earth will be filled
-##### with the knowledge of the glory of the Lord
+##### with the **knowledge** of the glory of the Lord
 ##### as the waters cover the sea. 
 ###### - Habakkuk 2:12-14
 
@@ -70,14 +70,14 @@ The final part of the woe is a blessing and an affront. During this period the S
 
 ## Fourth woe, against Medo-Persia
 
-#### Woe to him who makes his neighbors drink
-##### you pour out your wrath and make them drunk,
-##### in order to gaze at their nakedness!
-#### You will have your fill of shame instead of glory.
-##### Drink, yourself, and show your uncircumcision!
+#### Woe to him who makes his neighbors **drink**
+##### you **pour out** your wrath and make them **drunk**,
+##### in order to gaze at their **nakedness**!
+#### You will have your fill of **shame** instead of glory.
+##### **Drink**, yourself, and show your uncircumcision!
 #### The cup in the Lord's right hand
 ##### will come around to you,
-##### and utter shame will come upon your glory!
+##### and utter **shame** will come upon your glory!
 #### The violence done to Lebanon will overwhelm you,
 ##### as will the destruction of the beasts that terrified them,
 #### for the blood of man and violence to the earth,
@@ -107,7 +107,7 @@ Babylon is offered as the root of the evil religious and political systems that 
 Where do we see cups of wine resulting in judgment during the time of the Persian empire? There are two places. First, we have a merciful judgment, a constructive decision favorable to the Jews. At the end of Nehemiah 1 we learn that Nehemiah was cupbearer to the king of Persia. He was distressed by the state of the temple, of Jerusalem and of his people, so he appealed to the king for permission to rebuild Jerusalem.
 
 #### In the month of Nisan, in the twentieth year of King Artaxerxes, 
-#### when wine was before him, I took up the wine and gave it to the king. 
+#### when wine was before him, **I took up the wine and gave it to the king**. 
 #### Now I had not been sad in his presence. And the king said to me, 
 ##### “Why is your face sad, seeing you are not sick? 
 ##### This is nothing but sadness of the heart.” 
@@ -123,7 +123,7 @@ Where do we see cups of wine resulting in judgment during the time of the Persia
 
 The second prominent story during the Persian occupation in which wine is quaffed is about Queen Esther, Haman and the king. The queen set up two dinner parties to expose the false pretenses behind Haman’s murderous intent, the genocide of the Jews. This would bring about his downfall.
 
-#### And as they were drinking wine after the feast, 
+#### And as they were **drinking wine** after the feast, 
 #### the king said to Esther, 
 ##### “What is your wish? 
 ###### It shall be granted you. 
@@ -132,7 +132,7 @@ The second prominent story during the Persian occupation in which wine is quaffe
 ###### it shall be fulfilled.” 
 ###### - Esther 5:6
 
-#### And on the second day, as they were drinking wine 
+#### And on the second day, as they were **drinking wine** 
 #### after the feast, the king again said to Esther, 
 ##### “What is your wish, Queen Esther? 
 ###### It shall be granted you. 
@@ -141,7 +141,7 @@ The second prominent story during the Persian occupation in which wine is quaffe
 ###### it shall be fulfilled.” 
 ###### - Esther 7:2
 
-#### And the king arose in his wrath from the wine-drinking 
+#### And the king arose in his wrath from the **wine-drinking** 
 #### and went into the palace garden, but Haman stayed to beg 
 #### for his life from Queen Esther, for he saw that harm 
 #### was determined against him by the king. 
@@ -159,7 +159,7 @@ In this stellar instance, the wrath connected to cups of wine fell upon the Jews
 #### Woe to him who says to a wooden thing, Awake;
 ##### to a silent stone, Arise!
 #### Can this teach?
-#### Behold, it is overlaid with gold and silver,
+#### Behold, it is overlaid with **gold** and silver,
 ##### and there is no breath at all in it.
 #### But the Lord is in his holy temple;
 ##### let all the earth keep silence before him.” 
