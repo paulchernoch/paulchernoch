@@ -1,6 +1,6 @@
 ---
 title: "Habakkuk: Part 6"
-quote: Yet I will quietly wait for the day of trouble to come upon people who invade us. <br/> - Habakkuk 3:16c
+quote: Yet I will quietly wait <br/> for the day of trouble <br/> to come upon people who invade us. <br/> - Habakkuk 3:16c
 ---
 ## War
 
