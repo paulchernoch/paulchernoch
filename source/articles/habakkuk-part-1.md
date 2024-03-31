@@ -1,5 +1,5 @@
 ---
-title: Habakkuk: Part 1
+title: "Habakkuk: Part 1"
 quote: O Lord, how long shall I cry for help, <br/> and you will not hear? <br/> - Habakkuk 1:2
 ---
 ## The Lord keeps his promises: Outline of Habakkuk
