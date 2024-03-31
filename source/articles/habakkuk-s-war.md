@@ -130,7 +130,7 @@ Habakkuk asked God how long all this would take. There is no obvious quantitativ
 
 <hr/>
 
-|     **Dates of Occupation**    | **Years** | **Verses** | ** Words ** | ** Letters ** |
+|     **Dates of Occupation**    | **Years** | **Verses** |  **Words**  |  **Letters**  |
 | :----------------------------- | :-------: | :--------: | :---------: | :-----------: |
 |              <hr>              |   <hr>    |    <hr>    |     <hr>    |     <hr>      |
 | Israel 1407-605 BC             |    802    |      3     |     32      |      140      |
@@ -143,7 +143,7 @@ Habakkuk asked God how long all this would take. There is no obvious quantitativ
 |              <hr>              |   <hr>    |    <hr>    |     <hr>    |     <hr>      |
 | Rome 63 BC-637 AD              |   700     |      3     |     31      |      121      |
 |              <hr>              |   <hr>    |    <hr>    |     <hr>    |     <hr>      |
-| Islam <sup>2</sup> 637-1099, <br/> 1187-1229, 1244-1967 |   ~1230     |      4     |     36      |      152      |
+| Islam <sup>2</sup> 637-1099, 1187-1229, 1244-1967 |   ~1230     |      4     |     36      |      152      |
 
 <hr/>
 
