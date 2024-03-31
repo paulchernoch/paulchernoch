@@ -24,6 +24,7 @@ The Hand-Claw alliance shatters when White Talon goes crazy and attacks Shorassa
 
 Where is the Rainbow Bride? Flying a mission for the Red Cross, Dr. Melissa Long is over Sudan when her plane is shot down, ripping her soul from her body and exchanging it with someone on Kibota. The good physician awakes in a cave to see the man of her dreams, and he tries to kill her. Shoroko has become a dragon hunter, and Melissa - an unrefined dragon.
 
+<hr/>
 
 ## The Endless Hunt: Or if I've found God, why am I still Looking? (2012)
 
@@ -57,6 +58,7 @@ The text unfolds as a treasure hunt, complete with rhyming riddles, a treasure m
 
 Some of the treasures listed in this book - such as life, liberty and happiness - won't surprise anyone, but two of them surprised even the author. He didn't add them to his list until the last chapters were being written, which is why even after finding God, he keeps on looking. If you are stuck in a spiritual rut, or think you've found all the answers, this book can help you rejoin the endless hunt.
 
+<hr/>
 
 ## Job Rises: Thirteen Keys to a Resilient Life (2019)
 
@@ -102,9 +104,12 @@ The opening chapters introduce the plot and characters and tackle the interpreta
 
 Next, each key to resilience is uncovered in the text of Job, supported by reference to the rest of scripture, and illustrated through personal stories which prove its effectiveness. The author credits the principles with assisting him during his own struggle to overcome depression, anxiety, the fear of death, and the isolating effects of life with Asperger's Syndrome. He details his journey through confusion to a place that can quench the thirst for meaning in a world that appears meaningless. Most chapters conclude with Key Meditations to stimulate prayer and reflection.
 
+<hr/>
 
 ## Peace, like Solomon Never Knew: (2022)
 ## Ecclesiastes' hidden message for all times
+
+[Cover Art and Illustrations](./peace-book.html)
 
 **Paperback:**
 
@@ -144,15 +149,17 @@ Think these prophecies only apply to people living long ago or in the distant fu
 
 **Additions to the Second Edition**. This new edition adds 150 pages of new material. In a new appendix, hundreds of Biblical connections between the seven pillars of wisdom are shown and understanding of the pillars is sharpened. In a second appendix, the message of freedom in 1 & 2 Timothy is dissected and related to the seven pillars of wisdom. Then their amazing prophetic content is revealed.
 
+<hr/>
+
 ## Plague, Precept, Prophet, Peace: God's Ten Liberating Commandments (2024)
 
 **Paperback:**
 
 [Plague, Precept, Prophet, Peace - at Amazon](https://www.amazon.com/Plague-Precept-Prophet-Peace-Commandments/dp/B0CR1V2HXM)
 
-[Plague, Precept, Prophet, Peac - at Barnes & Noble](https://www.barnesandnoble.com/w/plague-precept-prophet-peace-paul-a-chernoch/1144538906?ean=9798218328788)
+[Plague, Precept, Prophet, Peace - at Barnes & Noble](https://www.barnesandnoble.com/w/plague-precept-prophet-peace-paul-a-chernoch/1144538906?ean=9798218328788)
 
-[Plague, Precept, Prophet, Peac - at Walmart](https://www.walmart.com/ip/Plague-Precept-Prophet-Peace-God-s-Ten-Liberating-Commandments-Paperback-9798218328788/5296412817)
+[Plague, Precept, Prophet, Peace - at Walmart](https://www.walmart.com/ip/Plague-Precept-Prophet-Peace-God-s-Ten-Liberating-Commandments-Paperback-9798218328788/5296412817)
 
 **Ebook (EPUB):**
 
@@ -162,17 +169,17 @@ Think these prophecies only apply to people living long ago or in the distant fu
 
 King David said, "Open my eyes, that I may behold wondrous things out of your law." (Psalms 119:18)
 
-  - If you see in the Ten Commandments not beauty but utilitarian rules or inflexible dogmatism, you have not seen the law.
-  - If you sought a world whose history is governed by God's universal, objective rules but see only moral anarchy and injustice, you have not seen the law at work.
-  - If you have been seeking a path to maturity and spiritual peace outside of God's law because it seems irrelevant, you have not seen the law at work for you.
+  - If you see in the Ten Commandments not beauty but utilitarian rules or inflexible dogmatism, **you have not seen the law**.
+  - If you sought a world whose history is governed by God's universal, objective rules but see only moral anarchy and injustice, **you have not seen the law at work**.
+  - If you have been seeking a path to maturity and spiritual peace outside of God's law because it seems irrelevant, **you have not seen the law at work for you**.
 
-Talking history, this book proves God judged ten world empires according to the Ten Commandments, one commandment per empire, chronologically. As prophesied by Job and Revelation, these events demonstrate the power of the commandments to shape not only world history, but shape your history.
+**Talking history**, this book proves God judged ten world empires according to the Ten Commandments, one commandment per empire, chronologically. As prophesied by Job and Revelation, these events demonstrate the power of the commandments to shape not only world history, but shape your history.
 
-Talking personal growth in worldly matters, this book shows the commandments are seeds. Once sprouted, they power a Growth Pattern which King Solomon put in Ecclesiastes to guide us through our time "under the sun".
+**Talking personal growth** in worldly matters, this book shows the commandments are seeds. Once sprouted, they power a Growth Pattern which King Solomon put in Ecclesiastes to guide us through our time "under the sun".
 
-Talking spiritual growth in heavenly matters, this book shows how those sprouting seeds also power Jesus' Harvest Pattern from Matthew. By it you can reap spiritual harvests, like victory over depression, anxiety, purposelessness and the fear of death.
+**Talking spiritual growth** in heavenly matters, this book shows how those sprouting seeds also power Jesus' Harvest Pattern from Matthew. By it you can reap spiritual harvests, like victory over depression, anxiety, purposelessness and the fear of death.
 
-Talking emotional support, this book shows how the Psalms are meditations on the law. The psalter is carefully arranged into sections. Psalms 1-28 are ordered as a companion to Solomon's Growth pattern, with meditations for every stage of life. Another collection of fifty psalms shows that God has prophetically "been there" for his people from beginning to end. They are arranged to show that God knew how his children would feel during every era in history, marking every turbulent emotion and answering heartfelt prayers with action and consolation. You will see that God knows how you are feeling, listens to your prayers, and has a plan to comfort you.
+**Talking emotional support**, this book shows how the Psalms are meditations on the law. The psalter is carefully arranged into sections. Psalms 1-28 are ordered as a companion to Solomon's Growth pattern, with meditations for every stage of life. Another collection of fifty psalms shows that God has prophetically "been there" for his people from beginning to end. They are arranged to show that God knew how his children would feel during every era in history, marking every turbulent emotion and answering heartfelt prayers with action and consolation. You will see that God knows how you are feeling, listens to your prayers, and has a plan to comfort you.
 
 Proverbs 9 tells us that Lady Wisdom has built her house. This book will walk you through her blueprints. The precepts of the Law are the foundation of her house.
 
