@@ -55,7 +55,7 @@ used phrases that connect the parts together into a larger idea. The whole is gr
 
 Here are a few examples of where what seems to be a clever turn of phrase is really a clue to something deeper.
 
-**The Seven Spirits of God**. Revelation uses this phrase a few times. If there are seven spirits, what are they? Are they different?
+**The Seven Spirits of God**. Revelation uses this phrase a few times. If there are seven spirits, what are they? Are they different? What is each for?
 Some scholars, looking for a list of spirits numbering seven, matched this to Isaiah 11:2. I agree. Knowing there is a special collection
 of spirits called "The Seven Spirits of God" challenged people to look and eventually find the definition. How does knowing this help?
 It says in Revelation that God sent those spirits out into the whole earth. Did he send them out all at once or one at a time?
@@ -82,7 +82,7 @@ other forms of intelligence that projected far fewer tanks.
 
 How does this apply to the Bible? Revelation 10 tells us that the voices of the seven thunders exist. 
 This tells us that they are a meaningful category. Knowing this, we can look for them elsewhere. 
-I found them. We cannot know what the seven thunders told John, but we can know what they said elsewhere in the Bible.
+I found them. We cannot know what the seven thunders told John in Revelation 10, but we can know what they said elsewhere in the Bible.
 They previously spoke in Exodus, Job, Psalms and elsewhere in Revelation. Common phrasing and themes tie all these passages together,
 as explored in the chapter "Aftertaste: Donner & Blitzen" in *Peace*.
 
@@ -91,3 +91,42 @@ By placing such riddles in the Bible, God challenges people to read Scripture mo
 Identifying and defending a particular identification of the seven pillars was a major goal of both *Peace, like Solomon Never Knew* and 
 *Plague, Precept, Prophet, Peace*. With a solution to that riddle, I proceeded to extend the metaphor that I might discover more of the
 architectural elements of Lady Wisdom's house.
+
+Now that we can see that the Lord uses metaphors to challenge us to connect the dots and assemble new insights, let's move on. 
+Let's get back to showing that the idea of a house is fundamental to our understanding of God's plans for us. 
+Here is a short list of passages that emphasize the metaphor of a house:
+
+  - **Psalm 127:1**: *Unless the Lord builds the house, those who build it labor in vain.*
+  - **Psalms 23, 27, 92, 116, 118, 122, 134, 135**: *the house of the Lord*
+  - **Job**: The house of Job's son fell in a storm, killing all his children, but Job's house - his soul - was revived when God visited him in a second storm.
+  - **Proverbs**: 18 of 31 chapters speak of the houses of wise and foolish, wicked and righteous, including 9:1, Lady Wisdom's house.
+  - **Song of Songs 8:7**: Speaks of something greater than the wealth of a house: *Many waters cannot quench love, neither can floods drown it. If a man offered for love all the wealth of his house, he would be utterly despised.*
+  - **Ecclesiastes**: Distinguishes these houses: the house of man, the house of God, the house of Mourning, the House of Pleasure (or laughter, mirth, feasting), and the house of the body. Much of chapter 10 is devoted to a parable of the challenges of building a solid house.
+  - **Matthew**: The houses built on rock and sand, the house of the strongman, and parables about the master of the house
+  - **Revelation**: The new Jerusalem, and the wonderful promise of 3:12, *The one who conquers, I will make him a pillar in the temple of my God.*
+  - **2 Corinthians 5:1**: *For we know that if the tent that is our earthly home is destroyed, we have a building from God, a house not made with hands, eternal in the heavens.*
+  - **Paul's Other Letters**: Galatians 6:10, Ephesians 2:19, 1&2 Timothy
+  - **Hebrews 3:6**: *but Christ is faithful over God's house as a son. And **we are his house**, if indeed we hold fast our confidence and our boasting in our hope.*
+  - **1 Peter 2:5**: *you yourselves like living stones are being built up as a spiritual house, to be a holy priesthood, to offer spiritual sacrifices acceptable to God through Jesus Christ.*
+
+Ephesians bears a closer look.
+
+#### And he came and preached **peace** to you who were far off
+#### and **peace** to those who were near. 
+#### For through him we both have access in one Spirit to the Father. 
+#### So then you are no longer strangers and aliens, 
+#### but you are fellow citizens with the saints and 
+#### members of the household of God, built on the **foundation** 
+#### of the apostles and prophets, Christ Jesus himself being 
+#### the **cornerstone**, in whom the whole **structure**, being joined together, 
+#### grows into a **holy temple** in the Lord. 
+#### In him you also are being built together into 
+#### a **dwelling place** for God by the Spirit.
+###### - Ephesians 2:17-22
+
+In *Plague, Precept, Prophet, Peace*, I extended the house analogy to include a foundation and a roof.
+The foundation is given here as the Apostles and Prophets, which I identified with the Law.
+By reference to other patterns which we will get to, I identified Paul's letters with the roof of the house.
+That roof is a roof of peace, as Paul uses the word peace twice as much as any other writer in the Bible.
+
+
