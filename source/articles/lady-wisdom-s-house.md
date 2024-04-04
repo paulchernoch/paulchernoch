@@ -151,7 +151,7 @@ how salvation works, did I trip over the curb in front of her house.
 
 If you visit different buildings designed by the same architect, if she is a master, you will recognize similarities of proportion, form and design.
 You will see her signature. That is what happened to me. I became so acquainted with some of Lady Wisdom's work that when I looked around the Bible,
-I spotted other places that displayed her signature. Once I found seven books that mimicked the same pattern, only then realizing that I had
+I spotted other places that displayed her signature. Only once I found seven books that mimicked the same pattern did I realize that I had
 unearthed the Seven Pillars of Wisdom.
 
 #### “I revealed myself to those who did not ask for me;
@@ -163,18 +163,176 @@ unearthed the Seven Pillars of Wisdom.
 The person who was pivotal in my process of discovery was Job. You see, Job and I came at things from opposite directions.
 Job had lots of problems and he needed a savior to rescue him from all of them. After enumerating his problems, Job knew
 the capabilities a person would require in order for that person to save him. In my book *Job Rises*, I called this his
-"Job description for a savior". Job's analysis was spot on. His list prophesied the earthly ministry of Jesus, from start
+"Job description for a savior". Job's analysis was spot on. His list prophesied nine aspects of the earthly ministry of Jesus, from start
 to finish, in chronological order.
 
 My problem was the reverse. I already had a savior. I just didn't understand him. I didn't know Jesus well enough to comprehend
 how he saved me. I knew the promises and experienced the results, but the process, the elements of wisdom and how they were 
-applied to my life to effect that transformation. those things eluded me. I could not see God's plan.
+applied to my life to effect that transformation, those things eluded me. I could not see God's plan.
 
 As I came to know Job, I also came to know myself. As I uncovered the process of rescue and restoration in Job's life, 
 I began to see patterns in how Jesus saved me. Then once I saw those principles in the Word, clearly spelled out,
-I understood that they are universal principles that can aid anyone. That is why this is important.
+I understood that they are universal principles that can aid anyone. That is one reason why this is important.
 
-Though the shape and outworking of the principles are evident in Job, their definition is found in Matthew and Ecclesiastes.
+Another proof of the importance of these ideas is the magnitude of the changes they brought about in my life. These principles:
+
+  - Removed the twin fears of death and living a wasted life devoid of impact
+  - Reoriented my sense of self-worth away from ambition and accomplishment and toward God's undeserved acceptance
+  - Stopped my chronic nightmares
+  - Ended a decade of depression and replaced it with joy
+  - Replaced a score of debilitating physical and mental symptoms of anxiety with peace
+  - Helped me become productive at work despite significant neurological problems
+  - Infused empathy into a self-centered person
+  - Brought self-awareness to a clueless man
+  - Opened the ears of one who was spiritually deaf
+
+Selling the value of the above benefits isn't hard, as people can relate. What has been hard is connecting the things 
+that I learned to those benefits. The question is how I applied them to obtain those benefits. A simple message of "Believe in Jesus, read the Bible 
+and do what it says" captures it all factually but doesn't explain how it works and how to successfully implement it. 
+For that, a slice of my personal journey is helpful.
+
+Though the shape and outworking of the principles of wisdom are evident in Job, their definition is found in Matthew 
+and Ecclesiastes. If I just sat down and read those two books one day and it all made sense, my books and this website 
+would be superfluous. My best advice then would be, "Believe in Jesus, read Matthew and Ecclesiastes, and do what they say." That would be more focused than the previous message, but equally unhelpful. Those two books did not make sense to me 
+all at once; I had to return to them again and again before I received the full benefit. Here is a little of my history with these two books. May it persuade you that a sustained, ever-deepening inquiry is the only way to uncover such truths. 
+May it also persuade you that I did uncover them.
+
+When I was little, we had a dairy barn. You could still see the frayed rope hanging from the highest rafter.
+It was all that remained of the hangman's noose. Farmer Waters learned his wife and maid were conspiring to kill him and
+take his money. To spite them, he buried his treasure where generations of kids with spades and metal detectors would
+never find it. Then he hung himself. 
+
+Almost a century later, two men robbed the Western Union office in Schenectady.
+The tire tracks from their getaway car led behind Farmer Waters' barn. The men were captured and died in prison.
+They never recovered their loot. That treasure was also never recovered.
+
+I grew up on tales of pirates and treasure and tales of Greek Mythology. That cow barn eventually fell down. 
+My siblings and I used to play amid the ruins. At night I sometimes dreamed about crawling under the fallen timbers and through the creeping vines. In my exploration, I stumbled across the ruins of a Greek temple. Its pillars and cross pieces
+still stood, though the roof had collapsed. That was one of my favorite dreams of childhood, weaving together the 
+real relics of our farm with my imagination.
+
+I wouldn't call that dream a prophecy, but I would call it a Dream with a capital "D". It crystallized my desire to 
+uncover long hidden mysteries. I became captivated by architecture, archaeology and history, though math and 
+engineering ended up winning out career-wise. After I became a Christian, I began to associate the temple in 
+that recurring dream from childhood with Lady Wisdom's House. That is just one of my childhood dreams that 
+I reinterpreted after coming to faith. This was part of the process whereby the Holy Spirit colonized my imagination. 
+We are to take every thought captive to Christ, and so I did.
+
+Another way that the Holy Spirit focused my attention on wisdom was by convicting me of folly.
+My father often told me when I was a teen, "Don't be a fool." Once a Christian, I accepted his judgment.
+In January 1988, I made a New Years Resolution to "Get Wisdom". Every day of that year I read from one of the 
+Bible's wisdom books: Proverbs, Job, Psalms, Ecclesiastes, Song of Songs and James. By reading and rereading
+those books, their sayings became part of me.
+
+Between 2004 and 2012, I wrote several Christian fantasy novels. In those stories, the villain's goal was to 
+steal Lady Wisdom's House and use it to overthrow Heaven. A related house in the story was Solomon's House of Mourning, 
+which I made into a franchise of grief counseling centers. Lady Wisdom was the spiritual leader for the centers.
+
+Other features of the stories were based on imagery from the Psalms and Isaiah. In the late eighties, I suffered 
+chronic nightmares. Through prayer and meditation on the Psalms and Isaiah, I was delivered from those nightmares.
+The "Way of Holiness" in Isaiah 35 spoke to me so powerfully that I made that road a feature in my novels 
+fifteen years later. For scenery along the road, I chose twenty-two images, one from each stanza of Psalm 119, with the
+end of the road passing by a flock of sheep to match the Psalm's ending. My interpretation of the Psalm
+was that it was a road that led to a destination: salvation. I had no scholarship, no structural analysis or word studies
+to back that up. It just felt right. Fifteen more years passed and I wrote "Psalm 119: The Shepherd’s Clock", a chapter in 
+*Peace*. Armed with a stanza by stanza analysis, I discovered that the Psalm has a direction. As it draws near its
+conclusion, the cries for God to save the psalmist occur more and more often. The Psalm was really a lengthy
+prophecy of the coming of the Christ.
+
+How? The Holy Spirit showed my heart the meaning of the text long before my mind could see it. That is how you 
+learn the wisdom books. Read them. Study them. Don't forget to feel them. Don't neglect to swallow them whole
+and let them permeate your soul. It takes your whole heart to follow them to the end of the road.
+
+So when I came to the conclusion that my research into the wisdom literature had turned up the Seven Pillars of Wisdom,
+this was not an accident. I was primed since my youth to search for them. First, I searched in my dreams. 
+Next, I searched in my novels, through my imagination. Then I searched in the Word, by study, logic and prayer. 
+I did not know what I was searching for until I found it. I identified the Seven Pillars of Wisdom not for searching
+for them directly, but by becoming attuned to their essence and recognizing them when they finally appeared before
+my eyes.
+
+My experience of the Gospel of Matthew was no less deep, but attended by intense study and struggle.
+I delivered the baccalaureate sermon for my high school. The assigned text was on being salt and light, 
+from the Sermon on the Mount. Then in my final semester in college I wrote a paper comparing and contrasting 
+the Gospels of John and Matthew. For that I read each gospel a dozen times or more.
+
+A year or so later, I acquired a copy of Bonhoeffer's *The Cost of Discipleship*. It took me three years and five attempts
+to finally get through that book. Bonhoeffer based much of his analysis on the Sermon on the Mount. I struggled 
+to live out my faith by his teachings and failed. Studying is easier than obeying.
+
+I stuck with studying. A friend challenged me to make a habit of memorizing scripture. 
+Hoping that better understanding would produce holier living, I memorized the entire Sermon on the Mount. 
+That took months. The effort produced at least three benefits:
+
+  1. The Golden Rule began to make sense.  Finally I saw the connection to the previous verses in the sermon: ask, seek and knock. You cannot do unto others unless you trust in God to give you the resources to help your neighbors. That is why only people of faith can live by that rule. Only people who pray often and trust God to provide will receive the means to bless others regularly.
+  2. Jesus told me not to worry. My lifelong struggle with anxiety was revealed as a spiritual issue and came to the fore. This would become a major preoccupation of mine during the next quarter century. 
+  3. Jesus told me to lay up treasures in heaven.
+
+My struggles with point two (anxiety) undermined my success at living out point one (loving my neighbor as myself).
+God's plan was to guide me with point three. What are the heavenly treasures? I had to know! 
+Why couldn't Jesus have given me a list? I spent a few years looking, then gave up for almost a decade. 
+Then in 2004 I took up the search in earnest and persevered for almost a decade until I had my list.
+The result was *The Endless Hunt: Or if I've Found God, Why am I still Looking?* 
+
+In the course of searching for spiritual treasures, I tackled Jesus' parables. I was struck by how he
+told the disciples that if they did not understand the parable of the four soils, how could they 
+understand any of his parables? Since that is one of the most complex of the parables, I was perplexed.
+If Jesus was right, then the others, which seem simpler in comparison, are really more difficult
+to understand. I took this to mean that since the other parables looked simpler to me, I must not really
+understand them as well as I thought. A decade later, it would be that very parable of the soils that 
+unlocked the structure of Job to me. That parable would help me formulate the Harvest Pattern. 
+That in turn helped me recognize the seven pillars of wisdom. 
+
+One last peculiarity. About a decade ago, while meditating on the genealogy of Jesus recorded in Matthew, 
+two peculiar thoughts occurred to me. First, I spotted a chiasm in the names, a symmetrical parallelism.
+Abraham matched Jesus and David matched Jehoiachin. There seemed to be a symmetry to history.
+
+Second, Matthew made much of there being forty-two generations from Abraham to Christ. 
+What if God measured time not by years, but by generations of people?
+How many generations would there be from the creation until Christ returns?
+
+The generations from Abraham to Jesus were heavily overlapping generations. This shortened the time from
+promise to fulfillment, from covenant to Christ. God wanted to send his grace as soon as possible. 
+What if God also wanted to give an unbelieving world the maximum amount of time to repent before sending judgment? 
+If he had a number of generations in mind before sending Jesus back, then by making those generations overlap by 
+but a single year, he could maximize the time of grace. The questions that came to me were these:
+
+  - How many generations did God plan until all of history would be completed?
+  - How long for each generation?
+  - Is there a symmetric pattern of themes in history that flows in keeping with those generations?
+  - Where in the Bible are we given an expectation that God will measure history in this way?
+
+I hypothesized values for the count and duration and discovered some symmetries in history, 
+but could not find the fourth. Without warrant in Scripture for my idea, I abandoned it for many years.
+Not until I began to study Ecclesiastes did I find where God tells us that he measures history by
+counting generations: in Ecclesiastes 1. It was that half-abandoned idea that was one of the keys
+to uncloaking hundreds of prophesies that are in the Bible but have never been noticed before.
+And it all came to me because I stopped to ponder the meaning of a boring chronology.
+
+That is but a small flavor of how the words of Matthew have propelled me forward. The confusion and questions
+that the gospel stirred up in me drove me to pursue ideas across decades. Most of that time, all I had
+was the questions. I tried to study but soon gave up on violin, trumpet, piano and guitar. 
+I have left stories unfinished, abandoned many dreams and hobbies. 
+Forming long term goals, planning and persevering at tasks despite little progress across most of a lifetime 
+is not in my nature. My character is to be a dilettante and give up easily. That is how I know that my
+study of God's wisdom books does not spring from my own strength and character.
+
+God's wisdom is so important to me that it draws forth an energy and single-minded focus far beyond me.
+Solomon described it well:
+
+#### The appetite of laborers works for them;
+##### their hunger drives them on. 
+###### - Proverbs 16:26
+  
+Jesus gave it a religious spin:
+
+#### Blessed are those who hunger and thirst for righteousness,
+##### for they will be filled.
+###### - Matthew 5:6
+
+It is not a matter of human effort and merit. It is a matter of hunger and thirst.
+
+Read the articles on this website and you will read the words of a thirsty man.
+
 
 
 
