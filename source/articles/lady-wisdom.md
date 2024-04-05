@@ -433,7 +433,7 @@ I might comprehend the reality of the miracles I was receiving.
 ## So who is Lady Wisdom?
 
   - When Jenifer Farr shared her faith with me and led me to the Lord in April 1985, she was Lady Wisdom to me.
-  - When Chavonnne Yee in the fall of 1985 recommended a solid Bible study and steered me away from what I later learned was a cult, she was Lady Wisdom to me.
+  - When Chavonnne Yee in the Fall of 1985 recommended a solid Bible study and steered me away from what I later learned was a cult, she was Lady Wisdom to me.
   - When a woman on her deathbed name Janet Sullivan shared her faith with me and I was baptized with the Holy Spirit and freed from a decade of depression, she was Lady Wisdom to me.
   - When Sharon S. Thompson, my Christian counselor, helped me realize and confess that I was a false prophet who was manipulating people with my baseless religious ideas, she was lady Wisdom to me
   - When a prophetess in our church named Lynnette, knowing how lonely I was, said that God was telling her that I would soon meet someone that I would be in a relationship with (and whom I later married), she was Lady Wisdom to me.
