@@ -1,5 +1,6 @@
 ---
 title: Lady Wisdom
+quote:  She is a tree of life <br/> to those who take hold of her; <br/> those who hold her fast will be blessed**. <br/> - Proverbs 3
 ---
 ## Who is Lady Wisdom?
 
@@ -187,7 +188,7 @@ change. By the end of that year I was able to worship Jesus in Proverbs.
 I attribute my focus on the wisdom literature and my progress toward understanding it to that 
 year that I dedicated solely to the pursuit of wisdom.
 
-## Lady Wisdom's Resume: Proverbs 8
+## Lady Wisdom's Résumé: Proverbs 8
 
 When you meet new people, do you name drop? It is part of sizing people up by discovering
 in what circles they move. Lady Wisdom is shameless in this regard:
@@ -257,12 +258,12 @@ But of all the things that she said, the most important words are the last: "del
 She is not at heart a cruel taskmistress, a scold, looking for reasons to snap at you and
 call you out for your failures. She delights in the company of people - if they will have her.
 She is a person filled with rejoicing and boundless creativity who wants to be your confidante
-and friend. She wants to help you succeed and flourish. She can become the kind if friend whose
+and friend. She wants to help you succeed and flourish. She can become the kind of friend whose
 house you want to drop by all the time over tea (which I don't drink, but some people like it).
 
 ## Wait at her door: Proverbs 8
 
-Proverbs 8 says too many wonderful things to cover here. The most important thing is the
+Proverbs 8 says too many wonderful things to cover them all here. The most important thing is the
 progression towards intimacy. In the earlier chapters, Lady Wisdom is walking the streets,
 calling out to strangers. Now she tells you where she lives.
 
@@ -285,8 +286,8 @@ She has a roommate named Prudence.
 ###### - Proverbs 8:34-36
 
 The summer after my junior year in high school, I often rode my bike past the house of 
-a girl I had a crush on. I never told her of my feelings. Thus I know what it is
-like to watch daily at someone's door, hoping they were home and receiving visitors.
+a girl I had a crush on. Ahh, Rachel! I never told her of my feelings. Thus I know what it is
+like to watch daily at someone's door, hoping she was home and receiving visitors.
 What I didn't know was that she was in Finland all summer as an exchange student.
 No matter how many times I rode by, she would never be there.
 
@@ -436,7 +437,7 @@ I might comprehend the reality of the miracles I was receiving.
 ## So who is Lady Wisdom?
 
   - When Jenifer Farr shared her faith with me and led me to the Lord in April 1985, she was Lady Wisdom to me.
-  - When Chavonnne Yee in the Fall of 1985 recommended a solid Bible study and steered me away from what I later learned was a cult, she was Lady Wisdom to me.
+  - When Chavonne Yee in the Fall of 1985 recommended a solid Bible study and steered me away from what I later learned was a cult, she was Lady Wisdom to me.
   - When a woman on her deathbed name Janet Sullivan shared her faith with me and I was baptized with the Holy Spirit, filled with joy for a week and freed from a decade of depression, she was Lady Wisdom to me.
   - When Sharon S. Thompson, my Christian counselor, helped me realize and confess that I was a false prophet who was manipulating people with my baseless religious ideas, she was lady Wisdom to me.
   - When a prophetess in our church named Lynnette, knowing how lonely I was, said that God was telling her that I would soon meet someone that I would be in a relationship with (and whom I later married), she was Lady Wisdom to me.
