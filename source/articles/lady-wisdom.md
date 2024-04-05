@@ -72,7 +72,7 @@ of two strangers.
 Imagine that! A woman is envisioned as calling out to a young man,
 pleading with him to listen to her and turn his life around. 
 Those words are the antithesis of impersonal. It turns out, though she may be a stranger to you,
-yo are no stranger to her! She has us all pegged.
+you are no stranger to her! She has us all pegged.
 
 Did those words remain impersonal? Did her warnings ever penetrate my thick skull?
 Did I ever have a "You talkin' to me" moment?
@@ -114,7 +114,7 @@ That in itself was a miracle. I left the situation in his hands.
 Two days later I got my hearing back.
 
 How does that connect to Lady Wisdom? I had been refusing to listen, so the Lord shouted.
-By miraculously taking away my hearing and giving it back, he was telling my I was 
+By miraculously taking away my hearing and giving it back, he was telling me I was 
 spiritually deaf, but that he would cure me of that. Once healed of my spiritual deafness, 
 he would be able to speak to me the words that he had prepared for me to hear.
 
@@ -132,13 +132,15 @@ I would have forgotten that dream if I had not attended a service at the
 International Family Church in Winchester that weekend. A guest preacher
 spoke about the time when Jesus calmed the storm. The preacher said that Jesus' main reason
 for taking his disciples on a boat into the storm was not to teach them faith.
-Hos reason was to get to the other side of the lake, where there were two demon possessed men
-who needed a savior. That sermon reminded me of the dream and convinced me that it was a prophecy.
-My family and I would endure many years of trials but the Lord would see us through them all.
-For the next nearly two decades we endured one crisis after another with the first starting only three days after I heard the sermon.
+His reason was to get to the other side of the lake, where there were two demon possessed men
+who needed a savior. That sermon reminded me of my recent dream and convinced me t
+hat it was a prophecy. My family and I would endure many years of trials but the Lord 
+would see us through them all. For the next nearly two decades we endured one crisis
+after another with the first starting only three days after I heard the sermon.
 
-How did the Lord tell me that the storm was over and that we had made it across the lake?
-That would be the day I fell through the ice while ice skating on Winter Pond in Winchester, December 26, 2022. I was in those icy waters for twenty-five minutes. Erica Poitras of the fire and rescue team pulled me from the lake onto a sledge with pontoons. Then the rest of the team pulled the ropes that dragged us to safety on the other side of the pond.
+How did the Lord tell me that the storm was over and that we had made it safely across 
+the lake to the other shore? That would be the day I fell through the ice while ice skating 
+on Winter Pond in Winchester, December 26, 2022. I was in those icy waters for twenty-five minutes. Erica Poitras of the fire and rescue team pulled me from the lake onto a sledge with pontoons. Then the rest of the team pulled the ropes that dragged us to safety on the other side of the pond.
 
 When Jesus' disciples were afraid, he calmed the storm. While I was in the pond, the Lord calmed
 my heart and kept me from panicking, which could have killed me. When they pulled me from the lake,
@@ -375,9 +377,10 @@ During our conversation, I talked about my research into the Ten Commandments ab
 I was writing a book. When talk got to the fifth commandment to love your father and mother,
 I said that Jesus is the person who of all people in history best honored his father and mother.
 
-Lat that night, the pain began to worsen. I took the prescribed pain medication, a powerful narcotic,
-but after an hour or so, I felt no relief. It was impossible to sleep and the pain just kept
-getting worse. By now it was 1 or 2 am on Thursday morning. I began to recite words from Revelation:
+Later that night, the pain began to worsen. I took the prescribed pain medication, 
+a powerful narcotic, but after an hour or so, I felt no relief. It was impossible to sleep 
+and the pain just kept getting worse. By now it was 1 or 2 am on Thursday morning. 
+I began to recite words from Revelation:
 
 #### Holy, Holy, Holy,
 #### Is the Lord God Almighty,
@@ -396,7 +399,7 @@ Then I fell asleep. For at least five hours I was completely pain free.
 
 For the second time in a week, the Lord had sent me an angel. Was it Lady Wisdom? Whomever he sent,
 she was a tree of life, she let me take hold of her, and by that embrace I was blessed.
-Proverbs 3:18 was fulfilled literally in my life, in my living room. 
+Proverbs 3:18 was fulfilled literally in MY life, in MY living room. 
 Lady Wisdom had just made a house call.
 
 I pondered who it could be that visited me. Lady Wisdom in the Bible is just the anthropomorphism
@@ -434,16 +437,16 @@ I might comprehend the reality of the miracles I was receiving.
 
   - When Jenifer Farr shared her faith with me and led me to the Lord in April 1985, she was Lady Wisdom to me.
   - When Chavonnne Yee in the Fall of 1985 recommended a solid Bible study and steered me away from what I later learned was a cult, she was Lady Wisdom to me.
-  - When a woman on her deathbed name Janet Sullivan shared her faith with me and I was baptized with the Holy Spirit and freed from a decade of depression, she was Lady Wisdom to me.
-  - When Sharon S. Thompson, my Christian counselor, helped me realize and confess that I was a false prophet who was manipulating people with my baseless religious ideas, she was lady Wisdom to me
+  - When a woman on her deathbed name Janet Sullivan shared her faith with me and I was baptized with the Holy Spirit, filled with joy for a week and freed from a decade of depression, she was Lady Wisdom to me.
+  - When Sharon S. Thompson, my Christian counselor, helped me realize and confess that I was a false prophet who was manipulating people with my baseless religious ideas, she was lady Wisdom to me.
   - When a prophetess in our church named Lynnette, knowing how lonely I was, said that God was telling her that I would soon meet someone that I would be in a relationship with (and whom I later married), she was Lady Wisdom to me.
   - When my wife Tina displays courage, stands up for those who are weak or marginalized, and ministers to me, our children, and our friends at church, she is Lady Wisdom to me.
-  - When Yao, a theology student in our church, taught so well from Jesus' parables, from Proverbs, and from the Psalms, she was Lady Wisdom to me.
+  - When Yao, a seminary graduate in our church, taught so well from Jesus' parables, from Proverbs, and from the Psalms, she was Lady Wisdom to me.
   - When that rescue worker named Erica pulled me from a frozen lake, she was Lady Wisdom to me.
 
-And certainly, when the Blessed Virgin Mary comes at night to a Protestant Christian who 
-doesn't even think such things are possible or doctrinally sound and she bestows 
-miraculous pain relief in answer to my prayer, she becomes Lady Wisdom to me.
+And certainly, when the Blessed Virgin Mary came at night to a Protestant Christian who 
+doesn't even think such things are possible or doctrinally sound and she bestowed 
+miraculous pain relief in answer to my prayer, she became Lady Wisdom to me.
 
 I pray that you get to know Lady Wisdom as well as I do, even as I pray to know her better.
 
