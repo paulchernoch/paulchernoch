@@ -201,7 +201,7 @@ no prophet Samuel.
 
 After Hannah gave away her son, she could have mourned her loss the rest of her days.
 She could have retreated into melancholy, regretting her decision.
-Instead she uttered ten verses so profound, I doubt I will ever plumb their depths
+Instead she uttered ten verses so subtle, I doubt I will ever plumb their depths
 of profundity and power...
 
 ## A Woman of Prophecy
@@ -287,3 +287,34 @@ That makes Hannah one of the two wisest women who ever lived.
 ##### he will give strength to his king
 ###### and exalt the horn of his anointed.”
 ###### - 1 Samuel 2:1-10
+
+## The Big picture
+
+What is the big picture? In a riddle, Hannah prophesied the existence of the seven pillars
+of wisdom before six of them had been written. Her prophecy was delivered 
+a century before Solomon wrote Proverbs, where they are finally named explicitly.
+You don't see it?
+
+In verse 5, we have *"The barren has borne seven."* This verse is close to the heart of Hannah.
+She was "the barren" and now she is not, praise God! Seven means completeness, 
+an overflowing harvest of children. From this part of Hannah's riddle we get the number seven.
+
+We know that the second half of verse eight is significant because it breaks pattern.
+It interrupts the seven reversals of fortune, falling between the sixth and the seventh.
+In verse 8 we read, *"For the pillars of the earth are the Lord's, and on them he has set the world."* From this part of Hannah's riddle we get the pillars. From Proverbs we know that it is upon
+wisdom that God established the heavens and the earth. Wisdom is their foundation. 
+Thus by appearing just before the seventh reversal and because of the emotional connection
+of Hannah to the verse about the barren bearing seven, we have the seven pillars of wisdom.
+
+## The Details
+
+If a little wordplay was all it took to match Hannah's prayer to the seven pillars of wisdom,
+her words would be curious, but not profound. The above connection that I found to the 
+Seven Pillars of Wisdom is merely what drew me in. Once I made the initial connection, the
+deeper meaning tumbled out. 
+
+  - The prayer has ten verses. Each verse matches its corresponding commandment (and in one case, matching Exodus plague). (I did not notice that concordance until I wrote this article.)
+  - The seven reversals match the seven phases of the Solomon's Growth Pattern. The name of the growth phase is the first word after the colon in the label for each reversal.
+  - The seven reversals also match the seven phases of Jesus' Harvest Pattern. The name of the Harvest Phase follows the ampersand in each reversal label.
+  - The seven reversals also correspond to seven eras of history, each lasting 480 years, beginning with the dedication of the Temple in Jerusalem in 960 BC. They prophesy an important event in each era.
+
