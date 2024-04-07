@@ -359,7 +359,7 @@ Now consider its particulars.
 | <hr/> | <hr/>                   | <hr/>                                        |
 | 2     | No idols                | Hannah prays, *"There is none holy like the Lord: for there is none besides you; there is **no rock like our God**."* <br/> Pagan fools worship statues made of rock, but theirs is the wrong rock. |
 | <hr/> | <hr/>                   | <hr/>                                        |
-| 3     | No vain speech          | Hannah prays, *"**talk** no more so very b, let not **arrogance** come from **your mouth**; for the Lord is a God of knowledge, and by him actions are weighed."* <br/> No verse of her prayer better captures its commandment than this! |
+| 3     | No vain speech          | Hannah prays, *"**talk** no more so very **proudly**, let not **arrogance** come from **your mouth**; for the Lord is a God of knowledge, and by him actions are weighed."* <br/> No verse of her prayer better captures its commandment than this! |
 | <hr/> | <hr/>                   | <hr/>                                        |
 | 4     | Keep the Sabbath holy   | Hannah prays, *"the bows of the mighty are broken, but **the feeble bind on strength**."* <br/> The sabbath is about entering God's rest. Rest helps you become strong and recover from the hard labors of life. God gives us the sabbath so that we may bind on strength. |
 | <hr/> | <hr/>                   | <hr/>                                        |
