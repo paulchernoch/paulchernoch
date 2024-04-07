@@ -306,15 +306,52 @@ wisdom that God established the heavens and the earth. Wisdom is their foundatio
 Thus by appearing just before the seventh reversal and because of the emotional connection
 of Hannah to the verse about the barren bearing seven, we have the seven pillars of wisdom.
 
-## The Details
+## The Introduction
 
 If a little wordplay was all it took to match Hannah's prayer to the seven pillars of wisdom,
 her words would be curious, but not profound. The above connection that I found to the 
 Seven Pillars of Wisdom is merely what drew me in. Once I made the initial connection, the
 deeper meaning tumbled out. 
 
-  - The prayer has ten verses. Each verse matches its corresponding commandment (and in one case, matching Exodus plague). (I did not notice that concordance until I wrote this article.)
+  - The prayer has ten verses. Each verse matches its corresponding commandment ala the Law Pattern (and in one case, matching Exodus plague). (I did not notice that concordance until I wrote this article.)
   - The seven reversals match the seven phases of the Solomon's Growth Pattern. The name of the growth phase is the first word after the colon in the label for each reversal.
   - The seven reversals also match the seven phases of Jesus' Harvest Pattern. The name of the Harvest Phase follows the ampersand in each reversal label.
   - The seven reversals also correspond to seven eras of history, each lasting 480 years, beginning with the dedication of the Temple in Jerusalem in 960 BC. They prophesy an important event in each era.
+
+The three patterns, Harvest, Law and Growth, show up twice. First they are identified in the
+introduction, then laid out in detail in the reversals (or in the case of the Law pattern, the entire prayer). 
+
+**The Harvest.** Verse 1 says, "I rejoice in your salvation". In Matthew, Jesus is the 
+Lord of the Harvest. Whether sending workers out into the harvest, or sending angels with nets,
+or sending disciples out with the Great Commission, Jesus is all about bringing in a 
+harvest of souls. He is the savior and this verse tells us that the savior and his
+Harvest Pattern are here.
+
+**The Law.** Verse 2 says, "There is no rock like our God." The Law is the foundation of Lady Wisdom's House, the bedrock which protects it from the storm. The Ten Commandments were 
+carved upon tablets of stone. Then there are the words "there is none besides you". 
+This echoes the commandment in Exodus 20:3, which says, "You shall have no other gods before me."
+This tells us that the Law Pattern is here.
+
+**Growth in Wisdom.** Verse 3 says, "for the Lord is a God of knowledge". This explicitly 
+focuses us on wisdom, Solomon's specialty. 
+
+The body of the prayer has seven reversals, signifying a struggle, even a war.
+The introduction describes the combatants in three opposing pairs.
+
+  1. The first pair of adversaries are Hannah's own heart, which is "in the Lord" and her enemies, whose hearts are not. When she says that her "horn is exalted", that brings to mind the trumpets blown to announce a charge.
+  2. The second pair of adversaries are the Lord God, who is like a rock, and what? Nothing! Nothing can oppose him for there is "none holy like the Lord".
+  3. The third pair of adversaries are proud, arrogant talkers on the one hand, and the "God of knowledge" on the other. The declaration "by him actions are weighed" carries us into the body of the prayer, where God's actions of exalting the weak will be compared to the actions of those who oppose him. The seven reversals are like the scales God uses to weigh all men's actions.
+
+I completely overlooked the introductory verses in my analysis in *Peace*. 
+When solving riddles, it is not wise to overlook anything.
+
+## Details: The Law
+
+
+## Details: The Harvest
+
+
+## Details: Growth in Wisdom
+
+
 
