@@ -400,7 +400,7 @@ whom she could not keep. And God still honors mothers today, just as he did Hann
 
 When you look at the whole prayer, not skipping the introduction, you also see how Hannah weaves
 in the metaphor of pregnancy. Yes, she speaks of the barren woman bearing seven, but it goes 
-beyond this one verse. If we look at the structure of the prayer, there are changes at these positions:
+beyond that one verse. If we look at the structure of the prayer, there are changes at these positions:
 
   - between the third and fourth verses we go from oppositions to reversals
   - in the middle of the eighth verse, between the sixth and seventh reversals, we have the interlude about the pillars of the earth
@@ -414,18 +414,18 @@ We can compare this structure to the course of a pregnancy.
   - **Verses 6-8a**: The third trimester (reversals  four to six). Hannah says, "The Lord... brings to life."
   - **Verse 8b**: Hannah gives birth to Samuel. As a great and faithful prophet, he would grow up to be one of the "pillars of the earth", "sit with princes" and "inherit a seat of honor".
   - **Verse 9**: Hannah recovers during the post partum laying-in period. "He will guard the feet of his faithful ones" sounds like Samuel's father protecting his newborn son, even tickling his toes.
-  - **Verse 10**: Samuel grows up and fulfils his destiny. First to "judge" the people. Second, to "exalt the horn of his anointed" when he anointed two kings over Israel, Saul and David. 
+  - **Verse 10**: Samuel grows up and fulfills his destiny. First to "judge" the people. Second, to "exalt the horn of his anointed" when he anointed two kings over Israel, Saul and David. 
 
 From this analysis, we see that Hannah has interpreted her pregnancy as giving birth to a new age for her people.
-Her son would help the nation transition from a group of tribes rules by judges to pne nation ruled by a king.
+Her son would help the nation transition from a group of tribes ruled by judges to one nation ruled by a king.
 This is the near term prophecy that we can see in her words. I overlooked this crucial, basic layer of meaning
-when I wrote my initial finding two years ago. The metaphor of pregnancy unifies the whole prayer, which
+when I wrote of my initial findings two years ago. The metaphor of pregnancy unifies the whole prayer, which
 means that if there is a second, long-term prophecy to be found here, it must also bring in the whole prayer.
 
 ## Defining A Prophetic Clock
 
-In *Plague, Precept, Prophet, Peace*, I set forth hermeneutical rules for interpreting a prophetic clock.
-Among those principles are these. The riddles in the text should:
+In *Plague, Precept, Prophet, Peace*, I set forth hermeneutical rules for discovering and 
+interpreting a prophetic clock. Among those principles are these. The riddles in the text should:
 
   - Identify the historical event that defines when the clock begins.
   - Identify how many time periods are in the clock.
@@ -443,29 +443,34 @@ The combination tells us that the new nation will be a theocracy.
 Starting with verse four, I matched prophecies correctly to history but skipped over the first three verses.
 Why? Part of the pattern that I found in her prayer matches Solomon's Growth Pattern.
 There was nothing in the prayer to suggest that it should start with Solomon's Temple (960 BC) or the Creation, 
-so the logical place to start was with the birth of Samuel. However, now that we see the Ten Commandments
-as part of the structure, we have evidence that points elsewhere. The more appropriate start for the
-clock is with the Exodus, when those commandments were given.
+so the logical place to start was with the birth of Samuel, ca 1080 BC. However, now that we see the Ten Commandments
+as part of the structure, we have evidence that points to an earlier start. The more **appropriate start for the
+clock is with the Exodus**, when those commandments were given.
 
 According to my calculations, the Exodus occurred in 1447 BC. Despite my best efforts, I may be off by a few years.
 To keep the numbers round and to align it with dozens of other spiritual clocks from my books, 
-we shall start this clock in 1440 BC. 
+we shall **start this clock in 1440 BC**. 
 
-**Number of Periods**. Clocks that use Solomon's times, depending on whether they are divided into seven, fourteen or twenty-eight eras,
-usually have periods whose duration is 480, 240 or 120 years. In my previous analysis, it seemed sensible
-to respect the peculiarity of the prayer's structure. It broke pattern between the sixth and seventh reversals,
-with the interlude that speaks of the pillars of the earth.
-I concluded then that there were eight periods. If we add in the first three verses, we will get eleven periods.
+**Number of Periods**. Clocks that use Solomon's times, depending on whether they are divided into seven, 
+fourteen or twenty-eight eras, usually have periods whose duration is 480, 240 or 120 years, respectively. 
+In my previous analysis, it seemed sensible to respect the peculiarity of the prayer's structure. 
+It broke pattern between the sixth and seventh reversals, with the interlude that speaks of the pillars of the earth.
+I concluded then that there were eight periods. If we now add in the first three verses, we will get **eleven periods**.
 
 **Duration of Periods.** Now in Ecclesiastes, Solomon used fourteen pairs of opposites. 
 Such opposites resemble the reversals in Hannah's prayer.
 But because the interlude does not have a reversal, it seemed right to make it a different length of time from the rest.
 If Samuel was born about 1080 BC, then if the extra period for the pillar is 120 years, not 480 years as for the 
-reversals, the last period of this clock would synchronize with Solomon's clock.
+reversals, the end of this clock would synchronize with the end of Solomon's clock.
 It turns out that this extra 120 era is one of the most eventful eras in the history of the church: 
-the missionary era of 1800-1920 AD, when the abolition movement began to root out slavery and women began to be granted more rights, 
-including the right to own property separate from her husband and the right to vote.
+the missionary era of 1800-1920 AD, when the abolition movement began to root out slavery and 
+women began to be granted more rights, including the right to own property separate from her husband (1848 AD) 
+and the right to vote (1920 AD).
+
 It fits. If we also make the first three verses into shorter periods of 120 years, they also fit.
+
+There is a good subjective reason whey the periods that are parts of reversals last longer than the others.
+Once that baby starts kicking, those months seem to drag on forever!
 
 **Clock Definition**. To summarize, we have a prophetic clock with these broad features:
 
@@ -475,6 +480,7 @@ It fits. If we also make the first three verses into shorter periods of 120 year
   - The first six reversals last 480 years each, or 240 years per each half a reversal.
   - The interlude with the pillars lasts 120 years
   - The seventh reversal lasts 480 years
+  - The clock ends in 2400 AD (though the last period might be cut short by Jesus' return)
 
 The seventh reversal is a chiasm, meaning it follows an A-B-B'-A' pattern. 
 The first and last parts are about the good, while the second and third parts are about the wicked.
@@ -488,6 +494,37 @@ That quartet has the pattern good-bad-bad-good, just like verses 9 and 10 with t
 
 It is now time to reveal Hannah's extended prophetic clock.
 The first three verses are not prophetic; they are backwards looking.
-They anchor her calendar in the past, going back to the Exodus, showing that
+They anchor Hannah's calendar in the past, going back to the Exodus, showing that
 what follows is a continuation of God's unfolding plan.
+
+Before the clock, here is a review of the Harvest and Growth Patterns.
+
+  - Each Harvest Phase also matches a Bible book (its corresponding Pillar book)
+  - Each Harvest Phase matches one of the Seven Spirits of God named in Isaiah 11:2
+  - Each Growth phase is built from four times taken from the poem in Ecclesiastes 3
+  - Each Growth phase lasts seven years in a typical person's life
+
+These patterns apply literally to individual people and figuratively to nations, the church and whole civilizations.
+So just as Hannah is describing the growth of a baby within, she is also prophesying the birth and growth of our civilization.
+
+<hr/>
+|  No.  |           Book / Spirit            |      Harvest Phase          |          Growth Phase / Times                                |
+| :---: | :--------------------------------: |:--------------------------- | :----------------------------------------------------------- |
+| <hr>  |               <hr/>                |          <hr/>              |           <hr/>                                              |
+|   1   |      Psalms <br/> Lordship         |   Preparation               |  Security <br/> be born, die, plant, uproot                  |
+| <hr>  |               <hr/>                |          <hr/>              |           <hr/>                                              |
+|   2   |      Job <br/> Wisdom              |   Plowing (of Suffering)    |  Ability <br/> kill, heal, tear down, build up               |
+| <hr>  |               <hr/>                |          <hr/>              |           <hr/>                                              |
+|   3   |    Proverbs <br/> Understanding    |   Planting                  |  Stability <br/> weep, laugh, mourn, dance                   |
+| <hr>  |               <hr/>                |          <hr/>              |           <hr/>                                              |
+|   4   |    Song of Songs <br/> Counsel     |   Pouring (the Holy Spirit) |  Amity <br/> scatter stones, gather stones, embrace, refrain |
+| <hr>  |               <hr/>                |          <hr/>              |           <hr/>                                              |
+|   5   |    Ecclesiastes <br/> Might        |   Plucking                  |  Opportunity <br/> seek, give up, keep, throw away           |
+| <hr>  |               <hr/>                |          <hr/>              |           <hr/>                                              |
+|   6   |      Matthew <br/> Knowledge       |   Producing (a harvest)     |  Community <br> tear, mend, be silent, speak                 |
+| <hr>  |               <hr/>                |          <hr/>              |           <hr/>                                              |
+|   7   |  Revelation <br/> Fear of the Lord |   Peace                     |  Loyalty <br/> love, hate, war, peace                        |
+<hr/>
+
+
 
