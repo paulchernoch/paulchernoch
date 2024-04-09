@@ -508,8 +508,9 @@ These patterns apply literally to individual people and figuratively to nations,
 So just as Hannah is describing the growth of a baby within, she is also prophesying the birth and growth of our civilization.
 
 <hr/>
+
 |  No.  |           Book / Spirit            |      Harvest Phase          |          Growth Phase / Times                                |
-| :---: | :--------------------------------: |:--------------------------- | :----------------------------------------------------------- |
+| :---: | :--------------------------------: | :-------------------------- | :----------------------------------------------------------- |
 | <hr>  |               <hr/>                |          <hr/>              |           <hr/>                                              |
 |   1   |      Psalms <br/> Lordship         |   Preparation               |  Security <br/> be born, die, plant, uproot                  |
 | <hr>  |               <hr/>                |          <hr/>              |           <hr/>                                              |
@@ -524,6 +525,7 @@ So just as Hannah is describing the growth of a baby within, she is also prophes
 |   6   |      Matthew <br/> Knowledge       |   Producing (a harvest)     |  Community <br> tear, mend, be silent, speak                 |
 | <hr>  |               <hr/>                |          <hr/>              |           <hr/>                                              |
 |   7   |  Revelation <br/> Fear of the Lord |   Peace                     |  Loyalty <br/> love, hate, war, peace                        |
+
 <hr/>
 
 
