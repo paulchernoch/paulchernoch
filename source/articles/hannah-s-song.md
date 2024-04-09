@@ -534,14 +534,14 @@ by the prophecy.
 
 <hr/>
 
-|  No.  |    Years      | Verses | Events                                                                                                                                                          |
+|  No.  |   Year Range  | Verses | Events                                                                                                                                                          |
 | :---: | :-----------: | :----: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <hr>  |     <hr/>     |  <hr/> |                              <hr/>                                                                                                                              |
-|  1    |  1440-1320 BC |    1   | *my horn is exalted in the Lord*: The Israelites marched around Jericho in the Book of Joshua blowing horns, ca 1407 BC.                                        |
+|  1    |  1440-1320 BC |    1   | *my horn is exalted in the Lord* <br/> The Israelites marched around Jericho in the Book of Joshua blowing horns, ca 1407 BC.                                        |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                                                                                              |
-|  2    |  1320-1200 BC |    2   | *there is no rock like our God*: Fire miraculously came up from the rock to consume Gideon's sacrifice when the angel of the Lord visited him, ca 1201 BC.      |
+|  2    |  1320-1200 BC |    2   | *there is no rock like our God* <br/> Fire miraculously came up from the rock to consume Gideon's sacrifice  <br/> when the angel of the Lord visited him, ca 1201 BC.      |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                                                                                              |
-|  3    |  1200-1080 BC |    3   | *Talk no more so very proudly, let not arrogance come from your mouth*: Jephthah's rash vow cost him his daughter. "Alas, my daughter! You have brought me very low, and you have become the cause of great trouble to me. For I have opened my **mouth** to the Lord, and I cannot take back my vow." And she said to him, "My father, you have opened your **mouth** to the Lord; do to me according to what has gone out of your **mouth**..."  |
+|  3    |  1200-1080 BC |    3   | *Talk no more so very proudly, let not arrogance come from your mouth* <br/> Jephthah's rash vow in Judges 11 cost him his daughter.  <br/> "Alas, my daughter! You have brought me very low,  <br/> and you have become the cause of great trouble to me.  <br/> For I have opened my **mouth** to the Lord,  <br/> and I cannot take back my vow."  <br/> And she said to him, "My father, you have opened  <br/> your **mouth** to the Lord;  <br/> do to me according to what has gone out of your **mouth**..."  |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                  |
 |  4    |  1080-600 BC  |    4   |     |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                  |
