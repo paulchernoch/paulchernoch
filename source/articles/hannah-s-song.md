@@ -509,22 +509,22 @@ So just as Hannah is describing the growth of a baby within, she is also prophes
 
 <hr/>
 
-|  No.  |           Book / Spirit            |      Harvest Phase          |          Growth Phase / Times                                |
-| :---: | :--------------------------------: | :-------------------------- | :----------------------------------------------------------- |
-| <hr>  |               <hr/>                |          <hr/>              |           <hr/>                                              |
-|   1   |      Psalms <br/> Lordship         |   Preparation               |  Security <br/> be born, die, plant, uproot                  |
-| <hr>  |               <hr/>                |          <hr/>              |           <hr/>                                              |
-|   2   |      Job <br/> Wisdom              |   Plowing (of Suffering)    |  Ability <br/> kill, heal, tear down, build up               |
-| <hr>  |               <hr/>                |          <hr/>              |           <hr/>                                              |
-|   3   |    Proverbs <br/> Understanding    |   Planting                  |  Stability <br/> weep, laugh, mourn, dance                   |
-| <hr>  |               <hr/>                |          <hr/>              |           <hr/>                                              |
-|   4   |    Song of Songs <br/> Counsel     |   Pouring (the Holy Spirit) |  Amity <br/> scatter stones, gather stones, embrace, refrain |
-| <hr>  |               <hr/>                |          <hr/>              |           <hr/>                                              |
-|   5   |    Ecclesiastes <br/> Might        |   Plucking                  |  Opportunity <br/> seek, give up, keep, throw away           |
-| <hr>  |               <hr/>                |          <hr/>              |           <hr/>                                              |
-|   6   |      Matthew <br/> Knowledge       |   Producing (a harvest)     |  Community <br> tear, mend, be silent, speak                 |
-| <hr>  |               <hr/>                |          <hr/>              |           <hr/>                                              |
-|   7   |  Revelation <br/> Fear of the Lord |   Peace                     |  Loyalty <br/> love, hate, war, peace                        |
+|  No.  |           Book / Spirit              |      Harvest Phase                   |          Growth Phase / Times                                    |
+| :---: | :----------------------------------: | :----------------------------------- | :--------------------------------------------------------------- |
+| <hr>  |               <hr/>                  |          <hr/>                       |           <hr/>                                                  |
+|   1   |      Psalms <br/> *Lordship*         |   **Preparation**                    |  **Security** <br/> be born, die, plant, uproot                  |
+| <hr>  |               <hr/>                  |          <hr/>                       |           <hr/>                                                  |
+|   2   |      Job <br/> *Wisdom*              |   **Plowing** <br/>(of Suffering)    |  **Ability** <br/> kill, heal, tear down, build up               |
+| <hr>  |               <hr/>                  |          <hr/>                       |           <hr/>                                                  |
+|   3   |    Proverbs <br/> *Understanding*    |   **Planting**                       |  **Stability** <br/> weep, laugh, mourn, dance                   |
+| <hr>  |               <hr/>                  |          <hr/>                       |           <hr/>                                                  |
+|   4   |    Song of Songs <br/> *Counsel*     |   **Pouring** <br/>(the Holy Spirit) |  **Amity** <br/> scatter stones, gather stones, embrace, refrain |
+| <hr>  |               <hr/>                  |          <hr/>                       |           <hr/>                                                  |
+|   5   |    Ecclesiastes <br/> *Might*        |   **Plucking**                       |  **Opportunity** <br/> seek, give up, keep, throw away           |
+| <hr>  |               <hr/>                  |          <hr/>                       |           <hr/>                                                  |
+|   6   |      Matthew <br/> *Knowledge*       |   **Producing** <br/> (a harvest)    |  **Community** <br> tear, mend, be silent, speak                 |
+| <hr>  |               <hr/>                  |          <hr/>                       |           <hr/>                                                  |
+|   7   |  Revelation <br/> *Fear of the Lord* |   Peace                              |  **Loyalty** <br/> love, hate, war, peace                        |
 
 <hr/>
 
