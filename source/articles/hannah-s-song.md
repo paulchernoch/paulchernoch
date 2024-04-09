@@ -408,13 +408,13 @@ beyond this one verse. If we look at the structure of the prayer, there are chan
 
 We can compare this structure to the course of a pregnancy.
 
-  - Verse 1: My heart exults in the Lord. Hannah is overjoyed to conceive.
-  - Verses 1-3: The first trimester. These verses do not have reversals (like labor pains or baby movements). During this trimester, women cannot yet feel the baby move.
-  - Verses 4-5: The second trimester (reversals one to three). Hannah says, "the feeble bind on strength". Now she feels the baby, as the quickening comes between the 16th and 25th week, but as early as the 13th week. She feels alternately happy and "forlorn" (verse 5), as it is an emotional time.
-  - Verses 6-8a: The third trimester (reversals  four to six). Hannah says, "The Lord... brings to life."
-  - Verse 8b: Hannah gives birth to Samuel. As a great and faithful prophet, he would grow up to be one of the "pillars of the earth", "sit with princes" and "inherit a seat of honor".
-  - Verse 9: Hannah recovers during the post partum laying-in period. "He will guard the feet of his faithful ones" sounds like Samuel's father protecting his newborn son, even tickling his toes.
-  - Verse 10: Samuel grows up and fulfils his destiny. First to "judge" the people. Second, to "exalt the horn of his anointed" when he anointed two kings over Israel, Saul and David. 
+  - **Verse 1**: My heart exults in the Lord. Hannah is overjoyed to conceive.
+  - **Verses 1-3**: The first trimester. These verses do not have reversals (like labor pains or baby movements). During this trimester, women cannot yet feel the baby move.
+  - **Verses 4-5**: The second trimester (reversals one to three). Hannah says, "the feeble bind on strength". Now she feels the baby, as the quickening comes between the 16th and 25th week, but as early as the 13th week. She feels alternately happy and "forlorn" (verse 5), as it is an emotional time.
+  - **Verses 6-8a**: The third trimester (reversals  four to six). Hannah says, "The Lord... brings to life."
+  - **Verse 8b**: Hannah gives birth to Samuel. As a great and faithful prophet, he would grow up to be one of the "pillars of the earth", "sit with princes" and "inherit a seat of honor".
+  - **Verse 9**: Hannah recovers during the post partum laying-in period. "He will guard the feet of his faithful ones" sounds like Samuel's father protecting his newborn son, even tickling his toes.
+  - **Verse 10**: Samuel grows up and fulfils his destiny. First to "judge" the people. Second, to "exalt the horn of his anointed" when he anointed two kings over Israel, Saul and David. 
 
 From this analysis, we see that Hannah has interpreted her pregnancy as giving birth to a new age for her people.
 Her son would help the nation transition from a group of tribes rules by judges to pne nation ruled by a king.
@@ -422,9 +422,72 @@ This is the near term prophecy that we can see in her words. I overlooked this c
 when I wrote my initial finding two years ago. The metaphor of pregnancy unifies the whole prayer, which
 means that if there is a second, long-term prophecy to be found here, it must also bring in the whole prayer.
 
-## A Prophetic Clock
+## Defining A Prophetic Clock
 
+In *Plague, Precept, Prophet, Peace*, I set forth hermeneutical rules for interpreting a prophetic clock.
+Among those principles are these. The riddles in the text should:
 
+  - Identify the historical event that defines when the clock begins.
+  - Identify how many time periods are in the clock.
+  - Identify how long each time period lasts.
+  - Have a unifying theme.
 
+We have already seen that there are two unifying themes:
 
+  - The Ten Commandments
+  - The birth of a nation
+
+The combination tells us that the new nation will be a theocracy. 
+
+**Start Year**. What about the start year? That is where I went wrong in my previous book.
+Starting with verse four, I matched prophecies correctly to history but skipped over the first three verses.
+Why? Part of the pattern that I found in her prayer matches Solomon's Growth Pattern.
+There was nothing in the prayer to suggest that it should start with Solomon's Temple (960 BC) or the Creation, 
+so the logical place to start was with the birth of Samuel. However, now that we see the Ten Commandments
+as part of the structure, we have evidence that points elsewhere. The more appropriate start for the
+clock is with the Exodus, when those commandments were given.
+
+According to my calculations, the Exodus occurred in 1447 BC. Despite my best efforts, I may be off by a few years.
+To keep the numbers round and to align it with dozens of other spiritual clocks from my books, 
+we shall start this clock in 1440 BC. 
+
+**Number of Periods**. Clocks that use Solomon's times, depending on whether they are divided into seven, fourteen or twenty-eight eras,
+usually have periods whose duration is 480, 240 or 120 years. In my previous analysis, it seemed sensible
+to respect the peculiarity of the prayer's structure. It broke pattern between the sixth and seventh reversals,
+with the interlude that speaks of the pillars of the earth.
+I concluded then that there were eight periods. If we add in the first three verses, we will get eleven periods.
+
+**Duration of Periods.** Now in Ecclesiastes, Solomon used fourteen pairs of opposites. 
+Such opposites resemble the reversals in Hannah's prayer.
+But because the interlude does not have a reversal, it seemed right to make it a different length of time from the rest.
+If Samuel was born about 1080 BC, then if the extra period for the pillar is 120 years, not 480 years as for the 
+reversals, the last period of this clock would synchronize with Solomon's clock.
+It turns out that this extra 120 era is one of the most eventful eras in the history of the church: 
+the missionary era of 1800-1920 AD, when the abolition movement began to root out slavery and women began to be granted more rights, 
+including the right to own property separate from her husband and the right to vote.
+It fits. If we also make the first three verses into shorter periods of 120 years, they also fit.
+
+**Clock Definition**. To summarize, we have a prophetic clock with these broad features:
+
+  - Starts in 1440 BC near the Exodus.
+  - Has eleven periods.
+  - The first three periods last 120 years each.
+  - The first six reversals last 480 years each, or 240 years per each half a reversal.
+  - The interlude with the pillars lasts 120 years
+  - The seventh reversal lasts 480 years
+
+The seventh reversal is a chiasm, meaning it follows an A-B-B'-A' pattern. 
+The first and last parts are about the good, while the second and third parts are about the wicked.
+That means that we really have two reversals here. Instead of adding more time to the clock,
+these last two verses go into greater detail about the same era.
+As we shall see, the seven reversals correspond to seven quartets of times from Ecclesiastes 3.
+Thus the last reversal is for the times to love, to hate, for war and for peace.
+That quartet has the pattern good-bad-bad-good, just like verses 9 and 10 with their pattern of reversals.
+
+## Hannah's Prophetic Clock
+
+It is now time to reveal Hannah's extended prophetic clock.
+The first three verses are not prophetic; they are backwards looking.
+They anchor her calendar in the past, going back to the Exodus, showing that
+what follows is a continuation of God's unfolding plan.
 
