@@ -2,7 +2,8 @@
 title: Hannah's Song
 quote: For the pillars of the earth are the Lord's, <br/> and on them he has set the world. <br/> - Hannah, prophetess and mother
 ---
-Note: This article both summarizes and amplifies ideas first expressed in the chapter "The Seven Pillars of Wisdom" in *Peace, like Solomon Never Knew*. That is the final chapter and 
+Note: This article both summarizes and amplifies ideas first expressed in the chapter 
+"The Seven Pillars of Wisdom" in *Peace, like Solomon Never Knew*. That is the final chapter and 
 thus concludes in setting forth the most important ideas in that book. I consider discovering the 
 meaning behind the words of the Prophetess Hannah to be one of the most important revelations to 
 spring from all my years of studying the Bible. Of all the words in the Bible touching on the 
@@ -12,7 +13,8 @@ subject of God's wisdom, hers may be the most profound.
 
 Everyone wants to be the greatest. Yet how can you become the greatest at something unless 
 you know who holds the current title? That is why we keep lists. The Guinness Book of World Records
-is the bible for people of ambition. The Holy Bible tells us that Solomon was the wisest man who every lived (besides Jesus, according to Matthew 12:42). Good luck beating him out!
+is the bible for people of ambition. The Holy Bible tells us that Solomon was the wisest man who every lived 
+(besides Jesus, according to Matthew 12:42). Good luck beating him out!
 
 Isn't it curious that the Bible never tells us who was the wisest woman of all time? 
 We have the words of Lady Wisdom in Proverbs, but she is not a real person (or so we think). 
@@ -35,7 +37,9 @@ then see if any women come close in offering anything comparable.
 
 From my study of Ecclesiastes, I discovered a seven-part Growth Pattern.
 This pattern of Solomon's, distilled from the twenty-eight times of Ecclesiastes 3, 
-describes the phases of life that all people go through from birth to maturity. It also speaks prophetically about the rise and fall of civilizations. Pretty cool, eh? (See *Peace, like Solomon Never Knew* for details, or elsewhere on this website for a summary.)
+describes the phases of life that all people go through from birth to maturity. 
+It also speaks prophetically about the rise and fall of civilizations. 
+Pretty cool, eh? (See *Peace, like Solomon Never Knew* for details, or elsewhere on this website for a summary.)
 
 From my study of Matthew and Job, I discovered a seven-part Harvest Pattern, taught by Jesus
 through his parables. It teaches us how to overcome obstacles and reap a spiritual harvest.
@@ -46,7 +50,8 @@ In *Plague, Precept, Prophet, Peace*, I showed how the plagues and commandments 
 for God's acts of judgment against a series of world empires. They also prophesy the cadence
 of God's judgments against Israel and the Church. Furthermore, those commandments govern the
 organization of material in the Gospel of Matthew. (See the chapter "Matthew and the Law of Christ"
-in *Plague, Precept, Prophet, Peace* for evidence to support this, as well as the following assertion.) Lastly, the Growth and Harvest Patterns each fit within the commandments, snug as a bug in a rug. 
+in *Plague, Precept, Prophet, Peace* for evidence to support this, as well as the following assertion.) 
+Lastly, the Growth and Harvest Patterns each fit within the commandments, snug as a bug in a rug. 
 
 Collectively, Moses, Solomon and Jesus gave us the principal prophetic patterns that frame 
 Lady Wisdom's House. Is there a lady out there who is in their league?
@@ -301,7 +306,8 @@ an overflowing harvest of children. From this part of Hannah's riddle we get the
 
 We know that the second half of verse eight is significant because it breaks pattern.
 It interrupts the seven reversals of fortune, falling between the sixth and the seventh.
-In verse 8 we read, *"For the pillars of the earth are the Lord's, and on them he has set the world."* From this part of Hannah's riddle we get the pillars. From Proverbs we know that it is upon
+In verse 8 we read, *"For the pillars of the earth are the Lord's, and on them he has set the world."* 
+From this part of Hannah's riddle we get the pillars. From Proverbs we know that it is upon
 wisdom that God established the heavens and the earth. Wisdom is their foundation. 
 Thus by appearing just before the seventh reversal and because of the emotional connection
 of Hannah to the verse about the barren bearing seven, we have the seven pillars of wisdom.
@@ -313,7 +319,7 @@ her words would be curious, but not profound. The above connection that I found 
 Seven Pillars of Wisdom is merely what drew me in. Once I made the initial connection, the
 deeper meaning tumbled out. 
 
-  - The prayer has ten verses. Each verse matches its corresponding commandment ala the Law Pattern (and in one case, matching Exodus plague). (I did not notice that concordance until I wrote this article.)
+  - The prayer has ten verses. Each verse matches its corresponding commandment ala the Law Pattern, and in one case, matching Exodus plague. (I did not notice that concordance until I wrote this article.)
   - The seven reversals match the seven phases of the Solomon's Growth Pattern. The name of the growth phase is the first word after the colon in the label for each reversal.
   - The seven reversals also match the seven phases of Jesus' Harvest Pattern. The name of the Harvest Phase follows the ampersand in each reversal label.
   - The seven reversals also correspond to seven eras of history, each lasting 480 years, beginning with the dedication of the Temple in Jerusalem in 960 BC. They prophesy an important event in each era.
@@ -345,7 +351,7 @@ The introduction describes the combatants in three opposing pairs.
 I completely overlooked the introductory verses in my analysis in *Peace*. 
 When solving riddles, it is not wise to overlook anything.
 
-## Details: The Law
+## Hannah Understands the Law
 
 The weighing of actions spoken of in verse 3 speaks to the very function of Law.
 Now consider its particulars. 
@@ -390,10 +396,35 @@ parents alone. God steps in alongside us and brings honor to parents by his love
 His grace made Hannah, whose name means grace, into a gracious mother who poured her heart into loving a son
 whom she could not keep. And God still honors mothers today, just as he did Hannah long ago.
 
-## Details: The Harvest
+## Hannah Understands Motherhood
+
+When you look at the whole prayer, not skipping the introduction, you also see how Hannah weaves
+in the metaphor of pregnancy. Yes, she speaks of the barren woman bearing seven, but it goes 
+beyond this one verse. If we look at the structure of the prayer, there are changes at these positions:
+
+  - between the third and fourth verses we go from oppositions to reversals
+  - in the middle of the eighth verse, between the sixth and seventh reversals, we have the interlude about the pillars of the earth
+  - the ninth and tenth verses form the final reversal, a chiasm
+
+We can compare this structure to the course of a pregnancy.
+
+  - Verse 1: My heart exults in the Lord. Hannah is overjoyed to conceive.
+  - Verses 1-3: The first trimester. These verses do not have reversals (like labor pains or baby movements). During this trimester, women cannot yet feel the baby move.
+  - Verses 4-5: The second trimester (reversals one to three). Hannah says, "the feeble bind on strength". Now she feels the baby, as the quickening comes between the 16th and 25th week, but as early as the 13th week. She feels alternately happy and "forlorn" (verse 5), as it is an emotional time.
+  - Verses 6-8a: The third trimester (reversals  four to six). Hannah says, "The Lord... brings to life."
+  - Verse 8b: Hannah gives birth to Samuel. As a great and faithful prophet, he would grow up to be one of the "pillars of the earth", "sit with princes" and "inherit a seat of honor".
+  - Verse 9: Hannah recovers during the post partum laying-in period. "He will guard the feet of his faithful ones" sounds like Samuel's father protecting his newborn son, even tickling his toes.
+  - Verse 10: Samuel grows up and fulfils his destiny. First to "judge" the people. Second, to "exalt the horn of his anointed" when he anointed two kings over Israel, Saul and David. 
+
+From this analysis, we see that Hannah has interpreted her pregnancy as giving birth to a new age for her people.
+Her son would help the nation transition from a group of tribes rules by judges to pne nation ruled by a king.
+This is the near term prophecy that we can see in her words. I overlooked this crucial, basic layer of meaning
+when I wrote my initial finding two years ago. The metaphor of pregnancy unifies the whole prayer, which
+means that if there is a second, long-term prophecy to be found here, it must also bring in the whole prayer.
+
+## A Prophetic Clock
 
 
-## Details: Growth in Wisdom
 
 
 
