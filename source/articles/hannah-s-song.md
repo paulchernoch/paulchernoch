@@ -524,9 +524,39 @@ So just as Hannah is describing the growth of a baby within, she is also prophes
 | <hr>  |               <hr/>                  |          <hr/>                       |           <hr/>                                                  |
 |   6   |      Matthew <br/> *Knowledge*       |   **Producing** <br/> (a harvest)    |  **Community** <br> tear, mend, be silent, speak                 |
 | <hr>  |               <hr/>                  |          <hr/>                       |           <hr/>                                                  |
-|   7   |  Revelation <br/> *Fear of the Lord* |   Peace                              |  **Loyalty** <br/> love, hate, war, peace                        |
+|   7   |  Revelation <br/> *Fear of the Lord* |   **Peace**                          |  **Loyalty** <br/> love, hate, war, **peace**                    |
 
 <hr/>
 
+The following table will spell out the years for each of the eleven time periods in 
+Hannah's Baby Clock, the corresponding verses and historical events that are referenced
+by the prophecy.
 
+<hr/>
 
+|  No.  |    Years      | Verses | Events                                                                                                                                                          |
+| :---: | :-----------: | :----: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <hr>  |     <hr/>     |  <hr/> |                              <hr/>                                                                                                                              |
+|  1    |  1440-1320 BC |    1   | *my horn is exalted in the Lord*: The Israelites marched around Jericho in the Book of Joshua blowing horns, ca 1407 BC.                                        |
+| <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                                                                                              |
+|  2    |  1320-1200 BC |    2   | *there is no rock like our God*: Fire miraculously came up from the rock to consume Gideon's sacrifice when the angel of the Lord visited him, ca 1201 BC.      |
+| <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                                                                                              |
+|  3    |  1200-1080 BC |    3   | *Talk no more so very proudly, let not arrogance come from your mouth*: Jephthah's rash vow cost him his daughter. "Alas, my daughter! You have brought me very low, and you have become the cause of great trouble to me. For I have opened my **mouth** to the Lord, and I cannot take back my vow." And she said to him, "My father, you have opened your **mouth** to the Lord; do to me according to what has gone out of your **mouth**..."  |
+| <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                  |
+|  4    |  1080-600 BC  |    4   |     |
+| <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                  |
+|  5    |   600-120 BC  |    5a  |     |
+| <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                  |
+|  6    | 120 BC-360 AD |    5b  |     |
+| <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                  |
+|  7    |    360-840 AD |    6   |     |
+| <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                  |
+|  8    |   840-1320 AD |    7   |     |
+| <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                  |
+|  9    |  1320-1800 AD |    8a  |     |
+| <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                  |
+|  10   |  1800-1920 BC |    8b  |     |
+| <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                  |
+|  11   |  1920-2400 BC |  9-10  |     |
+
+<hr/>
