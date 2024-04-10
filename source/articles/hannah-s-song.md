@@ -534,30 +534,48 @@ by the prophecy.
 
 <hr/>
 
-|  No.  |   Year Range  | Verses | Events                                                                                                                                                          |
-| :---: | :-----------: | :----: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <hr>  |     <hr/>     |  <hr/> |                              <hr/>                                                                                                                              |
-|  1    |  1440-1320 BC |    1   | *my **horn** is exalted in the Lord* <br/> In the Book of Joshua, the Israelites marched around <br/> the walls of Jericho blowing horns, ca 1407 BC.           |
-| <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                                                                                              |
-|  2    |  1320-1200 BC |    2   | *for there is none besides you* <br/> In Judges 5, in the story of Deborah we read *The mountains quaked before the Lord*, <br/> showing that no rock is as strong as the Lord. We also read about the terrible preceding time of anarchy, <br/> "When new gods were chosen". The people forgot that there is none beside Yahweh. <br/><br/> *there is no **rock** like our God* <br/> In Judges 6, fire miraculously came up from the rock to consume <br/> Gideon's sacrifice  when the angel of the Lord visited him, ca 1201 BC.      |
-| <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                                                                                              |
-|  3    |  1200-1080 BC |    3   | *Talk no more so very proudly, let not arrogance come from your **mouth*** <br/> Jephthah's rash vow in Judges 11 ca 1115 BC cost him his daughter.  <br/> "Alas, my daughter! You have brought me very low,  <br/> and you have become the cause of great trouble to me.  <br/> For I have opened my **mouth** to the Lord,  <br/> and I cannot take back my vow."  <br/> And she said to him, "My father, you have opened  <br/> your **mouth** to the Lord;  <br/> do to me according to what has gone out of your **mouth**..."  |
-| <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                  |
+|  No.  |   Year Range  | Verses | Events                                                                               |
+| :---: | :-----------: | :----: | :----------------------------------------------------------------------------------- |
+| <hr>  |     <hr/>     |  <hr/> |                              <hr/>                                                   |
+|  1    |  1440-1320 BC |    1   | *my **horn** is exalted in the Lord*                                                 |
+|       |               |        | In the Book of Joshua, the Israelites marched around                                 |
+|       |               |        | the walls of Jericho blowing horns, ca 1407 BC.                                      |
+| <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
+|  2    |  1320-1200 BC |    2   | *for there is none besides you*                                                      |
+|       |               |        | In Judges 5, in the story of Deborah we read *The mountains quaked before the Lord*, |
+|       |               |        | showing that no rock is as strong as the Lord. We also read about the terrible       |
+|       |               |        | preceding time of anarchy, "When new gods were chosen" (Judges 5:8).                 |
+|       |               |        | The people forgot that there is none beside Yahweh.  <br/>                           |
+|       |               |        | *there is no **rock** like our God*                                                  |
+|       |               |        | In Judges 6, fire miraculously came up from the rock to consume Gideon's sacrifice   |
+|       |               |        | when the angel of the Lord visited him, ca 1201 BC.                                  |
+| <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
+|  3    |  1200-1080 BC |    3   | *Talk no more so very proudly, let not arrogance come from your **mouth***           |
+|       |               |        | Jephthah's rash vow in Judges 11 ca 1115 BC cost him his daughter.                   |
+|       |               |        | *"Alas, my daughter! You have brought me very low,*                                  |
+|       |               |        | *and you have become the cause of great trouble to me.*                              |
+|       |               |        | *For I have opened my **mouth** to the Lord,*                                        |
+|       |               |        | *and I cannot take back my vow." *                                                   |
+|       |               |        | *And she said to him, "My father, you have opened*                                   |
+|       |               |        | *your **mouth** to the Lord; *                                                       |
+|       |               |        | *do to me according to what has gone out of your **mouth**..."*                      |
+| <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
 |  4    |  1080-600 BC  |    4   |     |
-| <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                  |
+| <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
 |  5    |   600-120 BC  |    5a  |     |
-| <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                  |
+| <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
 |  6    | 120 BC-360 AD |    5b  |     |
-| <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                  |
+| <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
 |  7    |    360-840 AD |    6   |     |
-| <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                  |
+| <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
 |  8    |   840-1320 AD |    7   |     |
-| <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                  |
+| <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
 |  9    |  1320-1800 AD |    8a  |     |
-| <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                  |
+| <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
 |  10   |  1800-1920 BC |    8b  |     |
-| <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                  |
+| <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
 |  11   |  1920-2400 BC |  9-10  |     |
+|       |               |        |                                                                                      |
 
 <hr/>
 
