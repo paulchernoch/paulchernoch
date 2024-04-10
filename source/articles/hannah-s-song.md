@@ -556,6 +556,7 @@ by the prophecy. For the seven reversals:
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
 |  3    |  1200-1080 BC |    3   | *Talk no more so very proudly, let not arrogance come from your **mouth**...*        |
 |       |               |        | Jephthah's rash vow in Judges 11 ca 1115 BC cost him his daughter.                   |
+|       |               |        |  &nbsp;                                                                              |
 |       |               |        | *"Alas, my daughter! You have brought me very low,*                                  |
 |       |               |        | *and you have become the cause of great trouble to me.*                              |
 |       |               |        | *For I have opened my **mouth** to the Lord,*                                        |
@@ -588,12 +589,31 @@ by the prophecy. For the seven reversals:
 |       |               |        |  *their sword shall enter their own heart,*                                          |
 |       |               |        |  *and their bows shall be broken.* (Psalm 37:14–15)                                  |
 |       |               |        |  &nbsp;                                                                              |
-|       |               |        |  Prophetically, the bows of Israel and Judah were broken                             |
-|       |               |        |  during this era. Josiah was killed by the Babylonians at the                        |
+|       |               |        |  Prophetically, Israel oscillated between periods of security and insecurity.        |
+|       |               |        |  the bows of Israel and Judah were broken during this era.                           |
+|       |               |        |  Israel fell to Assyria in 722 BC. Then Josiah was killed by the Babylonians at the  |
 |       |               |        |  Battle of Megiddo in 605 BC and the first wave of prisoners                         |
 |       |               |        |  were exiled. This spelled the end of Israel's security.                             |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
-|  5    |   600-120 BC  |    5a  |     |
+|  5    |   600-120 BC  |    5a  |  *Those who were full have hired themselves out for bread,*                          |
+|       |               |        |  *but those who were hungry have ceased to hunger.*                                  |
+|       |               |        |  &nbsp;                                                                              |
+|       |               |        |  **Second Reversal**: ABILITY for the impoverished.                                  |
+|       |               |        |  The impoverished often lack the skills necessary to support themselves,             |
+|       |               |        |  hence are forced as in verse 5 to “\[hire\] themselves out for bread”.              |
+|       |               |        |  They lack ability.                                                                  | 
+|       |               |        |  **Matching pillar book**: JOB                                                       |
+|       |               |        |  A person who must work for starvation wages suffers like Job.                       |
+|       |               |        |  Job confessed his inability to save himself from his troubles (in Job 6:11-13).     |
+|       |               |        |  In the Harvest pattern, Job unquestionably matches the Plowing phase of suffering.  |
+|       |               |        |  Prophetically, the Jews endured much poverty during this era.                       |
+|       |               |        |  However, during this era the Septuagint, symbolically the bread of God’s word,      |
+|       |               |        |  was completed. Jesus may have told his disciples to pray *'Give us this day*        |
+|       |               |        |  *our daily bread'*, but it was Job who first called God's Word his bread:           |
+|       |               |        |  &nbsp;                                                                              |
+|       |               |        |  *I have not departed from the commandment of his lips; *                            |
+|       |               |        |  *I have treasured the words of his mouth more than my portion of food.*             |
+|       |               |        |  - Job 23:12                                                                         |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
 |  6    | 120 BC-360 AD |    5b  |     |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
