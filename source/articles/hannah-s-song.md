@@ -530,7 +530,10 @@ So just as Hannah is describing the growth of a baby within, she is also prophes
 
 The following table will spell out the years for each of the eleven time periods in 
 Hannah's Baby Clock, the corresponding verses and historical events that are referenced
-by the prophecy.
+by the prophecy. For the seven reversals:
+
+  - the matching Growth Pattern phase will be given and tied to the passage
+  - the matching pillar book will be connected to the passage, and quoted if relevant
 
 <hr/>
 
@@ -561,14 +564,29 @@ by the prophecy.
 |       |               |        | *your **mouth** to the Lord; *                                                       |
 |       |               |        | *do to me according to what has gone out of your **mouth**..."*                      |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
-|  4    |  1080-600 BC  |    4   |     |
-|       |               |        |                                                                                      |
-|       |               |        |                                                                                      |
-|       |               |        |                                                                                      |
-|       |               |        |                                                                                      |
-|       |               |        |                                                                                      |
-|       |               |        |                                                                                      |
-|       |               |        |                                                                                      |
+|  4    |  1080-600 BC  |    4   | *The bows of the mighty are broken,*                                                 |
+|       |               |        |  *but the feeble bind on strength.*                                                  |
+|       |               |        |  First Reversal: SECURITY for the weak.                                              |
+|       |               |        |  The mighty have weapons and the feeble do not. This describes security and          |
+|       |               |        |  insecurity at their most basic.                                                     |
+|       |               |        |  Matching pillar book: PSALMS                                                        |
+|       |               |        |  A Psalm conforming to Solomon's twenty-eight times is Psalm 102:                    |
+|       |               |        |  *Of old you laid the foundation of the earth,*                                      |
+|       |               |        |  *and the heavens are the work of your hands.* (Psalm 102:25)                        |
+|       |               |        |  The first thing that a pillar needs is to be built upon a                           |
+|       |               |        |  strong foundation and this Psalm says that foundation was                           |
+|       |               |        |  laid by God. In the Harvest pattern, this is called the                             |
+|       |               |        |  Preparation phase. Psalms also speaks directly about what                           |
+|       |               |        |  will happen to “the bows of the mighty” of verse 4:                                 |
+|       |               |        |  *The wicked draw the sword and bend their bows*                                     |
+|       |               |        |  *to bring down the poor and needy,*                                                 |
+|       |               |        |  *to slay those whose way is upright;*                                               |
+|       |               |        |  *their sword shall enter their own heart,*                                          |
+|       |               |        |  *and their bows shall be broken.* (Psalm 37:14–15)                                  |
+|       |               |        |  Prophetically, the bows of Israel and Judah were broken                             |
+|       |               |        |  during this era. Josiah was killed by the Babylonians at the                        |
+|       |               |        |  Battle of Megiddo in 605 BC and the first wave of prisoners                         |
+|       |               |        |  were exiled. This spelled the end of Israel's security.                             |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
 |  5    |   600-120 BC  |    5a  |     |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
