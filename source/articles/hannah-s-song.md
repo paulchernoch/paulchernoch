@@ -622,6 +622,16 @@ by the prophecy. For the seven reversals:
 |       |               |        |  *I have not departed from the commandment of his lips;*                             |
 |       |               |        |  *I have treasured the words of his mouth more than my portion of food.*             |
 |       |               |        |  - Job 23:12                                                                         |
+|       |               |        |  &nbsp;                                                                              |
+|       |               |        |  The Septuagint was in Greek, meaning that God's words would now begin go to go      |
+|       |               |        |  out to the Gentile world, people who never had access to God's Word before, and     |
+|       |               |        |  now would cease to hunger. Sadly, the Jews, who were once full, would now for       |
+|       |               |        |  a long time hear no more from God via prophets. This fulfills the words of the      |
+|       |               |        |  prophet Amos:                                                                       |
+|       |               |        |  *“Behold, the days are coming,” declares the Lord God,*                             |
+|       |               |        |  *“when I will send a **famine** on the land— not a **famine** of bread,*            |
+|       |               |        |  *nor a thirst for water, but of hearing the words of the Lord.*                     |
+|       |               |        |  - Amos 8:11                                                                         |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
 |  6    | 120 BC-360 AD |    5b  |  *The barren has borne seven,*                                                       |
 |       |               |        |  *but she who has many children is forlorn.*                                         |
@@ -648,6 +658,9 @@ by the prophecy. For the seven reversals:
 |       |               |        |  On the flip side, the ones who had many children became                             |
 |       |               |        |  forlorn. The Romans destroyed Jerusalem twice, then lost                            |
 |       |               |        |  their empire to the growing influence of the Christians.                            |
+|       |               |        |  &nbsp;                                                                              |
+|       |               |        |  This verse also matches the sixth commandment, **Thou shalt not kill**.             |
+|       |               |        |  This was the era when they killed Jesus. Hannah didn't miss a thing.                |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
 |  7    |    360-840 AD |    6   |  *The Lord kills and brings to life;*                                                |
 |       |               |        |  *he brings down to Sheol and raises up.*                                            |
