@@ -539,7 +539,7 @@ by the prophecy.
 | <hr>  |     <hr/>     |  <hr/> |                              <hr/>                                                                                                                              |
 |  1    |  1440-1320 BC |    1   | *my **horn** is exalted in the Lord* <br/> In the Book of Joshua, the Israelites marched around <br/> the walls of Jericho blowing horns, ca 1407 BC.           |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                                                                                              |
-|  2    |  1320-1200 BC |    2   | *there is no **rock** like our God* <br/> In Judges 6, fire miraculously came up from the rock to consume <br/> Gideon's sacrifice  when the angel of the Lord visited him, ca 1201 BC.      |
+|  2    |  1320-1200 BC |    2   | *for there is none besides you* <br/> In Judges 5, in the story of Deborah we read *The mountains quaked before the Lord*, <br/> showing that no rock is as strong as the Lord. We also read about the terrible preceding time of anarchy, <br/> "When new gods were chosen". The people forgot that there is none beside Yahweh. <br/><br/> *there is no **rock** like our God* <br/> In Judges 6, fire miraculously came up from the rock to consume <br/> Gideon's sacrifice  when the angel of the Lord visited him, ca 1201 BC.      |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                                                                                              |
 |  3    |  1200-1080 BC |    3   | *Talk no more so very proudly, let not arrogance come from your **mouth*** <br/> Jephthah's rash vow in Judges 11 ca 1115 BC cost him his daughter.  <br/> "Alas, my daughter! You have brought me very low,  <br/> and you have become the cause of great trouble to me.  <br/> For I have opened my **mouth** to the Lord,  <br/> and I cannot take back my vow."  <br/> And she said to him, "My father, you have opened  <br/> your **mouth** to the Lord;  <br/> do to me according to what has gone out of your **mouth**..."  |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                  |
@@ -560,3 +560,35 @@ by the prophecy.
 |  11   |  1920-2400 BC |  9-10  |     |
 
 <hr/>
+
+When I started adding new historical connections to verses 1-3, my inner critic objected.
+There did not seem to be any connection to the themes of the prophetic clock, the law, 
+childbirth or the growth pattern. The choice of the cited passages from Joshua and Judges 
+appeared arbitrary. I merely looked for verses that included matching words or phrases.
+Then I stepped back, looked them over again and was delighted. 
+
+  - For verse 1, the conquest of Jericho would not have been possible without Rahab, the woman who protected the Israelite spies and became ancestor to David and Jesus.
+  - For verse 2, the glory for the victory over Sisera went to two women, Deborah and Jael. Because of them, it tells us that the wombs of the Israelite women were safe from being violated by their enemies.
+  - For verse 3, Jephthah the Judge makes a foolish oath that costs him his daughter. The courage, sacrifice and dignity belong to a girl whose name we never learn.
+
+The words of Jephthah's daughter are poignant:
+
+#### So she said to her father, 
+##### “Let this thing be done for me: leave me alone two months, 
+##### that I may go up and down on the mountains and weep for my virginity, 
+##### I and my companions.” 
+#### So he said, “Go.” Then he sent her away for two months, and she departed, 
+#### she and her companions, and wept for her virginity on the mountains. 
+#### And at the end of two months, she returned to her father, who did with her 
+#### according to his vow that he had made. She had never known a man, 
+#### and it became a custom in Israel that the daughters of Israel 
+#### went year by year to lament the daughter of Jephthah the Gileadite 
+#### four days in the year.
+
+Jephthah's daughter never married, never had children, never raised a family.
+Her womb was barren. By this reference to that foolish vow, Hannah joins
+with the other daughters of Israel in remembering a brave and faithful girl.
+
+Taken together, these three references to Israel's past celebrate the courage, 
+faith and dignity of its noblest women.
+
