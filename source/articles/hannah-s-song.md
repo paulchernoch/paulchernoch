@@ -541,10 +541,12 @@ by the prophecy. For the seven reversals:
 | :---: | :-----------: | :----: | :----------------------------------------------------------------------------------- |
 | <hr>  |     <hr/>     |  <hr/> |                              <hr/>                                                   |
 |  1    |  1440-1320 BC |    1   | *my **horn** is exalted in the Lord*                                                 |
+|       |               |        |  &nbsp;                                                                              |
 |       |               |        | In the Book of Joshua, the Israelites marched around                                 |
 |       |               |        | the walls of Jericho blowing horns, ca 1407 BC.                                      |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
 |  2    |  1320-1200 BC |    2   | *for there is none besides you*                                                      |
+|       |               |        |  &nbsp;                                                                              |
 |       |               |        | In Judges 5, in the story of Deborah we read *The mountains quaked before the Lord*, |
 |       |               |        | showing that no rock is as strong as the Lord. We also read about the terrible       |
 |       |               |        | preceding time of anarchy, "When new gods were chosen" (Judges 5:8).                 |
@@ -555,6 +557,7 @@ by the prophecy. For the seven reversals:
 |       |               |        | when the angel of the Lord visited him, ca 1201 BC.                                  |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
 |  3    |  1200-1080 BC |    3   | *Talk no more so very proudly, let not arrogance come from your **mouth**...*        |
+|       |               |        |  &nbsp;                                                                              |
 |       |               |        | Jephthah's rash vow in Judges 11 ca 1115 BC cost him his daughter.                   |
 |       |               |        |  &nbsp;                                                                              |
 |       |               |        | *"Alas, my daughter! You have brought me very low,*                                  |
@@ -613,8 +616,10 @@ by the prophecy. For the seven reversals:
 |       |               |        |  &nbsp;                                                                              |
 |       |               |        |  Prophetically, the Jews endured much poverty during this era.                       |
 |       |               |        |  They even faced genocide at the instigation of Haman. How was Haman stopped?        |
-|       |               |        |  Queen Esther threw a banquet. The former queen, Vashti, was now hungry, and         |
-|       |               |        |  the Jews who were to die, were filled with joy.                                     |
+|       |               |        |  Queen Esther threw a banquet, the opposite of hunger.                               |
+|       |               |        |  The former queen, Vashti, was now hungry, and the Jews who were to die,             |
+|       |               |        |  were instead filled with joy.                                                       |
+|       |               |        |  &nbsp;                                                                              |
 |       |               |        |  Also during this era, the Septuagint, symbolically the bread of God’s word,         |
 |       |               |        |  was completed. Jesus may have told his disciples to pray *'Give us this day*        |
 |       |               |        |  *our daily bread'*, but it was Job who first called God's Word his bread:           |
@@ -623,7 +628,7 @@ by the prophecy. For the seven reversals:
 |       |               |        |  *I have treasured the words of his mouth more than my portion of food.*             |
 |       |               |        |  - Job 23:12                                                                         |
 |       |               |        |  &nbsp;                                                                              |
-|       |               |        |  The Septuagint was in Greek, meaning that God's words would now begin go to go      |
+|       |               |        |  The Septuagint was in Greek, meaning that God's words would now begin to go         |
 |       |               |        |  out to the Gentile world, people who never had access to God's Word before, and     |
 |       |               |        |  now would cease to hunger. Sadly, the Jews, who were once full, would now for       |
 |       |               |        |  a long time hear no more from God via prophets. This fulfills the words of the      |
@@ -676,7 +681,20 @@ by the prophecy. For the seven reversals:
 
 <hr/>
 
-When I started adding new historical connections to verses 1-3, my inner critic objected.
+One objection to the above associations is that all times in history will display variations of these reversals.
+The answer is that the eras associated with these reversals are the ultimate, definitive examples of these
+themes.
+
+  - The creation, rise and fall of the Kingdom of Israel is the premiere event of the era of the first reversal and the most prominent subject of prophecy beside the promise of a messiah.
+  - The silencing of the prophets between the time of Malachi and the birth of John the Baptist is the distinctive feature of the second era.
+  - The birth of a new prophet to an aged, barren woman and the miraculous virgin birth of the messiah in a barren, conquered land are the principle events in the era of the third reversal, and the most significant event in all history.
+  - Enabling the powerless to *"sit with princes and inherit a seat of honor"* via representative democracy as a result of the American Revolution during the time of the sixth reversal certainly turned the world upside down.
+  - The establishment of a strong pillar, the Protestant church, in the era of the interlude, via a massive, worldwide missionary enterprise, and abolition of slavery was the most revolutionary event of that or any era.
+  - When the Lord returns to "judge the ends of the earth" as his Father "\[exalts\] the horn of his anointed" at the end of the seventh reversal, that will be the most glorious event in all of history.
+
+It is evident that Hannah's rough sketch of history touched on the most prominent features of God's plan for the ages.
+
+When I started adding new historical connections to verses 1-3, my inner critic concocted a second objection.
 There did not seem to be any connection to the themes of the prophetic clock, the law, 
 childbirth or the growth pattern. The choice of the cited passages from Joshua and Judges 
 appeared arbitrary. I merely looked for verses that included matching words or phrases.
@@ -688,6 +706,8 @@ Then I stepped back, looked them over again and was delighted.
   - For verse 4, the love of a Jewish slave girl for her enemy restored the health of a leprous Syrian general.
   - For verse 5a, the bravery and tact of Queen Esther saved the Jews.
   - For verse 5b, two women, barren Elizabeth and virgin Mary, give birth miraculously to prophets, just as Hannah did.
+
+Hannah spoke for those without a voice, for all women who have suffered in silence throughout history.
 
 The words of Jephthah's daughter are poignant:
 
