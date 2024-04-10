@@ -566,28 +566,28 @@ by the prophecy. For the seven reversals:
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
 |  4    |  1080-600 BC  |    4   | *The bows of the mighty are broken,*                                                 |
 |       |               |        | *but the feeble bind on strength.*                                                   |
-|       |               |        |                                                                                      |
+|       |               |        |  &nbsp;                                                                              |
 |       |               |        |  **First Reversal**: SECURITY for the weak.                                          |
 |       |               |        |  The mighty have weapons and the feeble do not. This describes security and          |
 |       |               |        |  insecurity at their most basic.                                                     |
 |       |               |        |  **Matching pillar book**: PSALMS                                                    |
 |       |               |        |  A Psalm conforming to Solomon's twenty-eight times is Psalm 102:                    |
-|       |               |        |                                                                                      |
+|       |               |        |  &nbsp;                                                                              |
 |       |               |        |  *Of old you laid the foundation of the earth,*                                      |
 |       |               |        |  *and the heavens are the work of your hands.* (Psalm 102:25)                        |
-|       |               |        |                                                                                      |
+|       |               |        |  &nbsp;                                                                              |
 |       |               |        |  The first thing that a pillar needs is to be built upon a                           |
 |       |               |        |  strong foundation and this Psalm says that foundation was                           |
 |       |               |        |  laid by God. In the Harvest pattern, this is called the                             |
 |       |               |        |  Preparation phase. Psalms also speaks directly about what                           |
 |       |               |        |  will happen to “the bows of the mighty” of verse 4:                                 |
-|       |               |        |                                                                                      |
+|       |               |        |  &nbsp;                                                                              |
 |       |               |        |  *The wicked draw the sword and bend their bows*                                     |
 |       |               |        |  *to bring down the poor and needy,*                                                 |
 |       |               |        |  *to slay those whose way is upright;*                                               |
 |       |               |        |  *their sword shall enter their own heart,*                                          |
 |       |               |        |  *and their bows shall be broken.* (Psalm 37:14–15)                                  |
-|       |               |        |                                                                                      |
+|       |               |        |  &nbsp;                                                                              |
 |       |               |        |  Prophetically, the bows of Israel and Judah were broken                             |
 |       |               |        |  during this era. Josiah was killed by the Babylonians at the                        |
 |       |               |        |  Battle of Megiddo in 605 BC and the first wave of prisoners                         |
