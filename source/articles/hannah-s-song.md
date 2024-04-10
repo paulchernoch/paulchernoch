@@ -594,6 +594,10 @@ by the prophecy. For the seven reversals:
 |       |               |        |  Israel fell to Assyria in 722 BC. Then Josiah was killed by the Babylonians at the  |
 |       |               |        |  Battle of Megiddo in 605 BC and the first wave of prisoners                         |
 |       |               |        |  were exiled. This spelled the end of Israel's security.                             |
+|       |               |        |  Yet in the middle of this chaos, an unnamed Jewish girl enslaved by the Syrians,    |
+|       |               |        |  loves her enemy, the man who captured her, the Syrian general Naaman.               |
+|       |               |        |  She tells him of the Prophet Elijah, who would heal this enfeebled leper            |
+|       |               |        |  that he might be strong again.                                                      |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
 |  5    |   600-120 BC  |    5a  |  *Those who were full have hired themselves out for bread,*                          |
 |       |               |        |  *but those who were hungry have ceased to hunger.*                                  |
@@ -606,18 +610,47 @@ by the prophecy. For the seven reversals:
 |       |               |        |  A person who must work for starvation wages suffers like Job.                       |
 |       |               |        |  Job confessed his inability to save himself from his troubles (in Job 6:11-13).     |
 |       |               |        |  In the Harvest pattern, Job unquestionably matches the Plowing phase of suffering.  |
+|       |               |        |  &nbsp;                                                                              |
 |       |               |        |  Prophetically, the Jews endured much poverty during this era.                       |
-|       |               |        |  However, during this era the Septuagint, symbolically the bread of God’s word,      |
+|       |               |        |  They even faced genocide at the instigation of Haman. How was Haman stopped?        |
+|       |               |        |  Queen Esther threw a banquet. The former queen, Vashti, was now hungry, and         |
+|       |               |        |  the Jews who were to die, were filled with joy.                                     |
+|       |               |        |  Also during this era, the Septuagint, symbolically the bread of God’s word,         |
 |       |               |        |  was completed. Jesus may have told his disciples to pray *'Give us this day*        |
 |       |               |        |  *our daily bread'*, but it was Job who first called God's Word his bread:           |
 |       |               |        |  &nbsp;                                                                              |
-|       |               |        |  *I have not departed from the commandment of his lips; *                            |
+|       |               |        |  *I have not departed from the commandment of his lips;*                             |
 |       |               |        |  *I have treasured the words of his mouth more than my portion of food.*             |
 |       |               |        |  - Job 23:12                                                                         |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
-|  6    | 120 BC-360 AD |    5b  |     |
+|  6    | 120 BC-360 AD |    5b  |  *The barren has borne seven,*                                                       |
+|       |               |        |  *but she who has many children is forlorn.*                                         |
+|       |               |        |  **Third Reversal**: Emotional STABILITY for the anguished.                          |
+|       |               |        |  On one trip to the temple in 1 Samuel 1:12–16, though                               |
+|       |               |        |  Hannah prayed silently, the anguish of her heart made her                           |
+|       |               |        |  lips move, thus the insensitive priest ridiculed her for being                      |
+|       |               |        |  drunk. Then by God’s grace she bore a child and knew joy.                           |
+|       |               |        |  The capsized ship of her emotions was righted and she                               |
+|       |               |        |  began to experience emotional stability.                                            |
+|       |               |        |  **Matching pillar book**: PROVERBS                                                  |
+|       |               |        |  What connects it to Proverbs? When we need a pillar to                              |
+|       |               |        |  stabilize us, our emotional life needs it most. It is in                            |
+|       |               |        |  Proverbs 9 that the Seven Pillars of Wisdom are named, so                           |
+|       |               |        |  it corresponds to Hannah’s (and our) deepest need.                                  |
+|       |               |        |  This reversal corresponds to the Planting Harvest phase.                            |
+|       |               |        |  In Hannah’s case, what was planted was the seed that                                |
+|       |               |        |  became her firstborn son.                                                           |
+|       |               |        |  &nbsp;                                                                              |
+|       |               |        |  Prophetically, this speaks of two miraculous births that                            |
+|       |               |        |  occurred in the corresponding era. Barren Elizabeth gives                           |
+|       |               |        |  birth to a great prophet in her old age, John the Baptist.                          |
+|       |               |        |  Then the virgin Mary gives birth to our savior.                                     |
+|       |               |        |  On the flip side, the ones who had many children became                             |
+|       |               |        |  forlorn. The Romans destroyed Jerusalem twice, then lost                            |
+|       |               |        |  their empire to the growing influence of the Christians.                            |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
-|  7    |    360-840 AD |    6   |     |
+|  7    |    360-840 AD |    6   |  *The Lord kills and brings to life;*                                                |
+|       |               |        |  *he brings down to Sheol and raises up.*                                            |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
 |  8    |   840-1320 AD |    7   |     |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
@@ -639,6 +672,9 @@ Then I stepped back, looked them over again and was delighted.
   - For verse 1, the conquest of Jericho would not have been possible without Rahab, the woman who protected the Israelite spies and became ancestor to David and Jesus.
   - For verse 2, the glory for the victory over Sisera went to two women, Deborah and Jael. Because of them, it tells us that the wombs of the Israelite women were safe from being violated by their enemies.
   - For verse 3, Jephthah the Judge makes a foolish oath that costs him his daughter. The courage, sacrifice and dignity belong to a girl whose name we never learn.
+  - For verse 4, the love of a Jewish slave girl for her enemy restored the health of a leprous Syrian general.
+  - For verse 5a, the bravery and tact of Queen Esther saved the Jews.
+  - For verse 5b, two women, barren Elizabeth and virgin Mary, give birth miraculously to prophets, just as Hannah did.
 
 The words of Jephthah's daughter are poignant:
 
@@ -658,6 +694,7 @@ Jephthah's daughter never married, never had children, never raised a family.
 Her womb was barren. By this reference to that foolish vow, Hannah joins
 with the other daughters of Israel in remembering a brave and faithful girl.
 
-Taken together, these three references to Israel's past celebrate the courage, 
-faith and dignity of its noblest women.
+Taken together, these references to Israel's past and future celebrate the courage, 
+faith, humility and dignity of its noblest women. 
+Truly Hannah was a prophetess in service of Lady Wisdom.
 
