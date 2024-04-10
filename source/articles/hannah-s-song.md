@@ -640,6 +640,7 @@ by the prophecy. For the seven reversals:
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
 |  6    | 120 BC-360 AD |    5b  |  *The barren has borne seven,*                                                       |
 |       |               |        |  *but she who has many children is forlorn.*                                         |
+|       |               |        |  &nbsp;                                                                              |
 |       |               |        |  **Third Reversal**: Emotional STABILITY for the anguished.                          |
 |       |               |        |  On one trip to the temple in 1 Samuel 1:12–16, though                               |
 |       |               |        |  Hannah prayed silently, the anguish of her heart made her                           |
@@ -669,6 +670,46 @@ by the prophecy. For the seven reversals:
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
 |  7    |    360-840 AD |    6   |  *The Lord kills and brings to life;*                                                |
 |       |               |        |  *he brings down to Sheol and raises up.*                                            |
+|       |               |        |  &nbsp;                                                                              |
+|       |               |        |  **Fourth Reversal**: AMITY of marriage.                                             |
+|       |               |        |  **Matching pillar book**: SONG OF SONGS                                             |
+|       |               |        |  Prophetically, the words of this reversal make sense, with                          |
+|       |               |        |  several sacks of Rome, the Plague of Justinian, the Muslim                          |
+|       |               |        |  conquests and Iconomachy. However they would seem to have                           |
+|       |               |        |  nothing to do with friendship and romance, the life growth                          |
+|       |               |        |  phase of amity. Of course, by making Rome a Christian empire                        |
+|       |               |        |  in this era via the Edict of Thessalonica in 380 AD, it was                         |
+|       |               |        |  like a marriage between church and state.                                           |
+|       |               |        |  &nbsp;                                                                              |
+|       |               |        |  A second connection is found in the conclusion of Solomon’s                         |
+|       |               |        |  great love poem:                                                                    |
+|       |               |        |  &nbsp;                                                                              |
+|       |               |        |  *Set me as a seal upon your heart,*                                                 |
+|       |               |        |  *as a seal upon your arm,*                                                          |
+|       |               |        |  *for love is strong as death,*                                                      |
+|       |               |        |  *jealousy is fierce as the grave.*                                                  |
+|       |               |        |  &nbsp;                                                                              |
+|       |               |        |  *Its flashes are flashes of fire,*                                                  |
+|       |               |        |  *the very flame of the LORD.*                                                       |
+|       |               |        |  *Many waters cannot quench love,*                                                   |
+|       |               |        |  *neither can floods drown it.*                                                      |
+|       |               |        |  &nbsp;                                                                              |
+|       |               |        |  Death and the grave are overcome by love.                                           |
+|       |               |        |  In the Harvest Pattern, the Song of Songs corresponds to                            |
+|       |               |        |  the Pouring phase, where the Holy Spirit deals with out                             |
+|       |               |        |  emotions. The poem even refers to water when it says                                |
+|       |               |        |  “Many waters cannot quench love”. It is interesting that the                        |
+|       |               |        |  twenty-eight times have two sections devoted to emotional                           |
+|       |               |        |  growth: first to master the basics, second to deploy them to                        |
+|       |               |        |  foment romance and fashion strong families.                                         |
+|       |               |        |  Each of the twenty-eight speaking parts in Song of Songs                            |
+|       |               |        |  corresponds to one of Solomon's times. The brilliance of                            |
+|       |               |        |  this love poem is that in fifteen of the times, the speaker is                      |
+|       |               |        |  speaking words or advocating actions that contradict the                            |
+|       |               |        |  corresponding time. They run exactly opposite what is                               |
+|       |               |        |  called for. That is the challenge for young people in love.                         |
+|       |               |        |  The demands of life and reason are opposite to the desires                          |
+|       |               |        |  of the heart. Unruly passions are tough to master.                                  |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
 |  8    |   840-1320 AD |    7   |     |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
@@ -706,6 +747,8 @@ Then I stepped back, looked them over again and was delighted.
   - For verse 4, the love of a Jewish slave girl for her enemy restored the health of a leprous Syrian general.
   - For verse 5a, the bravery and tact of Queen Esther saved the Jews.
   - For verse 5b, two women, barren Elizabeth and virgin Mary, give birth miraculously to prophets, just as Hannah did.
+  - For verse 8a, many notable Christian queens regnant arose to *"sit with princes and inherit a seat of honor."* They ruled Portugal, Spain, England, Austria and Russia.
+  - For verse 8b, women participated extensively in the Church's missionary enterprise. The first American woman was ordained as a minister during this era: Antoinette Brown Blackwell. Thus women began to take their places as pillars - leaders - in the church.
 
 Hannah spoke for those without a voice, for all women who have suffered in silence throughout history.
 
