@@ -545,12 +545,13 @@ by the prophecy.
 |       |               |        | In Judges 5, in the story of Deborah we read *The mountains quaked before the Lord*, |
 |       |               |        | showing that no rock is as strong as the Lord. We also read about the terrible       |
 |       |               |        | preceding time of anarchy, "When new gods were chosen" (Judges 5:8).                 |
-|       |               |        | The people forgot that there is none beside Yahweh.  <br/>                           |
+|       |               |        | The people forgot that there is none beside Yahweh.                                  |
+|       |               |        |                   <hr style="border-style: dotted;" />                               |
 |       |               |        | *there is no **rock** like our God*                                                  |
 |       |               |        | In Judges 6, fire miraculously came up from the rock to consume Gideon's sacrifice   |
 |       |               |        | when the angel of the Lord visited him, ca 1201 BC.                                  |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
-|  3    |  1200-1080 BC |    3   | *Talk no more so very proudly, let not arrogance come from your **mouth***           |
+|  3    |  1200-1080 BC |    3   | *Talk no more so very proudly, let not arrogance come from your **mouth**...*        |
 |       |               |        | Jephthah's rash vow in Judges 11 ca 1115 BC cost him his daughter.                   |
 |       |               |        | *"Alas, my daughter! You have brought me very low,*                                  |
 |       |               |        | *and you have become the cause of great trouble to me.*                              |
@@ -561,6 +562,13 @@ by the prophecy.
 |       |               |        | *do to me according to what has gone out of your **mouth**..."*                      |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
 |  4    |  1080-600 BC  |    4   |     |
+|       |               |        |                                                                                      |
+|       |               |        |                                                                                      |
+|       |               |        |                                                                                      |
+|       |               |        |                                                                                      |
+|       |               |        |                                                                                      |
+|       |               |        |                                                                                      |
+|       |               |        |                                                                                      |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
 |  5    |   600-120 BC  |    5a  |     |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
