@@ -540,10 +540,13 @@ by the prophecy. For the seven reversals:
 |  Era  |   Year Range  | Verses | Events                                                                               |
 | :---: | :-----------: | :----: | :----------------------------------------------------------------------------------- |
 | <hr>  |     <hr/>     |  <hr/> |                              <hr/>                                                   |
-|  1    |  1440-1320 BC |   v1   | *my **horn** is exalted in the Lord*                                                 |
+|  1    |  1440-1320 BC |   v1   | *My heart exults in the Lord;*                                                       |
+|       |               |        |  *my **horn** is exalted in the Lord.*                                               |
+|       |               |        |  *My mouth derides my enemies,*                                                      |
+|       |               |        |  *because I rejoice in your salvation.*                                              |
 |       |               |        |  &nbsp;                                                                              |
 |       |               |        | In the Book of Joshua, the Israelites marched around                                 |
-|       |               |        | the walls of Jericho blowing horns, ca 1407 BC.                                      |
+|       |               |        | the walls of Jericho blowing **horns**, ca 1407 BC.                                  |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
 |  2    |  1320-1200 BC |   v2   | *for there is none besides you*                                                      |
 |       |               |        |  &nbsp;                                                                              |
@@ -812,12 +815,13 @@ by the prophecy. For the seven reversals:
 The answer is that the eras associated with these reversals are the ultimate, definitive examples of these
 themes.
 
-  - The creation, rise and fall of the Kingdom of Israel is the premiere event of the era of the first reversal and the most prominent subject of prophecy beside the promise of a messiah.
-  - The silencing of the prophets between the time of Malachi and the birth of John the Baptist is the distinctive feature of the second era.
-  - The birth of a new prophet to an aged, barren woman and the miraculous virgin birth of the messiah in a barren, conquered land are the principle events in the era of the third reversal, and the most significant event in all history.
-  - Enabling the powerless to *"sit with princes and inherit a seat of honor"* via representative democracy as a result of the American Revolution during the time of the sixth reversal certainly turned the world upside down.
-  - The establishment of a strong pillar, the Protestant church, in the era of the interlude, via a massive, worldwide missionary enterprise and the abolition of slavery were the most revolutionary events of that or any era.
-  - When the Lord returns to "judge the ends of the earth" as his Father "\[exalts\] the horn of his anointed" at the end of the seventh reversal, that will be the most glorious event in all of history.
+  - **First era**. The Exodus will go down as the most obviously miraculous salvation of a people in history until CHrist comes again.
+  - **Fourth era**. The creation, rise and fall of the Kingdom of Israel is the premiere event of the era of the first reversal and the most prominent subject of prophecy beside the promise of a messiah.
+  - **Fifth era**. The silencing of the prophets between the time of Malachi and the birth of John the Baptist is the distinctive feature of the second reversal.
+  - **Sixth era**. The birth of a new prophet to an aged, barren woman and the miraculous virgin birth of the messiah in a barren, conquered land are the principle events in the era of the third reversal, and the most significant event in all history.
+  - **Ninth era**. Enabling the powerless to *"sit with princes and inherit a seat of honor"* via representative democracy as a result of the American Revolution during the time of the sixth reversal certainly turned the world upside down.
+  - **Tenth era**. The establishment of a strong pillar, the Protestant church, in the era of the interlude, via a massive, worldwide missionary enterprise and the abolition of slavery were the most revolutionary events of that or any era.
+  - **Eleventh era**. When the Lord returns to "judge the ends of the earth" as his Father "\[exalts\] the horn of his anointed" at the end of the seventh reversal, that will be the most glorious event in all of history.
 
 It is evident that Hannah's rough sketch of history touched on the most prominent features of God's plan for the ages.
 
