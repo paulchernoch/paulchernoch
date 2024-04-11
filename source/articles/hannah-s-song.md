@@ -675,11 +675,11 @@ by the prophecy. For the seven reversals:
 |       |               |        |  **Matching pillar book**: SONG OF SONGS                                             |
 |       |               |        |  Prophetically, the words of this reversal make sense, with                          |
 |       |               |        |  several sacks of Rome, the Plague of Justinian, the Muslim                          |
-|       |               |        |  conquests and Iconomachy. However they would seem to have                           |
-|       |               |        |  nothing to do with friendship and romance, the life growth                          |
-|       |               |        |  phase of amity. Of course, by making Rome a Christian empire                        |
-|       |               |        |  in this era via the Edict of Thessalonica in 380 AD, it was                         |
-|       |               |        |  like a marriage between church and state.                                           |
+|       |               |        |  conquests and Iconomachy. It includes the start of the Dark Ages, and Sheol is      |
+|       |               |        |  the realm of darkness. However they would seem to have nothing to do with           |
+|       |               |        |  friendship and romance, the life growth phase of amity.                             |
+|       |               |        |  Of course, by making Rome a Christian empire in this era via the                    |
+|       |               |        |  Edict of Thessalonica in 380 AD, it was like a marriage between church and state.   |
 |       |               |        |  &nbsp;                                                                              |
 |       |               |        |  A second connection is found in the conclusion of Solomon’s                         |
 |       |               |        |  great love poem:                                                                    |
@@ -711,7 +711,24 @@ by the prophecy. For the seven reversals:
 |       |               |        |  The demands of life and reason are opposite to the desires                          |
 |       |               |        |  of the heart. Unruly passions are tough to master.                                  |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
-|  8    |   840-1320 AD |    7   |     |
+|  8    |   840-1320 AD |    7   |  *The Lord makes poor and makes rich;*                                               |
+|  8    |   840-1320 AD |    7   |  *he brings low and he exalts.*                                                      |
+|       |               |        |  &nbsp;                                                                              |
+|       |               |        |  **Fifth Reversal**: OPPORTUNITY of wealth.                                          |
+|       |               |        |  Once again the prophetic connection is easy. The church's charitable endeavors      |
+|       |               |        |  provided a modest safety net for the poor. The Medieval Warm Period and improved    |
+|       |               |        |  farming techniques made many rich, added ten years to lifespans, and doubled the    |
+|       |               |        |  population, right up until the Great Famine of 1315–1317 brought that to a halt,    |
+|       |               |        |  laying the groundwork for the devastating Black Plague that came on its heels.      |
+|       |               |        |  **Matching pillar book**: ECCLESIASTES                                              |
+|       |               |        |  Ecclesiastes, speaks of purpose and work more than any other topic. This is the     |
+|       |               |        |  Pruning phase of the Harvest Pattern, where God faces us with opportunities,        |
+|       |               |        |  worthy and unworthy, to test us and to train us to seize the right opportunities    |
+|       |               |        |  and reject the wrong.                                                               |
+|       |               |        |  &nbsp;                                                                              |
+|       |               |        |  Concerning women. Saint Anselm elevated them in philosophical terms, while          |
+|       |               |        |  the new ideas of chivalry attempted to cause society to treat women with more       |
+|       |               |        |  respect in practical ways.                                                          |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
 |  9    |  1320-1800 AD |    8a  |     |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
