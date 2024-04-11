@@ -760,6 +760,22 @@ by the prophecy. For the seven reversals:
 |  10   |  1800-1920 BC |    8b  |  *For the pillars of the earth are the Lord's,*                                      |
 |       |               |        |  *and on them he has set the world.*                                                 |
 |       |               |        |  &nbsp;                                                                              |
+
+|       |               |        |  All of a sudden, Hannah breaks the pattern, saying something without a reversal.    |
+|       |               |        |  This is our clue that around 1800 AD, something remarkable would happen (and        |
+|       |               |        |  span a period of a different amount of time, not 480 years like the others).        |
+|       |               |        |  What does it mean to be a pillar? Revelation 3, where God offers to bless           |
+|       |               |        |  any who conquer, says *“I will make him a pillar in the temple of my God.”*         |
+|       |               |        |  This blessing was offered to the Church of Philadelphia, representing the           |
+|       |               |        |  faithful missionary church. As shown in the chapter "Seven Churches for Seven Eras" |
+|       |               |        |  in *Peace, like Solomon Never Knew*, that church was active in 1800 AD.             |
+|       |               |        |  Around this time William Carey called upon the church to dedicate itself to         |
+|       |               |        |  completing the Great Commission to take the gospel to the nations, directly         |
+|       |               |        |  quoting Matthew in his charge. Before John, before Jesus, and before Solomon,       |
+|       |               |        |  powerless Hannah prophesied when God would cause His word to go out to the          |
+|       |               |        |  whole world in power!  What is more, this was the first era in which women went out |
+|       |               |        |  as missionaries in large numbers, the first when women were ordained as ministers,  |
+|       |               |        |  and when the first American woman graduated from seminary.                          |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
 |  11   |  1920-2400 BC |  9-10  | *“He will guard the feet of his faithful ones,*                                      |
 |       |               |        |  *but the wicked shall be cut off in darkness,*                                      |
@@ -782,7 +798,7 @@ themes.
   - The silencing of the prophets between the time of Malachi and the birth of John the Baptist is the distinctive feature of the second era.
   - The birth of a new prophet to an aged, barren woman and the miraculous virgin birth of the messiah in a barren, conquered land are the principle events in the era of the third reversal, and the most significant event in all history.
   - Enabling the powerless to *"sit with princes and inherit a seat of honor"* via representative democracy as a result of the American Revolution during the time of the sixth reversal certainly turned the world upside down.
-  - The establishment of a strong pillar, the Protestant church, in the era of the interlude, via a massive, worldwide missionary enterprise, and abolition of slavery was the most revolutionary event of that or any era.
+  - The establishment of a strong pillar, the Protestant church, in the era of the interlude, via a massive, worldwide missionary enterprise and the abolition of slavery were the most revolutionary events of that or any era.
   - When the Lord returns to "judge the ends of the earth" as his Father "\[exalts\] the horn of his anointed" at the end of the seventh reversal, that will be the most glorious event in all of history.
 
 It is evident that Hannah's rough sketch of history touched on the most prominent features of God's plan for the ages.
