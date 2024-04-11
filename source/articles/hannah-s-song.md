@@ -721,12 +721,12 @@ by the prophecy. For the seven reversals:
 |       |               |        |  population, right up until the Great Famine of 1315–1317 brought that to a halt,    |
 |       |               |        |  laying the groundwork for the devastating Black Plague that came on its heels.      |
 |       |               |        |  **Matching pillar book**: ECCLESIASTES                                              |
-|       |               |        |  Ecclesiastes, speaks of purpose and work more than any other topic. This is the     |
+|       |               |        |  Ecclesiastes speaks of purpose and work more than any other topic. This is the      |
 |       |               |        |  Pruning phase of the Harvest Pattern, where God faces us with opportunities,        |
 |       |               |        |  worthy and unworthy, to test us and to train us to seize the right opportunities    |
 |       |               |        |  and reject the wrong.                                                               |
 |       |               |        |  &nbsp;                                                                              |
-|       |               |        |  Concerning women. Saint Anselm elevated them in philosophical terms, while          |
+|       |               |        |  Concerning women. Saint Anselm exalted them in philosophical terms, while           |
 |       |               |        |  the new ideas of chivalry attempted to cause society to treat women with more       |
 |       |               |        |  respect in practical ways.                                                          |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
@@ -735,6 +735,27 @@ by the prophecy. For the seven reversals:
 |       |               |        |  *to make them sit with princes*                                                     |
 |       |               |        |  *and inherit a seat of honor.*                                                      |
 |       |               |        |  &nbsp;                                                                              |
+|       |               |        |  **Sixth Reversal**: A COMMUNITY of church denominations.                            |
+|       |               |        |  **Matching pillar book**: MATTHEW                                                   |
+|       |               |        |  The connection between Hannah’s words and the life growth phase of community        |
+|       |               |        |  is clear. By lifting “the needy from the ash heap”, God improves their standing     |
+|       |               |        |  in the community, promoting equality. By making them “sit with princes and          |
+|       |               |        |  inherit a sear of honor”, the Lord goes further. Matthew is focused on the          |
+|       |               |        |  **Harvest phase** and on preparing a community of harvesters: the church.           |
+|       |               |        |  &nbsp;                                                                              |
+|       |               |        |  Prophetically, this era saw the creation of something counterintuitive.             |
+|       |               |        |  Instead of just the Roman Catholic Church, following the Reformation God            |
+|       |               |        |  created a community of churches, the many denominations. The phrasing in            |
+|       |               |        |  Hannah’s prayer is interesting. She does not say “sit as princes” but               |
+|       |               |        |  “sit with princes”. This era ended with the birth of democracy, where people        |
+|       |               |        |  who are not royal, not princes, wield the authority of princes as                   |
+|       |               |        |  democratically elected officials.                                                   |
+|       |               |        |  &nbsp;                                                                              |
+|       |               |        |  Even though the apex of Christian missionary activity would occur in the            |
+|       |               |        |  next period, this era saw the spread of the gospel to the Americas                  |
+|       |               |        |  and the creation of the first para-church overseas mission organizations.           |
+|       |               |        |  It also saw the rise of notable Christian queens regnant, accelerating God's        |
+|       |               |        |  plan to raise up women, the neediest of the needy.                                  |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
 |  10   |  1800-1920 BC |    8b  |  *For the pillars of the earth are the Lord's,*                                      |
 |       |               |        |  *and on them he has set the world.*                                                 |
