@@ -537,15 +537,15 @@ by the prophecy. For the seven reversals:
 
 <hr/>
 
-|  No.  |   Year Range  | Verses | Events                                                                               |
+|  Era  |   Year Range  | Verses | Events                                                                               |
 | :---: | :-----------: | :----: | :----------------------------------------------------------------------------------- |
 | <hr>  |     <hr/>     |  <hr/> |                              <hr/>                                                   |
-|  1    |  1440-1320 BC |    1   | *my **horn** is exalted in the Lord*                                                 |
+|  1    |  1440-1320 BC |   v1   | *my **horn** is exalted in the Lord*                                                 |
 |       |               |        |  &nbsp;                                                                              |
 |       |               |        | In the Book of Joshua, the Israelites marched around                                 |
 |       |               |        | the walls of Jericho blowing horns, ca 1407 BC.                                      |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
-|  2    |  1320-1200 BC |    2   | *for there is none besides you*                                                      |
+|  2    |  1320-1200 BC |   v2   | *for there is none besides you*                                                      |
 |       |               |        |  &nbsp;                                                                              |
 |       |               |        | In Judges 5, in the story of Deborah we read *The mountains quaked before the Lord*, |
 |       |               |        | showing that no rock is as strong as the Lord. We also read about the terrible       |
@@ -556,7 +556,7 @@ by the prophecy. For the seven reversals:
 |       |               |        | In Judges 6, fire miraculously came up from the rock to consume Gideon's sacrifice   |
 |       |               |        | when the angel of the Lord visited him, ca 1201 BC.                                  |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
-|  3    |  1200-1080 BC |    3   | *Talk no more so very proudly, let not arrogance come from your **mouth**...*        |
+|  3    |  1200-1080 BC |   v3   | *Talk no more so very proudly, let not arrogance come from your **mouth**...*        |
 |       |               |        |  &nbsp;                                                                              |
 |       |               |        | Jephthah's rash vow in Judges 11 ca 1115 BC cost him his daughter.                   |
 |       |               |        |  &nbsp;                                                                              |
@@ -568,7 +568,7 @@ by the prophecy. For the seven reversals:
 |       |               |        | *your **mouth** to the Lord; *                                                       |
 |       |               |        | *do to me according to what has gone out of your **mouth**..."*                      |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
-|  4    |  1080-600 BC  |    4   | *The bows of the mighty are broken,*                                                 |
+|  4    |  1080-600 BC  |   v4   | *The bows of the mighty are broken,*                                                 |
 |       |               |        | *but the feeble bind on strength.*                                                   |
 |       |               |        |  &nbsp;                                                                              |
 |       |               |        |  **First Reversal**: SECURITY for the weak.                                          |
@@ -602,7 +602,7 @@ by the prophecy. For the seven reversals:
 |       |               |        |  She tells him of the Prophet Elijah, who would heal this enfeebled leper            |
 |       |               |        |  that he might be strong again.                                                      |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
-|  5    |   600-120 BC  |    5a  |  *Those who were full have hired themselves out for bread,*                          |
+|  5    |   600-120 BC  |   v5a  |  *Those who were full have hired themselves out for bread,*                          |
 |       |               |        |  *but those who were hungry have ceased to hunger.*                                  |
 |       |               |        |  &nbsp;                                                                              |
 |       |               |        |  **Second Reversal**: ABILITY for the impoverished.                                  |
@@ -638,7 +638,7 @@ by the prophecy. For the seven reversals:
 |       |               |        |  *nor a thirst for water, but of hearing the words of the Lord.*                     |
 |       |               |        |  - Amos 8:11                                                                         |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
-|  6    | 120 BC-360 AD |    5b  |  *The barren has borne seven,*                                                       |
+|  6    | 120 BC-360 AD |   v5b  |  *The barren has borne seven,*                                                       |
 |       |               |        |  *but she who has many children is forlorn.*                                         |
 |       |               |        |  &nbsp;                                                                              |
 |       |               |        |  **Third Reversal**: Emotional STABILITY for the anguished.                          |
@@ -668,7 +668,7 @@ by the prophecy. For the seven reversals:
 |       |               |        |  This verse also matches the sixth commandment, **Thou shalt not kill**.             |
 |       |               |        |  This was the era when they killed Jesus. Hannah didn't miss a thing.                |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
-|  7    |    360-840 AD |    6   |  *The Lord kills and brings to life;*                                                |
+|  7    |    360-840 AD |   v6   |  *The Lord kills and brings to life;*                                                |
 |       |               |        |  *he brings down to Sheol and raises up.*                                            |
 |       |               |        |  &nbsp;                                                                              |
 |       |               |        |  **Fourth Reversal**: AMITY of marriage.                                             |
@@ -711,8 +711,8 @@ by the prophecy. For the seven reversals:
 |       |               |        |  The demands of life and reason are opposite to the desires                          |
 |       |               |        |  of the heart. Unruly passions are tough to master.                                  |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
-|  8    |   840-1320 AD |    7   |  *The Lord makes poor and makes rich;*                                               |
-|  8    |   840-1320 AD |    7   |  *he brings low and he exalts.*                                                      |
+|  8    |   840-1320 AD |   v7   |  *The Lord makes poor and makes rich;*                                               |
+|       |               |        |  *he brings low and he exalts.*                                                      |
 |       |               |        |  &nbsp;                                                                              |
 |       |               |        |  **Fifth Reversal**: OPPORTUNITY of wealth.                                          |
 |       |               |        |  Once again the prophetic connection is easy. The church's charitable endeavors      |
@@ -730,7 +730,7 @@ by the prophecy. For the seven reversals:
 |       |               |        |  the new ideas of chivalry attempted to cause society to treat women with more       |
 |       |               |        |  respect in practical ways.                                                          |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
-|  9    |  1320-1800 AD |    8a  |  *He raises up the poor from the dust;*                                              |
+|  9    |  1320-1800 AD |   v8a  |  *He raises up the poor from the dust;*                                              |
 |       |               |        |  h*e lifts the needy from the ash heap*                                              |
 |       |               |        |  *to make them sit with princes*                                                     |
 |       |               |        |  *and inherit a seat of honor.*                                                      |
@@ -757,10 +757,9 @@ by the prophecy. For the seven reversals:
 |       |               |        |  It also saw the rise of notable Christian queens regnant, accelerating God's        |
 |       |               |        |  plan to raise up women, the neediest of the needy.                                  |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
-|  10   |  1800-1920 BC |    8b  |  *For the pillars of the earth are the Lord's,*                                      |
+|  10   |  1800-1920 BC |   v8b  |  *For the pillars of the earth are the Lord's,*                                      |
 |       |               |        |  *and on them he has set the world.*                                                 |
 |       |               |        |  &nbsp;                                                                              |
-
 |       |               |        |  All of a sudden, Hannah breaks the pattern, saying something without a reversal.    |
 |       |               |        |  This is our clue that around 1800 AD, something remarkable would happen (and        |
 |       |               |        |  span a period of a different amount of time, not 480 years like the others).        |
@@ -777,7 +776,7 @@ by the prophecy. For the seven reversals:
 |       |               |        |  as missionaries in large numbers, the first when women were ordained as ministers,  |
 |       |               |        |  and when the first American woman graduated from seminary.                          |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
-|  11   |  1920-2400 BC |  9-10  | *“He will guard the feet of his faithful ones,*                                      |
+|  11   |  1920-2400 BC |  v9-10 | *“He will guard the feet of his faithful ones,*                                      |
 |       |               |        |  *but the wicked shall be cut off in darkness,*                                      |
 |       |               |        |  *for not by might shall a man prevail.*                                             |
 |       |               |        |  *The adversaries of the Lord shall be broken to pieces;*                            |
@@ -786,11 +785,30 @@ by the prophecy. For the seven reversals:
 |       |               |        |  *he will give strength to his king*                                                 |
 |       |               |        |  *and exalt the horn of his anointed.”*                                              |
 |       |               |        |  &nbsp;                                                                              |
-|       |               |        |                                                                                      |
+|       |               |        |  **Sixth Reversal**: LOYALTY to the anointed king.                                   |
+|       |               |        |  **Matching pillar book**: REVELATION                                                |
+|       |               |        |  When Hannah says, "against them he will thunder in heaven", she                     |
+|       |               |        |  uses an analogy that comes up seven times in Revelation,                            |
+|       |               |        |  and is named the voice of the seven thunders.                                       |
+|       |               |        |  &nbsp;                                                                              |
+|       |               |        |  The life growth phase of loyalty is unmistakable in Hannah’s song.                  |
+|       |               |        |  God is loyal to his faithful ones (the church) and his Son (his anointed).          |
+|       |               |        |  Hannah contrasts this in verse 10 with “The adversaries of the LORD”                |
+|       |               |        |  who demonstrate the opposite of loyalty, which is hostility.                        |
+|       |               |        |  &nbsp;                                                                              |
+|       |               |        |  Prophetically, this speaks of the time of darkness that will come at the            |
+|       |               |        |  end of time. The days of darkness were announced by Solomon three times             |
+|       |               |        |  in his final chapters. Such a time was affirmed by Jesus, who spoke of the          |
+|       |               |        |  darkness as the time when no man can work. The cutting off of the wicked            |
+|       |               |        |  is the final judgment which happens upon Christ’s return, as described              |
+|       |               |        |  potently in Revelation, but summarized by Hannah.                                   |
+
 
 <hr/>
 
-One objection to the above associations is that all times in history will display variations of these reversals.
+## Objections
+
+**Specificity**. One objection to the above associations is that all times in history will display variations of these reversals.
 The answer is that the eras associated with these reversals are the ultimate, definitive examples of these
 themes.
 
@@ -803,7 +821,54 @@ themes.
 
 It is evident that Hannah's rough sketch of history touched on the most prominent features of God's plan for the ages.
 
-When I started adding new historical connections to verses 1-3, my inner critic concocted a second objection.
+**Mismatch**. Do Hannah's two-part reversals really match Solomon's four-part pairs of reversals? 
+This is a feature of her wording that is easily overlooked. A few of Hannah's reversals are actually
+four-part, using parallelism. How do they line up?
+
+In Ecclesiastes 3, there are good times and bad times. Sometimes the "good" time comes first, sometimes last. 
+Since they come in pairs of opposites, there are four possible sequences:
+
+  - Bad to good, bad to good
+  - Bad to good, good to bad
+  - Good to bad, good to bad
+  - Good to bad, bad to good
+
+In Solomon's poem, here are how the good and bad times of the seven quartets are arranged:
+
+  1. Good, bad, good, bad
+  2. Bad, good, bad, good
+  3. Bad, good, bad, good
+  4. Bad, good, good, bad
+  5. Good, bad, good, bad
+  6. Bad, good, bad, good
+  7. Good, bad, bad, good
+
+Hannah uses parallelism in three of her reversals, the fourth, fifth and seventh.
+
+  - Fourth: Bad, good, bad, good. *The Lord kills and brings to life; he brings down to Sheol and raises up.*
+  - Fifth: Bad, good, bad, good. *The Lord makes poor and makes rich; he brings low and he exalts.*
+  - Seventh: Good, bad, bad, good. *“... guard ... his faithful ones, ... wicked ... cut off in darkness, adversaries ... broken to pieces; ... exalt ... his anointed.”*
+
+The fifth and seventh reversals in Hannah's prayer match the schema in Solomon's poem, 
+but the fourth has the sense of the third and fourth reversed. Isn't that an inconsistency?
+
+No. The negative and positive connotations found in Solomon's poem are opposite what you find
+in history. "A time to scatter stones" sounds negative, but this corresponds to the era when 
+the Church overcame Rome, in an event prophesied by Daniel:
+
+#### As you looked, a **stone** was cut out by no human hand, 
+#### and it struck the image on its feet of iron and clay, 
+#### and broke them in pieces. 
+###### - Daniel 2:34
+
+Rome was the legs and feet of the statue. Thus the scattering of stones is the shattering of this
+empire by God's people into many pieces, a very good time. Conversely, the time to gather stones is the building of the
+next beastly empire in God's series, the seventh empire of Revelation, the Islamic Caliphate.
+
+Thus in the three reversals where Hannah uses parallelism, her schema of ordering good and bad events matches the corresponding
+quartets of times in Ecclesiastes.
+
+**Theme**. When I started adding new historical connections to verses 1-3, my inner critic concocted a second objection.
 There did not seem to be any connection to the themes of the prophetic clock, the law, 
 childbirth or the growth pattern. The choice of the cited passages from Joshua and Judges 
 appeared arbitrary. I merely looked for verses that included matching words or phrases.
@@ -817,6 +882,8 @@ Then I stepped back, looked them over again and was delighted.
   - For verse 5b, two women, barren Elizabeth and virgin Mary, give birth miraculously to prophets, just as Hannah did.
   - For verse 8a, many notable Christian queens regnant arose to *"sit with princes and inherit a seat of honor."* They ruled Portugal, Spain, England, Austria and Russia.
   - For verse 8b, women participated extensively in the Church's missionary enterprise. The first American woman was ordained as a minister during this era: Antoinette Brown Blackwell. Thus women began to take their places as pillars - leaders - in the church.
+
+## A Voice for Women
 
 Hannah spoke for those without a voice, for all women who have suffered in silence throughout history.
 
