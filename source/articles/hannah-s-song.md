@@ -729,6 +729,11 @@ by the prophecy. For the seven reversals:
 |       |               |        |  worthy and unworthy, to test us and to train us to seize the right opportunities    |
 |       |               |        |  and reject the wrong.                                                               |
 |       |               |        |  &nbsp;                                                                              |
+|       |               |        |  The Second Council of Lyon (1274) recognized four main mendicant orders:            |
+|       |               |        |  the Order of Friars Minor, Carmelites, Order of Preachers, and Augustinians.        |
+|       |               |        |  A leader among them was Saint Francis of Assisi, one whom the Lord made poor        |
+|       |               |        |  through the devotion of voluntary poverty.                                          |
+|       |               |        |  &nbsp;                                                                              |
 |       |               |        |  Concerning women. Saint Anselm exalted them in philosophical terms, while           |
 |       |               |        |  the new ideas of chivalry attempted to cause society to treat women with more       |
 |       |               |        |  respect in practical ways.                                                          |
@@ -815,13 +820,14 @@ by the prophecy. For the seven reversals:
 The answer is that the eras associated with these reversals are the ultimate, definitive examples of these
 themes.
 
-  - **First era**. The Exodus will go down as the most obviously miraculous salvation of a people in history until CHrist comes again.
+  - **First era**. The Exodus will go down as the most obviously miraculous salvation of a people in history until Christ comes again.
   - **Fourth era**. The creation, rise and fall of the Kingdom of Israel is the premiere event of the era of the first reversal and the most prominent subject of prophecy beside the promise of a messiah.
-  - **Fifth era**. The silencing of the prophets between the time of Malachi and the birth of John the Baptist is the distinctive feature of the second reversal.
-  - **Sixth era**. The birth of a new prophet to an aged, barren woman and the miraculous virgin birth of the messiah in a barren, conquered land are the principle events in the era of the third reversal, and the most significant event in all history.
-  - **Ninth era**. Enabling the powerless to *"sit with princes and inherit a seat of honor"* via representative democracy as a result of the American Revolution during the time of the sixth reversal certainly turned the world upside down.
-  - **Tenth era**. The establishment of a strong pillar, the Protestant church, in the era of the interlude, via a massive, worldwide missionary enterprise and the abolition of slavery were the most revolutionary events of that or any era.
-  - **Eleventh era**. When the Lord returns to "judge the ends of the earth" as his Father "\[exalts\] the horn of his anointed" at the end of the seventh reversal, that will be the most glorious event in all of history.
+  - **Fifth era**. The silencing of the prophets between the time of Malachi and the birth of John the Baptist is the distinctive feature of the **second reversal**.
+  - **Sixth era**. The birth of a new prophet to an aged, barren woman and the miraculous virgin birth of the messiah in a barren, conquered land are the principle events in the era of the **third reversal**, and the most significant event in all history.
+  - **Eighth era**. Through his vow of poverty in this **fifth reversal**, Saint Francis led the way for people to renounce worldly wealth for the kingdom of God.
+  - **Ninth era**. Enabling the powerless to *"sit with princes and inherit a seat of honor"* via representative democracy as a result of the American Revolution during the time of the **sixth reversal** certainly turned the world upside down.
+  - **Tenth era**. The establishment of a strong pillar, the Protestant church, in the era of the **interlude**, via a massive, worldwide missionary enterprise and the abolition of slavery were the most revolutionary events of that or any era.
+  - **Eleventh era**. When the Lord returns to "judge the ends of the earth" as his Father "\[exalts\] the horn of his anointed" at the end of the **seventh reversal**, that will be the most glorious event in all of history.
 
 It is evident that Hannah's rough sketch of history touched on the most prominent features of God's plan for the ages.
 
