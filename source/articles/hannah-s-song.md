@@ -730,9 +730,13 @@ by the prophecy. For the seven reversals:
 |       |               |        |  the new ideas of chivalry attempted to cause society to treat women with more       |
 |       |               |        |  respect in practical ways.                                                          |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
-|  9    |  1320-1800 AD |    8a  |     |
+|  9    |  1320-1800 AD |    8a  |  *He raises up the poor from the dust;*                                              |
+|       |               |        |  h*e lifts the needy from the ash heap*                                              |
+|       |               |        |  *to make them sit with princes*                                                     |
+|       |               |        |  *and inherit a seat of honor.*                                                      |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
-|  10   |  1800-1920 BC |    8b  |     |
+|  10   |  1800-1920 BC |    8b  |  *For the pillars of the earth are the Lord's,*                                      |
+|       |               |        |  *and on them he has set the world.*                                                 |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
 |  11   |  1920-2400 BC |  9-10  |     |
 |       |               |        |                                                                                      |
