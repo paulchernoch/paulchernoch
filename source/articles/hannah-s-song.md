@@ -734,11 +734,21 @@ by the prophecy. For the seven reversals:
 |       |               |        |  h*e lifts the needy from the ash heap*                                              |
 |       |               |        |  *to make them sit with princes*                                                     |
 |       |               |        |  *and inherit a seat of honor.*                                                      |
+|       |               |        |  &nbsp;                                                                              |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
 |  10   |  1800-1920 BC |    8b  |  *For the pillars of the earth are the Lord's,*                                      |
 |       |               |        |  *and on them he has set the world.*                                                 |
+|       |               |        |  &nbsp;                                                                              |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
-|  11   |  1920-2400 BC |  9-10  |     |
+|  11   |  1920-2400 BC |  9-10  | *“He will guard the feet of his faithful ones,*                                      |
+|       |               |        |  *but the wicked shall be cut off in darkness,*                                      |
+|       |               |        |  *for not by might shall a man prevail.*                                             |
+|       |               |        |  *The adversaries of the Lord shall be broken to pieces;*                            |
+|       |               |        |  *against them he will thunder in heaven.*                                           |
+|       |               |        |  *The Lord will judge the ends of the earth;*                                        |
+|       |               |        |  *he will give strength to his king*                                                 |
+|       |               |        |  *and exalt the horn of his anointed.”*                                              |
+|       |               |        |  &nbsp;                                                                              |
 |       |               |        |                                                                                      |
 
 <hr/>
