@@ -889,7 +889,7 @@ appeared arbitrary. I merely looked for verses that included matching words or p
 Then I stepped back, looked them over again and was delighted. 
 
   - For verse 1, the conquest of Jericho would not have been possible without Rahab, the woman who protected the Israelite spies and became ancestor to David and Jesus.
-  - For verse 2, the glory for the victory over Sisera went to two women, Deborah and Jael. Because of them, it tells us that the wombs of the Israelite women were safe from being violated by their enemies.
+  - For verse 2, the glory for the victory over Sisera went to two women, Deborah and Jael. Because of them, it tells us that the wombs of the Israelite women were safe from being violated by their enemies. (See Judges 5:30)
   - For verse 3, Jephthah the Judge makes a foolish oath that costs him his daughter. The courage, sacrifice and dignity belong to a girl whose name we never learn.
   - For verse 4, the love of a Jewish slave girl for her enemy restored the health of a leprous Syrian general.
   - For verse 5a, the bravery and tact of Queen Esther saved the Jews.
