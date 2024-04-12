@@ -1005,7 +1005,7 @@ Hannah offered her son to serve in the temple, but Mary was called upon to make 
 Hannah prophesied the coming of the messiah, but Mary gave him life, nursed him, taught him, protected him and told him when 
 it was time for his ministry to begin.
 
-You may decide whom you think was the wisest woman ever to live,  but I think the answer is clear.
+You may decide whom you think was the wisest woman ever to live, but I think the answer is clear.
 
 
 
