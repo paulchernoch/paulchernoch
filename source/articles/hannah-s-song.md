@@ -703,7 +703,7 @@ by the prophecy. For the seven reversals:
 |       |               |        |  &nbsp;                                                                              |
 |       |               |        |  Death and the grave are overcome by love.                                           |
 |       |               |        |  In the Harvest Pattern, the Song of Songs corresponds to                            |
-|       |               |        |  the Pouring phase, where the Holy Spirit deals with out                             |
+|       |               |        |  the Pouring phase, where the Holy Spirit deals with our                             |
 |       |               |        |  emotions. The poem even refers to water when it says                                |
 |       |               |        |  “Many waters cannot quench love”. It is interesting that the                        |
 |       |               |        |  twenty-eight times have two sections devoted to emotional                           |
@@ -734,9 +734,9 @@ by the prophecy. For the seven reversals:
 |       |               |        |  and reject the wrong.                                                               |
 |       |               |        |  &nbsp;                                                                              |
 |       |               |        |  The Second Council of Lyon (1274) recognized four main mendicant orders:            |
-|       |               |        |  the Order of Friars Minor, Carmelites, Order of Preachers, and Augustinians.        |
-|       |               |        |  A leader among them was Saint Francis of Assisi, one whom the Lord made poor        |
-|       |               |        |  through the devotion of voluntary poverty.                                          |
+|       |               |        |  the Order of Friars Minor (aka Franciscans), Carmelites, Order of Preachers,        |
+|       |               |        |  and Augustinians. A leader among them was Saint Francis of Assisi, one whom the     |
+|       |               |        |  Lord made poor through the devotion of voluntary poverty.                           |
 |       |               |        |  &nbsp;                                                                              |
 |       |               |        |  Concerning women. Saint Anselm exalted them in philosophical terms, while           |
 |       |               |        |  the new ideas of chivalry attempted to cause society to treat women with more       |
@@ -797,7 +797,7 @@ by the prophecy. For the seven reversals:
 |       |               |        |  *he will give strength to his king*                                                 |
 |       |               |        |  *and exalt the horn of his anointed.”*                                              |
 |       |               |        |  &nbsp;                                                                              |
-|       |               |        |  **Sixth Reversal**: LOYALTY to the anointed king.                                   |
+|       |               |        |  **Seventh Reversal**: LOYALTY to the anointed king.                                 |
 |       |               |        |  **Matching pillar book**: REVELATION                                                |
 |       |               |        |  When Hannah says, "against them he will thunder in heaven", she                     |
 |       |               |        |  uses an analogy that comes up seven times in Revelation,                            |
