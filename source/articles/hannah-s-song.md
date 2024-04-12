@@ -13,8 +13,8 @@ subject of God's wisdom, hers may be the most profound.
 
 Everyone wants to be the greatest. Yet how can you become the greatest at something unless 
 you know who holds the current title? That is why we keep lists. The Guinness Book of World Records
-is the bible for people of ambition. The Holy Bible tells us that Solomon was the wisest man who every lived 
-(besides Jesus, according to Matthew 12:42). Good luck beating him out!
+is the bible for people of ambition. We Christians have our own Bible, which tells us that Solomon 
+was the wisest man who every lived (besides Jesus, according to Matthew 12:42). Good luck beating him out!
 
 Isn't it curious that the Bible never tells us who was the wisest woman of all time? 
 We have the words of Lady Wisdom in Proverbs, but she is not a real person (or so we think). 
@@ -102,10 +102,12 @@ but at the last minute was given a ram to exchange for the life of his son.
 Hannah actually gave away her firstborn son. In my book, her faith was every bit as great as
 that of Abraham's.
 
-In her prayer, Hannah, like Job, longs to be heard by God. In *Job Rises: Thirteen Keys to a Resilient Life*, I catalogued the many ways that a person can communicate with God
+In her prayer, Hannah, like Job, longs to be heard by God. In *Job Rises: Thirteen Keys to a Resilient Life*, 
+I catalogued the many ways that a person can communicate with God
 or God talk back in response. Two powerful ways are suffering and sacrifice.
 **Suffering** is one way that God communicates great wisdom to us, but it only works if you
-retain your faith; only by faith can you hear what God is saying. **Sacrifice** is one way that we speak to God. It demonstrates our loyalty, resolve and sincerity.
+retain your faith; only by faith can you hear what God is saying. **Sacrifice** is one way that we speak to God. 
+It demonstrates our loyalty, resolve and sincerity.
 
 Hannah went above and beyond. I would not have understood this about Hannah had I not had my own
 miraculous experience of healing with God. Just as God sealed up Hannah's womb,
@@ -169,7 +171,7 @@ A suffering, faithful Christian is like a broken jar of perfume; they fill the
 whole house with their aroma. It was this insight, learned by Janet's example,
 that unlocked a huge part of the book of Job for me. It solved the mystery
 of whether Elihu spoke for God or himself. You see Job was another broken jar 
-of perfume. The Holy Spirit poured out of him and into Elihu, enabling him to
+of perfume. The Holy Spirit poured out of Job and into Elihu, enabling Elihu to
 prophecy the truths that would comfort Job.
 
 #### For I am full of words;
@@ -322,7 +324,8 @@ deeper meaning tumbled out.
   - The prayer has ten verses. Each verse matches its corresponding commandment ala the Law Pattern, and in one case, matching Exodus plague. (I did not notice that concordance until I wrote this article.)
   - The seven reversals match the seven phases of the Solomon's Growth Pattern. The name of the growth phase is the first word after the colon in the label for each reversal.
   - The seven reversals also match the seven phases of Jesus' Harvest Pattern. The name of the Harvest Phase follows the ampersand in each reversal label.
-  - The seven reversals also correspond to seven eras of history, each lasting 480 years, beginning with the dedication of the Temple in Jerusalem in 960 BC. They prophesy an important event in each era.
+  - The seven reversals also correspond to seven eras of history, each lasting 480 years, beginning with Samuel's birth ca 1080 BC. They prophesy an important event in each era.
+  - The interlude corresponds to an eighth era of history lasting 120 years, an era that saw a marked improvement in the lot of women.
 
 The three patterns, Harvest, Law and Growth, show up twice. First they are identified in the
 introduction, then laid out in detail in the reversals (or in the case of the Law pattern, the entire prayer). 
@@ -333,7 +336,8 @@ or sending disciples out with the Great Commission, Jesus is all about bringing 
 harvest of souls. He is the savior and this verse tells us that the savior and his
 Harvest Pattern are here.
 
-**The Law.** Verse 2 says, "There is no rock like our God." The Law is the foundation of Lady Wisdom's House, the bedrock which protects it from the storm. The Ten Commandments were 
+**The Law.** Verse 2 says, "There is no rock like our God." The Law is the foundation of Lady Wisdom's House, 
+the bedrock which protects it from the storm. The Ten Commandments were 
 carved upon tablets of stone. Then there are the words "there is none besides you". 
 This echoes the commandment in Exodus 20:3, which says, "You shall have no other gods before me."
 This tells us that the Law Pattern is here.
@@ -1005,8 +1009,8 @@ Hannah offered her son to serve in the temple, but Mary was called upon to make 
 Hannah prophesied the coming of the messiah, but Mary gave him life, nursed him, taught him, protected him and told him when 
 it was time for his ministry to begin.
 
-You may decide whom you think was the wisest woman ever to live, but I think the answer is clear.
-
+You may decide whom you think was the wisest woman ever to live, but I think the answer is clear. 
+What do you thing? Can we get the Guinness Book people to rule on it?
 
 
 
