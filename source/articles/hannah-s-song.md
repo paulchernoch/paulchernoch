@@ -831,9 +831,9 @@ themes.
   - **Eighth era**. Through his vow of poverty in this **fifth reversal**, Saint Francis of Assisi embraced the life of one whom *"the Lord makes poor"* and led the way for people to renounce worldly wealth for the kingdom of God.
   - **Ninth era**. Enabling the powerless to *"sit with princes and inherit a seat of honor"* via representative democracy as a result of the American Revolution during the time of the **sixth reversal** certainly turned the world upside down.
   - **Tenth era**. The establishment of many *"strong pillars of the earth"*, the Protestant churches, in the era of the **interlude**, via a massive, worldwide missionary enterprise and the abolition of slavery were the most revolutionary events of that or any era.
-  - **Eleventh era**. When the Lord returns to "judge the ends of the earth" as his Father "\[exalts\] the horn of his anointed" at the end of the **seventh reversal**, that will be the most glorious event in all of history.
+  - **Eleventh era**. When the Lord returns to *"judge the ends of the earth"* as his Father *"\[exalts\] the horn of his anointed"* at the end of the **seventh reversal**, that will be the most glorious event in all of history.
 
-It is evident that Hannah's rough sketch of history touched on the most prominent features of God's plan for the ages.
+It is evident that Hannah's rough sketch of history touches on the most prominent features of God's plan for the ages.
 
 **Mismatch**. Do Hannah's two-part reversals really match Solomon's four-part pairs of reversals? 
 This is a feature of her wording that is easily overlooked. A few of Hannah's reversals are actually
@@ -882,7 +882,7 @@ next beastly empire in God's series, the seventh empire of Revelation, the Islam
 Thus in the three reversals where Hannah uses parallelism, her schema of ordering good and bad events matches the corresponding
 quartets of times in Ecclesiastes.
 
-**Theme**. When I started adding new historical connections to verses 1-3, my inner critic concocted a second objection.
+**Theme**. When I started adding new historical connections to verses 1-3, my inner critic concocted a another objection.
 There did not seem to be any connection to the themes of the prophetic clock, the law, 
 childbirth or the growth pattern. The choice of the cited passages from Joshua and Judges 
 appeared arbitrary. I merely looked for verses that included matching words or phrases.
