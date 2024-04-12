@@ -387,7 +387,7 @@ Now consider its particulars.
 
 <hr/>
 
-When it occurred to me check whether the commandments line up with Hannah's prayer, I expected to not find a match.
+When it occurred to me to check whether the commandments line up with Hannah's prayer, I expected to not find a match.
 A quick internet search did not turn up anyone else making this connection.
 What are the odds that something so strikingly simple as this for the structure of her speech has never been seen before?
 I spent hours analyzing this prayer a few years ago and never spotted it. How happy am I that God showed this to me!
@@ -463,17 +463,17 @@ I concluded then that there were eight periods. If we now add in the first three
 
 **Duration of Periods.** Now in Ecclesiastes, Solomon used fourteen pairs of opposites. 
 Such opposites resemble the reversals in Hannah's prayer.
-But because the interlude does not have a reversal, it seemed right to make it a different length of time from the rest.
+However, because the interlude does not have a reversal, it seemed right to make it a different length of time from the rest.
 If Samuel was born about 1080 BC, then if the extra period for the pillar is 120 years, not 480 years as for the 
 reversals, the end of this clock would synchronize with the end of Solomon's clock.
 It turns out that this extra 120 era is one of the most eventful eras in the history of the church: 
 the missionary era of 1800-1920 AD, when the abolition movement began to root out slavery and 
-women began to be granted more rights, including the right to own property separate from her husband (1848 AD) 
-and the right to vote (1920 AD).
+women began to be granted more rights, including the right to own property separate from their husbands 
+(starting with New York State in 1848 AD) and the right to vote (1920 AD).
 
 It fits. If we also make the first three verses into shorter periods of 120 years, they also fit.
 
-There is a good subjective reason whey the periods that are parts of reversals last longer than the others.
+There is a good subjective reason why the periods that are parts of reversals last longer than the others.
 Once that baby starts kicking, those months seem to drag on forever!
 
 **Clock Definition**. To summarize, we have a prophetic clock with these broad features:
@@ -558,7 +558,7 @@ by the prophecy. For the seven reversals:
 |       |               |        | showing that no rock is as strong as the Lord. We also read about the terrible       |
 |       |               |        | preceding time of anarchy, "When new gods were chosen" (Judges 5:8).                 |
 |       |               |        | The people forgot that there is none beside Yahweh.                                  |
-|       |               |        |                   <hr style="border-style: dotted;" />                               |
+|       |               |        |  &nbsp;                                                                              |
 |       |               |        | *there is no **rock** like our God*                                                  |
 |       |               |        | In Judges 6, fire miraculously came up from the rock to consume Gideon's sacrifice   |
 |       |               |        | when the angel of the Lord visited him, ca 1201 BC.                                  |
