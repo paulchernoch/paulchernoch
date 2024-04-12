@@ -919,3 +919,95 @@ Taken together, these references to Israel's past and future celebrate the coura
 faith, humility and dignity of its noblest women. 
 Truly Hannah was a prophetess in service of Lady Wisdom.
 
+## Wiser than Hannah?
+
+Is there a woman in the Bible who was wiser than Hannah? 
+
+By direct Biblical statements, no. By logic and inference, maybe. To investigate this question, 
+we need to know the sources of wisdom. Then we can compare those sources to the life stories of people
+to see who both had access to superior sources of wisdom and availed themselves of that wisdom.
+If we assume that all wisdom comes from God, that means all human wisdom arises via communication
+between humans and God, whether directly or through intermediaries, like wise parents, the written Word, or angels.
+
+In *Job Rises*, I catalogued over a dozen ways that people can legitimately communicate with God that Job 
+either personally practiced or was aware of. To those we may add being taught in person by the incarnate Jesus,
+which Job could not experience but which the Apostles could and did. Of these many means of communication,
+some are more associated with wisdom than others. Here are the principal means associated with some Biblical figures.
+
+  - For Job, it was words about God taught to him by his parents and wise elders, things learned from his suffering and theophany (hearing God speak directly).
+  - For Hannah, it was prayer, suffering and sacrifice, for she sacrificed her firstborn son, Samuel.
+  - For Solomon, it was prayer (for God directly granted him wisdom after he prayed for it), dreams (for that prayer was uttered while in a dream), and sacrifice.
+  - For Daniel, it was suffering, as he endured the lion's den, dreams, careful study of the words of the prophets, and angelic visitation.
+  - For the Apostles, is was being taught directly by Jesus, but also visions, such as the ones seen by Peter (concerning Cornelius), John (which gave us Revelation) and Paul (on the Damascus road).
+
+One feature that all these people had in common was respect for godly parents or elders. Solomon was raised by David. 
+Jewish tradition holds that David used his acrostic poems, like Psalm 119, to teach Solomon his ABC's. 
+The Book of Proverbs is structured as a father's advice to his son, but also has a chapter with a mother's advice to 
+her son, King Lemuel. Likewise, Daniel would not have acted as he did in the land of captivity had not his parents taught 
+him the Law and Jewish customs.
+
+The importance of enduring suffering was illustrated by Job and affirmed by Solomon:
+
+#### The heart of the wise is in the house of mourning, 
+#### but the heart of fools is in the house of mirth.
+#### - Ecclesiastes 7:4
+
+From these exemplars, is seems that the most important sources of wisdom are:
+
+  - direct, new revelations from God (angelic visitation, theophany, or walking with Jesus)
+  - suffering and voluntary sacrifice
+  - prayer
+  - careful attention to God's previous revelations (the Bible)
+
+It is difficult to order them from most to least important. The greater, more information rich sources are generally 
+only open to those who endure suffering and make great sacrifices. Solomon's example is peculiar. 
+His wisdom sprang from respecting his father, King David, and offering a great sacrifice (at the temple dedication), 
+but not his own suffering. His wisdom depended more upon God's grace than anything else. Thus I would
+say that God's unilateral, unconditional grace is the first and greatest source of wisdom.
+
+With these criteria in hand, we can make a determination. Who was counseled by prophets? 
+Who spoke with angels? Who walked with Jesus? Who endured great suffering, was persecuted by kings, 
+forced into exile, and endured the scorn of neighbors? Who mourned a loss greater than any other person in history 
+besides Jesus? Who "found favor with God"?
+
+The Blessed Virgin Mary.
+
+#### And Simeon blessed them and said to Mary his mother, 
+##### “Behold, this child is appointed for the fall and rising 
+##### of many in Israel, and for a sign that is opposed 
+##### (**and a sword will pierce through your own soul also**), 
+##### so that thoughts from many hearts may be revealed.”
+###### - Luke 2:34-35
+
+The sword that pierced Mary was watching her Son be executed on the cross,
+seeing the spear pierce his side and his blood pour upon the dirt.
+In Jesus are hidden all the treasures of wisdom and knowledge. 
+As the infinitely holy God and savior of mankind, Jesus is the most precious 
+man in the universe. No other mother in all of history ever lost a child of infinite value.
+
+  - If suffering produces wisdom in the faithful, no other woman could ever receive as much wisdom from that source as Mary did.
+  - If obedience produces wisdom, no other woman was ever called upon to obey such a strange command as to bear a child for God.
+  - If accepting the words of the prophets produces wisdom, they warned her about what would come and she remained steadfast.
+  - If heeding the advice of angels produces wisdom, she (and Joseph) listened and went into exile, then returned, like Abraham who left his country for God.
+  - If walking with Jesus and hearing his teachings produces wisdom, Mary was there not for three years but for his whole earthly life.
+  - If God's unmerited grace produces wisdom, then we have this:
+
+#### “My soul magnifies the Lord,
+##### and my spirit rejoices in God my Savior,
+###### for he has looked on the humble estate of his servant.
+#### For behold, from now on **all generations will call me blessed**;
+##### for he who is mighty has done great things for me,
+###### and holy is his name.
+###### - Luke 1:46-49
+
+Hannah offered her son to serve in the temple, but Mary was called upon to make a much greater sacrifice.
+
+Hannah prophesied the coming of the messiah, but Mary gave him life, nursed him, taught him, protected him and told him when 
+it was time for his ministry to begin.
+
+You may decide whom you think was the wisest woman ever to live,  but I think the answer is clear.
+
+
+
+
+
