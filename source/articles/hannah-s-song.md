@@ -837,7 +837,7 @@ It is evident that Hannah's rough sketch of history touches on the most prominen
 
 **Mismatch**. Do Hannah's two-part reversals really match Solomon's four-part pairs of reversals? 
 This is a feature of her wording that is easily overlooked. A few of Hannah's reversals are actually
-four-part, using parallelism. How do they line up?
+four-part, using parallelism. How do hers line up against Solomon's?
 
 In Ecclesiastes 3, there are good times and bad times. Sometimes the "good" time comes first, sometimes last. 
 Since they come in pairs of opposites, there are four possible sequences:
