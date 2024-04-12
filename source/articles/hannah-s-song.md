@@ -828,9 +828,9 @@ themes.
   - **Fourth era**. The creation, rise and fall of the Kingdom of Israel is the premiere event of the era of the first reversal and the most prominent subject of prophecy beside the promise of a messiah.
   - **Fifth era**. The silencing of the prophets between the time of Malachi and the birth of John the Baptist is the distinctive feature of the **second reversal**.
   - **Sixth era**. The birth of a new prophet to an aged, barren woman and the miraculous virgin birth of the messiah in a barren, conquered land are the principle events in the era of the **third reversal**, and the most significant event in all history.
-  - **Eighth era**. Through his vow of poverty in this **fifth reversal**, Saint Francis led the way for people to renounce worldly wealth for the kingdom of God.
+  - **Eighth era**. Through his vow of poverty in this **fifth reversal**, Saint Francis of Assisi embraced the life of one whom *"the Lord makes poor"* and led the way for people to renounce worldly wealth for the kingdom of God.
   - **Ninth era**. Enabling the powerless to *"sit with princes and inherit a seat of honor"* via representative democracy as a result of the American Revolution during the time of the **sixth reversal** certainly turned the world upside down.
-  - **Tenth era**. The establishment of a strong pillar, the Protestant church, in the era of the **interlude**, via a massive, worldwide missionary enterprise and the abolition of slavery were the most revolutionary events of that or any era.
+  - **Tenth era**. The establishment of many *"strong pillars of the earth"*, the Protestant churches, in the era of the **interlude**, via a massive, worldwide missionary enterprise and the abolition of slavery were the most revolutionary events of that or any era.
   - **Eleventh era**. When the Lord returns to "judge the ends of the earth" as his Father "\[exalts\] the horn of his anointed" at the end of the **seventh reversal**, that will be the most glorious event in all of history.
 
 It is evident that Hannah's rough sketch of history touched on the most prominent features of God's plan for the ages.
