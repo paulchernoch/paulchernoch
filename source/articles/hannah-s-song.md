@@ -743,7 +743,7 @@ by the prophecy. For the seven reversals:
 |       |               |        |  respect in practical ways.                                                          |
 | <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
 |  9    |  1320-1800 AD |   v8a  |  *He raises up the poor from the dust;*                                              |
-|       |               |        |  h*e lifts the needy from the ash heap*                                              |
+|       |               |        |  *he lifts the needy from the ash heap*                                              |
 |       |               |        |  *to make them sit with princes*                                                     |
 |       |               |        |  *and inherit a seat of honor.*                                                      |
 |       |               |        |  &nbsp;                                                                              |
@@ -880,7 +880,14 @@ empire by God's people into many pieces, a very good time. Conversely, the time 
 next beastly empire in God's series, the seventh empire of Revelation, the Islamic Caliphate.
 
 Thus in the three reversals where Hannah uses parallelism, her schema of ordering good and bad events matches the corresponding
-quartets of times in Ecclesiastes.
+quartets of times in Ecclesiastes. What about the pairs? Do the orderings of the pairs divide history appropriately? 
+The most important pair is the third reversal, *"The barren has borne seven, but she who has many children is forlorn."*
+In that reversal the order is "good to bad". If we divide the period in two, the 240 years of the first half runs from 120 BC to 120 AD,
+when Jesus was born, lived, taught and died for our sins. That is very good and matches the miraculous birth of Hannah's words.
+The second half runs from 120 to 360 AD. The forlorn of that era are the Romans, who despite heavy persecution of the Christians,
+saw their own emperor Constantine embrace the new faith. Considered this way, Hannah's clock situates the birth of Christ 
+to within a generation; that event fell less than a decade from the midpoint of that period from 120 BC to 120 AD. 
+Her words were precise. That is wisdom.
 
 **Theme**. When I started adding new historical connections to verses 1-3, my inner critic concocted a another objection.
 There did not seem to be any connection to the themes of the prophetic clock, the law, 
@@ -1012,6 +1019,77 @@ it was time for his ministry to begin.
 You may decide whom you think was the wisest woman ever to live, but I think the answer is clear. 
 What do you thing? Can we get the Guinness Book people to rule on it?
 
+## What will Tomorrow Bring?
 
+Hannah nailed the past. Her words qualitatively and quantitatively mapped out important events in salvation history. 
+According to the schema that governs her prophecy, when do we live? 
+Ours is the era of the seventh reversal and the ninth and tenth commandments. 
+This is the Loyalty phase of Solomon's Growth Pattern.
+
+We live at the close of "a time to love". "A time to hate" is knocking on the door, with "a time for war" and 
+"a time for peace" to follow. That means a time of great persecution against Christians, Jews and lovers of the truth
+is almost here. Already, crowds of Hamas supporters march in cities across the globe calling for a new Holocaust 
+against the Jews. How will events unfold? Hannah's prayer spells things out, phrase by phrase, in verses 9 and 10.
+
+### A TIME TO LOVE
+**He will guard the feet of his faithful ones..**
+
+The primary fulfillment of this word is the rescue of the Jews from the Holocaust and the establishment of a new Israel.
+I say primary because Hannah was an Israelite and we must not be so proud as to forget that the promises of God were
+to the Jew first, then to the Gentile. Secondary applications are the continued worldwide spread of Christianity during 
+the 20th century up until today and stopping both Fascism and Communism from prevailing.
+
+### A TIME TO HATE
+**... but the wicked shall be cut off in darkness, for not by might shall a man prevail.**
+
+The Ninth Commandment is to not bear false witness against your neighbor. The words of this second quarter of the seventh reversal
+speak to that commandment. The ninth plague against Egypt was the plague of darkness. Darkness symbolizes ignorance and lies.
+In this era, hatred of the Jews, of Jesus, and of the truth will blind the people of this world. Lovers of God will continue
+to walk in the light. The wicked will have the might. They will control:
+
+  - government
+  - military
+  - education
+  - science
+  - business
+  - media
+
+However, the wicked will not be able to overcome the church, because they will be undone by their own lies. 
+
+  - Their government policies will impoverish, causing revolts
+  - Morale and competence in their armed forces will crumble and they will lose wars
+  - Their teachers will turn out idiots who only know false ideologies, not useful skills, while Christian parents turn elsewhere to educate their kids
+  - Scientists whose papers do not support the current trendy madness will lose funding, so scientific progress will grind to a halt
+  - Businesses run on dishonest principles will fail
+  - Technological means to circumvent anti-Christian censorship will expose the lies people are being fed, undermining their authority
+
+It will not be because of our own might that victory will come to the Church. 
+God will turn factions of liars against each other as He has in the past. 
+It will be like the crisis in third century Rome, when dozens of civil wars 
+so destabilized the empire that they were unable to effectively persecute Christians.
+
+### A TIME FOR WAR
+**The adversaries of the Lord shall be broken to pieces; against them he will thunder in heaven.**
+
+The wicked will find their champion, the Antichrist. As the world's actions against Christians shift into high gear 
+and draw upon demonic supernatural power, so will God multiply miracles to resist them and protect His Church.
+
+### A TIME FOR PEACE
+**The Lord will judge the ends of the earth; he will give strength to his king and exalt the horn of his anointed.”**
+
+The final bowl judgments will be poured out upon the world. 
+Then the anointed, Jesus Christ, will descend to claim the victory.
+
+In ten verses, Hannah captured most of human history.
+We need to listen to her and take her words to heart.
+In the days to come, we will need them to survive.
+We need to believe that when Hannah says the Lord will give food to the hungry,
+children to the barren, power to the weak, a voice to the disenfranchised and a savior 
+for the oppressed, these are not happy thoughts and toothless sentiments.
+They are like the Ten Commandments that Moses carried down from Mount Sinai.
+
+They are carved in stone.
+
+You may ask, "What is that stone good for?" I'd say it would make a good foundation for a house.
 
 
