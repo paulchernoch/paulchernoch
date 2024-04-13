@@ -43,11 +43,11 @@ Since then I have discovered other patterns related to spiritual growth. Here is
 I doubt that I have found all the patterns that the Bible contains related to
 this topic.
 
-When Jesus called the Church a vine (John 15), or Paul a human body (Romans 12) or an olive tree (Romans 11),  
+When Jesus called the Church a vine (John 15), or Paul a human body (Romans 12) or an olive tree (Romans 11),
 they were not just using a poetic analogy. They were telling us that there are principles of growth
-that apply not only to individuals, but to groups, nations and whole civilizations. Good trees and bad trees, 
+that apply not only to individuals, but to groups, nations and whole civilizations. Good trees and bad trees,
 wild vines and cultivated vines, we are all part of social organisms that are larger than us.
-That is why everything Jesus says can have two meanings (at least). That is why prophecy works. 
+That is why everything Jesus says can have two meanings (at least). That is why prophecy works.
 
 God has arranged it so that analogies between the growth of people from infants into mature adults 
 serve as well to describe the phases of growth for nations from a few families to a great kingdom - and then 
@@ -80,7 +80,7 @@ That scholar could not see an overall structure to Ecclesiastes. He could not se
 Unable to see the earthly things, he could not see their spiritual analogies.
 "A time to be born" maps to being born again. "A time to die" maps to the dying to self that Paul 
 describes in Romans 6. "A time to plant" is being grafted into the vine, the church, through baptism. 
-"A tine to pluck up" is being severed from your former connection to the world.
+"A time to pluck up" is being severed from your former connection to the world.
 Those are the first four steps on the road to a mature faith, ending with "a time for peace". 
 
 ## Stuck in Time
