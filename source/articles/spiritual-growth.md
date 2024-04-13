@@ -125,8 +125,8 @@ talk about how to interpret the spiritual patterns prophetically.
 This section won't do that. It is all about how to gain understanding about the patterns
 and put them to work for you.
 
-You may lack interest (or trust) in the prophetic content of the Bible, or at least how 
-people interpret them. It is not there to be flashy or spooky. What is it for? 
+You may lack interest (or trust) in the prophetic parts of the Bible, or at least how 
+people interpret them. Prophecies are not there to be flashy or spooky. What are they for? 
 Parables and analogies work two ways. Solomon's poem in Ecclesiastes 3 is about how God has 
 charted the normal and healthy course of a human life. Do you trust God? 
 Can you lean on that pattern? Does it explain things in a way that helps you plan out your life?
@@ -136,6 +136,6 @@ Each era has a theme that is related to the name for that time. Thus "a time to 
 turmoil and civil war (the wars of religion following the Protestant Reformation being one example). 
 As you see the prophecies you will see that God governs history, the church, Israel, and the world's 
 civilization according to that pattern. **If the principles behind those times are powerful** 
-**enough and wise enough for God to use them in governing and guiding the whole world, do you**
-**think they might be strong enough and wise enough for you?**
+**enough and wise enough for God to use them in governing and guiding the whole world through its problems, do you**
+**think they might be strong enough and wise enough to guide you through yours?**
 
