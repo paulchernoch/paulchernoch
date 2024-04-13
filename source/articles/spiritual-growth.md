@@ -1,5 +1,6 @@
 ---
 title: Spiritual Growth
+quote: He sleeps and rises night and day, <br/> and the seed sprouts and grows; <br/> he knows not how. </br> - Mark 4:27
 ---
 The articles in this section of the website are devoted to individual 
 spiritual growth. They generally steer clear of prophecy and history.
