@@ -12,13 +12,13 @@ Topics covered include:
   - spiritual values
   - the big questions of life
   - how to communicate with God (the spiritual disciplines)
-  - how God meets material and spiritual needs
+  - how God knows our material and spiritual needs and meets them
   - emotional healing through the Psalms
   - spiritual warfare
 
 ## Growth Patterns
 
-Jesus used different analogies to describe the life of faith. Some refer to inanimate objects, like a temple,
+Jesus used different analogies to describe the life of faith. Some refer to inanimate objects, like our body being a temple,
 but most relate to growing things. That is why we speak of spiritual growth as being important to believers. 
 We must obey what the Apostle Peter said:
 
@@ -29,8 +29,8 @@ We must obey what the Apostle Peter said:
 
 After I finished writing *Job Rises: Thirteen Keys to a Resilient Life*, I pondered how to distill a simpler action plan 
 from the thirteen lessons that I learned. I had in mind preparing and leading a Bible study to communicate these ideas. 
-Some points looked familiar to me. They appear in Jesus' Parable of the Soils and his temptation in the desert. 
-Thus I dove into Matthew and discovered the seven-step Harvest Pattern.
+Some points in Job reminded of ideas I had seen elsewhere, in Matthew. They appear in Jesus' Parable of the Soils and 
+his temptation in the desert. Thus I dove into Matthew and discovered the seven-step Harvest Pattern.
 
 Since then I have discovered other patterns related to spiritual growth. Here is the list:
 
@@ -135,7 +135,11 @@ Articles in other sections of this website show that those times correspond to e
 Each era has a theme that is related to the name for that time. Thus "a time to tear" is a time of 
 turmoil and civil war (the wars of religion following the Protestant Reformation being one example). 
 As you see the prophecies you will see that God governs history, the church, Israel, and the world's 
-civilization according to that pattern. **If the principles behind those times are powerful** 
-**enough and wise enough for God to use them in governing and guiding the whole world through its problems, do you**
-**think they might be strong enough and wise enough to guide you through yours?**
+civilization according to that pattern.
+
+Have you ever heard advertisements that say things like, "If this deodorant is strong enough to
+keep a marathon runner smelling fresh all the way to the finish line, isn't it strong enough for you?
+The times of Solomon are like that deodorant. **If the principles behind those times are powerful** 
+**enough and wise enough for God to use in governing and guiding the whole world through its problems, do you**
+**think they might be good enough to guide you through yours?**
 
