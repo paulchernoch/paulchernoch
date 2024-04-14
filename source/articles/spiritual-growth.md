@@ -83,6 +83,41 @@ describes in Romans 6. "A time to plant" is being grafted into the vine, the chu
 "A time to pluck up" is being severed from your former connection to the world.
 Those are the first four steps on the road to a mature faith, ending with "a time for peace". 
 
+## Growing Pains
+
+Why should you trust me?
+For a nuanced theoretical view of spiritual growth, consult someone with a doctorate in theology.
+For a comprehensive clinical view that weighs and balances all factors and can apply them appropriately 
+to people with different personalities and cultural backgrounds, consult a professor of Christian counseling. 
+What I have to offer is based on the problems I have faced personally, how I overcame them, and how I related my 
+victories to the actions of the Holy Spirit and the wisdom found in the Bible. My experience is limited so my 
+wisdom is limited. Ah! Despite my limitations, my area of understanding may include the issues that you confront, 
+because among the problems I have overcome are:
+
+  - depression
+  - fear of death
+  - loneliness
+  - nightmares
+  - anxiety
+  - purposelessness
+  - peer pressure
+  - social ostracism due to a neurological problem
+  - frequent unemployment exacerbated by being on the autism spectrum
+
+That list is not exhaustive. I am able to **empathize**, not because I am gifted with empathy, but because
+I have suffered and overcome a cross-section of problems common to hundreds of millions, plus several 
+less common trials. I am able to offer **hope**, because God swiftly delivered me from some of these problems 
+after but a few weeks or months of prayer. I am able to model **patience**, because for some of these problems
+(especially anxiety) I endured decades of suffering while God's patient ministrations brought slow relief 
+(and frequent lapses!). I have waited in faith, trusting a promise given to me by a friend's prophecy that help
+would come soon. I have also waited in confusion and doubt, with no prophecy and no promise beyond the words of Scripture to rely on. 
+
+I will explain how healing and deliverance follow a pattern. That does not mean that they follow a timetable to which 
+we are privy. We each have many areas needing improvement. Who establishes our treatment regimen? Who defines the
+order in which to tackle each area? Not us! However, by understanding what God does tell us in His Word about 
+how He orders the different phases of human growth, we can cooperate with the Holy Spirit or at least get out of the way.  
+That is something I have learned and will share with you. Even though we may not know God's time, we can know God's times.
+
 ## Stuck in Time
 
 Lack of understanding of Solomon's times can cause you to become stuck. The times must be embraced, not avoided.
