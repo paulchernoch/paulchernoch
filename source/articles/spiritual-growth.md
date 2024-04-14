@@ -115,7 +115,7 @@ would come soon. I have also waited in confusion and doubt, with no prophecy and
 I will explain how healing and deliverance follow a pattern. That does not mean that they follow a timetable to which 
 we are privy. We each have many areas needing improvement. Who establishes our treatment regimen? Who defines the
 order in which to tackle each area? Not us! However, by understanding what God does tell us in His Word about 
-how He orders the different phases of human growth, we can cooperate with the Holy Spirit or at least get out of the way.  
+how He orders the different phases of human growth, we can cooperate with the Holy Spirit or at least get out of the way. 
 That is something I have learned and will share with you. Even though we may not know God's time, we can know God's times.
 
 ## Stuck in Time
