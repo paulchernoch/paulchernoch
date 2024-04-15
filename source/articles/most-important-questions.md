@@ -203,8 +203,8 @@ things I have already described, like love, joy, and
 goodness, plus others.
 
 I didn’t know it, but I had just discovered another worthy
-question. After the novel was done, I wrote *The Endless
-Hunt*. I expanded on those ten spiritual treasures and in the
+question. After the novel was done, I wrote *The Endless Hunt*.
+I expanded on those ten spiritual treasures and in the
 process found two more.
 
 Later I realized those two extra treasures were not like
@@ -481,9 +481,13 @@ is useful when it comes to plotting your path through life. It
 is the first milestone on the self-directed life.
 
 For someone aspiring to lead a God-directed life, it must
-not come first. As it is written: But who can discern their own
-errors? Forgive my hidden faults. (Psalm 19:12, NIV) Acquiring
-knowledge of God must come first. Then, in the light of
+not come first. As it is written: 
+
+#### But who can discern their own errors?
+#### Forgive my hidden faults.
+###### - Psalm 19:12, NIV
+
+Acquiring knowledge of God must come first. Then, in the light of
 God’s truth, a disciple will see who they really are. Vices
 and virtues will become clear. The fear of the Lord will not
 only reveal the weakness and sinfulness within, it will begin
@@ -606,6 +610,11 @@ generosity & glory), and Loyalty (courage and protection).
 This shows there is a clear link between our spiritual values
 and our happiness. Treasuring the things that God
 treasures is conducive to a life of peace.
+
+(NOTE: I later in my book renamed "The seven pieces of peace" to 
+the Growth Pattern. It took awhile to appropriately name what I had discovered.
+The names of the seven pieces I later changed to Security, Ability, Stability,
+Amity, Community,  and Loyalty.)
 
 ### How can I change?
 
