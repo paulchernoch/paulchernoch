@@ -458,6 +458,16 @@ purpose for all mankind, but alongside that we each have a
 specific purpose. Truly, the fear of the Lord is the beginning
 of wisdom, not its end.
 
+(Note: Since writing that chapter, I wrote another book and 
+reached another milestone in my understanding of the end of Ecclesiastes.
+You cannot understand Solomon's conclusion unless you grasp both
+the fear of the Lord and the Commandments. There is a glory in the
+Ten Commandments that I had not yet seen when I originally wrote this essay.
+I rectified that in *Plague, Precept, Prophet, Peace*. Those commandments
+are not static scalars, defining right and wrong and judging our actions.
+The commandments also are vectors. They have a direction and they point
+us along the path to peace.)
+
 ### Who am I?
 
 It is tempting to put this question at the head of the list.
