@@ -14,6 +14,7 @@ Topics covered include:
   - how to communicate with God (the spiritual disciplines)
   - how God knows our material and spiritual needs and meets them
   - emotional healing through the Psalms
+  - dreams
   - spiritual warfare
 
 ## Growth Patterns
