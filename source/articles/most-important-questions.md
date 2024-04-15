@@ -73,7 +73,7 @@ Some of those questions were:
 
 As I explored those questions, I found answers for other questions that I hadn't asked. 
 As the answers started piling up, I was able to step back and consider what those questions might be.
-In Doug Adams parody of science fiction and philosophy, *Hitchhiker's Guide to the Galaxy*, 
+In Doug Adams' parody of science fiction and philosophy, *Hitchhiker's Guide to the Galaxy*, 
 he made fun of using AI to solve existential questions. The philosophers program a vast computer
 and ask it to tell them the answer to the question of life, the universe and everything. 
 The computer dutifully chugs away for thousands of years before spitting out the answer:
@@ -146,8 +146,8 @@ don’t have enough years left in me to do much with those
 questions now that I have them.
 
 Should I be disappointed? I am not. This is another
-paradox. Life is like the Hitchhiker’s Guide to the Galaxy. You
-get the answers first, then must set off to figure which
+paradox. Life is like the *Hitchhiker’s Guide to the Galaxy*. 
+You get the answers first, then must set off to figure which
 questions each answers. Sound confusing? This is a good
 thing!
 
@@ -166,8 +166,8 @@ pop into our heads to crystallize our understanding and
 guide us farther.
 
 In becoming a Christian, I discovered my first question,
-but didn’t know I had. That question is: when I am in
-trouble, who can help me? The answer is Jesus. Now that I
+but didn’t know I had. That question is: *when I am in
+trouble, who can help me?* The answer is Jesus. Now that I
 have all the questions gathered and organized, it is not first
 on my list, though maybe it should be. Among the troubles
 Jesus helps us overcome is being lost. He helps us find
@@ -203,8 +203,8 @@ things I have already described, like love, joy, and
 goodness, plus others.
 
 I didn’t know it, but I had just discovered another worthy
-question. After the novel was done, I wrote The Endless
-Hunt. I expanded on those ten spiritual treasures and in the
+question. After the novel was done, I wrote *The Endless
+Hunt*. I expanded on those ten spiritual treasures and in the
 process found two more.
 
 Later I realized those two extra treasures were not like
@@ -219,9 +219,9 @@ can I change? Life is filled with trials and we must change to
 meet them. After enduring over a decade of such trials,
 shortly after my mother died, a thought entered my head.
 How can I make my life more resilient in the face of life’s
-challenges? To pursue that I studied Job and wrote Job Rises:
-Thirteen Keys to a Resilient Life. Only after writing that book
-was I able to simplify what I had learned into a five-step
+challenges? To pursue that I studied Job and wrote 
+*Job Rises: Thirteen Keys to a Resilient Life*. Only after writing 
+that book was I able to simplify what I had learned into a five-step
 process for spiritual growth. That includes the process for
 change, the obstacles (and how to become resilient enough
 to handle them), and where to turn for help (that first
@@ -231,7 +231,7 @@ This book will expound on that five-step process for
 producing a spiritual harvest (expanded later into seven
 steps). However, Ecclesiastes brought me face to face with
 the hardest question of all. The Psalmist asked it often:
-When? I am still looking for that answer.
+**When?** I am still looking for that answer.
 
 When I was younger, I struggled with three other
 questions. They were very important to me at the time, but
@@ -240,9 +240,8 @@ these things will be added unto you,” he meant it! Unlike the
 important questions, these secondary questions were not
 hard to find; they were hard to push aside. If you do not
 push them aside until you find God and begin to grow in
-His ways, you may never find the right path. They are:
-What should I do for work? Whom should I marry? Where
-should I live?
+His ways, you may never find the right path. They are: 
+*"What should I do for work? Whom should I marry? Where should I live?"*
 
 Let’s collect all these questions together:
 
@@ -437,9 +436,13 @@ something to get excited about.
 **The third milestone is submission**. You labor to
 discard your old sources of meaning and purpose. As it says
 in Proverbs 2:1-10, understanding the fear of the Lord takes
-patience and a dedicated, seeking heart, but eventually “...
-wisdom will enter your heart, and knowledge will be pleasant
-to your soul.” (Proverbs 2:10) You accept the possibility that
+patience and a dedicated, seeking heart, but eventually:
+
+#### ... wisdom will enter your heart, 
+##### and knowledge will be pleasant to your soul.”
+###### - Proverbs 2:10
+
+You accept the possibility that
 it will prove more fulfilling than initially thought. The logic
 of the book is becoming clearer. There is a reason for the
 disconnect between the steps of the argument and the
@@ -451,7 +454,7 @@ is therefore impossible. That the fear of the Lord is the
 purpose of life must be accepted on faith.
 
 **The fourth milestone is transcendence**. You discover
-that the fear of the Lord is not the purpose of life! Instead, it
+that the fear of the Lord is **not** the purpose of life! Instead, it
 is the door you must walk through to discover the true
 purpose of your life. The fear of the Lord is the general
 purpose for all mankind, but alongside that we each have a
@@ -459,13 +462,13 @@ specific purpose. Truly, the fear of the Lord is the beginning
 of wisdom, not its end.
 
 (Note: Since writing that chapter, I wrote another book and 
-reached another milestone in my understanding of the end of Ecclesiastes.
+reached a **fifth milestone** in my understanding of the end of Ecclesiastes.
 You cannot understand Solomon's conclusion unless you grasp both
 the fear of the Lord and the Commandments. There is a glory in the
 Ten Commandments that I had not yet seen when I originally wrote this essay.
 I rectified that in *Plague, Precept, Prophet, Peace*. Those commandments
 are not static scalars, defining right and wrong and judging our actions.
-The commandments also are vectors. They have a direction and they point
+The commandments are vectors. They have a direction and they point
 us along the path to peace.)
 
 ### Who am I?
