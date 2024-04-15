@@ -600,7 +600,20 @@ transcending (for glory).)
 
 The paradox with these eternal treasures is that you
 receive them by giving something similar that is perishable
-away. You may notice considerable overlap between these
+away. For example, money and material goods are perishable, not eternal.
+However, give them away to the poor, to friends in need or to the church,
+and those perishable, material goods are transformed into the spiritual
+goods of goodness and generosity. This is one facet of the paradox that
+Jesus sets before us:
+
+#### For whoever would save his life will lose it, 
+##### but whoever loses his life for my sake will find it. 
+#### For what will it profit a man if he gains the whole world 
+##### and forfeits his soul? 
+#### Or what shall a man give in return for his soul?
+###### - Matthew 16:25-26 
+
+You may notice considerable overlap between these
 treasures and the seven pieces of peace derived from
 Ecclesiastes 3: Existence (eternal life), Function (wisdom,
 etc), Emotions (freedom, happiness, joy), Relationships
