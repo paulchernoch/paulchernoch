@@ -210,9 +210,9 @@ Of all the torments, the worst was being torn by wild beasts. The verses that co
 ##### and it shall be called **the Way of Holiness**;
 ###### the unclean shall not pass over it.
 #### It shall belong to those who walk on the way;
-##### even if they are fools, they shall not go astray.
-#### No lion shall be there,
-##### nor shall any ravenous beast come up on it;
+##### **even if they are fools, they shall not go astray**.
+#### **No lion shall be there**,
+##### **nor shall any ravenous beast** come up on it;
 #### they shall not be found there,
 ##### but the redeemed shall walk there.
 #### And the ransomed of the Lord shall return
@@ -343,8 +343,8 @@ Jesus told us to expect troubles. Couldn't I just have trusted what he said in J
 There is a difference. If God just wanted to prepare me for trials lasting until the
 day I die and enter heaven, John 16 works fine. However, if he wanted to give a message
 detailed enough to let me know that a long series of trials would both come and end,
-a personal message was essential. Otherwise, how will I know when I am ready to 
-take up the unspecified task that he is using those trials to prepared me for?
+a personal message was essential. Otherwise, how would I know when I am ready to 
+take up the unspecified task that he is using those trials to prepare me for?
 Also, how would I know what it is that I am supposed to do?
 
 **What to do.** The task is still coming into focus, but it involves the Book of Job. My dream
