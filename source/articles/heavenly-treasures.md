@@ -310,3 +310,17 @@ Pray for a generous heart. Pray for a compassionate heart. Eagerly
 desire the heavenly treasures and your passion will drive you forward
 and enable you to overcome every obstacle. When your desire for joy
 exceeds your fear of sorrow, joy will come to you.
+
+## The Spiritual Harvest
+
+This article spoke in terms of treasures. Job used this metaphor in Job 28 
+and Solomon throughout Proverbs. It is not the only metaphor. While Jesus spoke 
+of pearls and the treasure in the field, more often he spoke about growing things. 
+
+The gardener goes to the seed store and selects the vegetables and flowers they
+want to grow. Then the work begins. These treasures start as seeds.
+Now that you know some of their varieties, the next step is to learn
+how to make them grow and how to bring in an abundant harvest.
+For that, we have the subject of the next article, the **Harvest Pattern**.
+When I was younger, I thought it was hit or miss. I saw no rhyme or 
+reason in how my spiritual growth was proceeding. No more...
