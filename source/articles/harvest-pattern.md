@@ -77,7 +77,7 @@ constant care stretching over months and years.
 **Memorization**. It is not necessary to memorize the Bible in order to be blessed by it, but it doesn't hurt.
 What we most need to see is that the Bible works. Maybe you were taught these words:
 
-### so shall my word be that goes out from my mouth; 
+#### so shall my word be that goes out from my mouth; 
 #### it shall not return to me empty, 
 #### but it shall accomplish that which I purpose, 
 #### and shall succeed in the thing for which I sent it.
