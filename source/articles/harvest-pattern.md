@@ -1,6 +1,6 @@
 ---
 title: The Harvest Pattern of Jesus
-quote: Other seeds fell on good soil  <br/> and produced grain, <br/> some a hundredfold, some sixty, <br/> some thirty. <br/> - Matthew 13:8
+quote: Other seeds fell on good soil  <br/> and produced grain, <br/> some a hundredfold, some sixty, <br/> some thirty. - Matthew 13:8
 ---
 ## Motivation
 
