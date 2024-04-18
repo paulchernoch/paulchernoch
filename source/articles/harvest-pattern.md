@@ -121,7 +121,7 @@ of Bible reading until long afterwards, I learned a powerful truth from Mark:
 Even when we do not understand what the Bible is saying, it works.
 Philippians brought me joy, even though it made no sense to me.
 Galatians set me free from the fear of death, even though it made no sense to me.
-Truly the seed sprouts and grows though we no not how.
+Truly the seed sprouts and grows though we know not how.
 
 If the words of God begin to change you even if you do not understand what they mean or how they work,
 shouldn't that encourage you to read the Bible more?
@@ -361,6 +361,7 @@ that led up to that constitutes their preparation for subsequent harvests.)
 **Challenge**: Legalism. A person tries to follow God’s law on their own strength
 and fails. Discouraged, they give up instead of turning to Christ for the power to
 uphold the law.
+
 **Assets**: Parents. The Ten Commandments and the rest of the Law. The Psalms,
 which are a meditation on the Law.
 
@@ -370,7 +371,7 @@ Plowing means suffering, as attested by Psalm 129:3 and Isaiah 28:24-29.
 The first calamities struck Job’s family as the oxen were plowing (Job 1:14). All
 three persons of the Trinity participated in the plowing phase of Job’s life by
 withdrawing a measure of their support. The process was initiated by the Father,
-who granted permission to Satan to attack Job’s family and possession, which is
+who granted permission to Satan to attack Job’s family and possessions, which is
 the physical cause of suffering. Some of it occurred by the hands of men. Then
 Job’s wife, siblings, neighbors and others rejected Job. This relational
 abandonment is in the sphere of the Holy Spirit, whose withdrawal deprived Job
@@ -641,7 +642,7 @@ may operate on a different time scale.
 
 The Bible contains cautionary tales in the form of reverse harvests. They begin with a
 person in a state of peace with God and end up back at a place of preparation, not for a
-harvest, but exile or the grave. Peace lists at least four:
+harvest, but exile or the grave. *Peace* lists at least four:
 
  - Adam & Eve in Genesis 3
  - Job’s Decreation story in Job 3
@@ -685,7 +686,7 @@ mouth, speaking lies and planting a corrupt seed. It was cursed to crawl on its 
 use its mouth, not to speak, but to eat dust. In the parable, Satan is the bird that steals the
 seed, so this correspondence is spot on.
 
-Eve was told* “Your desire will be for your husband, and he will rule over you.”* (Genesis 3:16)
+Eve was told *“Your desire will be for your husband, and he will rule over you.”* (Genesis 3:16)
 This indicates that women would be compromised emotionally, making them inordinately
 dependent upon men for their sense of security, leading to a power imbalance between the
 sexes. This is in the area of the emotions and the heart. Combined with the magnified
