@@ -60,7 +60,9 @@ The Synonym is the name used in the original illustration.
 
 <hr/>
 
-![The Seven Pieces of Peace (aka the Growth Pattern)](./images/seven-pieces-of-peace.png)
+<img alt="The Seven Pieces of Peace (aka Growth Pattern)" src="images/seven-pieces-of-peace.png" width="675" height="425"/>
+
+
 
 
 In progress...
