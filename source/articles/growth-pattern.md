@@ -23,7 +23,9 @@ elaborations to it in *Plague, Precept, Prophet, Peace*. The better part of this
 the chapter "There is a Season" in the former book. My original name for the pattern was 
 "The Seven Pieces of Peace", which I changed once I had a better handle on it. Likewise, the names
 I used to describe the seven phases of the pattern changed. Here is a concordance to help.
-The Synonym is the name used in the original illustration.
+The Synonym is the name used in the original illustration. The poem in Ecclesiastes 3 only addresses
+the path from birth to maturity. The latter chapters of the book then continue into the days of darkness,
+physical and mental decline and death.
 
 <hr/>
 
@@ -57,6 +59,16 @@ The Synonym is the name used in the original illustration.
 |                 |                   |                | your side and who is on the other side.          |
 |                 |                   |                | War & peace are about expressing those           |
 |                 |                   |                | loyalties by your **actions**.                   |
+|      <hr/>      |      <hr/>        |      <hr/>     |   <hr/>                                          |
+|  **Maturity**   |         -         | Ages 49 to 60+ | Ecclesiastes 10:5-11:6                           |
+|      <hr/>      |      <hr/>        |      <hr/>     |   <hr/>                                          |
+|  **Frailty**    |         -         |       ?        | Ecclesiastes 11:7-12:3                           |
+|      <hr/>      |      <hr/>        |      <hr/>     |   <hr/>                                          |
+|  **Senility**   |         -         |       ?        | Ecclesiastes 12:4-6                              |
+|      <hr/>      |      <hr/>        |      <hr/>     |   <hr/>                                          |
+|  **Mortality**  |         -         |       ?        | Ecclesiastes 12:7                                |
+|      <hr/>      |      <hr/>        |      <hr/>     |   <hr/>                                          |
+|  **Eternity**   |         -         |       ?        | Ecclesiastes 12                                  |
 
 <hr/>
 
