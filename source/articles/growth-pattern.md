@@ -2,6 +2,27 @@
 title: The Growth Pattern of Solomon
 quote: To everything there is a season, <br/> A time for every purpose under heaven... <br/> - Ecclesiastes 3:1
 ---
+
+#### For everything there is a season, 
+#### and a time for every matter under heaven:
+##### a time to be born, and a time to die;
+##### a time to plant, 
+###### and a time to pluck up what is planted;
+##### a time to kill, and a time to heal;
+##### a time to break down, and a time to build up;
+##### a time to weep, and a time to laugh;
+##### a time to mourn, and a time to dance;
+##### a time to cast away stones, 
+###### and a time to gather stones together;
+##### a time to embrace, and a time to refrain from embracing;
+##### a time to seek, and a time to lose;
+##### a time to keep, and a time to cast away;
+##### a time to tear, and a time to sew;
+##### a time to keep silence, and a time to speak;
+##### a time to love, and a time to hate;
+##### a time for war, and a time for peace.
+###### - Ecclesiastes 3:1-8
+
 The scent of destiny wafts from Solomon's poetic phrasing. Cycle after cycle, fortune's reversals 
 beat like a drum, lingering over hatred and war before ushering in the hoped for age of peace.
 In 1959, Pete Seeger wrote the pop song "Turn, Turn, Turn", adorning and slightly reordering the words
