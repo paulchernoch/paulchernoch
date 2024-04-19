@@ -39,11 +39,55 @@ how they fit together so that I could use that as a framework for adding in all 
 to manage the complexity. With the Harvest and Growth Patterns and the larger structure of Lady Wisdom's House,
 I found that, but the Growth Pattern is the crucial one.
 
+## What is the Growth Pattern for? 
+
+First, it is a developmental model for the growth of a human being from birth to full maturity. 
+It divides life into seven phases, each seven years in duration. The pattern governs the principal human needs
+to be met or challenges to be faced in each period. It explains the rhythm of life "under the sun".
+It is entirely materialistic.
+
+Second, the pattern is a discipleship model for Christians to bring them from spiritual infancy to full maturity 
+in the faith. Each materialistic phase has a spiritual analog. I saw this dimly as I wrote my recent books. 
+Christians will not progress evenly through the phases; they do not last a set amount of time.
+This article will report on a discovery I made after writing those books. The first seven of Paul's letters,
+Romans, 1 & 2 Corinthians, Galatians, Ephesians, Philippians, and Colossians, match the seven key phases of the 
+Growth Pattern, in order. Each book has wise counsel on how to progress through its corresponding phase.
+
+Third, the pattern is the mainspring for God's prophetic clocks. The poem serves as a parable for all of history,
+or for shorter stretches of history; it applies at several scales. Thus one scale spans the whole of history
+from the Creation to the second coming of Christ. A shorter scale starts with the dedication of Solomon's Temple.
+An even shorter scale begins at Pentecost, with the establishment of the Church. The shortest I have found runs
+from the Holocaust until the end; it prophesies the future of the modern nation of Israel.
+The prophetic implications of this pattern will be discussed in a separate section of this website.
+
 I discovered and documented the Growth Pattern while writing *Peace, like Solomon Never Knew* and made some 
-elaborations to it in *Plague, Precept, Prophet, Peace*. The better part of this article is adapted from
-the chapter "There is a Season" in the former book. My original name for the pattern was 
-"The Seven Pieces of Peace", which I changed once I had a better handle on it. Likewise, the names
-I used to describe the seven phases of the pattern changed. Here is a concordance to help.
+elaborations to it in *Plague, Precept, Prophet, Peace*. The next part of this article is adapted from
+the chapter "There is a Season" in the former book. The concluding section of this article will explore new ground.
+It will show how Paul's first seven letters, in the order found in your Bible, appear to have been divinely ordered
+so as to teach a discipleship course. They proceed from teaching the new Christian the essential truth
+of our eternal security in Christ and proceed all the way to how to hold fast to Christ in loyalty through every trial.
+By this correspondence, we see that Solomon's wisdom for how to grow to maturity this life and Christ's wisdom for 
+how we are to become spiritually mature and prepare for the next life are one.
+
+This insight came to me while lying in bed, lungs wheezing, throat coughing, head pounding, and miserable from 
+possible pneumonia. As I reflected on Bible passages from Paul's letters that helped me in my youth, I had an
+instant of clarity. It is more than a curious coincidence that the letters are arranged that way.
+It also holds great meaning. Solomon was the wisest man in history and he described all the steps from birth to maturity.
+He missed nothing. His schema for life is complete. That means that if the Apostle Paul's teachings match
+every one of Solomon's life phases, then he didn't miss any phases either. His plan for discipling individual
+Christians and shaping them into healthy, cooperative churches lacks nothing. It is a good thing to agree with
+Peter when he says this: 
+
+#### His divine power has granted to us all things 
+#### that pertain to life and godliness, 
+#### through the knowledge of him who called us 
+#### to his own glory and excellence...
+###### - 2 Peter 1:3
+
+It is an even better thing to be able to see in Scripture a completeness criteria, given by Solomon,
+applicable to Paul, that confirms this. Praise God! We have been given the whole picture!
+
+NOTE: My original name for the pattern was  "The Seven Pieces of Peace", which I changed once I had a better handle on it. Likewise, the names I used to describe the seven phases of the pattern changed. Here is a concordance to help.
 The Synonym is the name used in the original illustration. The poem in Ecclesiastes 3 only addresses
 the path from birth to maturity. The latter chapters of the book then continue into the days of darkness,
 physical and mental decline and death.
@@ -92,6 +136,12 @@ physical and mental decline and death.
 |  **Eternity**   |         -         |       ?        | Ecclesiastes 12                                  |
 
 <hr/>
+
+NOTE: The seven phases from Security to Loyalty are the main phases of the pattern. They are usually what 
+is meant when the pattern is discussed in articles on this site. They are the ascending phases, from birth to loyalty. 
+
+  - The Church is on a trajectory to reach full maturity right as Christ returns. It will pass through the first seven phases, enter the maturity phase during the Great Tribulation, then skip to the twelfth phase, to spend eternity in the presence of God.
+  - The unsaved World is on a trajectory to reach maturity, before a steep decline ending in the second death. It passes through all twelve phases and spends eternity separated from God.
 
 <img alt="The Seven Pieces of Peace (aka Growth Pattern)" src="images/seven-pieces-of-peace.png" width="675" height="425"/>
 
