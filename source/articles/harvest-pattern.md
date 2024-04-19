@@ -135,7 +135,7 @@ of Judas, whose life was a reverse harvest, ending up in the barrenness of the g
 The pattern also pops up in some Psalms, parts of Genesis, and forms the overall structure of Job.
 
 **Thoroughness**. The Harvest Pattern can be used as a diagnostic. If you are stuck spiritually,
-it can narrow down source of the problem. Failure to regularly study the Bible, read Christian literature,
+it can narrow down the source of the problem. Failure to regularly study the Bible, read Christian literature,
 or listen to sermons is easiest to spot. If you don't plant the seed, you can't expect the harvest.
 
 Ignoring or defying the counsel of the Holy Spirit is a little harder. Are you being challenged 
