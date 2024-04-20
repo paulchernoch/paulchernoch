@@ -14,7 +14,8 @@ quote: To everything there is a season, <br/> A time for every purpose under hea
 ##### a time to mourn, and a time to dance;
 ##### a time to cast away stones, 
 ###### and a time to gather stones together;
-##### a time to embrace, and a time to refrain from embracing;
+##### a time to embrace, 
+###### and a time to refrain from embracing;
 ##### a time to seek, and a time to lose;
 ##### a time to keep, and a time to cast away;
 ##### a time to tear, and a time to sew;
@@ -85,7 +86,24 @@ Peter when he says this:
 ###### - 2 Peter 1:3
 
 It is an even better thing to be able to see in Scripture a completeness criteria, given by Solomon,
-applicable to Paul, that confirms this. Praise God! We have been given the whole picture!
+applicable to Paul, that confirms this. For this reason we can say "Amen" to the Apostle Paul when 
+he says these words:
+
+#### Not that I have already obtained this \[resurrection\] 
+#### or am already perfect, but I press on to make it my own, 
+#### because Christ Jesus has made me his own. 
+#### Brothers, I do not consider that I have made it my own. 
+#### But one thing I do: forgetting what lies behind and 
+#### straining forward to what lies ahead, I press on 
+#### toward the goal for the prize of the upward call of 
+#### God in Christ Jesus. **Let those of us who are mature**  
+#### think this way, and if in anything you think otherwise, 
+#### God will reveal that also to you.
+###### - Philippians 3:12-15
+
+Praise God! We can join the ranks of "those ... who are mature" because we have been given the whole picture! 
+The whole course from salvation through sanctification to glorification has been marked
+out for us, so we can cross the finish line.
 
 NOTE: My original name for the pattern was  "The Seven Pieces of Peace", which I changed once I had a better handle on it. Likewise, the names I used to describe the seven phases of the pattern changed. Here is a concordance to help.
 The Synonym is the name used in the original illustration. The poem in Ecclesiastes 3 only addresses
@@ -94,32 +112,32 @@ physical and mental decline and death.
 
 <hr/>
 
-|      Phase      |      Synonym      |   Year Range   |   Solomon's Times & Human Needs                  | 
+|  Phase / Letter |      Synonym      |   Year Range   |   Solomon's Times & Human Needs                  | 
 | :-------------: | :---------------: | :------------: | :----------------------------------------------- |
 |      <hr/>      |      <hr/>        |      <hr/>     |   <hr/>                                          |
 |  **Security**   |  Existence        | Birth to Age 7 | *be born, die, plant, pluck up (uproot)*         |
-|                 |                   |                | Infants need food, shelter & parental love.      |     
+|     Romans      |                   |                | Infants need food, shelter & parental love.      |     
 |      <hr/>      |      <hr/>        |      <hr/>     |   <hr/>                                          |
 |  **Ability**    |  Function         | Ages 7 to 14   | *kill, heal, tear down, build up*                |
-|                 |                   |                | Children must be taught to develop the use of    |
+|  1 Corinthians  |                   |                | Children must be taught to develop the use of    |
 |                 |                   |                | their minds and hands.                           |      
 |      <hr/>      |      <hr/>        |      <hr/>     |   <hr/>                                          |
 |  **Stability**  |  Emotions         | Ages 14 to 21  | *weep, laugh, mourn, dance*                      |
-|                 |                   |                | Teens must learn verbal & physical self-control. |
+|  2 Corinthians  |                   |                | Teens must learn verbal & physical self-control. |
 |      <hr/>      |      <hr/>        |      <hr/>     |   <hr/>                                          |
 |  **Amity**      |  Relationships    | Ages 21 to 28  | *scatter stones, gather, embrace, refrain*       |
-|                 |                   |                | Cooperation in work & physical intimacy.         |
+|   Galatians     |                   |                | Cooperation in work & physical intimacy.         |
 |      <hr/>      |      <hr/>        |      <hr/>     |   <hr/>                                          |
 | **Opportunity** |  Resources        | Ages 28 to 35  | *seek, give up, keep, throw away*                |
-|                 |                   |                | Choosing a career (immaterial opportunities)     |
+|   Ephesians     |                   |                | Choosing a career (immaterial opportunities)     |
 |                 |                   |                | and managing your wealth (material resources).   |
 |      <hr/>      |      <hr/>        |      <hr/>     |   <hr/>                                          |
 |  **Community**  |  Communication    | Ages 35 to 42  | *tear, mend, be silent, speak*                   |
-|                 |                   |                | Handle conflict, dissolve partnerships or        |
+|   Philippians   |                   |                | Handle conflict, dissolve partnerships or        |
 |                 |                   |                | forgive, maintain open lines of communication.   |
 |      <hr/>      |      <hr/>        |      <hr/>     |   <hr/>                                          |
 |  **Loyalty**    |  Loyalty          | Ages 42 to 49  | *love, hate, war, peace*                         |
-|                 |                   |                | Love & hate are about defining your loyalties    |
+|   Colossians    |                   |                | Love & hate are about defining your loyalties    |
 |                 |                   |                | and forming loyal **attitudes**: who is on       |
 |                 |                   |                | your side and who is on the other side.          |
 |                 |                   |                | War & peace are about expressing those           |
@@ -132,8 +150,10 @@ physical and mental decline and death.
 |  **Senility**   |         -         |       ?        | Ecclesiastes 12:4-6                              |
 |      <hr/>      |      <hr/>        |      <hr/>     |   <hr/>                                          |
 |  **Mortality**  |         -         |       ?        | Ecclesiastes 12:7                                |
+| 1 Thessalonians |                   |                |                                                  |
 |      <hr/>      |      <hr/>        |      <hr/>     |   <hr/>                                          |
 |  **Eternity**   |         -         |       ?        | Ecclesiastes 12                                  |
+| 2 Thessalonians |                   |                |                                                  |
 
 <hr/>
 
