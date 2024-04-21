@@ -227,6 +227,8 @@ The following table will map passages to Growth Phases.
   - For Ecclesiastes, the indicated verses have the phrase "under the sun". The phrase may sit at the beginning, middle or end of the passage that goes with the corresponding time. 
   - For Revelation, the indicated verse is one where God thunders. It marks the end of the section.
 
+<hr/>
+
 | Book          | Security       | Ability       | Stability     | Amity      | Opportunity | Community   | Loyalty    |
 | :------------ | :------------- | :------------ | :------------ | :--------- | :---------- | :---------- | :--------- |
 |  <hr/>        |  <hr/>         |  <hr/>        |  <hr/>        |  <hr/>     |  <hr/>      |  <hr/>      |  <hr/>     |
@@ -254,7 +256,60 @@ The following table will map passages to Growth Phases.
 |  <hr/>        |  <hr/>         |  <hr/>        |  <hr/>        |  <hr/>     |  <hr/>      |  <hr/>      |  <hr/>     |
 | Revelation    |  4:5           |  6:1          |  8:5          |  11:19     |  14:2       |  16:18      | 19:6       |
 
-  
+<hr/>
+
+## How to use the table
+
+If you want a holistic view of one growth phase, consult the corresponding chapters or verses in each of the books.
+Be mindful that the Old Testament wisdom books make heavy use of negative theology. 
+For example, if you want to know about "a time to be silent", part of the Community phase, a quick read 
+of Proverbs 26 may puzzle you. The reason for being silent is to watch and listen.
+However, you won't see any mention of listening in Proverbs 26. Instead you will hear about the speech of
+fools, sluggards, quarrelsome gossips, madmen and wicked liars. That is Solomon's way to tell you, "Be careful
+whom you listen to!" 
+
+On the other hand, Paul in Philippians is direct and positive. He tells you both
+who to watch:
+
+#### Brothers, join in imitating me, and keep your eyes 
+#### on those who walk according to the example you have in us.
+###### - Philippians 3:17
+
+and what to listen to: 
+
+#### Finally, brothers, whatever is true, 
+#### whatever is honorable, 
+#### whatever is just, 
+#### whatever is pure, 
+#### whatever is lovely, 
+#### whatever is commendable, 
+#### if there is any excellence, 
+#### if there is anything worthy of praise, 
+#### think about these things. 
+###### - Philippians 4:8
+<hr/>
+
+As for what Jesus says about listening, here is part of the relevant chapter in Matthew:
+
+#### Then Jesus said to the crowds and to his disciples, 
+##### “The scribes and the Pharisees sit on Moses' seat, 
+##### so do and observe whatever they tell you, 
+##### but not the works they do. 
+##### For they preach, but do not practice.
+###### - Matthew 23:1-2
+
+We must not be like them. We must practice what we preach.
+
+At the end of Matthew 23, Jesus pleads with his people as a mother hen trying to gather
+her brood, but they won't listen. How marvelous then the connection to the matching Psalm, the twenty-third,
+where "the Lord is my shepherd, I shall not want..." Trusting sheep listen always for their shepherd's voice,
+and so must we. 
+
+#### He leads me beside still waters.
+#### He restores my soul.
+###### - Psalm 23:2b-3a
+
+Sometimes it is the very silence we are to hear, the silence of just being with the Lord.
 
 <hr/>
 
