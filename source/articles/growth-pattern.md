@@ -228,24 +228,24 @@ The following table will map passages to Growth Phases.
   - For Revelation, the indicated verse is one where God thunders. It marks the end of the section.
 
 | Book          | Security       | Ability       | Stability     | Amity      | Opportunity | Community   | Loyalty    |
-| :------------ | :------------: | :-----------: | :-----------: | :--------: | :---------: | :---------: | :--------: |
+| :------------ | :------------- | :------------ | :------------ | :--------- | :---------- | :---------- | :--------- |
 |  <hr/>        |  <hr/>         |  <hr/>        |  <hr/>        |  <hr/>     |  <hr/>      |  <hr/>      |  <hr/>     |
 | 1 Samuel 2    |  v4            |  v5a          |  v5b          |  v6        |  v7         |  v8a        |  vv9-10    |
 |  <hr/>        |  <hr/>         |  <hr/>        |  <hr/>        |  <hr/>     |  <hr/>      |  <hr/>      |  <hr/>     |
-| Psalms        | chap 1-4       | chap 5-8      | chap 9-12     | chap 13-16 | chap 17-20  | chap 21-24  | chap 25-28 |
+| Psalms        |   ch 1-4       |   ch 5-8      |   ch 9-12     |   ch 13-16 |   ch 17-20  |   ch 21-24  |   ch 25-28 |
 |  <hr/>        |  <hr/>         |  <hr/>        |  <hr/>        |  <hr/>     |  <hr/>      |  <hr/>      |  <hr/>     |
 | Psalm 102     |  vv 1-4        |   vv 5-8      |   vv 9-12     |   vv 13-16 |   vv 17-20  |   vv 21-24  |   vv 25-28 |
 |  <hr/>        |  <hr/>         |  <hr/>        |  <hr/>        |  <hr/>     |  <hr/>      |  <hr/>      |  <hr/>     |
-| Job           | chap 15-18     | chap 19-22    | chap 23-26    | chap 27-30 | chap 31-34  | chap 25-38  | chap 39-42 |
+| Job           |   ch 15-18     |   ch 19-22    |   ch 23-26    |   ch 27-30 |   ch 31-34  |   ch 25-38  |   ch 39-42 |
 |  <hr/>        |  <hr/>         |  <hr/>        |  <hr/>        |  <hr/>     |  <hr/>      |  <hr/>      |  <hr/>     |
-| Proverbs      | chap 4-7       | chap 8-11     | chap 12-15    | chap 16-19 | chap 20-23  | chap 24-27  | chap 28-31 |
+| Proverbs      |   ch 4-7       |   ch 8-11     |   ch 12-15    |   ch 16-19 |   ch 20-23  |   ch 24-27  |   ch 28-31 |
 |  <hr/>        |  <hr/>         |  <hr/>        |  <hr/>        |  <hr/>     |  <hr/>      |  <hr/>      |  <hr/>     |
 | Song of Songs |   1:1-10       |  1:11-2:1     |  2:2-4:16     |  5:1-9     |  5:10-6:10  |  6:11-8:7   |  8:8-8:14  |
 |  <hr/>        |  <hr/>         |  <hr/>        |  <hr/>        |  <hr/>     |  <hr/>      |  <hr/>      |  <hr/>     |
 | Ecclesiastes  | 1:3,9,14;      | 2:17,18,19,20 | 2:22; 3:16    |  4:7,15    |  6:1,12     | 8:17nn      | 9:9b,11,13 |
 |               | 2:11           |               | 4:1,3         |  5:13,18   |  8:9,15     | 9:3,6,9a    | 10:5       |
 |  <hr/>        |  <hr/>         |  <hr/>        |  <hr/>        |  <hr/>     |  <hr/>      |  <hr/>      |  <hr/>     |
-| Matthew       | chap 1-4       | chap 5-8      | chap 9-12     | chap 13-16 | chap 17-20  | chap 21-24  | chap 25-28 |
+| Matthew       |   ch 1-4       |   ch 5-8      |   ch 9-12     |   ch 13-16 |   ch 17-20  |   ch 21-24  |   ch 25-28 |
 |  <hr/>        |  <hr/>         |  <hr/>        |  <hr/>        |  <hr/>     |  <hr/>      |  <hr/>      |  <hr/>     |
 | Paul          | Romans         | 1 Corinthians | 2 Corinthians | Galatians  | Ephesians   | Philippians | Colossians |
 |  <hr/>        |  <hr/>         |  <hr/>        |  <hr/>        |  <hr/>     |  <hr/>      |  <hr/>      |  <hr/>     |
