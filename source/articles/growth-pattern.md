@@ -76,8 +76,10 @@ from the Holocaust until the end; it prophesies the future of the modern nation 
 The prophetic implications of this pattern will be discussed in a separate section of this website.
 
 I discovered and documented the Growth Pattern while writing *Peace, like Solomon Never Knew* and made some 
-elaborations to it in *Plague, Precept, Prophet, Peace*. The next part of this article is adapted from
-the chapter "There is a Season" in the former book. The concluding section of this article will explore new ground.
+elaborations to it in *Plague, Precept, Prophet, Peace*. The next article in this subsection is adapted from
+the chapter ["There is a Season"](./there-is-a-season.html) in the former book. 
+The concluding article in this subsection will explore new ground, and is titled 
+[The Apostle Paul's Discipleship Program](./pauls-discipleship-program.html).
 It will show how Paul's first seven letters, in the order found in your Bible, appear to have been divinely ordered
 so as to teach a discipleship course. They proceed from teaching the new Christian the essential truth
 of our eternal security in Christ and proceed all the way to how to hold fast to Christ in loyalty through every trial.
@@ -185,6 +187,49 @@ is meant when the pattern is discussed in articles on this site. They are the as
 
 <img alt="Growth Pattern Mind Map" src="images/growth-pattern-mindmap.png" width="880" height="990"/>
 
+
+## Where in the Bible does the Growth Pattern Appear?
+
+This sevenfold pattern of growth appears in numerous books in the Bible. I doubt that I have found every occurrence.
+In some books, the pattern appears in detail, matching each of the twenty-eight times of Solomon 
+to a separate passage. In other books, the match is to an entire harvest phase of four times.
+These books map whole chapters to a single time, hence conform to the pattern in detail:
+
+  - **Psalms 1-28** (with Psalms 1-4 rearranged, as Psalm 1 has plant and uproot, Psalm two has life and death, etc.)
+  - **Job 15-42** (only the final 28 chapters of Job conform to the pattern)
+  - **Proverbs 4-31** (the first three chapters serve as an intro, not part of the pattern)
+  - **Matthew 1-28** (the whole book is a perfect match, chapter by chapter)
+
+**Hannah's Prayer in 1 Samuel 2** has seven reversals, each of which corresponds to a whole phase.
+  
+**Psalm 102** has 28 verses and represents the pattern in detail at the verse level.
+
+**Ecclesiastes** represents the whole pattern, but the divisions between phases are not chapter boundaries
+Instead, they are divided by occurrences of the phrase "under the sun".
+
+**Song of Songs** also represents the whole pattern, where the division is not at chapter boundaries, but instead
+at the places where the speaker changes from bride to groom to friends. Also, the opposite time is often
+given, signifying that young people in love are impatient and have a terrible sense of what the appropriate 
+time is to do things.
+
+**1 & 2 Timothy** skips the first eight times (Security and Ability) which prophetically cover the time of Israel.
+By beginning with "a time to weep", it begins with the death of Christ. Furthermore, 1 Timothy 1 is concerned
+with eternity, not time, so the times to weep and laugh are moved to 2 Timothy 1, doubling up with two other times,
+the times to tear and mend. This emphasizes a special second time of tears for the church and corresponds to 
+the Reformation era when civil war and bloodshed ravaged the church.
+
+Revelation represents the pattern in less detail, in terms of the seven phases. 
+The divisions are also not on chapter boundaries but instead at places where it thunders, excluding chapter ten,
+where the voice of the seven thunders speaks. 
+
+The following table will map passages to Growth Phases.
+
+| Book        | Security   | Ability    | Stability  | Amity      | Opportunity | Community  | Loyalty    |
+| :---------- | :--------: | :--------: | :--------: | :--------: | :---------: | :--------: | :--------: |
+|  <br/>      |  <br/>     |  <br/>     |  <br/>     |  <br/>     |  <br/>      |  <br/>     |  <br/>     |
+| Job         | chap 15-18 | chap 19-22 | chap 23-26 | chap 27-30 | chap 31-34  | chap 25-38 | chap 39-42 |
+| Matthew     | chap 1-4   | chap 5-8   | chap 9-12  | chap 13-16 | chap 17-20  | chap 21-24 | chap 25-28 |
+  
 
 <hr/>
 
