@@ -269,7 +269,7 @@ fools, sluggards, quarrelsome gossips, madmen and wicked liars. That is Solomon'
 whom you listen to!" 
 
 On the other hand, Paul in Philippians is direct and positive. He tells you both
-who to watch:
+whom to watch:
 
 #### Brothers, join in imitating me, and keep your eyes 
 #### on those who walk according to the example you have in us.
@@ -287,7 +287,6 @@ and what to listen to:
 #### if there is anything worthy of praise, 
 #### think about these things. 
 ###### - Philippians 4:8
-<hr/>
 
 As for what Jesus says about listening, here is part of the relevant chapter in Matthew:
 
