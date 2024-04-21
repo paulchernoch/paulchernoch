@@ -777,7 +777,11 @@ Links to the other articles in this section:
 
 [The Harvest Pattern of Jesus](./harvest-pattern.html) A tactical pattern for overcoming an individual obstacle and reaping a single spiritual harvest.
 
-[The Growth Pattern of Solomon](./growth-pattern.html) A strategic pattern to help you plan your whole life.
+[The Growth Pattern of Solomon](./growth-pattern.html) Overview of a strategic pattern to help you plan your whole life.
+
+  - [There is a Season](./there-is-a-season.html) The chapter from *Peace, like Solomon Never Knew* where I first introduced the Growth Pattern. 
+
+  - [The Apostle Paul's Discipleship Program](./pauls-discipleship-program.html) Shows how the first seven letters of Paul to the churches are arranged according to the Growth Pattern.
 
 [The Motherhood Pattern](./the-motherhood-pattern.html) A strategic pattern for women.
 
