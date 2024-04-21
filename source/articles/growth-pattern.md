@@ -224,11 +224,36 @@ where the voice of the seven thunders speaks.
 
 The following table will map passages to Growth Phases.
 
-| Book        | Security   | Ability    | Stability  | Amity      | Opportunity | Community  | Loyalty    |
-| :---------- | :--------: | :--------: | :--------: | :--------: | :---------: | :--------: | :--------: |
-|  <br/>      |  <br/>     |  <br/>     |  <br/>     |  <br/>     |  <br/>      |  <br/>     |  <br/>     |
-| Job         | chap 15-18 | chap 19-22 | chap 23-26 | chap 27-30 | chap 31-34  | chap 25-38 | chap 39-42 |
-| Matthew     | chap 1-4   | chap 5-8   | chap 9-12  | chap 13-16 | chap 17-20  | chap 21-24 | chap 25-28 |
+  - For Ecclesiastes, the indicated verses have the phrase "under the sun". The phrase may sit at the beginning, middle or end of the passage that goes with the corresponding time. 
+  - For Revelation, the indicated verse is one where God thunders. It marks the end of the section.
+
+| Book          | Security       | Ability       | Stability     | Amity      | Opportunity | Community   | Loyalty    |
+| :------------ | :------------: | :-----------: | :-----------: | :--------: | :---------: | :---------: | :--------: |
+|  <br/>        |  <br/>         |  <br/>        |  <br/>        |  <br/>     |  <br/>      |  <br/>      |  <br/>     |
+| 1 Samuel 2    |  v4            |  v5a          |  v5b          |  v6        |  v7         |  v8a        |  vv9-10    |
+|  <br/>        |  <br/>         |  <br/>        |  <br/>        |  <br/>     |  <br/>      |  <br/>      |  <br/>     |
+| Psalms        | chap 1-4       | chap 5-8      | chap 9-12     | chap 13-16 | chap 17-20  | chap 21-24  | chap 25-28 |
+|  <br/>        |  <br/>         |  <br/>        |  <br/>        |  <br/>     |  <br/>      |  <br/>      |  <br/>     |
+| Psalm 102     |  vv 1-4        |   vv 5-8      |   vv 9-12     |   vv 13-16 |   vv 17-20  |   vv 21-24  |   vv 25-28 |
+|  <br/>        |  <br/>         |  <br/>        |  <br/>        |  <br/>     |  <br/>      |  <br/>      |  <br/>     |
+| Job           | chap 15-18     | chap 19-22    | chap 23-26    | chap 27-30 | chap 31-34  | chap 25-38  | chap 39-42 |
+|  <br/>        |  <br/>         |  <br/>        |  <br/>        |  <br/>     |  <br/>      |  <br/>      |  <br/>     |
+| Proverbs      | chap 4-7       | chap 8-11     | chap 12-15    | chap 16-19 | chap 20-23  | chap 24-27  | chap 28-31 |
+|  <br/>        |  <br/>         |  <br/>        |  <br/>        |  <br/>     |  <br/>      |  <br/>      |  <br/>     |
+| Song of Songs |   1:1-10       |  1:11-2:1     |  2:2-4:16     |  5:1-9     |  5:10-6:10  |  6:11-8:7   |  8:8-8:14  |
+|  <br/>        |  <br/>         |  <br/>        |  <br/>        |  <br/>     |  <br/>      |  <br/>      |  <br/>     |
+| Ecclesiastes  | 1:3,9,14;      | 2:17,18,19,20 | 2:22; 3:16    |  4:7,15    |  6:1,12     | 8:17nn      | 9:9b,11,13 |
+|               | 2:11           |               | 4:1,3         |  5:13,18   |  8:9,15     | 9:3,6,9a    | 10:5       |
+|  <br/>        |  <br/>         |  <br/>        |  <br/>        |  <br/>     |  <br/>      |  <br/>      |  <br/>     |
+| Matthew       | chap 1-4       | chap 5-8      | chap 9-12     | chap 13-16 | chap 17-20  | chap 21-24  | chap 25-28 |
+|  <br/>        |  <br/>         |  <br/>        |  <br/>        |  <br/>     |  <br/>      |  <br/>      |  <br/>     |
+| Paul          | Romans         | 1 Corinthians | 2 Corinthians | Galatians  | Ephesians   | Philippians | Colossians |
+|  <br/>        |  <br/>         |  <br/>        |  <br/>        |  <br/>     |  <br/>      |  <br/>      |  <br/>     |
+| 1&2 Timothy   |  *             |  *            |  1 Tim 2      | 1 Tim 3-4  | 1 Tim 5-6   | 2 Tim 1-2   | 2 Tim 3-4  |
+|               |                |               |  2 Tim 1      |            |             |             |            |
+|  <br/>        |  <br/>         |  <br/>        |  <br/>        |  <br/>     |  <br/>      |  <br/>      |  <br/>     |
+| Revelation    |  4:5           |  6:1          |  8:5          |  11:19     |  14:2       |  16:18      | 19:6       |
+
   
 
 <hr/>
