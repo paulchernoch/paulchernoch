@@ -96,7 +96,147 @@ conform to the Growth Pattern.
 
 ## Romans: From Earthly Security to Eternal Security
 
-In progress...
+The Apostle Paul speaks of peace more than any other Bible writer. It is the final step in both the
+Growth and Harvest Patterns, the pinnacle and roof of Lady Wisdom's house.
+He declares this overarching theme for all his writings with his first blessed greeting:
+
+#### To all those in Rome who are loved by God 
+#### and called to be saints:
+##### Grace to you and **peace** from God our Father 
+##### and the Lord Jesus Christ.
+###### - Romans 1:7
+
+Paul then plunges into the legal case against mankind, declaring that all people, Jew and Gentile alike, 
+are under God's wrath, because lacking faith, they prove by their actions that the peace of God is not in them:
+
+#### “Their feet are swift to shed blood;
+##### in their paths are ruin and misery,
+##### and **the way of peace they have not known**.”
+###### - Romans 3:15-17
+
+Then he declares the good news, that we can be saved from God's wrath, being justified by faith in Jesus Christ, 
+and so find peace:
+
+#### Therefore, since we have been justified by faith, 
+#### we have **peace with God** through our Lord Jesus Christ. 
+#### Through him we have also obtained access by faith 
+#### into this grace in which we stand, 
+#### and we rejoice in hope of the glory of God. 
+###### - Romans 5:1-2
+
+In Solomon's list of times, the first life phase of Security includes the times to be born, to die, to be planted,
+and to be uprooted. In Romans, the first two times, birth and death, are monumental. 
+While every human selfishly clings to their own life as though it was the most important thing in the universe,
+Paul declares that what saves our life is Christ's death, and what reconciles us to God in peace is Christ's
+resurrected life:
+
+#### For if while we were enemies we were reconciled to God 
+#### by the death of his Son, much more, now that we are reconciled, 
+#### shall we be saved by his life.
+###### - Romans 5:10
+
+He then reiterates the strong connection between Christ's death and resurrection and our dying to self 
+and being reborn, via the mechanism of baptism:
+
+#### Do you not know that all of us who have been baptized 
+#### into Christ Jesus were baptized into his **death**? 
+#### We were buried therefore with him by baptism into **death**, 
+#### in order that, just as Christ was **raised from the dead** 
+#### by the glory of the Father, we too might **walk in newness of life**.
+#### For if we have been united with him in a **death** like his, 
+#### we shall certainly be united with him in a **resurrection** like his. 
+###### - Romans 6:3-5
+
+This dying to self and being raised to life in Christ is the taking on of a new identity.
+It is such a wonder when new Christians learn that they are 
+*"set free from sin, \[and\] have become slaves of righteousness."* as it says in Romans 6:18.
+This is one of Paul's most important teachings, one which revolutionized my life when taught 
+to me by Pastor David Hill Sr in a seminar many years ago.
+
+After this marvelous revelation, Paul proceeds to tackle the heart of the matter and the
+defining quality of this phase in Solomon's Growth pattern, the eternal security of the believer.
+In Romans 7, Paul addresses the problem that sin remains at work in the believer and must be
+opposed for the rest of our earthly life. He admits that this internal war in his flesh between his
+good desires and his weak character is disheartening and almost persuades him that he
+has lost his salvation, until a blessed though rallies his spirit:
+
+#### So I find it to be a law that when I want to do right, 
+#### evil lies close at hand. For I delight in the law of God, 
+#### in my inner being, but I see in my members another law 
+#### waging war against the law of my mind and making me 
+#### captive to the law of sin that dwells in my members. 
+#### Wretched man that I am! Who will deliver me from 
+#### this body of death? 
+#### **Thanks be to God through Jesus Christ our Lord!**
+#### So then, I myself serve the law of God with my mind, 
+#### but with my flesh I serve the law of sin.
+###### - Romans 7:21-25
+
+Jesus will prevail! Thus nothing inside us can destroy the security that we have in Jesus.
+Then what about external forces? Are there Satanic or political or natural forces that can
+overthrow the faith of the believer and tear from them this blessed assurance?
+In Romans 8, Paul answers with a resounding, "No!"
+
+#### What then shall we say to these things? 
+#### If God is for us, who can be against us? 
+##### He who did not spare his own Son but gave him up 
+##### for us all, how will he not also with him 
+##### graciously give us all things? 
+#### Who shall bring any charge against God's elect? 
+##### It is God who justifies. 
+#### Who is to condemn? 
+##### Christ Jesus is the one who died—more than that, 
+##### who was raised—who is at the right hand of God, 
+##### who indeed is interceding for us.
+#### Who shall separate us from the love of Christ? 
+##### Shall tribulation, 
+##### or distress, 
+##### or persecution, 
+##### or famine, 
+##### or nakedness, 
+##### or danger, 
+##### or sword? 
+#### As it is written,
+##### “For your sake we are being killed all the day long;
+##### we are regarded as sheep to be slaughtered.”
+#### No, in all these things we are more than conquerors 
+#### through him who loved us. For I am sure that 
+##### neither death nor life, 
+##### nor angels nor rulers, 
+##### nor things present nor things to come, 
+##### nor powers, nor height nor depth, 
+##### nor anything else in all creation, 
+##### will be able to separate us from 
+##### the love of God in Christ Jesus our Lord.
+###### - Romans 8:31-39
+
+If any book in the Bible declares the doctrine of eternal security, 
+it is this one.
+
+If being born and dying are about our identity, then being planted and uprooted are 
+about our relationships and our community. In Romans 11, Paul speaks at length about
+how the Jews in unbelief were cut from the natural olive tree (Israel) so that new 
+branches might be grafted in (the Gentile believers). Yet he holds out hope that
+they might be grafted back in and cautions humility, lest by pride a believer
+offend God and be cut out. Cutting and grafting are direct analogies to 
+plucking and planting. Our shelter is not a house but the Church, and our
+food is not meat and potatoes but the wine and bread of communion.
+
+The surface meaning of Solomon's times is the growth of an individual from infancy to 
+full maturity, the maturing of our earthly bodies. Paul in Romans 12 then 
+applies this metaphor to the Church as the body of Christ.
+
+#### For as in one body we have many members,
+#### and the members do not all have the same function,
+#### so we, though many, are one body in Christ, 
+#### and individually members one of another. 
+###### - Romans 12
+
+Taking all this together, Romans, though it covers may topics, devotes
+the core of the argument to addressing the security of believers
+in their individual salvation and incorporation into the body of Christ.
+The apostle does this as one of his exhortations that the gospel given to 
+him leads ultimately to a life of peace with God, eternally. 
 
 ## 1 Corinthians: From Human Ability to Spiritual Gifts
 
