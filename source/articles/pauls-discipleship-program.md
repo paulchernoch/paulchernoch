@@ -1067,11 +1067,77 @@ Revelation speaks of three events:
   - The marriage is celebrated
 
 The Bride's preparation is sanctification, which we just covered in Paul's first seven letters.
-Now the bride is worried that she is late for the wedding, because the bridegroom has already come.
+Now the bride sometimes gets worried that she is late for the wedding, because maybe the bridegroom has already come.
 Paul makes sure to put the rumors to rest and also teach about this glorious hope of the church.
 
+First, Paul affirms that it is good to wait, for this is our blessed hope:
 
-In progress...
+#### to **wait for his Son from heaven**, 
+#### whom he raised from the dead, 
+#### Jesus who delivers us from the wrath to come.
+###### - 1 Thessalonians 1:10
+
+After wandering through his message in chapter 2 about how he wants to visit them again, 
+Paul returns to the same idea:
+
+#### For what is our hope or joy or crown of boasting 
+#### before **our Lord Jesus at his coming**? 
+#### Is it not you? For you are our glory and joy.
+###### - 1 Thessalonians 2:19-20
+
+You can see the gears turning. Could the people be worried that Paul will be carried away to 
+glory and forget them, getting his reward and leaving them in the dust?
+No, he tells them that they are his glory - their faith, obedience and acceptance of the gospel
+message that he preached is all the reward he needs, and he is not leaving without them.
+No, they will not be abandoned as orphans:
+
+#### Now may our God and Father himself, and our Lord Jesus, 
+#### direct our way to you, and may the Lord make you increase 
+#### and abound in love for one another and for all, 
+#### as we do for you, so that he may establish your hearts 
+#### blameless in holiness before our God and Father, 
+#### at the coming of our Lord Jesus with all his saints.
+#### - 1 Thessalonians 3:11-13
+
+Throughout the first three chapters, Paul has modeled for them his own hope - his future hope -
+that the Lord will return to rescue his own from this world. Now he at last speaks directly to the issue:
+
+#### But we do not want you to be uninformed, brothers, 
+#### about those who are asleep, that you may not grieve 
+#### as others do who have no hope. For since we believe 
+#### that Jesus died and rose again, even so, through Jesus, 
+#### God will bring with him those who have fallen asleep. 
+#### For this we declare to you by a word from the Lord, 
+#### that we who are alive, who are left until the 
+#### coming of the Lord, will not precede those who have 
+#### fallen asleep. For **the Lord himself will descend** 
+#### from heaven with a cry of command, with the 
+#### voice of an archangel, and with the sound of the 
+#### trumpet of God. And the dead in Christ will rise first.
+#### Then we who are alive, who are left, will be caught up 
+#### together with them in the clouds **to meet the Lord** 
+#### in the air, and so **we will always be with the Lord**. 
+#### Therefore encourage one another with these words.
+###### - 1 Thessalonians 4:13-18
+
+Then in the final chapter, suspense. No one knows when the Lord will come.
+
+#### Now concerning the times and the seasons, brothers, 
+#### you have no need to have anything written to you. 
+#### For you yourselves are fully aware that the day of the Lord 
+#### will come like a thief in the night. 
+#### While people are saying, 
+##### “There is **peace and security**,” 
+#### then sudden destruction will come upon them as labor pains 
+#### come upon a pregnant woman, and they will not escape. 
+###### - 1 Thessalonians 5:1-3
+
+In Solomon's times, the final time is "a time for peace". 
+The world will think it survived whatever calamities God sends leading up to that time,
+breathe a sigh of relief, enter their false time for peace, 
+and then it will all end unexpectedly.
+
+But since we belong to the day...
 
 <hr/>
 
