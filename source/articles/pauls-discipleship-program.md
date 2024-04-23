@@ -232,7 +232,7 @@ applies this metaphor to the Church as the body of Christ.
 #### and individually members one of another. 
 ###### - Romans 12
 
-Taking all this together, Romans, though it covers may topics, devotes
+Taking all this together, Romans, though it covers many topics, devotes
 the core of the argument to addressing the security of believers
 in their individual salvation and incorporation into the body of Christ.
 The apostle does this as one of his exhortations that the gospel given to 
@@ -632,7 +632,7 @@ Paul discloses the greatest treasure of all:
 #### to comprehend with all the saints what is
 #### the breadth and length and height and depth, 
 #### and to know the love of Christ that surpasses knowledge, 
-#### that you may be filled with all the fullness of God.
+#### **that you may be filled with all the fullness of God.**
 ###### - Ephesians 3:14-19
 
 No matter how long a list of heavenly treasures we itemize, we shall never
@@ -659,7 +659,7 @@ gave you one slice, which might be large or might be small.
 Or maybe it is in proportion to "the measure of Christ's gift" which was infinite, 
 meaning every time you give some grace away to others there is another
 portion waiting for you when you come back for seconds.
-All I know is that I keep going back to Jesus for more, and have not yet cone away empty.
+All I know is that I keep going back to Jesus for more, and have not yet come away empty.
 
 This fifth phase is about work and career when speaking of this world,
 but about divine calling when speaking of the next. Paul does not fail
@@ -711,9 +711,174 @@ And again, Paul ends his letter with a blessing of peace, along with love, faith
 
 ## Philippians: From Secular Community to Church Community
 
+The sixth phase of the Growth Pattern encompasses the times to tear and mend, be silent and speak. 
+It is about conflict and its resolution through forgiveness, and about maintaining open lines of communication
+by listening before speaking. This is all about fostering a healthy community. In Solomon's application to normal human society, 
+this makes sense as a distinct phase. However, in the context of the church, it becomes confusing to distinguish the 
+unique focus of Paul's letter to the Philippians. The church is already a community, so  every one of his letters to the churches
+is about building and maturing that community. 
 
+The letter's surface opacity is countered by its power. This letter was both singularly difficult for me to understand
+and uniquely powerful in the effect it had on my life. It occupies my blind spot as a human being who suffers from
+Asperger's Syndrome; this letter is all about empathy. People on the Autism spectrum struggle with empathy,
+because it requires observing the people around you, forming a mental model of their inner emotional states 
+and by intuition determining how to respond appropriately. That is a skill we possess in a limited form.
+It is the skill of empathy that opens up the world of community. Lacking it isolates you from many forms
+of human interaction. This loneliness shapes your identity and can make assimilation into the church painful.
+For me, this was doubly difficult, as I did not receive the diagnosis until I entered my forties.
+I was blind and didn't know it.
 
-In progress...
+What I will now share is a more complete account of my struggle with Philippians than I normally give.
+It is deeper because Solomon has only recently helped me see beyond the smaller consequences that were obvious
+to me as a young Christian. Now I see things clearer, so understand how long the road can be for a neurodivergent outcast
+to fully enter into communion with other believers.
+
+In February 1986, I journeyed to New Hampshire with fellow students from MIT for a Christian retreat. 
+It may have been at Camp Berea, but my recollection is poor. We were to study the Book of Philippians. 
+After a day of reading and discussion, I was confused. I couldn't understand what it was about.
+During break time, I took a long walk on the frozen lake. It was cold and desolate, but I liked the silence.
+Too much time with people was exhausting. The next morning I said I had to return to campus at MIT and another 
+student agreed to drive me. I quit the retreat early, frustrated that it made no sense to me.
+
+Years later, I would understand why. Philippians uses words like joy, rejoice, and rejoicing fourteen times.
+I was just past the halfway point of a decade of deep depression. I longed for joy. I just couldn't see how
+anything in Paul's letter could get me there. You see, it says, 
+*"Do nothing from selfish ambition or conceit, but in humility count others more significant than yourselves."* 
+(Philippians 2:3) It is all about sacrificing yourself for others, just like Jesus did for us. The emotional energy! 
+The empathy! The endurance! Those necessary qualities were the things I lacked. At the time I had no conscious 
+idea that this was the cause of my unbelief. I was just empty and in my heart and subconscious believed it 
+impossible to live as Paul told us to live.
+
+Last night I watched a movie called "Justin's Race", about an autistic marathon runner. At the end of the film,
+they flash this verse up on the screen:
+
+#### Do you not know that in a race all the runners run, 
+#### but only one gets the prize? 
+#### Run in such a way as to get the prize.
+###### - 1 Corinthians 9:24
+
+That film explains it all so well. This poor boy, misunderstood, ridiculed, found a dream: to win a marathon
+and run faster than some of the fastest runners in the world. He pursued that dream and he was victorious, 
+but he did not get there on his own. Another runner coached him, his father put his career on hold to encourage him, 
+and finally the community rallied behind him, handing water as he ran to a remarkable finish. 
+
+That was what I could not see. 1 Corinthians only challenges us to run the race; Philippians tells us how to win.
+
+**As a team.**
+
+All my spirit could see was the cost. I could not see the cheering bystanders, coaches, parents and doctors
+working together to make it a reality. I never had that. I could never see that. I could not imagine that.
+I could not dream that. So what happened? A few weeks after leaving that retreat in defeat, I accompanied
+my Bible study leader as he visited a new church. It was early March, 1986, the day I first walked through
+the doors of Ruggles Baptist Church. That month, I was filled with joy. I didn't know the cause then, but I do now.
+That was not the end of my struggle with depression, but it was the beginning of the end. I was finally home.
+
+It would be decades before I connected my reading but not understanding Philippians to this breakthrough.
+There is joy in entering the Church and there is joy in going forth from the Church. The first joy comes from
+receiving the grace that God pours into His body. The second, greater joy comes from carrying that grace to others.
+I had just received the lesser joy of fellowship. Thirty-eight years later, I am still at that church; I am
+still receiving that joy.
+
+It was this miracle (and others) of the Bible changing me even though I could not understand it that taught 
+me the meaning of this parable from Mark:
+
+#### He also said, “This is what the kingdom of God is like. 
+#### A man scatters seed on the ground. Night and day, 
+#### whether he sleeps or gets up, the seed sprouts and grows, 
+#### **though he does not know how**. All by itself 
+#### the soil produces grain—first the stalk, then the head, 
+#### then the full kernel in the head. As soon as the 
+#### grain is ripe, he puts the sickle to it, 
+#### because the harvest has come.”
+###### - Mark 4:26-29
+
+Over the course of the next several years, I returned again and again to Philippians,
+rebuffed each time with confusion. Then in the Fall of 1988, pastor Larry made a fateful appeal.
+He asked members of the congregation to visit Janet Sullivan, who suffered rheumatoid arthritis
+and was confined to a nursing home. The last time I had visited a hospital with a charity was traumatic;
+I helped throw an Easter party for the children at the Shriner's Burn Unit. I hardened my heart
+and refused to visit Janet.
+
+Week after week, Pastor Larry repeated his appeal. When I learned the address of her facility, I was cut to 
+the heart. She lived a block from my apartment in Somerville, two towns removed from the church. 
+Of everyone at Ruggles, I was was her only neighbor. One Sunday morning I mustered the courage.
+I brought a worship music cassette recorded by the church, introduced myself, read her some scripture, and
+prayed for her. I had never seen someone with such intense, constant pain. After I left, I sobbed for a half hour
+as I walked to church. I have never cried so hard for somebody other than myself as I did for Janet that day. 
+This autistic kid with a paucity of empathy suddenly got a full dose and it broke me.
+After I passed Central Square, peace settled into my heart. A few minutes later, as I crossed the BU Bridge 
+over the Charles River, joy flooded my soul. It far exceeded the joy I experienced the month after I 
+started coming to Ruggles Baptist. This joy would remain for a week. This joy ended my decade of depression
+and changed me forever for the better.
+
+As soon as church let out that Sunday, I raced home, got out my Bible and began to read Philippians.
+I knew in my spirit that I would finally understand it and I did. I composed a ten page article on Philippians
+on the spot and it was printed in the Church newsletter. I was full and all I wanted to do was share my joy.
+
+As exciting as that experience was, could I muster the will to make another visit to Janet? That is where the
+deeper glory of Philippians shines. A few weeks later, I was on the way home from school and missed my 
+Green Line connection at Park Street. Normally, this would make me cross, but a pleasant thought entered my mind.
+Maybe by missing that train, I will run into someone that I would otherwise not have met? I hopped the next
+car to come along and looked about. Sure enough, a woman from my church was on that train. I asked what she was doing.
+She was going to visit Janet! I accompanied her, my second visit to Janet. That is the power of fellowship.
+That is the power of the church, enabling the weak - like me - to lend a hand, because I am not the only one
+doing the work.
+
+I wold make a third visit to Janet and then she died, only six months after I met her. at the funeral, 
+one of her other friends said something with which we all agreed, 
+"When you were with Janet, it was like the Holy Spirit was pouring out of her."
+
+In my books I liken this to a broken jar of perfume which fills the house with its fragrance.
+Janet was a faithful Christian who shared her faith even from her deathbed with all who visited her.
+We who visited her gave her a small comfort. She was a conduit of Grace straight from the throne of God to us.
+
+Thanks to Janet I found a way out of my depression. Thanks to Janet, I gained deep insight into the Book of Job. 
+thanks to Janet, I understand Philippians. Thanks to Janet, I discovered the larger joy of going out from the church
+carrying blessings to others. That is part of what Paul meant when he said to "make my joy complete".
+
+There is normal community and then there is the unity of the Holy Spirit
+that enables me to serve you with the recognition that you are as important as me, your needs as valid as mine,
+and your place in God's kingdom as vital as mine. If a dying, bedridden woman in agony can do such things for me, 
+no one is without value. The world cannot see this. It cannot believe this. The world gets angry for even suggesting this,
+for by it the church shows how cruel the world is and how in need of reform.
+
+Remember the image of the runner? Paul takes it up again in Philippians.
+
+#### I want to know Christ—yes, to know the power of his resurrection 
+#### and **participation in his sufferings**, becoming like him in his death, 
+#### and so, somehow, attaining to the resurrection from the dead.
+#### Not that I have already obtained all this, or have already arrived 
+#### at my goal, but I press on to take hold of that for which 
+#### Christ Jesus took hold of me. Brothers and sisters, I do not 
+#### consider myself yet to have taken hold of it. But one thing I do: 
+##### Forgetting what is behind and straining toward what is ahead, 
+##### **I press on toward the goal to win the prize** for which God 
+##### has called me heavenward in Christ Jesus.
+###### - Philippians 3:10-14
+
+In 1 Corinthians, Paul tells us to run to win. In Philippians, he has not yet reached his goal,
+but you can tell he senses that the finish line is just around the bend.
+Notice his phrasing: "participation in his sufferings". Paul is not suffering alone.
+He is suffering as part of a team, a body. 
+
+#### All of us, then, who are **mature** should take 
+#### such a view of things. And if on some point you think 
+#### differently, that too God will make clear to you.
+###### - Philippians 3:15
+
+Paul's message is again about attaining maturity in the faith. We see the pain and suffering,
+but we are not destroyed by it because we see more than pain and suffering. Instead:
+
+#### Finally, brothers and sisters, 
+#### whatever is true, whatever is noble, whatever is right, 
+#### whatever is pure, whatever is lovely, whatever is admirable—
+#### if anything is excellent or praiseworthy—
+#### think about such things. Whatever you have learned or received 
+#### or heard from me, or seen in me—put it into practice. 
+#### **And the God of peace will be with you**.
+###### - Philippians 4:8-9
+
+Community, maturity, empathy, peace, and a race nearly complete. That is what Philippians is about.
 
 ## Colossians: From Loyalty to Earthly Rulers to the Kingdom of God's Beloved Son
 
