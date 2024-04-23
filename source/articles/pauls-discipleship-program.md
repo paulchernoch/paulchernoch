@@ -1139,6 +1139,10 @@ and then it will all end unexpectedly.
 
 But since we belong to the day...
 
+#### Now may the Lord of peace himself give you peace 
+#### at all times in every way. The Lord be with you all.
+###### - 2 Thessalonians 3:16
+
 <hr/>
 
 Links to the other articles in this section:
