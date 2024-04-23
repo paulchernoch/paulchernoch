@@ -240,21 +240,478 @@ him leads ultimately to a life of peace with God, eternally.
 
 ## 1 Corinthians: From Human Ability to Spiritual Gifts
 
-In progress...
+Solomon's second phase comprises the times to kill, heal, tear down and build up.
+Identifying that as a metaphor for a parent teaching their child how to use their
+mind and hands productively was one of the trickier bits of sleuthing.
+It was a cultural reference to American military training that pointed me in the
+right direction. Basic training is intended to break the new recruit down, 
+then stabilize them, then build them up. 
+
+It is principally by reference to other books that follow Solomon's pattern that I
+found internal support from the Bible. For example, Proverbs 8-11 matches this phase,
+and has these words:
+
+#### A wise son makes a glad father,
+##### but a foolish son is a sorrow to his mother.
+#### A slack hand causes poverty,
+##### but the hand of the diligent makes rich.
+#### He who gathers in summer is a prudent son,
+##### but he who sleeps in harvest is a son who brings shame.
+###### - Proverbs 10:1,4-5
+
+Proverbs 8 is about Wisdom's role in creating the universe, and Proverbs 9
+is about building Lady Wisdom's house. It is not rocks, trees, and buildings that
+need the most care in construction, it is children. Also, consider the shifting fortunes 
+of the righteous and wicked:
+
+#### When it goes well with the righteous, the city rejoices,
+##### and when the wicked perish there are shouts of gladness.
+###### - Proverbs 11:10
+
+Though this applies to communities and nations, it also applies to individuals.
+It is good when the desire and inclination inside a child to do evil is killed,
+and the desire to do good takes root. The part of Ecclesiastes that addresses this era 
+does so with a despairing tone that makes the connection clearest:
+
+#### I hated all my toil in which I toil under the sun, 
+#### seeing that I must leave it to the man who will 
+#### come after me, and who knows whether he will be wise 
+#### or a fool? Yet he will be master of all for which I toiled 
+#### and used my wisdom under the sun. This also is vanity.
+###### - Ecclesiastes 2: 18-19
+
+Solomon is tormented that the one who inherits all that he built, likely his
+son, will be a fool. In that case he will have failed to teach that
+son the abilities needed to make wise use of his inheritance.
+
+What then of 1 Corinthians? It does not speak of training children in earthly talents.
+Its focus is on training church members in how to develop their spiritual gifts to 
+build up the church in unity, not tear it down in chaos, pride and selfish ambition.
+Paul is trying to guide that church from infancy to the next phase of growth, but is 
+encountering difficulty:
+
+#### But I, brothers, could not address you as spiritual people, 
+#### but as people of the flesh, as infants in Christ. 
+#### I fed you with milk, not solid food, for you were 
+#### not ready for it. And even now you are not yet ready...
+###### - 1 Corinthians 3:1-2
+
+Paul continues, speaking of planting, watering and growing, calling the church "God's field, God's building."
+In his stern language, Paul uses the language of a father disciplining his son, saying:
+
+#### What do you wish? Shall I come to you with a rod, 
+#### or with love in a spirit of gentleness?
+###### - Romans 4:21
+
+After addressing conflicts over leadership, sexual immorality and other topics, including idolatry and the proper
+way to celebrate communion, he gets at last to spiritual gifts in chapter 12, beginning with 
+"Now concerning spiritual gifts, brothers, I do not want you to be uninformed..." He says that
+these gifts were given by God to bring unity and not cause division:
+
+#### Now there are varieties of gifts, 
+##### but the same Spirit; 
+#### and there are varieties of service, 
+##### but the same Lord;
+#### and there are varieties of activities, 
+##### but it is the same God who empowers them all in everyone.
+###### - Romans 12:4-5
+
+Paul speaks at length about how the church is one body, and each part needs all the others.
+Thus the idea from Solomon of a single person growing to maturity is now
+translated into the whole Body of Christ growing to maturity, for 
+"Now you are the body of Christ and individually members of it." (Romans 12:27)
+
+After this, he defines love in chapter 13, which is the spirit in which those gifts must be exercised.
+The gifts are wonderful, but love is better for those gifts are temporary as 
+*"Love never ends. As for prophecies, they will pass away; as for tongues, they will cease; as for knowledge, it will pass away."* (Romans 13:8) 
+
+Paul resumes speaking about spiritual gifts in the next chapter, before progressing to the glorification 
+of the saints in Romans 15, the resurrection from the dead. Solomon's references to 
+"a time to tear down and a time to build up" now come full circle in Paul's message. He faulted 
+the Corinthians for being immature, proud, divisive, individualistic people whose actions were tearing the 
+church apart. His appeal was to them to be unified, like a single body, not selfish but loving each other.
+However, now he also addresses the individual aspect of salvation. Each believer will be glorified
+individually, when they die and are resurrected into their new bodies. This distinguished Christianity
+from many other religions. It is either/or: an individual reward or dissolution into a collective entity.
+In Christ you both retain your identity and are able to commune closely with others in love.
+
+In direct fashion, Paul speaks three times to one of Solomon's times for this era, "a time to heal":
+
+  - 1 Corinthians 12:9: to another faith by the same Spirit, to another **gifts of healing** by the one Spirit,
+  - 1 Corinthians 12:28: And God has appointed in the church first apostles, second prophets, third teachers, then miracles, then **gifts of healing**, helping, administrating, and various kinds of tongues.
+  - 1 Corinthians 12:30: Do all possess **gifts of healing**? Do all speak with tongues? Do all interpret?
+
+However, taken in totality, the main thrust of this letter is Solomon's "a time to build up", as Paul 
+seeks to build up the church. Eleven times he uses the analogy of a building, or describes the act of building upon or building up:
+
+  - 1 Corinthians 3:9: For we are God's fellow workers. You are God's field, God's **building**.
+  - 1 Corinthians 3:10: According to the grace of God given to me, like a skilled master **builder** I laid a foundation, and someone else is **building upon** it. Let each one take care how he **builds upon** it.
+  - 1 Corinthians 3:12: Now if anyone **builds on** the foundation with gold, silver, precious stones, wood, hay, straw—
+  - 1 Corinthians 8:1: Now concerning food offered to idols: we know that “all of us possess knowledge.” This “knowledge” puffs up, but love **builds up**.
+  - 1 Corinthians 10:23: “All things are lawful,” but not all things are helpful. “All things are lawful,” but not all things **build up**.
+  - 1 Corinthians 14:4: The one who speaks in a tongue **builds up** himself, but the one who prophesies **builds up** the church.
+  - 1 Corinthians 14:12: So with yourselves, since you are eager for manifestations of the Spirit, strive to excel in **building up** the church.
+  - 1 Corinthians 14:26: What then, brothers? When you come together, each one has a hymn, a lesson, a revelation, a tongue, or an interpretation. Let all things be done for **building up**.
+
+So be healed and built up!
 
 ## 2 Corinthians: From Emotional Stability to Godly Comfort
 
-In progress...
+The third phase of Solomon's Growth Pattern is the clearest of the lot, gaining emotional stability.
+The times to weep and laugh are about gaining verbal self control, while mourning and dancing are about
+physical self control, namely learning not to act out in violence against every slight on the one hand,
+or curling up in a ball in terror on the other. 
+It is therefore no surprise that the thrust of 2 Corinthians is a discussion of those fruits of the spirit 
+needed most by the Christian undergoing painful trials.
+
+It is easy to confuse the former and the latter. Solomon's wisdom is for learning to deal with the normal
+trials of life and the teen years. The lessons to be taught by the Holy Spirit and described by Paul
+are not about mastering natural trials but supernatural. We need faith, hope, peace and perseverance 
+from a source and to a degree that cannot be acquired through natural means. 
+
+#### Blessed be the God and Father of our Lord Jesus Christ, 
+#### the Father of mercies and God of all **comfort**, 
+#### who **comforts** us in all our affliction, so that we 
+#### may be able to **comfort** those who are in any affliction, 
+#### with the **comfort** with which we ourselves are **comforted** by God. 
+#### For as we share abundantly in Christ's sufferings, 
+#### so through Christ we share abundantly in **comfort** too.
+#### If we are afflicted, it is for your **comfort** and salvation; 
+#### and if we are **comforted**, it is for your **comfort**, 
+#### which you experience when you patiently endure the 
+#### same sufferings that we suffer. Our hope for you
+#### is unshaken, for we know that as you share in
+#### our sufferings, you will also share in our **comfort**.
+###### - 2 Corinthians 3-7
+
+Paul turned the comfort setting up to ten. (Comfort in its various forms occurs nineteen times 
+throughout the letter.) This is comfort flowing from Christ to us,
+from us to each other, and even from one suffering person to another suffering person.
+I was delivered from a decade of depression by the mediation of a woman on her deathbed.
+I visited her to comfort her, but it was I who left her room first in tears, 
+then in joy as the Holy Spirit set me free. This is miraculous comfort. 
+This is the comfort that flows into and between believers 
+because we are one in the Lord. I could not believe or understand it until
+by God's grace I experienced it.
+
+#### Indeed, we felt that we had received the sentence of death. 
+#### But that was to make us rely not on ourselves 
+#### but on God who raises the dead.
+###### - 2 Corinthians 1:9
+
+Only faith in this God of all comfort can cause people to willingly undertake tasks
+on behalf of others that strains them to the breaking point, hopeful that Jesus
+will supply their needs eventually. In chapter 2, Paul has such concern for the soul
+of the church member he insisted be disciplined that he offers his forgiveness.
+A man under severe trials cares for the soul of a sinner who injured the church!
+That is divine comfort that no man may counterfeit. 
+
+Is comfort all that Paul speak about? The letter would be one-sided if that were so.
+These times are not just to laugh and dance, but to weep and laugh, to mourn and dance. 
+The Apostle draws attention to the critical place of mournfulness, of "godly grief", which produces a superior
+result to "worldly grief":
+
+#### For even if I made you **grieve** with my letter, 
+#### I do not regret it—though I did regret it, 
+#### for I see that that letter **grieved** you, 
+#### though only for a while. As it is, I rejoice, 
+#### not because you were **grieved**, but because 
+#### you were **grieved** into repenting. 
+#### For you felt a **godly grief**, 
+#### so that you suffered no loss through us.
+#### For **godly grief** produces a repentance 
+#### that leads to salvation without regret, 
+#### whereas **worldly grief** produces death. 
+#### For see what earnestness this **godly grief** 
+#### has produced in you, but also what eagerness
+#### to clear yourselves, what indignation, what fear, 
+#### what longing, what zeal, what punishment! 
+#### At every point you have proved yourselves 
+#### innocent in the matter. So although I wrote to you, 
+#### it was not for the sake of the one who did the wrong, 
+#### nor for the sake of the one who suffered the wrong, 
+#### but in order that your earnestness for us 
+#### might be revealed to you in the sight of God. 
+#### Therefore we are comforted.
+###### - 2 Corinthians 7:8-13
+
+In a letter that speaks about disagreements, a difficult visit, harsh words, grief, and great trials,
+what word stands out? Rejoice! Six times Paul speaks of his preference to rejoice over them,
+not cause them grief, and so he includes it in his final command, along with more
+talk of comfort and continuing to shine a light on the path to peace.
+
+#### Finally, brothers, **rejoice**. Aim for restoration, 
+#### **comfort** one another, agree with one another, 
+#### live in peace; and the God of love and 
+#### **peace** will be with you.
+###### - 2 Corinthians 13:11
 
 ## Galatians: From Amity to 'The Right Hand of Fellowship'
 
-In progress...
+On Solomon's clock, we first have gathering and scattering stones, which speak of 
+cooperation in tasks (or the lack). Then we have times to embrace and refrain from embracing.
+This embracing can be of people, of ideas, or of which leader's direction to take.
+This letter of Paul touches on all these facets. The "peace" has hardly left his mouth before
+he jumps into his complaint:
+
+#### I am astonished that you are so quickly deserting 
+#### him who called you in the grace of Christ and are 
+#### turning to a different gospel...
+###### - Galatians 1:6
+
+The charge of cooperating with the wrong people and listening to the wrong
+voices is stark. The Galatians have stopped cooperating with Paul.
+He contrasts their behavior, of leaving the truth to follow a lie, with his
+own transformation, from persecutor to professing Christian:
+
+#### They only were hearing it said, 
+##### “He who used to persecute us is now 
+##### preaching the faith he once tried to destroy.”
+###### - Galatians 1:23
+
+If people are going to form factions, he points out how the leaders in the church in Jerusalem
+extended to him the right hand of fellowship:
+
+#### and when James and Cephas and John, who seemed 
+#### to be pillars, perceived the grace that was given to me, 
+#### they gave the right hand of fellowship to Barnabas and me, 
+#### that we should go to the Gentiles and they to the circumcised. 
+#### Only, they asked us to remember the poor, the very thing I was eager to do.
+###### - Galatians 2:9-10
+
+What about issues in which Paul disagreed with those leaders of the church?
+Later in the chapter Paul talks about how he called out Saint Peter himself for
+his hypocrisy of pretending to keep kosher, but only when the circumcision party 
+was around. Paul was proved right. Thus Paul shows the Galatians that the church that
+once feared him embraced him and the leaders of the church were forced to admit
+that he was right on a critical matter. Was Paul insisting that they
+listen to him uncritically, without reservation, as cult leaders do? No!
+He told them not to listen to him or even an angel if anything he or it says today 
+is different from what he first preached:
+
+#### But even if we or an angel from heaven 
+#### should preach to you a gospel contrary 
+#### to the one we preached to you, let him be accursed.
+###### - Galatians 1:8
+
+Paul tells them you can have works of the law or works of faith, but not both.
+It is a bright line of embrace or don't embrace. Then wonder of wonders, 
+he tells them that there are divisions you can cross, worldly considerations 
+that are no impediment to the right hand of fellowship:
+
+#### For as many of you as were baptized into Christ 
+#### have put on Christ. 
+##### There is neither Jew nor Greek, 
+##### there is neither slave nor free, 
+##### there is no male and female, 
+##### for you are all one in Christ Jesus. 
+#### And if you are Christ's, then you are 
+#### Abraham's offspring, heirs according to promise.
+###### - Galatians 3:27-28
+
+At the same time that Paul maps out a narrow road for them to follow about matters of truth,
+he also opens up a wide road, free from racism, classism, and sexism.
+In one verse, Paul's notion of whom we may embrace or not embrace has turned the world upside down. 
+
+If Paul's original hearers (or we moderns) miss the point, WE WERE THOSE SLAVES.
+
+#### But when the fullness of time had come, 
+#### God sent forth his Son, born of woman, 
+#### born under the law, to redeem those who 
+#### were under the law, so that we might 
+#### receive adoption as sons. 
+#### And because you are sons, 
+#### God has sent the Spirit of his Son 
+#### into our hearts, crying, 
+##### “Abba! Father!” 7 
+#### So you are no longer a slave, but a son, 
+#### and if a son, then an heir through God.
+###### - Galatians 4:4-7
+
+When it comes to embracing, do not think first about your decisions about whom to embrace,
+your reasons for whom to refrain from embracing, think first of the one who embraced you.
+
+Father. Son. Holy Spirit.
+
+Knowing who embraced you makes all the difference. And how do you know who around you is embracing
+God? You know by these unmistakable signs:
+
+#### But the fruit of the Spirit is 
+##### love, joy, peace, 
+##### patience, kindness, goodness, 
+##### faithfulness, gentleness, self-control; 
+#### against such things there is no law. 
+###### - Galatians 5:22-23
+
+And when you embrace, you must also "gather stones together", cooperating by doing this:
+
+#### Bear one another's burdens, 
+##### and so fulfill the law of Christ.
+###### - Galatians 6:2
+
+Do this, and you earn Paul's final blessing of peace:
+
+#### And as for all who walk by this rule, 
+##### peace and mercy be upon them, and upon the Israel of God.
+###### - Galatians 6:16
 
 ## Ephesians: From Material Opportunity to Spiritual Blessing
 
-In progress...
+Solomon's times in this case are easy to grasp. 
+
+  - *What do people seek?* Wealth, power, prestige, fame...
+  - *What do people give up seeking for?* For many, it is heaven, or God, or truth or morals.
+  - *What do people keep?* As much as we can, because we are selfish.
+  - *What do people throw away?* Broken things. Broken people. Broken dreams.
+
+This phase of life is about advancing your career, rising in your position in society, 
+and acquiring wealth and possessions. However, Jesus told us to store up treasures in heaven.
+Paul in Ephesians tells us how to go about doing that. He begins by telling us of the
+gracious gifts of God. They are so many, I can't even give the full quote!
+
+#### Blessed be the God and Father of our Lord Jesus Christ, 
+#### who has blessed us in Christ with every spiritual blessing 
+#### in the heavenly places...
+#### ... be holy and blameless ... predestined ... for adoption
+#### ... blessed us in the Beloved ... redemption
+#### ... forgiveness ... grace ... lavished 
+#### ... all wisdom and insight 
+#### ... making known to us the mystery 
+#### ... a plan for the fullness of time
+#### ... an inheritance, ... predestined 
+#### ... to the praise of his glory.
+#### ... you heard the word of truth
+#### ... the gospel of your salvation
+#### ... believed ... sealed with the promised Holy Spirit
+#### ... guarantee of our inheritance
+
+Despite all this, Paul prays that his hearers would receive even more:
+
+#### ... the Spirit of wisdom and of revelation in the knowledge of him
+#### ... eyes of your hearts enlightened
+#### ... know ... the hope to which he has called you
+#### ... the riches of his glorious inheritance in the saints
+#### ... the immeasurable greatness of his power 
+
+We do not receive these gifts by striving selfishly like the heathen. 
+Instead, we receive them by faith, a gift of God's grace.
+
+#### For by grace you have been saved through faith. 
+#### And this is not your own doing; 
+#### it is the **gift of God**, 
+#### not a result of works, so that no one may boast. 
+#### For we are his workmanship, created 
+#### in Christ Jesus for good works, 
+#### which God prepared beforehand, 
+#### that we should walk in them.
+###### - Ephesians 2:8-10
+
+Again we hear Paul trumpet the clarion call of peace between Jew and Gentile, man and God:
+
+#### For he himself is **our peace**, who has made us both one 
+#### and has broken down in his flesh the dividing wall 
+#### of hostility by abolishing the law of commandments 
+#### expressed in ordinances, that he might create in himself 
+#### one new man in place of the two, so **making peace**, 
+#### and might reconcile us both to God in one body 
+#### through the cross, thereby killing the hostility. 
+#### And he came and preached **peace** to you who were far off 
+#### and **peace** to those who were near. 
+###### - Ephesians 2:14-17
+
+Surely peace with God is a great heavenly treasure! Yet in the next chapter,
+Paul discloses the greatest treasure of all:
+
+#### For this reason I bow my knees before the Father,
+#### from whom every family in heaven and on earth is named,
+#### that according to the riches of his glory he may 
+#### grant you to be strengthened with power through 
+#### his Spirit in your inner being, so that Christ 
+#### may dwell in your hearts through faith—that you, 
+#### being rooted and grounded in love, may have strength 
+#### to comprehend with all the saints what is
+#### the breadth and length and height and depth, 
+#### and to know the love of Christ that surpasses knowledge, 
+#### that you may be filled with all the fullness of God.
+###### - Ephesians 3:14-19
+
+No matter how long a list of heavenly treasures we itemize, we shall never
+reach the full count, for the fullness of God is the ultimate treasure.
+And unlike those who live solely by Solomon's times "under the sun", 
+we do not have to work to get these treasures.
+Instead, like Paul, we work to give them away:
+
+#### To me, though I am the very least of all the saints, 
+#### this grace was given, to preach to the Gentiles 
+#### the unsearchable riches of Christ...
+###### - Ephesians 3:8
+
+And how much are we each apportioned to distribute:
+
+#### But grace was given to each one of us according
+#### to the measure of Christ's gift. Therefore it says,
+##### “When he ascended on high he led a host of captives,
+##### and he gave gifts to men.”
+###### - Ephesians 4:7-8
+
+There are two ways to read the preceding. Maybe Jesus divvied up the pie and 
+gave you one slice, which might be large or might be small.
+Or maybe it is in proportion to "the measure of Christ's gift" which was infinite, 
+meaning every time you give some grace away to others there is another
+portion waiting for you when you come back for seconds.
+All I know is that I keep going back to Jesus for more, and have not yet cone away empty.
+
+This fifth phase is about work and career when speaking of this world,
+but about divine calling when speaking of the next. Paul does not fail
+to speak of this:
+
+#### And he gave the apostles, the prophets, the evangelists, 
+#### the shepherds and teachers, to equip the saints 
+#### for the work of ministry, for **building up** the 
+#### **body of Christ**, until we all attain to the unity of 
+#### the faith and of the knowledge of the Son of God, 
+#### **to mature manhood**, to the measure of the stature 
+#### of the fullness of Christ, so that we may no longer 
+#### be **children**, tossed to and fro by the waves and carried 
+#### about by every wind of doctrine, by human cunning, 
+#### by craftiness in deceitful schemes. 
+#### Rather, speaking the truth in love, we are to **grow up** 
+#### in every way into him who is the head, into Christ, 
+#### from whom the whole **body**, joined and held together 
+#### by every joint with which it is equipped, 
+#### when each part is working properly, makes the 
+#### **body** grow so that it **builds itself up in love**.
+###### - Ephesians 4:11-16
+
+Here the divinely called workers are helping to bring the church to full maturity
+in the faith. This directly ties the theme of work and career to the task of discipleship.
+Paul even gives practical, moral advice on the subject of work and possessions - do not steal!
+
+#### Let the thief no longer steal, but rather let him labor, 
+#### doing honest work with his own hands, 
+#### so that he may have something to share with anyone in need. 
+###### - Ephesians 4:28
+
+Paul expands this to include covetousness in 5:3. We cannot covet the things of this world
+if we are to expect to receive the things of the next:
+
+#### For you may be sure of this, that everyone who is 
+#### sexually immoral or impure, or who is covetous 
+#### (that is, an idolater), has no inheritance 
+#### in the kingdom of Christ and God.
+###### - Ephesians 5:5
+
+Paul goes on to speak about how to be charitable and kind in our working relationships,
+between husbands and wives, parents and children, masters and slaves. Then he reaches a great
+climax by showing how these heavenly treasures are not for show. We don't display them in a glass case
+or on a mantle. No, they constitute the very armor of God and will enable us to resist the
+attacks of the evil one, even serving as *"shoes for your feet, ... the readiness given by the gospel of peace."* (Ephesians 6:15)
+
+And again, Paul ends his letter with a blessing of peace, along with love, faith and grace.
 
 ## Philippians: From Secular Community to Church Community
+
+
 
 In progress...
 
