@@ -102,7 +102,7 @@ A month before the dreams started, my Bible study leader had us memorize a passa
 #### then Christ died for no purpose.
 ###### - Galatians 2:20-21
 
-I did understand the words that I had memorized, but they changed me.
+*I did not understand* the words that I had memorized, but they changed me.
 Those words are about putting on a new identity in Christ. That new
 person need fear nothing and is perfect in the eyes of God, accepted
 and loved and forgiven. That dream was just my heart catching up with
