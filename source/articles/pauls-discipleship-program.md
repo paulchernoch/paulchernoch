@@ -759,8 +759,9 @@ they flash this verse up on the screen:
 
 That film explains it all so well. This poor boy, misunderstood, ridiculed, found a dream: to win a marathon
 and run faster than some of the fastest runners in the world. He pursued that dream and he was victorious, 
-but he did not get there on his own. Another runner coached him, his father put his career on hold to encourage him, 
-and finally the community rallied behind him, handing water as he ran to a remarkable finish. 
+but he did not get there on his own. Another runner coached him, his mother fought for him to be given the chance to train,
+his father put his career on hold to encourage him, 
+and finally the community rallied behind him, handing him water as he ran to a remarkable finish. 
 
 That was what I could not see. 1 Corinthians only challenges us to run the race; Philippians tells us how to win.
 
@@ -882,12 +883,172 @@ Community, maturity, empathy, peace, and a race nearly complete. That is what Ph
 
 ## Colossians: From Loyalty to Earthly Rulers to the Kingdom of God's Beloved Son
 
-In progress...
+Solomon's final phase of growth is where everything you have learned so far is put to the test.
 
+#### A time to love and a time to hate, 
+#### a time for war and a time for peace.
+
+This is where your loyalties are tested. Whom do you serve? The difference between earthly loyalties
+and loyalty to the Son of God is stark. We must believe in him whom we have not seen.
+Jesus reserved this blessing for us:
+
+#### Jesus said to him, 
+##### “Have you believed because you have seen me? 
+##### Blessed are those who have not seen and yet have believed.”
+###### - John 20:29
+
+Everything hinges on faith. This is the shortest of the seven letters conforming to the Growth Pattern.
+The fact that the letters are sorted by descending length seems to indicate that the pace of things is quickening
+and the end approaching. You can hear Paul as he labors to implant one final measure of wisdom and so leave
+the church complete:
+
+#### And so, from the day we heard, we have not ceased to pray for you, 
+#### asking that you may be filled with the knowledge of his will 
+#### in **all spiritual wisdom and understanding**...
+###### - Colossians 1:9
+
+Consider the subsequent superlatives:
+
+#### **fully** pleasing to him...
+#### bearing fruit in **every** good work...
+#### strengthened with **all** power
+#### **all** endurance and patience with joy
+###### - Colossians 1:10-11 (selected)
+
+Paul is giving them everything he has. He is pouring himself out for them.
+In this letter love may only appear five times and peace three, 
+but there is no mistake that loyalty is in view.
+This is his declaration of their change of loyalties:
+
+#### ... the Father ... has qualified you to share in 
+#### the inheritance of the saints in light. 
+#### He has delivered us from the domain of darkness and 
+#### transferred us to the kingdom of his beloved Son, 
+#### in whom we have redemption, the forgiveness of sins.
+###### - Colossians 1:12-14 (selected)
+
+We are adopted and then airlifted out of the war zone and into a safe new country!
+New identity, new family, new country - every object of our loyalty has been changed,
+because he has forgiven our sins.
+
+#### And you, who once were alienated and hostile in mind, 
+#### doing evil deeds, he has now reconciled in his body 
+#### of flesh by his death, in order to present you 
+#### holy and blameless and above reproach before him...
+###### - Colossians 1:21-22
+
+Now you can see the final push, a man who has run against the wall near the end of the 
+marathon and has found one final burst of strength:
+
+#### ... the mystery hidden for ages and generations 
+##### but now revealed to his saints. 
+#### To them God chose to make known how great among the Gentiles 
+#### are the riches of the glory of this mystery, 
+#### which is Christ in you, the hope of glory. 
+#### Him we proclaim, warning everyone and teaching everyone 
+#### with **all wisdom**, that we may present everyone 
+#### **mature in Christ**. For this I toil, 
+#### **struggling with all his energy that he powerfully works within me**.
+
+When I was younger, I was so captivated by this "mystery of God" that
+I wrote a worship song about it. Here is the chorus:
+
+#### O the mystery of God, made plain to the world,
+#### The width of his mercy by his pardon revealed,
+#### The length of his love, by the gift of his Son,
+#### The height of his grace by his spirit is sealed.
+
+We know that a war is brewing, when Paul says, "For I want you to know how great a struggle I have for you..." 
+in Colossians 2:1. He is resupplying them during the battle with these words:
+
+#### that their hearts may be encouraged, 
+#### being knit together in love, 
+#### to reach all the riches of full assurance of understanding 
+#### and the knowledge of God's mystery, which is Christ, 
+#### **in whom are hidden all the treasures of wisdom and knowledge**.
+###### - Colossians 2:2-3
+
+Here is the grand theme of these letters made plainest. 
+To reach full maturity, we must receive all the treasures of wisdom of knowledge.
+In Job 28 that righteous man lamented that he did not know the path to wisdom,
+and now Paul has shown us the way! They are in Christ, and Christ is in us!
+
+Paul has taught the church how to be "rooted and built up in him and established in the faith" (Colossians 2:7)
+He has warned us who are our adversaries, who hate us and are at war with us:
+
+#### See to it that no one takes you captive by philosophy 
+#### and empty deceit, according to human tradition, 
+#### according to the elemental spirits of the world, 
+#### and not according to Christ.
+###### - Colossians 2:8
+
+Paul speaks of more than a battle, he proclaims a victory!
+
+#### And you, who were dead in your trespasses and the 
+#### uncircumcision of your flesh, God made alive 
+#### together with him, having forgiven us all 
+#### our trespasses, by canceling the record of debt 
+#### that stood against us with its legal demands. 
+#### This he set aside, nailing it to the cross. 
+#### He disarmed the rulers and authorities and 
+#### **put them to open shame, by triumphing over them in him**.
+###### - Colossians 2:13-15
+
+Paul does not use the word hate, but he lays bare the world's hatred by telling us of their true aims, to:
+
+#### take you captive by philosophy and empty deceit
+#### pass judgment on you
+#### disqualify you
+
+Then after denouncing the worlds evil habits, he completes the picture of what qualities a fully mature Christian possesses:
+
+#### Put on then, as God's chosen ones, holy and beloved, 
+##### compassionate hearts, kindness, humility,
+##### meekness, and patience, 
+##### bearing with one another and, 
+#### if one has a complaint against another, 
+#### forgiving each other; as the Lord has forgiven you, 
+##### so you also must forgive. 
+#### And above all these put on love, 
+##### which binds everything together in perfect harmony.
+#### And **let the peace of Christ rule in your hearts**, 
+##### to which indeed you were called in one body. 
+#### And be thankful. 
+
+All of these are the hallmarks of the community-oriented person, not the rugged individualist.
+The list comes to its climax in peace and thanksgiving, a fitting concurrence with Solomon's list of times.
+Paul concludes his letter by emphasizing not how hard he has worked, 
+but how hard everyone around him is working, for example:
+
+#### Epaphras, who is one of you, a servant of Christ Jesus, 
+#### greets you, always struggling on your behalf in his prayers, 
+#### that you may **stand mature** and fully assured in all the 
+#### will of God. For I bear him witness that he has worked hard 
+#### for you and for those in Laodicea and in Hierapolis. 
+###### - Colossians 4:12-13
+
+In the end, Paul has now around him people contending to bring the next generation of the church to full maturity
+in the faith. They were not many, but see how far they ran?
+
+This concludes the seven letters of Paul that implement Solomon's Growth Pattern for the church.
+My brief analysis of these seven letters only scratches the surface of what they contain. 
+What it has shown is the purpose and thrust of Paul's larger message. 
+Course by course, Paul laid a complete doctrinal foundation upon which a mature Christian life can be patterned.
+By comparison to Solomon's times, we see that it proceeds in a logical fashion, setting forth the basic
+truths first, before proceeding to the more advanced. It tackles topics needed by the immature
+before those for the more mature. Matching this structure to other books in the Bible like the Psalms, Job, Proverbs and Matthew, 
+one can cross reference to related concepts that can support and deepen the student's understanding.
+This structured and layered approach speaks of the deep wisdom and compassion of God for supplying
+such riches to us. It has taken me nearly forty decades as a Christian to climb to this height. 
+May some who read these words thereby progress faster in the faith than I.
 
 ## 1 & 2 Thessalonians: From Death to Glorification
 
-In progress...
+Wait! There's more! 
+
+ - Jesus (through his apostles) taught us the way of **salvation** in the Gospels.
+ - Paul taught us **sanctification** through his first seven letters.
+ - Paul continues with 1 & 2 Thessalonians to teach us about the next stage: **glorification**
 
 #### Let us rejoice and exult
 ##### and give him the glory,
@@ -898,6 +1059,19 @@ In progress...
 #### for the fine linen is 
 ##### the righteous deeds of the saints.
 ###### - Revelation 19:7-8
+
+Revelation speaks of three events:
+
+  - The Bride makes herself ready
+  - The Bridegroom (the Lamb) comes
+  - The marriage is celebrated
+
+The Bride's preparation is sanctification, which we just covered in Paul's first seven letters.
+Now the bride is worried that she is late for the wedding, because the bridegroom has already come.
+Paul makes sure to put the rumors to rest and also teach about this glorious hope of the church.
+
+
+In progress...
 
 <hr/>
 
