@@ -9,7 +9,7 @@ However, when calamity strikes, it gets very simple.
 
 **Where are you, God?**
 
-When people are trying to get ahold of me, they have options:
+When people are trying to get a hold of me, they have options:
 
   - cell phone
   - house phone
@@ -35,7 +35,7 @@ This article will divide the means of communication into three categories:
   - Those available to mankind while Jesus walked on earth
   - Those special means given to the church at Pentecost
 
-To those who wrestle with the whether God has been fair in his dealings over the centuries, this
+To those who wrestle with whether God has been fair in his dealings over the centuries, this
 selection will prove God's love. Most of the means of communication available to Christians today
 were also available to the people of the ancient world.
 
@@ -60,8 +60,57 @@ to hear from God, He is ever eager to talk.
 ## Ways to Speak with God found in Job
 
 My first list of ways to communicate with God appeared in *Job Rises: Thirteen Keys to a Resilient Life*.
+I repeated this list in the chapter "Two Time Paradoxes, Illustrated" in *Peace, Like Solomon Never Knew*.
 I scoured Job and thought I found all of them. Oops! I missed one. While getting ready for this article,
 I found another way in Job, one that Einstein would not approve of! It seems that God does play dice with the universe...
+
+Here is my expanded list. It is not just a list, it is a powerful demonstration of God's love for Job.
+God can utilize many means to speak to humans. How many did God use to speak to Job?
+
+Almost all of them! That is the magnitude of God's love.
+
+And how many means did Job employ to speak to God? Every one that he knew.
+That is the magnitude of Job's love for God. In his story, Job:
+
+  - observed God’s attributes through Nature (like rainbows!),
+  - trusted the sayings of Wise elders,
+  - cast lots (or didn't - this new addition needs explanation!)
+  - Prayed,
+  - Fasted,
+  - offered Sacrifices,  
+  - received warnings from Dreams,
+  - learned from his Suffering,
+  - observed a Sabbath,
+  - listened to the Prophets,
+  - marveled at God’s Miracles,
+  - benefited from the intercession of Angels,
+  - had a Theophany (audible words direct from God),
+  - prayed that his story be written down. 
+  
+This last was Job's greatest prayer. 
+
+#### “Oh that my words were written!
+##### Oh that they were inscribed in a book!
+#### Oh that with an iron pen and lead
+##### they were engraved in the rock forever!
+#### For I know that my Redeemer lives,
+##### and at the last he will stand upon the earth.
+#### And after my skin has been thus destroyed,
+##### yet in my flesh I shall see God,
+#### whom I shall see for myself,
+##### and my eyes shall behold, and not another.
+#### My heart faints within me!
+###### - Job 19:23-27
+
+It is believed that Job was the first book of the Bible to be written down.
+Job's prayer that his story be written down therefore created the Bible! 
+Thanks to him, we have another means to hear from God; we have his written word.
+
+Reflect on this list. Some (like prayer and reading the Word) are within your power to pursue, 
+while others (like miracles, angelic visits and theophany) constitute God’s unique response. 
+As Job’s example teaches, one who prizes and employs the first may from time to time be blessed
+with the second.
+
 
 In progress...
 
