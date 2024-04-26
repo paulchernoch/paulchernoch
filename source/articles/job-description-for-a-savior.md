@@ -4,6 +4,11 @@ quote: But he knows the way that I take; <br/>  when he has tried me, <br/> I sh
 ---
 ## Abstract
 
+This article describes the pivotal discovery that gave me the conviction that extensive, systematic, chronological arrangements of
+prophecies exist in the Bible, hidden from view. I made that discovery while studying Job.
+In that Old Testament book I found nine prophecies of teh coming of Christ arranged in chronological order.
+They cover the whole of Christ's life, from pre-incarnate state, to birth, to healing ministry, to death and resurrection, ending at his second coming in glory.
+
 While I was researching for my book *Job Rises: Thirteen Keys to a Resilient Life*, I asked one of the best questions I have ever asked.
 Every time Job began to sink into despair, what was it about his faith that enabled him to rise up again in hope?
 
