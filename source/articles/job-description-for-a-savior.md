@@ -351,6 +351,7 @@ When I spoke earlier about emotional barriers making it
 impossible to understand Job or Ecclesiastes, I mean
 nightmares for months on end. I mean terror and finding it
 difficult to plan for a future that may never come.
+(See the article [Dreams](./dreams.html) for an account of my spiritual battle against false apocalyptic nightmares.)
 
 Now when I read Job, do I see an aloof and capricious
 God who inflicts suffering for no reason? No, I see the
@@ -396,7 +397,7 @@ Job’s words:
 #### My friends scorn me;
 ##### my eye pours out tears to God,
 #### that he would argue the case of a man with God,
-##### s a son of man does with his neighbor. 
+##### as **a son of man** does with his neighbor. 
 ###### - Job 16:19-21, ESV
 
 Job believed that his witness was both “a son of man”
