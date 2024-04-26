@@ -330,6 +330,43 @@ remaining job requirements, so a summary should suffice.
 
 <hr/>
 
+## Ransomed
+
+My book analyzes each passage to prove the connections, but one illustration is enough for here.
+In Job 17, we see Job crying out for someone to pay the ransom for his soul:
+
+#### Lay down a pledge for me with you;
+##### who is there who will put up security for me?
+###### - Job 17:3
+
+If there is any doubt that Job's cry os to be ransomed from the grave, 
+Elihu later in Job tells the suffering man that God will answer his prayer:
+
+#### His soul draws near the pit,
+##### and his life to those who bring death.
+#### If there be for him an angel,
+##### a mediator, one of the thousand,
+##### to declare to man what is right for him,
+#### and he is merciful to him, and says,
+##### ‘Deliver him from going down into the pit;
+##### **I have found a ransom**;
+##### let his flesh become fresh with youth;
+##### let him return to the days of his youthful vigor’;
+#### **then man prays to God, and he accepts him**;
+##### he sees his face with a shout of joy,
+###### and he restores to man his righteousness.
+###### - Job 33:22-26
+
+At Gethsemane, Jesus accepted the cup of suffering from the Father. 
+This was his final surrender and acceptance to pay the ransom 
+for the sins of mankind. Jesus paid the ransom with his own life.
+He paid it for Job and he paid it for us.
+
+(The ransom theory of atonement is one of many proposed by theologians. 
+I believe that the atonement is multi-faceted. The payment of ransom is one part of the whole.)
+
+## The Life of Jesus
+
 To Job was entrusted an outline of the entire life of Jesus
 Christ. These nine events in our Lord’s journey, from his
 exalted preexistence in glory, to his humble incarnation
