@@ -2,6 +2,8 @@
 title: Job Description for a Savior
 quote: But he knows the way that I take; <br/>  when he has tried me, <br/> I shall come out as gold. - Job 23:10
 ---
+## Abstract
+
 While I was researching for my book *Job Rises: Thirteen Keys to a Resilient Life*, I asked one of the best questions I have ever asked.
 Every time Job began to sink into despair, what was it about his faith that enabled him to rise up again in hope?
 
@@ -14,14 +16,14 @@ Every time Job began to sink into despair, what was it about his faith that enab
 I went through all of his speeches and pulled out the signs of hope. What I saw opened up much of the meaning and mystery of
 the Book of Job to me. In each speech, Job listed another one of his problems (or two!) and set them before God.
 He knew he did not have the strength to save himself and said as much. He pleaded with God to save him.
-Collectively, these complaints are his "job description" for a savior. Thus was the list of everything a savior would
+Collectively, these complaints are his "job description" for a savior. This was the list of everything a savior would
 have to do to restore his life. It was like Job was interviewing candidates. There is only one person in history
 who has ever met all those qualifications. Without knowing it, Job was describing Jesus.
 
 In that book I discovered eight requirements. When I wrote *Peace, like Solomon Never Knew*, I found a ninth. 
-Here is the chapter "Months of Futility" from that second book, with some of the cited Bible passages expanded in for clarification. 
-Note that this article makes frequent references to other chapters from those books. However, those chapters are not needed to 
-understand the "job description" analysis at the heart of the chapter.
+Here is the chapter "Months of Futility" from that second book. 
+Note that this article makes frequent references to other chapters from those books. 
+However, those chapters are not needed to understand the "job description" analysis at the heart of this article.
 
 ## Months of Futility
 
@@ -37,7 +39,7 @@ but conceals his meaning beneath suffering.
 #### Are not their days like those of hired laborers?
 #### Like a slave longing for the evening shadows,
 #### or a hired laborer waiting to be paid,
-#### so I have been allotted months of futility,
+#### so I have been allotted **months of futility**,
 #### and nights of misery have been assigned to me.
 #### When I lie down I think, ‘How long before I get up?’
 #### The night drags on, and I toss and turn until dawn. 
@@ -163,7 +165,8 @@ the Bible written down. In it are hidden not just a pattern
 for history, but a chronology of the life of the savior and the
 fact that he would be both God and the “son of man”.
 Every permissible means of communicating with God is
-listed in its pages. A comprehensive ethical standard is
+listed in its pages. (See the article [Job and the Ways to Talk to God](./talk-to-god.html) for that analysis.)
+A comprehensive ethical standard is
 exemplified in the life of Job. And most importantly, a
 righteousness that is by faith is preached which leads to
 forgiveness and eternal life.
