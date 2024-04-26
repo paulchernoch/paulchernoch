@@ -30,4 +30,4 @@ His passion when not writing software is writing books. Among his published work
   - _Peace, like Solomon Never Knew_ (about tracing a path to peace with the Biblical book of Ecclesiastes as a guide)
   - _Plague, Precept, Prophet, Peace: God's Ten Liberating Commandments_ (about the Plagues on Egypt, the Ten Commandments and the Psalms)
 
-
+His author's website (still under active construction as of April 2024) is here: [Lady Wisdom's House](https://paulchernoch.github.io/paulchernoch/index.html)
