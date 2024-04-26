@@ -798,7 +798,7 @@ Links to the other articles in this section:
 
 [Emotional Prophecies of the Psalms](./emotional-properties-of-the-psalms.html)
 
-[Job and the Ways to Talk to God](./job-and-the-ways-to-talk-to-god.html)
+[Job and the Ways to Talk to God](./talk-to-god.html)
 
 [Dreams](./dreams.html) Dreams can guide you, paralyze you, or lead you astray. In my case, it was all three.
 
