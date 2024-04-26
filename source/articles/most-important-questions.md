@@ -793,6 +793,8 @@ Links to the other articles in this section:
 
 [Job and the Ways to Talk to God](./talk-to-god.html)
 
+[Job Description for a Savior](./job-description-for-a-savior.html) Job knew what he needed in a savior. Do you?
+
 [Dreams](./dreams.html) Dreams can guide you, paralyze you, or lead you astray. In my case, it was all three.
 
 [Spiritual Warfare](./spiritual-warfare.html) Somebody IS out to get you.
