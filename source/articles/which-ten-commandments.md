@@ -35,7 +35,7 @@ stealing, while coveting someone’s wife parallels adultery. This is logical, b
 prophetic pattern. By moving “thou shalt not kill” into fifth position, it no longer
 matches the plague of boils and the Black Plague. Other correspondences are also broken.
 
-<img src="images/three-ways-to-divide-the-decalogue.png" alt="Three ways to divide the decalogue" width="988" height="533"/>
+<img src="images/three-ways-to-divide-the-decalogue.png" alt="Three ways to divide the decalogue" width="890" height="480"/>
 
 
 In progress...
