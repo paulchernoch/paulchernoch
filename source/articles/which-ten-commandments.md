@@ -9,6 +9,13 @@ are structured according to the Trinity and reveals that the Word of God is both
 eternal and living in time. The article also shows how the Law Pattern connects thematically to
 the Harvest Pattern of Jesus and the Growth Pattern of Solomon.
 
+In its original context, this article followed chapters that matched features of the commandments and the ten plagues on Egypt
+to cycles of judgment against nations besides Egypt, like Persia, Greece and Rome.
+Those chapters showed the enduring power of the commandments and God's determination to exercise judgment
+against the world in a logical, progressive fashion, culminating with the return of Christ.
+
+God's Decalogue is not toothless.
+
 ## Which Ten Commandments?
 
 We could leave it there with commandment and judgment, but my books have an
