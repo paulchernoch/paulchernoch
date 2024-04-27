@@ -122,13 +122,17 @@ each pair of chapters matches one of the fourteen affirmative statements of the 
 #### or his male servant, or his female servant, 
 #### or his ox, or his donkey, or anything that is your neighbor's.”
 
-Those are the commandments. They are not dry rules that restrict. They are liberating words that
-guide us towards the eternal sabbath rest. For a complete exposition on how they are a beautiful and liberating
+Those are the commandments. They are not dry rules that restrict. They are not static, like scalars in mathematics. 
+They are dynamic liberating vectors that point us in a new direction. These words guide us towards the 
+eternal sabbath rest. For a complete exposition on how they are a beautiful and liberating
 guide towards the savior, read my book, *Plague, Precept, Prophet, Peace*. 
 The following articles are two of the chapters from that book:
 
   - [Which Ten Commandments?](./which-ten-commandments.html)
   - [Matthew and the Law of Christ](./matthew-and-the-law-of-christ.html)
+
+In them, you will learn that buried in the Ten Commandments is a clue to one of the most revolutionary
+truths of Christianity: the incarnation.
 
 <hr/>
 
