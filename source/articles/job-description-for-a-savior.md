@@ -339,7 +339,7 @@ In Job 17, we see Job crying out for someone to pay the ransom for his soul:
 ##### who is there who will put up security for me?
 ###### - Job 17:3
 
-If there is any doubt that Job's cry os to be ransomed from the grave, 
+If there is any doubt that Job's cry is to be ransomed from the grave, 
 Elihu later in Job tells the suffering man that God will answer his prayer:
 
 #### His soul draws near the pit,
