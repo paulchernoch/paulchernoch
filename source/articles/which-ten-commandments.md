@@ -314,7 +314,7 @@ These correspond to the times of Security, Amity & Loyalty.
   - In “a time to love”, mature love and loyalty **sustain** an unbreakable bond, a couple holding hands and facing the world together.
 
 **Creator. Redeemer. Sustainer**. That is the character of God shining through the lens
-of His commandments and His master plan for time. In Peace, the chapters of Job are
+of His commandments and His master plan for time. In *Peace*, the chapters of Job are
 shown to be a generational clock. This helps make sense of the count of fourteen
 statements in another way. The first fourteen generations carry us from the creation to
 King Solomon. The next fourteen generations run from Solomon to Jesus and the capture
@@ -398,9 +398,11 @@ numbers drawn from the Ten Commandments? We have already seen the number three,
 for the Trinity, in five ways: four cycles and a fifth that frames the whole. There are
 fourteen imperative statements, which gives us the factors of two (for Jesus’ dual nature as
 man and God) and seven, which is associated with the Holy Spirit. The ten plagues were
-also divisible by seven, using “calls” or “summons” as shown earlier. Also, we matched the
-imperatives to the seven stages of the Growth Pattern. Revisiting two, we have the two
-tablets, for loving God and neighbor. Thus we have these numbers to play with:
+also divisible by seven, using “calls” or “summons” as shown earlier 
+(in the chapter "Exodus: Called & Summoned to Grow" in *Plague, Precept, Prophet, Peace*). 
+Also, we matched the imperatives to the seven stages of the Growth Pattern. 
+Revisiting two, we have the two tablets, for loving God and neighbor. 
+Thus we have these numbers to play with:
 
 **2 x 3 x 7 = 42**
 
@@ -536,7 +538,7 @@ Lord and the Ten Commandments possess aspects of both growing things and heavenl
 mysteries. We cannot understand them completely, but we can understand them more
 deeply. Let’s see what our spade has dug up.
 
-Ecclesiastes conforms to both the Harvest Pattern (demonstrated in Peace) and the
+Ecclesiastes conforms to both the Harvest Pattern (demonstrated in *Peace*) and the
 Growth Pattern. We saw that the Ten Commandments may be split into fourteen
 imperative statements. Each statement corresponds to one of Solomon’s fourteen seasons
 (where a season is two times). They match, not because they are equal, but because one
