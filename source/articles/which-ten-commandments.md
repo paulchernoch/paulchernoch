@@ -553,6 +553,11 @@ into its foundation, the Law.
 
 These connections can guide us toward wisdom and healing…
 
+This discussion is continued in [Matthew and the Law of Christ](./matthew-and-the-law-of-christ.html)
+The patterns just excavated in this article are there shown to be more than theoretical.
+The peculiar Trinitarian interpretation of the Ten Commandments is faithfully realized 
+in the structure of the Gospel of Matthew.
+
 <hr/>
 
 Links to the other articles in this section:
