@@ -18,11 +18,11 @@ This article, originally published as the chapter "Matthew and the Law of Christ
 *Plague, Precept, Prophet, Peace*, provides a helpful guide to understanding what exactly is this "Law of Christ".
 It builds upon the previous article [Which Ten Commandments?](./which-ten-commandments.html) to 
 divide the Gospel of Matthew according to the Law Pattern. Each pair of chapters in Matthew corresponds
-to one of the fourteen imperative statements found in the Ten Commandments. What doe this mean?
+to one of the fourteen imperative statements found in the Ten Commandments. What does this mean?
 It means that there are two chapters of gospel commentary for each imperative that explain the new
 way in which we are to walk according to those commandments, an expanded view of each given straight by Jesus.
 So when Paul speaks of "the Law of Christ", it is not a rhetorical flourish, nor is it devoid of
-significant content. Jesus did law down this new law and we can trace its shape. We do not need to be confused
+significant content. Jesus did lay down this new law and we can trace its shape. We do not need to be confused
 any more.
 
 ## Matthew and the Law of Christ
