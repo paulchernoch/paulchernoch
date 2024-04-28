@@ -415,7 +415,7 @@ of God is Eloah, spelled in Hebrew (right-to-left) as:
 The values of the letters are:
 
 | Value | Letter |
-| ;---: | :----: |
+| :---: | :----: |
 | <br/> | <br/>  |
 |    1  |   א    |
 |   30  |   ל    |
