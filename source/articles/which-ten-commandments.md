@@ -424,7 +424,132 @@ The values of the letters are:
 | <hr/> | <hr/>    |
 |   42  | **אלוה** |
 
-In progress...
+Thus the number for Eloah is 42. What do you get if you multiply forty-two times a
+jubilee period?
+
+**2,100 years = 2 x 3 x 7 x 50 years**
+
+From this math exercise we see that each person (singular) of the Trinity has 2,100 years
+to complete his share of the work:
+
+**6,300 years = 3 persons x 2,100 years per person**
+
+If fewer years are granted to the last era, it is for mercy, to spare His children of the last
+days from the certain death of the final persecutions of the Tribulation. If God extends it,
+it is so that all three persons may equally provide succor to the church.
+
+All of this, God’s overarching plan for history, lies encoded within His law. Each person
+of the Trinity was assigned a third of history to rule, and rule it they have. These Ten
+Commandments truly do set people free.
+
+Note: The preceding found a mathematical basis for three symmetric periods of 2,100
+years each and a spiritual meaning for each period. It built the periods using a unit
+equaling the length of a jubilee cycle. It gave the start and end years for each period. It did
+all this by analyzing the commandments of Exodus. This looks like it defines a prophetic
+clock, but where are the details? The real proof that we found something here would be to
+find a sequence of prophecies that correspond to each of the forty-two periods. There is
+such a sequence, but not in Exodus! See “Job’s Anti-jubilee Clock, Defined” and the two
+chapters that immediately follow it for details. The grid of prophecies uncovered there
+support the middle era, when the Word of God was defined.
+
+## The end of the matter
+
+Every time I approach Ecclesiastes, it strikes me differently. This essay is about the Ten
+Commandments and the plagues on Egypt, so why should the meaning of Ecclesiastes be
+at issue? It is because I finally see that even without naming or counting them, Ecclesiastes
+is about the Ten Commandments.
+
+The first four times I tackled Ecclesiastes, my reactions to its conclusion were rejection,
+confused acceptance, submission and transcendence. [32]
+
+#### The end of the matter; all has been heard. 
+#### **Fear God and keep his commandments,** 
+#### **for this is the whole duty of man.**
+#### For God will bring every deed into judgment, 
+#### with every secret thing, whether good or evil. 
+###### - Ecclesiastes 12:13-14
+
+I struggled to grasp how book and conclusion fit. How did the arguments marshaled by
+Solomon prove anything about commandments and obedience? It appears my confusion
+was complete.
+
+  - I did not know God
+  - I did not understand the fear of the Lord
+  - I did not grasp the commandments
+  - I could not conceive of obedience as a fulfilling and meaningful purpose for life
+  - I could not see what keeping the commandments accomplishes
+
+Overcoming so much ignorance and unbelief required decades of study and spiritual
+growth. To know God is to revere Him as a treasure. I needed to discover the heavenly
+treasures that Jesus spoke of in his Sermon on the Mount and understand how they are
+hidden in Christ. I needed to follow the process outlined in Proverbs that leads to an
+understanding of the fear of the Lord:
+
+#### My son, if you receive my words
+##### and **treasure** up my commandments with you,
+#### making your ear attentive to wisdom
+##### and inclining your heart to understanding;
+#### yes, if you call out for insight
+##### and raise your voice for understanding,
+#### if you seek it like **silver**
+##### and search for it as for **hidden treasures**,
+#### **then you will understand the fear of the Lord**
+##### and find the knowledge of God.
+###### - Proverbs 2:1-5
+
+#### Then you will understand righteousness and justice
+##### and equity, every good path;
+#### for wisdom will come into your heart,
+##### and **knowledge will be pleasant to your soul**; 
+###### - Proverbs 2:9-10
+
+Knowledge of God does not start out pleasant. Only after one has been trained in the
+House of Mourning does it become so. That required paying rapt attention to Job.
+
+The Psalms, Proverbs and Prophets speak often about the benefits that flow from fearing
+God. They appear to assert them without proof, just as Solomon does in Ecclesiastes. How
+does fearing God constitute a purposeful life? Solomon describes the futility of life under
+the sun. Logic only works on things we can see, smell, taste, touch and hear. The heavenly
+realm exists beyond our senses. If logic and consequences flow from such unseen things,
+we cannot follow such arguments. We are doomed to a life of futility if we rely solely upon
+our senses.
+
+Now I have spotted my error. There is an unseen heavenly realm and events and
+principles beyond my reckoning. But that heavenly realm is not the only realm hidden
+from sight. There is a realm underground. It is not “under the sun”. It is shielded from the
+sun in darkness and things happen there that we can discover if we take a spade in hand
+and start digging. It is the world of growing things.
+
+#### And he said,
+##### “The kingdom of God is as if a man should scatter
+##### seed on the ground. He sleeps and rises night and day,
+##### and the seed sprouts and grows; he knows not how.
+##### The earth produces by itself, first the blade,
+##### then the ear, then the full grain in the ear.
+##### But when the grain is ripe, at once he puts
+##### in the sickle, because the harvest has come.”
+###### - Mark 4:26-29
+
+The difference between growing things and heavenly things is that while both are
+mysterious, we have adequate faculties to probe the secrets of the former. The fear of the
+Lord and the Ten Commandments possess aspects of both growing things and heavenly
+mysteries. We cannot understand them completely, but we can understand them more
+deeply. Let’s see what our spade has dug up.
+
+Ecclesiastes conforms to both the Harvest Pattern (demonstrated in Peace) and the
+Growth Pattern. We saw that the Ten Commandments may be split into fourteen
+imperative statements. Each statement corresponds to one of Solomon’s fourteen seasons
+(where a season is two times). They match, not because they are equal, but because one
+sprouts and grows into the other, as seed to mature plant. The commands are the seeds
+Jesus spoke of in his parable of the soils and the growth in maturity that they produce
+matches the proper phase of life from Ecclesiastes.
+
+So command connects to season and the seasons measure growth. The commandments
+measure out God’s judgment upon the nations across history, while the times and seasons
+plot the growth of those civilizations. The seven pillars of Lady Wisdom’s house fit snugly
+into its foundation, the Law.
+
+These connections can guide us toward wisdom and healing…
 
 <hr/>
 
