@@ -924,8 +924,8 @@ a billion! It is not illusory. It is real.
 Paul may have named the Law of Christ, but now we see that Matthew enumerated every
 statute, like Moses with the original tablets of the law. Jesus fulfilled each statute of the
 law, which it is useful to summarize. Before that, let’s revisit the association of each
-imperative with a member of the Trinity from “What Ten Commandments”. To the list of
-fourteen we shall add the corresponding chapters of Matthew.
+imperative with a member of the Trinity from [Which Ten Commandments](./which-ten-commandments.html).
+To the list of fourteen we shall add the corresponding chapters of Matthew.
 
   - Father (1-2).
   - Father (3-4), Spirit (5-6), Son (7-8).
