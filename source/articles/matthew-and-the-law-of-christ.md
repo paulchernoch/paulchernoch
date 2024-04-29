@@ -770,7 +770,7 @@ From verse 15 on, Jesus gives true details of what is to come to enable us to di
 from lies. The truth of these words is so monumentally important that Jesus attached to
 them the highest level of assurance:
 
-#### rom the fig tree learn its lesson: as soon as its branch becomes
+#### From the fig tree learn its lesson: as soon as its branch becomes
 #### tender and puts out its leaves, you know that summer is near. 
 #### So also, when you see all these things, you know that he is near, 
 #### at the very gates. Truly, I say to you, this generation will not 
@@ -910,7 +910,8 @@ twenty-three, but only twelve are in the context of honor or dishonor.
 
 Assume that each imperative may be found in half the chapters (fourteen), which
 overstates things in favor of the possibility of the pattern being a sheer coincidence. What
-would be the odds if references to each of the fourteen imperatives were sprinkled
+would be the odds be of assembling a complete sequence of imperatives ordered by
+chapter if references to each of the fourteen imperatives were sprinkled
 randomly among the twenty-eight chapters? The formula for that probability is simple:
 
 **Probability = (14/28)28 = 3.7253 / 1,000,000,000**
