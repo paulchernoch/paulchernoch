@@ -971,32 +971,42 @@ boggles the mind how some continue to dispute this!
   <tr>
     <td>2</td>
     <td>Father</td>
-    <td></td>
+    <td>Joseph warned by angel in a dream to go to Egypt.</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Father</td>
-    <td></td>
+    <td>The Father speaks: and behold, a voice from heaven said, <br/>
+        “This is my beloved Son, with whom I am well pleased.” (Matthew 3:17) <br/>
+        All three members of Trinity appear here.</td>
   </tr>
   <tr>
     <td>4</td>
     <td>Father</td>
-    <td></td>
+    <td>All three temptations by Satan were to get Jesus to mistrust or disobey his
+        Father, or even doubt that God is his father. <br/>
+        “If you are the Son of God…”</td>
   </tr>
   <tr>
     <td>5</td>
     <td>Holy Spirit</td>
-    <td></td>
+    <td>“Blessed are the poor in spirit, for theirs is the kingdom of heaven. (Matthew 5:3) <br/>
+        Gives the proper spirit in which to worship God. <br/>
+        The spirit behind murder is anger (5:21-26). <br/>
+        The spirit behind adultery is lust (5:27-30)</td>
   </tr>
   <tr>
     <td>6</td>
     <td>Holy Spirit? <br/> <b>Father!</b></td>
-    <td></td>
+    <td>The Father is named nine times! <br/>
+        This breaks pattern.</td>
   </tr>
   <tr>
     <td>7</td>
     <td>Son</td>
-    <td></td>
+    <td>And when Jesus finished these sayings, the crowds were astonished at his
+        teaching, for he was teaching them as one who had authority, and not as
+        their scribes. (Matthew 7:28-29)</td>
   </tr>
   <tr>
     <td>8</td>
