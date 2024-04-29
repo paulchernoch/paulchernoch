@@ -954,7 +954,7 @@ seventeen instances of the Harvest Pattern described in Peace, a pattern rich in
 structure. Matthew is shouting Trinity with so many poetic and rhetorical devices that it
 boggles the mind how some continue to dispute this!
 
-<table class="alternate">
+<table class="matthew">
 
   <tr>
     <th>Chapter</th>
@@ -964,7 +964,9 @@ boggles the mind how some continue to dispute this!
   <tr>
     <td>1</td>
     <td>Father</td>
-    <td></td>
+    <td>A chronology of forty fathers leading to Jesus, beginning with Abraham,
+        whose name means “Father of many”.
+        Joseph, adoptive father of Jesus, visited by angels,</td>
   </tr>
   <tr>
     <td>2</td>

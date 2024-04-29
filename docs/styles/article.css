@@ -86,8 +86,11 @@
   background-color: #f0f0ff;
 }
 
-/* Override rule above to left align specific columns */
-.matthew td:nth-child(1), .matthew td:nth-child(2) {
+table.matthew th:nth-child(1), table.matthew th:nth-child(2) {
+  text-align: center;
+}
+
+table.matthew td:nth-child(1), table.matthew td:nth-child(2) {
   text-align: center;
 }
 
