@@ -1229,7 +1229,7 @@ consider that Christ is all and is in all, then all the imperatives are also abo
 Jesus is doing for us.
 
 The phrase “as above, so below” and its Latin and Arabic antecedents have unfortunate
-occult connections. This phrase also appears in the Bible paraphrase The Message in its
+occult connections. This phrase also appears in the Bible paraphrase *The Message* in its
 rendering of the Lord’s Prayer. It is used in place of “on earth as it is in heaven”. The
 philosophical idea is that all that happens in this world is an outworking of something
 happening in Heaven. That is the motion from above to below. In addition, there is a
@@ -1264,6 +1264,7 @@ channel of blessing. It is the only commandment that comes with a promise,
 
 How does the blessing for honoring parents become a channel for infinite blessing
 entering into our world? Remember what we discovered in Psalm 19 in the last chapter?
+(That is the chapter titled "Psalm 19: The Glory of God's Law" in *Plague, Precept, Prophet, Peace*.)
 The answer is **adoption**. Here is the chain of events:
 
   - Jesus honors his Father (God) and his mother (Mary), calling forth God’s blessing for keeping the fifth commandment.
@@ -1346,7 +1347,7 @@ If God commands it, it is not vain and futile.
 
 The first part of the tenth commandment calls on us to not covet our neighbor’s house.
 If you combine this with the upper half, that means each person must build their own
-house. In Peace, chapter ten of Ecclesiastes was shown to be a parable of how to build a
+house. In *Peace*, chapter ten of Ecclesiastes was shown to be a parable of how to build a
 house, which is more than a building; it is a strong family. That is our temporary abode. If
 you trust Jesus, you know that he has promised to build something permanent for his
 family of faith:
@@ -1460,10 +1461,10 @@ and there is one imperative for each member of the Trinity. This commandment sho
 that eternal peace consists in living in harmony and communion with all three persons of
 the Trinity.
 
-Introduced in Peace and recapped in this book, Ecclesiastes enumerates the types of
-prophetic clocks. They are also hidden in the commandments. The preamble speaks of
-liberation from Egypt, followed by Ten Commandments to preserve liberty. That points to
-the Empire Clock of ten empires, found earlier in Job. The second commandment then
+Introduced in *Peace, like Solomon Never Knew* and recapped in this book (*Plague, Precept, Prophet, Peace*), 
+Ecclesiastes enumerates the types of prophetic clocks. They are also hidden in the commandments. 
+The preamble speaks of liberation from Egypt, followed by Ten Commandments to preserve liberty. 
+That points to the Empire Clock of ten empires, found earlier in Job. The second commandment then
 evokes a Generational Clock:
 
 #### You shall not bow down to them or serve them, 
