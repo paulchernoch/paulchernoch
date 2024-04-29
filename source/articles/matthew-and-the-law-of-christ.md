@@ -952,7 +952,7 @@ fullness of the glory in which he will one day appear. Lastly, the concluding ch
 Matthew, chapter 28, holds the central verse in the Bible revealing the Trinity. Thus each
 person of the Trinity receives one out-of-place chapter to reveal something special about
 him, followed by one chapter that emphasizes their cooperative unity. This is on top of
-seventeen instances of the Harvest Pattern described in Peace, a pattern rich in Trinitarian
+seventeen instances of the Harvest Pattern described in *Peace*, a pattern rich in Trinitarian
 structure. Matthew is shouting Trinity with so many poetic and rhetorical devices that it
 boggles the mind how some continue to dispute this!
 
@@ -985,8 +985,8 @@ boggles the mind how some continue to dispute this!
   <tr>
     <td>4</td>
     <td>Father</td>
-    <td>All three temptations by Satan were to get Jesus to mistrust or disobey his
-        Father, or even doubt that God is his father. <br/>
+    <td>All three temptations by Satan were to get Jesus to mistrust or disobey his Father, <br/>
+        or even doubt that God is his father. <br/>
         “If you are the Son of God…”</td>
   </tr>
   <tr>
@@ -1031,9 +1031,8 @@ teachings.</td>
   <tr>
     <td>10</td>
     <td>Holy Spirit</td>
-    <td>And he called to him his twelve disciples and gave them authority over
-<b>unclean spirits</b>, to cast them out, and to heal every disease and every
-affliction.” (Matthew 10:1, ESV)</td>
+    <td>And he called to him his twelve disciples and gave them authority over <b>unclean spirits</b>, <br/> 
+    to cast them out, and to heal every disease and every affliction.” (Matthew 10:1, ESV)</td>
   </tr>
   <tr>
     <td>11</td>
@@ -1098,21 +1097,22 @@ except the Son and anyone to whom the Son chooses to reveal him.”
     <td>Teaching about divorce. <br/>
         Jesus speaks of their hardness of heart, the domain of the Holy Spirit. <br/>
         The story of the rich young man deals with the attachment to wealth that
-        prevents him from being perfect, again a matter of the heart.</td>
+        prevents him from being perfect, <br/>
+        again a matter of the heart.</td>
   </tr>
   <tr>
     <td>20</td>
     <td>Holy Spirit</td>
     <td>The parable of the laborers in the vineyard and the story of the mother of
 the two disciples are both about people who think that their hard work
-entitles them to higher wages or a higher position. This is a heart matter,
-related to the Holy Spirit.</td>
+entitles them to higher wages or a higher position. <br/>
+    This is a heart matter, related to the Holy Spirit.</td>
   </tr>
   <tr>
     <td>21</td>
     <td>Father</td>
-    <td>Parable of two sons is about obeying their father.
-Parable of the Tenants. Though the son is sent and killed, it is the Father
+    <td>Parable of two sons is about obeying their father. <br/>
+    Parable of the Tenants. Though the son is sent and killed, it is the Father
 whose decisions and actions are at the center of the story.</td>
   </tr>
   <tr>
@@ -1138,7 +1138,7 @@ whose decisions and actions are at the center of the story.</td>
   <tr>
     <td>24</td>
     <td>Son</td>
-    <td>And Jesus answered them, “See that no one leads you astray. 
+    <td>And Jesus answered them, “See that no one leads you astray. <br/>
         For many will come in my name, saying, <br/> 
         ‘I am the Christ,’ <br/>
         and they will lead many astray. (Matthew 24:4-5) <br/>
