@@ -1239,8 +1239,260 @@ blindness to what transpires up there that deceives us.
 This schematic shows the direction of flow from above to below and start to finish for
 the Ten Commandments:
 
-In progress...
+<img src="images/as-above-so-below.png" alt="As above, so below" width="800" height="287"/>
 
+Looking at the horizontal sweep of seven steps, you can see hints of both the Growth
+and Harvest Patterns, but the fit is less precise than correspondences found elsewhere in
+Scripture. The beginning of the story (God as creator and parents as having children)
+makes sense as the preparation or security phase. The end of the story makes sense, with
+the seventh day of rest sharing the same spirit as peace and contentment, the opposite of
+covetousness. The story behind the middle imperatives is fuzzier. One thing can be said. It
+describes a plan for delivering peace to a broken world.
+
+First, let us look at the clearer explanations of the vertical “as above, so below” links
+from the previous diagram.
+
+**1 to 5: Creator**. We are to have no other gods because He is our creator, and no one else
+can claim that title. Mothers and fathers imitate God by their activities in procreation.
+Many people think of the first commandment as the most important. I would put it
+second, but only by being combined with the fifth. The two essentials of God’s plan for
+peace are a channel for blessing and the blessing itself. The fifth commandment is the
+channel of blessing. It is the only commandment that comes with a promise, 
+*“that your days may be long in the land that the Lord your God is giving you.”* (Exodus 20:12)
+
+How does the blessing for honoring parents become a channel for infinite blessing
+entering into our world? Remember what we discovered in Psalm 19 in the last chapter?
+The answer is **adoption**. Here is the chain of events:
+
+  - Jesus honors his Father (God) and his mother (Mary), calling forth God’s blessing for keeping the fifth commandment.
+  - Jesus on the cross pays for our sins, performing the work that empowers faith in him to accomplish a person’s **adoption** into God’s family.
+  - John said *“But to all who did receive him, who believed in his name, he gave the right to become children of God…”* (John 1:12) Our faith in Jesus gives us the right to be **adopted** into God’s family.
+  - Jesus said, *“For whoever does the will of my Father in heaven is my brother and sister and mother.”* (Matthew 12:49) This enables all believers, having now been **adopted**, to participate in the honor that Jesus bestows upon his parents and to receive that blessing.
+  - The blessing is entering into God’s eternal sabbath rest, defined in the fourth commandment.
+
+An important dimension of that channel of grace is that it enables an eternal, heavenly
+peace to be poured into a finite, temporal world of time-bound people. This is only
+possible because the eternal Word of God took on the nature of a finite human, bridging
+the chasm between time and eternity.
+
+All the work of God is essential, no step being superfluous, but the end goal is the most
+important: eternal rest and peace in God’s presence. That is why the fourth commandment
+is the most important. It channels the grace that is being delivered to the saints.
+
+**2a to 6: Incarnation & Sacrifice**. The direct, negative connection between the
+command against making idols and murder is the evidence from pagan rituals.
+Cannibalism, human sacrifice and child sacrifice make murder into a religion. Today’s
+religion of human sacrifice is the abortion industry, which enables the flourishing of
+adultery by hiding its consequences.
+
+The positive side of not making idols is what God did: He begat his Son, Jesus Christ.
+We are not to make idols in the form of anything in the heavens above or on the earth
+below. The Father, however, caused Jesus to take on the form of sinful man. That means he
+resembles the image of something on the earth below, but he was not made by human
+hands, so he is not an idol. Also, he is eternally begotten of the Father (John 1:18),
+meaning he was never “made”. The incarnation is the Father’s legitimate, sinless solution
+to mankind’s need for a God that we can see and relate to on a human level.
+
+The sixth commandment is the opposite of incarnation; murder is the destruction of the
+image of God in another person. The positive side of murder is Jesus’ voluntary sacrifice
+of his life to pay for our sins and give us his eternal life.
+
+Together these two commands speak of the incarnation and the crucifixion of Jesus.
+One speaks of his descent to earth, the other begins his return journey to heaven.
+
+**2b to 7: Worship**. The opposite of worshiping an idol as in the second part of the
+second commandment is worshiping the true God. The seventh commandment forbids
+adultery, which the Bible uses as a parable for false worship. False worship destroys the
+church and harms or ruptures our relationship with God, breaking up our spiritual family.
+Literal adultery destroys our earthly families. The two commands are one.
+
+**3 to 8: Faith & Grace**. The third commandment forbids using the name of the Lord in
+vain. One way to do this is to pray without faith, asking God for things we don’t believe
+he can or will give us. We are told by Jesus in his Sermon on the Mount to ask, seek and
+knock and by James to not doubt. The prayer of doubt is vain speech.
+
+A second way to use the name of the Lord in vain is to be a false prophet or teacher.
+Such a person says words that are not from God, makes promises that God has not said he
+will keep, and arrogates authority to themself that is not rightfully theirs. The evils that
+spring from such false prophets are greater than what proceeds from material thieves,
+because even the righteous are often caught up in such wickedness.
+
+The eighth commandment against theft would seem not to match the third. Stealing
+God’s authority for yourself is worse than stealing money directly. Corrupt religious
+leaders are notorious for fleecing the flock for tithes and spending it on their own selfish
+desires. False visions have started wars.
+
+The opposite of these two is the Lord’s generosity. We tried to steal his life but he gave
+his life willingly. He asked the Father again and again for miracles of healing and
+deliverance and countless thousands were blessed.
+
+The Lord did steal something: he bound the strong man and stole back souls in bondage
+to Satan.
+
+**4a to 9: Holiness and Truth**. The second and third parts of the sabbath
+commandment tell us what to do when it is not the sabbath and what not to do when it is
+the sabbath. This first part tells us what to do on the sabbath: keep it holy. What does that
+mean? The ninth commandment forbids lying. This gives us a clue about what to do on
+the Sabbath: tell the truth to God. It means to talk to him and listen to what he prompts
+your heart to do. The ninth plague was of darkness. Jesus is the Light of the World, so
+keeping the Sabbath holy means letting the light of Christ as found in the gospel shine
+into your soul.
+
+**4b to 10a: Purpose and Place**. Ecclesiastes tackles the challenge of finding purpose in
+our work. The second part of the fourth commandment is the command to work six days.
+If God commands it, it is not vain and futile.
+
+The first part of the tenth commandment calls on us to not covet our neighbor’s house.
+If you combine this with the upper half, that means each person must build their own
+house. In Peace, chapter ten of Ecclesiastes was shown to be a parable of how to build a
+house, which is more than a building; it is a strong family. That is our temporary abode. If
+you trust Jesus, you know that he has promised to build something permanent for his
+family of faith:
+
+#### Let not your heart be troubled: ye believe in God,
+#### believe also in me. In my Father's house are many mansions:
+#### if it were not so, I would have told you.
+#### I go to prepare a place for you.
+#### And if I go and prepare a place for you, I will come again,
+#### and receive you unto myself;
+#### that where I am, there ye may be also.
+###### - John 14:1-3, KJV
+
+In Revelation, this place of many mansions is revealed in all its splendor:
+
+#### Then I saw a new heaven and a new earth, 
+#### for the first heaven and the first earth had passed away, 
+#### and the sea was no more. And I saw the holy city, new Jerusalem, 
+#### coming down out of heaven from God, prepared as a bride 
+#### adorned for her husband. 
+#### And I heard a loud voice from the throne saying, 
+##### “Behold, the dwelling place of God is with man. 
+##### He will dwell with them, and they will be his people, 
+##### and God himself will be with them as their God. 
+###### - Revelation 21:1-3, ESV
+
+The opposite of covetousness is waiting for the closing date to pass papers on a house
+without a mortgage. The closing date is the Day of the Lord. The papers are the heavenly
+scroll, unsealed by the Lamb. The house is the heavenly city. The check is drawn on God’s
+treasury, Jesus Christ. And there is no quarterly water bill to pay the MWRA, because the
+river of life is free.
+
+**4c to 10b: Eternal Rest and Wedding Banquet**. The final part of the sabbath
+commandment is to rest on the seventh day. Do we rest alone? No, because God said, “It is
+not good for the man to be alone.” Eve was made for Adam to be his bride, but the
+Church was made for Christ to be his. We are not to covet our neighbor’s wife or husband
+because our heavenly union will far exceed in joy and peace anything that we could find
+in an illicit affair.
+
+And the angel said to me, “Write this: Blessed are those who are invited to the marriage supper of the
+Lamb.” And he said to me, “These are the true words of God.” (Revelation 19:9)
+
+## Growth along the Lower Level
+
+One reason that the horizontal links between the commandments are fuzzy is that the
+pattern makes more sense on the lower level of commands to love our neighbor than the
+upper level level related to loving God. Thus we shall first address the seven imperatives of
+the fifth through the tenth commandments.
+
+The seven imperatives form a Growth Pattern, but most imperatives match two
+consecutive growth phases, not one. This complication was unexpected and made
+discovering and verifying the pattern difficult. Thus the commandments overlap each
+other, yet still proceed to the same goal.
+
+  - **Security (5)**. The 5th commandment to honor parents identifies parents as the source of a child’s security and matches “a time to be born”.
+  - **Ability (5,6)**. Parents (of the fifth commandment) train children to develop their mental and physical abilities. Then the sixth commandment against murder matches “a time to kill”, one of the four times that goes with this growth phase.
+  - **Stability (6,7)**. The sixth commandment is against murder, which springs from anger, an emotion teens must master during the stability phase. The seventh commandment is against adultery, which springs from lust and other emotions that must also be mastered.
+  - **Amity (7,8)**. Amity is about friendship, romance and marriage. Adultery destroys marriages. The eighth commandment gainst theft concerns unequal partnerships where a selfish friend or lover pursues their own interests exclusively, like a leech or an abuser.
+  - **Opportunity (8,9)**. The eighth commandment against theft in this case is usually literal. It can include stealing intangible opportunities from others but most commonly means stealing tangible goods or money. The ninth commandment against lying can mean falsely claiming responsibility for a good idea or accomplishment, blaming a colleague for a mistake or cheating people in a business venture by lying about the quality or quantity of the goods delivered. The Lord hates lying scales.
+  - **Community (9,10a)**. Community is built upon open, truthful communication, as
+in “a time to be silent” and “a time to speak”. Breaking the ninth commandment
+against lying destroys community, as in “a time to tear”. So does the enmity that
+springs from a covetous heart. The first part of the tenth commandment forbids
+coveting your neighbor’s house. A house can be a building, but it can also represent a
+family, clan, church or larger group of people. In that case, coveting means desiring
+the power and prestige that another person enjoys in the community.
+  - **Loyalty (10a,10b)**. Finally, our chief loyalty should be toward Christ and his
+church. The house we should desire is the house of God and the person we should
+desire with our whole heart is Jesus. Covetousness in this case is false religion. The
+opposite of covetousness is the contentment of “a time for peace”.
+
+The above concordance demonstrates that the second half of the commandments
+provide guardrails that foster growth. This is further evidence that the pillars of wisdom,
+which conform in greater detail to the Growth Pattern, fit into forms carved from the
+foundation of Lady Wisdom’s house, the Law.
+
+## The Upper Story Harvest
+
+Can we replicate our success of matching the lower level of commandments to the
+Growth Pattern? The pattern we should expect for the upper level is a Harvest Pattern.
+Why expect this? Jesus was called “something greater than Solomon”. Solomon’s Growth
+Pattern concerned affairs “under the sun”, which means it must be the inferior “so below”
+pattern. If Jesus’ Harvest pattern is greater, it must go with the “as above” upper level.
+(Recall that the Seven Pillars are sequenced according to the Harvest pattern, symbolizing
+its superiority over the pillars’ internal Growth Patterns.) Here is the concordance between
+the first seven imperatives and this pattern:
+
+  - **Preparation (Preamble, 1)**. “I am the Lord your God…”. The defining aspect of preparation is acknowledging that God is your Lord; it is the Fear of the Lord, the heart of the preamble and the first commandment.
+  - **Plowing (2a)**. The beginning of the second commandment forbids making idols. This connection is profound. Solomon tells us that the heart of the wise is in the house of mourning, but the heart of fools is in the house of feasting and pleasure. We short circuit God’s purpose for us in mourning if we seek an illegitimate way out. The common shortcuts are alcohol, drugs, sex, and the pursuit of wealth. These are our idols, which we make to save us from our sorrow.
+  - **Planting (2b)**. The end of the second commandment forbids worshiping idols. That is the rooting in our minds of the false ideas that our idols are teaching us.
+  - **Pouring (3)**. The third commandment is about using the name of the Lord in vain. It sounds like speaking, which is verbal and belongs with the planting phase. Instead, the key word is “vain”. Meaninglessness and futility are an affliction of the heart. Vain prayer is faithless prayer. It has no seed so sprouts no shoots. False prophecy and religious manipulation of others is a fruit of pride, another blot upon the heart.
+  - **Plucking (4a)**. The first sabbath imperative is to keep the sabbath holy. It is about making your relationship with God a priority. Plucking is God disciplining us to adopt sane priorities by removing the weeds of distraction. The main distraction is our work and the worries that attend it.
+  - **Producing (4b)**. The second sabbath imperative is to work. To produce a harvest at the end of the season requires hard work. Laziness is the enemy here.
+  - **Peace (4c)**. The final sabbath imperative is to rest on the seventh day. Without question, this is a call to peace.
+
+Now we can see that the Law is an indispensable support for both producing a harvest
+and promoting spiritual growth. The commandments show how the spiritual harvest in
+the upper level, which yields spiritual treasures, funnels those treasures down to earth to
+trigger spiritual and material growth in the world “under the sun”. Jesus said, “But seek
+first the kingdom of God and his righteousness, and all these things will be added to you.”
+(Matthew 6:33) He meant it.
+
+## Altogether Now
+
+After examining all these commandments, it should now be clear why the fourth
+commandment (and its mirror in the ninth and tenth) is the most important
+commandment. It is the goal, the consummation of our faith, the eternal rest delivered
+into our temporal world at last and celebrated at the wedding feast. If you look at the forth
+commandment closer, you will notice that it is the only command with three imperatives,
+and there is one imperative for each member of the Trinity. This commandment shows
+that eternal peace consists in living in harmony and communion with all three persons of
+the Trinity.
+
+Introduced in Peace and recapped in this book, Ecclesiastes enumerates the types of
+prophetic clocks. They are also hidden in the commandments. The preamble speaks of
+liberation from Egypt, followed by Ten Commandments to preserve liberty. That points to
+the Empire Clock of ten empires, found earlier in Job. The second commandment then
+evokes a Generational Clock:
+
+#### You shall not bow down to them or serve them, 
+#### for I the Lord your God am a jealous God, 
+#### visiting the iniquity of the fathers on the children 
+#### to the **third and the fourth generation** of those who hate me, 
+#### but showing steadfast love to **thousands** of those who love me 
+#### and keep my commandments.
+###### - Exodus 20:5-6
+
+The two groupings of seven imperatives suggests a Spiritual Clock as well as the sabbath
+regulation’s use of seven. Then, the fourth commandment suggests a Celestial Clock, by
+reference to the creation of the heavens, which includes the heavenly timepieces:
+
+#### For in six days the Lord made heaven and earth, 
+#### the sea, and all that is in them, and rested 
+#### on the seventh day. Therefore the Lord blessed 
+#### the Sabbath day and made it holy.
+###### - Exodus 20:11
+
+The numbers three, four, six, and thousand describe salvation history. God works for six
+thousand years to prepare for the delivery of eternal peace, which happens in the seventh
+millennium. The other division of history is four thousand years from creation to Christ
+and three more thousand years (one abbreviated) from Christ to consummation.
+(Alternately, it is three thousand years from the creation to King David and another four
+thousand years until the unending reign of David’s son, Jesus.)
+
+Taken together, the Ten Commandments describe God’s Trinitarian nature, His plan of
+salvation and spiritual growth, how peace shall be communicated from Heaven to Earth,
+and how long the process will take. Truly, the Law of Christ is a marvel of compactness
+and mystery. It is complete, with no holes in it. Not so our hearts…
 
 <hr/>
 
