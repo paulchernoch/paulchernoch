@@ -75,8 +75,20 @@
   vertical-align: top;
 }
 
-.article tr:nth-child(even) {
-  background-color: #f2f2f2;
+/* Matthew and the Law of Christ table */
+
+.matthew th {
+  background-color: #606080;
+  color: white;
+}
+
+.matthew tr:nth-child(even) {
+  background-color: #f0f0ff;
+}
+
+/* Override rule above to left align specific columns */
+.matthew td:nth-child(1), .matthew td:nth-child(2) {
+  text-align: center;
 }
 
 /* 
