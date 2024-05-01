@@ -60,9 +60,8 @@ Lapis lazuli is foundational to a promise:
 
 Job includes lapis lazuli in his inventory of treasures in Job 28. The law of God is our
 greatest treasure, as David argued in Psalm 119. The remaining parts of God’s house are
-connected to this precious foundation by structure and imagery. The chapter “Matthew
-and the Law of Christ” shall develop the Law Pattern and rigorously show how the Law
-connects to the Harvest and Growth Patterns, hence the pillars.
+connected to this precious foundation by structure and imagery. The chapter 
+[Matthew and the Law of Christ](./matthew-and-the-law-of-christ.html) shall develop the Law Pattern and rigorously show how the Law connects to the Harvest and Growth Patterns, hence the pillars.
 
 ## Pillars
 
@@ -126,7 +125,7 @@ Each pair of opposites in Hannah's prayer matches a pillar book, a phase of the 
 and a period in history. 
 
 (See [Hannah's Song](./hannah-s-song.html) for an extended analysis of her prayer.
-It shows that the ten verses her prayer are also intentionally structured according to the Ten Commandments.
+It shows that the ten verses of her prayer are also intentionally structured according to the Ten Commandments.
 This is another fastener connecting the parts of the house together.)
 
 ## Footings
@@ -305,6 +304,110 @@ House, pillar, beast and feast. This proverb of Lady Wisdom’s house ties toget
 threads of prophecy. That is the matrix in which the Ten Commandments fit. To
 understand those commandments and the corresponding ten plagues, we must first speak
 of Solomon’s Growth Pattern. The reason is that most of the Bible’s prophetic clocks do
-not satisfy all thirteen of the expectations laid out earlier. They satisfy some requirements
-and then point to a related clock to provide the rest. Often, that clock is Solomon’s.
+not satisfy all thirteen of the expectations laid out earlier (in the chapter titled 
+"The Shape of a Prophetic Clock" in *Plague, Precept, Prophet, Peace*). 
+They satisfy some requirements and then point to a related clock to provide the rest. 
+Often, that clock is Solomon’s.
+
+## Put Your House in Order
+
+Lady Wisdom has her house in order. Do you? When I was younger, people read *Better Homes and Gardens*
+to get ideas for how to make their home comfortable for their family and attractive and inviting
+for guests. Consider Lady Wisdom to be our magazine editor. She has shown us what a 
+mature, well-ordered house looks like. It is up to us to imitate her.
+
+The articles on this site speak in terms of wisdom and maturity. There is another word that is relevant; 
+it is sanctification. Sanctification means to be set apart by God for a special purpose. 
+Part of that purpose is to become progressively more like Christ in holiness. 
+
+#### But thanks be to God, that you who were once slaves of sin 
+#### have become obedient from the heart to the standard of teaching
+#### to which you were committed, and, having been set free from sin, 
+#### have become slaves of righteousness. I am speaking in human terms, 
+#### because of your natural limitations. For just as you once 
+#### presented your members as slaves to impurity and to lawlessness 
+#### leading to more lawlessness, so now present your members as 
+#### slaves to righteousness leading to **sanctification**.
+###### - Romans 6:17-19
+
+For every Christian, having already received salvation through faith in Jesus Christ,
+is to spend the balance of their life in this pursuit. That means that progressing 
+through the seven stages of the Growth Pattern is the roadmap for your Christian walk.
+It is your checklist, to assess how far you have come and to guide you toward greater maturity.
+That pattern is not just given to individuals; it is given to churches and God's desire
+is to promote it throughout the whole world in every familial, social and political grouping.
+
+  - Following Solomon's on-the-nose advice in Ecclesiastes and Proverbs is the application of the Growth Pattern to your life "under the sun". That is the normal, materialistic human development that all people - regardless of religion or philosophy - can understand and benefit from.
+  - Following Jesus' parables and sermons in Matthew is the application of the Growth Pattern to individual salvation and sanctification. 
+  - Following Paul's teachings in his first seven letters, from Romans to Colossians, is the application of the Growth Pattern to churches, fostering the growth of a nurturing spiritual family.
+  - Following John's teachings in Revelation is the application of the Growth Pattern to world history, as the Lord extends his reign to the ends of the earth
+
+Christians must operate at all these levels, as mortal human, as eternal saint, as member of a local part of the 
+body of Christ and as a citizen of God's greater kingdom. God has made this vast work intelligible by replicating 
+the same pattern at all scales, with relevant adjustments at each level. In American government this is called the
+principle of subsidiarity.
+
+The Growth Pattern presents a problem. There is a general limit to the progress that Christians may make
+as they advance in the faith. It is difficult to advance beyond the level that the church is at.
+You see, individual Christian and church are dependent each upon the other. Rare individuals may 
+progress spiritually far beyond the era in which they live. They are beacons followed in due course
+by the rest. However, many such have endured persecution.
+
+To drive the preceding point home, consider the first stage of growth, security. In the section of Matthew
+that corresponds with **Security** (chapters 1-4), we see the Father's sovereign protection of Jesus from death,
+ending at his baptism. Not at all endorsing baptismal regeneration, this implies that Christian baptism 
+caps off a series of spiritual transactions that cements the security of the believer. Likewise Paul in Romans
+speaks at length about the security of the believer, saying that nothing can separate us from the love of God
+that is in Christ. I my reading of church history, the long span from Pentecost to the Reformation was dominated
+by a church that did not teach the eternal security of the believer. The church was stuck in the first
+phase of growth. 
+
+Following the Reformation, the church entered a new era. Calvinists and others now accepted eternal security,
+but eventually their zeal settled into an dry, intellectual faith. They lacked the gifts of the spirit.
+It remained until the Great Awakening and similar movements to embrace the **Ability** and **Stability** phases, 
+with all their challenges. Just as the Corinthian church struggled to express their gifts in a humble, loving 
+and sensible way, so Christian revivals presented challenges to unity and orthodoxy. 1 Corinthians addresses the 
+manifestations of gifts while 2 Corinthians matches the rampant emotionalism that undermined and made disreputable
+the progress made by the charismatic groups.
+
+The **Amity** phase hit the church hard in the nineteenth century. Corresponding to Galatians, the challenge
+was the advent of a different gospel, liberalism, seducing away many churches and believers. Maintaining 
+faith in the authority and inerrancy of Scripture was the big task.
+
+The **Opportunity** phase may be the one that the church is in now. This is the Ephesians stage.
+"Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Christ with every 
+spiritual blessing in the heavenly places." (Ephesians 1:3) The vast wealth that the church has 
+acquired over the last century or so and its success at World evangelism have become a snare. 
+We need to be focused, grateful and humble in the midst of succ excess.
+
+The next phase will be the **Community** phase, where the church is trained in the ways of Philippians.
+Self-sacrificial service and cooperation are what the church must learn. In my books, I associate 
+"a time to tear and a time to mend" which are part of this phase with the Protestant Reformation, 
+a time of civil war followed by healing. That movement led to the creation of a community of churches
+instead of a single, dominant church, the Roman Catholic Church. However, that instance of the Growth Pattern
+was a materialistic, political realization of the pattern, ala Ecclesiastes, which is about life "under the sun".
+The expression of the pattern for the spiritual advancement of the faithful church as consistent with 
+Paul's letters occurs later. It is the maturing of the entities formed during that longer term pattern.
+Thus one instance of the growth pattern formed the new Protestant churches, while another charts their
+progress toward maturity.
+
+My personal conviction that the church of today should pay attention to Philippians is based on my own life experience.
+Philippians is the New Testament book that I struggled longest and hardest to understand. 
+The unmasking of its truth required that I begin to cooperate with the church and do things that I didn't
+want to do because of my selfishness and individuality. Considering others better than yourself does not
+come easily.
+
+All of this talk of historical phases of church development does not excuse any of us from tackling 
+all the phases during our own lives. We have an individual responsibility to pursue sanctification,
+not just a collective one. So here is my prayer for you:
+
+#### May the Lord grant that you be secure in your faith, 
+#### spiritually gifted, emotionally resilient, 
+#### doctrinally sound, making the best of every opportunity,
+#### working as one for the sake of others,
+#### and possessing all the treasures of wisdom and knowledge,
+#### fully mature in both knowledge and actions as you 
+#### overcome the world and persevere until he returns in glory.
+#### Amen.
+
 
