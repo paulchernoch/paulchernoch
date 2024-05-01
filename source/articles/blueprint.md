@@ -1,5 +1,6 @@
 ---
 title: Blueprint for Lady Wisdom's House
+quote: Let each of you look <br/> not only to his own interests, <br/> but also to the interests of others. <br/> - Philippians 2:4
 ---
 ## Abstract
 
@@ -378,7 +379,7 @@ The **Opportunity** phase may be the one that the church is in now. This is the 
 "Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Christ with every 
 spiritual blessing in the heavenly places." (Ephesians 1:3) The vast wealth that the church has 
 acquired over the last century or so and its success at World evangelism have become a snare. 
-We need to be focused, grateful and humble in the midst of succ excess.
+We need to be focused, grateful and humble in the midst of such excess.
 
 The next phase will be the **Community** phase, where the church is trained in the ways of Philippians.
 Self-sacrificial service and cooperation are what the church must learn. In my books, I associate 
@@ -396,6 +397,12 @@ Philippians is the New Testament book that I struggled longest and hardest to un
 The unmasking of its truth required that I begin to cooperate with the church and do things that I didn't
 want to do because of my selfishness and individuality. Considering others better than yourself does not
 come easily.
+
+#### Do nothing from selfish ambition or conceit, 
+#### but in humility count others more significant than yourselves. 
+#### Let each of you look not only to his own interests, 
+#### but also to the interests of others.
+###### - Philippians 2:3-4
 
 All of this talk of historical phases of church development does not excuse any of us from tackling 
 all the phases during our own lives. We have an individual responsibility to pursue sanctification,
