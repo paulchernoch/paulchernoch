@@ -446,7 +446,7 @@ friends. It is a miracle that it did not end my marriage. My unrealistic idea of
 exhausted me as I tried to implement it in my life and family. On the other hand, I read *Kingdom of the Cults*, 
 *The Counterfeit Revival* and other books battling the spread of a different gospel through the church. 
 I was devastated when one such movement sunk its teeth into my church for a number of years. 
-My family left that church for seven years, only returning only after that heretical movement died out 
+My family and I left that church for seven years, returning only after that heretical movement died out 
 and its adherents scattered. The late nineties and into the next decade I devoted to studying the basics of the 
 faith, especially spiritual values and worship. That was when I began to teach Sunday School at church.
 Learning to embrace and refrain from embracing people, churches, and religious movements was hard.

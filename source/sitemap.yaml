@@ -119,7 +119,8 @@
       named: blueprint.md
       dates: [2024-04-29]
     - title: "Foundation: The Commandments"
-    - title: "Lanterns: Seven Spirits of God"
+    - title: "Lanterns: The Seven Spirits of God"
+      named: seven-spirits.md
     - title: Seven Pillars of Wisdom
       parts:
       - title: Psalms
