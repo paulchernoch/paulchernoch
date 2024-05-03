@@ -299,7 +299,7 @@ The Bible has given us evidence of at least four:
   - To assist with the final judgment of mankind during the time of the Great Tribulation
 
 The reason that we are able to make this determination is because each time the spirits were sent out in 
-the order they are listed in Isaiah and influence the character of the activities that occur in each phase.
+the order they are listed in Isaiah and they influence the character of the activities that occur in each phase.
 By studying the events and reflecting on the details of each step, we can detect which spirit was at work
 and so confirm the pattern.
 
@@ -309,6 +309,72 @@ what God is doing in your life right now, and how you can cooperate with the Hol
 
 ## First Sending: During the Days of Creation
 
+**Day 1**: *Let there be light...* In Revelation 4:5, the spirits are called "seven torches of fire". 
+In Genesis 1:2, "the Spirit of God was hovering over the face of the waters." 
+Thus we know from the text that the Holy Spirit is present and participating in the creation of light.
+God is introduced as the creator. The most important point being made is that He is the Lord of creation,
+who initiated and governed every aspect of its manufacture. This is the **spirit of the Lord**, or Lordship.
+
+**Day 2**: *The heavens, sky and the separation of the waters.* This is the only day of which it was not said
+that God saw that it was good. There is a correspondence between the days of creation and the millennia
+of history. The second millennia is when the great flood occurred, another event involving water. 
+That millennia saw great wickedness, flood, the tower of Babel and the beginnings of slavery. 
+That millennia was full of suffering, and it is suffering that produces wisdom. That is
+why we can see the presence of the **spirit of Wisdom** here. Wisdom is about making distinctions.
+The waters were separated. The water of the Heavens was separated from the waters of the earth.
+This expanse of separation signifies the great distance between us and God.
+It was that distance that tormented Job and forced him to come to grips with God's ways.
+
+**Day 3**: *Dry ground, seeds, plants and fruit trees.* The planting phase of the harvest pattern is obvious.
+The **spirit of understanding** is tied up in worship. Though plants are not very smart, they are the first living
+things upon the face of the earth, the first things that can respond to the good world that God has given them.
+
+**Day 4**: *Sun, moon and stars.* The **spirit of counsel**, as evidenced in Song of Songs, 
+is about giving advice about what to do and when. The when requires us to plan our days, to measure them.
+That would not be possible without God's heavenly timepieces, which govern the days, seasons, and years.
+
+**Day 5**: *Fish and birds.* The **spirit of might** is all about giving out a noble task, and 
+fostering the focus and strength needed to complete that task without giving in to distraction or laziness.   
+For the first time in creation, such a task is assigned by God to his creatures:
+
+#### And God blessed them, saying, 
+##### “Be fruitful and multiply and fill the waters in the seas, 
+##### and let birds multiply on the earth.”
+###### - Genesis 1:22
+
+This is the day when the great sea serpent, Leviathan, was created, which would come to symbolize 
+strong and terrible empires. God said of this creature:
+
+#### In his neck abides strength, 
+##### and terror dances before him."
+###### - Job 41:22
+
+#### Though the sword reaches him, it does not avail, 
+##### nor the spear, the dart, or the javelin.
+###### - Job 41:26
+
+Yes, might dwells in the sea.
+
+**Day 6**: *The animals and mankind.* The *spirit of knowledge* waited until day 6 to arrive,
+for none of God's material creations has the capacity to acquire knowledge to the extent that
+humans can. Furthermore, Jesus would one day become the only man filled with all the treasures of wisdom and knowledge.
+Also, this knowledge is about producing a harvest and having dominion over the earth, 
+and Adam's task was to till the earth and do just that.
+
+**Day 7**: God rested. The sequencing of events in Genesis 2 is tricky. It seems to back up and give 
+additional details of the creation, before moving forward again. Thus it is difficult to determine whether 
+the command to not eat from the tree of the knowledge of good and evil was given on day 6, day 7 or later. 
+However, textually the command was given following the description of the seventh day when God rested, 
+the first sabbath. The command and its associated punishment of death is the first place
+in the Bible where a note of fear is introduced. Thus this is when the **spirit of the Fear of the Lord** entered the scene.
+
+One might counter that it is impossible for God to divide himself, to express wisdom only on day two, or
+might only on day five. That is not the point. Some people argue that God created the universe instantly,
+that it is an affront to His glory to say that it took Him a whole seven days to complete the job.
+God does what He does, emphasizing one thing here and another thing there, because He is a teacher
+to creatures that are not infinite. Thus the story of the creation shows traces of the work of each 
+spirit spread out among the days so that we can see that there is an order to things in God's economy,
+and we should imitate Him if we want to be productive in our lives.
 
 ## Second Sending: With a Sword 
 
