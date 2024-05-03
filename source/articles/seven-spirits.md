@@ -227,6 +227,8 @@ The short answer is that they fit. However, the nature of that fit raises anothe
 |      <hr/>           |     <hr/>           |   <hr/>    | 
 | The Fear of the Lord | Peace               | This is the tricky connection, to be discussed below.  |
 
+<hr/>
+
 The most perplexing thing about the ordering of the Spirits is the placement of the Spirit of the Fear of the Lord
 in last place. Remember, the Bible teaches that "the fear of the Lord is the beginning of wisdom" 
 (Psalm 111:10; Proverbs 9:10) or of knowledge (Proverbs 1:7). Why does it not come first?
@@ -269,7 +271,41 @@ learn from it and walk in it. A people so discipled will produce so much fruit, 
 miraculous provision from God, that the world will take notice and give way before them in fear,
 knowing that such a people has the protection of God and cannot be destroyed.
 
-<hr/>
+## The Sending Out of the Seven Spirits
+
+#### And between the throne and the four living creatures 
+#### and among the elders I saw a Lamb standing, 
+#### as though it had been slain, 
+#### with seven horns and with seven eyes, 
+#### which are **the seven spirits of God** 
+#### **sent out into all the earth**.
+###### - Revelation 5:6
+
+On reading the above verse, several questions come to mind.
+
+  - When were the Seven Spirits sent out? 
+  - Were they sent out all at once or in a particular order?
+  - Were they sent out once or many times, for different missions?
+  - When sent out, what was the purpose of their sending?
+
+All these questions have answers, and finding them was a pleasant surprise. 
+The one question that is unanswered is how many times the spirits have been sent out. 
+I suspect the number is huge. We don't need to know about all their missions, though.
+The Bible has given us evidence of at least four:
+
+  - To assist with the creation of the world
+  - To execute key judgments against humanity throughout history and so advance God's plan of salvation at the longest time scale
+  - To discipline and train believers during the church age
+  - To assist with the final judgment of mankind during the time of the Great Tribulation
+
+The reason that we are able to make this determination is because each time the spirits were sent out in 
+the order they are listed in Isaiah and influence the character of the activities that occur in each phase.
+By studying the events and reflecting on the details of each step, we can detect which spirit was at work
+and so confirm the pattern.
+
+Once you see these pattens in salvation history, you will have proof that this sequence is powerful and important.
+Then you will gain confidence that attuning yourself to the seven spirits will enable you to gain insight into 
+what God is doing in your life right now, and how you can cooperate with the Holy Spirit's work.
 
 ## First Sending: During the Days of Creation
 
