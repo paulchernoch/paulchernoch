@@ -901,8 +901,8 @@ in what is right and wrong!
 A church about to die is is exactly the kind of church that needs a visit from the spirit of might!
 In my prophetic analysis elsewhere, this era of church history ran from roughly 964-1453 AD. 
 (Upon further reflection, I might extend the era to about 1500 AD, to include the good news of
-God's sending of relief. It is difficult to know if the blessings should be included in era that was offered them,
-or the following era, as a sign of God's grace, whereby the gift cause the new era to begin.)
+God's sending of relief. It is difficult to know if the blessings should be included in the era that was offered them,
+or the following era, as a sign of God's grace, whereby the gift causes the new era to begin.)
 The death was the destruction of the Byzantine Empire with the fall of Constantinople in 1453 AD. 
 This capped off the loss of a third of Christendom to Muslim invaders. The strengthening by God
 was the discovery of the New World a few decades later. The conquest of the New World revived the fortunes
@@ -938,7 +938,7 @@ upon the world.
 As the seven pillars of Wisdom represent all wisdom and all knowledge,
 the promise to be made into such a pillar indicates the acquisition of great learning.
 
-**Laodicea**. (Revelation 3:14-22) This church will receive a visit from the spirit of the **Fear of the Lord**.
+**Laodicea**. (Revelation 3:14-22) This church will receive a visit from the **spirit of the Fear of the Lord**.
 It represents the final church age. I believe we are at its beginning, though parts of the world are still
 living in the age of Philadelphia. This is the church that will be around when the Great Tribulation reaches
 its greatest intensity and the church endures the greatest hardship. 
@@ -969,6 +969,27 @@ greatest ally in the final war against the enemies of God.
 
 ## Fourth Sending: To Open the Seven Seals
 
+Whenever people speculate about the opening of the seven seals in Revelation, talk inevitably turns to these questions:
+
+  - When will each seal be opened?
+  - What events will happen, which are meant by the mysterious symbols and parables found in Revelation?
+
+Those questions are unanswerable because the people who propose answers for the above have nothing to say about this question:
+
+  - What is being unsealed?
+
+In "Appendix H: Clues to the Seven Pillars" in *Peace, like Solomon Never Knew*, I offer an answer to that question.
+With that answer, you can make progress towards solving the other two.
+What is being unsealed in Revelation 6 and 8 are pillars of wisdom.
+As each seal is cut, the next pillar book is unsealed, made more intelligible to the church by the relevant Spirit of God.
+Thus the unsealing has two consequences:
+
+  - The church is further enlightened, strengthening it
+  - The unbelieving world is plagued by a resurgent church
+
+So much attention is focused at the plagues upon the unbelievers that the blessings of the new wisdom are dismissed.
+It is those blessings of new wisdom and capabilities that will enable the church to survive and thrive.
+We must devote quality time to listening to the good news!
 
 
 In progress...
