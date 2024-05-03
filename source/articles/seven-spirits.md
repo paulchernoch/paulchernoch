@@ -4,7 +4,7 @@ quote: ... I saw a Lamb standing... <br/> with seven horns and with seven eyes, 
 ---
 ## Abstract
 
-The Seven Pillars of God spoken of by John in Revelation are enigmatic. 
+The Seven Spirits of God spoken of by John in Revelation are enigmatic. 
 They factor into so many of the chapters in my recent books that a full accounting of their
 meaning is impossible for a short article. Some of the ideas here were covered by the chapter
 "Swords, Seals & Surviving to Saturday" in *Peace, like Solomon Never Knew*. 
@@ -194,14 +194,82 @@ wrath upon the inhabitants of the earth. Those events will finally teach the who
 By these arguments, it is sensible to associate each spirit with the books so named.
 There are other reasons for not associating other books with a spirit.
 The principle reason is that these seven books conform to the Growth and Harvest Patterns which mark them
-as pillar books, whereas other books do not. (Paul's first seven letters come close. Each corresponds to 
-one phase of the Growth Pattern; no single book matches them all. 
-See [The Apostle Paul's Discipleship Program](./pauls-discipleship-program.html) for the analysis of those 
-letters in terms of the Growth Pattern.)
+as pillar books, whereas other books do not. 
+
+NOTE: Paul's first seven letters come close. Each corresponds to one phase of the Growth Pattern; 
+no single book matches them all. They form the roof of Lady Wisdom's house,
+not pillars. The presence of the Growth Pattern in the letters collectively shows that the roof
+fits on top of the pillars. See [The Apostle Paul's Discipleship Program](./pauls-discipleship-program.html) 
+for the analysis of those letters in terms of the Growth Pattern.
 
 ## The Seven Spirits and the Harvest Pattern
 
+[The Harvest Pattern of Jesus](./harvest-pattern.html) has seven phases and there are seven spirits of God. 
+It was therefore natural to ask the question, "Does each spirit go with one phase of the harvest?"
+The short answer is that they fit. However, the nature of that fit raises another question as we shall see.
 
+<hr/>
+
+|        Spirit        |     Phase           | Connection |
+| :------------------: | :-----------------: | :--------- |
+|      <hr/>           |     <hr/>           |   <hr/>    | 
+|    Lordship          | Preparation         | Acknowledging Christ as Lord and being trained <br/> in the Ten Commandments is the necessary <br/> preparation for any harvest. |
+|      <hr/>           |     <hr/>           |   <hr/>    | 
+|    Wisdom            | Plowing             | Plowing is suffering, and through patiently suffering <br/> in faith we receive wisdom from God, <br/> just like Job. |
+|      <hr/>           |     <hr/>           |   <hr/>    | 
+| Understanding        | Planting Seed       | The seed of the gospel must be accepted, <br/> not lost to the birds. <br/> We accept it through worship, <br/> which is the foundation of understanding. |
+|      <hr/>           |     <hr/>           |   <hr/>    | 
+|    Counsel           | Pouring Water       | The Holy Spirit is the Counselor (John 14:26), <br/> and washing hearts with pure water <br/> to produce holiness is his forte. <br/> The sun-beaten, rocky soil of our hearts <br/> must be turned to flesh (Ezekiel 36:26) and watered. |
+|      <hr/>           |     <hr/>           |   <hr/>    | 
+|    Might             | Plucking Weeds      | Pruning branches and plucking weeds is hard work. <br/> For it, you need strength. <br/> The result is a focused, disciplined life. <br/> By not squandering your energies on fruitless diversions, <br/> you grow strong for the work God has set before you. |
+|      <hr/>           |     <hr/>           |   <hr/>    | 
+|   Knowledge          | Producing a Harvest | The harvest requires knowledge to bring in and <br/> the result of the harvest is increased knowledge. <br/> Jesus is the Lord of the Harvest, so <br/> the connection between knowledge, harvesting and the Gospel of Matthew <br/> is strong. |
+|      <hr/>           |     <hr/>           |   <hr/>    | 
+| The Fear of the Lord | Peace               | This is the tricky connection, to be discussed below.  |
+
+The most perplexing thing about the ordering of the Spirits is the placement of the Spirit of the Fear of the Lord
+in last place. Remember, the Bible teaches that "the fear of the Lord is the beginning of wisdom" 
+(Psalm 111:10; Proverbs 9:10) or of knowledge (Proverbs 1:7). Why does it not come first?
+
+In Ecclesiastes, the fear of God shows up in the argument in chapters 3, 5, 7, 8, 12 
+and is part of the conclusion:
+
+#### The end of the matter; 
+##### all has been heard. 
+#### **Fear God** and keep his commandments, 
+##### for this is the whole duty of man.".
+###### - Ecclesiastes 12:13
+
+It appears that the Fear of the Lord is integral to every phase of the Christian life.
+Is there something distinct that the Spirit of the Fear of the Lord does when 
+we get to the end of a harvest?  One wonderful Bible verse that ties together several 
+of these ideas is in Acts:
+
+#### So the church throughout all Judea and Galilee and Samaria 
+#### had **peace** and was being **built up**. 
+#### And walking in the **fear of the Lord**
+#### and in the **comfort of the Holy Spirit**, it **multiplied**.
+###### - Acts 9:31
+
+You can sense the complex and powerful dynamic that was causing the church to grow at that time.
+The trick is to understand the causal connections and see the process. Not all verses show process; 
+they list ideas in a different order to serve a different purpose. For example:
+
+#### if you seek it like silver
+##### and search for it as for hidden treasures,
+#### then you will understand the fear of the Lord
+##### and find the knowledge of God.
+###### - Proverbs 2:4-5
+
+If you take that verse to imply causation, then the fear of the Lord should come before knowledge. 
+An alternate reading is that the earlier phrase is really about the spirit of understanding,
+for you are made to "understand the fear of the Lord". That would mean that the final appearance 
+of the Fear of the Lord in sequence is to empower a people that has already been trained to love it, 
+learn from it and walk in it. A people so discipled will produce so much fruit, experience so much
+miraculous provision from God, that the world will take notice and give way before them in fear,
+knowing that such a people has the protection of God and cannot be destroyed.
+
+<hr/>
 
 ## First Sending: During the Days of Creation
 
