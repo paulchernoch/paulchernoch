@@ -379,7 +379,7 @@ and we should imitate Him if we want to be productive in our lives.
 ## Second Sending: With a Sword 
 
 Ephesians 6:17 refers to the *"the sword of the Spirit, which is the word of God".* 
-Hebrews 4:12 says that* "the word of God is living and active, sharper than any two-edged sword".*
+Hebrews 4:12 says that *"the word of God is living and active, sharper than any two-edged sword".*
 This powerful image tells us that the power of God's Word is wielded like a sword by the Holy Spirit.
 The Spirit wields that sword every day, but there are special occasions when the powerful effects
 of this swordplay overturn empires and change the course of history. The Bible takes note of
@@ -817,8 +817,151 @@ that then existed, but also apply to seven eras of church history. In the follow
 consider that each letter is written in a different spirit and has been applied at least
 twice in history.
 
+**Ephesus** (Revelation 2:1-7). The association between church and the **spirit of the Lord** here is fuzzy. 
+The Ephesus church represents the Apostolic Church, the first church age, the age that knew the Lord personally. 
+*"But I have this against you, that you have abandoned the love you had at first."* (Revelation 2:4)
+The main charge is that their love is weak. This is a weakening in their loyalty to the Lord.
+There is a connection to the time of the first sword, in Eden. 
+*"To the one who conquers I will grant to eat of the tree of life, which is in the paradise of God."* (Revelation 2:7b)
 
+**Smyrna**. (Revelation 2:8-11). The **spirit of Wisdom** is associated with the learning that comes through suffering, 
+just as Job learned about God through his. The church of Smyrna represents the era that endured the Roman persecutions.
+The city's name comes from myrrh, a spice used in preparing bodies for burial.
+
+#### "Do not fear what you are about to suffer.
+#### Behold, the devil is about to throw some of you into prison, 
+#### that you may be tested, and for ten days you will have tribulation. 
+#### Be faithful unto death, and I will give you the crown of life.
+###### - Revelation 2:10
+
+**Pergamum**. (Revelation 2:12-17) This city's name means "united in marriage".
+This is the era when Christianity became the state religion of the Roman Empire.
+It was like church marrying empire, with mixed results. By gaining authority over Rome,
+the church obtained a great sword, but it was a double-edged sword, which
+can harm the one that wields it.
+
+The **spirit of Understanding** has to do with worship, and this church tolerated
+idolatrous worship practices.
+
+#### But I have a few things against you: 
+##### you have some there who hold the teaching of **Balaam**, 
+##### who taught **Balak** to put a stumbling block before the sons of Israel, 
+##### so that they might eat food sacrificed to idols and practice sexual immorality.
+
+This letter opens up with the aggressive statement, *"The words of him who has the sharp two-edged sword."* (Revelation 2:12b)
+The first mention of a two-edged sword is in Judges, in the third millennium.
+The references to Balak and Balaam are from another story from that millennium, during the time of Joshua.
+For his deviousness in finding a way to curse Israel, Balaam died by the sword (Joshua 13:22).
+
+The blessing for this church (if it repents), also recalls the time of Joshua:
+
+#### To the one who conquers I will give some of the **hidden manna**, 
+#### and I will give him a white stone, with a new name written 
+#### on the stone that no one knows except the one who receives it.
+###### - Revelation 2:17b
+
+Joshua grew up during the wandering in the desert, when the people ate the miraculous manna from heaven.
+This is like communion bread only miraculous. It represents a swing in the other direction, to 
+a purer **understanding** of worship than has ever been experienced in this world.
+
+**Thyatira**. (Revelation 2:18-29) The matching spirit is the **spirit of Counsel**. 
+The curse and blessing in this letter are opposite sides of the same coin.
+
+#### But I have this against you, that you tolerate that woman Jezebel,
+#### who calls herself a prophetess and is teaching and seducing
+#### my servants to practice sexual immorality
+#### and to eat food sacrificed to idols.
+###### - Revelation 2:20
+
+The curse is for listening to a false prophetess, which means the church is listening to a spirit of false counsel.
+The offered blessing is more wonderful than merely switching from listening from false to true counsel:
+
+#### The one who conquers and who keeps my works until the end, 
+#### to him I will give authority over the nations.
+###### - Revelation 2:26
+
+What is better than receiving wise, godly counsel? Being wise and empowered to rule and advise others
+in what is right and wrong!
+
+**Sardis**. (Revelation 3:1-6) To this church was sent the **spirit of might**.
+
+#### “‘I know your works. You have the reputation of being alive, 
+#### but you are dead. Wake up, and strengthen what remains 
+#### and is about to die, for I have not found your works 
+#### complete in the sight of my God.
+###### - Revelation 3:1b-2
+
+A church about to die is is exactly the kind of church that needs a visit from the spirit of might!
+In my prophetic analysis elsewhere, this era of church history ran from roughly 964-1453 AD. 
+(Upon further reflection, I might extend the era to about 1500 AD, to include the good news of
+God's sending of relief. It is difficult to know if the blessings should be included in era that was offered them,
+or the following era, as a sign of God's grace, whereby the gift cause the new era to begin.)
+The death was the destruction of the Byzantine Empire with the fall of Constantinople in 1453 AD. 
+This capped off the loss of a third of Christendom to Muslim invaders. The strengthening by God
+was the discovery of the New World a few decades later. The conquest of the New World revived the fortunes
+Europe and the church.
+
+The blessing was certainly prophetic:
+
+#### The one who conquers will be clothed thus in white garments, 
+#### and I will never blot his name out of **the book of life**. 
+#### I will confess his name before my Father and before his angels.
+###### - Revelation 3:5
+
+What is this Book of Life? Is it the list of the elect, foreknown by God since the beginning of time?
+Is it a book of special rewards for the faithful? There is one Book of Life that we can find in
+the library today, and that is the Bible. The close of this era of church history occurred
+at about the time when Gutenberg printed the Bible using his new printing press.
+That event transformed the world.
+
+**Philadelphia**. (Revelation 3:7-13) If one church age showed the greatest evidence
+that its spirit made an appearance, it is this one. The **spirit of knowledge** upended
+civilization and revolutionized everything. This church era ran from roughly 1453 to 1990 AD. 
+The Age of Discovery, Reformation, Scientific Revolution, Industrial Revolution, Missionary Age, 
+Space Age and Information Age all fall within this era. God poured out knowledge of all kinds
+upon the world.
+
+#### The one who conquers, I will **make him a pillar** 
+#### in the temple of my God. Never shall he go out of it, 
+#### and I will write on him the name of my God, and the 
+#### name of the city of my God, the new Jerusalem, 
+#### which comes down from my God out of heaven, and my own new name.
+###### - Revelation 3:12
+
+As the seven pillars of Wisdom represent all wisdom and all knowledge,
+the promise to be made into such a pillar indicates the acquisition of great learning.
+
+**Laodicea**. (Revelation 3:14-22) This church will receive a visit from the spirit of the **Fear of the Lord**.
+It represents the final church age. I believe we are at its beginning, though parts of the world are still
+living in the age of Philadelphia. This is the church that will be around when the Great Tribulation reaches
+its greatest intensity and the church endures the greatest hardship. 
+
+#### So, because you are lukewarm, 
+#### and neither hot nor cold, 
+#### I will spit you out of my mouth...
+#### Those whom I love, I reprove and discipline, 
+#### so be zealous and repent. 
+###### - Revelation 3:16,19
+
+The above words cause me to fear, and they should make you feel the same.
+
+#### Behold, I stand at the door and knock. 
+#### If anyone hears my voice and opens the door, 
+#### I will come in to him and eat with him, and he with me. 
+#### The one who conquers, I will grant him to sit 
+#### with me on my throne, as I also conquered and 
+#### sat down with my Father on his throne.
+###### - Revelation 3:20-21
+
+The final offer made to that church is the true goal of the spirit of the Fear of the Lord 
+and all the seven spirits. In the middle of the tribulation, with the power of Satan at its height,
+with evil informants spying out our freedom and every human organization but one held captive
+by Leviathan, the fear of the Lord will not destroy the church. That fear will give the church the courage
+to stand firm and resist all evil, to conquer and reign with Christ. That final spirit will be the church's
+greatest ally in the final war against the enemies of God.
 
 ## Fourth Sending: To Open the Seven Seals
+
+
 
 In progress...
