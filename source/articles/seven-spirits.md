@@ -823,6 +823,8 @@ The Ephesus church represents the Apostolic Church, the first church age, the ag
 The main charge is that their love is weak. This is a weakening in their loyalty to the Lord.
 There is a connection to the time of the first sword, in Eden. 
 *"To the one who conquers I will grant to eat of the tree of life, which is in the paradise of God."* (Revelation 2:7b)
+This inverts the punishment given to Adam and Eve. Two angels bearing swords barred them from reentering Eden,
+but the church of Ephesus is offered a reversal of the ban and admittance into a new Eden.
 
 **Smyrna**. (Revelation 2:8-11). The **spirit of Wisdom** is associated with the learning that comes through suffering, 
 just as Job learned about God through his. The church of Smyrna represents the era that endured the Roman persecutions.
@@ -830,9 +832,14 @@ The city's name comes from myrrh, a spice used in preparing bodies for burial.
 
 #### "Do not fear what you are about to suffer.
 #### Behold, the devil is about to throw some of you into prison, 
-#### that you may be tested, and for ten days you will have tribulation. 
+#### that you may be tested, and **for ten days you will have tribulation**. 
 #### Be faithful unto death, and I will give you the crown of life.
 ###### - Revelation 2:10
+
+The ten days of tribulation were the ten Roman emperors who called for the persecution of Christians.
+Not only did the church survive to get that crown of life, but that crown was the
+conquest of the Roman empire without fighting a single battle, beginning with Constantine's Edict of Milan in 313 AD, 
+to be followed by the Edict of Thessalonica in 380 AD.
 
 **Pergamum**. (Revelation 2:12-17) This city's name means "united in marriage".
 This is the era when Christianity became the state religion of the Roman Empire.
