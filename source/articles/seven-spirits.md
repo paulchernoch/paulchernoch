@@ -1312,7 +1312,10 @@ The tumultuous events that cracked this seal were:
   - Political: The French Revolution and Napoleonic Wars
   - Social and Religious: Britain's passage of the Slave Trade Act of 1807
 
-The connection to Proverbs is mostly thematic. The only scholarly connection I can find is 
+The connection to Proverbs is mostly thematic. I did a quick scan of the book of Proverbs. 
+I found 170 verses related to money, possessions, work, laziness, business ethics, care for the poor,
+ and the superiority of wisdom to riches. Clearly, the book is about what we should value and why.
+The only scholarly connection I can find between Adam Smith and Proverbs is 
 [Self-interest, wealth and the Book of Proverbs in the South African context: Towards a Smithian alternative](https://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S0259-94222019000300004). The abstract of that paper says,
 
 #### The purpose of this article is to explore new research on
@@ -1372,7 +1375,7 @@ described in the account of the blowing of the Fifth Trumpet was the capitalisti
 #### into battle. They have tails and stings like scorpions, 
 #### and their power to hurt people for **five months** is in their tails.
 #### They have as king over them the angel of the bottomless pit. 
-#### His name in Hebrew is Abaddon, and in Greek he is called Apollyon.
+#### His name in Hebrew is **Abaddon**, and in Greek he is called Apollyon.
 ###### - Revelation 9
 
 The key elements of this prophecy are:
@@ -1385,9 +1388,20 @@ The key elements of this prophecy are:
   - teeth like lions' teeth: The most powerful, Queen Victoria, ruled England, symbolized by a lion.
   - breastplates of iron: Iron symbolizes Rome. These colonial empires were kingdoms that splintered off from Rome.
   - five months: A five-month period normally has 153 days. This plague would last for 153 years, from the invention of the steam engine in 1765 to 1918, the end of the First World War, which dissolved some of those empires, to be followed not long after by France and England
+  - Abaddon: Has a curious connection to Proverbs.
 
 God raised up the Christian colonial empires to compel the world to abolish slavery and enact many other reforms, 
 then dismantled those empires to punish them for taking advantage of the privileges given to them.
+
+Earlier, I said that the connection between Proverbs and this seal is mostly thematic. 
+There is a stronger connection. Only three other books besides Revelation name Abaddon:
+Psalms, Job and Proverbs. Of them, only one does so in regards to human desire, to greed:
+
+#### Sheol and Abaddon are never satisfied, 
+##### and never satisfied are the eyes of man.
+###### - Proverbs 27:20
+
+If you are greedy for perishable treasures, Abaddon is waiting for you...
 
 **Fourth Seal**. The spirit of Counsel unsealed the Song of Songs.
 
