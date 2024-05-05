@@ -1115,7 +1115,7 @@ the world and others gracious improvements to society. However, significant forc
 
 My early attempts to establish dates for the opening of each seal predate the identification of the Seven Pillars of Wisdom.
 Consequently, they were imprecise. Identifying the pillars and recognizing that they are the things being unsealed 
-then enabled a refinement of those dates. A development related to that Pillar book occurred must follow, not precede the
+then enabled a refinement of those dates. A development related to that Pillar book must follow, not precede the
 opening of the seal.
 
 **First Seal**. The Spirit of the Lord unseals the Book of Psalms.
@@ -1137,8 +1137,8 @@ The forces that propelled this change and opened the seal were:
   - **technological**: the invention of the printing press by Gutenberg (which required multiple innovations: the press, the inks, the paper, the metal used for the type, and the letter punch matrix used to rapidly create new dies)
   - **spiritual**: Over a millennium of prayer focusing on the Psalms
 
-The textual connection is to Ishmael, father of the Arabs, ancestor of Mohammed and noted archer.
-According to Muslim legends, Mohammed rode a magical white horse to Jerusalem and then up to heaven.
+The textual connection is to Ishmael, father of the Arabs, ancestor of Mohammed and noted archer (Genesis 21:20).
+According to Muslim legends, Mohammed rode a magical white horse (called a buraq) to Jerusalem and then up to heaven.
 Another tradition has it that when Mohammed captured Mecca, he destroyed all the idols there, but kept 
 seven sacred arrows used for divination. Certainly his followers came conquering.
 In a negative sense, the armies of Islam serve a different Lord, one opposed to the spirit of the Lord.
