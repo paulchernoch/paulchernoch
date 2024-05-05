@@ -1555,7 +1555,7 @@ typified by the Civil Rights Movement. This was hinted at by Solomon here:
 #### Do not stare at me because **I am dark**,
 ##### because I am darkened by the sun.
 #### My mother’s sons were angry with me
-##### and made me take care of the vineyards;
+##### **and made me take care of the vineyards**;
 ##### my own vineyard I had to neglect.
 ###### - Song of Songs 1:5-6, NIV
 
@@ -1580,11 +1580,11 @@ Fourth seal opened: 1917 AD.
 #### the souls of those who had been slain for the word of God 
 #### and for the witness they had borne. 
 #### They cried out with a loud voice, 
-##### “O Sovereign Lord, holy and true, how long before 
+##### “O Sovereign Lord, holy and true, **how long** before 
 ##### you will judge and avenge our blood on those who 
 ##### dwell on the earth?”
 #### Then they were each given a white robe and told to rest 
-#### a little longer, until the number of their fellow servants 
+#### **a little longer**, until the number of their fellow servants 
 #### and their brothers should be complete, who were to be 
 #### killed as they themselves had been.
 ###### - Revelation 6:9-11
