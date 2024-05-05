@@ -1529,13 +1529,14 @@ Again, it was identifying the seal:
 
 **The Fourth Seal was cultural division**. The third
 horseman was about economics. The forth horseman’s
-prophet, Karl Marx says it is – offering the fairness of
-sharing over the unfairness of competition. It is a liar. It is
-really about enforced conformity, dictatorial control, and
-the formation of a “New Soviet Man”. Religion? Out.
-Competing views of science and economics? Out. Family
-control over a child’s upbringing? Out. Only the state and
+prophet, Karl Marx said his philosophy and plan was about economics, 
+about offering the fairness of sharing over the unfairness of competition. 
+He was a liar. Marxism is really about enforced conformity, 
+dictatorial control, and the formation of a “New Soviet Man”.
+Religion? Out. Competing views of science and economics? Out. 
+Family control over a child’s upbringing? Out. Only the state and
 its ideas of how to believe and behave are permitted.
+Its goal was to erase all distinctions of class, sex and race.
 
 That was the bad news. The good news is what the Song of Songs 
 represents. The main speaker is the Bride. She offers counsel
