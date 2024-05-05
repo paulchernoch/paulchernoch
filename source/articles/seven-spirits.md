@@ -1247,6 +1247,10 @@ The forces that opened the seal include:
   - improved critical versions of the Bible, which supported new ideas about salvation and the church
   - Martin Luther
 
+What was the second seal, anyway? The seal was formal Christian unity and adherence to a theological system 
+that could not save. Since the Roman Catholic Church refused to reform itself, that unity had to be broken 
+in order for faithful churches to form.
+
 Luther had a sense that he was living through momentous times, even times spoken of in Revelation. 
 In his explosive missive, "An Open Letter to The Christian Nobility of the German Nation", he wrote:
 
@@ -1312,6 +1316,9 @@ The tumultuous events that cracked this seal were:
   - Political: The French Revolution and Napoleonic Wars
   - Social and Religious: Britain's passage of the Slave Trade Act of 1807
 
+What was the seal, anyway? The seal was the slave-powered economic system that ruled the world.
+The rider on the horse was capitalism.
+
 The connection to Proverbs is mostly thematic. I did a quick scan of the book of Proverbs. 
 I found 170 verses related to money, possessions, work, laziness, business ethics, care for the poor,
  and the superiority of wisdom to riches. Clearly, the book is about what we should value and why.
@@ -1348,6 +1355,29 @@ fair labor laws, democratic rights and a host of innovations raised vast numbers
 extended their lives and gave them hope for a better future. All that occurred because God values freedom.
 God values human life. God values the dignity of all people. So while the materially rich got richer,
 God enlarged the spiritual heart of the church and spread the gospel to the world.
+
+Before getting back to plagues, this era saw some people seek the true spirit of understanding,
+the worship of God in song. The eighteenth century saw an explosion in hymn writing in England.
+Here is a list of some of the most beloved hymns from the beginning of this era:
+
+  - All Hail the Power of Jesus' Name (1779)
+  - Amazing Grace (1772)
+  - And Can It Be (1738)
+  - Christ the Lord Is Risen Today (1739)
+  - Come Thou Fount of Every Blessing (1758)
+  - Come, Thou Long Expected Jesus (1744)
+  - Glorious Things of Thee Are Spoken (1779)
+  - God Rest You Merry, Gentlemen (ca 1760)
+  - Hark! The Herald Angels Sing (1739)
+  - Joy to the World (1719)
+  - Love Divine, All Loves Excelling (1747)
+  - O for a Thousand Tongues to Sing (1780)
+  - Our God, Our Help in Ages Past (1708)
+  - Rock of Ages (1763)
+  - When I Survey the Wondrous Cross (1707)
+
+The fact that a slave trader like John Newton could turn around from selling souls to saving them, 
+write a hymn like Amazing Grace, and champion the rights of slaves is a miracle.
 
 The article [153 and the Fifth Trumpet](./153-and-the-fifth-trumpet.html) explains how the plague 
 described in the account of the blowing of the Fifth Trumpet was the capitalistic transformation:
@@ -1405,6 +1435,124 @@ If you are greedy for perishable treasures, Abaddon is waiting for you...
 
 **Fourth Seal**. The spirit of Counsel unsealed the Song of Songs.
 
+Most of this section is also cribbed from "Swords, Seals & Surviving to Saturday".
+That chapter did not remark on the connection to the the spirits of God or the Pillars of Wisdom.
+Additions here will rectify that.
 
+**Fourth Seal: Communism and other “beasts”.**
 
-In progress...
+#### When the Lamb opened the **fourth seal**, 
+#### I heard the voice of the fourth living creature say, 
+##### “Come!” 
+#### I looked, and there before me was a pale horse! 
+#### Its rider was named **Death**, and **Hades** was following
+#### close behind him. They were given power over 
+#### **a fourth of the earth to kill by sword, famine and** 
+#### **plague, and by the wild beasts of the earth**.
+###### - Revelation 6:7-8, NIV
+
+The key to understanding the fourth seal – and to getting
+it wrong, as I did the first time – is “power over a fourth of
+the earth”. Only one empire has ever conquered a fourth of
+the earth: the British Empire. At its greatest extent in 1920,
+it ruled 26.35% of the world, a sliver over one quarter.
+Many of India’s worst famines occurred during British rule –
+but Britain didn’t deliberately cause them. That was the
+work of the real fourth horseman.
+
+As with the preceding seal, the Lord first had to exert a
+catastrophic spiritual force in order to weaken the seal.
+That force was the Great War, now known as the First
+World War. It shattered empires and weakened the fourth
+seal so that the next event could break it.
+
+In 1917, Lenin launched the Russian Revolution. He soon
+spread his totalitarian poison throughout Europe and Asia.
+Tally the land area controlled by the Soviet Union, China,
+the Eastern Bloc countries, Mongolia, Vietnam, North
+Korea, and Afghanistan – communism’s greatest extent, and
+you get 34% of the world population and just about 25% of
+the land area.
+
+The communist bloc, together with the other “wild
+beasts” of this era, such as Nazi Germany (whose National
+Socialism shared many features with communism), the
+sword claimed well over a hundred million lives. What of
+plague? The Spanish flu of 1918 claimed 50 million dead
+and 500 million infected. As for famine, in addition to
+China’s human caused famine during the Great Leap
+Forward (fifty million dead or more), there was the Soviet
+instigated Holodomor of 1932-33 that deliberately killed
+over seven million Ukrainians. We don’t know how many
+millions of North Koreans died of hunger from its policies.
+
+What was decisive in choosing Russia over England?
+Again, it was identifying the seal:
+
+**The Fourth Seal was cultural division**. The third
+horseman was about economics. The forth horseman’s
+prophet, Karl Marx says it is – offering the fairness of
+sharing over the unfairness of competition. It is a liar. It is
+really about enforced conformity, dictatorial control, and
+the formation of a “New Soviet Man”. Religion? Out.
+Competing views of science and economics? Out. Family
+control over a child’s upbringing? Out. Only the state and
+its ideas of how to believe and behave are permitted.
+
+That was the bad news. The good news is what the Song of Songs 
+represents. The main speaker is the Bride. She offers counsel
+to her friends about romance and is a hard worker.
+The dramatic change in this era was just that: the counsel
+of women began to count for something, starting with women
+gaining the right to vote in 1920 with the 19th Amendment.
+
+Here is the irony. Where the Soviet Union failed in its bid
+to force uniformity upon the world’s people, the United
+States succeeded. The first division to crack was sexism.
+Today, the world speaks English, surfs the Internet,
+watches Hollywood movies, listens to Rock music, wears
+jeans, and is succumbing to our worst vices. In our battle
+for freedom, every victory enslaves us more.
+
+Fourth seal opened: 1917 AD.
+
+**Fifth Seal**. The spirit of Might unseals Ecclesiastes.
+
+#### When he opened the fifth seal, I saw under the altar 
+#### the souls of those who had been slain for the word of God 
+#### and for the witness they had borne. 
+#### They cried out with a loud voice, 
+##### “O Sovereign Lord, holy and true, how long before 
+##### you will judge and avenge our blood on those who 
+##### dwell on the earth?”
+#### Then they were each given a white robe and told to rest 
+#### a little longer, until the number of their fellow servants 
+#### and their brothers should be complete, who were to be 
+#### killed as they themselves had been.
+###### - Revelation 6:9-11
+
+There is not much in the way of a riddle to this trial. Christians will be persecuted and die. 
+Will we be given might like the church persecuted by Rome? Perhaps.
+
+The plaintive cry of the martyrs is, "How long?" Their desperate desire is to know
+the time that God has set to avenge them. Time. Ecclesiastes is all about time.
+That is the connection. What does Solomon have to say about the time of the end?
+
+Ecclesiastes ends with a description of the days of darkness. He describes the physical and
+mental decline of a person, ending in death. That is how God will rescue many saints.
+Instead of empowering the church, he will enfeeble the world. Gripped with
+civilizational Alzheimer's, their plans will be thwarted by their own madness and moral senility.
+Already we are seeing the start of this. The current president as of 2024 is Joe Biden, whose
+failing mental and physical faculties are symbolic of the state of our civilization.
+Students are rioting in support of mendacious terrorists. People are canceled and savagely 
+berated for refusing to call men women and women men. Secure and stable energy sources are
+shuttered in exchange for expensive and inadequate ones, in a futile attempt to control 
+our uncontrollable climate. To save our environment, they cut down forests to build solar and wind farms
+that slice up millions of birds. Then they kill or drive into shipping lanes the whales that 
+are being tormented by the sonar surveys and jackhammers employed to build offshore turbines.
+To promote justice, they cut the police force and release criminals so they can continue to steal, 
+rape and murder. Then to show compassion, they let in millions of migrants with no controls,
+paroling murderers and allowing terrorists, drug dealers and worse to roam our country unchecked.
+
+Will God reveal aspects of his plan, his timing of events, so that the church can outwit
+its foes and survive inside the mental ward? That is my prayer.
