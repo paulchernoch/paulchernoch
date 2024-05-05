@@ -1276,10 +1276,10 @@ is the sixth prophetic sword in sequence, the sword for the sixth millennia of h
 The forces that opened the seal include:
 
   - nationalistic desire to be free from the church's control
-  - corrupt church practices
-  - an intellectual explosion, due to the printing press
+  - opposition to corrupt church practices
+  - an intellectual explosion due to the printing press
   - improved critical versions of the Bible, which supported new ideas about salvation and the church
-  - Martin Luther
+  - Martin Luther, who obtained support from German princes
 
 What was the second seal, anyway? The seal was formal Christian unity and adherence to a theological system 
 that could not save. Since the Roman Catholic Church refused to reform itself, that unity had to be broken 
@@ -1320,7 +1320,8 @@ Jesus gave us the same ministry of reconciliation that He gave to Job. May we no
 
 **Third Seal**. The spirit of Understanding unseals the Book of Proverbs.
 
-#### When he opened the third seal, I heard the third living creature say, 
+#### When he opened the third seal, 
+#### I heard the third living creature say, 
 ##### “Come!” 
 #### And I looked, and behold, a black horse! 
 #### And its rider had a pair of scales in his hand. 
@@ -1338,13 +1339,13 @@ Christians are told to worship God, but the worldly worship material goods. Chri
 to pursue heavenly treasures, but the worldly pursue "The Wealth of Nations".
 
 After wrestling with the timing of the opening of this seal, I have pushed it back a few decades
-as compared to what I said in my book. The reason is that it looks the Fifth Trumpet of Revelation 9
+compared to what I said in my book. The reason is that it looks like the Fifth Trumpet of Revelation 9
 covers the same time period as this third seal. A complete analysis of the Fifth Trumpet may be found 
 in [153 and the Fifth Trumpet](./153-and-the-fifth-trumpet.html). 
 
 The tumultuous events that cracked this seal were:
 
-  - Philosophical: Adam Smith's books *The Theory of Moral Sentiments* (1759) and *The Wealth of Nations*v(1776)
+  - Philosophical: Adam Smith's books *The Theory of Moral Sentiments* (1759) and *The Wealth of Nations* (1776)
   - Technological: James Watts' invention of an improved steam engine in 1765
   - Political: The American Revolution
   - Political: The French Revolution and Napoleonic Wars
