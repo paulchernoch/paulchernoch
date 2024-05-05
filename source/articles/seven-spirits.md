@@ -385,10 +385,13 @@ The Spirit wields that sword every day, but there are special occasions when the
 of this swordplay overturn empires and change the course of history. The Bible takes note of
 these events and we can learn from them.
 
-This section will reproduce part of the chapter "Swords, Seals & Surviving to Saturday" from *Peace, like Solomon Never Knew*. 
-The basic idea is that while the Bible often refers to swords, only a few of them
-are in a miraculous context. Those mentions of swords are spaced out in history, one per millennium.
-In each case, the events surrounding that sword are indicative of one of the seven spirits of God.
+This section will reproduce part of the chapter "Swords, Seals & Surviving to Saturday" 
+from *Peace, like Solomon Never Knew*. The basic idea is that while the Bible often refers to swords, 
+only a few of them are in a miraculous context. Those mentions of swords are spaced out in history, 
+one per millennium. In each case, the events surrounding that sword are indicative of one of the 
+seven spirits of God.
+
+Please pardon the repetition of some ideas and Bible passages already covered in this article.
 
 ### Swords, Seals & Surviving to Saturday (Part A)
 
@@ -666,7 +669,7 @@ in which the seven letters also correspond to the seven
 millennia of history through the mediating pattern of the
 harvest. At the end of the letter to the third church, the
 Church of Pergamum, Jesus says, 
-*“Whoever has ears, let them hear what the Spirit says to the churches...” *
+*“Whoever has ears, let them hear what the Spirit says to the churches...”*
 (Revelation 2:17) Thus if there are seven spirits of wisdom sent into the
 world and the Spirit addresses seven churches, we should
 expect aspects of each spirit to be distributed, one to each
@@ -767,7 +770,7 @@ explosion in knowledge also made war deadlier.
 
 **The Fear of the Lord**. The seventh and last spirit is yet
 to come. When the last plagues are unleashed, the seven
-bowls and seven woes of Revelation, then mankind will
+bowls and three woes of Revelation, then mankind will
 finally fear the Lord.
 
 **The Sharpest Sword**. The qualitative analysis of the
@@ -857,8 +860,11 @@ idolatrous worship practices.
 
 #### But I have a few things against you: 
 ##### you have some there who hold the teaching of **Balaam**, 
-##### who taught **Balak** to put a stumbling block before the sons of Israel, 
-##### so that they might eat food sacrificed to idols and practice sexual immorality.
+##### who taught **Balak** to put a stumbling block 
+##### before the sons of Israel, so that they might 
+##### eat food sacrificed to idols 
+##### and practice sexual immorality.
+###### - Revelation 2:14
 
 This letter opens up with the aggressive statement, *"The words of him who has the sharp two-edged sword."* (Revelation 2:12b)
 The first mention of a two-edged sword is in Judges, in the third millennium.
@@ -892,7 +898,7 @@ The offered blessing is more wonderful than merely switching from listening from
 #### to him I will give authority over the nations.
 ###### - Revelation 2:26
 
-What is better than receiving wise, godly counsel? Being wise and empowered to rule and advise others
+What is better than receiving wise, godly counsel? Being wise and empowered to rule and counsel others
 in what is right and wrong!
 
 **Sardis**. (Revelation 3:1-6) To this church was sent the **spirit of might**.
@@ -937,7 +943,8 @@ upon the world.
 #### in the temple of my God. Never shall he go out of it, 
 #### and I will write on him the name of my God, and the 
 #### name of the city of my God, the new Jerusalem, 
-#### which comes down from my God out of heaven, and my own new name.
+#### which comes down from my God out of heaven, 
+#### and my own new name.
 ###### - Revelation 3:12
 
 As the seven pillars of Wisdom represent all wisdom and all knowledge,
