@@ -1150,6 +1150,25 @@ against people besides clergy and nobility owning the Bible, but they were permi
 a prayer book based on the Psalms. So for over a thousand years, for your average Christian, the Psalms
 were the most important influence.
 
+**Notes:**
+
+#### The Roman Catholic church’s repression of the Bible 
+#### in vernacular languages has been documented since 
+#### the Middle Ages, with a few highlights being 
+#### Pope John X in 920 banning the use of 
+#### the Old Church Slavonic translation, 
+#### the Second Council of Tarragona in 1234 banning 
+#### ownership of a Bible in any Romance language, 
+#### and Archbishop Richard Arundel’s 1409 prohibition 
+#### of translating the Bible into English. 
+###### - from [The Continuing Story of the Banning and Censoring of the Bible, David V. Urban](https://oll.libertyfund.org/publications/reading-room/2023-10-05-urban-banning-and-censoring-bible)
+
+##### "We prohibit also that the laity should be permitted 
+##### to have the books of the Old or New Testament; 
+##### but we most strictly forbid their having 
+##### any translation of these books."
+###### - Decree of the Council of Toulouse (1229 C.E.)
+
 What is the longest psalm? Psalm 119. What does that psalm urge all people to do?
 
 #### How can a young man keep his way pure?
