@@ -128,7 +128,7 @@ That kind of worship changes you. That year, I truly met the Spirit of Understan
 **Song of Songs**. The fourth spirit - *the spirit of Counsel* - goes with the Song of Songs, but really with all 
 the prophets. The prophets were advisors sent by God to correct error, warn of judgment, and get people back on the 
 right path, "the Way of Holiness" as Isaiah called it. In the poem, the Bride counsels her friends not to arouse or awaken 
-love until it is time. Romantic advice is but one of the topics concerning which people need advice.
+love until it is time. Romance is but one of the topics concerning which people need advice.
 
 In my analysis of the Song of Songs in "Appendix G: A Prophetic Song of Songs" in *Peace, like Solomon Never Knew*, 
 I related a surprising discovery. The twenty-eight speaking parts in the poem match the twenty-eight times from
@@ -143,7 +143,7 @@ the wrong time. The spirit of counsel is what we need to steer clear of unnecess
 speaks relentlessly about time, how is it different from the spirit of Counsel, which advised about making poor decisions
 because the timing was wrong? This book and this spirit are about what happens when you get the timing and focus of your
 life right. A dissolute, unfocused, disorganized person squanders their energy on every sort of activity.
-They lack a sense of priorities. They squander their energy and so become weak and ineffective in life.
+They lack a sense of priorities. They exhaust their energy and so become weak and ineffective in life.
 I know what that is like!
 
 God plucks, prunes, and disciplines us until we have a productive focus for our life. Solomon, the author,
@@ -213,19 +213,19 @@ The short answer is that they fit. However, the nature of that fit raises anothe
 |        Spirit        |     Phase           | Connection |
 | :------------------: | :-----------------: | :--------- |
 |      <hr/>           |     <hr/>           |   <hr/>    | 
-|    Lordship          | Preparation         | Acknowledging Christ as Lord and being trained <br/> in the Ten Commandments is the necessary <br/> preparation for any harvest. |
+|    Lordship          | *Preparation*       | Acknowledging Christ as Lord and being <br/> trained in the Ten Commandments is <br/> the necessary preparation for any harvest. |
 |      <hr/>           |     <hr/>           |   <hr/>    | 
-|    Wisdom            | Plowing             | Plowing is suffering, and through patiently suffering <br/> in faith we receive wisdom from God, <br/> just like Job. |
+|    Wisdom            | *Plowing*           | Plowing is suffering, and through patiently <br/> suffering in faith we receive wisdom  <br/> from God, just like Job. |
 |      <hr/>           |     <hr/>           |   <hr/>    | 
-| Understanding        | Planting Seed       | The seed of the gospel must be accepted, <br/> not lost to the birds. <br/> We accept it through worship, <br/> which is the foundation of understanding. |
+| Understanding        | *Planting Seed*     | The seed of the gospel must be accepted, <br/> not lost to the birds. <br/> We accept it through worship, <br/> which is the foundation of understanding. |
 |      <hr/>           |     <hr/>           |   <hr/>    | 
-|    Counsel           | Pouring Water       | The Holy Spirit is the Counselor (John 14:26), <br/> and washing hearts with pure water <br/> to produce holiness is his forte. <br/> The sun-beaten, rocky soil of our hearts <br/> must be turned to flesh (Ezekiel 36:26) and watered. |
+|    Counsel           | *Pouring Water*     | The Holy Spirit is the Counselor (John 14:26), <br/> and washing hearts with pure water <br/> to produce holiness is his forte. <br/> The sun-beaten, rocky soil of our hearts <br/> must be turned to flesh (Ezekiel 36:26) and watered. |
 |      <hr/>           |     <hr/>           |   <hr/>    | 
-|    Might             | Plucking Weeds      | Pruning branches and plucking weeds is hard work. <br/> For it, you need strength. <br/> The result is a focused, disciplined life. <br/> By not squandering your energies on fruitless diversions, <br/> you grow strong for the work God has set before you. |
+|    Might             | *Plucking Weeds*    | Pruning branches and plucking weeds is hard work. <br/> For it, you need strength. <br/> The result is a focused, disciplined life. <br/> By not squandering your energies on fruitless diversions, <br/> you grow strong for the work God has set before you. |
 |      <hr/>           |     <hr/>           |   <hr/>    | 
-|   Knowledge          | Producing a Harvest | The harvest requires knowledge to bring in and <br/> the result of the harvest is increased knowledge. <br/> Jesus is the Lord of the Harvest, so <br/> the connection between knowledge, harvesting and the Gospel of Matthew <br/> is strong. |
+|   Knowledge          | *Producing a Harvest* | The harvest requires knowledge to bring in <br/> and the result of the harvest is <br/> increased knowledge. <br/> Jesus is the Lord of the Harvest, so the <br/> connection between knowledge, harvesting and <br/> the Gospel of Matthew is strong. |
 |      <hr/>           |     <hr/>           |   <hr/>    | 
-| The Fear of the Lord | Peace               | This is the tricky connection, to be discussed below.  |
+| The Fear of the Lord | *Peace*             | This is the tricky connection, to be discussed below.  |
 
 <hr/>
 
@@ -334,7 +334,7 @@ is about giving advice about what to do and when. The when requires us to plan o
 That would not be possible without God's heavenly timepieces, which govern the days, seasons, and years.
 
 **Day 5**: *Fish and birds.* The **spirit of might** is all about giving out a noble task, and 
-fostering the focus and strength needed to complete that task without giving in to distraction or laziness.   
+fostering the focus and strength needed to complete that task without giving in to distraction or laziness.
 For the first time in creation, such a task is assigned by God to his creatures:
 
 #### And God blessed them, saying, 
@@ -432,6 +432,11 @@ Judah goes into exile.
 **Thursday**. Today Emperor Constantine sees the sign of the cross and makes it into a sword hilt. 
 Under that sign he conquers. Church and empire become entangled, earning a rebuke from Jesus 
 in his letter to the church of Pergamum. He threatens them with his double-edged sword. (Revelation 2:12,16)
+This sword of might was prophesied at the beginning of this prophetic day by Jesus, when he said: 
+
+#### Do not think that I have come to bring peace to the earth. 
+#### I have not come to bring peace, but a sword. 
+###### - Matthew 10:34
 
 **Friday**. Today the wars of religion rage throughout 16th and 17th century Europe, and by the 18th
 century, the whole world. “Then another horse came out, a fiery red one. Its rider was given power 
@@ -446,7 +451,7 @@ to take peace from the earth and to make people kill each other. To him was give
 #### no one knows but he himself. He is dressed in a robe dipped in blood, 
 #### and his name is the Word of God. The armies of heaven were 
 #### following him, riding on white horses and dressed in fine linen, 
-####  white and clean. Coming out of his mouth is a sharp sword with which 
+#### white and clean. Coming out of his mouth is a **sharp sword** with which 
 #### to strike down the nations. “He will rule them with an iron scepter.” 
 #### He treads the winepress of the fury of the wrath of God Almighty. 
 ####  On his robe and on his thigh he has this name written:
