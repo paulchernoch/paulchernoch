@@ -1506,6 +1506,25 @@ The dramatic change in this era was just that: the counsel
 of women began to count for something, starting with women
 gaining the right to vote in 1920 with the 19th Amendment.
 
+Another move towards equity was opposition to racism as 
+typified by the Civil Rights Movement. This was hinted at by Solomon here:
+
+#### **Dark am I**, yet lovely,
+##### daughters of Jerusalem,
+#### dark like the tents of Kedar,
+##### like the tent curtains of Solomon.
+#### Do not stare at me because **I am dark**,
+##### because I am darkened by the sun.
+#### My mother’s sons were angry with me
+##### and made me take care of the vineyards;
+##### my own vineyard I had to neglect.
+###### - Song of Songs 1:5-6, NIV
+
+Though the literal meaning is that the Shulamite was tanned from field work,
+this is a fitting description of the racist oppression of dark skinned people.
+In the end, this oppressed woman marries the king and receives a position of 
+honor and influence in society.
+
 Here is the irony. Where the Soviet Union failed in its bid
 to force uniformity upon the world’s people, the United
 States succeeded. The first division to crack was sexism.
@@ -1532,6 +1551,7 @@ Fourth seal opened: 1917 AD.
 ###### - Revelation 6:9-11
 
 There is not much in the way of a riddle to this trial. Christians will be persecuted and die. 
+The world will enter into what Ecclesiastes 3 calls "a time to hate".
 Will we be given might like the church persecuted by Rome? Perhaps.
 
 The plaintive cry of the martyrs is, "How long?" Their desperate desire is to know
@@ -1556,3 +1576,11 @@ paroling murderers and allowing terrorists, drug dealers and worse to roam our c
 
 Will God reveal aspects of his plan, his timing of events, so that the church can outwit
 its foes and survive inside the mental ward? That is my prayer.
+
+**The Sixth and Seventh Seals**. The spirits of knowledge and the Fear of the Lord will unseal 
+the books of Matthew and Revelation.
+
+These seals have not opened yet. I will not speculate about what world events these prophecies predict.
+What is obvious is that when the seventh seal is opened and the final plagues are poured out upon the world,
+the actions of the spirit of the fear of the Lord will be obvious to all. Unbelievers will no longer
+be able to deny what is staring them in the face. Then the Lord will return. Maranatha.
