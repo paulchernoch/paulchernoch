@@ -1423,7 +1423,7 @@ described in the account of the blowing of the Fifth Trumpet was the capitalisti
 #### of the bottomless pit. He opened the shaft of the bottomless pit, 
 #### **and from the shaft rose smoke like the smoke of a great furnace**, 
 #### and the sun and the air were darkened with the smoke from the shaft. 
-#### Then from the smoke came locusts on the earth, and they were 
+#### *Then from the smoke came locusts on the earth*, and they were 
 #### given power like the power of scorpions of the earth. 
 #### **They were told not to harm the grass of the earth or any green plant** 
 #### **or any tree**, but only those people who do not have the seal of God 
@@ -1446,15 +1446,16 @@ described in the account of the blowing of the Fifth Trumpet was the capitalisti
 
 The key elements of this prophecy are:
 
-  - smoke like the smoke of a great furnace: Factory pollution from the coal furnaces of the industrial revolution.
-  - told not to harm...: Only non-Christians were afflicted. These locusts were monarchs of Christian kingdoms.
-  - locusts: The Old Testament uses locusts to describe invading armies who steal a people's food and wealth.
-  - crowns of gold: The leaders of the locusts are monarchs wearing crowns.
-  - their hair like women's hair: The most prominent locusts were lead by queens like Queen Victoria, Maria Theresa, Catherine the Great, etc.
-  - teeth like lions' teeth: The most powerful, Queen Victoria, ruled England, symbolized by a lion.
-  - breastplates of iron: Iron symbolizes Rome. These colonial empires were kingdoms that splintered off from Rome.
-  - five months: A five-month period normally has 153 days. This plague would last for 153 years, from the invention of the steam engine in 1765 to 1918, the end of the First World War, which dissolved some of those empires, to be followed not long after by France and England
-  - Abaddon: Has a curious connection to Proverbs.
+  - *smoke like the smoke of a great furnace*: Factory pollution from the coal furnaces of the industrial revolution.
+  - *Then from the smoke came locusts on the earth*: The colonial empires arose from the kingdoms that first mastered steam power from the burning of coal
+  - *told not to harm...*: Only non-Christians were afflicted. These locusts were monarchs of Christian kingdoms.
+  - *locusts*: The Old Testament uses locusts to describe invading armies who steal a people's food and wealth.
+  - *crowns of gold*: The leaders of the locusts are monarchs wearing crowns.
+  - *their hair like women's hair*: The most prominent locusts were lead by queens like Queen Victoria, Maria Theresa, Catherine the Great, etc.
+  - *teeth like lions' teeth*: The most powerful, Queen Victoria, ruled England, symbolized by a lion.
+  - *breastplates of iron*: Iron symbolizes Rome. These colonial empires were kingdoms that splintered off from Rome.
+  - *five months*: A five-month period normally has 153 days. This plague would last for 153 years, from the invention of the steam engine in 1765 to 1918, the end of the First World War, which dissolved some of those empires, to be followed not long after by France and England
+  - *Abaddon*: This monster has a curious connection to Proverbs.
 
 God raised up the Christian colonial empires to compel the world to abolish slavery and enact many other reforms, 
 then dismantled those empires to punish them for taking advantage of the privileges given to them.
