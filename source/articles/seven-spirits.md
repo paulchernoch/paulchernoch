@@ -213,17 +213,17 @@ The short answer is that they fit. However, the nature of that fit raises anothe
 |        Spirit        |     Phase           | Connection |
 | :------------------: | :-----------------: | :--------- |
 |      <hr/>           |     <hr/>           |   <hr/>    | 
-|    Lordship          | *Preparation*       | Acknowledging Christ as Lord and being <br/> trained in the Ten Commandments is <br/> the necessary preparation for any harvest. |
+|    Lordship          | *Preparation*       | Acknowledging Christ as Lord and being trained in the Ten Commandments is the necessary preparation for any harvest. |
 |      <hr/>           |     <hr/>           |   <hr/>    | 
-|    Wisdom            | *Plowing*           | Plowing is suffering, and through patiently <br/> suffering in faith we receive wisdom  <br/> from God, just like Job. |
+|    Wisdom            | *Plowing*           | Plowing is suffering, and through patiently suffering in faith we receive wisdom from God, just like Job. |
 |      <hr/>           |     <hr/>           |   <hr/>    | 
-| Understanding        | *Planting Seed*     | The seed of the gospel must be accepted, <br/> not lost to the birds. <br/> We accept it through worship, <br/> which is the foundation of understanding. |
+| Understanding        | *Planting Seed*     | The seed of the gospel must be accepted, not lost to the birds. We accept it through worship, which is the foundation of understanding. |
 |      <hr/>           |     <hr/>           |   <hr/>    | 
-|    Counsel           | *Pouring Water*     | The Holy Spirit is the Counselor (John 14:26), <br/> and washing hearts with pure water <br/> to produce holiness is his forte. <br/> The sun-beaten, rocky soil of our hearts <br/> must be turned to flesh (Ezekiel 36:26) and watered. |
+|    Counsel           | *Pouring Water*     | The Holy Spirit is the Counselor (John 14:26), and washing hearts with pure water to produce holiness is his forte. The sun-beaten, rocky soil of our hearts must be turned to flesh (Ezekiel 36:26) and watered. |
 |      <hr/>           |     <hr/>           |   <hr/>    | 
 |    Might             | *Plucking Weeds*    | Pruning branches and plucking weeds is hard work. <br/> For it, you need strength. <br/> The result is a focused, disciplined life. <br/> By not squandering your energies on fruitless diversions, <br/> you grow strong for the work God has set before you. |
 |      <hr/>           |     <hr/>           |   <hr/>    | 
-|   Knowledge          | *Producing a Harvest* | The harvest requires knowledge to bring in <br/> and the result of the harvest is <br/> increased knowledge. <br/> Jesus is the Lord of the Harvest, so the <br/> connection between knowledge, harvesting and <br/> the Gospel of Matthew is strong. |
+|   Knowledge          | *Producing a Harvest* | The harvest requires knowledge to bring in and the result of the harvest is increased knowledge. Jesus is the Lord of the Harvest, so the connection between knowledge, harvesting and the Gospel of Matthew is strong. |
 |      <hr/>           |     <hr/>           |   <hr/>    | 
 | The Fear of the Lord | *Peace*             | This is the tricky connection, to be discussed below.  |
 
@@ -534,7 +534,7 @@ seals opened release the four horsemen of the apocalypse.
 When? When will the dread horsemen ride? Some
 believers schedule them in the distant future. Some
 relegate them to the distant past. The rest do not expect
-one single fulfillment of these words: war, famine
+one single fulfillment of these words: war, famine,
 pestilence and death will strike our world repeatedly.
 
 God’s revelations are like fractals. The same pattern can
