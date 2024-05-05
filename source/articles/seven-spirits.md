@@ -1152,6 +1152,8 @@ were the most important influence.
 
 **Notes:**
 
+From [The Continuing Story of the Banning and Censoring of the Bible, David V. Urban](https://oll.libertyfund.org/publications/reading-room/2023-10-05-urban-banning-and-censoring-bible):
+
 #### The Roman Catholic church’s repression of the Bible 
 #### in vernacular languages has been documented since 
 #### the Middle Ages, with a few highlights being 
@@ -1161,7 +1163,8 @@ were the most important influence.
 #### ownership of a Bible in any Romance language, 
 #### and Archbishop Richard Arundel’s 1409 prohibition 
 #### of translating the Bible into English. 
-###### - from [The Continuing Story of the Banning and Censoring of the Bible, David V. Urban](https://oll.libertyfund.org/publications/reading-room/2023-10-05-urban-banning-and-censoring-bible)
+
+From [Why Christians Were Denied Access to Their Bible for 1,000 Years](https://www.huffpost.com/entry/why-christians-were-denied-access-to-their-bible-for-1000-years_b_3303545)
 
 ##### "We prohibit also that the laity should be permitted 
 ##### to have the books of the Old or New Testament; 
@@ -1230,8 +1233,8 @@ spiritual point.
 
 #### For though by this time you ought to be teachers, 
 #### you need someone to teach you again the basic principles
-#### of the oracles of God. You need milk, not solid food, f
-#### or everyone who lives on milk is unskilled in the word 
+#### of the oracles of God. You need milk, not solid food,
+#### for everyone who lives on milk is unskilled in the word 
 #### of righteousness, since he is a child. But solid food is 
 #### for the mature, for those who have their powers of 
 #### discernment trained by constant practice to distinguish 
