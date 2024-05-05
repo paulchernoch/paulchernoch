@@ -1360,14 +1360,15 @@ I found 170 verses related to money, possessions, work, laziness, business ethic
 The only scholarly connection I can find between Adam Smith and Proverbs is 
 [Self-interest, wealth and the Book of Proverbs in the South African context: Towards a Smithian alternative](https://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S0259-94222019000300004). The abstract of that paper says,
 
-#### The purpose of this article is to explore new research on
-#### Adam Smith (1723-1790), the author of the classic economic text
+#### The purpose of this article is to explore new research on Adam Smith
+#### (1723-1790), the author of the classic economic text
 #### *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776) 
-#### and his often-disregarded earlier work *The Theory of Moral Sentiments* (1759). 
-#### This is accomplished to provide an alternative perspective on the 
-#### hermeneutics of wealth in the **Book of Proverbs**, which is often 
-#### reduced by Marxist approaches as a mechanism to secure the 
-#### privilege of the scribal classes of Israel.
+#### and his often-disregarded earlier work 
+#### *The Theory of Moral Sentiments* (1759). 
+#### This is accomplished to provide an alternative perspective 
+#### on the hermeneutics of wealth in the **Book of Proverbs**, 
+#### which is often reduced by Marxist approaches as a mechanism to 
+#### secure the privilege of the scribal classes of Israel.
 
 The battling systems of capitalism and Marxism argue over theories of value, like
 the exchange theory of value (capitalism), labor theory of value (Marx), monetary theory of value, 
