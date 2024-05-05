@@ -1048,7 +1048,7 @@ in Daniel:
 #### The head of this image was of fine gold, 
 #### its chest and arms of silver, 
 #### its middle and thighs of bronze, 
-#### its legs of iron, its feet partly of iron and partly of clay.
+#### **its legs of iron, its feet partly of iron and partly of clay.**
 #### As you looked, a stone was cut out by no human hand, 
 #### and it struck the image on its feet of iron and clay, 
 #### and broke them in pieces.
@@ -1090,8 +1090,8 @@ philosophical cause can precede it by many decades.
   - **49 AD**. Paul visits Thessalonica, capital of Macedonia.
   - **380 AD**. The Millennial Reign of Christ begins with the Edict of Thessalonica. Satan is bound.
   - **390 AD**. Massacre of Thessalonica.
-  - **Late 1370's**. Andronikos IV by treachery and by allying with the Ottoman Sultan's son gained control of Constantinople at the cost of Gallipoli, providing the Ottomans an important beachhead for attacking Europe. During this successful siege of Constantinople, the supporting Ottoman troops entered Constantinople, symbolically ending the Millennial Kingdom of Christ.
   - **1346-1353 AD**. Black Death ravages Europe.
+  - **Late 1370's**. Andronikos IV by treachery and by allying with the Ottoman Sultan's son gained control of Constantinople at the cost of Gallipoli, providing the Ottomans an important beachhead for attacking Europe. During this successful siege of Constantinople, the supporting Ottoman troops entered Constantinople, symbolically ending the Millennial Kingdom of Christ.
   - **1380 AD**. Satan is unbound. First Ottoman attacks against Serbia begin with the Battle of Dubravnica in 1380. 
   - **1390-1453 AD**. The Ottoman Empire lays siege to Constantinople in 1391, 1394-1402, 1411, 1422, 1453.
   - **1422-1430 AD**. Ottoman siege of Thessalonica. 
@@ -1101,13 +1101,13 @@ philosophical cause can precede it by many decades.
   - **1554-5 AD**. John Calvin preaches 159 sermons on Job.
   - **1517 or 1618 AD**. <ins>Second Seal</ins> opened either with Luther's publication of the Ninety-Five Theses, which started the Protestant Reformation, or the later start of the Thirty Years War.
   - **1759 AD**. Adam Smith, *The Theory of Moral Sentiments*.
-  - **1765 AD**. Watt's Steam Engine.
+  - **1765 AD**. James Watt invents expansion steam engine, official start of the Industrial Revolution.
   - **1776 AD**. Adam Smith, *The Wealth of Nations*. 
-  - **1765 AD**. <ins>Third seal</ins> opened with the Watt's invention of an improved steam engine.
+  - **1765 AD**. <ins>Third seal</ins> opened with Watt's invention of an improved steam engine.
   - **1776 AD**. The American Revolution.
   - **1807 AD**. Britain's passage of the Slave Trade Act of 1807.
   - **1917 AD**. <ins>Fourth seal</ins> opened during World War I, with the October Revolution in Russia.
-  - **2040 AD?**. <ins>Fifth seal</ins> will be the next to open.
+  - **2040 AD?** <ins>Fifth seal</ins> will be the next to open.
 
 Each seal conceals the meaning of one of the Pillars of Wisdom, so removing that seal enables that book to be understood
 by the church. The understanding of that book then triggers massive changes in the world, some a form of judgment against
