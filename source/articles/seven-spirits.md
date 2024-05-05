@@ -1451,14 +1451,15 @@ The key elements of this prophecy are:
   - *told not to harm...*: Only non-Christians were afflicted. These locusts were monarchs of Christian kingdoms.
   - *locusts*: The Old Testament uses locusts to describe invading armies who steal a people's food and wealth.
   - *crowns of gold*: The leaders of the locusts are monarchs wearing crowns.
-  - *their hair like women's hair*: The most prominent locusts were lead by queens like Queen Victoria, Maria Theresa, Catherine the Great, etc.
+  - *their hair like women's hair*: The most prominent locusts were led by queens like Queen Victoria, Maria Theresa, Catherine the Great, etc.
   - *teeth like lions' teeth*: The most powerful, Queen Victoria, ruled England, symbolized by a lion.
   - *breastplates of iron*: Iron symbolizes Rome. These colonial empires were kingdoms that splintered off from Rome.
-  - *five months*: A five-month period normally has 153 days. This plague would last for 153 years, from the invention of the steam engine in 1765 to 1918, the end of the First World War, which dissolved some of those empires, to be followed not long after by France and England
+  - *five months*: A five-month period normally has 153 days. This plague would last for 153 years, from the invention of the steam engine in 1765 to 1918, the end of the First World War, which dissolved some of those empires (like Russia, Germany and Austro-Hungary), to be followed not long after by France and England
   - *Abaddon*: This monster has a curious connection to Proverbs.
 
-God raised up the Christian colonial empires to compel the world to abolish slavery and enact many other reforms, 
-then dismantled those empires to punish them for taking advantage of the privileges given to them.
+God raised up the Christian colonial empires to compel the world to abolish slavery and enact many other reforms. 
+Then He dismantled those empires to punish them for taking advantage of the privileges given to them.
+Like all locust swarms it ended, because eventually all the food is gone.
 
 Earlier, I said that the connection between Proverbs and this seal is mostly thematic. 
 There is a stronger connection. Only three other books besides Revelation name Abaddon:
