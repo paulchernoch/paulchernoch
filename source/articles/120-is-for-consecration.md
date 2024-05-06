@@ -185,3 +185,24 @@ I found them. The remainder of *Peace, like Solomon Never Knew* constructed an e
 Verse 4 describes the first of four cycles. The remaining three are natural: the regular and mechanical motions of sun, wind and water. The first stands out because it is built not on the daily motion of the stars, the monthly ebb and flow of tides, or the yearly winds that carry autumn and spring rains, but on the generations of mankind. By being placed first in the list and by possessing the longest period of all four cycles, its primacy is shown. The generational clock is real. Proving that its period is 120 years and its duration is forty-one cycles – that will take a heap of evidence.
 
 One rich source of prophetic evidence backing this thesis came to light while I was studying the life of a man associated with the final number, [210](210-is-for-peace.html).
+
+<hr/>
+
+List of articles in this section:
+
+  - [Numerology](./numerology.html)
+  - [To Number our Days](./to-number-our-days.html)
+  - [2 is for Jesus](./2-is-for-jesus.html)
+  - [3 is for the Father](./3-is-for-the-father.html)
+  - [4 is for Cycles of Nature](./4-is-for-cycles-of-nature.html)
+  - [5 is for Grace](./5-is-for-grace.html)
+  - [6 is for Man](./6-is-for-man.html)
+  - [7 is for the Holy Spirit](./7-is-for-the-holy-spirit.html)
+  - [17 is for Victory](./17-is-for-victory.html)
+  - [28 is for Time](./28-is-for-time.html)
+  - [40 is for Suffering](./40-is-for-suffering.html)
+  - [42 is for the Journey](./42-is-for-the-journey.html)
+  - [120 is for Consecration](./120-is-for-consecration.html)
+  - [153 is for Total Victory](./153-is-for-total-victory.html)
+  - [210 is for Peace](./210-is-for-peace.html)
+

@@ -70,17 +70,37 @@ The upshot of all this is that the Bible makes extensive use of numbers. It also
 
 My books are rife with the use of numbers in novel ways. The remaining articles in this section on Numerology are but a taste of what I have discovered, drawn mostly from but two chapters. I hope that you become as entranced by God's numbers as I have. They measure time and they measure steps along a journey. They tell the story of our long road back to heaven. 
 
-Numbers also help us solve unsolveable riddles and pierce impenetrable mysteries. If I had to vote on what are the top three unsolved mysteries in the Bible, they would be:
+Numbers also help us solve unsolvable riddles and pierce impenetrable mysteries. If I had to vote on what are the top three unsolved mysteries in the Bible, they would be:
 
   1. When will Jesus Christ return?
   2. Who is or will be the Anti-Christ?
-  3. What secret messsage did the voice of the Seven Thunders give to John in Revelation?
+  3. What secret message did the voice of the Seven Thunders give to John in Revelation?
 
 Jesus told us that only the Father knows the answer to the first question, so any answer to that will smack of heresy. Somebody else may make progress on the second, but I have not. That leaves the third question. The angel in Revelation 10 told John to seal up the words of the Seven Thunders and not write them down. He did not disobey. That means that we can't know anything about what they said, right? Not exactly. Why? Because he told us something about those thunders. We have their number. Using the **Word frequency** technique as defined above, we can't find out what the thunders told John, but we can find out what they told Job, Moses and David! You see the Seven Thunders have spoken before. See this article (which is in the "End Times" section) for how I cracked that mystery:
 
 [Voice of the Seven Thunders](voice-of-the-seven-thunders.html)
 
 If not for the use of the principles of numerology, I would never have discovered this, nor many other marvelous things. Who knows what you may find if you learn to do likewise?
+
+<hr/>
+
+List of articles in this section:
+
+  - [Numerology](./numerology.html)
+  - [To Number our Days](./to-number-our-days.html)
+  - [2 is for Jesus](./2-is-for-jesus.html)
+  - [3 is for the Father](./3-is-for-the-father.html)
+  - [4 is for Cycles of Nature](./4-is-for-cycles-of-nature.html)
+  - [5 is for Grace](./5-is-for-grace.html)
+  - [6 is for Man](./6-is-for-man.html)
+  - [7 is for the Holy Spirit](./7-is-for-the-holy-spirit.html)
+  - [17 is for Victory](./17-is-for-victory.html)
+  - [28 is for Time](./28-is-for-time.html)
+  - [40 is for Suffering](./40-is-for-suffering.html)
+  - [42 is for the Journey](./42-is-for-the-journey.html)
+  - [120 is for Consecration](./120-is-for-consecration.html)
+  - [153 is for Total Victory](./153-is-for-total-victory.html)
+  - [210 is for Peace](./210-is-for-peace.html)
 
 
  

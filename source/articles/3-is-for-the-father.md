@@ -69,3 +69,24 @@ uncertain meaning. It may mean to wait or pause to reflect, a musical interlude.
 
 Referring to the creation week, on the third day dry ground appeared. God is our dry ground. No seed can grow, no wind can blow, no life can go anywhere without that ground. Ecclesiastes 1:4 says this about no other thing: *“the earth remains forever”*. Yes, three is the number of God the Father.
 
+
+<hr/>
+
+List of articles in this section:
+
+  - [Numerology](./numerology.html)
+  - [To Number our Days](./to-number-our-days.html)
+  - [2 is for Jesus](./2-is-for-jesus.html)
+  - [3 is for the Father](./3-is-for-the-father.html)
+  - [4 is for Cycles of Nature](./4-is-for-cycles-of-nature.html)
+  - [5 is for Grace](./5-is-for-grace.html)
+  - [6 is for Man](./6-is-for-man.html)
+  - [7 is for the Holy Spirit](./7-is-for-the-holy-spirit.html)
+  - [17 is for Victory](./17-is-for-victory.html)
+  - [28 is for Time](./28-is-for-time.html)
+  - [40 is for Suffering](./40-is-for-suffering.html)
+  - [42 is for the Journey](./42-is-for-the-journey.html)
+  - [120 is for Consecration](./120-is-for-consecration.html)
+  - [153 is for Total Victory](./153-is-for-total-victory.html)
+  - [210 is for Peace](./210-is-for-peace.html)
+

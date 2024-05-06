@@ -56,3 +56,24 @@ Thus the experience of favor (or grace) is again paired with the number five.
 (If you decide to check the above observation for accuracy, you will encounter difficulty. Previous mentions of David were editorial comments added later, such as David’s place in Ruth’s family tree. As for the other counts, they are evident in the Hebrew version but not all English translations. In such translations, one instance of Noah’s name is replaced with the pronoun he, and one instance of the pronoun she is replaced by Ruth. This is another case where choice of translation can erase patterns. It is especially important to check numerological patterns against the original language; they are easily lost or damaged by the act of translation. Despite the accuracy of Jones’ statements, the above pattern is still suspect. If you bring other Biblical figures of whom it is said they found favor, you have Daniel - after the fourth mention of his name - and Esther - after the sixth mention of hers. He may have discovered an accidental pattern.)
 
 Where the number five is found, conflict ensues. On the fifth day of creation, God created the birds and the sea creatures. The Holy Spirit is often depicted as a dove, and Leviathan, the sea serpent, as the devil’s minion waging war against our soul. God’s grace is carried to us by the Spirit amid that great battle.
+
+<hr/>
+
+List of articles in this section:
+
+  - [Numerology](./numerology.html)
+  - [To Number our Days](./to-number-our-days.html)
+  - [2 is for Jesus](./2-is-for-jesus.html)
+  - [3 is for the Father](./3-is-for-the-father.html)
+  - [4 is for Cycles of Nature](./4-is-for-cycles-of-nature.html)
+  - [5 is for Grace](./5-is-for-grace.html)
+  - [6 is for Man](./6-is-for-man.html)
+  - [7 is for the Holy Spirit](./7-is-for-the-holy-spirit.html)
+  - [17 is for Victory](./17-is-for-victory.html)
+  - [28 is for Time](./28-is-for-time.html)
+  - [40 is for Suffering](./40-is-for-suffering.html)
+  - [42 is for the Journey](./42-is-for-the-journey.html)
+  - [120 is for Consecration](./120-is-for-consecration.html)
+  - [153 is for Total Victory](./153-is-for-total-victory.html)
+  - [210 is for Peace](./210-is-for-peace.html)
+
