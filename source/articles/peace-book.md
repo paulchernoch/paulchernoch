@@ -34,7 +34,7 @@ expands upon the chapter or merely has a short excerpt of that chapter.
   - Acknowledgements
   - Bible Versions Quoted
   - Contents
-  - [P r e f a c e](#preface)
+  - [P r e f a c e](#Preface)
   - Peace in our Time
   - Five Time Paradoxes, Introduced
   - Two Time Paradoxes, Illustrated
@@ -106,7 +106,7 @@ expands upon the chapter or merely has a short excerpt of that chapter.
   - Bibliography
   - About the Author
 
-## Preface
+## <a id="Preface">Preface</a>
 
 Do you lack power and purpose? Do you still need
 to be persuaded that God’s Word is both divine
