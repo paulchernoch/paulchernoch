@@ -7,7 +7,7 @@ title: Plague, Precept, Prophet, Peace
   - Contents 
   - Bible Versions Quoted 
   - Dedication 
-  - Illustration: Correlating the Patterns 
+  - [Illustration: Correlating the Patterns](./images/patterns-correlated.png)
   - [Perplexity](#Perplexity)
   - [Plan](#Plan)
   - Preparing for a Harvest 
