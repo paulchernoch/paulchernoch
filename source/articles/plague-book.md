@@ -15,6 +15,7 @@ This page shows:
 ## Contents
 
 If a table of contents entry has a hyperlink, then part or all of that chapter is reproduced on this website.
+In some cases, such essays have been expanded to include new insights.
 
   - Contents 
   - Bible Versions Quoted 
@@ -25,7 +26,7 @@ If a table of contents entry has a hyperlink, then part or all of that chapter i
   - Preparing for a Harvest 
   - The Deep Need for an Answer 
   - The Shape of a Prophetic Clock 
-  - Architecture of Lady Wisdom’s House 
+  - [Architecture of Lady Wisdom’s House](./blueprint.html)
   - Ecclesiastes 1: Taking Inventory 
   - Ecclesiastes 3: Knowing the Acceptable Time 
   - Job: The Course of Empires 
