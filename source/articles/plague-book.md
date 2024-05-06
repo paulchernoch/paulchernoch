@@ -10,7 +10,7 @@ This page shows:
 
 ## Front Cover
 
-<img src="./images/plague-precept-prophet-peace.png" alt="Front cover showing a temple blueprint" width="600" height="900"/>
+<img src="./images/plague-precept-prophet-peace-cover.png" alt="Front cover showing a temple blueprint" width="600" height="900"/>
 
 ## Contents
 
