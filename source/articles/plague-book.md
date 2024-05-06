@@ -1,8 +1,20 @@
 ---
 title: Plague, Precept, Prophet, Peace
 ---
+This page shows:
+
+  - The front cover for *Plague, Precept, Prophet, Peace*
+  - The table of contents fpr the book
+  - Perplexity (the book's preface)
+  - Plan (the second chapter, a chapter outline for the book)
+
+## Front Cover
+
+<img src="./images/plague-precept-prophet-peace.png" alt="Front cover showing a temple blueprint" width="600" height="900"/>
 
 ## Contents
+
+If a table of contents entry has a hyperlink, then part or all of that chapter is reproduced on this website.
 
   - Contents 
   - Bible Versions Quoted 
@@ -35,7 +47,7 @@ title: Plague, Precept, Prophet, Peace
   - The Final Ascent: Psalms 113-150 
   - Psalms of Growth: Psalms 1–28 
   - Psalm 19: The Glory of God’s Law 
-  - Matthew and the Law of Christ 
+  - [Matthew and the Law of Christ](./matthew-and-the-law-of-christ.md)
   - A God-shaped Hole 
   - What did we miss? 
   - Epilogue: The Fifth Commandment 
