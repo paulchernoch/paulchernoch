@@ -27,11 +27,14 @@ One of the bird images may puzzle you. It is a mourning dove, signifying "a time
 
 ## Table of Contents
 
+If a chapter title has a hyperlink, it may point to a page which reproduces that chapter of the book without alteration,
+expands upon the chapter or merely has a short excerpt of that chapter.
+
   - Meditation & Dedication
   - Acknowledgements
   - Bible Versions Quoted
   - Contents
-  - P r e f a c e
+  - [P r e f a c e](#preface)
   - Peace in our Time
   - Five Time Paradoxes, Introduced
   - Two Time Paradoxes, Illustrated
@@ -45,9 +48,9 @@ One of the bird images may puzzle you. It is a mourning dove, signifying "a time
   - Nothing is Futile
   - There is a Season
   - Qualifying Time
-  - To Number Our Days
+  - [To Number Our Days](./to-number-our-days.html)
   - Days of Darkness
-  - Twelve Timely Questions
+  - [Twelve Timely Questions](./most-important-questions.md)
   - Hammer Time
   - Hour of Temptation
   - Three Appointments with Satan
@@ -71,7 +74,7 @@ One of the bird images may puzzle you. It is a mourning dove, signifying "a time
   - Father Time: Job 38-42
   - Generations Come and Go
   - Two Patterns in History
-  - Swords, Seals & Surviving to Saturday
+  - [Swords, Seals & Surviving to Saturday](./seven-spirits.md)
   - A Missing Clock and a Missed Call
   - The Time of Her Confinement
   - Rightly Dividing the Words
@@ -103,7 +106,7 @@ One of the bird images may puzzle you. It is a mourning dove, signifying "a time
   - Bibliography
   - About the Author
 
-## P r e f a c e
+## Preface
 
 Do you lack power and purpose? Do you still need
 to be persuaded that God’s Word is both divine
