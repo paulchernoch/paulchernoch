@@ -7,7 +7,8 @@ On this page you will find:
   - the cover art, 
   - a challenging maze, 
   - the table of contents, and
-  - the **Preface** to *Peace, like Solomon Never Knew*.
+  - the **Preface** to *Peace, like Solomon Never Knew*
+  - **Peace in our Time**, the first chapter of the book, which includes a full chapter outline for the book
 
 ## Front Cover:
 
