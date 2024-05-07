@@ -305,9 +305,11 @@
         dates: [2024-03-28]
   - title: Chronology
     image: fas fa-calendar-alt
+    dates: [2024-05-07]
     parts:
-    - title: Antediluvian Chronology
+    - title: Dating the Creation
     - title: Sojourn of Israel
-    - title: Judges
+    - title: Chronology of Judges
+    - title: Lifespan of Solomon
 
 
