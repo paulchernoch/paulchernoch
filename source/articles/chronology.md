@@ -1,5 +1,6 @@
 ---
 title: Chronology
+quote: Since his days are determined, <br/> and the number of his months is with you, <br/> and you have appointed his limits <br/> that he cannot pass... - Job 14:5
 ---
 If you like math puzzles, the Bible is filled with them. None of the events are marked with a date.
 Scriptural accounts may give the day and month something happened, they may tell you relatively how many years passed between two events,
@@ -50,30 +51,41 @@ The articles in this section will cover the following chronological challenges:
 
  - **Dating the Creation**. How long ago did the Creation occur? When did the Flood of Noah occur? How old was Terah when Abram was born?
  - **Sojourn of Israel**. When did the patriarchs live? How long did Jacob live near Laban? When did the sojourn of Israel in Egypt begin?
- - **Chronology of Judges**. How long did Joshua rule Israel? Do you add the periods of subjugation to the years of the judges or not? Did any judgeships overlap? How long did Saul reign?
+ - **Chronology of Judges**. How long did Joshua rule Israel? To measure time, do you add the periods of subjugation to the years of the judges or not? Did any judgeships overlap? How long did Saul reign?
  - **Lifespan of Solomon**. When was Solomon born? How long did he live?
 
-Though the chronology of the kings of Israel and Judah is viewed as one of the more challenging, I leave that one to the experts.
-They mostly have been refining the work of Edwin Thiele, who introduced the idea in his book *The Mysterious Numbers of the Hebrew Kings*
+## Counting like Kings
+
+Though the chronology of the kings of Israel and Judah is viewed as one of the more challenging ones, I leave that one to the experts.
+They mostly have been refining the work of Edwin Thiele, who introduced the idea in his 1951 book (and subsequent revisions)
+[The Mysterious Numbers of the Hebrew Kings](https://en.wikipedia.org/wiki/The_Mysterious_Numbers_of_the_Hebrew_Kings)
 that there are two ways to use the lengths of the reigns of kings to form a chronology. 
 
   - **accession year chronology**. When the old king dies or abdicates, the remainder of the year is called the accession year of the new king. The year one of the new king starts with the next calendar year.
-  - **non-accession year chronology**. The new king is credited with their first year being the partial year remaining. 
+  - **non-accession year chronology**. The first year of the reign of the new king is the partial year left after the end of the previous king's reign. 
 
 If you use a non-accession year chronology, it is the mathematical equivalent of rounding up. The other is like rounding down.
 Between Israel and Judah, or Judah and Assyria, you have the situation that the dates do not line up because one kingdom
 rounds up and the other rounds down, and at a point in history, some kingdoms switched from one to the other scheme.
 
-This idea of rounding up versus rounding down (plus coregencies and other oddities) is now applied to understanding the reigns of the kings.
-I have not seen it applied to the lives of the people before Abram. That is my key innovation. There are twenty generations from
-Adam to Abraham. If the Bible records the whole number of years of age when each father gave birth to his son, then
-you lose the fractional part of the birth year. That means that summing up those ages at birth figures will cause you to round 
-down. On average, each rounding down will cost you half a year. Across twenty generations you will lose ten years.
+NOTE: Thiele's work is not without its detractors. One such article by Larry Pierce published in 2001 is 
+[Evidentialism–The Bible and Assyrian Chronology](https://answersingenesis.org/bible-history/evidentialism-the-bible-and-assyrian-chronology/)
+I accept some of Thiele's ideas as sound but not his detailed reconstruction, as it places more credence on the Assyrian record than on the Biblical record.
+
+## Counting backwards to the Creation
+
+This idea of rounding up versus rounding down (plus coregencies and other oddities) is now applied by many scholars to understanding 
+the reigns of the kings. I have not seen it applied to the lives of the people before Abram. That is my key innovation. 
+There are twenty generations from Adam to Abraham. If the Bible records the whole number of years of age when each father 
+gave birth to his son, then you lose the fractional part of the birth year. That means that summing up those ages at birth figures 
+will cause you to round down. On average, each rounding down will cost you half a year. Across twenty generations you will lose ten years.
 
 Bishop James Ussher published *Annales veteris testamenti, a prima mundi origine deducti* 
 ("Annals of the Old Testament, deduced from the first origins of the world"), in 1650, and *Annalium pars posterior* in 1654. 
 In his work he famously estimated that the Creation occurred in 4004 BC. We have better solutions to some of the Chronological 
 problems than he, but taking his date and adding my correction of ten years leads to a **Creation date of 4014 BC**. 
-Based on other calculations of mine (explained in the other articles), the **creation likely occurred in 4020 BC**.
+Based on other calculations of mine (explained in the other articles), the **creation likely occurred in 4020 BC** or very close to it.
 By that reckoning, we are now in the early part of the seventh millennium of history, thought by many to be the final millennium.
 Enjoy!
+
+
