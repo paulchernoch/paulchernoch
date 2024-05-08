@@ -31,6 +31,7 @@ Here are some guesses of Solomon's lifespan that I have dug up:
   - Pastor D Thornton: 64 years (max)
   - Pulpit commentary: 60 years
   - Matthew Poole: 60 years
+  - Gabriel Otjssani (Catholic Answers): 58 years
   - Wikipedia: 55 years
   - Jewish tradition: 52 years
 
