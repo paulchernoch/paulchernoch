@@ -27,7 +27,7 @@ nightmares about the end of the world, as recounted in [Dreams](./dreams.html). 
 My study of end times prophecy has taught me that there is good news mixed in with the bad. For every judgment God executes,
 He also improves the world by His grace. His patience will run out eventually, then the end will come.
 
-My goal in establishing this chronology was not to be exact to year. My insight is that there are two uses of time in prophecy.
+My goal in establishing this chronology was not to be exact to the year. My insight is that there are two uses of time in prophecy.
 One is to give the exact count of years between two events. That time may be expressed in a riddle, like seven cows meaning seven years
 in Pharaoh's dream in Genesis, but the symbolism has a precise meaning that can be found. With such a prophecy, you must identify
 the two events that mark the beginning and end of the prophecy and know the years in which they occurred exactly.
@@ -43,16 +43,16 @@ It was obvious from the metaphor that "a time to tear" must include time of the 
 starting event for the clock did not cause the exile to be properly slotted, I knew I was wrong.
 
 In a clock where the period is 120 years (one of the common durations), being off by a decade means there is only a one in eight
-chance that a key event that is supposed to fall in a given era gets slotted into an adjacent era. This adds noise to 
-the pattern, but does not usually destroy it. Only as the dates diverge further is the pattern destroyed. Thus my 
-goal is to establish dates that are less than a decade off from true.
+chance that a key event that is supposed to fall in a given era gets incorrectly slotted into an adjacent era. 
+This adds noise to the pattern, but does not usually destroy it. Only as the dates diverge further is 
+the pattern destroyed. Thus my goal is to establish dates that are less than a decade off from true.
 
 The articles in this section will cover the following chronological challenges:
 
- - **Dating the Creation**. How long ago did the Creation occur? When did the Flood of Noah occur? How old was Terah when Abram was born?
+ - [Dating the Creation](./dating-the-creation.html). How long ago did the Creation occur? When did the Flood of Noah occur? How old was Terah when Abram was born?
  - **Sojourn of Israel**. When did the patriarchs live? How long did Jacob live near Laban? When did the sojourn of Israel in Egypt begin?
- - **Chronology of Judges**. How long did Joshua rule Israel? To measure time, do you add the periods of subjugation to the years of the judges or not? Did any judgeships overlap? How long did Saul reign?
- - **Lifespan of Solomon**. When was Solomon born? How long did he live?
+ - **Chronology of Judges**. How long did Joshua rule Israel? To measure time between judges, do you add the intervening periods of subjugation to enemy peoples to the years of the judges or not? Did any judgeships overlap? How long did King Saul reign?
+ - [Lifespan of Solomon](./lifespan-of-solomon.html). When was Solomon born? How long did he live?
 
 ## Counting like Kings
 
