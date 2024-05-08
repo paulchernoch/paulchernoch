@@ -61,11 +61,11 @@ Since David reigned for 40 years, if Solomon was born in the 16th year, Solomon 
 
 **Summary:**
 
-  - 7 years in Hebron 
-  - + 3 (in the course of time) 
-  - + 1 (adultery) 
-  - + 1 (lost child) 
-  - + 4 (Solomon is 4th son of Bathsheba) 
+  - `7` years in Hebron 
+  - `+ 3` (in the course of time) 
+  - `+ 1` (adultery) 
+  - `+ 1` (lost child) 
+  - `+ 4` (Solomon is 4th son of Bathsheba) 
   - = 16th year of David's reign earliest that Solomon could be born. 
   - 40 - 16 = 24 = oldest age of Solomon when David died.
 
@@ -73,7 +73,7 @@ Since David reigned for 40 years, if Solomon was born in the 16th year, Solomon 
 
 Thornton's analysis gives us an upper limit of twenty-four years for Solomon's age when he became king.
 It is highly likely that at least one of these intervals was longer than expected. Therefore my
-estimate is twenty-three years and a few months. Add in the length of SOlomon's reign of forty-years,
+estimate is twenty-three years and a few months. Add in the length of Solomon's reign of forty-years,
 and you get the answer to the question:
 
 Solomon lived to an age of **sixty-three (63) years and a few months**.
