@@ -85,13 +85,13 @@ In this table:
 
 <table class="creation">
     <tr>
-        <td>Anno Mundi</td>
-        <td>Years BC</td>
-        <td>Milestone</td>
-        <td>After</td>
-        <td>Years</td>
-        <td>Correction</td>
-        <td>Reference</td>
+        <th>Anno Mundi</td>
+        <th>Years BC</td>
+        <th>Milestone</td>
+        <th>After</td>
+        <th>Years</td>
+        <th>Correction</td>
+        <th>Reference</td>
     </tr>
     <tr>
         <td>0</td>
