@@ -4,13 +4,14 @@ title: Dating the Creation
 ## Chronological Guardrails
 
 The Lord was clever when he designed the Bible. It was written so that it is possible with ease to estimate when events
-occurred, but difficult to be precise. Part of this design includes a few special statements that summarize long stretches of history. This allows one to be confused about details like the lives of the Patriarchs or the time of the Judges, where 
+occurred, but difficult to be precise. Part of this design includes a few special statements that summarize long stretches of history. 
+This allows one to be confused about details like the lives of the Patriarchs or the time of the Judges, where 
 many conundrums exist, while at the same time being able to skip over them and get to events like the Flood and Creation.
 The effects of our confusion are thus localized; one or two errors need not wreck the whole timetable.
 
 Why would God want people to have an imprecise understanding of the Biblical timeline? It is because of this imprecision
 that people must search with care to find their answers. Only a person with faith will exhaust themselves performing
-such calculations. God reserves knowledge for the diligent.
+such calculations. God reserves knowledge for the diligent. The early chapters of Proverbs emphasize this point.
 
 So what are these special chronological guardrails?
 
@@ -32,8 +33,8 @@ This seems to contradict the previous statement, but they measure different
 things. The conclusion is that the people lived in Egypt for thirty years without 
 being mistreated, then the rest of the period as slaves.
 
-#### The time that the people of Israel lived in Egypt was 430 years. 
-#### At the end of 430 years, on that very day, 
+#### The time that the people of Israel lived in Egypt was **430 years**. 
+#### At the end of **430 years**, on that very day, 
 #### all the hosts of the Lord went out from the land of Egypt.
 ###### - Exodus 12:40-41
 
@@ -65,13 +66,285 @@ before they were solved.
 The table that builds up the case for how many years elapsed between the Creation and the building of Solomon's Temple
 has a column for corrections. Most corrections will be explained. For the first twenty generations of history, though,
 there are frequent one year corrections. These correct the assumed cumulative rounding error in the Bible's 
-genealogies. This rounding error is described in the section's main article, [Chronoligy](./chronology.html).
+genealogies. This rounding error is described in the section's main article, [Chronology](./chronology.html).
 It is not an error in the Bible's genealogies, but rather in how we attempt to use those counts of years
 to create an unbroken timeline. The ages were rounded down to a whole number of years. We must restore the months
 that were lost between each successive pair of generations.
 
 ## Genealogical Evidence
 
+In this table:
 
+  - *Anno Mundi* means the year of the world, the number of years since the creation.
+  - *Years BC* means the number of years before Christ.
+  - *Milestone* is the name of a person being born or an important event
+  - *After* is the preceding event or person whose occurrence or birth year we are adding to.
+  - *Years* is how many years to add to *After* to get the year for *Milestone*, according to the plain reading of Scripture.
+  - *Correction* is an adjustment made to correct for rounding error or a later Bible constraint.
+  - *Reference* list Bible references related to the dating of the event.
+
+<table class="creation">
+    <tr>
+        <td>Anno Mundi</td>
+        <td>Years BC</td>
+        <td>Milestone</td>
+        <td>After</td>
+        <td>Years</td>
+        <td>Correction</td>
+        <td>Reference</td>
+    </tr>
+    <tr>
+        <td>0</td>
+        <td>4020</td>
+        <td>Adam</td>
+        <td>Creation</td>
+        <td>0</td>
+        <td>0</td>
+        <td>Genesis 5:2</td>
+    </tr>
+    <tr>
+        <td>131</td>
+        <td>3889</td>
+        <td>Seth</td>
+        <td>Adam</td>
+        <td>130</td>
+        <td>1</td>
+        <td>Genesis 5:3</td>
+    </tr>
+    <tr>
+        <td>236</td>
+        <td>3784</td>
+        <td>Enosh</td>
+        <td>Seth</td>
+        <td>105</td>
+        <td>0</td>
+        <td>Genesis 5:6</td>
+    </tr>
+    <tr>
+        <td>327</td>
+        <td>3693</td>
+        <td>Kenan</td>
+        <td>Enosh</td>
+        <td>90</td>
+        <td>1</td>
+        <td>Genesis 5:9</td>
+    </tr>
+    <tr>
+        <td>397</td>
+        <td>3623</td>
+        <td>Mahalalel</td>
+        <td>Kenan</td>
+        <td>70</td>
+        <td>0</td>
+        <td>Genesis 5:12</td>
+    </tr>
+    <tr>
+        <td>463</td>
+        <td>3557</td>
+        <td>Jared</td>
+        <td>Mahalalel</td>
+        <td>65</td>
+        <td>1</td>
+        <td>Genesis 5:15</td>
+    </tr>
+    <tr>
+        <td>625</td>
+        <td>3395</td>
+        <td>Enoch</td>
+        <td>Jared</td>
+        <td>162</td>
+        <td>0</td>
+        <td>Genesis 5:18</td>
+    </tr>
+    <tr>
+        <td>691</td>
+        <td>3329</td>
+        <td>Methuselah</td>
+        <td>Enoch</td>
+        <td>65</td>
+        <td>1</td>
+        <td>Genesis 5:21</td>
+    </tr>
+    <tr>
+        <td>878</td>
+        <td>3142</td>
+        <td>Lamech</td>
+        <td>Methuselah</td>
+        <td>187</td>
+        <td>0</td>
+        <td>Genesis 5:25</td>
+    </tr>
+    <tr>
+        <td>1061</td>
+        <td>2959</td>
+        <td>Noah</td>
+        <td>Lamech</td>
+        <td>182</td>
+        <td>1</td>
+        <td>Genesis 5:28-29</td>
+    </tr>
+    <tr>
+        <td>1661</td>
+        <td>2359</td>
+        <td>Flood</td>
+        <td>Noah</td>
+        <td>600</td>
+        <td>0</td>
+        <td>Genesis 7:11</td>
+    </tr>
+    <tr>
+        <td>1564</td>
+        <td>2456</td>
+        <td>Shem</td>
+        <td>Flood</td>
+        <td>-98</td>
+        <td>1</td>
+        <td>Genesis 11:10 Two years after the flood, when Shem was 100 years old, he became the father of Arphaxad.</td>
+    </tr>
+    <tr>
+        <td>1664</td>
+        <td>2356</td>
+        <td>Arphaxad</td>
+        <td>Shem</td>
+        <td>100</td>
+        <td>0</td>
+        <td>Genesis 11:10</td>
+    </tr>
+    <tr>
+        <td>1700</td>
+        <td>2320</td>
+        <td>Shelah</td>
+        <td>Arphaxad</td>
+        <td>35</td>
+        <td>1</td>
+        <td>Genesis 11:12</td>
+    </tr>
+    <tr>
+        <td>1730</td>
+        <td>2290</td>
+        <td>Eber</td>
+        <td>Shelah</td>
+        <td>30</td>
+        <td>0</td>
+        <td>Genesis 11:14</td>
+    </tr>
+    <tr>
+        <td>1765</td>
+        <td>2255</td>
+        <td>Peleg</td>
+        <td>Eber</td>
+        <td>34</td>
+        <td>1</td>
+        <td>Genesis 11:16</td>
+    </tr>
+    <tr>
+        <td>1795</td>
+        <td>2225</td>
+        <td>Reu</td>
+        <td>Peleg</td>
+        <td>30</td>
+        <td>0</td>
+        <td>Genesis 11:18</td>
+    </tr>
+    <tr>
+        <td>1828</td>
+        <td>2192</td>
+        <td>Serug</td>
+        <td>Reu</td>
+        <td>32</td>
+        <td>1</td>
+        <td>Genesis 11:20</td>
+    </tr>
+    <tr>
+        <td>1858</td>
+        <td>2162</td>
+        <td>Nahor</td>
+        <td>Serug</td>
+        <td>30</td>
+        <td>0</td>
+        <td>Genesis 11:22</td>
+    </tr>
+    <tr>
+        <td>1888</td>
+        <td>2132</td>
+        <td>Terah</td>
+        <td>Nahor</td>
+        <td>29</td>
+        <td>1</td>
+        <td>Genesis 11:24</td>
+    </tr>
+    <tr>
+        <td>2071</td>
+        <td>1949</td>
+        <td>Abram</td>
+        <td>Terah</td>
+        <td>70</td>
+        <td>113</td>
+        <td>Genesis 11:26,32 12:4; Acts 7:1-4. Abram was not the first born son of Terah.</td>
+    </tr>
+    <tr>
+        <td>2171</td>
+        <td>1849</td>
+        <td>Isaac</td>
+        <td>Abram</td>
+        <td>100</td>
+        <td>0</td>
+        <td>Genesis 21:5</td>
+    </tr>
+    <tr>
+        <td>2176</td>
+        <td>1844</td>
+        <td>Isaac weaned</td>
+        <td>Isaac</td>
+        <td>5</td>
+        <td>0</td>
+        <td>Genesis 15:13, Acts 7:6. Jewish practice was to wean at between 2 and 5 years.</td>
+    </tr>
+    <tr>
+        <td>2577</td>
+        <td>1443</td>
+        <td>Exodus</td>
+        <td>Isaac weaned</td>
+        <td>400</td>
+        <td>1</td>
+        <td>Genesis 15:13, Acts 7:6. </td>
+    </tr>
+    <tr>
+        <td>2617</td>
+        <td>1403</td>
+        <td>Jordan Crossing</td>
+        <td>Exodus</td>
+        <td>40</td>
+        <td>0</td>
+        <td>Joshua 5:6</td>
+    </tr>
+    <tr>
+        <td>3057</td>
+        <td>963</td>
+        <td>Temple begun</td>
+        <td>Exodus</td>
+        <td>480</td>
+        <td>0</td>
+        <td>1 Kings 6:1. In the four hundred and eightieth year after the Israelites came out of Egypt, in the fourth year of Solomon’s reign over Israel, in the month of Ziv, the second month, he began to build the temple of the Lord.</td>
+    </tr>
+    <tr>
+        <td>3053</td>
+        <td>967</td>
+        <td>Solomon crowned</td>
+        <td>Temple begun</td>
+        <td>-4</td>
+        <td>0</td>
+        <td>1 Kings 6:1. Temple begun in the fourth year of Solomon’s reign.</td>
+    </tr>
+    <tr>
+        <td>3060</td>
+        <td>960</td>
+        <td>Temple dedicated</td>
+        <td>Solomon crowned</td>
+        <td>7</td>
+        <td>0</td>
+        <td>1 Kings 6:38. In the eleventh year in the month of Bul, the eighth month, the temple was finished in all its details according to its specifications. He had spent seven years building it.</td>
+    </tr>
+</table>
 
 In progress...
