@@ -23,9 +23,10 @@ The problem is both over- and under-constrained. Here are some of those constrai
 **Add only judgeships?** If you assume that the times of oppression were carved from the time of the previous judge and just add the lengths of the judgeships, the total length of the era falls short.
 
 Simple approaches that vary a single assumption fail to establish a useful timeline. Over the centuries, many solutions have been proposed for parts of the problem. Some solutions conflict with others. Assembling a complete and consistent set of
-rules that match all the known constraints and do not due injury to the Biblical text is not simple. This article will propose
-a set of assumptions and work out a timeline for the judges from them. No individual idea is my own, but the collection 
-of solutions may be new. I have not seen any authors who employ all and only these assumptions.
+rules that match all the known constraints and do not do injury to the Biblical text is not simple. This article will propose
+a set of assumptions and work out a timeline for the judges from them. Only one of the ideas is my own. 
+Even omitting that idea, the collection of the remaining solutions into one framework is new. 
+I have not seen any authors who employ all and only these assumptions.
 
 These sources were helpful in my research, though I did not adopt all of their ideas:
 
