@@ -1,5 +1,6 @@
 ---
 title: Dating the Creation
+quote: sojourners in a land belonging to others, <br/> who would enslave them and <br/> afflict them four hundred years. <br/> - Acts 7:6
 ---
 ## Chronological Guardrails
 
@@ -81,7 +82,7 @@ In this table:
   - *After* is the preceding event or person whose occurrence or birth year we are adding to.
   - *Years* is how many years to add to *After* to get the year for *Milestone*, according to the plain reading of Scripture.
   - *Correction* is an adjustment made to correct for rounding error or a later Bible constraint.
-  - *Reference* list Bible references related to the dating of the event.
+  - *Reference* lists Bible references related to the dating of the event.
 
 <table class="creation">
     <tr>
@@ -199,7 +200,7 @@ In this table:
         <td>Flood</td>
         <td>-98</td>
         <td>1</td>
-        <td>Genesis 11:10 Two years after the flood, when Shem was 100 years old, he became the father of Arphaxad.</td>
+        <td>Genesis 11:10 <br/> Two years after the flood, when Shem was 100 years old, he became the father of Arphaxad.</td>
     </tr>
     <tr>
         <td>1664</td>
@@ -298,7 +299,7 @@ In this table:
         <td>Isaac</td>
         <td>5</td>
         <td>0</td>
-        <td>Genesis 15:13, Acts 7:6. Jewish practice was to wean at between 2 and 5 years.</td>
+        <td>Genesis 15:13, Acts 7:6. <br/> Jewish practice was to wean at between 2 and 5 years.</td>
     </tr>
     <tr>
         <td>2577</td>
@@ -325,7 +326,7 @@ In this table:
         <td>Exodus</td>
         <td>480</td>
         <td>0</td>
-        <td>1 Kings 6:1. In the four hundred and eightieth year after the Israelites came out of Egypt, in the fourth year of Solomon’s reign over Israel, in the month of Ziv, the second month, he began to build the temple of the Lord.</td>
+        <td>1 Kings 6:1. <br/> In the four hundred and eightieth year after the Israelites came out of Egypt, in the fourth year of Solomon’s reign over Israel, in the month of Ziv, the second month, he began to build the temple of the Lord.</td>
     </tr>
     <tr>
         <td>3053</td>
@@ -334,7 +335,7 @@ In this table:
         <td>Temple begun</td>
         <td>-4</td>
         <td>0</td>
-        <td>1 Kings 6:1. Temple begun in the fourth year of Solomon’s reign.</td>
+        <td>1 Kings 6:1. <br/> Temple begun in the fourth year of Solomon’s reign.</td>
     </tr>
     <tr>
         <td>3060</td>
@@ -343,7 +344,7 @@ In this table:
         <td>Solomon crowned</td>
         <td>7</td>
         <td>0</td>
-        <td>1 Kings 6:38. In the eleventh year in the month of Bul, the eighth month, the temple was finished in all its details according to its specifications. He had spent seven years building it.</td>
+        <td>1 Kings 6:38. <br/> In the eleventh year in the month of Bul, the eighth month, the temple was finished in all its details according to its specifications. He had spent seven years building it.</td>
     </tr>
 </table>
 
@@ -379,31 +380,33 @@ sixty years later. (It is likely that Haran was the firstborn son, as he is said
 leaving Abram to care for Haran's son, Lot.)
 See [How Old was Terah when Abraham was Born? by Eric Lyons, M.Min.](https://apologeticspress.org/how-old-was-terah-when-abraham-was-born-758/)
 
-My choice of adding 113 years to Terah's age (making Terah 183 when Abram was born) instead of the minimum of 60 years that is required
-to solve the inconsistency is a possible but not a necessary solution. This solution assumes that the beginning of the sojourn of Israel
-(time of troubles, including Egyptian bondage) is when Isaac was weaned at age five, at which time he was insulted by Hagar, the Egyptian,
+My choice of adding 113 years to Terah's age (making Terah 183 when Abram was born) instead of the minimum of 
+60 years that is required to solve the inconsistency is a possible but not a necessary solution. 
+This solution assumes that the beginning of the sojourn of Israel (time of troubles, including Egyptian bondage) 
+is when Isaac was weaned at age five, at which time he was insulted by Hagar, the Egyptian,
 and her son, Ishmael. This is an accepted, but not unanimously held view.
 
-An alternate start time for the sojourn is later in the life of Isaac. The arrival of a famine, an appearance of God, the promise of blessing,
-and the mention of the word sojourn indicate that this is a significant event.
+An alternate start time for the sojourn is later in the life of Isaac. The arrival of a famine, an appearance of God,
+the promise of blessing, a mention of Egypt and the mention of the word sojourn indicate that this is a significant event.
 
 #### Now there was a famine in the land, besides the former famine 
 #### that was in the days of Abraham. And Isaac went to Gerar to 
 #### Abimelech king of the Philistines. And the Lord appeared to him and said, 
-##### “Do not go down to Egypt; dwell in the land of which I shall tell you.
+##### “Do not go down to **Egypt**; dwell in the land of which I shall tell you.
 ##### **Sojourn** in this land, and I will be with you and will bless you, 
 ##### for to you and to your offspring I will give all these lands, 
 ##### and I will establish the oath that I swore to Abraham your father. 
 ###### - Genesis 26:1-3
 
-Since Isaac married Rebekah when he was forty, and a later event has Esau marrying a disagreeable wife when he was age forty (Genesis 26:34),
-this famine falls sometime between when Isaac was forty and eighty years old. That would mean that the 400 year sojourn would begin 
-between 35 and 75 years later than his weaning. If the sojourn began when he was 58 years old, then we could reduce 
-the age of Terah when Abram was born to 130 years, in line with Morris & Whitcomb's minimum value.
+Since Isaac married Rebekah when he was forty, and a later event has his son Esau marrying a disagreeable wife 
+when he was age forty (Genesis 26:34), this famine falls sometime between when Isaac was forty and eighty years old. 
+That would mean that the 400 year sojourn would begin between 35 and 75 years later than his weaning.
+If the sojourn began when he was 58 years old, then we could reduce the age of Terah when Abram was born to 130 years, 
+in line with Morris & Whitcomb's minimum value.
 
-What this means is that there are two independent ways to arrive at a Creation year of 4020 BC that do not affect the timing of any events 
-before the life of Abraham or after the life of Isaac. It all comes down to deciding which even - weaning or famine - marks the start of 
-the sojourn of Israel.
+What this means is that there are two independent ways to arrive at a Creation year of 4020 BC that do not 
+affect the timing of any events before the life of Abraham or after the life of Isaac. It all comes down to 
+deciding which event in Isaac's life - weaning or famine - marks the start of the sojourn of Israel.
 
 ## Why 4020 BC?
 
@@ -413,14 +416,23 @@ They must synchronize certain key events with other prophetic clocks; God's cloc
 The best synchronization solution is for a Creation year of 4020 BC.
 
 The first constraint is that Jesus' birth must be in the same millennium from the creation as his crucifixion
-to satisfy some prophecies. The common assumption is that Jesus was born in 4 BC. 
+to satisfy some prophecies. For example, Jesus is called the Morning Star and was to appear at the dawn of
+the day:
+
+#### But for you who fear my name, **the sun of righteousness** 
+#### **shall rise with healing in its wings**. 
+#### You shall go out leaping like calves from the stall. 
+#### - Malachi 4:2
+
+When speaking of millennia, the dawn is the start of the epoch.
+The common assumption is that Jesus was born in 4 BC. 
 (It is funny that Christ was born "before Christ".) That means that the Creation must be on or before 
-4004 BC (the year chosen by Bishop Ussher).
+4004 BC (the year chosen by Bishop Ussher), else Jesus would have been born in the prophetic nighttime.
 
 The second constraint is that Jesus' birth must be in one of Solomon's times (a time to build up) while
 his crucifixion must be in the following time (a time to weep). The time period for Solomon's main clock
 is 120 years, and Jesus only lived about 36 years. That means that we only have about 36 years of wiggle room.
-Subtract 35 years from 4004 BC and you get 4040 BC. My date of 4020 BC falls right in the middle of the possible range.
+Subtract 36 years from 4004 BC and you get 4040 BC. My date of 4020 BC falls right in the middle of the possible range.
 Other prophetic constraints reduce the wiggle room more. These clocks will be dealt with elsewhere on this site.
 
 
