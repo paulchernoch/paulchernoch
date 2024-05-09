@@ -129,9 +129,38 @@ The second is a one year equal coregency. That will be respected.
 
 ## The Timeline
 
+Now you can *judge* how good a job I have done when counting judges...
+
 Note how each judge begins his or her rule during the final year of the previous judge.
+The following table is taken straight from *Plague, Precept, Prophet, Peace*.
 
 <img src="./images/timeline-of-judges.png" alt="Table with timeline of Judges" width="600" height="821">
 
-Now you can *judge* how good a job I have done...
+## Jephthah's Speech and the 300 Years
+
+If you look closely, you will see that this timeline seems to violate the constraint from Jephthah's speech.
+He notes a 300 year period from some event in the past until the day he was speaking. If that starting event
+was the crossing of the Jordan, then the 300 year period would end three years after Jephthah's rule ended.
+Possible solutions are:
+
+  - Jephthah's number was an approximation, so this timeline is okay. This would be an unusual thing to find in the Bible.
+  - We need to add three or more years for Shamgar (for whom we have no count of years) to make up the difference, then remove the same number of years of overlap between Samuel and Eli to bring all constraints into balance.
+  - Jephthah was referring to an event during the wandering in the desert prior to the Jordan Crossing.
+
+Israel did come into possession of some territory before Joshua crossed the Jordan, so the third solution is possible.
+
+#### Now are you any better than Balak the son of Zippor, king of Moab? 
+#### Did he ever contend against Israel, or did he ever go to war with them? 
+#### While Israel lived in Heshbon and its villages, 
+#### and in Aroer and its villages, and in all the cities that are on 
+#### the banks of the Arnon, 300 years, why did you not deliver them 
+#### within that time?
+#### - Judges 11:25-26
+
+The story of Balak is given in Numbers 22. Those events did occur before Moses died, 
+though I am not sure how long. Thus it is likely that Jephthah's measurement of 300 years
+refers to an event that precedes the crossing of the Jordan. Therefore, there may be no
+contradiction. This speech of Jephthah therefore further validates the assumption that
+Joshua was 19 when the Exodus occurred and that the years of oppression should not be added.
+
 
