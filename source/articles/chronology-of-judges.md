@@ -58,6 +58,12 @@ Dr. Osgood noted that some judges drove out enemies to the south, while others d
 This permitted him to theorize that some judgeships were overlapping, with a northern judge and a southern one.
 I did not need to employ this assumption, but it is worth noting.
 
+There is one exception to this rule. No length of service is given for Shamgar. Possible interpretations of this:
+
+  - The information has been lost, so our chronologies will be off.
+  - Shamgar's rule lasted less than a year, so they did not count it.
+  - Shamgar's rule did overlap the rule of another judge, so the years of his rule were not counted, in order to not add another confusion to to the record of the judges.
+
 ## Rule 5: Joshua was a teen during the Exodus
 
 Most people assume that Joshua was about the same age as Caleb, his spy partner and right hand man. 
@@ -128,4 +134,4 @@ Note how each judge begins his or her rule during the final year of the previous
 <img src="./images/timeline-of-judges.png" alt="Table with timeline of Judges" width="600" height="821">
 
 Now you can *judge* how good a job I have done...
- 
+
