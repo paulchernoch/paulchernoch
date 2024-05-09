@@ -51,7 +51,7 @@ The articles in this section will cover the following chronological challenges:
 
  - [Dating the Creation](./dating-the-creation.html). How long ago did the Creation occur? When did the Flood of Noah occur? How old was Terah when Abram was born?
  - **Sojourn of Israel**. When did the patriarchs live? How long did Jacob live near Laban? When did the sojourn of Israel in Egypt begin?
- - **Chronology of Judges**. How long did Joshua rule Israel? To measure time between judges, do you add the intervening periods of subjugation to enemy peoples to the years of the judges or not? Did any judgeships overlap? How long did King Saul reign?
+ - [Chronology of Judges](./chronology-of-judges.html). How long did Joshua rule Israel? To measure time between judges, do you add the intervening periods of subjugation to enemy peoples to the years of the judges or not? Did any judgeships overlap? How long did King Saul reign?
  - [Lifespan of Solomon](./lifespan-of-solomon.html). When was Solomon born? How long did he live?
 
 ## Counting like Kings
