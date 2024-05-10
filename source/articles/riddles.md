@@ -133,8 +133,8 @@ He gloried more in his strength than in God who gave it to him.
 If only Samson lived later and could have been taught by Psalm 19!
 
 #### In them he has set a tent for the sun,
-#### which comes out like a bridegroom leaving his chamber,
-#### and, like a strong man, runs its course with joy...
+#### which comes out like a **bridegroom** leaving his chamber,
+#### and, like **a strong man**, runs its course with joy...
 #### the fear of the Lord is clean,
 ##### enduring forever;
 #### the rules of the Lord are true,
@@ -195,5 +195,5 @@ Jesus said that we are to hunger and thirst for righteousness.
 Samson had the thirst, but for all the wrong things.
 We must not be like him, but we must thirst. We must pray - with humility - 
 that God will split the rock of confusion, ignorance and exhaustion
-and so satisfy our thirst for Him. When the water that wells u to eternal life
-bubbles forth, then our spirit will revive. 
+and so satisfy our thirst for Him. When the water that wells up to eternal life
+bubbles forth, then our spirit will revive.
