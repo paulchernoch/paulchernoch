@@ -39,6 +39,69 @@ He rewards the patient student of the Bible with treasures that others will neve
 
 Looking at a few examples of emotional riddles should make things clearer.
 
+**The Fear of the Lord**. The whole subject of the Fear of the Lord is an emotional riddle.
+In mid 1992, I was leading a Bible study. One participant was a hardened abuse survivor.
+She alternated between fragile and furious. Then we got to a verse about fear, perhaps 1 Peter 2, 
+which says, "Honor everyone. Love the brotherhood. **Fear God**. Honor the emperor."
+I was thirty and only dimly understood the fear of the Lord. Arguing for the goodness of anything
+related to fear with such a person was a losing battle. How well I now understand Proverbs 2:
+
+#### My son, if you receive my words
+##### and treasure up my commandments with you,
+#### making your ear attentive to wisdom
+##### and inclining your heart to understanding;
+#### yes, if you call out for insight
+##### and raise your voice for understanding,
+#### if you seek it like silver
+##### and search for it as for hidden treasures,
+#### **then you will understand the fear of the Lord**
+##### and find the knowledge of God.
+###### - Proverbs 2:1-5
+
+Solomon made two things clear:
+
+  - The Fear of the Lord is the beginning of knowledge (Proverbs 1:7) and wisdom (Proverbs 9:10)
+  - Just getting the place of understanding the Fear of the Lord is a journey
+
+Just getting to the starting line of the race to attain wisdom is hard! Some never even make it that far.
+That is a fearful emotional riddle.
+
+**Humility**. Braggarts will claim to have more of everything than you, even humility.
+I wrestled with one proverb related to this topic. 
+
+#### In my vain life I have seen everything. 
+#### There is a righteous man who perishes in his righteousness, 
+#### and there is a wicked man who prolongs his life in his evildoing. 
+#### **Be not overly righteous**, and do not make yourself too wise. 
+##### Why should you destroy yourself? 
+#### Be not overly wicked, neither be a fool. 
+##### Why should you die before your time?
+#### It is good that you should take hold of this, 
+#### and from that withhold not your hand, 
+#### **for the one who fears God** shall come out from both of them.
+###### - Ecclesiastes 7:15-18
+
+These verses baffled me. "Why should you destroy yourself by being too righteous?" 
+Is this some sort of trick question? I was raised Catholic, then became a Christian 
+through a fundamentalist church steeped in legalism. I labored to obey God in everything.
+Surely finding a balance between doing good and doing evil is a materialistic, unspiritual
+cop out, no? We should strive always to do good, confess when we fail, and resume striving
+after that. No compromise with sin.
+
+With an attitude like that, how could I never understand Ecclesiastes? In fact, Solomon's
+book is one of the books I have struggled with the most, right up there with Philippians.
+Facing my own self-righteousness was a drawn out process. That is one reason why Job
+finally clicked with me.
+
+Solomon was not recommending licentiousness. He was counseling people that when you
+try to "make yourself too wise", it is just that. It is you trying to perfect yourself
+in order to salve your conscience and gain a good reputation. It isn't real wisdom
+and it isn't real righteousness. That we must pursue, but only God can give it.
+Only Christ can make you righteous. Our effort must be to go to him to change us,
+not to do the job ourself. It is one thing to hear a sermon on legalism, and quite
+another to recognize it in yourself. This riddle is one I solved and continue to solve 
+at great cost.
+
 **Elihu**. In Job 32, we meet Elihu, a younger man. His words and attitude rub most people the wrong way. 
 He spends a whole chapter telling Job that he has something to say - without saying anything! 
 Elihu comes across like a windbag who loves the sound of his own voice. At a conference of pastors, 
@@ -89,7 +152,7 @@ She saw them first! I now consider her one of the wisest women who ever lived. I
 with reproductive issues, a victim. In an emotional riddle, the concealing power of prejudice is immense. 
 Hannah was a woman of no account to whom God gave a great gift. Do not look to the glaze on the earthen jar, look to its contents!
 
-To get a peak at the contents of Hannah's prayer, read my article about it: 
+To get a peek at the contents of Hannah's prayer, read my article about it: 
 
 [Hannah's Song](./hannah-s-song.md)
 
@@ -205,7 +268,7 @@ in order to trigger a war between Israel and the Philistines, a war he believed
 he could win, thanks to the divine strength God had given him.
 
 Why focus on this riddle? Judges 14 uses the word riddle eight times. Daniel only uses the word
-only twice. The whole Bible only uses it fifteen times. With over half the mentions, 
+riddle twice. The whole Bible only uses it fifteen times. With over half the mentions, 
 Judges 14 is riddle central. The trick with a riddle, a parable, or a saying of the wise is 
 that it has a surface meaning and a deeper meaning, whether spiritual or prophetic. 
 We are told the surface meaning. The eater was the lion that tried to eat Samson, but which he 
