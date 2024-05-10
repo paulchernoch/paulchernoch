@@ -62,12 +62,12 @@ only twice. The whole Bible only uses it fifteen times. With over half the menti
 Judges 14 is riddle central. The trick with a riddle, a parable, or a saying of the wise is 
 that it has a surface meaning and a deeper meaning, whether spiritual or prophetic. 
 We are told the surface meaning. The eater was the lion that tried to eat Samson, but which he 
-dispatched with his supernatural strength. Then says later, he passed by again and saw that bees
+dispatched with his supernatural strength. Then days later, he passed by again and saw that bees
 had made a nest in the lion's corpse and there was honey to be had, the sweet (honey) that came out of the strong (lion).
 
 What is the prophetic meaning? If there is such a meaning, we have lots of grist. Prophecies of the future often
 tell us how long the wait until some future event. They need either numbers or things that can be counted.
-This chapter and the next, where the story concludes, with the death of his wife and lots of other people,
+This chapter and the next, where the story concludes with the death of his wife and lots of other people,
 have lots of numbers:
 
   - riddle: eight mentions
@@ -110,7 +110,8 @@ Somers makes these points (in my words):
 If I keep searching, I will find more interpretations of Samson's riddle and get no closer to the truth.
 My only clue has to do with Samson's strength. The fifth of the [seven Spirits of God](./seven-spirits.html) 
 is the Spirit of Might. Being the fifth, it points to the fifth millennia, when Christ lived and died and rose again.
-Being fifth, it also points to the fifth pillar of wisdom, Ecclesiastes. That book 
+Being fifth, it also points to the fifth pillar of wisdom, Ecclesiastes. That book has one place
+that ties together marriage, work, might and a life of joy:
 
 #### Go, eat your bread with joy, 
 #### and drink your wine with a merry heart, 
