@@ -37,7 +37,63 @@ have been solved by now. That would leave us late-born riddle lovers nothing to 
 God also prizes diligence. By including riddles whose difficulty ranges from the simple to the impossible, 
 He rewards the patient student of the Bible with treasures that others will never know.
 
-In progress...
+Looking at a few examples of emotional riddles should make things clearer.
+
+**Elihu**. In Job 32, we meet Elihu, a younger man. His words and attitude rub most people the wrong way. 
+He spends a whole chapter telling Job that he has something to say - without saying anything! 
+Elihu comes across like a windbag who loves the sound of his own voice. At a conference of pastors, 
+one attendee asked for a show of hands. Who trusts what Elihu had to say and who thought him no better than the three friends?
+The room was evenly split. That is an effective riddle. In my book *Job Rises*, I did a thorough analysis of Elihu's 
+statements about Job and concluded that he was right. What tipped me toward believing him? It was these words:
+
+#### For I am full of words;
+##### the spirit within me constrains me.
+#### Behold, my belly is like wine that has no vent;
+##### like new wineskins ready to burst.
+#### I must speak, that I may find relief;
+##### I must open my lips and answer.
+###### - Job 32:18-20
+
+The bursting of a wineskin is found in a parable of Jesus. The wine is the new teachings of the Holy Spirit,
+which require that a person be born again, otherwise they cannot comprehend it. It will literally blow their mind.
+When I experienced the Baptism of the Holy Spirit decades ago, it was because I visited a dying Christian woman
+named Janet. After I left her bedside, I was consumed with deep sadness and mourning, wept bitterly, but then a half hour later
+was filled with joy. After church that morning, I rushed home, read Philippians, and then wrote a ten page article
+about the joy of the Holy Spirit. My feeling of having this pent up energy and need to speak about God
+perfectly matched what Elihu described in Job. How can that be?
+
+At Janet's funeral months later, someone said something with which we all agreed, 
+"When you were with Janet, it was like the Holy Spirit was pouring out of her."
+Because I stood in the presence of a holy woman undergoing great suffering, 
+and I was there to comfort her in her trials, the Holy Spirit passed from her to me.
+
+In the Book of Job, Elihu was standing in the presence of Job, a suffering, righteous man.
+He refused to speak harsh words and unjustly accuse Job without evidence of doing wicked things to deserve his suffering.
+Because his heart was young and pliable, not like a tough old wineskin set in its ways like the three friends, 
+Elihu was receptive. Thus the Holy Spirit entered him and he prophesied true words from God.
+Had I never had the experience of meeting Janet and being transformed, I never would have understood Elihu.
+The man did not say "nothing" in that first chapter; he said everything. Even he did not know where his words were coming from,
+but he described his religious experience accurately so that later people with like experiences would be able to understand him.
+
+Is Elihu the only person that we misunderstand? No!
+
+**Hannah**. Eli the judge, when he saw Hannah moving her lips but saying nothing, thought she was drunk and berated her.
+She defended herself by saying that she was full of grief and pouring her heart out to God because of her barrenness. 
+Hear that? A *judge* appointed by God *misjudged* a woman!
+
+After God answered her desperate prayer, Hannah gave birth to a son, Samuel. In gratitude, Hannah uttered a wonderful prayer.
+Have you read her prayer? Have you considered it so important that you devoted days to studying it, praying over it, 
+and trying to comprehend its mysteries? Have you marveled at its prophetic richness? I never would have done any of these things, 
+had God not showed me that her prayer spoke of certain mysteries of wisdom a century before Solomon lived and wrote more about them. 
+She saw them first! I now consider her one of the wisest women who ever lived. I once thought of her as an ordinary, unschooled mom
+with reproductive issues, a victim. In an emotional riddle, the concealing power of prejudice is immense. 
+Hannah was a woman of no account to whom God gave a great gift. Do not look to the glaze on the earthen jar, look to its contents!
+
+To get a peak at the contents of Hannah's prayer, read my article about it: 
+
+[Hannah's Song](./hannah-s-song.md)
+
+
 
 ## Samson's Riddle
 
@@ -94,6 +150,14 @@ The Nazirite vow included no cutting of the hair (which led to Samson losing his
 no drinking fermented beverages like wine, and definitely no touching of corpses! 
 By touching a dead lion to eat from the honeycomb attached to it, he became unclean. 
 By telling a riddle about the whole affair, he was disclosing his unfaithfulness to God.
+In this fashion, a man trying to conceal his actions by a riddle ends up shouting them to the world.
+Won't God do the same with us?
+
+#### Therefore whatever you have said in the dark 
+#### shall be heard in the light, and what you have 
+#### whispered in private rooms 
+#### shall be proclaimed on the housetops.
+###### - Luke 12:3
 
 **An End Times Prophecy**. Bill Somers offers an interpretation that makes use of many of the symbols from the text, but seems off to me.
 In his article [Samson's Riddle: The Revelation of Jesus Christ](https://www.gatewaysofhislight.com/etpv/billsomers/riddle1/), 
