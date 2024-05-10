@@ -93,7 +93,98 @@ To get a peak at the contents of Hannah's prayer, read my article about it:
 
 [Hannah's Song](./hannah-s-song.md)
 
+**God, the Aloof**. The tone of someone's words is as important as the words themselves. In Job, God comes across as transcendant. 
+He is so far away that we can not see him. Even when He shows up, His words are off-putting. This also applies to people
+who speak on his behalf. First, consider Elihu in Job 37:
 
+#### Teach us what we shall say to him;
+##### we cannot draw up our case because of darkness.
+#### **Shall it be told him that I would speak?**
+##### Did a man ever wish that he would be swallowed up?
+###### - Job 37:19-20
+
+Elihu seems to be saying, "Are you crazy? Telling God that you want to talk to him? 
+Do you want to get yourself killed?" This is one of the many statements that turns off us lovers of
+the friendly, huggy, cheerful and considerate God. I know that it made me feel that way about Elihu for a time.
+That was before I discovered the Growth Pattern of Solomon and discovered that it matched chapters 15 to 42 of Job.
+Guess which one of Solomon's twenty-eight times matches Job 37? It is "a time to be silent". 
+That means that Elihu was able to discern the times. There is a time to speak to God, and there is a time to
+be silent and listen. Elihu was telling Job that this was one of those times. So Elihu should not be heard
+as saying it is never the right time to talk to God. He is telling us that we also need to listen.
+God once told me (through a passage in Exodus 4) that I was spiritually deaf. I had a listening problem. 
+Maybe that was why Elihu's words set me off so much?
+
+That was Elihu. What about God? When he starts to speak, he spends an awful lot of time talking about animals.
+What? Is he saying, "Look, I have all these animals to feed and take care of. I'm busy. Can't it wait?"
+Now I doubt anyone reading God's speech at the end of Job comes to such an extreme conclusion as that, but the 
+tone is just weird. It is beautiful and majestic but there is this sick man who can't keep his food down, 
+has nasty gas and can't sleep, and he's traumatized because all his kids died and you want to talk
+animal husbandry?
+
+Once I got to know Elihu, and Job, and finally God, I began to see the tenderness in God's words. 
+When I looked long and hard at the parables of the animals, I discovered that each parable, each animal,
+addresses a different human need: food, shelter, help bearing and raising young, freedom, the transcendence of the eagle in flight...
+God was saying that he provides for ALL our needs - physical, emotional, and spiritual. The words that alienated me from the 
+God of Job now drew me in. That is the paradox of God - majestic and high up, tender and walking beside.
+We do not get only one part of Him. We get it all. Any alienation we feel is because that part of God is
+still strange to us and makes us afraid. God is the ultimate emotional riddle.
+
+For more about God's provision of all our needs, see the chapter "Broken Pattern, Broken Man" in *Job Rises*.
+The list of human needs that I spelled out in that book as being met by God are:
+
+  - **Food** for the young lion & raven (38:39-41)
+  - **Help during pregnancy** for the mountain goat (39:1)
+  - **Assistance giving birth & child-rearing** for the deer (39:2-4)
+  - **Freedom & a home** for the donkey (39:5-8)
+  - **An independent spirit & strength** for the ox (39:9-12)
+  - **Speed & exuberance** for the ostrich (39:13-18)
+  - **Courage & grace** for the horse (39:19-25)
+  - **Adventure** for the hawk (39:26)
+  - **Transcendence & safety** for the eagle (39:27-28)
+
+**The Voice of the Seven Thunders**. In Revelation 10, an angel with a thundering voice speaks to John. 
+Then John is told to seal up the words. Apparently John is important. He gets to know what the seven thunders said.
+We are not important. We don't get to know. Or maybe it is an inside joke. God is laughing it up with John and the
+angels, waiting to see how much time we spend trying to decipher a meaningless message.
+
+There is a concept called information leakage. Sometimes your attempts to conceal information actually cause it to leak out.
+A famous example is from World War 2. The British needed to estimate how many tanks the Germans had built.
+They noticed how the parts in the tanks they destroyed and captured had serial numbers on them. 
+By analyzing the serial numbers on the parts and applying statistical techniques, they came up with an estimate of
+how many tanks had been built. After the war, they captured the production records. Their estimate was very close.
+
+God doesn't leak anything unintentionally, but this speech in chapter 10 of Revelation does tell us something.
+It tells us that there is a voice of seven thunders. This is an important feature of emotional riddles.
+We are told, "No." We are told, "Seal it up." We are told, "This person is wrong, don't listen to what they have to say."
+Such statements trigger an emotional reaction of avoidance among the faithful. Unbelievers and charlatans will never
+be deterred by such words. They will investigate and speculate all kinds of foolish things about matters that we are told
+not to look into.
+
+As I was writing *Peace, like Solomon Never Knew*, I intentionally steered clear of Revelation 10. 
+Any theory that speaks about forbidden knowledge will be dismissed. Waste of time. 
+I had just had a wonderful summer of Bible study in which I made many discoveries.
+Suddenly, I felt sour. The feeling persisted for days. Why was I feeling that way? Everything had been going well.
+Then I made a connection. I had been "eating" the Bible for months and it was sweet, but now my spiritual stomach was sour. 
+I remember that this once happened to John in Revelation, so I looked it up:
+
+#### And I took the little scroll from the hand 
+#### of the angel and ate it. It was sweet as honey in my mouth, 
+#### but when I had eaten it my stomach was made bitter. 
+###### - Revelation 10:10
+
+Ugh! Revelation 10! I took this as a word from God that I must study this chapter.
+I got the idea to look for thunder in other parts of the Bible. Then I found it.
+The Voice of the Seven Thunders had spoken before: in Exodus, Job and Psalms.
+It also spoke elsewhere in Revelation. So the Bible told me that I could not know
+what the Seven Thunders told John THEN, but I could know what the seven thunders had
+told other people BEFORE. However, it took a push by the Holy Spirit and the feeling of
+physical discomfort to overcome the emotional force that was preventing me from studying
+that chapter of the Bible.
+
+A full account of that discovery may be found in *Peace, like Solomon Never Knew* 
+in the chapter "Aftertaste: Donner & Blitzen". 
+
+**1 Timothy 2**. 
 
 ## Samson's Riddle
 
