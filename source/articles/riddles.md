@@ -61,7 +61,7 @@ related to fear with such a person was a losing battle. How well I now understan
 Solomon made two things clear:
 
   - The Fear of the Lord is the beginning of knowledge (Proverbs 1:7) and wisdom (Proverbs 9:10)
-  - Just getting the place of understanding the Fear of the Lord is a journey
+  - Getting to the place of understanding the Fear of the Lord is a journey in itself
 
 Just getting to the starting line of the race to attain wisdom is hard! Some never even make it that far.
 That is a fearful emotional riddle.
@@ -247,7 +247,115 @@ that chapter of the Bible.
 A full account of that discovery may be found in *Peace, like Solomon Never Knew* 
 in the chapter "Aftertaste: Donner & Blitzen". 
 
-**1 Timothy 2**. 
+**Zophar**. Job is dense with riddles. The three friends, Eliphaz, Bildad, and Zophar,
+are riddles in their own right. God straight out told them that they were wrong. 
+
+#### After the Lord had spoken these words to Job, 
+#### the Lord said to Eliphaz the Temanite: 
+##### **“My anger burns against you and against your two friends,** 
+##### **for you have not spoken of me what is right,** 
+##### as my servant Job has. Now therefore take seven bulls 
+##### and seven rams and go to my servant Job and offer up 
+##### a burnt offering for yourselves. And my servant Job 
+##### shall pray for you, for I will accept his prayer 
+##### not to deal with you according to your folly. 
+##### For you have not spoken of me what is right, 
+##### as my servant Job has.”
+#### So Eliphaz the Temanite and Bildad the Shuhite 
+#### and Zophar the Naamathite went and did what the Lord 
+#### had told them, and the Lord accepted Job's prayer.
+#### - Job 42:7-9
+
+If the words spoken by three men arouse the burning anger of the Lord,
+and those words are objectively judged as not being right by 
+the judge of all the universe, would you waste time studying them?
+Would you expect to find anything uplifting in what they had to say? I didn't!
+I was determined to make only the most cursory study of their words when I wrote my book on Job.
+Towards the end, a member of my church who was in seminary shared an article
+about the personalities of the three friends. After that, I paid them 
+a more attention and it was profitable. Then in my subsequent books, 
+I made the astounding discovery that those three men were prophets in their own 
+right. They were wrong about Job. They were wrong about God. They were not wrong
+about the wickedness of the nations and the judgments that would consume them.
+In *Plague, Precept, Prophet, Peace*, I found many prophecies against the beastly 
+empires of history hidden in their words. However, that discovery was preceded by
+just one, which I wrote about in *Peace, like Solomon Never Knew*.
+
+In the chapter "CSI Babylon: Job 20", I match the words of Zophar to the 
+medical symptoms of the ailment that killed Alexander the Great.
+As far as I can tell, nobody has ever noticed that metaphors in Job 20 
+match all known symptoms of that illness, plus the circumstances of when they 
+began, the effect on Alexander's family, and details about his burial:
+
+#### He will not look upon the rivers,
+##### the streams flowing with **honey** and curds.
+###### - Job 20:17
+
+Alexander the Great was buried in a sarcophagus filled with honey, used to retard 
+the decay of the body. The precision of this prophecy amazed me; I spotted 
+eighteen details of his life spoken of in the prophecy. Equally surprising is the 
+fact that nobody else (to my knowledge) has ever spotted this prophecy.
+Almost nobody wants to read Zophar's words so nobody finds the gems hidden in them.
+This is a testimony to the power of God's emotional riddles. 
+
+**1 Timothy 2**. I know of no emotional riddle that can top this one:
+
+#### Let a woman learn quietly with all submissiveness. 
+#### I do not permit a woman to teach or to exercise authority 
+#### over a man; rather, she is to remain quiet. 
+#### For Adam was formed first, then Eve; 
+#### and Adam was not deceived, but the woman was deceived 
+#### and became a transgressor. Yet she will be saved 
+#### through childbearing—if they continue in faith and 
+#### love and holiness, with self-control.
+###### - 1 Timothy 2:11-15
+
+Feminist Bible scholars were polled which Bible verses they hated the most.
+This verse was number two. (The story of Eve eating the fruit was number one.)
+This verse arouses anger, indignation, feelings of injustice, charges of 
+sexism, or in some, resignation. If it is a riddle, to think with a clear head 
+and set off to unravel it with objectivity cannot be anything but torture. 
+Merely to resist excising the verses from the Bible or rejecting Biblical 
+inerrancy is an ordeal. The stakes are so high, the passion so intense. 
+God sealed this riddle up with so much spiritual power that only an equal 
+spiritual force can break through.
+
+In my opinion, a frontal assault on these verses to torture them into saying
+what they do not and cannot is doomed to fail. You have to stumble in,
+guided by God's grace. I had no problem with these verses and no interest 
+in dissecting them towards the end of proving that women should be permitted
+to serve as pastors or elders. However, once I comprehended the Growth Pattern
+of Solomon and began to recognize it elsewhere in the Bible, I had eyes
+to see what I could not see before.
+
+The Bible has words about eternal and unchanging truths but also God's unfolding plan
+across the years. The plan involves change. Sifting through Bible passages to 
+separate the unchanging from the temporal is hard. For one thing, if a passage is
+prophetic, then there are times when things begin and times when they end. 
+Even if you agree there is a change, you can argue over when that change will happen
+or has happened. The area of prophecy is one about which scholars, churches and denominations are
+least in agreement.
+
+The question of women serving as leaders in the church is one of those issues that is 
+a matter of time. No one in the Bible was ever authorized to serve as a priest without
+a sacrifice, a ceremony and a command from the Lord via a prophet or apostle.  
+There is no record of an event that recognized the propriety of women serving in those 
+roles during the life of the early church, whether in Acts or an apostolic letter.
+If you believe in a closed Bible canon (as I do), you must conclude that one of two 
+things is true:
+
+  - Women shall never be permitted to serve as pastors and elders
+  - Women would be permitted to serve at a point in the future (relative to the apostles), according to prophecy
+
+I once believed the first statement. Now I believe the second. The problem is that there are clear prophecies and there are riddles. God gave women a riddle and it is 1 Timothy 2. Only a person who understands
+Solomon's times will even spot the riddle. Thus this riddle is a double riddle, one
+you don't even know is a riddle.
+
+Solving this riddle completely took me years. The ideas are scattered throughout 
+*Peace, like Solomon Never Knew* and *Plague, Precept, Prophet, Peace*. 
+For part of that analysis, read the seven articles in this section: 
+
+[Against Complementarianism](./against-complementarianism.html)
 
 ## Samson's Riddle
 
