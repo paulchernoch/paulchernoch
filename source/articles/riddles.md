@@ -154,7 +154,7 @@ Hannah was a woman of no account to whom God gave a great gift. Do not look to t
 
 To get a peek at the contents of Hannah's prayer, read my article about it: 
 
-[Hannah's Song](./hannah-s-song.md)
+[Hannah's Song](./hannah-s-song.html)
 
 **God, the Aloof**. The tone of someone's words is as important as the words themselves. In Job, God comes across as transcendant. 
 He is so far away that we can not see him. Even when He shows up, His words are off-putting. This also applies to people
