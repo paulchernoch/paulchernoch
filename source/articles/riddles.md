@@ -273,7 +273,7 @@ Would you expect to find anything uplifting in what they had to say? I didn't!
 I was determined to make only the most cursory study of their words when I wrote my book on Job.
 Towards the end, a member of my church who was in seminary shared an article
 about the personalities of the three friends. After that, I paid them 
-a more attention and it was profitable. Then in my subsequent books, 
+more attention and it was profitable. Then in my subsequent books, 
 I made the astounding discovery that those three men were prophets in their own 
 right. They were wrong about Job. They were wrong about God. They were not wrong
 about the wickedness of the nations and the judgments that would consume them.
