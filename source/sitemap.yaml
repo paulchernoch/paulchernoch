@@ -216,6 +216,7 @@
     - title: 120 is for Consecration
       dates: [2024-03-29]
     - title: 153 is for Total Victory
+      sub:   John 21
       dates: [2024-03-30]
       parts:
       - title: 153 Connections
@@ -267,7 +268,9 @@
       sub:   Ecclesiastes 6
     - title: The Seven Pillars of Wisdom
       sub:   Proverbs 9
-    - title: Why 153 Fish? John 21
+    - title: Why 153 Fish?
+      sub:   John 21
+      named: 153-is-for-total-victory.md
     - title: Riddles of War
       sub:   Proverbs 30
     - title: Building a House
