@@ -45,6 +45,7 @@ quote: So Simon Peter ... hauled the net ashore, <br/> full of large fish, 153 o
 #### and so with the fish. 14 This was now the third time that 
 #### Jesus was revealed to the disciples after 
 #### he was raised from the dead.
+###### - John 21:1-14
 
 The riddle of the miraculous catch of fish recorded in John 21 has
 perplexed Christians for almost two thousand years. Many are convinced
