@@ -387,10 +387,8 @@ enlightenment monarchs. Their lands truly were blessed.
 The house is complete, the title transferred and the
 family all moved in. Now the owners are responsible for it
 going forward. Will they be attentive or neglectful? The
-article “Why Monarchy? The Rise and Demise of a Regime
-Type” by Gerring et al has the answer.
-(See [“Why Monarchy? The Rise and Demise of a Regime Type”](https://www.researchgate.net/publication/342892278_Why_Monarchy_The_Rise_and_Demise_of_a_Regime_Type) for details.)
-
+article [“Why Monarchy? The Rise and Demise of a Regime Type”](https://www.researchgate.net/publication/342892278_Why_Monarchy_The_Rise_and_Demise_of_a_Regime_Type)
+by Gerring et al has the answer.
 
 Two visuals in the article tell the story. In Europe,
 starting in 1790 AD, the number of monarchies in the world
@@ -474,7 +472,34 @@ retirement age, remember what Jesus said:
 
 <hr/>
 
-In progress...
+A skeptical reader of the above proposed solution to the riddle of Ecclesiastes 10 will likely 
+zero in on the idea that the Millennial Kingdom has come and gone and the confident assertion 
+that Satan was bound in 380 AD and released in 1380 AD. If this passage were the sole proof
+of those ideas, it would be flimsy indeed. Between *Peace* and *Plague* I have discovered over
+forty distinct prophetic clocks. They are synchronized and consistent with one another.
+References to the start of the millennial kingdom and the binding and/or unbinding of Satan
+exist in many Bible books, all keyed to the same periods in history. Those analyzed in detail
+in my books refer to prophecies in:
+
+  - Ecclesiastes 10
+  - Matthew 18
+  - Genesis 3 / Job 1-2 / Matthew 4
+  - Psalm 58
+  - Psalm 91
+  - Proverbs 15
+  - Proverbs 23
+  - Proverbs 26
+  - Job 26
+  - Exodus 20
+  - Song of Songs
+  - Daniel
+  - Revelation
+
+Other eschatological systems that attempt to place these events in history rely upon 
+far fewer passages, often just those in Daniel, Revelation and Matthew.
+
+The upshot is this. Build your house with care, for the devil is lurking out there.
+
 
 
 
