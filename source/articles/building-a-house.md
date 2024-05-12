@@ -99,7 +99,7 @@ The riddle in this article concerns the Middle Years, from 880-2080 AD. Those ye
 
 <hr/>
 
-## Productive Years (880 – 2080 AD)
+## Productive Years (880-2080 AD)
 
 At this point the Grand Father Clock strikes ten – chapter
 ten. This chapter of Ecclesiastes is all about work. To break
@@ -121,7 +121,7 @@ Note: Solomon also used the metaphor of a house
 prophetically in Psalm 127, as explored in “Appendix D: To
 Number our Psalms”.
 
-### Hiring the GC (880–980 AD).
+### Hiring the GC (880-980 AD).
 
 #### There is an evil I have seen under the sun,
 #### the sort of error that arises from a ruler:
@@ -130,7 +130,7 @@ Number our Psalms”.
 #### I have seen slaves on horseback,
 #### while princes go on foot like slaves. (10:5-7)
 
-To begin, we need a GC – a general contractor. Once
+To begin, we need a GC - a general contractor. Once
 people reach their most productive years, recruiting,
 interviewing and hiring competent and trustworthy people
 is a vital concern. In these verses, Solomon tells us that
@@ -147,7 +147,7 @@ most important and influential copy of the Masoretic Text
 of the Old Testament to be created. Descendants of that
 text influenced the translation of the King James Bible.
 
-### Digging the Foundation (980–1080 AD).
+### Digging the Foundation (980-1080 AD).
 
 #### Whoever digs a pit may fall into it... (10:8a)
 
@@ -166,13 +166,13 @@ would have made a good construction engineer.
 This verse, however, talks about a different kind of pit:
 schism. In 1054, the Great Schism finally and irrevocably
 split the church into East and West. The English word
-schism comes from the Greek σχίσµα, which means
+schism comes from the Greek σχίσμα, which means
 division, cleft, fissure, or break. The fissure that opened up
 between the two halves of Christendom would lead to the
 death or suffering of millions. The cost of digging the
 foundation for our house was great.
 
-### Demolition & Site Prep (1080–1180 AD).
+### Demolition & Site Prep (1080-1180 AD).
 
 #### ... whoever breaks through a wall 
 #### may be bitten by a snake. (10:8b)
@@ -192,7 +192,7 @@ of Islam, but now they broke through the wall. However,
 was it Christians breaking in, or Satan angling for a way to
 break out?
 
-### Deliveries & Masonry Work (1180–1280 AD).
+### Deliveries & Masonry Work (1180-1280 AD).
 
 #### Whoever quarries stones may be injured by them... (10:9a)
 
@@ -230,7 +230,7 @@ paraphrased as “Kill them all and let God sort them out.”
 And that is how the builders were injured at their own
 quarry.
 
-### Carpentry & Framing (1280–1380 AD).
+### Carpentry & Framing (1280-1380 AD).
 
 #### ... whoever splits logs may be endangered by them.
 #### If the ax is dull and its edge unsharpened,
@@ -262,7 +262,7 @@ interior walls between the new countries arising out of old
 Rome. All in all, old, dull tools were being discarded in
 search of sharp new ones to handle a new age.
 
-### Zoning, Payables & Receivables (1380–1480 AD).
+### Zoning, Payables & Receivables (1380-1480 AD).
 
 #### If a snake bites before it is charmed,
 #### the charmer receives no fee. (10:11)
@@ -290,7 +290,7 @@ system in this book is that the same event shows up in
 many clocks at the same corresponding time, reinforcing
 this assertion.)
 
-### Marketing (1480–1580 AD).
+### Marketing (1480-1580 AD).
 
 #### Words from the mouth of the wise are gracious,
 #### but fools are consumed by their own lips.
@@ -338,7 +338,7 @@ found an audience and the explosion of ideas led to real
 explosions as wars gripped the world. The Age of Marketing
 had begun.
 
-### Negligent Subcontractors (1580–1680 AD).
+### Negligent Subcontractors (1580-1680 AD).
 
 #### Woe to the land whose king was a servant
 #### and whose princes feast in the morning. (10:16)
@@ -363,7 +363,7 @@ England. That revolution did spell woe to England for
 decades, as this servant who displaced their king served an
 extremist agenda that nearly brought the nation to ruin.
 
-### Conscientious subcontractors (1680–1780 AD).
+### Conscientious subcontractors (1680-1780 AD).
 
 #### Blessed is the land whose king is of noble birth
 #### and whose princes eat at a proper time—
@@ -379,7 +379,7 @@ Joseph II, Holy Roman Emperor, Catherine the Great of
 Russia and Frederick the Great of Prussia – the three great
 enlightenment monarchs. Their lands truly were blessed.
 
-### Roofing & Maintenance (1780–1880 AD).
+### Roofing & Maintenance (1780-1880 AD).
 
 #### Through laziness, the rafters sag;
 #### because of idle hands, the house leaks. (10:18)
@@ -400,7 +400,7 @@ of the world. Starting in 1920 AD (in the fallout from World
 War I) the number of non-monarchies surged. All these
 kingdoms – these royal houses – sagged and then collapsed.
 
-### Furnishing & Feasting (1880–1980 AD).
+### Furnishing & Feasting (1880-1980 AD).
 
 #### A feast is made for laughter,
 #### wine makes life merry,
@@ -413,7 +413,7 @@ world increased vastly – twenty-fold by some measures.
 Sadly, it has spawned generations more convinced than
 ever that *“money is the answer for everything”*.
 
-### Privacy (1980–2080 AD).
+### Privacy (1980-2080 AD).
 
 #### Do not revile the king even in your thoughts,
 #### or curse the rich in your bedroom,
