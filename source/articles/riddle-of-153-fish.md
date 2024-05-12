@@ -50,7 +50,9 @@ quote: So Simon Peter ... hauled the net ashore, <br/> full of large fish, 153 o
 The riddle of the miraculous catch of fish recorded in John 21 has
 perplexed Christians for almost two thousand years. Many are convinced
 that the number of fish caught, 153 fish, has some spiritual significance, but opinions differ.
-For the answer to this riddle, we must hop over to the Numerology section of this website...
+For the answer to this riddle, we must hop over to the Numerology section of this website,
+where intriguing connections between the 153 fish, the flood of Noah, the prophet Habakkuk and the 
+trumpets of Revelation will be made...
 
 [153 is for Total Victory](./153-is-for-total-victory.html)
 
