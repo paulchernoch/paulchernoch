@@ -485,11 +485,10 @@ hard to make fake money, only better.
 Now let’s look at that fractal web of intersecting harvest
 patterns. The whole is greater than any sum...
 
-(For the analysis of the rest of Matthew, see the remainder of 
+<hr/>
+
+For the analysis of the rest of Matthew, see the remainder of 
 "A Minute Look at Matthew" in *Peace, like Solomon Never Knew*.
 
 For the analysis of a related parable concerning Christian missions, 
 see [The Parable of the Wedding Feast](./wedding-parable.html)
-)
-
-<hr/>

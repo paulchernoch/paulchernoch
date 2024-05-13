@@ -45,7 +45,7 @@ That is what we shall learn from this parable...
 ##### So the wedding hall was filled with guests.
 ###### - Matthew 22:1-10
 
-<br/>
+<hr/>
 
 The rich young ruler refused to follow Jesus. Each
 missionary era, young men and women by the tens of
@@ -122,4 +122,4 @@ enterprise are to be found by the careful Bible scholar
 beyond what I have seen. I am astonished. I trust you are,
 too.
 
-<br/>
+<hr/>
