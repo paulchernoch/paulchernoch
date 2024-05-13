@@ -124,9 +124,9 @@ too.
 
 <hr/>
 
-The analysis above comes proposes a staggering conclusion that will offend many, Christian or otherwise.
+The analysis above proposes a staggering conclusion that will offend many, Christian or otherwise.
 The worldwide devastation caused by the Christian colonial empires, such as Spain, Portugal, France and England,
-was part of God's plan. He anticipated the response of the world to his missionaries being sent out
+was part of God's plan. He anticipated the hostile response of the world to his missionaries being sent out
 and planned a counter-attack. When God, who is the king in this parable, said that he was
 furious at how his servants were treated and would burn down cities to make his point he meant it and he did it.
 You may not like this interpretation of the Gospel as I present it, but it happened.
