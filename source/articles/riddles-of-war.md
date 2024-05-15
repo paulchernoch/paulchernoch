@@ -52,7 +52,7 @@ Deciphering that plan was not easy. That is what made the victory of solving thi
 
 <hr/>
 
-## Proverbs 30. 2160–2280 AD. A time for war
+## Proverbs 30. 2160-2280 AD. A time for war
 
 ### Theme
 
@@ -113,7 +113,7 @@ Jesus to join those who remain alive.
 
 When I solved that riddle years ago, I was missing a
 crucial piece of the answer. According to Solomon’s times,
-chapter 30 is *“a time for war”* and falls between 2160–2280 AD.
+chapter 30 is *“a time for war”* and falls between 2160-2280 AD.
 Just as Enoch was raptured near the beginning of the
 second generation, so by symmetry this rapture will occur
 near the end of the next to last time.
@@ -153,6 +153,10 @@ chapter took almost a week. It employs chiasms,
 progressions through time and space, the numbers four
 and seven, the harvest pattern and Solomon’s twenty-eight
 times. It also connects to the five missionary eras.
+
+(For two riddles related to those five missionary eras, 
+see [Parable of the Workers in the Vineyard](./vineyard-parable.html)
+and [The Parable of the Wedding Feast](./wedding-parable.html).)
 
 In the following analysis, the patterns in this chapter will
 be applied mostly to history. Since it describes tactics and
@@ -341,14 +345,14 @@ Isaiah, or Paul.
 #### Do not add to his words,
 ##### lest he rebuke you and you be found a liar. (30:5-6)
 
-The above words condemn directly to the person who
+The above words condemn directly the person who
 disparages, distorts, adds to or removes from the words of
 this chapter. Then by extension this may be applied to all of
 Proverbs and to the whole Bible. Yet this declaration of
 protection by God for His word extends farther. Every
 saint, pastor, priest, monk, mother or father, Sunday
 school teacher, or theologian who following prayer, careful
-reflection on your word and with a sincere heart and the
+reflection on God's word and with a sincere heart and the
 assistance of the Holy Spirit speaks divine truth and
 comfort to the people around them is also protected.
 
@@ -406,7 +410,7 @@ generation.
 ##### and eaten by the vultures. (Proverbs 30:17, ESV)
 
 Verse 11 is part of one of the quartets and describes one
-crime of the wicked as recalling against parents. Then verse
+crime of the wicked as rebelling against parents. Then verse
 17 describes God’s judgment. It isn’t pretty. The family is a
 crucial part of God’s plan of salvation. Without it, the faith
 would be gone in two generations.
@@ -480,9 +484,9 @@ reference a particular era of history.
   - **Cassus belli** (30:10–14) *Ability*. 480 BC–1 AD.
   - **Cost** (30:15b–16) *Stability*. 1–480 AD.
   - **Strategy** (30:18–19) *Amity*. 480–960 AD.
-  - **Promotion** (30:21–23) *Opportunity*. 960–1440.
+  - **Promotion** (30:21-23) *Opportunity*. 960–1440.
   - **Tactics** (30:24–28) *Community*. 1440–1920 AD.
-  - **Leadership** (30:29–31) *Loyalty*. 1920–2280 AD.
+  - **Leadership** (30:29-31) *Loyalty*. 1920–2280 AD.
 
 **Combatants**. The combatants are the righteous and the
 wicked. By embedding references to the character of the
@@ -502,7 +506,7 @@ As for planting and uprooting, the writer pleads for a middle way,
 of enjoying his daily bread instead of poverty (uprooting) or riches
 (planting).
 
-The first life phase is *Security*. Security is the concern
+The first life phase is **Security**. Security is the concern
 expressed by both wicked and righteous in this quartet.
 The fundamental difference is the party each turns to to
 obtain that security. The righteous turn to God in humility
@@ -547,7 +551,7 @@ serving him and not themselves. Finally, Jesus became poor
 that he might lift up *“the needy from among mankind”* and
 devour their oppressors instead.
 
-The second era corresponds to the life phase of Ability.
+The second era corresponds to the life phase of **Ability**.
 The Greeks and Romans developed many new abilities in
 Mathematics, Science, Engineering and Philosophy. Yet the
 charges against the wicked summarize where children –
@@ -603,7 +607,7 @@ Earth is the land we depend upon for food. And fire
 protects us from cold and cooks our food. All are taken by
 death. All are offered anew by God in His Kingdom.
 
-By the end of the life phase of Stability, the church held
+By the end of the life phase of **Stability**, the church held
 the reins of history’s longest enduring empire. Surely that
 was a stable foundation upon which to build!
 
@@ -751,7 +755,7 @@ responsibility. Existing leaders must train their troops in
 martial skills and character and observe them. Soldiers, on
 the other hand, must keep their eyes open for
 opportunities to advance. This fifth life phase is all about
-exploiting **opportunities** and material possessions to grow
+exploiting **Opportunities** and material possessions to grow
 and prosper. The parable is about the perils that attend this
 process.
 
@@ -772,7 +776,7 @@ these verses are applied to Christian history, they more
 refer to massive social changes, not individuals. Strikingly,
 each analogy matches one of Solomon’s times.
 
-*Serfdom (960–1080 AD).* This era saw a rapid decline
+*Serfdom (960-1080 AD).* This era saw a rapid decline
 in the practice of slavery in England and on the
 continent. It was replaced with the institution of
 serfdom. The improvement in status may look
@@ -846,7 +850,7 @@ corresponds to a different one of Solomon’s times.
 
   - *The lizard (1800–1920 AD)*. How do you invade a castle? You can bombard the walls with cannon, or you can dig a tunnel, bribe an official to identify a weakness, or sneak a spy in to open the gates. Christendom’s **siege engineers and spies** were its missionaries, who converted people to a new worldview with a new allegiance – to Christ and his church. Also, the spread of democracy undermined the philosophical basis for monarchies. During this era, many kingdoms fell and few remain today. There was a wholesale revolution in leadership.
 
-**Leadership.** The life phase for this era is loyalty, a
+**Leadership.** The life phase for this era is **Loyalty**, a
 fitting companion to leadership. This seventh and final
 parable is a reprise of the history of the great empires, with
 maybe a hint of what is yet to come.
