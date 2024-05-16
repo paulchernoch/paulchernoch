@@ -135,7 +135,9 @@ Now you can *judge* how good a job I have done when counting judges...
 Note how each judge begins his or her rule during the final year of the previous judge.
 The following table is taken straight from *Plague, Precept, Prophet, Peace*.
 
-<img src="./images/timeline-of-judges.png" alt="Table with timeline of Judges" width="600" height="821">
+<a href="images/timeline-of-judges.png" target="_blank">
+  <img src="./images/timeline-of-judges.png" alt="Table with timeline of Judges" width="600" height="821">
+</a>
 
 ## Jephthah's Speech and the 300 Years
 

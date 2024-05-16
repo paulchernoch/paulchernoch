@@ -64,7 +64,9 @@ the several patterns developed in the book. It is reproduced below.
 The last pattern to be explained appears in the chapter “Epilogue: The Fifth Commandment”. 
 That is the Motherhood Pattern.)
 
-<img src="images/patterns-correlated.png" alt="Many wisdom patterns correlated" width="800" height="600" />
+<a href="images/patterns-correlated.png" target="_blank">
+  <img src="images/patterns-correlated.png" alt="Many wisdom patterns correlated" width="800" height="600" />
+</a>
 
 The next day I dissected Matthew and all doubt was removed. In addition to the Harvest
 and Growth Patterns, Matthew also conforms to the precise structure of the

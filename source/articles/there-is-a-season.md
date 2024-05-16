@@ -282,7 +282,9 @@ with the rest of the book. They do – and it does.
 
 **Behold the Seven Pieces of Peace (aka Growth Pattern):**
 
-<img alt="The Seven Pieces of Peace" src="images/seven-pieces-of-peace.png" width="675" height="425"/>
+<a href="./images/seven-pieces-of-peace.png" target="_blank">
+  <img alt="The Seven Pieces of Peace" src="images/seven-pieces-of-peace.png" width="675" height="425"/>
+</a>
 
 The story that the poem in Ecclesiastes 3 tells is simple:
 
