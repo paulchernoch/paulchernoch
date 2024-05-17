@@ -297,7 +297,7 @@ year for the clock, 960 BC, the year the temple was dedicated. Thus we have our 
   - 240 BC. **A time to tear down**. Harsh Seleucid rule. Antiochus Epiphanes suppresses Judaism.
   - 120 BC. **A time to build**. Herod’s temple and birth of Jesus, God’s new temple.
   - 1 AD. **A time to weep**. Jesus crucified.
-  - 120 AD. **A time to laugh**. Justin Martyr. “For I myself, when I discovered the wicked disguise which the evil spirits had thrown around the divine doctrines of the Christians, to turn aside others from joining them, laughed both at those who framed these falsehoods, and at the disguise itself and at popular opinion and I confess that I both boast and with all my strength strive to be found a Christian.”
+  - 120 AD. **A time to laugh**. Justin Martyr. “For I myself, when I discovered the wicked disguise which the evil spirits had thrown around the divine doctrines of the Christians, to turn aside others from joining them, **laughed** both at those who framed these falsehoods, and at the disguise itself and at popular opinion and I confess that I both boast and with all my strength strive to be found a Christian.”
   - 240 AD. **A time to mourn**. Diocletian’s persecution.
   - 60 AD. **A time to dance**. Edict of Thessalonica (380 AD). Christianity becomes official state religion of Rome and persecution ends.
   - 480 AD. **A time to scatter stones**. Rome sacked by Alaric in 410 AD. Fall of Rome in 476 AD.
@@ -352,7 +352,7 @@ and ended in about the year 1010 AD, when he would turn 2000 years old, had he l
 **The second yardstick was the poem of the times**, measuring time from the completion of Solomon's temple 
 to the arrival of the new temple that shall descend from heaven, the New Jerusalem.
 
-These two timelines intersected in the middle of the sixteenth time, following the sixteenth occurrence of the phrase "under the sun" in the book.
+These two timelines intersected in the middle of the seventeenth time (a time to seek), following the seventeenth occurrence of the phrase "under the sun" in the book.
 The start of Solomon's timeline is meaningful, his birth. The start and end of the poem's timeline are each meaningful, dealing with the two temples.
 What about their intersection? Is there anything special about 101 AD or the years near it, seeing as our estimate of Solomon's birth year has about a three year uncertainty?
 That is the question I forgot to ask.
