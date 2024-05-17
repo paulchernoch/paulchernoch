@@ -250,20 +250,15 @@ Given that some prophecies get down into the weeds and include the precise month
 days when events occurred, we shall consider all solutions where the answer is very near an
 integer. There are only four:
 
-age = 14 yields clock start = 976 BC and period = 121 years
-age = 30 yields clock start = 960 BC and period = 120 years
-age = 46 yields clock start = 944 BC and period = 119 years
-age = 63 yields clock start = 927 BC and period = 118 years
-
 <hr/>
 
-| If Solomon's Age is... | then the Clock Starts at... | and the period per time is... |
-| :--------------------: | :-------------------------: | :---------------------------: |
-|         <hr/>          |            <hr/>            |            <hr/>              |
-|          14            |           976 BC            |          121 years            |
-|          30            |           960 BC            |          120 years            |
-|          46            |           944 BC            |          119 years            |
-|          63            |           927 BC            |          118 years            |
+| If Solomon's Age is... | then the Clock Starts at... | and the period per time is... |    for this starting event...           |
+| :--------------------: | :-------------------------: | :---------------------------: |  :------------------------------------  |
+|         <hr/>          |            <hr/>            |            <hr/>              |         <hr/>                           |  
+|          14            |           976 BC            |          121 years            |  ???                                    |
+|          30            |           960 BC            |          120 years            |  Temple Dedication                      |
+|          46            |           944 BC            |          119 years            |  Ecclesiastes written? Seems too early. |
+|          63            |           927 BC            |          118 years            |  Solomon's death                        |
 
 <hr/>
 
@@ -272,8 +267,66 @@ the likely year of Solomon’s death (118 year period). The solution for age 46 
 period) falls when Solomon may have written Ecclesiastes, though I would put that later in
 his life. The first solution does not match an important event.
 
+<a href="images/riddle-timeline.png" target="_blank">
+  <img alt="period = (2000 - age) / (16 + 5/12)" src="images/riddle-timeline.png" width="606" height="1061"/>
+</a>
 
-In progress...
+I have found several other prophetic clocks with periods of 119 and 120 years and 118
+years does not match history as well as either of them. This leaves us with two possibilities
+for the start year and period. The 120 year choice yields an exact match. The 119 year
+choice actually comes to 119.025 years, off by nine days. Yet there is a better piece of
+evidence that permits us to decide between the two:
+
+#### Then the king and all the people offered sacrifice 
+#### before the Lord. King Solomon offered as a sacrifice
+##### 22,000 oxen and 120,000 sheep. 
+#### So the king and all the people dedicated the house of God.
+###### - 2 Chronicles 7:4-5, ESV
+
+The very sacrifice used for dedicating the temple included 120,000 sheep and Jesus is
+considered the Lamb of God! This validates not only the number 120 but also the start
+year for the clock, 960 BC, the year the temple was dedicated. Thus we have our clock:
+
+  - 960 BC. **A time to be born**. Israel born by civil war.
+  - 840 BC. **A time to die**. Israel taken captive by Assyria in 722 BC.
+  - 720 BC. **A time to plant**. Judah prospers under Hezekiah.
+  - 600 BC. **A time to uproot**. Judah exiled by Babylon.
+  - 480 BC. **A time to kill**. Haman incites genocide against the Jews but is killed instead, thanks to Queen Esther.
+  - 360 BC. **A time to heal**. Mild Ptolemaic rule.
+  - 240 BC. **A time to tear down**. Harsh Seleucid rule. Antiochus Epiphanes suppresses Judaism.
+  - 120 BC. **A time to build**. Herod’s temple and birth of Jesus, God’s new temple.
+  - 1 AD. **A time to weep**. Jesus crucified.
+  - 120 AD. **A time to laugh**. Justin Martyr. “For I myself, when I discovered the wicked disguise which the evil spirits had thrown around the divine doctrines of the Christians, to turn aside others from joining them, laughed both at those who framed these falsehoods, and at the disguise itself and at popular opinion and I confess that I both boast and with all my strength strive to be found a Christian.”
+  - 240 AD. **A time to mourn**. Diocletian’s persecution.
+  - 60 AD. **A time to dance**. Edict of Thessalonica (380 AD). Christianity becomes official state religion of Rome and persecution ends.
+  - 480 AD. **A time to scatter stones**. Rome sacked by Alaric in 410 AD. Fall of Rome in 476 AD.
+  - 600 AD. **A time to gather stones**. Dome of the Rock built, 688-691 AD.
+  - 720 AD. **A time to embrace**. Seventh and Last Ecumenical Council, concerning proper worship, the embrace of God.
+  - 840 AD. **A time to refrain**. Division between eastern and western Christianity. Church corruption, a thing to avoid, not embrace.
+  - 960 AD. **A time to seek**. Church seeks freedom from secular governmental control. Believers seek Jesus’ return.
+  - 1080 AD. **A time to lose**. First crusade. Jerusalem captured & lost.
+  - 1200 AD. **A time to keep**. Saint Francis. Keeping God’s commands.
+  - 1320 AD. **A time to throw away**. God throws away Byzantium.
+  - 1440 AD. **A time to tear**. Protestant Reformation. Wars of religion.
+  - 1560 AD. **A time to mend**. Peace of Westphalia. Religious tolerance extended to Lutherans, Calvinists & Jews.
+  - 1680 AD. **A time to be silent**. In the Pietism movement, Methodist Revival and Great Awakening, people listen to God.
+  - 1800 AD. **A time to speak**. Christian overseas missions triples the number of believers from 200 to 600 million souls.
+  - 1920 AD. **A time to love**. God shows the world unconditional love, blessing it with knowledge, prosperity & longer life.
+  - 2040 AD. **A time to hate**. Civil discord & persecution grow.
+  - 2160 AD. **A time for war**. Armageddon. Leviathan.
+  - 2280 AD. **A time for peace**. Christ returns (if he hasn’t already). Wedding supper of the lamb. 
+
+*Peace, like Solomon Never Knew* goes into greater detail about each era.
+
+The endpoints of the final two times are not certain. In Mark it says:
+
+#### And if the Lord had not cut short the days, 
+#### no human being would be saved. But for the sake of the elect,
+#### whom he chose, he shortened the days.
+###### - Mark 13:20, ESV
+
+For this reason, Christ may return at any time. Most agreeable would be to cut short the
+time for war.
 
 </hr>
 
