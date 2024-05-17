@@ -185,8 +185,9 @@ is meant when the pattern is discussed in articles on this site. They are the as
   - The Church is on a trajectory to reach full maturity right as Christ returns. It will pass through the first seven phases, enter the maturity phase during the Great Tribulation, then skip to the twelfth phase, to spend eternity in the presence of God.
   - The unsaved World is on a trajectory to reach maturity, before a steep decline ending in the second death. It passes through all twelve phases and spends eternity separated from God.
 
-<img alt="Growth Pattern Mind Map" src="images/growth-pattern-mindmap.png" width="880" height="990"/>
-
+<a href="images/growth-pattern-mindmap.png" target="_blank">
+  <img alt="Growth Pattern Mind Map" src="images/growth-pattern-mindmap.png" width="800" height="900"/>
+</a>
 
 ## Where in the Bible does the Growth Pattern Appear?
 

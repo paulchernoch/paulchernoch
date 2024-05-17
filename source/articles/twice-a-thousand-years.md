@@ -330,3 +330,41 @@ time for war.
 
 </hr>
 
+## A Proper Burial
+
+Coming back to this riddle several years after I first discovered and solved it, I found a question I never bothered to ask.
+The NIV version makes this clearer, so:
+
+#### A man may have a hundred children and live many years; 
+#### yet no matter how long he lives, 
+#### if he cannot enjoy his prosperity and 
+#### **does not receive proper burial**, 
+#### I say that a stillborn child is better off than he.
+###### - Ecclesiastes 6:3, NIV
+
+The key phrase is "proper burial". What is that about? First, consider how I solved the riddle.
+The key was to find two yardsticks measuring time, two lines that intersected in a point.
+
+**The first yardstick was Solomon**, measuring time against his own life. That yardstick started with his birth
+and ended in about the year 1010 AD, when he would turn 2000 years old, had he lived that long.
+
+**The second yardstick was the poem of the times**, measuring time from the completion of Solomon's temple 
+to the arrival of the new temple that shall descend from heaven, the New Jerusalem.
+
+These two timelines intersected in the middle of the sixteenth time, following the sixteenth occurrence of the phrase "under the sun" in the book.
+The start of Solomon's timeline is meaningful, his birth. The start and end of the poem's timeline are each meaningful, dealing with the two temples.
+What about their intersection? Is there anything special about 101 AD or the years near it, seeing as our estimate of Solomon's birth year has about a three year uncertainty?
+That is the question I forgot to ask.
+
+It has an answer. In 1009 AD, Caliph Al-Hakim bi-Amr Allah destroyed the Church of the Holy Sepulchre, 
+built over the tomb of Jesus in Jerusalem. This event (and other persecutions of Christians, including the destruction of 30,000 churches by the caliph), served
+as the cassus belli that would launch the First Crusade at the end of the century.
+
+Destroying Christ's tomb (from which he rose) is symbolically stealing back from Christ his "proper burial".
+Thus Solomon is prophesying the desecration of the Messiah's tomb. The prophecy is accurate (to within the error bounds for Solomon's birth)
+and the prophetic details spot on. Solomon ends with this question, **"Do not all go to the same place?"**
+Jesus is the one who changed the answer. No, all people do not go to the same place, not any more. By his death and resurrection, 
+the Lord saw to that.
+
+That is the Master-knot of human fate. That is the one riddle for whose answer the whole world was waiting.
+Why do so few accept the answer?
