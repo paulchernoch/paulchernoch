@@ -68,10 +68,110 @@ Because of this riddle, I believe that Ecclesiastes is the mainspring of God's p
 
 Behold the Master-Knot...
 
-## The Seven Gates
-
 
 <hr/>
+
+## Ecclesiastes 3: Knowing the Acceptable Time
+
+The Psalmist in 69:13 humbly asked the Lord for an answer “at an acceptable time”.
+Ecclesiastes is all about what is acceptable during each time. Let us reflect on them.
+
+#### a time to be born, and a time to die;
+#### a time to plant, and a time to pluck up what is planted;
+#### a time to kill, and a time to heal;
+#### a time to break down, and a time to build up;
+#### a time to weep, and a time to laugh;
+#### a time to mourn, and a time to dance;
+#### a time to cast away stones, and a time to gather stones together;
+#### a time to embrace, and a time to refrain from embracing;
+#### a time to seek, and a time to lose;
+#### a time to keep, and a time to cast away;
+#### a time to tear, and a time to sew;
+#### a time to keep silence, and a time to speak;
+#### a time to love, and a time to hate;
+#### a time for war, and a time for peace.
+###### - (Ecclesiastes 3:2-8)
+
+To fit these twenty-eight times (or fourteen seasons, if you pair them) to history you
+must know what they mean. Only once I had the meaning and a reasonable fit to history,
+namely a start year, the duration of each period, and the end year, could I even spot the
+riddle that confirmed my assumptions.
+
+Ecclesiastes is shaped by several overlapping structures, making analysis difficult. It
+conforms to the seven parts of the Harvest Pattern, but this article shall not make use of
+that structure. It also follows a chronological structure patterned after a single human life.
+Accordingly, it is divided into three unequal sections:
+
+  - **Days of Growth** (1:1-10:5)
+  - **Days of Maturity** (10:6-11:7)
+  - **Days of Darkness** (11:8-12:14)
+
+The first section is divided into twenty-eight sections by the phrase “under the sun” and
+ends with an assessment: have you by middle age become a wise servant?
+
+The second section has two parts: building your house and diversified investing (cast
+your bread upon the waters). It, too, ends with an assessment. Did you reach this stage
+having planned for the long term?
+
+The third section has two parts, set off by the word “Remember”. Only by reflecting on
+all that came before in your life can you endure the dark days to come: failing health and
+a fading mind. This section ends with a final progress report. Our whole life is to be
+judged.
+
+Understanding this structure is critical. Prophetic patterns hidden in Ecclesiastes have
+two possibilities. One is that they form an analogy of an entire human life, from birth to
+death. Applied to a civilization, that includes its rise and fall. A second pattern is
+suggested by chapter 3. The twenty-eighth time of peace is followed not by decline and
+death but by immediate entrance into eternity:
+
+#### “He has made everything beautiful in its time. 
+#### Also, he has put eternity into man's heart, 
+#### yet so that he cannot find out what God has done 
+#### from the beginning to the end.”
+###### - Ecclesiastes 3:11
+
+In *Peace, like Solomon Never Knew*, both are explored. Unsaved humanity, called in Revelation “the inhabitants of
+the earth”, is bound up in a civilization that will perish. It has already reached its peak
+and its decline and fall will soon begin, if they have not already begun.
+
+On the other hand, the church is destined for glory. These final cataclysms as the world
+falls apart will be employed by God to perfect his bride and make her radiant. Thus the
+history of Israel and the Church conforms not to the whole of Ecclesiastes but just the
+twenty-eight times that end with peace.
+
+Here is what the times mean for a single human as they grow into an adult. Each group
+of four times corresponds to a seven-year stage of life. They define the principal (but not
+sole) challenge facing a person at that stage. Collectively, they form a developmental model
+for life.
+
+<hr/>
+
+| Growth Phase | Years of Life  | Description |
+| :----------- | :------------: | :---------- |
+| <hr/>        | <hr/>          | <hr/>       |
+| Security     | birth to age 7 | *A time to be born & die, to plant & uproot*. The needs are food, shelter, health and parental love. |
+| Ability      | age 7 to 14    | *A time to kill & heal, to break down & build*. The needs are to be trained to use mind and hand productively. |
+| Stability    | age 14 to 21   | *A time to weep & laugh, to mourn & dance*. The needs are to learn verbal & physical self control, emotional stability. |
+| Amity        | age 21 to 28   | *A time to scatter & gather stones, embrace & refrain*. The needs are to cooperate in friendship and marriage in the areas of work and intimacy, to choose and reject relationships wisely. |
+| Opportunity  | age 28 to 35   | *A time to seek & lose, keep & throw away*. The needs are to accept or reject immaterial opportunities (where to live and work) and to manage material resources (money and goods). |
+| Community    | age 35 to 42   | *A time to tear & mend, to be silent & speak*. The needs are to handle conflict, dissolve partnerships, forgive & restore them, and maintain open, two-way lines of communication. |
+| Loyalty      | age 42 to 49   | *A time to love & hate, for war & peace*. The need is to develop loyalty and express it. Love & hate are about defining our loyalties and forming loyal attitudes: who is on my side and who is on the other side. War & peace are about expressing our loyalties by our actions. |
+
+<hr/>
+
+Once I saw that the times had an overarching meaning and that it was sequential in
+time, the next step was clear. I had to see if it was a parable disclosing God’s pattern for
+history. From the Bible and church history, a few matches between Solomon’s times and
+world events suggested themselves, beginning with a time to uproot. When the prophets
+speak of uprooting, it almost always is a reference to exile and to the Babylonian Captivity
+in particular. Then the time to weep must be when Jesus was crucified, or the time of
+Rachel weeping for her children, or perhaps the destruction of Herod’s temple and
+Jerusalem by Emperor Titus in 70 AD. The time to tear seems like a good match for the
+Protestant Reformation and subsequent wars. After that, the time to speak would be the
+age of Christian missions, while the time to love is the time we live in now, when God has
+poured out wealth and facilitated advances in education, medicine, science, agriculture
+and every other area of human endeavor, extending our lifespan and setting many free
+from slavery.
 
 In progress...
 
