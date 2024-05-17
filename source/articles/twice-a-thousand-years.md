@@ -149,13 +149,13 @@ for life.
 | Growth Phase | Years of Life  | Description |
 | :----------- | :------------: | :---------- |
 | <hr/>        | <hr/>          | <hr/>       |
-| Security     | birth to age 7 | *A time to be born & die, to plant & uproot*. The needs are food, shelter, health and parental love. |
-| Ability      | age 7 to 14    | *A time to kill & heal, to break down & build*. The needs are to be trained to use mind and hand productively. |
-| Stability    | age 14 to 21   | *A time to weep & laugh, to mourn & dance*. The needs are to learn verbal & physical self control, emotional stability. |
-| Amity        | age 21 to 28   | *A time to scatter & gather stones, embrace & refrain*. The needs are to cooperate in friendship and marriage in the areas of work and intimacy, to choose and reject relationships wisely. |
-| Opportunity  | age 28 to 35   | *A time to seek & lose, keep & throw away*. The needs are to accept or reject immaterial opportunities (where to live and work) and to manage material resources (money and goods). |
-| Community    | age 35 to 42   | *A time to tear & mend, to be silent & speak*. The needs are to handle conflict, dissolve partnerships, forgive & restore them, and maintain open, two-way lines of communication. |
-| Loyalty      | age 42 to 49   | *A time to love & hate, for war & peace*. The need is to develop loyalty and express it. Love & hate are about defining our loyalties and forming loyal attitudes: who is on my side and who is on the other side. War & peace are about expressing our loyalties by our actions. |
+| Security     | birth to age 7 | *A time to be born & die, to plant & uproot*. <br/> The needs are food, shelter, health and parental love. |
+| Ability      | age 7 to 14    | *A time to kill & heal, to break down & build*. <br/> The needs are to be trained to use mind and hand productively. |
+| Stability    | age 14 to 21   | *A time to weep & laugh, to mourn & dance*. <br/> The needs are to learn verbal & physical self control, <br/> emotional stability. |
+| Amity        | age 21 to 28   | *A time to scatter & gather stones, embrace & refrain*. <br/> The needs are to cooperate in friendship and marriage <br/> in the areas of work and intimacy, <br/> to choose and reject relationships wisely. |
+| Opportunity  | age 28 to 35   | *A time to seek & lose, keep & throw away*. <br/> The needs are to accept or reject immaterial opportunities <br/> (where to live and work) and to manage material resources (money and goods). |
+| Community    | age 35 to 42   | *A time to tear & mend, to be silent & speak*. <br/> The needs are to handle conflict, dissolve partnerships, <br/> forgive & restore them, and maintain open, <br/> two-way lines of communication. |
+| Loyalty      | age 42 to 49   | *A time to love & hate, for war & peace*. <br/> The need is to develop loyalty and express it. <br/> Love & hate are about defining our loyalties <br/> and forming loyal attitudes: <br/> who is on my side and who is on the other side. <br/> War & peace are about expressing <br/> our loyalties by our actions. |
 
 <hr/>
 
