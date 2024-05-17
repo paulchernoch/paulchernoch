@@ -153,7 +153,7 @@ for life.
 | Ability      | age 7 to 14    | *A time to kill & heal, to break down & build*. <br/> The needs are to be trained to use mind and hand productively. |
 | Stability    | age 14 to 21   | *A time to weep & laugh, to mourn & dance*. <br/> The needs are to learn verbal & physical self control, <br/> emotional stability. |
 | Amity        | age 21 to 28   | *A time to scatter & gather stones, embrace & refrain*. <br/> The needs are to cooperate in friendship and marriage <br/> in the areas of work and intimacy, <br/> to choose and reject relationships wisely. |
-| Opportunity  | age 28 to 35   | *A time to seek & lose, keep & throw away*. <br/> The needs are to accept or reject immaterial opportunities <br/> (where to live and work) and to manage material resources (money and goods). |
+| Opportunity  | age 28 to 35   | *A time to seek & lose, keep & throw away*. <br/> The needs are to accept or reject immaterial opportunities <br/> (where to live and work) and to manage material resources <br/> (money and goods). |
 | Community    | age 35 to 42   | *A time to tear & mend, to be silent & speak*. <br/> The needs are to handle conflict, dissolve partnerships, <br/> forgive & restore them, and maintain open, <br/> two-way lines of communication. |
 | Loyalty      | age 42 to 49   | *A time to love & hate, for war & peace*. <br/> The need is to develop loyalty and express it. <br/> Love & hate are about defining our loyalties <br/> and forming loyal attitudes: <br/> who is on my side and who is on the other side. <br/> War & peace are about expressing <br/> our loyalties by our actions. |
 
@@ -172,6 +172,106 @@ age of Christian missions, while the time to love is the time we live in now, wh
 poured out wealth and facilitated advances in education, medicine, science, agriculture
 and every other area of human endeavor, extending our lifespan and setting many free
 from slavery.
+
+<a href="images/growth-pattern-mindmap.png" target="_blank">
+  <img alt="Growth Pattern Mind Map" src="images/growth-pattern-mindmap.png" width="800" height="900"/>
+</a>
+
+With those five events (exile, crucifixion, Reformation, missions and modern prosperity)
+as constraints, the number of consistent sets of start year, end year and period duration is
+greatly reduced. In particular, the start year only makes sense if it falls during Solomon’s
+lifetime. The most logical times are:
+
+  - 990-994 BC - Solomon’s birth
+  - 971 BC - Solomon’s Accession to the throne
+  - 968 BC - Solomon’s dream (1 Kings 2:39 says “after three years”)
+  - 967 BC - Temple Foundation laid (4th year of reign)
+  - 960 BC - Temple Dedicated (11th year of reign)
+  - ??? BC - Ecclesiastes written
+  - 926-930 BC - Solomon’s death
+
+An important challenge was determining when Solomon was born. That is a riddle in
+itself and opinions are all over the map. The above assumes that Solomon was at most
+23-24 years old when he ascended the throne, based on calculations by Pastor D. Thornton
+whose logic includes subtle Biblical evidence overlooked by others. [18]
+Into that haze of approximation shone the light of Scripture in the form of a riddle
+most subtle and elegant.
+
+#### <sup>3</sup> If a man fathers a hundred children and lives many years, 
+#### so that the days of his years are many, but his soul is not satisfied 
+#### with life's good things, and he also has no burial, I say that 
+#### a stillborn child is better off than he.
+#### <sup>4</sup> For it comes in vanity and goes in darkness, 
+#### and in darkness its name is covered.
+#### <sup>5</sup> Moreover, it has not **seen the sun** or known anything, 
+#### yet it finds rest rather than he.
+#### <sup>6</sup> Even though he should **live a thousand years twice over**, 
+#### yet enjoy no good—do not all go to the one place?
+###### - Ecclesiastes 6:3-6
+
+The above verses occur between the 17th and 18th occurrences of the phrase “under the
+sun” (in Ecclesiastes 6:1 and 6:12). That phrase occurs twenty-eight times in the book,
+matching the number of times in Ecclesiastes 3. Thus the first part of the riddle is to
+recognize that this passage matches the 17th time, “a time to seek”, hence corresponds to
+an era that begins after sixteen complete periods. The second part of the riddle is to
+recognize the importance of the word “sun” in verse 5. In Peace, every section where “sun”
+appears where it is not part of the phrase “under the sun” is significant. It relates to time,
+because God delegated the sun to rule the day in Genesis. The third part of the riddle is
+the phrase “live a thousand years twice over”. To whom but Solomon could this apply?
+
+Take as an estimate of Solomon’s birth the year 990 BC. Let’s ignore the missing year
+zero because the date for Solomon’s birth has an uncertainty of up to four years anyway.
+That would make the 2,000th anniversary of Solomon’s birth fall in the year 1010 AD. So
+the riddle marks this parable with the date 1010 AD, which falls five-twelfths of the way
+through the chapter, using the word “sun” as our marker in verse 5. That means the
+parable falls 5/12’s of the way through the 17th time. We can reframe this word puzzle as
+an algebra problem.
+
+<a href="images/ecclesiastes-6-formula.png" target="_blank">
+  <img alt="period = (2000 - age) / (16 + 5/12)" src="images/ecclesiastes-6-formula.png" width="506" height="138"/>
+</a>
+
+The formula says that if you subtract Solomon’s age at the start of the clock from his
+2,000 year anniversary, that should equal about sixteen periods of the clock. The formula
+has two variables. Using high school algebra, you know that to solve equations with more
+than one variable, you need more equations. We are short one equation. The illustration
+on the next page shows the problem graphically, on a timeline. The many “times” leading
+up to 1010 AD are shown on the right of the timeline marked with stars.
+
+Where can we get another equation from? Experience with other prophetic clocks is
+helpful. They almost always have periods that are whole numbers. If we add this
+constraint, we turn the equation into a Diophantine Equation. Diophantine equations
+(named after Diophantus of Alexandria) can be very difficult to solve. However, using
+bounds derived from matching history we can be certain that the start of the clock
+occurred during Solomon’s lifetime. Thus the variable age may only range from zero to
+sixty-four.
+
+Given that some prophecies get down into the weeds and include the precise months and
+days when events occurred, we shall consider all solutions where the answer is very near an
+integer. There are only four:
+
+age = 14 yields clock start = 976 BC and period = 121 years
+age = 30 yields clock start = 960 BC and period = 120 years
+age = 46 yields clock start = 944 BC and period = 119 years
+age = 63 yields clock start = 927 BC and period = 118 years
+
+<hr/>
+
+| If Solomon's Age is... | then the Clock Starts at... | and the period per time is... |
+| :--------------------: | :-------------------------: | :---------------------------: |
+|         <hr/>          |            <hr/>            |            <hr/>              |
+|          14            |           976 BC            |          121 years            |
+|          30            |           960 BC            |          120 years            |
+|          46            |           944 BC            |          119 years            |
+|          63            |           927 BC            |          118 years            |
+
+<hr/>
+
+Of these four, one falls in the year the temple was dedicated (120 year period) and one
+the likely year of Solomon’s death (118 year period). The solution for age 46 (119 year
+period) falls when Solomon may have written Ecclesiastes, though I would put that later in
+his life. The first solution does not match an important event.
+
 
 In progress...
 
