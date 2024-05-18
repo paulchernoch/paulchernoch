@@ -895,7 +895,7 @@ victory won.
 
 Other articles in this section:
 
-  - [Riddles](./riddles.md): Introduction to Biblical riddles
+  - [Riddles](./riddles.html): Introduction to Biblical riddles
   - [The Righteous Fall Seven Times](./the-righteous-fall-seven-times.html): Proverbs 24 tells us when the righteous will fall - and rise again.
   - [Twice a Thousand Years](./twice-a-thousand-years.html): A Riddle from Ecclesiastes 6
   - [The Seven Pillars of Wisdom](./seven-pillars-riddle.html): What holds up Lady Wisdom's House in Proverbs 9?
