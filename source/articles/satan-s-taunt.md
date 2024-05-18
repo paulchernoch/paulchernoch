@@ -144,8 +144,350 @@ you know that the Lord has your number. When that happens, you know you can “r
 
 May yours be a peaceful rest.
 
-In progress...
+## Psalm 91: A Siege with a Riddle (634–1453 AD)
 
-</hr>
+Like a petulant child, I dithered over this psalm for days,
+progressing little and cross with God. The riddle of the
+numbers in verse 7 resisted my analysis and my study of
+history merely kicked up theories easily dismissed. Happily,
+I did not commit myself to a contorted and meaningless
+theory. My heart admitted at last that I didn’t understand
+the big picture that this psalm was painting. Absent that, no
+prophetic interpretation could offer any solace or guidance.
+
+Once I applied my heart to trying to understand the
+psalm, I sought wisdom to decipher the first metaphor
+which did not fit my thinking: the fowler’s snare. Spurgeon
+delivered a marvelous sermon [78] on this one verse:
+
+#### Surely he will save you
+##### from the fowler’s snare
+###### and from the deadly pestilence.
+###### - Psalm 91:3
+
+The fowler is the devil, employing diverse snares that
+take in the measure of every person in their design. The
+fowler practices deceit. The metaphor is memorable, yet
+starkly at odds with the rest of the terrors arrayed against
+the believer. They invoke disease and war and every
+unsubtle coercion. Paradoxically, Spurgeon’s words told me
+what the psalm was not about, which helped me discover
+what it was about. It is about fear.
+
+Already I understood these verses to connect to Satan’s
+second temptation of Jesus:
+
+#### For he will command his angels concerning you
+##### to guard you in all your ways;
+#### they will lift you up in their hands,
+##### so that you will not strike your foot against a stone.
+###### - Psalm 91:11-12
+
+So what was the snare that Satan had set before our
+Lord? In fact, there were two. One attacked Jesus as man,
+the other as God. To the man he addressed the lie that to
+succeed as a man, he needed more angels and miracles. His
+humanity was not adequate to do the job his human self
+needed to do. The Father had not equipped him properly.
+To the Son of God he addressed the lie that if Jesus walked
+off the roof of that temple, he was a man who could fall and
+die. Jesus was a man, but he was more than a man.
+
+The parable of the fowler’s snare marvelously conceals
+the truth that refutes Satan’s lie. The fowler is a man intent
+on luring people into a trap. In our pride, we think we can’t
+be fooled. We think we men and women are as smart and
+strong as he and walk right into his noose. But compared to
+the fowler, we are not men, we are birds, and birds are not
+too bright. To save us, either by warning us away from
+Satan’s snares or swooping in to rescue us when we
+become ensnared, does the Lord arrive as a man with the
+terrifying presence of a man that is so frightening to birds?
+No! The Lord becomes a bird!
+
+#### He will cover you with his feathers,
+##### and under his wings you will find refuge;
+#### his faithfulness will be your shield and rampart.
+###### - Psalm 91:4
+
+God saves us through the miracle of the incarnation. By
+becoming a bird, the Lord can not only oppose Satan’s
+power and facilitate our release, he can comfort us under
+his wings. He not only addresses our material needs, but
+our emotional and spiritual ones as well. So when Jesus
+steps off that temple, he is not a man who can fall and die,
+he is an eagle who can soar to the heights. Satan was trying
+to confuse Jesus over his true identity. Jesus did the things
+of a man as a man and the things of a god as the Son of
+God. Those two natures existed in one person, but he kept
+it all straight and knew how to present himself in all
+situations.
+
+Bird analogies also announce the Holy Spirit’s touch, for
+wisdom (to avoid snares) and courage (to escape dangers of
+all kinds) are the fruit of the Spirit’s care. This lets us know
+which segment of church history Psalm 91 prophesies: the
+pouring phase. The church goes through the phases of the
+harvest pattern: preparation, plowing, planting, pouring,
+plucking, producing and peace. Preparation was the
+Apostolic age, when the New Testament was written.
+Plowing was the Roman persecutions. During planting, it
+was heresies that were the greatest challenge, as Satan tried
+to spread lies in place of sound doctrine. During plucking
+(the early part of the European colonial expansion), the
+church became so wealthy and powerful that being
+distracted from the mission was the greatest risk. The
+producing phase was the great missionary age in whose
+latter days we live. Peace is yet to come.
+
+That leaves the pouring phase of the Middle Ages as the
+time of danger, more persecution, plague and war. That age
+needed the encouragement of the Holy Spirit the most.
+That was the age that needed the message of Psalm 91.
+
+The fearful portents in this psalm are the fowler’s snare,
+terror, disaster, pestilence, war (arrows), plague, lion and
+cobra. The fowler, lion and cobra mean Satan. Arrows and
+the lion stand for the Islamic Empires. The plague needs no
+introduction. The disaster is the Fall of Constantinople and
+its consequences. These images could easily be applied to
+other times in history and other adversaries of the church.
+Why the Middle Ages? What cements us in time are textual
+clues that tell us when and how long is the period
+addressed by the psalm and the order of some of the
+events. Finding and interpreting those clues would have
+been impossible without repeatedly giving up and praying.
+It all hinges on verses 5-7 and the mystery of a thousand
+and ten thousand.
+
+#### You will not fear the terror of night,
+##### nor the arrow that flies by day,
+#### nor the pestilence that stalks in the darkness,
+##### nor the plague that destroys at midday.
+#### A thousand may fall at your side,
+##### ten thousand at your right hand,
+###### but it will not come near you.
+###### - Psalm 91:5-7, NIV
+
+This riddle is as clever as Solomon’s riddle about living a
+thousand years twice over, which defined the starting point
+and length of a time in Ecclesiastes, maybe cleverer. This
+riddle breaks an era into two time periods and tells us
+where in history the middle event falls relative to an event
+that preceded the time period. Events within a time period
+are given in forward chronological order while the time
+periods are listed in reverse chronological order. Don’t see
+it? Let’s take it one piece at a time.
+
+The first piece is joy. It has nothing to do with the
+prophecy but everything to do with understanding it. As I
+reflected on Psalm 91, I remembered that Michael Joncas’
+hymn “On Eagle’s Wings” was based partly on this psalm.
+When I had been a Christian for ten months, I still had not
+experienced the joy of salvation. I was still mired in
+depression. It was March 1986. I had found a supportive
+group at college, the United Christian Fellowship, affiliated
+with IVCF. The group decided to host a talent show one
+Friday. I sang “On Eagle’s Wings”. Starting that evening and
+lasting for the whole month, I was filled with joy. A few
+days later I visited Ruggles Baptist Church for the first time;
+I am still a member there.
+
+Psalm 91 is about how the joy of the Lord can lift you up
+over your troubles on eagle’s wings. It is about the Holy
+Spirit giving you courage to face your trials. They played
+“On Eagle’s Wings” at my mother’s funeral. I didn’t choose
+the music. That was God saying he was with me, with my
+mother, and with my family in our time of grief.
+
+Back in “Two Time Paradoxes, Illustrated” I related how
+the first time I ever experienced joy was in high school,
+after completing an art project, a mirrored box with a
+kaleidoscopic interior. I hadn’t seen that box for years.
+Then today, December 15, my wife decided to clean my side
+of the closet. She bagged up old shoes to donate, tossed
+trash, reorganized sweaters – and found that magical box.
+
+So when I present my crazy idea about what Psalm 91
+means, it is not some random text I decided to tackle cold.
+For me it is a life transforming psalm full of power. Like
+many of the discoveries I have put forth, my connection to
+these verses goes back to the very beginnings of my faith.
+Like Job, Ecclesiastes and Matthew, this seed was planted
+long ago and has had a long time to grow.
+
+Now, for the prophecy. The first thing to notice is the
+repetition of time words: night, day, darkness, midday. See,
+it puts them backwards! The later time of day is being
+shown before the earlier. By repeating the order, it suggests
+we continue this ordering into the next verse. That means
+that whatever “a thousand” is counting, it comes after “ten thousand”.
+
+However, since night parallels darkness and day parallels
+midday, the other phrase grouped with the matching time
+of day should go in forward chronological order. Thus
+“terror” precedes “pestilence that stalks” and “arrow that
+flies” precedes “plague that destroys”. If we take the
+division and union by time of day and the ordering
+together, we get four events in this sequence:
+
+  - Arrow that flies
+  - Plague that destroys
+  - Terror
+  - Pestilence that stalks
+  
+The “arrow that flies” is the scores of wars and naval
+battles fought between the Arabs and the Byzantine
+Empire, beginning with the Rashidun Caliphate’s victory at
+Ajnadayn in 634 AD, followed that year by the capture of
+Damascus. When Mohammed conquered Mecca in 630 AD,
+he captured the Kaaba, a shrine for idols. He destroyed the
+idols, but among the items he pillaged were seven arrows
+famously used for divination, establishing Mohammed as
+the archer of Revelation, the first horseman of the
+Apocalypse.
+
+The “plague that destroys” was the Black Plague of the
+14th century.
+
+“Terror” describes the general state of affairs in the late
+14th and early 15th centuries, with civil wars, recurring
+bouts of plague, and dwindling help from the west. One
+contributor to the terror was Timur (Tamerlane), the
+central Asian warlord who drew power from being both a
+Mongol and a Muslim. His military campaigns slew 17
+million people, 5% of the world’s population. Tamerlane
+virtually extinguished the Church of the East. His policy
+was to execute every inhabitant of any city that resisted
+him which sometimes amounted to hundreds of thousands
+of people in a single city; causing terror was one of his main
+military tactics. In terror, the Byzantine Emperor sent an
+emissary to Tamerlane promising tribute, should he defeat
+the Ottomans.
+
+The “pestilence that stalks” was the final advance of the
+Ottoman Empire. The last series of sieges occurred even as
+a resurgence of the plague ravaged the area.
+
+According to their sequence in time, severity and
+relevance to the fate of Byzantium those four groups of
+events seem plausible. However, how can we anchor verses
+5 and 6 to years in history? That is where verse 7 comes in.
+
+In other prophecies we have dealt with thousands, but
+never ten thousand, a number of years longer than any
+expectation that we can derive from prophecy. If “ten
+thousand at your right hand” measures time, the unit must
+be shorter than a year. Recall that in Ecclesiastes,
+Solomon’s times represent a lunar cycle. Other chapters
+have advanced the idea that from the temple dedication to
+Christ’s return, twenty-seven complete times and a fraction
+of a twenty-eighth time will pass. A sidereal month is 27.32
+days and matches this concept. What do we get if we
+assume the unit of time is one sidereal month?
+
+<a href="images/10000-times-fraction.png" target="_blank">
+  <img src="./images/10000-times-fraction.pnd" alt="10000 times 27.32 divided by 365.25" width="528" height="115">
+</a>
+
+Dividing 27.32 days by the number of days in a year
+(365.25) gives us a fraction that when applied to 10,000
+yields 748 years. Repeat that for 1,000 and you get 75 years.
+Thus we have two time periods, of 748 years followed by 75
+years. Note that “at your right hand” refers to the position
+of strength. Byzantium’s early years were their years of
+strength, reinforcing the idea that the 10,000 units of time
+comes earlier than the 1,000 units of time.
+
+If you add 748 + 75 you get 823 years, not what we
+expected from prior analysis. From our psalm’s number
+(91) and a multiplier derived from a slightly different time
+period we got a period of 9 x 91 = 819 years from the Fall of
+Damascus to the Siege of Constantinople. That nicely
+captured the period of war between the Muslims and the
+Byzantine Empire (634 to 1453 AD is 819 years), since the
+first battle occurred in 634 AD. This period of 823 years –
+which still ends in 1453 AD – must begin earlier, in 630 AD.
+that was the year that Mohammed captured Mecca and
+obtained the seven arrows.
+
+Wonderful! We have good justification for this date range,
+because it runs from the beginning of one series of empires
+(the Islamic Empires) to the end of another (the Byzantine).
+Yet why is this period divided in two in the proportion
+10,000 to 1,000? What is the significance of the year where
+the two epochs meet? Where does the midpoint fall?
+
+**630 AD + 748 years = 1378 AD**
+
+That year of 1378 AD falls near the end of the Byzantine
+Civil War of 1373–1379. In order to reclaim the throne, one
+party to the civil war allied himself with an Ottoman
+faction. In the process, Byzantium became a vassal of the
+Ottoman Empire. Elsewhere in this book, the year 1380 AD
+has been advanced as the year Satan was unbound. That
+would place it in the second year of the second era, the era
+corresponding to the number 1,000.
+
+This is no coincidence. The number 1,000 has a double
+meaning here. It counts the number of years from the Edict
+of Thessalonica of 380 AD (when Satan was bound) to the
+year in which our adversary was released. Why is 380 AD
+significant? That was the year that the Roman Empire
+(including the Eastern Roman Empire, aka Byzantium)
+became a Christian empire. Thus our time markers in this
+psalm are:
+
+  - **380 AD**: Christian Eastern Roman Empire begins
+  - **630 AD**: Muslim empires begin with capture of Mecca
+  - **1378 AD**: Byzantium becomes vassal of Ottomans
+  - **1380 AD**: Release of Satan, bound 1,000 years
+  - **1453 AD**: Fall of Constantinople & end of Byzantium
+
+Altogether, we have indicators that measure the length of
+two adjacent time periods and root the off-center midpoint
+to a critical event in Christian history, and these measures
+are almost the same as the time duration derived from the
+psalm’s number.
+
+Why should we connect this psalm with the release of
+Satan? Why else would the psalmist counsel us to not be
+afraid?!
+
+#### You will tread on the **lion** and the **cobra**;
+#### you will trample the **great lion** and the **serpent**.
+#### “Because he loves me,” says the LORD, “I will rescue him;
+#### I will protect him, for he acknowledges my name.
+#### He will call on me, and I will answer him;
+#### I will be with him in trouble,
+#### I will deliver him and honor him.
+#### With long life I will satisfy him
+#### and show him my salvation.”
+###### - Psalm 91:13-16
+
+Thus the psalm speaks of the trials that precede the
+release of Satan and the terrors that follow it. It speaks of
+an escalation of the eternal conflict, and that is what
+history shows happened. By words such as “refuge” (used
+twice), fortress, shield, and rampart, the image of a siege is
+reinforced. Sieges are associated with many of the marker
+events, especially the last.
+
+There is no need to trample a lion or a serpent if it is
+caged. You only do that to ones free in the wild. Verse 13 is
+like verse 7; it give a before and after picture. The lion and
+cobra are the human opposition that precede Satan’s
+release. The great lion and serpent are the more potent
+forces that follow his release.
+
+In our own lives, God may subdue some of our problems
+or thwart our foes for a time while we are recovering from
+wounds or maturing, then permit them to magnify once he
+deems us capable of handling them. It is part of his plan to
+grow us to our fullest potential – but we must love Him,
+acknowledge His name and call on Him. Our strength alone
+will not carry the battle.
+
+<hr/>
 
 
