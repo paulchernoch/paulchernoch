@@ -127,12 +127,19 @@
     - title: Seven Pillars of Wisdom
       parts:
       - title: Psalms
+        named: pillar-of-psalms.md
       - title: Job
+        named: pillar-of-job.md
       - title: Proverbs
+        named: pillar-of-proverbs.md
       - title: Song of Songs
+        named: pillar-of-song-of-songs.md
       - title: Ecclesiastes
+        named: pillar-of-ecclesiastes.md
       - title: Matthew
+        named: pillar-of-matthew.md
       - title: Revelation
+        named: pillar-of-revelation.md
     - title: "Roof: Paul's Gospel of Peace"
       named: roof-of-peace.md
   - title: Spiritual Growth
@@ -269,6 +276,7 @@
       dates: [2024-05-17]
     - title: The Seven Pillars of Wisdom
       sub:   Proverbs 9
+      named: seven-pillars-riddle.md
     - title: Why 153 Fish?
       sub:   John 21
       named: riddle-of-153-fish.md

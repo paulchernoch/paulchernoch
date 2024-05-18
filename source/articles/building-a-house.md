@@ -500,7 +500,22 @@ far fewer passages, often just those in Daniel, Revelation and Matthew.
 
 The upshot is this. Build your house with care, for the devil is lurking out there.
 
+<hr/>
 
+Other articles in this section:
+
+  - [Riddles](./riddles.md): Introduction to Biblical riddles
+  - [The Righteous Fall Seven Times](./the-righteous-fall-seven-times.html): Proverbs 24 tells us when the righteous will fall - and rise again.
+  - [Twice a Thousand Years](./twice-a-thousand-years.html): A Riddle from Ecclesiastes 6
+  - [The Seven Pillars of Wisdom](./seven-pillars-riddle.html): What holds up Lady Wisdom's House in Proverbs 9?
+  - [Why 153 Fish?](./riddle-of-153-fish.html): The Miraculous Catch of Fish from John 21
+  - [Riddles of War](./riddles-of-war.html): The Battle Cry of Proverbs 30
+  - [Building a House](./building-a-house.html): Construction advice by Solomon from Ecclesiastes 10
+  - [Hannah's Song](./hannah-s-song.html): Hannah's Amazing Prayer
+  - [Satan's Taunt](./satan-s-taunt.html): Why is Satan's Taunt in Matthew 4 ironic?
+  - [Parable of the Workers in the Vineyard](./vineyard-parable.html): When would Jesus send out workers to his vineyard?
+  - [The Parable of the Wedding Feast](./wedding-parable.html): If someone ghosted you over a wedding invite, would you burn down their city?
+  - [The Childbearing](./the-childbearing.html): How does bearing children save women?
 
 
 
