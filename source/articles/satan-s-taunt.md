@@ -260,12 +260,12 @@ been impossible without repeatedly giving up and praying.
 It all hinges on verses 5-7 and the mystery of a thousand
 and ten thousand.
 
-#### You will not fear the terror of night,
-##### nor the arrow that flies by day,
-#### nor the pestilence that stalks in the darkness,
-##### nor the plague that destroys at midday.
-#### A thousand may fall at your side,
-##### ten thousand at your right hand,
+#### You will not fear the terror of **night**,
+##### nor the arrow that flies by **day**,
+#### nor the pestilence that stalks in the **darkness**,
+##### nor the plague that destroys at **midday**.
+#### **A thousand** may fall at your side,
+##### **ten thousand** at your right hand,
 ###### but it will not come near you.
 ###### - Psalm 91:5-7, NIV
 
