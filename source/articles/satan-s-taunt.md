@@ -26,6 +26,10 @@ Thus even when there is a relation of number to meaning, finding that relation i
   - Psalm 102 prophesies the long struggle of Islam against Byzantium. 816 years elapsed between the capture of Jerusalem in 637 AD and the Fall of Constantinople in 1453 AD. **816 = 8 x 102**. The factor of eight matches the eight verses in the psalm that speak of the fate of Jerusalem and the eight times of Solomon, six full and two partial, that correspond to the era during which the battles were fought.
   - Psalm 119 is an extended prophecy about the coming of the Messiah. The Bible has 119 mentions of the sin offering, which foreshadows Christ's sacrifice on the cross. Also, that psalm contains a Generational Prophetic clock whose period per generation is 119 years. Furthermore, the flood of Noah ended on the seventeenth day of the seventh month, symbolizing God's victory over sin. **119 = 7 x 17**.
 
+<a href="./images/key-time-durations.png" target="_blank">
+  <img src="./images/key-time-durations.png" alt="Key time durations in salvation history" width="800" height="478">
+</a>
+
 I doubt that I have discovered the full variety of ways in which numbers factor into the interpretation of psalms.
 A few years ago, while writing *Peace, like Solomon Never Knew*, I was entranced by Psalm 91. In order to solve it, my attention
 spidered out through other psalms. They shared similarities that I thought might help me understand them all. 
@@ -158,12 +162,15 @@ prophetic interpretation could offer any solace or guidance.
 Once I applied my heart to trying to understand the
 psalm, I sought wisdom to decipher the first metaphor
 which did not fit my thinking: the fowler’s snare. Spurgeon
-delivered a marvelous sermon [78] on this one verse:
+delivered a marvelous sermon on this one verse:
 
 #### Surely he will save you
 ##### from the fowler’s snare
 ###### and from the deadly pestilence.
 ###### - Psalm 91:3
+
+(See: Spurgeon, Rev. C.H. “A Sermon (No. 124) Delivered on Sabbath Morning, March 29, 1857, by the REV. C.H. SPURGEON at the Music Hall,
+Royal Surrey Gardens.” Subject: "Surely he shall deliver thee from the snare of the fowler."- Psalm 91:3)
 
 The fowler is the devil, employing diverse snares that
 take in the measure of every person in their design. The
