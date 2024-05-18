@@ -33,20 +33,39 @@ In that book, I titled this section "A Spiderweb of Psalms: Psalms 58, 91, 102, 
 "Appendix D: To Number our Psalms". To really understand how I crawled back and forth between those psalms to eventually unravel all four riddles,
 you need to read that whole seventy-five page appendix. This presentation will simplify matters and just focus on Psalm 91.
 
-One part I leave out is how I got stuck on Psalm 91 in the first place. It is because the number 91 is a triangular number:
+One part I minimize in this selective excerpt from the appendix is how I got stuck on Psalm 91 in the first place. 
+It is because the number 91 is a triangular number, and I had been checking all the Psalms whose numbers are triangular
+to see which were special. For the innumerate, a triangular number equals the sum of many sequential counting numbers
+starting at one, with no gaps:
 
 **91 = 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 + 12 + 13**
 
 Ninety-one is the thirteenth triangular number - and that is significant - because Psalm 91:13 is critical to solving the riddle of what 
 this Psalm means prophetically.
 
-(NOTE: Habakkuk is structured according to twenty-eight, the seventh triangular number: **28 = 1 + 2 + 3 + 4 + 5 + 6 + 7**. 
+(NOTE: Habakkuk is structured according to twenty-eight, the seventh triangular number: 
+
+**28 = 1 + 2 + 3 + 4 + 5 + 6 + 7**
+
 John 21 describes the second miraculous catch of fish, when 153 fish were caught. 153 is the seventeenth triangular number.
 See [153 is for Total Victory](./153-is-for-total-victory.html) for an exploration of both Habakkuk and the miraculous catch of fish.)
 
-## Satan's Taunt
+Psalm 91 poses two riddles. The first is the riddle I was hoping to answer: what does the actual number 91 have to do with the
+meaning of the psalm, if any? That is a riddle peculiar to my interests which most people would not care about one whit.
 
-To set the stage, here is part of Jesus' temptation in the wilderness.
+The second riddle is one every one ought to want solved. The devil is most creative in his taunting.
+He even quotes Psalm 91! Ah, but his selective quoting conceals a measure of irony
+too heavy to weigh on a scale. Why did Satan quote that particular psalm? That is the true riddle!
+
+<hr/>
+
+## Satan’s Taunt
+
+How did I spend my time this morning two days before Thanksgiving? I meditated on Psalm 91. If the psalms associated 
+with triangular numbers have more to tell, I want to hear it. Psalm 91 is the last triangular psalm that
+isn’t historical and isn’t related to Solomon’s times or the length of a generation. Looking closely at the psalm 
+did not offer any prophetic insight or satisfy my mathematical curiosity, but it did shine light on one of the most
+important events discussed in this book: Satan’s temptation of Jesus in the desert. Let’s revisit temptation #2:
 
 #### Then the devil took him to the holy city and set him on 
 #### the pinnacle of the temple and said to him, 
@@ -58,10 +77,72 @@ To set the stage, here is part of Jesus' temptation in the wilderness.
 ###### **lest you strike your foot against a stone**.’”
 ###### - Matthew 4:5-6
 
-The devil is most creative in his taunting; he quotes Psalm 91! Ah, but his selective quoting conceals a measure of irony
-too heavy to weigh on a scale. Why did Satan quote that particular psalm? That is the riddle!
+The devil has abridged these verses from Psalm 91:
 
-<hr/>
+#### If you say, “The LORD is my refuge,”
+##### and you make the Most High your dwelling,
+#### no harm will overtake you,
+##### no disaster will come near your tent.
+#### For he will command his angels concerning you
+##### to guard you in all your ways;
+#### they will lift you up in their hands,
+##### so that you will not strike your foot against a stone.
+#### You will tread on the lion and the cobra;
+##### you will trample the great lion and the serpent. 
+###### - Psalm 91:9-13
+
+I never saw the humor and irony in the exchange before today. 
+Who is Satan? He is the roaring lion:
+
+#### Be alert and of sober mind. Your enemy the devil prowls around like
+#### a roaring lion looking for someone to devour.
+###### - 1 Peter 5:8, NIV
+
+Who is Satan? He is the serpent to be trampled by Eve’s true son:
+
+#### And I will put enmity
+##### between you and the woman,
+###### and between your offspring and hers;
+#### he will crush your head,
+##### and you will strike his heel.”
+###### - Genesis 3:15, NIV
+
+Satan was taunting the Lord, to get him to trip up on verses 11 and 12 so that Jesus never makes it to verse 13, 
+the declaration of his (Satan’s) doom. I like verse 13. I am glad Jesus didn’t stumble.
+
+An earlier verse in the psalm is also both comforting and numerical. After speaking about a terrible plague come
+these words that bring relief:
+
+#### A thousand may fall at your side,
+##### ten thousand at your right hand,
+###### but it will not come near you.
+###### - Psalm 91:7, NIV
+
+My attention was drawn to this verse partly because of the extravagance of the promise and partly because of the
+numbers 1,000 and 10,000 – and I love numbers. Sadly, I can’t tie them into any of my prophetic clocks. 
+(This is not for lack of trying! If there are 366 days in a leap year then...
+
+**10,000 days ÷ 366 days per leap year = 27.32 leap years**
+
+There are 27.32 days in a sidereal month, and Solomon’s times are based on a lunar cycle. 
+Numbers will drive you mad…)
+
+What happens if you put this all together? In Psalm 91, verse 7 is a promise of protection for the faithful 
+and verse 13 a promise of defeat for the enemy.
+
+**07 x 13 = 91**
+
+Quaint, you might say. My eyes were drawn to those two particular verses in that particular psalm because of silly
+mathematical ideas that went nowhere, their spiritual content and the excitement of discovery they triggered
+when I tied it to Jesus’ temptation.
+
+And another reason. 071391 is the combination code I chose a year or more ago for one of my electronic devices! 
+I key it in several times a day. This “coincidence” will mean nothing to anyone but me. However, has the Lord ever
+connected rare details of your life to his Word? Has God made one of his promises oh, so precious to you? 
+When that happens, you know that your life is not an oversight, but part of His plan. When this happens, 
+you know that the Lord has your number. When that happens, you know you can “rest in the shadow of the Almighty.” (Psalm 91:1)
+
+May yours be a peaceful rest.
 
 In progress...
 
