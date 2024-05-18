@@ -386,8 +386,8 @@ of a twenty-eighth time will pass. A sidereal month is 27.32
 days and matches this concept. What do we get if we
 assume the unit of time is one sidereal month?
 
-<a href="images/10000-times-fraction.png" target="_blank">
-  <img src="./images/10000-times-fraction.pnd" alt="10000 times 27.32 divided by 365.25" width="528" height="115">
+<a href="./images/10000-times-fraction.png" target="_blank">
+  <img src="./images/10000-times-fraction.png" alt="10000 times 27.32 divided by 365.25" width="528" height="115">
 </a>
 
 Dividing 27.32 days by the number of days in a year
