@@ -23,12 +23,15 @@ Thus even when there is a relation of number to meaning, finding that relation i
   - Psalm 1 focuses on the Trinity, with each person represented, a numerological connection to the unity of God.
   - Psalms 2, 3 and 7 focus on the Son, Father, and Holy Spirit, respectively. Thus the psalm number matches the numerology of the content.
   - Psalms 1 to 28 match the twenty-eight times of Solomon from Ecclesiastes 3 (with Psalms 1 & 2 swapped, for a special reason).
+  - Psalm 31 prophesies the trials of the Jews during the thirty-one years between when Great Britain gained control over Palestine in 1917 and when the Jews were granted sovereignty over their nation in 1948. This Psalm predicted the Holocaust.
   - Psalm 102 prophesies the long struggle of Islam against Byzantium. 816 years elapsed between the capture of Jerusalem in 637 AD and the Fall of Constantinople in 1453 AD. **816 = 8 x 102**. The factor of eight matches the eight verses in the psalm that speak of the fate of Jerusalem and the eight times of Solomon, six full and two partial, that correspond to the era during which the battles were fought.
   - Psalm 119 is an extended prophecy about the coming of the Messiah. The Bible has 119 mentions of the sin offering, which foreshadows Christ's sacrifice on the cross. Also, that psalm contains a Generational Prophetic clock whose period per generation is 119 years. Furthermore, the flood of Noah ended on the seventeenth day of the seventh month, symbolizing God's victory over sin. **119 = 7 x 17**.
 
 <a href="./images/key-time-durations.png" target="_blank">
   <img src="./images/key-time-durations.png" alt="Key time durations in salvation history" width="800" height="478">
 </a>
+
+The preceding image shows the 816 year period related to Psalm 102 and the thirty-one year period related to Psalm 31.
 
 I doubt that I have discovered the full variety of ways in which numbers factor into the interpretation of psalms.
 A few years ago, while writing *Peace, like Solomon Never Knew*, I was entranced by Psalm 91. In order to solve it, my attention
