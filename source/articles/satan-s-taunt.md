@@ -33,6 +33,17 @@ In that book, I titled this section "A Spiderweb of Psalms: Psalms 58, 91, 102, 
 "Appendix D: To Number our Psalms". To really understand how I crawled back and forth between those psalms to eventually unravel all four riddles,
 you need to read that whole seventy-five page appendix. This presentation will simplify matters and just focus on Psalm 91.
 
+One part I leave out is how I got stuck on Psalm 91 in the first place. It is because the number 91 is a triangular number:
+
+**91 = 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 + 12 + 13**
+
+Ninety-one is the thirteenth triangular number - and that is significant - because Psalm 91:13 is critical to solving the riddle of what 
+this Psalm means prophetically.
+
+(NOTE: Habakkuk is structured according to twenty-eight, the seventh triangular number: **28 = 1 + 2 + 3 + 4 + 5 + 6 + 7**. 
+John 21 describes the second miraculous catch of fish, when 153 fish were caught. 153 is the seventeenth triangular number.
+See [153 is for Total Victory](./153-is-for-total-victory.html) for an exploration of both Habakkuk and the miraculous catch of fish.)
+
 ## Satan's Taunt
 
 To set the stage, here is part of Jesus' temptation in the wilderness.
@@ -47,9 +58,8 @@ To set the stage, here is part of Jesus' temptation in the wilderness.
 ###### **lest you strike your foot against a stone**.’”
 ###### - Matthew 4:5-6
 
-The devil is most creative in his taunting; he quotes Psalm 91!
-Ah, but his selective quoting conceals a measure of irony
-too heavy to weigh on a scale...
+The devil is most creative in his taunting; he quotes Psalm 91! Ah, but his selective quoting conceals a measure of irony
+too heavy to weigh on a scale. Why did Satan quote that particular psalm? That is the riddle!
 
 <hr/>
 
