@@ -11,7 +11,7 @@ This passion runs me afoul of the received wisdom concerning the numericity of t
 arrangement of the Psalms, and the division of it all into chapters and verses are not considered inspired, hence off-limits
 when it comes to using them in arguments and proofs about doctrine and prophecy. In my book, this aversion to numbers
 makes many truths hidden in the Bible into "Emotional Riddles" (as defined in [Riddles](./riddles.html)). 
-The emotion is the fear of going against the opinion of the majority of scholars creates. That fear erects a wall that 
+The emotion is the fear that going against the opinion of the majority of scholars creates. That fear erects a wall that 
 keeps people out. Scholarly opinion is often right and helpful, which credibility is the timber making up the wall.
 
 The opinion of scholars fills me with skepticism and caution, but if the numbers seem to be saying something, I will listen.
@@ -20,11 +20,11 @@ out a divine hand in the final arrangement and numbering of the Bible's componen
 the actual Psalm number to be relevant for about half of the Psalms. The relation of the Psalm number to the text that it labels varies.
 Thus even when there is a relation of number to meaning, finding that relation is a riddle in itself. A few examples (covered in my books):
 
-  - Psalm 1 focuses on the Trinity, with each represented, a numerological connection to the unity of God.
+  - Psalm 1 focuses on the Trinity, with each person represented, a numerological connection to the unity of God.
   - Psalms 2, 3 and 7 focus on the Son, Father, and Holy Spirit, respectively. Thus the psalm number matches the numerology of the content.
   - Psalms 1 to 28 match the twenty-eight times of Solomon from Ecclesiastes 3 (with Psalms 1 & 2 swapped, for a special reason).
   - Psalm 102 prophesies the long struggle of Islam against Byzantium. 816 years elapsed between the capture of Jerusalem in 637 AD and the Fall of Constantinople in 1453 AD. **816 = 8 x 102**. The factor of eight matches the eight verses in the psalm that speak of the fate of Jerusalem and the eight times of Solomon, six full and two partial, that correspond to the era during which the battles were fought.
-  - Psalm 119 is an extended prophecy about the coming of the Messiah. The Bible has 119 mentions of the burnt offering, which foreshadows Christ's sacrifice on the cross. Also, that psalm contains a Generational Prophetic clock whose period per generation is 119 years. Furthermore, the flood of Noah ended on the seventeenth day of the seventh month, symbolizing God's victory over sin. **119 = 7 x 17**.
+  - Psalm 119 is an extended prophecy about the coming of the Messiah. The Bible has 119 mentions of the sin offering, which foreshadows Christ's sacrifice on the cross. Also, that psalm contains a Generational Prophetic clock whose period per generation is 119 years. Furthermore, the flood of Noah ended on the seventeenth day of the seventh month, symbolizing God's victory over sin. **119 = 7 x 17**.
 
 I doubt that I have discovered the full variety of ways in which numbers factor into the interpretation of psalms.
 A few years ago, while writing *Peace, like Solomon Never Knew*, I was entranced by Psalm 91. In order to solve it, my attention
@@ -38,7 +38,7 @@ you need to read that whole seventy-five page appendix. This presentation will s
 To set the stage, here is part of Jesus' temptation in the wilderness.
 
 #### Then the devil took him to the holy city and set him on 
-#### the pinnacle of the temple 6 and said to him, 
+#### the pinnacle of the temple and said to him, 
 ##### “If you are the Son of God, throw yourself down, 
 ##### for it is written,
 ###### “‘**He will command his angels concerning you**,’
