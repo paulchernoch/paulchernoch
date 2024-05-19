@@ -70,9 +70,10 @@ too heavy to weigh on a scale. Why did Satan quote that particular psalm? That i
 
 How did I spend my time this morning two days before Thanksgiving? I meditated on Psalm 91. If the psalms associated 
 with triangular numbers have more to tell, I want to hear it. Psalm 91 is the last triangular psalm that
-isn’t historical and isn’t related to Solomon’s times or the length of a generation. Looking closely at the psalm 
-did not offer any prophetic insight or satisfy my mathematical curiosity, but it did shine light on one of the most
-important events discussed in this book: Satan’s temptation of Jesus in the desert. Let’s revisit temptation #2:
+isn’t historical (e.g. Psalms 78, 105 and 136) and isn’t related to Solomon’s times (Psalm 28) or 
+the length of a generation (Psalm 120). Looking closely at the psalm did not offer any prophetic insight or satisfy 
+my mathematical curiosity, but it did shine light on one of the most important events discussed in this book: 
+Satan’s temptation of Jesus in the desert. Let’s revisit temptation #2:
 
 #### Then the devil took him to the holy city and set him on 
 #### the pinnacle of the temple and said to him, 
@@ -151,7 +152,7 @@ you know that the Lord has your number. When that happens, you know you can “r
 
 May yours be a peaceful rest.
 
-## Psalm 91: A Siege with a Riddle (634–1453 AD)
+## Psalm 91: A Siege with a Riddle (634-1453 AD)
 
 Like a petulant child, I dithered over this psalm for days,
 progressing little and cross with God. The riddle of the
@@ -485,7 +486,7 @@ events, especially the last.
 
 There is no need to trample a lion or a serpent if it is
 caged. You only do that to ones free in the wild. Verse 13 is
-like verse 7; it give a before and after picture. The lion and
+like verse 7; it gives a before and after picture. The lion and
 cobra are the human opposition that precede Satan’s
 release. The great lion and serpent are the more potent
 forces that follow his release.
@@ -498,6 +499,42 @@ grow us to our fullest potential – but we must love Him,
 acknowledge His name and call on Him. Our strength alone
 will not carry the battle.
 
+<hr/>
+
+## Summing Up
+
+In the two sections of the appendix reproduced above, I failed to tie everything up in a bow. 
+I also omitted some parts of the appendix touching on many psalms at once, hence a few points relevant to understanding Psalm 91. 
+Let's fix that now. The greater riddle was the irony in Satan's taunt. He tried to twist the words of Psalm 91 to get Jesus to stumble, to sin
+and lose the battle against him. Satan was trying to turn a prophecy of his defeat into a tool for his own victory.
+
+As for the riddle of how the number 91 relates to the meaning, here goes. Psalm 91 is a prophecy of the rise to power of the seventh beast, 
+Islam, and its overthrow of the sixth beast, Rome. It took Satan 819 years of warfare to grow and strengthen his beast to the point where it
+could finally capture the prize. The Battle of Damascus in 634 AD was the first great victory of Islam over Byzantium; it followed
+several smaller victories in the same year, including Islam's first victory over Byzantium, at Ajnadayn. That was the beginning of Satan's 
+long struggle against Byzantium.
+
+The conclusion of the seventh beast's long war was the Fall of Constantinople in 1453.
+
+**1453 - 634 = 819 = 9 x 91**
+
+The length of the war is a multiple of 91! This is but one of the several psalms that I discovered have numbers that relate to
+the interval of time between two events that the psalm prophecies. Considering that this psalm also made use of the numbers 1,000 and 10,000
+to spell out time intervals between other pairs of events, I think this raises the numerical connection to a place higher than mere coincidence.
+
+Putting everything together, Psalm 91 is about Satan's prison break. During the millennium that he was bound, the millennium of 
+the ascendancy of Christian Rome, he raised up Islam into a series of powerful empires that eventually broke him free from his prison.
+The Psalm is also about Satan's final downfall. He can breach the wall's of a great city like Constantinople, but that was never
+our greatest fortress:
+
+#### I will say to the Lord, 
+##### “My refuge and my fortress,
+###### my God, in whom I trust.”
+###### - Psalm 91:2
+
+As Martin Luther taught us to sing, "A mighty fortress is our God."
+
+That fortress will NEVER be breached.
 <hr/>
 
 Other articles in this section:
