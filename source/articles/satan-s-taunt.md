@@ -535,6 +535,7 @@ our greatest fortress:
 As Martin Luther taught us to sing, "A mighty fortress is our God."
 
 That fortress will NEVER be breached.
+
 <hr/>
 
 Other articles in this section:
