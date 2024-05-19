@@ -524,7 +524,7 @@ to spell out time intervals between other pairs of events, I think this raises t
 
 Putting everything together, Psalm 91 is about Satan's prison break. During the millennium that he was bound, the millennium of 
 the ascendancy of Christian Rome, he raised up Islam into a series of powerful empires that eventually broke him free from his prison.
-The Psalm is also about Satan's final downfall. He can breach the wall's of a great city like Constantinople, but that was never
+The Psalm is also about Satan's final downfall. He can breach the walls of a great city like Constantinople, but that was never
 our greatest fortress:
 
 #### I will say to the Lord, 
