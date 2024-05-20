@@ -131,6 +131,11 @@ So when Paul the apostle told women that God would save them through "the Childb
 For a more in-depth treatment of this topic, see [Reconciliation](./reconciliation.html).
 It shows that Paul not only told us that God would remedy this medical problem, but told us when.
 
+This passage from 1 Timothy is also analyzed extensively in:
+
+-  "Appendix I: A Clock for Timothy" from *Peace, like Solomon Never Knew*.
+-  "Epilogue: The Fifth Commandment" from *Plague, Precept, Prophet, Peace*.
+
 <hr/>
 
 Other articles in this section:
