@@ -2,6 +2,9 @@
 title: Hannah's Song
 quote: For the pillars of the earth are the Lord's, <br/> and on them he has set the world. <br/> - Hannah, prophetess and mother
 ---
+
+<img class="center" src="images/woman-and-child.png" width="500" height="500" />
+
 Note: This article both summarizes and amplifies ideas first expressed in the chapter 
 "The Seven Pillars of Wisdom" in *Peace, like Solomon Never Knew*. That is the final chapter and 
 thus concludes in setting forth the most important ideas in that book. I consider discovering the 
