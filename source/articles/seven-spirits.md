@@ -2,6 +2,9 @@
 title: "Lanterns: The Seven Spirits of God"
 quote: ... I saw a Lamb standing... with seven horns <br/> and with seven eyes, which are the <br/> seven spirits of God sent out <br/> into all the earth. - Revelation 5:6
 ---
+
+<img class="center" src="images/torch-with-book.png" width="500" height="500" />
+
 ## Abstract
 
 The Seven Spirits of God spoken of by John in Revelation are enigmatic. 
