@@ -2,6 +2,9 @@
 title: The Theme of Books in the Pillars of Wisdom
 quote: Do not add to his words, <br/> lest he rebuke you and you be found a liar. <br/> - Proverbs 30:6
 ---
+
+<img class="center" src="images/bookshelf.png" width="600" height="250" />
+
 ## Books
 
 Let’s consider what is and is not a pillar. From the
