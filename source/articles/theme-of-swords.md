@@ -2,7 +2,7 @@
 title: The Theme of Swords in the Pillars of Wisdom
 quote: For not in my bow do I trust, <br/> nor can my sword save me. <br/> - Psalm 44:6
 ---
-<img src="images/sword.png" width="500" height="200" />
+<img class="center" src="images/sword.png" width="500" height="200" />
 
 ## Swords
 

@@ -174,3 +174,13 @@ table.creation td:nth-child(1), table.creation td:nth-child(2), table.creation t
   font-size   : 18px;
   text-align: left; 
 } 
+
+/*
+  Images in articles that should be horizontally centered.
+*/
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%; /* Adjust as needed */
+}
