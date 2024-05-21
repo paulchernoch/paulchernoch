@@ -78,7 +78,7 @@ serpent, and Revelation the Beast from the Sea. Yes, they
 fit.
 
 The earlier chapter about the Seven Pillars of Wisdom
-explained how Hannah’s prayer of praise in I Samuel 2
+explained how [Hannah’s prayer](./hannah-s-song.html) of praise in I Samuel 2
 pointed to the pillars. Her prayer is like a song, mentions
 “thunder in heaven”, focuses on a relief from barrenness,
 the number seven and God’s setting the world upon “the
@@ -92,13 +92,13 @@ be broken into seven sections. The first section has a multi-
 part question that serves as a table of contents into the rest
 of the book. Each section has “time words”.
 
- 1. Hab 1:1-4. Habakkuk’s First Complaint. **“How long”** (1:2), one time phrase.
- 2. Hab 1:5-11. The Lord’s First Answer. **“Your days”** (1:5) and **“Dusk / Evening”** (1:8 NIV/ESV), two time phrases.
- 3. Hab 1:12-2:1. Habakkuk’s Second Complaint. **“Everlasting”** (1:12), “you **destined** them to punish us” (1:12 HCSB), “killing nations **forever**" (1:17 ESV), three time phrases. (Each time phrase here is doubled with a synonymous phrase.) Also appearing three times is the word “will”, to signify how the prophet is waiting for God to act in the future.
- 4. Hab 2:2-5. The Lord’s Second Answer. The word “will” occurs four times in 2:3-4. It is coupled with these time promises: (1) “awaits an appointed time”, (2) “it speaks of the end and will not prove false”, (3) “though it linger, wait for it;” (4) “it will certainly come and will not delay”. Thus, there are four time promises.
- 5. Hab 2:6-20. Five woes. The first of the five woes contains the word “will” five times. All the woes have a time reference, such as “how long must this go on” (2:6) or “guidance” (2:19).
- 6. Hab 3:1-18. Habakkuk’s Prayer. This section makes six references to God’s future judgment, with most of the references doubled. The section begins by using the words “On Shigionoth”, indicating musical tempo, a reference to time.
- 7. Hab 3:19-21. Habakkuk’s Song of Praise. This begins with six disasters, followed by a praise consisting of seven parts.
+ 1. Hab 1:1-4. *Habakkuk’s First Complaint*. **“How long”** (1:2), one time phrase.
+ 2. Hab 1:5-11. *The Lord’s First Answer*. **“Your days”** (1:5) and **“Dusk / Evening”** (1:8 NIV/ESV), two time phrases.
+ 3. Hab 1:12-2:1. *Habakkuk’s Second Complaint*. **“Everlasting”** (1:12), “you **destined** them to punish us” (1:12 HCSB), “killing nations **forever**" (1:17 ESV), three time phrases. (Each time phrase here is doubled with a synonymous phrase.) Also appearing three times is the word “will”, to signify how the prophet is waiting for God to act in the future.
+ 4. Hab 2:2-5. *The Lord’s Second Answer*. The word “will” occurs four times in 2:3-4. It is coupled with these time promises: (1) “awaits an appointed time”, (2) “it speaks of the end and will not prove false”, (3) “though it linger, wait for it;” (4) “it will certainly come and will not delay”. Thus, there are four time promises.
+ 5. Hab 2:6-20. *Five woes*. The first of the five woes contains the word “will” five times. All the woes have a time reference, such as “how long must this go on” (2:6) or “guidance” (2:19).
+ 6. Hab 3:1-18. *Habakkuk’s Prayer*. This section makes six references to God’s future judgment, with most of the references doubled. The section begins by using the words “On Shigionoth”, indicating musical tempo, a reference to time.
+ 7. Hab 3:19-21. *Habakkuk’s Song of Praise*. This begins with six disasters, followed by a praise consisting of seven parts.
 
 For a detailed analysis of Habakkuk, see these articles on each section, plus one that dives deep into God's war against evil empires:
 
