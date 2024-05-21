@@ -50,15 +50,15 @@ Only after the Spirit had pushed me to scrutinize all seven books did I discover
 Solomon's Growth Pattern. Then I discovered that they were ordered according to Jesus' pattern. Only after all these connections became clear
 and the number of books that followed these patterns was seven, did it dawn on me that I had discovered the Pillars of Wisdom.
 
-The Holy Spirit, without speaking a word or telling me a thing, helped me excavate seven pieces, then stepped back to see if I 
+The Holy Spirit, without speaking a word, helped me excavate seven pieces, then stepped back to see if I 
 could assemble them into a complete jigsaw puzzle. Let me tell you, nothing in my prior life remotely prepared me for the experience.
-How can a being without speaking a word communicate so much in so short a time? How can I find answers that were not handed to me
-as though they were gifts?
+How can a being silently communicate so much in so short a time? How can I find detailed answers that were not dictated to me
+as though they were?
 
 The preceding is a mangled and abbreviated account of the mystical experiences that guided me to the answers that my heart was seeking.
-I had dreams. I had visions. I had longings and prayers and miraculous healings and things harder to categorize. All these things
-guided me. However, though the truths were discovered via mystical means, they can be defended using solid logic. The seven books 
-that constitute the Seven Pillars of Wisdom share many connections that tie them together, connections that they do not share with other books.
+I had dreams. I had visions. I had longings and prayers and miraculous healings and things harder to categorize. All these experiences
+guided me. However, though the truths were discovered via mystical means, they can be defended using solid logic and textual analysis. 
+The seven books that constitute the Seven Pillars of Wisdom share many connections that tie them together, connections that they do not share with other books.
 It is this multitude of connections - not strange religious experiences - that prove the unity and identity of the Seven Pillars of Wisdom.
 
 The seven articles in this section are sliced out of "Appendix H: Clues to the Seven Pillars" from *Peace, like Solomon Never Knew*.
@@ -77,7 +77,7 @@ One caveat, first. The Seven Pillars have a special ordering, given to them by J
   - Matthew
   - Revelation
 
-This order would dictate that the seven themes also have a proper order, but it has not been followed. 
+This order would dictate that the seven themes also have a proper order - which they do - but it has not been followed. 
 I do not know why I ordered the themes the way I did; that's just the way it came out as I was writing...
 
 <hr/>
@@ -224,3 +224,6 @@ in "Appendix H: Clues to the Seven Pillars":
   - [Theme of Songs](./theme-of-songs.html)
   - [Theme of Treasures](./theme-of-treasures.html)
 
+As you read the sections of this article given above, you will see that the connections between these books 
+are not lines in a mathematical proof. They are not evidence in a court case. They are insights into
+questions whose answers many people have sought for long and hard. One section even has something to say about the rapture!
