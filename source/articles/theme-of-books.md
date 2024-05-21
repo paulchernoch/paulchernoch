@@ -9,31 +9,28 @@ Jachin and Boaz, we get two vital properties of pillars, “he
 will establish” and “in him is strength”.
 
 **Being strong** is what we need for today, to navigate
-horizontal relationships in the present. The Harvest Pattern
+horizontal relationships in the present. The [Harvest Pattern](./harvest-pattern.html)
 is closely tied to strength. All interpretations of parables
 and sayings rooted in daily individual behavior (such as
 training in morality, ethics and worship) tap into this
 attribute of pillars.
 
-**Being established** is about tomorrow. It has to do with
-time, with planning to overcome challenge after challenge
-and endure to the end. Pillars are tall. They run from floor
-to ceiling, to hold up the building. That means they traverse
-time. When the Bible’s words of wisdom touch on
-prophecy, they tap into this attribute of pillars. The Growth
-Pattern based on the twenty-eight times from Ecclesiastes 3
-is more closely affiliated with this.
+**Being established** is about tomorrow. It has to do with time,
+with planning to overcome challenge after challenge and endure to the end.
+Pillars are tall. They run from floor to ceiling, to hold up the building. 
+That means they traverse time. When the Bible’s words of wisdom touch on
+prophecy, they tap into this attribute of pillars. The [Growth Pattern](./growth-pattern.html) based 
+on the twenty-eight times from Ecclesiastes 3 is more closely affiliated with this.
 
-The Seven Pillars often overlap the Pentateuch in
-language and theme. Why are Exodus or Deuteronomy not
-pillars? It is because they are the floor. They are the
-foundation. This is not speculation for the Word declares it.
-Consider the time when Moses and the elders met with
-God:
+The Seven Pillars often overlap the Pentateuch in language and theme. 
+Why are Exodus or Deuteronomy not pillars? It is because they are the floor. 
+They are the foundation. This is not speculation for the Word declares it.
+(See [The Law Pattern](./law-pattern.html) for the implications of this.)
+Consider the time when Moses and the elders met with God:
 
 #### Moses and Aaron, Nadab and Abihu, and the seventy elders of Israel
 #### went up and saw the God of Israel. Under his feet was something
-#### like a pavement made of lapis lazuli, as bright blue as the sky.
+#### like a pavement made of **lapis lazuli**, as bright blue as the sky.
 ###### - Exodus 24:9-10
 
 Lapis lazuli (or in some translations, sapphire) was the
