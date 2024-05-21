@@ -126,20 +126,13 @@
       dates: [2024-05-05]
     - title: Seven Pillars of Wisdom
       parts:
-      - title: Psalms
-        named: pillar-of-psalms.md
-      - title: Job
-        named: pillar-of-job.md
-      - title: Proverbs
-        named: pillar-of-proverbs.md
-      - title: Song of Songs
-        named: pillar-of-song-of-songs.md
-      - title: Ecclesiastes
-        named: pillar-of-ecclesiastes.md
-      - title: Matthew
-        named: pillar-of-matthew.md
-      - title: Revelation
-        named: pillar-of-revelation.md
+      - title: Theme of Books
+      - title: Theme of Swords
+      - title: Theme of Pillars
+      - title: Theme of Thunders
+      - title: Theme of Spirits
+      - title: Theme of Songs
+      - title: Theme of Treasures
     - title: "Roof: Paul's Gospel of Peace"
       named: roof-of-peace.md
   - title: Spiritual Growth
