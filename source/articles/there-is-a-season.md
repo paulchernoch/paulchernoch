@@ -3,6 +3,8 @@ title: There is a Season
 quote: To everything there is a season, <br/> A time for every purpose under heaven... <br/> - Ecclesiastes 3:1
 ---
 
+<img class="center" src="images/four-seasons.png" width="541" height="146" />
+
 ## Preface
 
 This article was originally published as the chapter titled "There is a Season" in *Peace, like Solomon Never Knew*. It incorporates ideas from an earlier chapter in the book. That earlier chapter introduced a sociological tool called 
