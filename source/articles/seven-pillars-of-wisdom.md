@@ -206,7 +206,7 @@ one of the Seven Spirits of God. Here are some of the
 associations:
 
 <a href="./images/pillar-connections.png" target="_blank">
-  <img src="./images/pillar-connections.png" height="675" width="391" />
+  <img src="./images/pillar-connections.png" width="675" height="391" />
 </a>
 
 It is time to tackle each category, but in a different order...
