@@ -2,6 +2,9 @@
 title: Riddles of War
 quote: I have not learned wisdom, <br/> nor have I knowledge of the Holy One. <br/> - Proverbs 30:3
 ---
+
+<img class="center" src="images/armies-charging.png" width="509" height="267" />
+
 ## The Place of Proverbs 30 within the book
 
 The whole Book of Proverbs is one big riddle. We are told in 25:1 that King Hezekiah's men had a part in selecting and arranging 
