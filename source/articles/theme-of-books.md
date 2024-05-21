@@ -111,13 +111,10 @@ For a detailed analysis of Habakkuk, see these articles on each section, plus on
   - [Part 7](./habakkuk-part-7.html)
   - [Habakkuk's War](./habakkuk-s-war.html)
 
-If you paid attention, the first section has one part, the
-second two, on up to the seventh that has seven parts. If
-you sum the numbers one to seven you get the seventh
-perfect number: twenty-eight. Thus, Habakkuk
-intentionally draws attention to the number twenty-eight
-and a relentless focus on time and the future. The prophet
-is pointing to Ecclesiastes 3 and the Growth Pattern.
+If you paid attention, the first section has one part, the second two, on up to the seventh that has seven parts. If
+you sum the numbers one to seven you get the seventh perfect number: twenty-eight. Thus, Habakkuk intentionally 
+draws attention to the number twenty-eight (the number of days in a sidereal month or times in Ecclesiastes 3) and a relentless focus on time 
+and the future. The prophet is pointing to Ecclesiastes 3 and the Growth Pattern.
 
 That is not all. The final section is explicitly about longing
 for a harvest amid barrenness. Does the rest of the book
@@ -165,10 +162,12 @@ that his words be written down:
 God’s answer to Job’s prayer caused the Bible to be
 begun to be written. That certainly makes Job a pillar.
 
-One last note about the Books category. A few books of
-the Bible explicitly warn against adding to God’s words.
-Five of these seven pillars have such warnings. Only Psalms
-and Song of Songs lack them.
+One last note about the Books category. A few books of the Bible explicitly warn against adding to God’s words.
+Five of these seven pillars have such warnings. Only Psalms and Song of Songs lack them. 
+These strong warnings against tampering with the words are God's way of telling us that these books
+are special. They are also God's way of ensuring that detailed analysis and careful reflection on every phrase and connection
+is profitable. If these books were littered with errors, only vague conclusions could be drawn from them.
+Instead, we can build our lives and our civilization upon them. Their words are strong. They will endure.
 
 <hr/>
 
