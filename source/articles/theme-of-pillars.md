@@ -1,6 +1,6 @@
 ---
 title: The Theme of Pillars in the Pillars of Wisdom
-quote: When the earth totters, <br/> and all its inhabitants, <br/> it is I who keep steady its pillars. Selah <br/> - Psalm 75:2-3
+quote: When the earth totters, <br/> and all its inhabitants, <br/> it is I who keep steady its pillars. <br/> Selah - Psalm 75:2-3
 ---
 
 <img class="center" src="images/roman-columns.png" width="510" height="324" />
