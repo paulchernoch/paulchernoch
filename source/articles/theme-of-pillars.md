@@ -415,8 +415,9 @@ peace. The spirit of the fear of the Lord is on display when
 Jesus speaks of the fate of the foolish virgins, who will be
 locked out.
 
-**Pillars in Revelation**. The pillar references in Revelation are intertwined with the seven thunders, so
-onto the next clue.
+## Pillars in Revelation
+
+The pillar references in Revelation are intertwined with the seven thunders, so onto the next clue.
 
 <hr/>
 
