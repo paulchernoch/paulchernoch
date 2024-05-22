@@ -1,6 +1,9 @@
 ---
 title: The Theme of Pillars in the Pillars of Wisdom
 ---
+
+<img class="center" src="images/roman-columns.png" width="510" height="324" />
+
 ## Pillars
 
 The Bible book which mentions pillars the most is
