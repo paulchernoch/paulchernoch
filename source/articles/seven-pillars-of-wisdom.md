@@ -2,6 +2,9 @@
 title: The Seven Pillars of Wisdom
 quote: And the Lord went before them ... <br/> by night in a pillar of fire to give them light, <br/> that they might travel by day and by night. <br/> - Exodus 13:21
 ---
+
+<img class="center" src="images/table-is-set.png" />
+
 ## Unseen Pillars
 
 During the Exodus, the Lord led the people by a pillar of cloud by day and a pillar of fire by night. There was no question
