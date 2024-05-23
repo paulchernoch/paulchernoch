@@ -1,6 +1,10 @@
 ---
 title: The Theme of Thunders in the Pillars of Wisdom
+quote: Seal up what the **seven thunders** have said, <br/> and do not write it down. <br/> - Revelation 10:4b
 ---
+
+<img class="center" src="images/lightning-scroll.png" />
+
 ## Thunders
 
 In “Aftertaste: Donner & Blitzen”, many connections
@@ -157,7 +161,7 @@ spirits and the theme of Books.
         Lord, the last of the seven spirits of God. In this
         final verse, the legs of the angel are the pillars,
         subduing the peoples of the earth.
-        <br/>
+        <br/><br/>
         The Old Testament pillar reference this evokes is
         mysterious. It is Song of Songs 4, where the Lover
         (Christ) likens his Bride to a tower. The voice from
@@ -166,7 +170,7 @@ spirits and the theme of Books.
         Bride’s garden that is sealed, “a garden locked is my
         sister, my bride, a spring locked, a fountain sealed.”
         (SS 4:12)
-        <br/>
+        <br/><br/>
         What is the greatest mystery that the seven thunders
         conceal? A lover’s secret!
     </td>
