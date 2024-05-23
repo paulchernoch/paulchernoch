@@ -113,6 +113,17 @@ table.creation td:nth-child(1), table.creation td:nth-child(2), table.creation t
   text-align: center;
 }
 
+/* Revelation 10 table */
+
+.revelation10 th {
+  background-color: #606080;
+  color: white;
+}
+
+.revelation10 tr:nth-child(even) {
+  background-color: #f0f0ff;
+}
+
 /* 
    Poetry
 
