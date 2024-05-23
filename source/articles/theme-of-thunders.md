@@ -1,6 +1,6 @@
 ---
 title: The Theme of Thunders in the Pillars of Wisdom
-quote: Seal up what the **seven thunders** have said, <br/> and do not write it down. <br/> - Revelation 10:4b
+quote: Seal up what the <b>seven thunders</b> have said, <br/> and do not write it down. <br/> - Revelation 10:4b
 ---
 
 <img class="center" src="images/lightning-scroll.png" />
@@ -149,7 +149,7 @@ spirits and the theme of Books.
         And when the <b>seven thunders</b> had sounded, <br/>
         I was about to write, but I heard a voice <br/>
         from heaven saying, <br/>
-        “Seal up what the **seven thunders** have said, <br/>
+        “Seal up what the <b>seven thunders</b> have said, <br/>
         and do not write it down.”
     </td>
     <td>
