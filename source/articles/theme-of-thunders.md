@@ -64,10 +64,6 @@ spirits and the theme of Books.
 
 <hr/>
 
-| Spirit of God | Revelation 10 Phrase            |                   Matching Pillar References                     |
-| :------------ | :------------------------------ | :--------------------------------------------------------------- |
-| <hr/>         | <hr/>                           | <hr/>                                                            |
-
 <table class="revelation10">
   <tr>
     <th>Spirit of God</th>
@@ -82,7 +78,7 @@ spirits and the theme of Books.
         ladder, coming down from heaven. In both Genesis
         28 & 31, he erects a pillar as a token of his worship
         of God. To signify the spirit of Lordship, God says
-        to Jacob, *“I am the Lord, the God of Abraham your father and the God of Isaac.”* (Genesis 28:13)
+        to Jacob, <i>“I am the Lord, the God of Abraham your father and the God of Isaac.”</i> (Genesis 28:13)
     </td>
   </tr>
   <tr>
@@ -96,7 +92,7 @@ spirits and the theme of Books.
     <td>Understanding</td>
     <td>with a rainbow over his head, and</td>
     <td>
-        Revelation 4:3 said, *“around the throne was a rainbow”*. 
+        Revelation 4:3 said, <i>“around the throne was a rainbow”</i>. 
         That scene describes worship, which
         flows from the spirit of understanding, and also
         declares the existence of the seven spirits of God.
@@ -126,8 +122,8 @@ spirits and the theme of Books.
         <br/>
         Revelation mentions pillars in another significant
         passage, a fantastic promise: 
-        *"The one who conquers, I will make him a **pillar** in the temple of my God.*
-        *Never shall he go out of it, and I will write on him the name of my God."* (3:12)
+        <i>"The one who conquers, I will make him a <b>pillar</b> in the temple of my God.
+        Never shall he go out of it, and I will write on him the name of my God."</i> (3:12)
     </td>
   </tr>
   <tr>
@@ -138,7 +134,7 @@ spirits and the theme of Books.
         unsealing of a scroll, representing detailed
         knowledge of the future. According to Revelation
         3:12 quoted above, we become God's scroll and
-        pillar when on us he writes “the name of \[his\] God”.
+        pillar when on us he writes “the name of [his] God”.
     </td>
   </tr>
   <tr>
