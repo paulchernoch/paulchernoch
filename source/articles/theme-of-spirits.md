@@ -1,12 +1,14 @@
 ---
 title: The Theme of Spirits in the Pillars of Wisdom
-quote: they were astonished, and said, <br/> “Where did this man get this wisdom <br/> and these mighty works?" <br/> - Matthew 13:54b
+quote: There shall come forth a shoot <br/> from the stump of Jesse, <br/> and a branch from his roots shall bear fruit. <br/> - Isaiah 11:1
 ---
 
 <img class="center" src="images/seven-spirits-branch.png" />
 
 To recap, the seven spirits of God are named in Isaiah:
 
+#### There shall come forth a shoot from the stump of Jesse,
+#### and a branch from his roots shall bear fruit.
 #### And the Spirit of (1) **the Lord** shall rest upon him,
 #### the Spirit of (2) **wisdom** and 
 #### (3) **understanding**,
@@ -14,7 +16,7 @@ To recap, the seven spirits of God are named in Isaiah:
 #### (5) might,
 #### the Spirit of (6) **knowledge** and 
 #### (7) **the fear of the Lord**.
-###### - Isaiah 11:2
+###### - Isaiah 11:1-2
 
 Each of the Bible books that constitute the Seven Pillars of Wisdom exemplifies one of these spirits, though all seven appear in each.
 
