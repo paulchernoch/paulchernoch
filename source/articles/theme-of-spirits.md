@@ -13,7 +13,7 @@ To recap, the seven spirits of God are named in Isaiah:
 #### the Spirit of (2) **wisdom** and 
 #### (3) **understanding**,
 #### the Spirit of (4) **counsel** and 
-#### (5) might,
+#### (5) **might**,
 #### the Spirit of (6) **knowledge** and 
 #### (7) **the fear of the Lord**.
 ###### - Isaiah 11:1-2
@@ -34,13 +34,32 @@ most closely to one of the spirits.
 Of the Psalms, it appears most often – twenty-four times – in
 Psalm 119, which prophesied the coming of the Lord.
 
+What mercy God has showered upon us with these songs from the heart!
+Tyrants threaten and cajole, demanding undeserved fealty from oppressed subjects.
+Their call to respect their authority is full of commands and threats.
+Tyrants do not care how you feel, they care how you will work for them, enrich them and make their kingdom strong.
+The Lord is no tyrant. The Psalms are sweet with compassion and longing,
+flowing with humility and care for the brokenhearted. These songs woo you to a 
+place of safety. They do not merely extol the lordship of a god, they
+show you the character of that lord and that character is firm but loving and kind.
+
+Meditating on the Psalms long ago took away my nightmares. Our world is filled with nightmares.
+God sends the Spirit of the Lord to untangle your emotions, make you grow strong and make those nightmares cease.
+
 ## The Spirit of Wisdom: Job
 
-The climax of Job’s final
-speech is chapter 28. It is a mysterious hymn to wisdom.
+The climax of Job’s final speech is chapter 28. It is a mysterious hymn to wisdom.
 Since Solomon said that the heart of the Wise is in the
 House of Mourning, that makes Job, the book of mourning,
 the place where that heart beats strongest.
+
+#### “But where shall wisdom be found?
+##### And where is the place of understanding?"
+###### - Job 28:12
+
+Job lamented that not only did he not know the path to where wisdom may be found, nobody in this world did.
+Only God knows the way. How much we need and rejoice in this spirit! God has sent out the Spirit of Wisdom into the world.
+If you welcome it when it visits, that spirit will show you the way.
 
 ## The Spirit of Understanding: Proverbs
 
@@ -71,14 +90,35 @@ understanding by listing the attributes of all seven spirits:
 ##### the first of his acts of old."
 ###### - Proverbs 8:12-22
 
+Did you know that Lady Wisdom had a roommate? Her name is Prudence.
+Wisdom is never alone.
+
 ## The Spirit of Counsel: Song of Songs
 
 The most occurrences of counsel are found in Isaiah, eighteen in all.
-Isaiah is the prophet who lists the seven spirits of God in
-canonical order. Song of Songs has five "adjure" statements:
-2:7; 3:5; 5:8,9; 8:4. The book counsels people to learn by
-patience God’s timing for how to best approach life. Song of
-Songs speaks to the heart and the emotions.
+Isaiah is the prophet who lists the seven spirits of God in canonical order. 
+Song of Songs has five "adjure" statements: 2:7; 3:5; 5:8,9; 8:4. 
+The book counsels people to learn by patience God’s timing for how to best approach life. 
+Song of Songs speaks to the heart and the emotions.
+
+#### What is that coming up from the wilderness
+##### like **columns of smoke**,
+#### perfumed with **myrrh** and **frankincense**,
+##### with all the fragrant powders of a merchant?
+#### ...
+#### He made its posts of silver,
+##### its back of **gold**, its seat of purple;
+#### its interior was inlaid with love
+##### by the daughters of Jerusalem.
+###### - Song of Songs 3:6,10
+
+Some translations use "pillars of smoke" instead of "columns of smoke". This recalls the Pillar of Cloud that guided the
+Israelites by day during their time wandering in the wilderness. That pillar guided the people in safety and to safety.
+In this love poem, what does this guided one possess? Gold, frankincense and myrrh! Those are the gifts
+that the wise men from the east brought to Jesus. Normally, it is wise people who give the advice.
+However, remember the angel that told the wise men to return to their own country by a different route because King Herod
+wanted to kill the baby? It was the wise men who were the guided ones. Part of being wise is knowing when to listen
+to the wise counsel of others.
 
 ## The Spirit of Might: Ecclesiastes
 
