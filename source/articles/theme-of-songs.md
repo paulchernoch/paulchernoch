@@ -1,5 +1,6 @@
 ---
 title: The Theme of Songs in the Pillars of Wisdom
+quote: But no one says, ‘Where is God my Maker, <br/> who gives songs in the night <br/> - Job 35:10
 ---
 
 ## Songs
@@ -365,7 +366,6 @@ stages of life of the Growth Pattern:
 #### (Chorus)
 .
 #### (Shouted:)
-.
 ##### **PILLAR IN THE HOUSE!**
 
 <hr/>
