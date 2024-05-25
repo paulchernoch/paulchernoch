@@ -341,7 +341,7 @@ It describes the effects of a great earthquake caused by *"the fury of God's wra
 *"Every island fled away and the mountains could not be found."*
 No, God did not create a planet so big he couldn't move it.
 
-**Satisfying the Thirsty.** Psalm 104 shows the love of God by how he provides water to drink the animals he created:
+**Satisfying the Thirsty.** Psalm 104 shows the love of God by how he provides water to drink for the animals he created:
 
 #### He makes **springs pour water** into the ravines;
 ##### it flows between the mountains.
@@ -353,8 +353,8 @@ Then Revelation shows God's love, not for the beasts of the field, but for his c
 
 #### He said to me: 
 ##### “It is done. I am the Alpha and the Omega, the
-##### Beginning and the End. To the thirsty I will give 
-##### water without cost from the spring of the water of life.
+##### Beginning and the End. To the **thirsty** I will
+##### **give water without cost** from the spring of the water of life.
 ###### - Revelation 21:6
 
 **Of Ships and Sea Monsters.** All doubts about the closeness of the connections between Psalms and Revelation
