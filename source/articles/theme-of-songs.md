@@ -3,6 +3,10 @@ title: The Theme of Songs in the Pillars of Wisdom
 quote: But no one says, <br/> ‘Where is God my Maker, <br/> who gives songs in the night?' <br/> - Job 35:10
 ---
 
+
+<img class="center" src="images/singing-turtledove.png" />
+
+
 ## Songs
 
 The Seven Pillars utter too much about songs and
@@ -48,7 +52,7 @@ Elihu’s words in Job:
 #### but the rebellious live in a sun-scorched land.
 ###### - Psalm 68:5-6, NIV
 
-#### I remembered my songs in the night.
+#### I remembered my **songs in the night**.
 #### My heart meditated and my spirit asked:
 ##### “Will the Lord reject forever?
 ##### Will he never show his favor again?”
@@ -147,7 +151,7 @@ The whole book is one big song. However, two parts stand out. The first is the s
 of the word “singing”:
 
 #### The flowers appear on the earth,
-#### the time of singing has come,
+#### **the time of singing** has come,
 #### and the voice of the turtledove
 #### is heard in our land. 
 ###### - Song of Songs 2:12
@@ -225,8 +229,165 @@ laid. That is worth singing about.
 ## Songs in Revelation
 
 Revelation is full of singing. In “Aftertaste: Donner & Blitzen” we observed that hymns
-appear at every critical juncture. The strains of praise arise
-in each of the seven sections demarcated by thunder.
+appear at every critical juncture. The strains of praise arise in each of the seven sections demarcated by thunder.
+What is not obvious is the connection between those thunderings and the Psalms.
+
+  - There are seven Psalms of Thunder: 18, 29, 68, 77, 81, 93 & 104.
+  - There are seven sections in Revelation (excluding chapter 10) that conclude with thunder: 4:5, 6:1, 8:5, 11:19, 14:2, 16:18, 19:6.
+
+Each psalm that mentions thunder has phrasing and imagery that matches one section of Revelation.
+If each psalm matches exactly one section of Revelation but those psalms were arranged randomly in the Psalter, what
+would the chance be that if you ordered the psalms according to their matching parts of Revelation they
+would appear in ascending order? The answer for seven psalms is seven factorial, notated as:
+
+**7! = 1x2x3x4x5x6x7 = 5040**
+
+That number is large enough that the most logical conclusion is that the ordering was intentional.
+That means the connection between the Psalms and Revelation is tight and intentional.
+Here is the concordance between these Psalms and Revelation, where the Thunder Verse ends the section in Revelation:
+
+<hr/>
+
+<table class="psalms-to-revelation">
+  <tr>
+    <th>Psalm Verses</th>
+    <th>Revelation Verses</th>
+    <th>Thunder Verse</th>
+  </tr>
+  <tr>
+    <td>
+      18:4 <br/>
+      18:9-10
+    </td>
+    <td>
+       1:17-18 <br/>
+       1:7
+    </td>
+    <td>Rev 4:5</td>
+  </tr>
+  <tr>
+    <td>
+      29:1-2 <br/>
+      29:4
+    </td>
+    <td>
+      4:8 <br/>
+      4:11
+    </td>
+    <td>Rev 6:1</td>
+  </tr>
+  <tr>
+    <td>
+      68:11-12 <br/>
+      68:19-20
+    </td>
+    <td>
+      6:15 <br/>
+      7:10
+    </td>
+    <td>Rev 8:5</td>
+  </tr>
+  <tr>
+    <td>
+      77:11-12
+    </td>
+    <td>
+      11:5-6
+    </td>
+    <td>Rev 11:19</td>
+  </tr>
+  <tr>
+    <td>
+      81:8-9
+    </td>
+    <td>
+      13:4,8,12
+    </td>
+    <td>Rev 14:2</td>
+  </tr>
+  <tr>
+    <td>
+      93:2-5
+    </td>
+    <td>
+      14:2,3,6
+    </td>
+    <td>Rev 16:18</td>
+  </tr>
+  <tr>
+    <td>
+      104:5 <br/>
+      104:10-11 <br/>
+      104:25-26
+    </td>
+    <td>
+      16:18-20 <br/>
+      21:6 <br/>
+      18:17-18; 19:20
+    </td>
+    <td>Rev 19:6</td>
+  </tr>
+</table>
+<hr/>
+
+## Psalm 104 versus the Seventh Section in Revelation
+
+*Peace, like Solomon Never Knew* analyzes the correspondences between Revelation and all seven psalms in the table above.
+Here we shall just tackle Psalm 104.
+
+**Shaking the Foundations.** Psalms 104:5 says, *"He set the earth on its foundations; it can never be moved."*
+Are those foundations so steady that even God cannot move them? That would be a paradox! Revelation 16 gives us the answer.
+It describes the effects of a great earthquake caused by *"the fury of God's wrath"*, saying
+*"Every island fled away and the mountains could not be found."*
+No, God did not create a planet so big he couldn't move it.
+
+**Satisfying the Thirsty.** Psalm 104 shows the love of God by how he provides water to drink the animals he created:
+
+#### He makes **springs pour water** into the ravines;
+##### it flows between the mountains.
+#### They **give water to all** the beasts of the field;
+##### the wild donkeys **quench their thirst**.
+###### - Psalm 104:10-11
+
+Then Revelation shows God's love, not for the beasts of the field, but for his children:
+
+#### He said to me: 
+##### “It is done. I am the Alpha and the Omega, the
+##### Beginning and the End. To the thirsty I will give 
+##### water without cost from the spring of the water of life.
+###### - Revelation 21:6
+
+**Of Ships and Sea Monsters.** All doubts about the closeness of the connections between Psalms and Revelation
+vanish when you see this final comparison. Leviathan has long been associated with the Beast of the Sea,
+Satan's final beast. See how well Psalm and Prophecy align:
+
+#### **There is the sea**, vast and spacious,
+##### teeming with creatures beyond number—
+###### living things both large and small.
+#### **There the ships go to and fro**,
+##### and **Leviathan**, which you formed to frolic there.
+###### - Psalm 104:25-26
+
+In Revelation, the linkage is divided in two chapters:
+
+##### 'In one hour such great wealth has been brought to ruin!’
+#### **“Every sea captain, and all who travel by ship, the sailors, and**
+#### **all who earn their living from the sea**, will stand far off.
+#### When they see the smoke of her burning, they will exclaim, 
+##### ‘Was there ever a city like this great city?’
+###### - Revelation 18:17-18
+
+#### **But the beast was captured**, and with it the false prophet who had
+#### performed the signs on its behalf. With these signs he had deluded
+#### those who had received the mark of the beast and worshiped its image. 
+#### The two of them were thrown alive into the fiery lake of burning sulfur.
+###### - Revelation 19:20, NIV
+
+How incongruous that Psalms describes the scene so pacifically, while Revelation
+speaks of terrifying judgment. There is a divine perspective on things so foreign
+to our way of thinking that we cannot comprehend it.
+
+## Ransom and Treasure
 
 #### And they sang a new song, saying,
 ##### “Worthy are you to take the **scroll** and to open its seals,

@@ -124,6 +124,17 @@ table.creation td:nth-child(1), table.creation td:nth-child(2), table.creation t
   background-color: #f0f0ff;
 }
 
+/* Psalms to Revelation Comparison table */
+
+.psalms-to-revelation th {
+  background-color: #606080;
+  color: white;
+}
+
+.psalms-to-revelation tr:nth-child(even) {
+  background-color: #f0f0ff;
+}
+
 /* 
    Poetry
 
