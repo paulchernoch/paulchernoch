@@ -3,6 +3,8 @@ title: The Theme of Treasure in the Pillars of Wisdom
 quote: but lay up for yourselves treasures in heaven, <br/> where neither moth nor rust destroys <br/> and where thieves do not break in and steal. <br/> - Matthew 6:20
 ---
 
+<img class="center" src="images/treasure-or-trash.png" />
+
 In addition to discussing the theme of treasures in the books that constitute the Pillars of Wisdom,
 this article also sums things up. It derives a few insights from all seven themes, especially why
 Jesus is specially associated with two of the pillars, Wisdom and Knowledge. 
