@@ -2,6 +2,9 @@
 title: Dreams
 quote: For when dreams increase and words grow many, <br/> there is vanity; <br/> but God is the one you must fear. <br/> - Ecclesiastes 5:7
 ---
+
+<img class="center" src="images/tornado-dream.png" />
+
 This article shares what the author has learned about how to interpret dreams.
 The main takeaways are:
 
