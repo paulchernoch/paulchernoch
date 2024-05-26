@@ -377,10 +377,11 @@ In Revelation, the linkage is divided in two chapters:
 ##### ‘Was there ever a city like this great city?’
 ###### - Revelation 18:17-18
 
-#### **But the beast was captured**, and with it the false prophet who had
-#### performed the signs on its behalf. With these signs he had deluded
-#### those who had received the mark of the beast and worshiped its image. 
-#### The two of them were thrown alive into the fiery lake of burning sulfur.
+#### **But the beast was captured**, and with it the false prophet 
+#### who had performed the signs on its behalf. With these signs 
+#### he had deluded those who had received the mark of the beast 
+#### and worshiped its image. The two of them were thrown alive 
+#### into the fiery lake of burning sulfur.
 ###### - Revelation 19:20, NIV
 
 How incongruous that Psalms describes the scene so pacifically, while Revelation
@@ -391,7 +392,8 @@ to our way of thinking that we cannot comprehend it.
 
 #### And they sang a new song, saying,
 ##### “Worthy are you to take the **scroll** and to open its seals,
-##### for you were slain, and by your blood you **ransomed** people for God
+##### for you were slain, and by your blood 
+##### you **ransomed** people for God
 ##### from every tribe and language and people and nation”
 ###### - Revelation 5:9 ESV
 
