@@ -176,7 +176,7 @@ or more references to treasure.
 1. Ornaments and a string of jewels are in 1:10. In 1:4-5, references to King and Solomon indicate **Lordship**.
 2. In SS 1:11, earrings of gold with silver studs indicate the spirit of **Wisdom**. Gold emphasizes this spirit, because it is one of the two treasures associated with Jesus in Colossians 2. Myrrh in 1:13 symbolizes Christ’s suffering in this plowing phase.
 3. In SS 2:3, "sit in his shade" has the Bride putting herself in a receptive position, "standing under". The reference to firstfruits (a Jewish religious festival) connects the passage to worship, hence the spirit of **Understanding**. This section includes verses 3:6,10, which have silver but also gold, frankincense and myrrh, the items brought by the three wise men when they went to worship baby Jesus.
-4. In SS 5:1-9 there is going back and forth about being patient about love. SHE is offering her friends Counsel. Myrrh appears three times in this section, in 5:1,5. How sweet the aroma of wise counsel!
+4. In SS 5:1-9 there is going back and forth about being patient about love. SHE is offering her friends **Counsel**. Myrrh appears three times in this section, in 5:1,5. How sweet the aroma of wise counsel!
 5. In 5:10-6:10, SHE describes the appearance of her Beloved. Giving only the precious items, there are seven:
 
    1. finest **gold**
@@ -188,7 +188,7 @@ or more references to treasure.
    7. alabaster (or marble) pillars on bases of **gold**
 
 The Bride says of these qualities that "they overwhelm
-me". SHE is overawed by his Might. The analogies to parts
+me". SHE is overawed by his **Might**. The analogies to parts
 of her lover’s body given in this passage are eight, but the
 hair, eyes and cheeks are not matched to precious things,
 but instead doves, milk, spices, and the like. The
@@ -274,7 +274,8 @@ special.
 3. Ecclesiastes 2:22-4:6. This section is graced by the poem about the times. The words that follow that poem are about the worshipful heart, hence are animated by the spirit of **Understanding**.
 
 #### For to the one who pleases him God has given **wisdom** 
-#### and **knowledge** and joy. (2:26a)
+#### and **knowledge** and joy.
+###### - Ecclesiastes 2:26a
 #### ...
 #### He has made everything beautiful in its time. 
 #### Also, he has put **eternity into man's heart**,
@@ -287,7 +288,7 @@ special.
 #### That which is, already has been; 
 #### that which is to be, already has been; 
 #### and God seeks what has been driven away.
-###### (3:11,14-15)
+###### - Ecclesiastes 3:11,14-15
 
 Note that verse 2:26 speaks of “wisdom and
 knowledge”. Once again, we see the pairing from
@@ -305,12 +306,12 @@ treasure: envy.
 
 #### Two are better than one... 
 ##### a threefold cord is not quickly broken.
-###### (4:9-12)
+###### - Ecclesiastes 4:9-12
 
 #### Better was a poor and wise youth 
 #### than an old and foolish king 
-#### who no longer knew how to take advice. 
-###### (4:13)
+#### who no longer knew how to take **advice**. 
+###### - Ecclesiastes 4:13
 
 Solomon continues by giving advice about wealth and
 riches in 5:8-20. They are about not embracing
