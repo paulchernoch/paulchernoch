@@ -653,7 +653,7 @@ pillars, thus tying them all together:
 That is all. The Seven Pillars of Wisdom have been
 named, interconnections followed, and their separate
 purposes explained. As parts they have been arranged into
-a harmonious whole: the harvest pattern. So what? When I
+a harmonious whole: the harvest pattern. **So what?** When I
 was a management consultant, they drilled that two-word
 question into us. By the end of every business proposal,
 email, or slide deck you must answer that question. Why
@@ -716,7 +716,7 @@ critical questions can they answer?
 
 **Did the Bible prophesy when the parables about time in Ecclesiastes would be unsealed?**
 
-How do you avoid the implication of Jesus’ denial of knowledge in Matthew?
+**How do you avoid the implication of Jesus’ denial of knowledge in Matthew?** 
 *“But concerning that day and hour no one knows, not even the angels of heaven, nor the Son, but the Father only.”* (Matthew 24:36 ESV)
 
 **What purpose was served by marking the second and sixth treasures as belonging specially to Jesus?**

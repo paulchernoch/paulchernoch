@@ -230,3 +230,5 @@ in "Appendix H: Clues to the Seven Pillars":
 As you read the sections of this article given above, you will see that the connections between these books 
 are not lines in a mathematical proof. They are not evidence in a court case. They are insights into
 questions whose answers many people have sought for long and hard. One section even has something to say about the rapture!
+
+The final section, [Theme of Treasures](./theme-of-treasures.html), concludes with a final wrap up for all the themes.
