@@ -395,21 +395,21 @@ else would mourn, for it is written:
 7. Ecclesiastes 9:9-12:14. These words speak of the end,
 of when we die. Concluding as it does with the dictum,
 “Fear God and keep his commandments”, this section
-belongs to the spirit of the Fear of the Lord. Solomon’s
+belongs to the spirit of **the Fear of the Lord**. Solomon’s
 words drip with irony when he speaks about the
 magical power of mankind’s greatest treasure: money.
 
 #### “Bread is made for laughter, 
 ##### and wine gladdens life, 
-###### and money answers everything.” 
+###### and **money** answers everything.” 
 ###### (10:19)
 
 What we treasure and what God treasures are poles
 apart. God does not mourn the loss of money or its
 equivalents. He shows His valuation in the last chapter:
 
-#### “before the silver cord is snapped,
-##### or the golden bowl is broken…” 
+#### “before the **silver** cord is snapped,
+##### or the **golden** bowl is broken…” 
 ###### (12:6)
 
 The silver that is silver and the gold that is gold is the life
