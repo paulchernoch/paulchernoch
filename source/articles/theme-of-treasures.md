@@ -7,7 +7,7 @@ quote: but lay up for yourselves treasures in heaven, <br/> where neither moth n
 
 In addition to discussing the theme of treasures in the books that constitute the Pillars of Wisdom,
 this article also sums things up. It derives a few insights from all seven themes, especially why
-Jesus is specially associated with two of the pillars, Wisdom and Knowledge. 
+Jesus is specially associated with two of the Spirits of God, the Spirits of Wisdom and Knowledge. 
 
 ## Treasures
 
