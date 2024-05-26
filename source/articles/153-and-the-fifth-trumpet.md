@@ -2,6 +2,8 @@
 title: 153 and the Fifth Trumpet
 quote: on their heads were what looked <br/> like crowns of gold; <br/> their faces were like human faces, <br/> their hair like women's hair <br/> - Revelation 9:7b-9a
 ---
+<img class="center" src="images/fifth-trumpet.png" />
+
 ## The Fifth Trumpet of Revelation
 
 It is time to move from Habakkuk to Revelation. Habakkuk described five empires that would oppress Israel. This part of Revelation describes the crisis that destroyed the fifth, the Ottoman Empire, last of the Islamic Empires. 
