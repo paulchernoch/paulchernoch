@@ -444,11 +444,11 @@ growth pattern or the harvest pattern is dominant. This
 raises the question of how to weigh the two patterns in
 each of the seven pillars.
 
-  - In Psalms, the overall structure is unclear. This book (*Peace, like Solomon Never Knew*) has restricted itself to critical subsets. The historical psalms encase a growth pattern but their larger structure is the harvest. Other Psalms, like Psalm 23, are solely patterned after the harvest.
-  - In Job, the growth pattern only appears in the latter twenty-eight chapters. The whole of the book is governed by the harvest pattern.
-  - In Proverbs, Song of Songs, and Ecclesiastes – all written by Solomon – the growth pattern is the dominant pattern structuring each book.
-  - Matthew is chaptered according to the growth pattern, yet contains at least seventeen instances of the harvest pattern, making that its major one.
-  - Revelation is subtle. The order in which I discovered the patterns in Revelation may not be decisive, but it informs my assessment. First, I spotted the seven thunders, then was able to split the book by the thunders into a harvest pattern. Only after that pattern was clear did the growth pattern come into focus. Conversely, after those discoveries, I noted that the seven signs in the Gospel of John form a chiasm with Revelation. The structure they reveal matches the growth pattern clearly but the harvest less distinctly. Taken altogether, the themes of growth and harvest are blended so well, I cannot choose a dominant one. Revelation describes the end of time, the completion of all growth and the final harvest.
+  - In *Psalms*, the overall structure is unclear. This book (*Peace, like Solomon Never Knew*) has restricted itself to critical subsets. The historical psalms encase a growth pattern but their larger structure is the harvest. Other Psalms, like Psalm 23, are solely patterned after the harvest.
+  - In *Job*, the growth pattern only appears in the latter twenty-eight chapters. The whole of the book is governed by the harvest pattern.
+  - In *Proverbs*, **Song of Songs**, and **Ecclesiastes** – all written by Solomon – the growth pattern is the dominant pattern structuring each book.
+  - *Matthew* is chaptered according to the growth pattern, yet contains at least seventeen instances of the harvest pattern, making that its major one.
+  - *Revelation* is subtle. The order in which I discovered the patterns in Revelation may not be decisive, but it informs my assessment. First, I spotted the seven thunders, then was able to split the book by the thunders into a harvest pattern. Only after that pattern was clear did the growth pattern come into focus. Conversely, after those discoveries, I noted that the seven signs in the Gospel of John form a chiasm with Revelation. The structure they reveal matches the growth pattern clearly but the harvest less distinctly. Taken altogether, the themes of growth and harvest are blended so well, I cannot choose a dominant one. Revelation describes the end of time, the completion of all growth and the final harvest.
 
 (NOTE: When I wrote *Plague, Precept, Prophet, Peace*, I discovered and disclosed much more of the structure of Psalms.)
 
@@ -579,7 +579,7 @@ is divided into pieces by thunder.
 #### and odours, and ointment, and frankincense, 
 #### and wine, and oil, and fine flour, and wheat, 
 #### and cattle, and sheep, and of horses, and of chariots, 
-#### and of bodies and souls of men.
+#### and of **bodies and souls of men**.
 ###### - Revelation 18:12-13, YLT
 
 A wise person said in Proverbs something that ties
@@ -641,7 +641,7 @@ pillars, thus tying them all together:
   - **Copper** is *Counsel*, because of Solomon’s bronze pillars, Jachin and Boaz, and his authorship of Proverbs, which names and numbers the Pillars of Wisdom. (Bronze is copper alloyed with tin.)
   - **Lapis Lazuli** is *Might*, because it was Issachar's stone, and Issachar is a strong donkey, lying down between the sheepfolds (Genesis 49:14). Also, the Ten Commandments may have been carved in Lapis Lazuli, God's mighty throne rests upon lapis lazuli, and Isaiah 54:11-13 says that the foundations of the new Jerusalem will be made from this stone. The chest is also the part of the body associated with strength with all its muscles and the heart that beats there, and in Song of Songs, the chest of the Lover is described as decorated with Lapis Lazuli.
   - **Gold dust** is *Knowledge*, for Job 22:22-25 and Isaiah 54 treasure 6 compare gold to being “taught by the Lord”. As for Proverbs, it says, *“Take my instruction instead of silver, and knowledge rather than choice gold.”* (Proverbs 8:10 ESV)
-**All its treasures / Every precious treasure**. This must match *the Fear of the Lord*, because the end of Revelation has the most glorious listing of treasure and Proverbs, Ecclesiastes, Psalms and all the prophets agree that the Fear of the Lord is the primary cause that leads to every good thing.
+  - **All its treasures / Every precious treasure**. This must match *the Fear of the Lord*, because the end of Revelation has the most glorious listing of treasure and Proverbs, Ecclesiastes, Psalms and all the prophets agree that the Fear of the Lord is the primary cause that leads to every good thing.
 
 
 In Progress...
