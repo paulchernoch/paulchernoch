@@ -3,6 +3,9 @@ title: A Riddle of 153 Fish
 sub: John 21
 quote: So Simon Peter ... hauled the net ashore, <br/> full of large fish, 153 of them. <br/> And although there were so many, <br/>the net was not torn. - John 21:11
 ---
+
+<img class="center" src="images/catching-fish.png" />
+
 #### 1 After this Jesus revealed himself again to the disciples 
 #### by the Sea of Tiberias, and he revealed himself in this way. 
 #### 2 Simon Peter, Thomas (called the Twin), Nathanael of 

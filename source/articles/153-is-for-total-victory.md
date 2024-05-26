@@ -2,6 +2,9 @@
 title: 153 is for Total Victory
 quote: So Simon Peter ... hauled the net ashore, <br/> full of large fish, 153 of them. <br/> And although there were so many, <br/>the net was not torn. - John 21:11
 ---
+
+<img class="center" src="images/catching-fish.png" />
+
 This number is different from the others. It poses a great riddle which took weeks to unravel.
 All other numbers in this section of the website were described in the chapter "To Number Our Days" in *Peace, like Solomon Never Knew*.
 This number was instead explored in *Plague, Precept, Prophet, Peace* in the chapter "Answering Habakkuk". 
