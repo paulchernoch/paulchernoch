@@ -8,6 +8,7 @@ quote: And the angel of the Lord came again <br/> a second time and touched him 
 ## The Journey Begins
 
 The moment Adam and Eve were expelled from Eden, mankind embarked upon a journey.
+Like Thomas Cole's painting above, it is a dark journey into a terrifying wilderness.
 It is our collective journey back to Eden. Some people are trying to force their way in.
 They wage war against God and hope to vanquish him and seize a place in paradise.
 Others have given up. They surrendered all hope and pursue transitory pleasures to kill
