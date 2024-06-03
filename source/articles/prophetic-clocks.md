@@ -84,8 +84,10 @@ regular clock is the best we can hope for. Is such a hope realistic?
 Yes!
 
 In my books, I patiently set down the case that God has included scores of prophetic clocks in the
-Bible to guide, warn and encourage those who love and trust in Him. The rest of this article 
+Bible to guide, warn and encourage those who love and trust in Him. The next part of this article 
 originally appeared as the chapter "The Shape of a Prophetic Clock" in *Plague, Precept, Prophet, Peace*.
+
+<hr/>
 
 ## The Shape of a Prophetic Clock
 
@@ -191,6 +193,92 @@ architecture for Lady Wisdom’s house.
 
 Note: In *Plague, Precept, Prophet, Peace* the next chapter outlined the architecture of Lady Wisdom's House.
 On this website, that is covered in [Blueprint for Lady Wisdom's House](./blueprint.html)
+
+<hr/>
+
+## Implications of the Prophetic Clocks
+
+Should the existence of these clocks be real and my interpretation fundamentally true, the implications
+are many and they are significant. In my books, I occasionally comment on them, but such conclusions are scattered about.
+Let's collect a few of them in one place. Once you see them, if you are not motivated to investigate these matters
+more closely, I have failed utterly as a communicator.
+
+**God keeps His promises**. Amos told us that God tells his prophet's everything. Everything has its limits, as the
+information content of God's entire plan exceeds our brain capacity. Everything does mean that down to a certain 
+level of detail, God has spelled out His plan for history, generation by generation, from beginning to end.
+
+**Human history is finite**. The full number of generations and years has been set. God knows that number and
+despite the reality of human freedom, we won't get any more than that. This makes every day precious. Don't waste yours.
+
+**All previous systems are wrong.** Theologians have proposed many systems of eschatology (theories about the end times).
+All of them are wrong. The ones that are least wrong are of the Historicist variety. My ideas spring from that fountain.
+
+**Waiting for the Millennial Kingdom is a futile hope.** Some churches teach that Jesus will come back and reign
+for a literal thousand years. He will subdue all the nations and usher in a time of righteousness, peace and prosperity.
+Other churches teach that this kingdom is merely an expression of the gospel spreading slowly until most of the earth believes.
+They say that the thousand years is a round number, symbolic, not literal. Both are wrong. The kingdom was literal 
+and the duration a literal thousand years. However, Jesus was present in spirit, in the hearts of his people, but not in bodily form. That awaits his Second Coming. The emphasis is on the past tense. That kingdom has already come and gone, meaning that...
+
+**Satan is unbound.** Satan was already bound for a thousand years and has been released. The time of binding coincided
+with the era of the Millennial Kingdom, roughly 380-1380 AD.
+
+**The Great Tribulation has already begun.** The four horsemen of the Apocalypse have already ridden forth.
+The fifth seal on the scroll of Revelation is about to be opened. This means that...
+
+**The rapture of the church will not precede the Tribulation.** Christ will descend to rescue his people from this world,
+but it will have to endure much of the Great Tribulation. I do not know whether the Mid-Tribulation or Post-Tribulation
+rapture is the correct view, but the Pre-Tribulation rapture view is wrong.
+
+**Most scientists are wrong about our origins.** The earth is less than seven thousand years old. Theories
+such as the Big Bang and macro-evolution are wrong. They hypothesize events that never happened.
+Prophetic clocks accurately predicted the future relative to the times when the prophets lived.
+Those same prophets included backwards looking statements embedded into the same chronological structure as their
+forward looking statements. Some of those clocks look all the way back to the Creation, establishing a date
+for that event that refutes all the scientific theories that contradict it. this means that...
+
+**If you trust the scientists on this matter, you will reject God's prophecies.** If those prophecies provide
+actionable warnings, you will not heed them and you will suffer. Furthermore, if you do not trust
+God's Word on this, you will not bother to investigate these matters further. Your unbelief will stop you cold.
+I have not finished passing through the whole Bible and arranging its prophecies according to these principles.
+There is much work that remains to be done. Will that knowledge, put into the Bible by God for such a time as this,
+be found and applied to the problems soon to be faced by the church? It won't be if people refuse to search for it
+because it forces them to admit that the world is not just misguided, it is hopelessly deluded about what
+is real and what is a lie, straight up to the most educated and brilliant of people who advise our leaders.
+
+**Colonialism was part of God's Plan.** The violent, thieving expansion of the Christian, European colonial empires
+was prophesied by John in Revelation and by Jesus in Matthew. For example, the Lord said this about nations who
+mistreat his missionaries:
+*"The king was angry, and he sent his troops and destroyed those murderers and burned their city."* (Matthew 22:7)
+It constitutes part of God's judgment of the wicked for their harsh treatment of the world towards the church.
+On the flip side, the Bible also predicts the ultimate judgement upon and loss of territory 
+by those same empires for exceeding their authority and enriching themselves unjustly. Whether you hate colonialism 
+or think it was a positive development in history, it was God's plan. The prophets were horrified that God
+appointed wicked Babylon to punish Israel. If this horrifies you, you are in good company.
+
+**The Subjection of Women and their liberation were both part of God's plan.** This subject is so huge
+that I devoted an entire section of the website to it. One small implication of this is that God 
+did not intend for women to serve as pastors or elders in the early church but does desire for them
+to serve as pastors and elders today. The changeover occurred during the 19th century. Thus the feminists
+who claim that a patriarchal early Church opposed God's perfect plan and wrongly prevented women from
+serving in leadership are wrong. On the other hand, traditionalists and complementarians who refuse to 
+allow women to hold such leadership positions in the modern church are equally wrong.
+Only a quantifiable prophetic timetable for God's staged plan for the liberation of women can account for this.
+The people who hold the three positions mentioned above lack such a timetable. Without it, there can be no
+resolution to the problem, for God does not hold either view.
+See [Against Complementarianism](./against-complementarianism.html) for details.
+
+**Solomon's time to hate is nearly here.** The times of history do not turn on a dime. The end of each time
+gives evidence of the shift to the next. Already the rifts in society are growing. Anti-semitism is on the rise.
+Anti-Christian bigotry, vandalism against church buildings and discrimination in the workplace and in schools 
+are increasingly common. This is not a fad. It will worsen for the rest of this century and continue well 
+into the next.
+
+That is enough of the implications for now. There are more. I do not list them for sport.
+The ideas on this website are hard to swallow. It is a certainty that at least a few of your treasured beliefs
+about Christianity or God will be upended if you adopt these views. That was the case for me.
+I have come to understand that things I believed deeply for many years were not just wrong but hurtful to people
+around me. I would love to continue to hold onto those old views and so conceal my shame, but I won't.
+The truth matters and it is both precious and powerful.
 
 ## Show me the Clocks!
 
