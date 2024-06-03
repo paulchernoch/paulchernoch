@@ -2,7 +2,7 @@
 title: Prophetic Clocks
 quote: For the Lord God does nothing <br/> without revealing his secret to <br/> his servants the prophets. <br/> - Amos 3:7
 ---
-<img class="center" src="images/dove-with-watch.png" />
+<img class="center" src="images/dove-and-watch.png" />
 
 ## The Desire for a Prophetic Clock
 
