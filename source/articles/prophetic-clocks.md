@@ -2,6 +2,8 @@
 title: Prophetic Clocks
 quote: For the Lord God does nothing <br/> without revealing his secret to <br/> his servants the prophets. <br/> - Amos 3:7
 ---
+<img class="center" src="images/dove-with-watch.png" />
+
 ## The Desire for a Prophetic Clock
 
 Abraham waited for a son. Israel waited for messiah's birth. The Church waits for Christ's return.
@@ -70,7 +72,7 @@ He add the additional hurdle of a math or logic puzzle? He can do so, of course,
 
 That leaves a simple description of history hidden behind a clever series of riddles. 
 What would the ideal message look like? If we got to choose how to structure God's 
-revelation to us of His plan for all history. what would it look like?
+revelation to us of His plan for all history, what would it look like?
 
   - It would be regular as a clock. 
   - It would sort events chronologically, from the first to the last.
