@@ -234,7 +234,7 @@ such as the Big Bang and macro-evolution are wrong. They hypothesize events that
 Prophetic clocks accurately predicted the future relative to the times when the prophets lived.
 Those same prophets included backwards looking statements embedded into the same chronological structure as their
 forward looking statements. Some of those clocks look all the way back to the Creation, establishing a date
-for that event that refutes all the scientific theories that contradict it. this means that...
+for that event that refutes all the scientific theories that contradict it. This means that...
 
 **If you trust the scientists on this matter, you will reject God's prophecies.** If those prophecies provide
 actionable warnings, you will not heed them and you will suffer. Furthermore, if you do not trust
@@ -249,7 +249,7 @@ is real and what is a lie, straight up to the most educated and brilliant of peo
 was prophesied by John in Revelation and by Jesus in Matthew. For example, the Lord said this about nations who
 mistreat his missionaries:
 *"The king was angry, and he sent his troops and destroyed those murderers and burned their city."* (Matthew 22:7)
-It constitutes part of God's judgment of the wicked for their harsh treatment of the world towards the church.
+It constitutes part of God's judgment of the wicked for their harsh treatment of the church.
 On the flip side, the Bible also predicts the ultimate judgement upon and loss of territory 
 by those same empires for exceeding their authority and enriching themselves unjustly. Whether you hate colonialism 
 or think it was a positive development in history, it was God's plan. The prophets were horrified that God
