@@ -164,7 +164,7 @@ Verse 4 above reveals that there are cycles of God's plan that are based on **co
 
 Verse 5 above reveals that there are cycles of God's plan that are based on **movements of the sun, hence counts of years**.
 
-Verse 9-10 above reveal that events that happened in the past mirror events later on, suggesting the mirrored
+Verses 9-10 above reveal that events that happened in the past mirror events later on, suggesting the mirrored
 symmetry of a **chiasm** that I had spotted years before.
 
 The above was the methodological evidence for my ideas. All that meant is that there are prophetic patterns 
@@ -486,8 +486,8 @@ women were forced to marry before the range from 21 to 28 years old - the Amity 
 proper time for marriage in Solomon's plan for life.)
 
 How does the preceding relate to Job? The entire book of Job is a parable about the suffering of women.
-It uses words specific to women's lives and struggles more than any other book in the Bible, words womb,
-conceive, and birth. Each chapter of Job thus matches an era of history that saw a metaphorical marriage,
+It uses words specific to women's lives and struggles more than any other book in the Bible, words like womb,
+conceived, birth, and nursed. Each chapter of Job thus matches an era of history that saw a metaphorical marriage,
 pregnancy and birth. That time period ran from the time when the Roman empire "married"" the Church
 to the time of a special "Childbearing". That childbearing was the birth of a new civilization, beginning
 with the Protestant Reformation and continuing onwards with the development of modern Western Civilization.
