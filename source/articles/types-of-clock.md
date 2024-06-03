@@ -1,5 +1,6 @@
 ---
 title: Types of Prophetic Clock
+quote: What has been will be again, <br/> what has been done will be done again; <br/> there is nothing new under the sun. <br/> - Ecclesiastes 1:9
 ---
 The majority of this article is lifted from the chapter "Solomon’s Clocks: Ecclesiastes 1" in *Peace, like Solomon Never Knew*.
 It names and describes several type of prophetic clock. 
@@ -25,6 +26,29 @@ So that was what I told God. What did He tell me? He told me to reread Ecclesias
 The Holy Spirit does not speak to me with audible words but with meaning. A few days later when I reread chapter 1 for my own reasons, 
 I found what I was looking for. The words were the same, but my mind was now illuminated. The words were also exactly where they ought
 to be in a treatise on time: at the beginning. They were hidden in plain sight.
+
+In what follows, I catalogue five types of clocks from the words in Ecclesiastes 1. I would later find that
+the one that began my search is a sixth. The symmetric pattern of history where events proceed in one order then repeat in reverse is given here:
+
+##### **What has been will be again**,
+##### **what has been done will be done again**;
+##### there is nothing new under the sun.
+###### - Ecclesiastes 1:9, NIV
+
+I call this pattern the Cosmic Chiasm. I first wrote of this idea in an Appendix in *Job Rises*. 
+A Chiasm is a poetic form where ideas proceed in one order then repeat in reverse order.
+It is also called symmetric parallelism.
+
+  - The "what has been" is the first half of the parallel structure.
+  - The "will be done again" is the second half.
+
+In my career as a software engineer, I have on several occasions thought up and implemented "new" algorithms
+to accomplish my work. Later I would discover that someone else published an article on an identical algorithm decades earlier.
+There truly is nothing new under the sun. This frustration at working so hard to do new and creative things only to find
+out that others have gone that way before is an existential one. It can provoke powerful emotions of despair and sap you of motivation.
+That emotion, a common experience among all peoples and all times, is the force that disguises the amazing truth behind Solomon's words.
+It is a potent emotional riddle. By calling this repetition meaningless and futile, Solomon hides this mystery from our sight.
+Recovering that meaning is as delightful as the emotion it builds upon is dreary.
 
 ## Solomon’s Clocks: Ecclesiastes 1
 
