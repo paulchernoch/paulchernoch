@@ -345,6 +345,7 @@ combined leadership of Samuel and Saul that lasted forty years. Saul himself rul
 only eight to ten years. Here are some results from Osgood (his Figure 30):
 
 <hr>/>
+
 | Event | Year  |
 | :---- | ----: |
 | <hr/> | <hr/> |
@@ -374,6 +375,7 @@ only eight to ten years. Here are some results from Osgood (his Figure 30):
 | End of initial conquest 1400 BC  |  1400 BC |
 | Crossing Of Jordan 1406 BC  |  1406 BC |
 | The Exodus from Egypt 1446 BC  |  1446 BC |
+
 <hr/>
 
 *A chronological table for the history of Israel during the times of the Judges.*
