@@ -564,7 +564,7 @@ axial tilt. He created the first global projection of the world. His library was
 learning in the ancient world. In those days, God began to divulge to mankind the secrets
 of the heavens.
 
-## Chapter: 39
+### Chapter: 39
 
   - **Year range**: 90-40 BC
   - **Subjects**: Rome, Jerusalem
@@ -704,6 +704,11 @@ This prophecy is described in the following article on this website:
 
 [The Journey Pattern](./the-journey-pattern.md)
 
+That is all for Job's Anti-Jubilee Clock. It ended with the greatest Jubilee, the coming of Christ who forgives all out debts.
+
+You may be tempted to think that I cherry-picked the best prophecies to show here
+and that the ones I did not show are vague and weakly supported. No, I selected the prophecies from these chapters because 
+they were the shortest!
 
 <hr/>
 
@@ -722,7 +727,7 @@ This prophecy is described in the following article on this website:
   - Intervals: 42 (one per chapter of Job)
   - Period: 119 years (except Adam & Methuselah)
 
-
+<hr/>
 
 ## The Shepherd’s Clock
 
@@ -734,6 +739,7 @@ This prophecy is described in the following article on this website:
   - Intervals: 22 (one per 8 verse stanza)
   - Period: 119 years (except Adam & Methuselah)
 
+<hr/>
 
 ## The Cosmic Chiasm
 
@@ -746,6 +752,8 @@ This prophecy is described in the following article on this website:
   - Milestones: Creation to Second Coming of Christ
   - Intervals: 42
   - Period: 119 years (except Adam & Methuselah)
+
+<hr/>
 
 ## The Acrostic Clock
 
