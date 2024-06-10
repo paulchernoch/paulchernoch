@@ -344,7 +344,7 @@ surprising conclusion is that it was not Saul who reigned for forty years, it wa
 combined leadership of Samuel and Saul that lasted forty years. Saul himself ruled for
 only eight to ten years. Here are some results from Osgood (his Figure 30):
 
-<hr>/>
+<hr/>
 
 | Event | Year  |
 | :---- | ----: |
@@ -698,13 +698,19 @@ in this chart of ancient gematria by H. Churchyard:
 
 ![Gematria Chart](./images/gematria.png)
 
+<img class="center" src="images/gematria.png" alt="Gematria Chart by H. Churchyard" />
+
+<img class="center" src="images/number-of-the-months.png" alt="The Number of the Months chart" />
+
 Using the table of numerals and the Hebrew word for months you get “the number of
 the months” as 564. However, the word “months” is not what occurs in Job 3:6.
 Instead it uses the word “moons” with a value of 268, which as a figure of speech
 means months. The word “day” has a value of 56. Those two words overlap, having
 two letters in common. What if the verse is a rebus puzzle?
-Let it not rejoice among the days of the year;
-let it not come into the number of the months.
+
+#### **Let it not rejoice among the days of the year**;
+#### **let it not come into the number of the months**.
+
 “Let it not come into” might mean subtraction. “Let it not rejoice” is a negation of
 abundance. The two letters that “day” and “moons” share in common spell the word for
 sea or abundance: . Thus removing the set intersection of “day” and “moons” from
@@ -712,50 +718,52 @@ sea or abundance: . Thus removing the set intersection of “day” and “moons
 abundance, to a singular, signifying scarcity. The removed word is the abundance Job
 has lost. Here it is expressed as a mathematical expression using the set intersection
 operator ∩:
-English Hebrew Numerals Sum
-Months 40+10+300+200+6+8 564
-Month 300+200+6+8 514
-Moons 40+10+8+200+10 268
-Moon 8+200+10 218
-Day 40+6+10 56
-Sea, West, abundance 40+10 50
-Jericho 40+6+10+8+200+10 274
-162
-Job’s Anti-jubilee Clock, Defined
-∩ = = 50
+
+<img class="center" src="images/job-rebus.png" alt="Job's Rebus Puzzle" />
+
 If we turn it around and add all three letters of the word for “day” to “moon”, we get
 Jericho, whose conquest by the Jews was a cause for celebration.
+
 Why bring Jericho into this? Consider Joshua’s curse:
-Joshua laid an oath on them at that time, saying, “Cursed before the Lord be the man who rises up and
-rebuilds this city, Jericho.
-At the cost of his firstborn shall he
-lay its foundation,
-and at the cost of his youngest son
-shall he set up its gates.” (Joshua 6:26)
+
+#### Joshua laid an oath on them at that time, saying, 
+##### “Cursed before the Lord be the man who rises up and
+##### rebuilds this city, Jericho.
+##### At the cost of his firstborn shall he lay its foundation,
+##### and at the cost of his youngest son
+##### shall he set up its gates.”
+###### - Joshua 6:26
+
 Joshua did not want anyone to rebuild the ruined city of Jericho. Incredibly, Job 3
 alludes to the rebuilding of ruined cities and the abundance enjoyed by wicked kings:
-For then I would have lain down and been quiet;
-I would have slept; then I would have been at rest,
-with kings and counselors of the earth
-who rebuilt ruins for themselves,
-or with princes who had gold,
-who filled their houses with silver. (Job 3:13-15)
+
+#### For then I would have lain down and been quiet;
+##### I would have slept; then I would have been at rest,
+#### with kings and counselors of the earth
+##### who rebuilt ruins for themselves,
+#### or with princes who had gold,
+##### who filled their houses with silver.
+###### - Job 3:13-15
+
 Job’s was a ruined life. He did not believe he could ever rebuild it and enjoy the
 abundance that once was his. Job longed for but doubted that a year of Jubilee awaited
 him, to set him free from the troubles and fears enslaving him, to cancel his debt and add
 back the days that were stolen.
+
 The value of abundance is fifty. The solution to the riddle of Job 3 is fifty. Fifty people
 were privileged to be named in Matthew’s genealogy for Jesus Christ. Moses commanded
 that people be set free in the fiftieth year, the year of Jubilee. Thus Job, Moses and
 Matthew agree that overlapping fifty year Jubilees must define the clock leading from
 Abraham to the coming of the messiah, the greatest Jubilee of all.
-Caveats about Accuracy
+
+## Caveats about Accuracy
+
 We come at last to the guts of Job’s Anti-jubilee Clock. The start and end years are
 approximate. At the start, near the birth of Abraham, they may be off by as much as two
 centuries, but more likely by no more than fifty years. Near the end, the uncertainty
 shrinks to no more than twenty-five years. This is because the 41st generation must include
 Christ’s crucifixion, and as given here, it falls near the middle of that fifty-year era.
-163
+
 While the date ranges grow steadily more accurate the closer you come to the present, the
 correct assignment of Job’s chapters to Bible events follows a different pattern. We know
 from Matthew’s genealogy that the clock must begin with Abraham, so the earliest events
@@ -767,21 +775,28 @@ time of the Judges our chronologies become suspect once more for different reaso
 potentially overlapping ministries of the judges, the debate over how old Joshua was at the
 time of the Exodus, and when to place Ruth. Then once David becomes king, most events
 can be dated to within a decade and most errors disappear.
+
 This clock is to be understood as one-third history, two-thirds prophecy. Job likely lived
 between Abraham and Moses. Moses and Joshua were likely the ones who set the book in
 writing. The attribution to Moses is based on Jewish tradition, while the contribution of
 Joshua is inferred due to several phrases that occur in the Bible in only two books, Job and
 Joshua. Given this, any events hinted at in the first dozen chapters of Job were looking
 backward, not prophesying forward.
-The Headings
-Chapter. Identifies which chapter in Job is referenced.
-Year Ranges. Each era lasts fifty years and starts one year before the final year of the
+
+## The Headings
+
+**Chapter**. Identifies which chapter in Job is referenced.
+
+**Year Ranges**. Each era lasts fifty years and starts one year before the final year of the
 preceding era. This is because of the overlap inherent in a generational clock.
-Subjects. Names the persons who lived or events that occurred during this era which
+
+**Subjects**. Names the persons who lived or events that occurred during this era which
 are hinted at by the passage in Job.
-Cross-reference. Cites other Bible passages that connect to this chapter from Job in
+
+**Cross-reference**. Cites other Bible passages that connect to this chapter from Job in
 light of the prophetic clock.
-Discussion. Explains the connection between Job and the indicated subjects.
+
+**Discussion**. Explains the connection between Job and the indicated subjects.
 And at last, here are the inner workings of the clock that I searched for across most of a
 decade…
 
