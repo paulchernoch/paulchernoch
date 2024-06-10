@@ -25,7 +25,7 @@ In some cases, such essays have been expanded to include new insights.
   - [Plan](#Plan)
   - Preparing for a Harvest 
   - The Deep Need for an Answer 
-  - The Shape of a Prophetic Clock 
+  - [The Shape of a Prophetic Clock](./prophetic-clocks.html)
   - [Architecture of Lady Wisdom’s House](./blueprint.html)
   - Ecclesiastes 1: Taking Inventory 
   - Ecclesiastes 3: Knowing the Acceptable Time 
@@ -38,7 +38,7 @@ In some cases, such essays have been expanded to include new insights.
   - Freedom, Peace, Joy & Fear 
   - [Which Ten Commandments?](./which-ten-commandments.html)
   - A Diagnostic for Life 
-  - Job’s Anti-jubilee Clock, Defined 
+  - [Job’s Anti-jubilee Clock, Defined](./job-s-anti-jubilee-clock-defined.html)
   - Prophecies from Abraham to David: Job 1-20 
   - Prophecies from Solomon to Christ: Job 21-42 
   - Selah: Stop, Entreat, Listen, Apply, Hear
