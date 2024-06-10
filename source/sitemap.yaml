@@ -262,7 +262,12 @@
     parts:
     - title: Types of Clock
       dates: [2024-06-03]
-    - title: Generation Clocks
+    - title: Generational Clocks
+      dates: [2024-06-09]
+      parts:
+        - title: "Job's Anti-Jubilee Clock, Defined"
+          named: job-s-anti-jubilee-clock-defined.md
+          dates: [2024-06-09]
     - title: Celestial Clocks
     - title: Spiritual Clocks
     - title: Empire Clocks
