@@ -799,7 +799,7 @@ light of the prophetic clock.
 And at last, here are the inner workings of the clock that I searched for across most of a
 decade…
 
-</hr>
+<hr/>
 
 For the list of all forty-two prophecies found in this clock 
 (or remembrances, for clock events that occurred before Job's time),
