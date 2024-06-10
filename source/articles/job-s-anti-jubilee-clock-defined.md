@@ -1,5 +1,6 @@
 ---
 title: Job's Anti-Jubilee Clock, Defined
+quote: Let it not rejoice among <br/> the days of the years; <br/> let it not come into <br/> the number of the months. - Job 3:6
 ---
 This article was originally published as the chapter "Job's Anti-Jubilee Clock, Defined" in *Plague, Precept, Prophet, Peace*.
 It solves a tricky riddle, tackles some chronology issues and makes the case for the existence of a prophetic clock
@@ -695,8 +696,6 @@ would like to rip that whole month out of the year. Or the author was being tric
 In ancient Hebrew, there was no separate set of numerals used for counting things or
 doing arithmetic. Instead, the letters of the alphabet each doubled as a number, as shown
 in this chart of ancient gematria by H. Churchyard:
-
-![Gematria Chart](./images/gematria.png)
 
 <img class="center" src="images/gematria.png" alt="Gematria Chart by H. Churchyard" />
 
