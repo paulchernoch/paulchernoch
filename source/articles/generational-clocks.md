@@ -107,6 +107,282 @@ See a record of that work here:
 
 [Job's Anti-Jubilee Clock, Defined](./job-s-anti-jubilee-clock-defined.html)
 
+This is a summary of all the eras covered by this clock. Since every chapter of Job matches an era of history,
+the Era number matches the chapter of Job that contains the Prophecy. The Bible References column will name
+specific verses in Job that are relevant to the prophecy, as well as name passages elsewhere in the Bible that
+also address this subject, sometimes with phrases that match thus establishing the link. 
+Also note that each era starts one year before the end of the previous era, which overlap is a defining feature
+of a Generational Clock.
+
+<table class="clocksummary">
+  <tr>
+    <th>Era #</th>
+    <th>Year Range</th>
+    <th>Bible References</th>
+    <th>Subject of Prophecy</th>
+  <tr>
+  <tr>
+    <td>1</td>
+    <td>1952-1902 BC</td>
+    <td>Job 1:5 <br/> 
+        Genesis 11:26</td>
+    <td>Abram</td>
+  <tr>
+  <tr>
+    <td>2</td>
+    <td>1903-1853 BC</td>
+    <td>Job 2:9-10 <br/>
+        Genesis 12, 15, 17, 18:9-15, 19</td>
+    <td>Abraham & Sarah</td>
+  <tr>
+  <tr>
+    <td>3</td>
+    <td>1854-1804 BC</td>
+    <td>Job 3:3 <br/>
+        Genesis 21</td>
+    <td>Isaac, Hagar, Ishmael</td>
+  <tr>
+  <tr>
+    <td>4</td>
+    <td>1805-1755 BC</td>
+    <td>Job 4:6,11-21 <br/>
+        Genesis 26:1-5</td>
+    <td>Isaac, Rebekah, Jacob, Esau</td>
+  <tr>
+  <tr>
+    <td>5</td>
+    <td>1756-1706 BC</td>
+    <td>Job 5:2, 8-13, 24-26 <br/>
+        Genesis 29-31 (esp. 30:37-31:16), 32:24-28, 37:3</td>
+    <td>Jacob, Laban, Leah, Rachel</td>
+  <tr>
+  <tr>
+    <td>6</td>
+    <td>1707-1657 BC</td>
+    <td>Job 6:10, 15-20, 22-24, 27 <br/> 
+        Genesis 37, 39-47</td>
+    <td>Joseph & his brothers</td>
+  <tr>
+  <tr>
+    <td>7</td>
+    <td>1658-1608 BC</td>
+    <td>Job 7:1-3, 9-12 <br/> Exodus 1:8-11</td>
+    <td>Israelites</td>
+  <tr>
+  <tr>
+    <td>8</td>
+    <td>1609-1559 BC</td>
+    <td>Job 8:4-7, 11-13 <br/> 
+        Exodus 1</td>
+    <td>Israelites</td>
+  <tr>
+  <tr>
+    <td>9</td>
+    <td>1560-1510 BC</td>
+    <td>Job 9:23-26 <br/> 
+        Exodus 2, 34</td>
+    <td>Moses</td>
+  <tr>
+  <tr>
+    <td>10</td>
+    <td>1511-1461 BC</td>
+    <td>Job 10:16-19 <br/> Exodus 2</td>
+    <td>Moses</td>
+  <tr>
+  <tr>
+    <td>11</td>
+    <td>1462-1412 BC</td>
+    <td>Job 11:4-10, 16-17, 20 <br/> 
+        The Pentateuch, Exodus 33:11, Deut 30:11-15</td>
+    <td>Moses</td>
+  <tr>
+  <tr>
+    <td>12</td>
+    <td>1413-1363 BC</td>
+    <td>Job 12:15, 17-25 <br/>
+        Joshua 10:12-14,11, Judges 10:7-8, Numbers 14:24,30</td>
+    <td>Joshua</td>
+  <tr>
+  <tr>
+    <td>13</td>
+    <td>1364-1314 BC</td>
+    <td>Job 13:6-22 <br/>
+        Judges 3:7-11</td>
+    <td>Othniel & Judges in general</td>
+  <tr>
+  <tr>
+    <td>14-15</td>
+    <td>1315-1265 BC <br/>
+        1266-1216 BC</td>
+    <td>Job 14:4-6,12, 15:5,9,20-22,24,27,31-32 <br/>
+        Judges 3:12-30, Acts 13:20-21</td>
+    <td>Ehud</td>
+  <tr>
+  <tr>
+    <td>16</td>
+    <td>1217-1167 BC</td>
+    <td>Job 16:5,7-8,16-17,19-21 <br/>
+        Judges 6:12, Ruth 1:1,19-21, 4:13-17</td>
+    <td>Ruth, Naomi, Gideon</td>
+  <tr>
+  <tr>
+    <td>17</td>
+    <td>1168-1118 BC</td>
+    <td>Job 17:5,8-9 <br/>
+        Judges 9</td>
+    <td>Abimelech</td>
+  <tr>
+  <tr>
+    <td>18</td>
+    <td>1119-1069 BC</td>
+    <td>Job 18:4-19 <br/>
+        Judges 11-16</td>
+    <td>Jephthah, Samson</td>
+  <tr>
+  <tr>
+    <td>19</td>
+    <td>1070-1020 BC</td>
+    <td>Job 19:9,23-27 <br/>
+        1 Samuel 4:10-22, 5, Exodus 33:15-20</td>
+    <td>Eli, Ichabod</td>
+  <tr>
+  <tr>
+    <td>20</td>
+    <td>1021-971 BC</td>
+    <td>Job 20:2-3,8,24-25,28 <br/>
+        1 Samuel 13:8-14, 30:5, 31:3-4</td>
+    <td>Saul, Samuel, David</td>
+  <tr>
+  <tr>
+    <td>21</td>
+    <td>972-922 BC</td>
+    <td></td>
+    <td>Solomon</td>
+  <tr>
+  <tr>
+    <td>22</td>
+    <td>923-873 BC</td>
+    <td></td>
+    <td>Jeroboam</td>
+  <tr>
+  <tr>
+    <td>23</td>
+    <td>874-824 BC</td>
+    <td></td>
+    <td>Elijah, Elisha</td>
+  <tr>
+  <tr>
+    <td>24</td>
+    <td>825-775 BC</td>
+    <td></td>
+    <td>A slave girl, Naaman, Elisha</td>
+  <tr>
+  <tr>
+    <td>25</td>
+    <td>776-726 BC</td>
+    <td></td>
+    <td>Jonah, Ashur-dan III</td>
+  <tr>
+  <tr>
+    <td>26-27</td>
+    <td>727-677 BC <br/>
+        678-628 BC</td>
+    <td></td>
+    <td>Israel, Egypt, Assyria, Babylon</td>
+  <tr>
+  <tr>
+    <td>28</td>
+    <td>629-579 BC</td>
+    <td></td>
+    <td>Hezekiah, Isaiah, Babylon</td>
+  <tr>
+  <tr>
+    <td>29</td>
+    <td>580-530 BC</td>
+    <td></td>
+    <td>Babylonian Exile continues</td>
+  <tr>
+  <tr>
+    <td>30</td>
+    <td>531-481 BC</td>
+    <td></td>
+    <td>Jerusalem</td>
+  <tr>
+  <tr>
+    <td>31</td>
+    <td>482-432 BC</td>
+    <td></td>
+    <td>Esther, Mordecai, Haman</td>
+  <tr>
+  <tr>
+    <td>32</td>
+    <td>433-383 BC</td>
+    <td></td>
+    <td>Socrates</td>
+  <tr>
+  <tr>
+    <td>33</td>
+    <td>384-334 BC</td>
+    <td></td>
+    <td>Malachi</td>
+  <tr>
+  <tr>
+    <td>34</td>
+    <td>335-285 BC</td>
+    <td></td>
+    <td>Alexander the Great</td>
+  <tr>
+  <tr>
+    <td>35</td>
+    <td>286-236 BC</td>
+    <td></td>
+    <td>Eratosthenes, Euclid</td>
+  <tr>
+  <tr>
+    <td>36</td>
+    <td>237-187 BCs</td>
+    <td></td>
+    <td>Archimedes, Synagogues</td>
+  <tr>
+  <tr>
+    <td>37</td>
+    <td>188-138 BC</td>
+    <td>The Septuagint</td>
+    <td></td>
+  <tr>
+  <tr>
+    <td>38</td>
+    <td>139-89 BC</td>
+    <td></td>
+    <td>Hasmonean Kingdom, Rome</td>
+  <tr>
+  <tr>
+    <td>39</td>
+    <td>90-40 BC</td>
+    <td></td>
+    <td>Rome, Jerusalem</td>
+  <tr>
+  <tr>
+    <td>40</td>
+    <td>41 BC-10 AD</td>
+    <td></td>
+    <td>Rome, Egypt</td>
+  <tr>
+  <tr>
+    <td>41</td>
+    <td>9-59 AD</td>
+    <td></td>
+    <td>Leviathan, Jesus Christ</td>
+  <tr>
+  <tr>
+    <td>42</td>
+    <td>58-108 AD</td>
+    <td></td>
+    <td>The Church</td>
+  <tr>
+</table>
+
+
 Here are some representative prophecies from "Prophecies from Abraham to David: Job 1-20":
 
 <hr/>
