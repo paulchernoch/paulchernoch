@@ -361,7 +361,7 @@ After this summary table, a few of the prophecies will be spelled out in detail.
   <tr>
     <td>39</td>
     <td>90-40 BC</td>
-    <td>Job 39:9-12,19-24,27-30 <br/> Isaiah 11:6, Habakkuk 1:8, Zephaniah 3:3, Ezekiel 22:25-27, Psalm 80:12-13</td>
+    <td>Job 39:9-12,19-24,27-30 <br/> Isaiah 11:6, Habakkuk 1:8, Zephaniah 3:3, <br/> Ezekiel 22:25-27, Psalm 80:12-13</td>
     <td>Rome, Jerusalem</td>
   <tr>
   <tr>
@@ -1008,6 +1008,350 @@ they were the shortest!
   - Milestones: Creation to Second Coming of Christ
   - Intervals: 42 (one per chapter of Job)
   - Period: 119 years (except Adam & Methuselah)
+
+### On Subjectivity
+
+The scale of the prophetic content in Job grew on me slowly over a period of years. After finding Job's "Job description for a savior",
+which named nine aspects of Jesus' ministry in chronological order, I entertained the possibility that there were more such clocks.
+This clock I found before the previous one (Job's Anti-Jubilee Clock). After the idea occurred to me, I set out to prove it.
+That meant trying to find at least one prophecy in each chapter of Job. That required a lot of digging. The clock runs from the Creation
+to Christ's second coming - all of human history!
+
+A common criticism of attempts to match Bible statements to history is how subjective such correspondences are.
+On the surface, many verses can be matched to multiple events throughout history. The same criticism can be leveled against my matches,
+but with a difference. By dividing Job into forty-two parts and matching each to an era of history, I reduce the number of
+years that could contain an event that matches a passage from over six thousand years to just 119 years. This focusing effect
+diminishes the likelihood of a false match.
+
+A second lens that focuses our attention is the Bible. For eras that preceded the Babylonian exile, the matching event must be
+one recorded in the Bible or alluded to by it. Some eras of history are scarcely mentioned in the Bible. A few verses or a chapter in 
+one book may be all that the Bible has to say about that era. For one of Job's prophecies to match an event in one of those 
+obscure generations by chance is unlikely.
+
+A third lens appears on the other side of history, for eras that follow the birth of the Church. Those events must be related to 
+the Church, Christian nations, the Jews or modern Israel. Again, this so limits the pool of possible matching events that
+when a match is found, most subjectivity has been removed.
+
+The fourth lens is significance. If the Word predicts a plague, history is replete with plagues. The clock based on the Ten Commandments
+matches the plague of boils to the era of the Black Plague. That ranks as history's worst plague. Many of the prophecies in the clocks
+match the most extreme example in history of the type of event predicted. Such rankings testify to the objectivity of the
+clock interpretations. In this clock, for example, Job 12 prophecies a drought. It lines up with the Great Drought of the 13th century BC
+that was spoken of in the book of Ruth. This is considered to have been the worst drought in recorded history. It ended the Bronze age, 
+brought down empires and led to the such disorder that every major city in the eastern Mediterranean from Greece to Egypt was burned to the ground. 
+
+The odds that the forty-two chapters of Job would all have such prophecies that match historical events in chronological sequence 
+by chance is vanishingly small.
+
+All that is great, but finding the matches was hard. I am not the first person to try to mine sequential Bible chapters, paragraphs 
+or verses for prophecies arrayed in chronological order. Years ago I read a book by J.R. Church, 
+[Hidden Prophecies in the Psalms: I Will Open My Dark Saying Upon The Harp](https://www.amazon.com/Hidden-Prophecies-Psalms-Saying-Psalm/dp/0941241009).
+He tried to match each Psalm to a year of the twentieth century. A few Psalms matched their assigned year well but the rest were not convincing,
+even to a credulous twenty-something. That soured me on the idea for decades. I would eventually make successful prophetic use of the Psalms in a 
+systematic way in *Plague, Precept, Prophet, Peace*. To get there, I had to start with a narrow focus, Psalm 119 by itself. Next, I
+tackled the Historic Psalms and a few others. Later came the Thunder Psalms. Only after repeated attempts to discover the structure of the Psalms,
+which is the most complicated Bible book by far, did I find a large structure spanning the whole book that incorporated fifty psalms (with gaps)
+and another that made use of the first twenty-eight (without gaps). The punchline is this: even if you believe that a book contains a prophetic
+clock and scrutinize its parts, if you do not guess the correct start and end years and number of periods, you will fail. It is impossible test all possible
+combinations. That is why deciphering Solomon's poem was essential. It helped me crack several riddles and got me close with a few more.
+
+### Back to Job
+
+Early on, I had identified a dozen or so reasonable matches for this clock in Job, but was still not convinced. 
+My matches included the crucifixion of Christ and the Babylonian Exile. The Bible has so many prophecies of those
+two events that finding them in the "right" chapters of Job proves nothing. Other matches were vague. 
+I needed to find a rare but significant event so rich in prophetic details that the match was beyond questioning. 
+When I reached Job 20, the clock parameters defined the corresponding era as falling in the years 338-219 BC. 
+Without that timing information, I would never have discovered what was prophesied, the identity of a blasphemous ruler who died a painful death.
+Previously, it was after I solved a series of Bible riddles that I inferred the clock that arranged them into a clock sequence.
+With Job 20, for the first time I cracked a mystery using the clock itself to guide me. In science, a good hypothesis is one that enables you
+to make accurate predictions about things not previously measured. In such cases, an experiment can be conducted after making 
+the prediction which can confirm or reject the hypothesis. Job 20 confirmed my hypothesis. After that, I leaned heavily on the clock definitions
+to tell me where in history to look for the fulfillment of prophecy. The result was the discovery of hundreds of prophecies that have
+already come to pass. Many of those prophecies were not previously identified as such. Others were known to be prophecies by nobody had yet
+figured out when they came true.
+
+Here is a list of all forty-two eras for this clock, which runs from the Creation until Christ's return.
+After that we will look at the mysterious ruler whose death was foreordained by Job 20, plus a few more 
+prophecies from Job that are part of this clock.
+
+Some of the eras are grouped together below. They correspond to runs of chapters having the same speaker in Job.
+One of the most surprising discoveries was that the tone of the speaker in Job dictates the the tenor of the times.
+A good speaker speaks of better times, while a bad speaker speaks of worse times. Thus Satan's chapters (one and two) were the
+worst of times and match the fall of man and Noah's flood. Job's chapters were better times while his friends' chapters were worse times. 
+The times matching the speeches of Elihu and God also have their own distinct flavor.
+
+<table class="clocksummary">
+  <tr>
+    <th>Era #</th>
+    <th>Year Range</th>
+    <th>Bible References</th>
+    <th>Subject of Prophecy</th>
+  <tr>
+  <tr>
+    <td>1-2</td>
+    <td>4020-2361 BC</td>
+    <td>Job 1-2 <br/> 
+        </td>
+    <td>Exile from Eden</td>
+  <tr>
+  <tr>
+    <td>3</td>
+    <td>2361-2242 BC</td>
+    <td>Job 3 <br/> 
+        </td>
+    <td>Origin of Slavery</td>
+  <tr>
+  <tr>
+    <td>4-5</td>
+    <td>2242-2004 BC</td>
+    <td>Job 4-5 <br/> 
+        </td>
+    <td>First beastly empire of Nimrod, Tower of Babel, <br/>
+        decline in human lifespan</td>
+  <tr>
+  <tr>
+    <td>6-7</td>
+    <td>2004-1766 BC</td>
+    <td>Job 6-7 <br/> 
+        </td>
+    <td>Covenant with Abraham, Jacob toils for Laban</td>
+  <tr>
+  <tr>
+    <td>8</td>
+    <td>1766-1647 BC</td>
+    <td>Job 8 <br/> 
+        </td>
+    <td>Joseph sold into slavery in Egypt</td>
+  <tr>
+  <tr>
+    <td>9-10</td>
+    <td>1647-1409 BC</td>
+    <td>Job 9-10 <br/> 
+        </td>
+    <td>Moses saved in a papyrus basket, <br>
+        Joshua conquers Canaan</td>
+  <tr>
+  <tr>
+    <td>11</td>
+    <td>1409-1290 BC</td>
+    <td>Job 11 <br/> 
+        </td>
+    <td>Time of the Judges begins</td>
+  <tr>
+  <tr>
+    <td>12-14</td>
+    <td>1290-933 BC</td>
+    <td>Job 12-14 <br/> 
+        </td>
+    <td>Latter days of the Judges <br/>
+        Great Drought that ended the Bronze Age.</td>
+  <tr>
+  <tr>
+    <td>15</td>
+    <td>933-814 BC</td>
+    <td>Job 15 <br/> 
+        </td>
+    <td>Elijah</td>
+  <tr>
+  <tr>
+    <td>16-17</td>
+    <td></td>
+    <td>Job 16-17 <br/> 
+        </td>
+    <td>King Hezekiah versus Assyria, <br/>
+        Cyrus, king of Persia's decree to rebuild Jerusalem</td>
+  <tr>
+  <tr>
+    <td>18</td>
+    <td>576-457 BC</td>
+    <td>Job 18 <br/> 
+        </td>
+    <td>Mordecai, Esther and Haman</td>
+  <tr>
+  <tr>
+    <td>19</td>
+    <td>457-338 BC</td>
+    <td>Job 19 <br/> 
+        </td>
+    <td>Alexander the Great lays siege to Tyre</td>
+  <tr>
+  <tr>
+    <td>20</td>
+    <td>338-219 BC</td>
+    <td>Job 20 <br/> 
+        </td>
+    <td>Death of Alexander the Great</td>
+  <tr>
+  <tr>
+    <td>21</td>
+    <td>219-100 BC</td>
+    <td>Job 21 <br/> 
+        </td>
+    <td>Persecution by Antiochus IV Epiphanes <br/> 
+        Miracle of Hanukkah</td>
+  <tr>
+  <tr>
+    <td>22</td>
+    <td>100 BC - 19 AD</td>
+    <td>Job 22 <br/> 
+        </td>
+    <td>Birth of Jesus Christ</td>
+  <tr>
+  <tr>
+    <td>23</td>
+    <td>19-138 AD</td>
+    <td>Job 23 <br/> 
+        </td>
+    <td>Ministry, death and resurrection of Jesus Christ <br/>
+        Apostolic Age</td>
+  <tr>
+  <tr>
+    <td>24</td>
+    <td>138-257 AD</td>
+    <td>Job 24 <br/> 
+        </td>
+    <td>Roman Persecution</td>
+  <tr>
+  <tr>
+    <td>25</td>
+    <td>257-376 AD</td>
+    <td>Job 25 <br/> 
+        </td>
+    <td>Roman Persecution peaks, then is ended by Constantine</td>
+  <tr>
+  <tr>
+    <td>26</td>
+    <td>376-495 AD</td>
+    <td>Job 26 <br/> 
+        </td>
+    <td>Rome becomes a Christian Empire</td>
+  <tr>
+  <tr>
+    <td>27</td>
+    <td>495-614 AD</td>
+    <td>Job 27 <br/> 
+        </td>
+    <td>Plague of Justinian, Byzantine-Sasanian War<br/>
+        Benedictine Order founded</td>
+  <tr>
+  <tr>
+    <td>28</td>
+    <td>614-733 AD</td>
+    <td>Job 28 <br/> 
+        </td>
+    <td>Islam</td>
+  <tr>
+  <tr>
+    <td>29</td>
+    <td>733-852 AD</td>
+    <td>Job 29 <br/> 
+        </td>
+    <td>Charlemagne, Alcuin, John Scottus Eriugna</td>
+  <tr>
+  <tr>
+    <td>30</td>
+    <td>852-971 AD</td>
+    <td>Job 30 <br/> 
+        </td>
+    <td>King Wenceslas</td>
+  <tr>
+  <tr>
+    <td>31</td>
+    <td>971-1090 AD</td>
+    <td>Job 31 <br/> 
+        </td>
+    <td>The end of one season of sowing the gospel</td>
+  <tr>
+  <tr>
+    <td>32</td>
+    <td>1090-1209 AD</td>
+    <td>Job 32 <br/> 
+        </td>
+    <td>First Crusade</td>
+  <tr>
+  <tr>
+    <td>33</td>
+    <td>1209-1328 AD</td>
+    <td>Job 33 <br/> 
+        </td>
+    <td>Rules of war civilized though ransom <br/>
+        Saint Francis of Assisi </td>
+  <tr>
+  <tr>
+    <td>34</td>
+    <td>1328-1447 AD</td>
+    <td>Job 34 <br/> 
+        </td>
+    <td>Black Plague, collapse of Byzantium</td>
+  <tr>
+  <tr>
+    <td>35</td>
+    <td>1447-1566 AD</td>
+    <td>Job 35 <br/> 
+        </td>
+    <td>Reformation, Copernican Revolution, Renaissance</td>
+  <tr>
+  <tr>
+    <td>36</td>
+    <td>1566-1685 AD</td>
+    <td>Job 36 <br/> 
+        </td>
+    <td>English Civil War, Educational Revolution in England<br/>
+        Pilgrims settling America, innovations in Christian hymn writing <br/>
+        Little Ice Age, William Gilbert's work on electricity, <br/>
+        Ussher's work on Chronology, General Crisis of the 17th Century </td>
+  <tr>
+  <tr>
+    <td>37</td>
+    <td>1685-1804 AD</td>
+    <td>Job 37 <br/> 
+        </td>
+    <td>Little Ice Age continues, General Crisis of the 17th Century concludes <br/>
+        Great Awakening, American Revolution</td>
+  <tr>
+  <tr>
+    <td>38</td>
+    <td>1804-1923 AD</td>
+    <td>Job 38 <br/> 
+        </td>
+    <td>Righteous laws and social movements, like abolition of slavery <br/>
+        Napoleon's defeat at Waterloo <br/>
+        Roald Amundsen reaches South Pole,
+        Theory of Cloud Seeding <br/>
+        Electric power transmission, telegraph, telephone <br/>
+        Dominance of the British Empire, World War I</td>
+  <tr>
+  <tr>
+    <td>39</td>
+    <td>1923-2042 AD</td>
+    <td>Job 39 <br/> 
+        </td>
+    <td>Human needs met by great abundance <br/>
+        Labor movement, reduced infant and maternal mortality <br/>
+        Apollo Moon landing - "the eagle has landed"</td>
+  <tr>
+  <tr>
+    <td>40</td>
+    <td>2042-2161</td>
+    <td>Job 40 <br/> 
+        </td>
+    <td>Behemoth empire arises</td>
+  <tr>
+  <tr>
+    <td>41</td>
+    <td>2161-2280 AD</td>
+    <td>Job 41 <br/> 
+        </td>
+    <td>Leviathan empire arises</td>
+  <tr>
+  <tr>
+    <td>42</td>
+    <td>2280 AD - ?</td>
+    <td>Job 42 <br/> 
+        </td>
+    <td>Christ returns</td>
+  <tr>
+  </table>
 
 <hr/>
 
