@@ -88,6 +88,8 @@ If I did not have ready familiarity with these texts, this would never have happ
 such thing. If I ever was guided to make a connection, it was the Spirit amplifying memories that were already there. There is no substitute for
 years of patient Bible study and reflection.
 
+<img class="center" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" />
+
 ## Job's Anti-jubilee Clock
 
   - Bible book: Job
@@ -994,6 +996,8 @@ they were the shortest!
 
 <hr/>
 
+<img class="center" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" />
+
 ## Job’s Chapter Clock
 
   - Bible book: Job
@@ -1332,7 +1336,7 @@ The times matching the speeches of Elihu and God also have their own distinct fl
   <tr>
   <tr>
     <td>40</td>
-    <td>2042-2161</td>
+    <td>2042-2161 AD</td>
     <td>Job 40 <br/> 
         </td>
     <td>Behemoth empire arises</td>
@@ -1355,6 +1359,8 @@ The times matching the speeches of Elihu and God also have their own distinct fl
 
 <hr/>
 
+<img class="center" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" />
+
 ## The Shepherd’s Clock
 
   - Bible book: Psalm 119
@@ -1366,6 +1372,8 @@ The times matching the speeches of Elihu and God also have their own distinct fl
   - Period: 119 years (except Adam & Methuselah)
 
 <hr/>
+
+<img class="center" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" />
 
 ## The Cosmic Chiasm
 
@@ -1380,6 +1388,8 @@ The times matching the speeches of Elihu and God also have their own distinct fl
   - Period: 119 years (except Adam & Methuselah)
 
 <hr/>
+
+<img class="center" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" />
 
 ## The Acrostic Clock
 
