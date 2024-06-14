@@ -1155,14 +1155,17 @@ The times matching the speeches of Elihu and God also have their own distinct fl
     <td>11</td>
     <td>1409-1290 BC</td>
     <td>Job 11:10-12 <br/> 
-        Judges 5:10;6:4;15:14-17;19:1-30;21:25</td>
+        Judges 5:10;6:4;15:14-17; <br/>
+        Judges 19:1-30;21:25</td>
     <td>Time of the Judges begins <br/>
         People are as stubborn as donkeys</td>
   <tr>
   <tr>
     <td>12-14</td>
     <td>1290-933 BC</td>
-    <td>Job 12:15-17;13:1,3-4,15,27; 14:7-9,21-23 <br/> 
+    <td>Job 12:15-17; <br/>
+        Job 13:1,3-4,15,27; <br/>
+        Job 14:7-9,21-23 <br/> 
         Ruth 1:1; Samuel 1; Isaiah 11:1</td>
     <td>Latter days of the Judges, especially Samson. <br/>
         Great Drought that ended the Bronze Age. <br/>
@@ -1180,7 +1183,8 @@ The times matching the speeches of Elihu and God also have their own distinct fl
     <td>16-17</td>
     <td>814-576 BC</td>
     <td>Job 16:11-17;17:3,5,11-16 <br/> 
-        2 Kings 19; 2 Chronicles 36:23; Jeremiah 13:16,29:10-11</td>
+        2 Kings 19; 2 Chronicles 36:23; <br/>
+        Jeremiah 13:16,29:10-11</td>
     <td>King Hezekiah versus Assyria. <br/>
         Cyrus, king of Persia's decree to rebuild Jerusalem.</td>
   <tr>
@@ -1224,6 +1228,7 @@ The times matching the speeches of Elihu and God also have their own distinct fl
     <td>22</td>
     <td>100 BC - 19 AD</td>
     <td>Job 22:2-4,28-30 <br/> 
+        Malachi 4:2<br/>
         John 8:12,12:32</td>
     <td>Birth of Jesus Christ, <br/>
         the Light of the World <br/>
@@ -1232,111 +1237,125 @@ The times matching the speeches of Elihu and God also have their own distinct fl
   <tr>
     <td>23</td>
     <td>19-138 AD</td>
-    <td>Job 23 <br/> 
-        </td>
-    <td>Ministry, death and resurrection of Jesus Christ <br/>
-        Apostolic Age</td>
+    <td>Job 23:3-12,17 <br/>
+        Matthew 6:11,27:45 <br/>
+        John 13:33 <br/>
+        Revelation 14:14</td>
+    <td>Ministry, death and resurrection of Jesus Christ. <br/>
+        Darkness during the crucifixion.
+        Apostolic Age.</td>
   <tr>
   <tr>
     <td>24</td>
     <td>138-257 AD</td>
     <td>Job 24 <br/> 
         </td>
-    <td>Roman Persecution</td>
+    <td>Roman Persecution of Christians.</td>
   <tr>
   <tr>
     <td>25</td>
     <td>257-376 AD</td>
-    <td>Job 25 <br/> 
+    <td>Job 25:1-6 <br/> 
         </td>
-    <td>Roman Persecution peaks, then is ended by Constantine</td>
+    <td>Roman Persecution peaks, then is ended by Constantine.</td>
   <tr>
   <tr>
     <td>26</td>
     <td>376-495 AD</td>
-    <td>Job 26 <br/> 
-        </td>
-    <td>Rome becomes a Christian Empire</td>
+    <td>Job 26:2-4,10-13 <br/> 
+        1 Kings 7:21 <br/>
+        Daniel 2:3</td>
+    <td> "How you have helped him who has no power!" - Job 26:2 <br/>
+         By the Edict of Thessalonica (380 AD), Rome becomes a Christian Empire.</td>
+         God "pierced the fleeing serpent", binding Satan. <br/>
+         Rome split in two, East and West, as Daniel prophesied.
   <tr>
   <tr>
     <td>27</td>
     <td>495-614 AD</td>
-    <td>Job 27 <br/> 
+    <td>Job 27:13-18,20-23 <br/> 
         </td>
-    <td>Plague of Justinian, Byzantine-Sasanian War<br/>
-        Benedictine Order founded</td>
+    <td>Plague of Justinian. <br/>
+        Byzantine-Sasanian War.<br/>
+        Benedictine Order founded.</td>
   <tr>
   <tr>
     <td>28</td>
     <td>614-733 AD</td>
-    <td>Job 28 <br/> 
+    <td>Job 28:16,19-21 <br/> 
         </td>
-    <td>Islam</td>
+    <td>Islam. <br/>
+        Venerable Bede.</td>
   <tr>
   <tr>
     <td>29</td>
     <td>733-852 AD</td>
-    <td>Job 29 <br/> 
-        </td>
-    <td>Charlemagne, Alcuin, John Scottus Eriugna</td>
+    <td>Job 29:21,25 <br/> 
+        Inscription on Alcuin's Tomb</td>
+    <td>Charlemagne.
+        Alcuin, wrote on Ethics (subject of Job 29).
+        John Scottus Eriugna, wrote on freedom.</td>
   <tr>
   <tr>
     <td>30</td>
     <td>852-971 AD</td>
-    <td>Job 30 <br/> 
+    <td>Job 30:3 <br/> 
         </td>
     <td>King Wenceslas</td>
   <tr>
   <tr>
     <td>31</td>
     <td>971-1090 AD</td>
-    <td>Job 31 <br/> 
+    <td>Job 31:7-10,38-40 <br/> 
         </td>
-    <td>The end of one season of sowing the gospel</td>
+    <td>The end of one season of sowing the gospel, <br/>
+        including the Baptism of Rus in Kiev.</td>
   <tr>
   <tr>
     <td>32</td>
     <td>1090-1209 AD</td>
-    <td>Job 32 <br/> 
+    <td>Job 32:5-6,14,17-19 <br/> 
         </td>
-    <td>First Crusade</td>
+    <td>"his anger was aroused": the First Crusade.</td>
   <tr>
   <tr>
     <td>33</td>
     <td>1209-1328 AD</td>
-    <td>Job 33 <br/> 
+    <td>Job 33:23-24 <br/> 
         </td>
-    <td>Rules of war civilized though ransom <br/>
-        Saint Francis of Assisi </td>
+    <td>Rules of war civilized though ransom. <br/>
+        Saint Francis of Assisi. </td>
   <tr>
   <tr>
     <td>34</td>
     <td>1328-1447 AD</td>
-    <td>Job 34 <br/> 
-        </td>
-    <td>Black Plague, collapse of Byzantium</td>
+    <td>Job 34:6-7,20-21 <br/> 
+        Revelation 3:2</td>
+    <td>Black Plague: "his arrow inflicts an incurable wound". <br/>
+        Advance of Ottoman Empire and Collapse of Byzantium.</td>
   <tr>
   <tr>
     <td>35</td>
     <td>1447-1566 AD</td>
-    <td>Job 35 <br/> 
-        </td>
-    <td>Reformation, Copernican Revolution, Renaissance</td>
+    <td>Job 35:5,9-11 <br/> 
+        2 Corinthians 3:17</td>
+    <td>Reformation, Copernican Revolution, Renaissance.</td>
   <tr>
   <tr>
     <td>36</td>
     <td>1566-1685 AD</td>
-    <td>Job 36 <br/> 
+    <td>Job 36:6-7,16,22,24,26-28,30,32-33 <br/> 
         </td>
-    <td>English Civil War, Educational Revolution in England<br/>
-        Pilgrims settling America, innovations in Christian hymn writing <br/>
-        Little Ice Age, William Gilbert's work on electricity, <br/>
-        Ussher's work on Chronology, General Crisis of the 17th Century </td>
+    <td>English Civil War, Educational Revolution in England.<br/>
+        Pilgrims settling America, innovations in Christian hymn writing. <br/>
+        Little Ice Age, William Gilbert's work on electricity. <br/>
+        Ussher's work on Chronology. <br/>
+        General Crisis of the 17th Century. </td>
   <tr>
   <tr>
     <td>37</td>
     <td>1685-1804 AD</td>
-    <td>Job 37 <br/> 
+    <td>Job 37:2-10,19-20,22 <br/> 
         </td>
     <td>Little Ice Age continues, General Crisis of the 17th Century concludes <br/>
         Great Awakening, American Revolution</td>
