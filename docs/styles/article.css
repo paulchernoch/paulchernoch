@@ -247,3 +247,23 @@ img.center {
   width: 75%; /* Adjust as needed */
   height: auto;
 }
+
+/*
+  Image stripe placed to the right of a Number.
+*/
+div.numbered-image {
+  position: relative; 
+  display: flex; 
+  align-items: center;
+}
+
+img.numbered-image {
+  width: 95%; 
+  height: auto;
+}
+
+p.numbered-image {
+  margin-left: 5px; 
+  margin-right: 20px; 
+  font-size: 100px;
+}

@@ -88,7 +88,10 @@ If I did not have ready familiarity with these texts, this would never have happ
 such thing. If I ever was guided to make a connection, it was the Spirit amplifying memories that were already there. There is no substitute for
 years of patient Bible study and reflection.
 
-<img class="center" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" />
+<div class="numbered-image">
+  <p class="numbered-image">1</p>
+  <p><img class="numbered-image" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" /></p>
+</div>
 
 ## Job's Anti-jubilee Clock
 
@@ -996,7 +999,10 @@ they were the shortest!
 
 <hr/>
 
-<img class="center" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" />
+<div class="numbered-image">
+  <p class="numbered-image">2</p>
+  <p><img class="numbered-image" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" /></p>
+</div>
 
 ## Job’s Chapter Clock
 
@@ -1357,9 +1363,10 @@ The times matching the speeches of Elihu and God also have their own distinct fl
   <tr>
   </table>
 
-<hr/>
-
-<img class="center" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" />
+<div class="numbered-image">
+  <p class="numbered-image">3</p>
+  <p><img class="numbered-image" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" /></p>
+</div>
 
 ## The Shepherd’s Clock
 
@@ -1371,9 +1378,11 @@ The times matching the speeches of Elihu and God also have their own distinct fl
   - Intervals: 22 (one per 8 verse stanza)
   - Period: 119 years (except Adam & Methuselah)
 
-<hr/>
 
-<img class="center" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" />
+<div class="numbered-image">
+  <p class="numbered-image">4</p>
+  <p><img class="numbered-image" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" /></p>
+</div>
 
 ## The Cosmic Chiasm
 
@@ -1389,7 +1398,10 @@ The times matching the speeches of Elihu and God also have their own distinct fl
 
 <hr/>
 
-<img class="center" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" />
+<div class="numbered-image">
+  <p class="numbered-image">5</p>
+  <p><img class="numbered-image" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" /></p>
+</div>
 
 ## The Acrostic Clock
 
