@@ -1017,7 +1017,7 @@ they were the shortest!
   - Chapters in book that describe it:
     - **Let’s Synchronize Our Watches**
     - **Dialogue with History: Job 1-19**
-    - **CSI Babylon: Job 20**
+    - [CSI Babylon: Job 20](./alexander-the-great.html)
     - **The Second Half: Job 21-37**
     - **Father Time: Job 38-42**
   - Time span: 4020 BC–2280 AD
@@ -1413,9 +1413,31 @@ It is impossible to believe this without seeing how detailed and accurate some o
 What follows is a sampling drawn from the following chapters in *Peace, like Solomon Never Knew*:
 
   - Dialog with History: Job 1-19
-  - CSI Babylon: Job 20
+  - [CSI Babylon: Job 20](./alexander-the-great.html)
   - The Second Half: Job: 21-37
   - Father Time: Job 38-42
+
+Predictive prophecy is a prominent target for those wishing to deny the supernatural and undermine trust in the truthfulness of Scripture.
+A common tactic is to argue that if a prophecy is undeniably detailed and accurate, it must have been written after the
+event happened. The earliest Old Testament fragments only date back to the time of the Dead Sea Scrolls (3rd century BC to first century AD).
+The earliest New Testament testament fragments date back to the second century AD and the earliest complete New Testament (Codex Sinaiticus)
+to the third century. Thus critics of Bible prophecy argue from silence. According to them, any prophecies of events that occurred
+before the time of Christ can be discounted.
+
+The more than two score prophetic clocks that I have found refute their arguments. If events from the last thousand years were
+prophesied then there is no way for them to use this argument. Furthermore, if a whole sequence of prophecies in an unbroken strand
+from ancient to modern times exists, then the accuracy of the newer prophesies proves more than just the truthfulness and divine origin
+of the prophet's words about recent times. The prophecies of later times, being structurally bound to the prophecies of older times, 
+prove that those earlier prophecies were written down before the events happened. The clock structure makes the whole set of prophecies
+an all-or-nothing deal. It is God's secret anti-counterfeiting measure. If a later deceiver inserted a chapter, it would break the clock.
+If they removed a chapter, it would break the clock. If they altered a true prophecy or tried to insinuate a prophecy of their own,
+it would corrupt a structure they did not even know about. It is like an art forger who tried to imitate a painting but didn't know
+that the true artist signed his work with a pigment that glows under a black lamp.
+
+The preceding is preamble to one of the most remarkable prophecies I have discovered so far: Job 20. To my knowledge, no one has ever
+spotted this prophecy. Read about it here:
+
+[The Death of Alexander the Great](./alexander-the-great.html)
 
 
 

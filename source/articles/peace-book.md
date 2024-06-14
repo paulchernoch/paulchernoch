@@ -72,7 +72,7 @@ expands upon the chapter or merely has a short excerpt of that chapter.
   - Months of Futility
   - Marking Time with Job
   - Dialogue with History: Job 1-19
-  - CSI Babylon: Job 20
+  - [CSI Babylon: Job 20](./alexander-the-great.html)
   - The Second Half: Job 21-37
   - Father Time: Job 38-42
   - Generations Come and Go
