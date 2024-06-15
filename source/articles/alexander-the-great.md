@@ -7,7 +7,7 @@ quote: He will not look upon the rivers, <br/> the streams flowing with honey an
 
 <div class="numbered-image">
   <p class="numbered-image">?</p>
-  <p><img class="numbered-image" src="images/nine-worthies.png" alt="Pebbles on a beach with clock faces" /></p>
+  <p><img class="numbered-image" src="images/nine-worthies.jpg" alt="14th-century carving Nine Good Heroes in Cologne, Germany" /></p>
 </div>
 
 <hr/>
