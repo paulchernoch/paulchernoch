@@ -148,7 +148,7 @@ contributing to his death: Satan.
 His corpse was encased in a sarcophagus filled with honey! (Honey deters the
 decomposition of dead bodies.)
 
-**Verse 18**.* “What he toiled for he must give back uneaten; he will not enjoy the profit from his trading.”*
+**Verse 18**. *“What he toiled for he must give back uneaten; he will not enjoy the profit from his trading.”*
 Alexander eventually lost his appetite. Metaphorically,
 it means he never enjoyed ruling over the empire he
 conquered.
@@ -245,8 +245,9 @@ Notes:
 
 #### “You have an example of this in Alexander the Great, who, 
 #### not content with the sovereignty of one world, groaned on learning 
-#### that there were more worlds.” He made no claim that Job
-#### 20 was prophetic, but his observation is confirmatory.
+#### that there were more worlds.” 
+
+He made no claim that Job 20 was prophetic, but his observation is confirmatory.
 
 ## Answer to the Statuary Riddle:
 
