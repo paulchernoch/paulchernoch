@@ -1527,14 +1527,39 @@ He set up a gallows so that he could kill a Jew named Mordechai, but ended up be
 
 One reason these prophetic clocks are difficult to interpret is that to get the full prophetic understanding
 of an era, you must overlay the results from multiple clocks. By combining all the details, you see enough to
-convince you that they are real. For example, in Solomon's Celestial Clock, this verse corresponds to the era in 
-which Esther lived:
+convince you that they are real. In Solomon's Celestial Clock, the story of Esther falls during "a time to kill".
+Proud Haman longed to kill Mordechai and all the Jews. In *Plague, Precept, Prophet, Peace*, another structure
+in Job is revealed. Successive speeches in Job correspond to God's judgments against a series of ten empires,
+one for each of the ten commandments. The judgement for breaking the sixth commandment, "Thou shalt not kill",
+falls on the sixth kingdom in the series, which is Medo-Persia. Here is a quote from the chapter 
+"The Meaning of the Beasts of Job":
+
+#### All these empires practiced murder, but the Achaemenid dynasty 
+#### of Persia took it to a whole new level. From Cyrus the Great 
+#### to Artaxerxes V, about thirteen kings (depending on who is counting) 
+#### reigned from thrones drenched in blood. Seven were assassinated. 
+#### One was executed by Alexander the Great. One died later from a wound
+#### inflicted by a would-be assassin. One died in war. At least three
+#### killed family members or high-ranking noblemen. Artaxerxes III 
+#### took the cake, slaughtering eighty family members to secure the throne.
+#### This lust for murder explains the casual way that Xerxes (likely 
+#### the ruler when Esther was queen) initially agreed to Haman’s plan 
+#### for genocide against all the Jews in the Book of Esther.
+#### Yes, Persia needed to be taught the sixth commandment.
+#### What if you add to this the fact that Mordecai uncovered and 
+#### stopped a plot against the king, thus preventing his murder? 
+#### **God displays his holiness and mercy even against murderous kings.**
+
+We can add to this results from the clock explored in the chapter "Solomon's Sundial", 
+where this verse of Ecclesiastes corresponds to the era in which Esther lived:
 
 #### Wisdom gives strength to the wise man 
 ##### more than ten rulers who are in a city.
 ###### - Ecclesiastes 7:19
 
-The wise man who was strengthened was Mordechai. The "ten rulers who are in a city" were Haman's ten sons.
+The wise man who was strengthened was Mordechai. What was the evidence of his wisdom?
+He loved his enemy, a king who oppressed his people, by disclosing a plot aginst him.
+Surely this was a wisdom taught him by God. The "ten rulers who are in a city" were Haman's ten sons.
 When they perished along with him, their family line ended. You do not need strength in numbers to win if
 the One True God fights for you.
 
@@ -2026,12 +2051,11 @@ the Great War.
 ##### and wander about for lack of food?
 ###### - Job 38:41, NIV
 
-God provided food for the raven, from the corpses
-littering the battlefields of Europe. The end of Job 38
-announced the end of the great kingdoms and empires of Europe.
+God provided food for the raven, from the corpses littering the battlefields of Europe. 
+The end of Job 38 announced the end of the great kingdoms and empires of Europe.
 
-If you combine what we learn here in Job 38 with Solomon's Celestial Clock, we understand what God was doing
-in this era. According to Solomon, this era was "A time to speak". It was the church doing the speaking.
+If you combine what we learn here in Job 38 with the results from other clocks, we better understand what God was doing
+in this era. According to Solomon's Celestial Clock, this era was "A time to speak". It was the church doing the speaking.
 In this era, God gave the church the telegraph, telephone and radio to facilitate the spread of the gospel.
 Humans needed to master the science of electromagnetism so that we could create these inventions.
 All that is named here, as well as the adventurous spirit to travel even to the South Pole in pursuit of this goal.
