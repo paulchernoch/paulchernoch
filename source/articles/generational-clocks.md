@@ -1439,7 +1439,630 @@ spotted this prophecy. Read about it here:
 
 [The Death of Alexander the Great](./alexander-the-great.html)
 
+Now here are a few shorter and sometimes subtler prophecies.
 
+### Chapter: Job 9
+
+  - **Year range**: 1647-1528 BC
+  - **Subjects**: Moses
+  - **Cross-reference**: Exodus 2
+  - **Discussion**:
+
+#### “My days are swifter than a runner;
+##### they fly away without a glimpse of joy.
+#### They skim past like boats of **papyrus**,
+##### like eagles swooping down on their prey.
+###### - Job 9:25-26, NIV
+
+The unintended irony of Job! He likens the swiftness of a boat made of papyrus – swift because it is so light –
+to the course of his life; Job expected to die soon. In this era, what role did a boat of papyrus play? 
+Not exactly a boat, a basket of papyrus rescued Moses from drowning in the Nile.
+
+Later in the first generation of this era, Moses rescued his people from Egypt. 
+
+#### “who alone stretched out the heavens and trampled the waves of the sea...” (9:8)
+
+Is that not a poetic image of the people crossing the Red Sea?
+
+### Chapter: Job 12
+
+  - **Year range**: 1290-1171 BC
+  - **Subjects**: Famine during Ruth's lifetime
+  - **Cross-reference**: Ruth 1:1
+  - **Discussion**:
+
+This era fell in the middle of the time of the Judges, during the life of Ruth and Naomi.
+In Ruth 1:1, we learn there was famine in the land. See what Job says: 
+
+#### If he withholds the waters, they dry up;
+##### if he sends them out, they overwhelm the land. 
+##### - Job 12:15
+
+You might say, “Anyone can predict a drought. They come all the time. Big deal.” 
+Not so. Scientists concerned about global warming are attempting to
+reconstruct ancient climates so as to understand our own times. They conclude that sometime between
+1250 and 1150 BC, the Ancient Near East endured the fifty year “Great Drought”, the worst in recorded
+history. It ended the Bronze Age, shattered empires and was the cause of the famine that made Ruth and
+Naomi leave their home for Israel. Every major city between Pylos in Greece and Gaza was burned to the ground.
+
+For more on this, see:
+
+Smith, Roff. “Drought Led to Collapse of Civilizations, Study Says: Study of fossilized pollen helps solve an intriguing historical mystery.”
+National Geographic. 2013. Referenced on Jan. 12, 2031 from [https://www.nationalgeographic.com/news/2013/10/131024-drought-bronze-age-pollen-archaeology/](https://www.nationalgeographic.com/news/2013/10/131024-drought-bronze-age-pollen-archaeology/)
+
+### Chapter: Job 18
+
+  - **Year range**: 576-457 BC
+  - **Subjects**: Haman's genocidal plot against the Jews
+  - **Cross-reference**: Esther
+  - **Discussion**:
+
+Job talks about a scheming man who suffers the fate he had intended to inflict on others:
+
+#### His strong steps are shortened,
+##### and **his own schemes throw him down**.
+#### **For he is cast into a net by his own feet**,
+##### and he walks on its mesh.
+#### A trap seizes him by the heel;
+##### a snare lays hold of him.
+#### **A rope** is hidden for him in the ground,
+##### a trap for him in the path...
+#### He is torn from the tent in which he trusted
+##### and is brought to **the king of terrors**...
+#### His roots dry up beneath,
+##### and his branches wither above.
+#### His memory perishes from the earth,
+##### and he has no name in the street.
+#### He is thrust from light into darkness,
+##### and driven out of the world.
+#### **He has no posterity or progeny among his people**,
+##### **and no survivor where he used to live**.
+###### - Job 18:7-11,14,16-19
+
+Who was caught in his own trap? Who hung from a rope? Who ran afoul of a king? 
+Whose children perished along with him, ending his family line? It was Haman, who was bested 
+by Mordecai and Esther around 473 BC. In the Book of Esther, this influential court official 
+persuaded the King of Persia to allow him and his allies to exterminate the Jewish people.
+He set up a gallows so that he could kill a Jew named Mordechai, but ended up being hung on it himself.
+
+One reason these prophetic clocks are difficult to interpret is that to get the full prophetic understanding
+of an era, you must overlay the results from multiple clocks. By combining all the details, you see enough to
+convince you that they are real. For example, in Solomon's Celestial Clock, this verse corresponds to the era in 
+which Esther lived:
+
+#### Wisdom gives strength to the wise man 
+##### more than ten rulers who are in a city.
+###### - Ecclesiastes 7:19
+
+The wise man who was strengthened was Mordechai. The "ten rulers who are in a city" were Haman's ten sons.
+When they perished along with him, their family line ended. You do not need strength in numbers to win if
+the One True God fights for you.
+
+### Chapter: Job 24
+
+  - **Year range**: 138-257 AD
+  - **Subjects**: Roman Persecution of Christians
+  - **Cross-reference**: Revelation 2:8-11
+  - **Discussion**:
+
+The 24th generation was a mixed one. The church
+spread, but so did persecution. In other generations, the
+subject of the prophecy was a king, a conqueror, or the
+savior. This time, the subject is the suffering church. In Job 24, Job is angry at 
+the mistreatment of the poor who do not receive justice or relief from their oppressors. 
+If you compare the hardships Job describes, persecuted Christians
+endured all of them. Rather than get lost in the poetry, here is 
+a dry recitation of the afflictions listed in Job 24:
+
+  - theft of land, flocks, donkeys, oxen
+  - restricted freedom of movement
+  - enslavement
+  - loss of protection
+  - lack of work opportunities
+  - no clothes or shelter
+  - loss of money & possessions
+  - children seized to pay a debt
+  - lack of food & drink
+  - poor health
+  - poor emotional well-being (groaning, crying out)
+  - loss of life
+
+Paul listed many of these trials in Romans 8 and the
+writer of Hebrews listed more in Hebrews 11 when he spoke
+of the heroes of the faith. Looking back to the seven pieces
+of peace based on Ecclesiastes 3, these depredations attack
+all seven. In spite of such opposition, this generation of
+history ended with Christians entering into the forty year
+long “little peace of the church”. God listened to Job’s plea
+after all.
+
+Do not miss the implications of this chapter of Job. Thousands of years in advance,
+God knew the suffering that His church would endure. Any who believe in God accept that 
+He knows all things. That is not why God tells us these things. He tells us
+these things so that we can know how much He cares. He tells us these things so that
+we can know He has a plan to fix the world and that this plan takes our feelings,
+our dashed dreams and crushed spirits into account. His is not a mechanical and impersonal plan.
+It is a personal and an intimate plan for our restoration. God can handle our toughest questions:
+
+#### Why are not times of judgment kept by the Almighty,
+##### and why do those who know him never see his days?
+###### - Job 24:1
+
+He does set those times and He keeps them. We shall surely see His days come to pass.
+
+### Chapter: Job 26
+
+  - **Year range**: 376-495 AD
+  - **Subjects**: Rome becomes a Christian Empire
+  - **Cross-reference**: Revelation 2:12-17
+  - **Discussion**:
+
+Job 26 has this to say:
+
+#### **“How you have helped him who has no power**!
+##### **How you have saved the arm that has no strength**!
+#### How you have counseled him who has no wisdom,
+##### and plentifully declared sound knowledge!
+#### With whose help have you uttered words,
+##### and **whose breath** has come out from you?
+###### - Job 26:2-4
+
+Though Job was mocking his opponents, this describes
+what God was doing for his church in the 26th generation.
+By making Rome a Christian empire, he helped a powerless
+church. By providing ample resources and sending the
+breath of God – the Holy Spirit – God raised up great
+thinkers to counsel the church.
+
+#### He has inscribed a circle on the face of the waters
+##### at the boundary between light and darkness.
+#### The pillars of heaven tremble
+##### and are astounded at his rebuke.
+###### - Job 26:10-11
+
+The “face of the waters” represents the people of the world. The circle is the Mediterranean world of Rome.
+Outside that circle was the darkness of ignorance and unbelief, inside, the light of the gospel.
+During this time, Rome split into two pillars, East and West. This mirrors Daniel’s prophecy of the statue with the
+head of gold. The parts of the statue corresponding to Rome were the legs of iron.
+
+#### "And he set up the pillars in the porch of the temple:
+#### and he set up the right pillar, and called the name thereof Jachin: 
+#### and he set up the left pillar, and called the name thereof Boaz."
+###### - 1 Kings 7:21
+
+Solomon’s temple also had two main pillars. Jachin signifies *he shall establish*. 
+As the right pillar, it was the Eastern Roman Empire of Byzantium. For its history, 
+it represented the establishment church, with the tightest connection between church and state.
+Boaz signifies *in him is strength*. This is the Western Roman Empire. Though it fell first politically 
+and fought for centuries to survive the chaos of the mass migrations of Germanic and other peoples 
+and attendant political instability, the west proved stronger, and became the agent
+to spread the gospel to the greatest part of the earth. In the west, the church fought hard to be freed 
+of the corrupting control of the state and finally succeeded.
+
+#### By his power he stilled the sea;
+##### by his understanding he shattered Rahab.
+#### By his wind the heavens were made fair;
+##### his hand pierced the fleeing serpent.
+###### - Job 26:12-13
+
+Rahab has multiple meanings in the Bible. It can mean
+insolence or pride, be a terrible sea serpent, or refer to the
+woman of Jericho who protected the Israelite spies. It also
+refers to Egypt. During this period, the church of
+Alexandria reached the zenith of its influence within the
+empire. Thus the shattering of Rahab could mean the
+victory of the church over hostile forces within Egypt, such
+as the Arian heresy, which began in Alexandria.
+
+Since verse 13 refers to a fleeing serpent, Rahab here is
+either a synonym for Leviathan, or a different beastly
+empire posing similar danger to the faithful. In Job 41, God
+challenges Job to pierce Leviathan with a fishhook. No
+mortal can, but the immortal God can. What occurred in
+this generation? Satan was bound (following the Edict of
+Thessalonica in AD 380), causing him to lose control over the 
+Roman Empire. The empire was caught on a fishhook, hence it
+could be controlled and guided by the fisherman.
+Remember how Jesus told his disciples that he would make
+them “fishers of men”? The heirs of Saint Peter caught a really big fish!
+
+This is not a trifling prophecy that Job was given. God took a weak, persecuted people in thrall
+to the greatest and longest lasting empire the world has ever known and
+turned that power over to them. This is the ultimate example of "How you have helped him who has no power".
+Despite this, how many people do you know that turn to Job to understand God's prophetic plan for the world?
+I read Job for years and saw NONE OF THIS. That is how spiritually deaf we are.
+
+### Chapter: Job 36
+
+  - **Year range**: 1566-1685 AD
+  - **Subjects**: England and the American Colonies
+  - **Cross-reference**: William Gilbert, James Ussher
+  - **Discussion**:
+
+If Job were written by a false prophet a thousand years after the real man lived, what would you expect?
+The earlier prophecies would be detailed, because the author already knew the outcome; they happened before
+he was born. Then as the prophecies go farther and father into the future, they would become more vague.
+If they did match history, it would be a strange and subjective match, like something by Nostradamus.
+Instead, what do we find? The details become clearer and richer. This is partly because I know much about recent history
+and comparatively little about medieval history or before. It is easier for me to find matches to happenings since the Reformation.
+Job 36 exhibits this nicely.   
+
+The theme of Job 36 is “God is not powerless”. The aftermath of the Protestant Reformation
+was scores of wars. The Thirty Years War alone claimed millions of lives, including half the population of Germany.
+All those armies and soldiers proved unable to extinguish the Protestant faith, because God granted a measure of His
+power to Lutherans, Calvinists, and other groups striving to worship God as their conscience commanded.
+
+#### He does not keep the wicked alive
+##### but gives the afflicted their rights.
+#### He does not take his eyes off the righteous;
+##### he enthrones them with kings
+##### and exalts them forever.
+###### - Job 36:6-7, NIV
+
+God did grant the afflicted their rights. Consider the
+strange wording here. He enthrones them not **as** kings, but
+**with** kings. During the English Civil War, Oliver Cromwell
+and the Puritans and other like-minded Christians executed
+the king of England and briefly ruled England, not as kings,
+but as a commonwealth with a parliament. How did
+England progress to the point that such a large resistance
+was able to rise up and oppose the crown? Furthermore,
+many monarchs have been overthrown throughout history,
+but they were always replaced by another king. Where did
+they get the ideas and skills to fashion another form of
+government, even if it failed after a short time?
+
+They got them in school.
+
+#### God is exalted in his power.
+##### **Who is a teacher like him**?
+###### - Job 36:22, NIV
+
+Lawrence Stone, in “The Educational Revolution in England 1500-1640”, revealed something remarkable.
+Between the Reformation and the mid-seventeenth century, England built schools. Lots of schools! 
+In fact, the number of schools increased more than tenfold. Puritans especially were keen to teach everyone h
+ow to read so that they could read the Bible. England devoted one quarter of all charitable funds 
+to the construction of schools and their endowment, so that the poor could be educated. 
+By the end of this period, over half of all people in England could read.
+
+This carried up to the college level. By 1640, Stone estimated that a minimum of 2.5 % of all Englishmen 
+had a college degree. Don’t be fooled: that was a lot. After the civil war college enrollment dropped, 
+due to economic and other reasons. It would not be until the 1930s – three centuries later – that the 
+proportion of college educated men would again reach that number. Stone relates contemporary opinion of this development:
+
+In the middle of the seventeenth century both natives and foreigners
+were struck by the remarkable educational attainments of nobility
+and gentry. James Harrington reminded his fellow-countrymen that
+"you have, or have had, a nobility or gentry the best studied, and the
+best writers (at least next to Italy) in the whole world". 
+"I think the English Nobility and Gentry are now as learned as ever in any Age
+they have been; and as the Nobility and Gentry of any other Nation
+is", remarked Edward Waterhouse with truly English love of understatement.
+
+So what was the basis for the English people to yearn for
+and fight for a more just political order? They were the best
+educated people the world up to that time had ever seen.
+What of the Colonies they were planting in America?
+Massachusetts required every town of fifty families to
+support a schoolmaster, and every town of a hundred
+families to build a school. The Puritans were crazy about
+education and founded Harvard University in 1636, less
+than two decades after the Pilgrim’s landed. Truly, who is a
+teacher like him?
+
+How about them Pilgrims? Consider what these verses might mean:
+
+#### He is wooing you from the jaws of distress
+##### to a spacious place free from restriction,
+##### to the comfort of your table laden with choice food.
+###### - Job 36:16
+
+That sure sounds like religious refugees “wooed” into leaving Europe, now celebrating the first Thanksgiving 
+in a new place, “free from restriction”.
+
+#### Remember to extol his work,
+##### which people have praised in song.
+###### - 36:24, NIV
+
+Many have remarked about the “Hymn Explosion” of the 18th century, led by Isaac Watts, 
+the father of the English Hymn. How much poorer would we be without 
+“When I survey the wondrous cross”, “Joy to the world”, or “I sing the almighty power of God”? 
+However, the bursting forth of song in that century was due to a revolution in this one, 
+the 17th. The century began with metrical psalms whose authors
+studiously avoided making changes to the words of the
+Psalms that could make them scan and rhyme. This made
+their doctrine sound at the expense of making many almost
+unsingable. Most congregational singing followed a
+responsorial form called “lining out”. Those “versified
+psalms” continued to employ chanting styles and musical
+forms from Medieval times. The century ended with “freely
+composed hymns”. They were original English
+compositions instead of translations, and were loosely
+derived from Bible texts using a chord structure similar to
+what we are accustomed to today. Edna Dorintha Parks, in
+her 1957 Phd. Dissertation “English Hymns and their Tunes in the Sixteenth and Seventeenth Centuries”, 
+explored the rich legacy of hymns from that generation that Watts and
+his contemporaries had to build upon. We may have forgotten their songs of praise, 
+but they were offered to God, and He heard them.
+
+#### He draws up the drops of water,
+##### which distill as rain to the streams;
+#### the clouds pour down their moisture
+##### and abundant showers fall on mankind.
+###### - Job 36:27-28
+
+The 17th century was plagued by the onset of the Little Ice Age, characterized by cold winters and wet summers.
+This shortened the growing season by three weeks and caused glaciers to advance. The resulting crop failures
+exacerbated the death toll from the wars of religion.
+
+#### See how he scatters his lightning about him,
+##### bathing the depths of the sea...
+#### He fills his hands with lightning
+##### and commands it to strike its mark.
+#### His thunder announces the coming storm;
+##### even the cattle make known its approach.
+###### - Job 36:30,32-33
+
+Were not the wars and revolutions of that time with their thundering cannon storm enough for this comparison?
+With another prophetic detail, Elihu shines a light on a remarkable scientific discovery of that age, 
+the magnetic model of the earth. The Englishman William Gilbert was the first man to use the word *electricity*. 
+He wrote *De Magnete, Magneticisque Corporibus, et de Magno Magnete Tellure*, 
+*On the Magnet and Magnetic Bodies, and on That Great Magnet the Earth*. He not only put forth the idea that
+the earth is a big magnet, he hypothesized that the center of the earth is made of iron. He believed (incorrectly) that
+this magnetic force was what kept the moon in orbit around the earth. Though wrong, his ideas inspired
+Johannes Kepler who later derived the laws of planetary motion. Gilbert also rejected the idea that the stars 
+sat on spheres, and postulated that vast numbers of unseen stars existed beyond those we could see.
+
+Given the connection to Gilbert’s theories of electricity
+and magnetism as well as the thunder of war, these verses
+refer to the scientific and political revolutions that were
+about to unfold. Those two ideas would intersect in the
+next generation in the person of Benjamin Franklin, who
+demonstrated that lightning consists of electricity and also
+agitated for that coming storm: the American Revolution.
+
+To us, the arrival of storms is unpredictable. To God,
+everything is timed to perfection:
+
+#### How great is God—beyond our understanding!
+##### The number of his years is past finding out.
+###### - Job 36:26
+
+In his two volumes on Biblical Chronology, published in
+1650 and 1654 AD, Bishop James Ussher improved upon the
+Venerable Bede’s work from centuries before. It is
+impossible to comprehend prophecy when history is
+disordered and mismeasured. This author would never
+have made his discoveries if not for Ussher’s patient
+scholarship. In every way, as we approach the Day of the
+Lord, the church is making progress in deducing the full
+and accurate meaning of God’s Word. “The number of his years” is still fuzzy, 
+but before that day arrives, that number will come into focus.
+
+### Chapter: Job 38
+
+  - **Year range**: 1804-1923 AD
+  - **Subjects**: The Age of Missions
+  - **Cross-reference**: ?
+  - **Discussion**:
+
+In the chiastic outline of Elihu and God’s speeches in *Job Rises*, the theme of chapter 38 is 
+“God speaks of his power”. The social upheaval and turmoil of this generation
+and the one to follow it (our own) are His doing,
+unparalleled in human history.
+
+#### The earth takes shape like clay under a seal;
+##### its features stand out like those of a garment.
+###### - Job 38:14, NIV
+
+How did God put his stamp upon humanity during this generation?
+
+  - Slavery forcefully outlawed in most of the world
+  - Serfs freed in Russia
+  - Dalits (untouchables) & other low caste peoples in British India enjoyed modest improvements in status and rights
+  - Women gained the right to vote and hold office in dozens of nations
+  - Democratic institutions matured
+  - Prisons reformed
+  - Public education expanded, literacy increased
+  - Mentally ill treated more humanely
+  - Old age pensions instituted
+  - Science, Medicine & public health advanced
+  - Agriculture, industry & transportation revolutionized
+  - Christianity spread by missionaries worldwide
+
+#### Have you comprehended the vast expanses of the earth?
+##### Tell me, if you know all this.
+###### Job 38:18, NIV
+
+Explorers searched out those “vast expanses”, with
+Roald Amundsen in 1911 reaching the South Pole, the heart
+of earth’s greatest “storehouse of snow”.
+
+#### Have you entered the storehouses of the snow
+##### or seen the storehouses of the hail,
+#### which I reserve for times of trouble,
+##### for days of war and battle?
+###### - Job 38:22-23, NIV
+
+Those storehouses proved decisive against Napoleon in 1812.
+First, the Russian Winter, worsened by the continuing
+Little Ice Age, killed, crippled or captured hundreds of
+thousands of Napoleon’s soldiers, humbling the largest
+army ever assembled in Europe up to that time. This was
+critical, because Napoleon’s treaties, alliances, and wars
+were directed at isolating and weakening Britain, God’s
+primary agent for eradicating slavery throughout the world.
+After Napoleon returned from exile in Elba following his
+first defeat, he was bested once more by bad weather.
+Torrential rains contributed to his downfall at Waterloo in 1815.
+What caused those rains? According to Caroline
+Brogan, scientists finally have a logical explanation:
+volcanoes.
+
+In “Napoleon's defeat at Waterloo caused in part by Indonesian volcanic eruption”, Brogan lays out the case.
+Six volcanoes erupted between 1808 and 1815 with a VEI (Volcanic Explosivity Index) of
+four or more, the last being Mount Tambora in Indonesia
+with a VEI magnitude of seven, the most powerful eruption
+in 1,300 years. When volcanic ash fills the atmosphere, it
+blocks the sun, cooling the earth. The major impact of the
+final eruption was felt in 1816, the famous “year without a summer”.
+
+#### Have the gates of death been shown to you?
+##### Have you seen the gates of the deepest darkness?
+###### - Job 38:17
+
+Snow in June and frost in August caused crop failure,
+famine, and widespread typhus outbreaks.
+
+#### From whose womb comes the ice?
+##### Who gives birth to the frost from the heavens
+###### - Job 38:29
+
+The death and suffering was felt worldwide. It forced
+many New Englanders to migrate, accelerating America’s
+westward expansion. Eery fog blocked the light of the sun
+at midday. Mary Shelley and her friends in England
+encamped together to wait it out. The macabre noctilucent
+clouds, fog, and chill put them in a strange mood so they
+challenged each other to see who could write the scariest
+story. Shelley wrote Frankenstein.
+
+The strangest effect of the volcano was on the
+ionosphere. The ash short-circuited the earth’s electric
+field, producing a pulse of cloud formation two months
+later on the other side of the world, handing the victory to
+Wellington and leaving England as Europe’s dominant power.
+
+#### What is the way to the place where the lightning is dispersed,
+##### or the place where the east winds are scattered over the earth?
+#### Who cuts a channel for the torrents of rain,
+##### and a path for the thunderstorm,
+#### to water a land where no one lives,
+##### an uninhabited desert,
+#### to satisfy a desolate wasteland
+##### and make it sprout with grass?
+#### Does the rain have a father?
+##### Who fathers the drops of dew?
+###### - Job 38:24-28, NIV
+
+Yes, God prepared the snow and ice for “days of war and
+battle” and destroyed Napoleon's Grand Armee, one of the largest
+armies ever assembled. He used volcanoes to disperse
+lightning and cause condensation, literally fathering the
+drops of dew.
+
+God offered mankind this challenge:
+
+#### Who has the wisdom to count the clouds?
+##### Who can tip over the water jars of the heavens
+#### when the dust becomes hard
+##### and the clods of earth stick together?
+###### - Job 38:37-38
+
+In 1891, Louis Gathmann first theorized a means of
+seeding clouds using liquid CO2 to cause rain on command,
+to tip the water jars of heaven. Practical methods would
+become feasible during the next generation.
+The laws of gravity were discovered during the previous
+generation, but during this time, men like Gauss, Faraday
+and Maxwell discovered the laws of electromagnetism:
+
+#### Do you know the laws of the heavens?
+##### Can you set up God’s dominion over the earth?
+#### Do you send the lightning bolts on their way?
+##### Do they report to you, 
+###### ‘Here we are’?
+###### - Job 38:33,35, NIV
+
+How amazing! It was during this generation that mankind
+learned just that – how to send lightning bolts on their way.
+Samuel F. B. Morse, Leonard Gale, and Joseph Henry
+created the Telegraph, which can report “Here we are” at
+great distances. This was followed by the telephone (by
+Meucci of Italy, Borseul of France, and Bell of America),
+and electrical power transmission systems of Edison, Tesla
+and Westinghouse. Truly, in those days, God spoke of his
+power – electric power. Even Bell acknowledged this, for
+his first Telegraph message was, “What hath God wrought?”
+
+What God wrought during this period was to thrust
+England into prominence as the greatest empire of all time:
+
+#### Do you hunt the prey for the lioness
+##### and satisfy the hunger of the lions
+#### when they crouch in their dens
+##### or lie in wait in a thicket?
+###### - Job 38:39-40, NIV
+
+Who was the lioness? Victoria, Queen of England and
+Empress of India. Britain’s symbol is a lion, and Victoria
+ruled as its lioness for sixty-three years. She reigned longer
+than all her predecessors and oversaw a massive expansion
+of the British Empire. Many peoples fell prey to her navy. At
+one point, Britain devoted a quarter of all expenditures to
+fighting the slave trade on land and sea.
+
+#### Have you ever given orders to the morning,
+##### or shown the dawn its place,
+#### that it might take the earth by the edges
+##### and shake the wicked out of it?
+###### - Job 38:12-13, NIV
+
+It was once said that “the sun never sets on the British
+Empire”. For a time, a part of Britain was always seeing the
+dawn. She took the whole earth by the edges (roughly a
+quarter of all the world’s land and people) and shook the
+wicked – slave traders – out of it.
+
+And for her pride and thievery of the wealth of the
+nations, for exceeding the authority granted to her by God,
+England would be punished in the next generation by the
+Second World War, then be stripped of most of her
+colonies. As for this generation, it ended with the horror of
+the Great War.
+
+#### Who provides food for the raven
+##### when its young cry out to God
+##### and wander about for lack of food?
+###### - Job 38:41, NIV
+
+God provided food for the raven, from the corpses
+littering the battlefields of Europe. The end of Job 38
+announced the end of the great kingdoms and empires of Europe.
+
+If you combine what we learn here in Job 38 with Solomon's Celestial Clock, we understand what God was doing
+in this era. According to Solomon, this era was "A time to speak". It was the church doing the speaking.
+In this era, God gave the church the telegraph, telephone and radio to facilitate the spread of the gospel.
+Humans needed to master the science of electromagnetism so that we could create these inventions.
+All that is named here, as well as the adventurous spirit to travel even to the South Pole in pursuit of this goal.
+Anyone who can read Job 38 and not be in awe of how perfectly its words capture that time in history
+is blind to its brilliance.
+
+### Job 39
+
+  - **Year range**: 1923-2042 AD
+
+My book describes many societal changes prophesied in Job 39. That chapter is as marvelous as chapter 38. 
+However, in the interest of brevity, I will only give one, which relates to God's speech about the eagle.
+Who could that eagle be?
+
+#### Does the eagle soar at your command
+##### and build its nest on high?
+#### It dwells on a cliff and stays there at night;
+##### a rocky crag is its stronghold.
+#### From there it looks for food;
+##### its eyes detect it from afar.
+#### Its young ones feast on blood,
+##### and where the slain are, there it is.
+###### - Job 39:27-30, NIV
+
+The United States is symbolized by an eagle. We built a nest on a cliff higher than any other nation: on the moon.
+The lunar module was named Eagle, and when we landed, Neil Armstrong said, “The Eagle has landed.” 
+During this generation, America has enjoyed peace, but also fought in over forty wars. When we pursue our enemies, 
+we see them from afar: using aircraft, orbiting satellites and drones.
+This combination of two ideas – God’s plentiful provision
+and reference to America – define America as the most
+blessed nation the world has ever seen. Where is our gratitude?
 
 <hr/>
 
