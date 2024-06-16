@@ -10,6 +10,11 @@ Click on the fuzzy answer box to reveal the answer.
 Click on the link to find out why.
 
   <details class="spoiler" style="--hidden: '42!'">
-    <summary>[What is the meaning of life?](./the-journey-pattern.html)</summary>
+    <summary>[What is the meaning of life?](./42-is-for-the-journey.html)</summary>
     <div>42!</div>
+  </details>
+
+  <details class="spoiler" style="--hidden: 'Hannah, mother of the prophet Samuel.'">
+    <summary>[Who is the wisest woman who ever lived?](./hannah-s-song.html)</summary>
+    <div>Hannah, mother of the prophet Samuel.</div>
   </details>
