@@ -283,9 +283,38 @@ div.pullquote-centered {
   width: 90%;
   font-family : Helvetica, Arial, sans-serif;
   font-weight: bold;
-  font-size   : 36px;
   font-style: italic;
   color: var(--flat-blue);
   margin-bottom: -0.25em;  
   margin-top: 0.25em;
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  .pullquote-centered p {
+    font-size: 24px;
+  }
+}
+
+@media only screen and (min-device-width : 481px) and (max-device-width : 600px) {
+  .pullquote-centered p {
+    font-size: 27px;
+  }
+}
+
+@media only screen and (min-device-width : 601px) and (max-device-width : 800px) {
+  .pullquote-centered p {
+    font-size: 30px;
+  }
+}
+
+@media only screen and (min-device-width : 801px) and (max-device-width : 1200px) {
+  .pullquote-centered p {
+    font-size: 33px;
+  }
+}
+
+@media only screen and (min-device-width : 1201px) {
+  .pullquote-centered p {
+    font-size: 36px;
+  }
 }
