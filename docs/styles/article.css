@@ -270,9 +270,16 @@ p.numbered-image {
 
 /* Centered Pull-quote */
 
-.pullquote-centered {
-  display: inline;
+div.pullquote-centered, p.pullquote-centered { 
+  padding: 8px 20px; 
+}
+
+div.pullquote-centered {
   text-align: center;
+}
+
+p.pullquote-centered {
+  width: 80%;
   font-family : Helvetica, Arial, sans-serif;
   font-weight: bold;
   font-size   : 60px;

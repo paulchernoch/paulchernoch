@@ -507,10 +507,10 @@ See the prophetic irony? The curse against Moab
 was really a prophecy of the coming of the messiah
 who would forgive every sin and cancel every curse.
 
-<p class="pullquote-centered">
-God’s finger of judgment <br/>
-points to his time of mercy.
-</p>
+<div class="pullquote-centered">
+  <p>God’s finger of judgment</p>
+  <p>points to his time of mercy.</p>
+</div>
 
 **Stanza 13**: *“How sweet are your words to my taste, sweeter than **honey** to my mouth!”* (v103, NIV) 
 In the latter part of the age of the Judges, no figure captures
@@ -835,12 +835,12 @@ in history. Taken together with the prophetic references in
 the remaining eight stanzas, it tells us something that can
 give us the “great peace” of verse 165:
 
-<p class="pullquote-centered">
-God’s Word will not come up short; <br/>
-it will carry us, stanza by stanza, <br/>
-generation by generation, <br/>
-until God’s plan of salvation is complete.
-</p>
+<div class="pullquote-centered">
+  <p>God’s Word will not come up short;</p>
+  <p>it will carry us, stanza by stanza, </p>
+  <p>generation by generation,</p>
+  <p>until God’s plan of salvation is complete.</p>
+</div>
 
 We saw that Psalm 119 connects history with three words:
 the law, the Name (Yahweh), and salvation. Just as there are
@@ -1062,9 +1062,9 @@ sacrifice in all of history. Thus we have the final ticks of the
 clocks from Psalm 119 and this passage from 1 Kings
 bracketing the sacrifice of Christ between 19 and 39 AD.
 
-<p class="pullquote-centered">
-Solomon’s sacrifice was itself a prophecy!
-</p>
+<div class="pullquote-centered">
+  <p>Solomon’s sacrifice was itself a prophecy!</p>
+</div>
 
 On a lark, I checked what you get if you add twenty-two
 generations of 120 years not to the creation but to the day
