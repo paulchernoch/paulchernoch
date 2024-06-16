@@ -18,3 +18,10 @@ Click on the link to find out why.
     <summary>[Who is the wisest woman who ever lived?](./hannah-s-song.html)</summary>
     <div>Hannah, mother of the prophet Samuel.</div>
   </details>
+
+  <details class="spoiler" style="--hidden: 'Because God likes factorial numbers (and something about a flood).'">
+    <summary>[Why did the disciples catch 153 fish?](./riddle-of-153-fish.html)</summary>
+    <div>Because God likes factorial numbers (and something about a flood).</div>
+  </details>
+
+  riddle-of-153-fish.html
