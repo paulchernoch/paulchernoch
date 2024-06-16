@@ -276,6 +276,7 @@ div.pullquote-centered, .pullquote-centered p {
 
 div.pullquote-centered {
   text-align: center;
+  margin-bottom: 1em; 
 }
 
 .pullquote-centered p {
@@ -285,6 +286,6 @@ div.pullquote-centered {
   font-size   : 36px;
   font-style: italic;
   color: var(--flat-blue);
-  margin-bottom: -1em;  
-  margin-top: 0em;
+  margin-bottom: -0.25em;  
+  margin-top: 0.25em;
 }
