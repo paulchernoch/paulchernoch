@@ -108,6 +108,9 @@
     - title: Plague, Precept, Prophet, Peace
       sub:   God's Ten Liberating Commandments
       named: plague-book.md
+  - title: Shhhh! Secret!
+    image: fa-solid fa-user-secret
+    named: secret.md
   - title: Lady Wisdom's House
     image: fa-solid fa-building-columns
     dates: [2024-03-03]

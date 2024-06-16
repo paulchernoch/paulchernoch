@@ -319,3 +319,15 @@ div.pullquote-centered {
     font-size: 36px;
   }
 }
+
+/* Hiding answers to riddles until user clicks. */
+
+details.spoiler summary::after {
+  content: var(--hidden);
+  filter: blur(4px);
+  display: block;
+}
+
+details[open] summary::after {
+  display: none;
+}
