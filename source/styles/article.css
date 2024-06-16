@@ -280,8 +280,9 @@ div.pullquote-centered {
 }
 
 .pullquote-centered p {
-  width: 90%;
-  font-family : Helvetica, Arial, sans-serif;
+  width: 100%;
+  font-family: "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;
+
   font-weight: bold;
   font-style: italic;
   color: var(--flat-blue);
@@ -293,7 +294,7 @@ div.pullquote-centered {
   .pullquote-centered p {
     font-size: 18px;
   }
-}
+} 
 
 @media only screen and (min-device-width : 481px) and (max-device-width : 600px) {
   .pullquote-centered p {
