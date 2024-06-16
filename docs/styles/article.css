@@ -270,7 +270,7 @@ p.numbered-image {
 
 /* Centered Pull-quote */
 
-div.pullquote-centered, p.pullquote-centered { 
+div.pullquote-centered, .pullquote-centered p { 
   padding: 8px 20px; 
 }
 
@@ -278,11 +278,11 @@ div.pullquote-centered {
   text-align: center;
 }
 
-p.pullquote-centered {
+.pullquote-centered p {
   width: 80%;
   font-family : Helvetica, Arial, sans-serif;
   font-weight: bold;
-  font-size   : 60px;
+  font-size   : 50px;
   font-style: italic;
   color: var(--flat-blue);
 }
