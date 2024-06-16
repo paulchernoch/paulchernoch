@@ -291,25 +291,25 @@ div.pullquote-centered {
 
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
   .pullquote-centered p {
-    font-size: 20px;
+    font-size: 18px;
   }
 }
 
 @media only screen and (min-device-width : 481px) and (max-device-width : 600px) {
   .pullquote-centered p {
-    font-size: 24px;
+    font-size: 20px;
   }
 }
 
 @media only screen and (min-device-width : 601px) and (max-device-width : 800px) {
   .pullquote-centered p {
-    font-size: 28px;
+    font-size: 24px;
   }
 }
 
 @media only screen and (min-device-width : 801px) and (max-device-width : 1200px) {
   .pullquote-centered p {
-    font-size: 32px;
+    font-size: 28px;
   }
 }
 
