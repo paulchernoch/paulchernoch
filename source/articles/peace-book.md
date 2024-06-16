@@ -65,7 +65,7 @@ expands upon the chapter or merely has a short excerpt of that chapter.
   - Seven Churches for Seven Eras
   - Timeless?
   - Let’s Synchronize Our Watches
-  - Psalm 119: The Shepherd’s Clock
+  - [Psalm 119: The Shepherd’s Clock](./psalm-119.html)
   - Solomon’s Celestial Clock
   - Solomon’s End Times
   - Solomon’s Sundial

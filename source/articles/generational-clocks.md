@@ -2115,7 +2115,7 @@ Until I resolved the question I could not make further progress.
 Here is the final section of the chapter "Let's Synchronize our Watches" in *Peace, like Solomon Never Knew*.
 It describes my conundrum and how it is an example of a technique used by God to conceal His wisdom.
 
-### The Punchline: Pride*
+### The Punchline: Pride
 
 Why did I just waste a chapter of
 this book talking about harmonization attempts that failed?
@@ -2243,8 +2243,10 @@ periods among His clocks.
 
 However, the most remarkable discovery was that the Shepherd's Clock leads us from Creation to Christ. It points to the savior.
 Like H Street in my novels, it is a road that you can follow through history to find the savior.
+Decades before logic and analysis enabled me to see the meaning hidden in this psalm, my heart had already started walking down that road.
+That is how you solve a Bible riddle.
 
-Here is that chapter and its generational clock in its entirety...
+With that introduction behind us, here is that chapter and its generational clock in its entirety...
 
 [Psalm 119: The Shepherd's Clock](./psalm-119.html)
 

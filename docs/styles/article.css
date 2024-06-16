@@ -267,3 +267,14 @@ p.numbered-image {
   margin-right: 20px; 
   font-size: 100px;
 }
+
+/* Centered Pull-quote */
+
+.pullquote-centered {
+  text-align: center;
+  font-family : Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  font-size   : 42px;
+  font-style: italic;
+  color: var(--flat-blue);
+}
