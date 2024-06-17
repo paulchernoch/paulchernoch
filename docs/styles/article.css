@@ -331,3 +331,11 @@ details.spoiler summary::after {
 details[open] summary::after {
   display: none;
 }
+
+/* List of sections that link to places on the page */
+
+div.sections {
+  border: 2px dashed var(--section-box);
+  padding: 10px;
+  background-color: var(--section-interior);
+}

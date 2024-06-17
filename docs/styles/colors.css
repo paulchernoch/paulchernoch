@@ -43,6 +43,9 @@ Theme colors for website
   --tree-line  : var(--pale-sky-blue);
   --tree-leaf  : var(--coral-blue);
 
+  --section-box : var(--book-blue);
+  --section-interior : var(--chiffon);
+
 
   /* Size of body and toc, which changes when TOC is shown or hidden  */
   --standard-width    : 95vw;

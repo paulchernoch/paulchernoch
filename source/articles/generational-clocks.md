@@ -30,6 +30,8 @@ For each clock, the following will be given:
   - A table with the generation number, start and end years, Bible verse references and prophetic interpretation
   - Details about the most significant prophecies found in the clock
 
+<div class="sections">
+
 To quickly jump to each example:
 
   1. [Job's Anti-jubilee Clock](#1)
@@ -37,6 +39,8 @@ To quickly jump to each example:
   3. [The Shepherd’s Clock (Psalm 119)](#3)
   4. [The Cosmic Chiasm](#4)
   5. [The Acrostic Clock (Psalms 112 & 112)](#5)
+
+</div>
 
 I scoured the Bible for prophetic clocks. Some sequences of Bible passages that had a few good matches to history I rejected.
 Unless every Bible passage (whether chapter, stanza or verse) in the sequence had at least one prophecy that was
