@@ -24,4 +24,7 @@ Click on the link to find out why.
     <div>Because God likes factorial numbers (and something about a flood).</div>
   </details>
 
-  riddle-of-153-fish.html
+  <details class="spoiler" style="--hidden: 'He has already been bound - and unbound! The binding occurred in 380 AD and the unbinding a thousand years later.'">
+    <summary>[When will Satan be bound by God as promised in Revelation?](./satan-s-taunt.html)</summary>
+    <div>He has already been bound - and unbound! The binding occurred in 380 AD and the unbinding a thousand years later.</div>
+  </details>
