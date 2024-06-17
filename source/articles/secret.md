@@ -30,6 +30,6 @@ Click on the link to find out why.
   </details>
 
   <details class="spoiler" style="--hidden: 'They are seven books of the Bible that are filled with wisdom and riddles.'">
-    <summary>[What are the legendary seven pillars of wisdom?](./seven-pillars-of-wisdom.md)</summary>
+    <summary>[What are the legendary seven pillars of wisdom?](./seven-pillars-of-wisdom.html)</summary>
     <div>They are seven books of the Bible that are filled with wisdom and riddles.</div>
   </details>
