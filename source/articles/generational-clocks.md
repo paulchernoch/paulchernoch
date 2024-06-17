@@ -34,11 +34,13 @@ For each clock, the following will be given:
 
 To quickly jump to each example:
 
-  1. [Job's Anti-jubilee Clock](#1)
-  2. [Job’s Chapter Clock](#2)
-  3. [The Shepherd’s Clock (Psalm 119)](#3)
-  4. [The Cosmic Chiasm](#4)
-  5. [The Acrostic Clock (Psalms 112 & 112)](#5)
+  <ol>
+    <li> <a href="#1">Job's Anti-jubilee Clock</a> </li>
+    <li> <a href="#2">Job’s Chapter Clock</a> </li>
+    <li> <a href="#3">The Shepherd’s Clock (Psalm 119)</a> </li>
+    <li> <a href="#4">The Cosmic Chiasm</a> </li>
+    <li> <a href="#5">The Acrostic Clock (Psalms 112 & 112)</a> </li>
+  </ol>
 
 </div>
 
