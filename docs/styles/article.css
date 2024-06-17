@@ -335,6 +335,7 @@ details[open] summary::after {
 /* List of sections that link to places on the page */
 
 div.sections {
+  margin: 10px;
   border: 2px dashed var(--section-box);
   padding: 10px;
   background-color: var(--section-interior);
