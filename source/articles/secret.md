@@ -28,3 +28,8 @@ Click on the link to find out why.
     <summary>[When will Satan be bound by God as promised in Revelation?](./satan-s-taunt.html)</summary>
     <div>He has already been bound - and unbound! The binding occurred in 380 AD and the unbinding a thousand years later.</div>
   </details>
+
+  <details class="spoiler" style="--hidden: 'They are seven books of the Bible that are filled with wisdom and riddles.'">
+    <summary>[What are the legendary seven pillars of wisdom?](./seven-pillars-of-wisdom.md)</summary>
+    <div>They are seven books of the Bible that are filled with wisdom and riddles.</div>
+  </details>
