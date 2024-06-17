@@ -2,6 +2,7 @@
 title: "Psalm 119: The Shepherd's Clock"
 quote: Thy word is a lamp unto my feet, <br/> and a light unto my path. <br/> - Psalm 119:105
 ---
+<img class="center" src="images/shepherd-watching-sheep.png" />
 
 This article originally appeared in *Peace, like Solomon Never Knew* as the chapter "Psalm 119: The Shepherd's Clock".
 It follows the chapter that described how I overcame confusion and settled on a period length of 119 years for some
