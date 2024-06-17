@@ -43,3 +43,8 @@ Click on the link to find out why.
     <summary>[Where does the Bible prophesy human discoveries like adventurers reaching the South Pole?](./generational-clocks.html)</summary>
     <div>In Job 38:22, God challenged Job by saying, Have you entered the storehouses of the snow?</div>
   </details>
+
+  <details class="spoiler" style="--hidden: 'Alexander the Great.'">
+    <summary>[In Job 22, over a thousand years before it happened, Zophar prophesied the painful death of which powerful king?](./alexander-the-great.html)</summary>
+    <div>Alexander the Great.</div>
+  </details>
