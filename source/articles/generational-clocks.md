@@ -2,6 +2,8 @@
 title: Generational Clocks
 quote: The counsel of the Lord stands forever, <br/> the plans of his heart to all generations. <br/> - Psalm 33:11
 ---
+<img class="center" src="images/relay-race.jpeg" alt="Relay race with stopwatch" />
+
 It was while lingering over the chronology in Matthew 1 about a decade ago that the idea popped into my head.
 What if God measures time by generations of people, not days and years? From that sprang all the rest.
 
