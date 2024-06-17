@@ -7,12 +7,10 @@ quote: Seal up what the <b>seven thunders</b> have said, <br/> and do not write 
 
 ## Thunders
 
-In “Aftertaste: Donner & Blitzen”, many connections
-between thunder passages in Psalms, Job, Exodus and
-Revelation were enumerated. Now that we have identified
-Exodus as part of the floor of Lady Wisdom’s house, we see
-that this connection via the thunders helps secure the
-pillars to that floor.
+In “Aftertaste: Donner & Blitzen”, many connections between thunder passages in Psalms, Job, Exodus and
+Revelation were enumerated. Now that we have identified Exodus as part of the floor of Lady Wisdom’s house, we see
+that this connection via the thunders helps secure the pillars to that floor. 
+(Bits and pieces of that chapter are covered [with the theme of songs](./theme-of-songs.html) and in [riddles](./riddles.html).  )
 
 An extra connection is to Jeremiah.
 
@@ -35,8 +33,7 @@ Jeremiah gives seven analogies for God speaking: roar,
 thunder, roar mightily, shout, shout and bring charges. The
 inclusion of thunder and the seven analogies suggests the
 seven thunders. The mention of a sword connects to the
-seven swords. (The rest of the chapter has two more
-mentions of swords.)
+seven swords. (The rest of the chapter has two more mentions of swords.)
 
 The interested reader might also compare these passages which connect the seven pillars extensively:
 

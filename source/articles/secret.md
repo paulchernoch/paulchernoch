@@ -29,7 +29,17 @@ Click on the link to find out why.
     <div>He has already been bound - and unbound! The binding occurred in 380 AD and the unbinding a thousand years later.</div>
   </details>
 
-  <details class="spoiler" style="--hidden: 'They are seven books of the Bible that are filled with wisdom and riddles.'">
+  <details class="spoiler" style="--hidden: 'They are seven books of the Bible that are filled with wisdom and riddles: Psalms, Job, Proverbs, Song of Songs, Ecclesiastes, Matthew and Revelation.'">
     <summary>[What are the legendary seven pillars of wisdom?](./seven-pillars-of-wisdom.html)</summary>
-    <div>They are seven books of the Bible that are filled with wisdom and riddles.</div>
+    <div>They are seven books of the Bible that are filled with wisdom and riddles: Psalms, Job, Proverbs, Song of Songs, Ecclesiastes, Matthew and Revelation.</div>
+  </details>
+
+  <details class="spoiler" style="--hidden: 'Yes! The seven thunders have spoken before, in Exodus, Job, Psalms and elsewhere in Revelation.'">
+    <summary>[Is it possible to learn anything about the secret message that the Seven Thunders told John in Revelation 10?](./theme-of-thunders.html)</summary>
+    <div>Yes! The seven thunders have spoken before, in Exodus, Job, Psalms and elsewhere in Revelation.</div>
+  </details>
+
+  <details class="spoiler" style="--hidden: 'In Job 38:22, God challenged Job by saying, Have you entered the storehouses of the snow?'">
+    <summary>[Where does the Bible prophesy human discoveries like adventurers reaching the South Pole?](./generational-clocks.html)</summary>
+    <div>In Job 38:22, God challenged Job by saying, Have you entered the storehouses of the snow?</div>
   </details>
