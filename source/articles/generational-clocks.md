@@ -28,6 +28,14 @@ For each clock, the following will be given:
   - A table with the generation number, start and end years, Bible verse references and prophetic interpretation
   - Details about the most significant prophecies found in the clock
 
+To quickly jump to each example:
+
+  1. [Job's Anti-jubilee Clock](#1)
+  2. [Job’s Chapter Clock](#2)
+  3. [The Shepherd’s Clock (Psalm 119)](#3)
+  4. [The Cosmic Chiasm](#4)
+  5. [The Acrostic Clock (Psalms 112 & 112)](#5)
+
 I scoured the Bible for prophetic clocks. Some sequences of Bible passages that had a few good matches to history I rejected.
 Unless every Bible passage (whether chapter, stanza or verse) in the sequence had at least one prophecy that was
 fulfilled in the corresponding era, unless every generation between the first and last covered by the clock was represented, I discarded the idea and moved on. If God really intended that book or chapter to be a prophetic clock, it would be perfect.
@@ -91,7 +99,7 @@ years of patient Bible study and reflection.
 <hr/>
 
 <div class="numbered-image">
-  <p class="numbered-image">1</p>
+  <p id="1" class="numbered-image">1</p>
   <p><img class="numbered-image" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" /></p>
 </div>
 
@@ -1004,7 +1012,7 @@ they were the shortest!
 <hr/>
 
 <div class="numbered-image">
-  <p class="numbered-image">2</p>
+  <p id="2" class="numbered-image">2</p>
   <p><img class="numbered-image" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" /></p>
 </div>
 
@@ -2091,7 +2099,7 @@ blessed nation the world has ever seen. Where is our gratitude?
 <hr/>
 
 <div class="numbered-image">
-  <p class="numbered-image">3</p>
+  <p id="3" class="numbered-image">3</p>
   <p><img class="numbered-image" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" /></p>
 </div>
 
@@ -2253,7 +2261,7 @@ With that introduction behind us, here is that chapter and its generational cloc
 <hr/>
 
 <div class="numbered-image">
-  <p class="numbered-image">4</p>
+  <p id="4" class="numbered-image">4</p>
   <p><img class="numbered-image" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" /></p>
 </div>
 
@@ -2419,7 +2427,7 @@ In progress...
 <hr/>
 
 <div class="numbered-image">
-  <p class="numbered-image">5</p>
+  <p id="5" class="numbered-image">5</p>
   <p><img class="numbered-image" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" /></p>
 </div>
 
