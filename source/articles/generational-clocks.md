@@ -2265,11 +2265,156 @@ With that introduction behind us, here is that chapter and its generational cloc
   - Books defined in:
     - *Job Rises: Thirteen Keys to a Resilient Life* (less precise)
     - *Peace, like Solomon Never Knew* (improved Chronology)
-  - Chapter in book that describes it: **Two Patterns in History**
+  - Chapters in second book that describe it: **Generations Come and Go** and **Two Patterns in History**
   - Time span: 4020 BC–2280 AD
   - Milestones: Creation to Second Coming of Christ
   - Intervals: 42
   - Period: 119 years (except Adam & Methuselah)
+
+**What is a chiasm (or chiasmus)?** The [Biblical Chiasm Exchange](https://www.chiasmusxchange.com/explanatory-notes/) 
+gives a good definition. It is a literary device whose name derives from the Greek letter chi, which looks like an X.
+If you arrange a chiasmus in two columns, with one idea per row, then the top item on the left will match the bottom
+item or the right and vice versa. If you draw lines to connect the matching ideas, it will look like an X.
+
+Chiasms are a form of inverted (also called introverted) parallelism. Ideas are presented in one order,
+then the parallel ideas are presented in reverse order. A chiasm with an even number of steps will have a pair of matching
+ideas at the center, while a chiasm with an odd number of steps will have many pairs but have an unpaired idea at its center.
+In both cases, the core idea of the chiasm is likely at its center, not in first or last position as with the structures
+I was taught in school. An example given on the website above is from the story of Noah in Genesis 9:6:
+
+ - (A) Whoever sheds
+ - (B) the blood
+ - (C) of man
+ - (C’) by man
+ - (B’) shall his blood
+ - (A’) be shed
+
+The Bible is rife with chiasms.
+
+**What do Chiasms have to do with Bible Prophecy?** I learned the concept of chiasm from a teacher on Bible prophecy,
+Ellis Skolfield. He showed how they appear in many Bible passages, such as the Book of Daniel. Detecting and
+interpreting chiasms aids us in understanding prophecy. I took his idea and ran with it, coming up with my own chiasm,
+one that encompasses all of world history. But before we get to that...
+
+**Nature abhors a vacuum**. We all like to know how the story ends. The Bible describes the apocalypse, but in terms that
+mystify and horrify. Out of confusion, rejection of Christianity or religion in general, or sheer creativity, many people have
+speculated about how things will turn out. How many books, graphic novels, TV shows and movies are about
+the end of the world? A new one pops up every month it seems. They fill a void inside. We need to have SOME story.
+The more fanciful and ridiculous, the better. It pushes the event far off. It helps us get on with our lives.
+
+What if you are like me? What if you cannot settle for speculation and lies to comfort your anxious heart?
+It is a question that never goes away. You may suppress it, push it aside to attend to other matters, 
+or settle for what you know is a poor answer, a placeholder until something better comes along. What happens then? 
+It stalks your dreams. Nightmares about how your world might be destroyed come to you unbidden. What can you do
+to silence this voice of doom and find peace?
+
+I will share the progression in my life as I faced this question, from childhood up to the present.
+My posture went from entertaining my curiosity, to terror, to searching for someone else who had a ready-made answer,
+to trying with inadequate tools to find my own, to finding a scholar who demolished all accepted ideas, leaving me 
+with an intolerable vacuum of anxious ignorance. The goal here is not to prove that I am smart enough to solve the problem.
+In his Sermon on the Mount, Jesus said, *"Blessed are those who hunger and thirst for righteousness, for they shall be filled."*
+The goal instead is to prove the strength of my hunger to find an answer.  
+
+As a child, I was obsessed with fantasy and science fiction novels. I loved time travel stories but was particularly
+drawn to the idea that there were true prophets who could change the world because of their insight.
+My sci-fi hero was Hari Seldon, the protagonist in the Foundation Series by Isaac Asimov. He used advanced mathematics
+to create psycho-history, a means of predicting future events on a galactic scale. He foresaw an apocalypse,
+the collapse of galactic civilization. He used his insight to create the Foundation, an organization that would 
+preserve knowledge and guide the survivors to a hopeful future and shorten the period of anarchy and barbarism 
+to a thousand years. (How interesting! The Christian church through its monasteries preserved ancient learning for 
+a thousand years, until Europe arose from the Dark Ages a the time of the Renaissance and Enlightenment.)
+
+My real-life hero was Alexis de Toqueville, a 19th century political scientist who in the 1840's predicted that 
+the two rival world powers in the 20th century would be the United States and Russia. After reading his book
+*Democracy in America*, I was astonished. How I longed to be one who could study history and politics and have 
+the genius to foresee events a hundred years into the future! Those childhood years were when the future was to me a 
+wonderful and hopeful prospect of unbounded possibilities.
+
+Things changed when I reached college. I entered a decade of depression. After drifting away from the Roman Catholic Church,
+but before I became a Protestant, I only picked up the Bible twice. The first time was to read Revelation, which disturbed me.
+After I was saved, I had to contend with the influence of all the new Christians in my life, many of whom had
+far-fetched ideas about the End Times. I read books like *Gorbachev: Is He the Anti-christ?* and
+Hal Lindsey's *The Late, Great Planet Earth*. In 1986, we all were faced with the Chernobyl nuclear disaster.
+People were saying that Chernobyl was the Russian word for wormwood which made it one of the plagues of Revelation.
+
+In my journals, I tried to compare events in my world history text to the Bible and to the different 
+eschatological theories. Nightmares about being savaged by wild animals, or being persecuted and in hiding, or
+drowned in a flood tormented me for over a year, as related in [Dreams](./dreams.md). A speaker came to our
+church to talk about his interpretation of Revelation. I asked him some pointed questions and concluded that he didn't know
+what he was talking about.
+
+All these voices were shouting about the end and I couldn't find any that made sense, so in the 1990's I got married,
+had kids, and stopped looking into such things for over a decade. This didn't stop people from writing about comets 
+hitting Jupiter or the smoke rising from burning Iraqi oil wells during the Gulf Wars. I absorbed their speculations 
+and waited to see if anything they had to say came true. They were all wrong.
+
+In the 2000's, two things hit me with emotional force. The first was hearing Johnny Cash sing 
+["When the Man comes around"](https://lyrics.lyricfind.com/lyrics/johnny-cash-the-man-comes-around-2),
+with its overt and haunting references to Revelation and other prophetic books. I saved it onto a CD and listened 
+to it hundreds of times, mesmerized. The second was reading books by Ellis Skolfield. This man was different. 
+He had studied prophecy for thirty years. He found inconsistencies in the existing End Times systems, like
+Dispensational Premillennialism. He systematically demolished all of them. He did not have a complete system
+to leave in their place, but some of his ideas seemed sound. I corresponded with him and he graciously answered my questions.
+I reread his study notes on Daniel and Revelation many times. During this decade
+I also wrote fantasy novels with apocalyptic themes. My imagination wrestled with the voice of the Seven Thunders,
+the Four Horsemen of the Apocalypse, the wide road that leads to destruction and the final judgment.
+I even dreamed up an elaborate legal system for the Courtlands of the afterlife!
+Still, I was not satisfied. 
+
+It was now the 2010's and in place of a coherent story about how the world would end, I had a void.
+I was certain of these things:
+
+  - I did not know how the world would end, how to interpret Revelation, Daniel and the other prophets.
+  - Nobody else alive did either, or at least they hadn't published their ideas yet.
+  - This state of affairs was intolerable.
+  - To research the problem and solve the riddle, meaning to assemble all the facts of history, theology and eschatology, resolve all the inconsistencies and form a coherent story would require an immense amount of time, theological ability and piety.
+  - I lacked sufficient time to devote to the endeavor, having a difficult secular job and a wife and three children who needed me.
+  - I lacked the training in Biblical languages and theology to succeed at the endeavor.
+  - I lacked funds to pay for such advanced training, and indeed had crippling debts, being often on the verge of bankruptcy.
+  - I lacked the emotional strength, confidence, discipline and perseverance to succeed at the endeavor.
+  - I lacked the piety and holiness that God might reward by granting me success through supernatural gifting.
+  - I lacked the cooperative personality traits that would facilitate joining with others to pursue this task jointly.
+
+Those facts were a recipe for despair. There was only one way that God could life me out of it. He redirected me
+to pursue a greater treasure. From about 2012 to 2015, I prayed and fasted one day a week. My prayer was simple.
+"Lord, show me your glory." I did not know what form that glory would ultimately assume. As it turned out, 
+it was a greater facility at seeing marvelous truths in the Bible. God gave me through prayer all that I lacked in the
+other areas listed above. He guided me (via the internet) to hundreds of articles on history and theology, targeted
+to my needs. He scheduled a pandemic in 2020, which gave me extra time for study because I did not need to waste twelve
+hours a week commuting as I worked from home. He got me a better job, which enabled my family to make headway on our debt.
+He gave me discipline and perseverance through the joy of discovery.
+
+It was in the middle of my fast, though, when I as yet had none of these things, that the first idea appeared to me.
+It was not persuasive. It had flaws. I could not yet see any Biblical support for it. After coming up with it, 
+I put it aside for about five years until I finally saw where it fit and how to remedy its flaws and justify it from God's Word.
+It was based on the ideas about Chiasms that I learned from Ellis Skolfield.
+
+Where do all the other systems go wrong? They have the wrong framework, the wrong scaffolding upon which to hang the pieces.
+They focus on the little details but miss the big picture. The Cosmic Chiasm was my attempt to step back from history
+and take in the big picture. The goal was not to be precise, but to see gross features of God's plans. With that
+in hand, it might then be possible to slowly refine it, sharpen the details and arrive at an improved view of the End Times.
+Therefore this idea is not so much a theory of prophecy as a theory of history.
+
+Once I had this gross, fuzzy, imprecise model of history, I could take the next step. I could see the good
+in God's plans for judgment. It is not all destruction. It is creative destruction.
+God first built up our world, our violent, tyrannical, oppressive civilization, like a building team
+builds a scaffolding around the construction site. It is ugly but it has the rough shape that is desired. Then when all is ready,
+the scaffolding is removed to reveal a beautiful, impressive structure. 
+
+The words of Revelation focus on the removal of the scaffolding, which is violent and destructive.
+We see the terrors but not the triumphs. Because we see Revelation as only terrors, we cannot conceive that its events
+are already underway. The Four Horsemen of the Apocalypse have already sallied forth. They wreaked their havok over the last half a millennium, but they also did more. Religious freedom, the abolition of slavery, a freer economic and political order, relief from sexism and racism - all these things were the result of that destruction of the old world order. It was the genesis
+of that way of thinking that propelled me to the conclusions I have found. It is my new hope in the love of God 
+and His plans for us that enables me to see Revelation not as an apocalyptic movie, but as a song of joy.
+
+My void is gone. It is full of good news. What follows are the two chapters from *Peace, like Solomon Never Knew*
+that describe the single idea that changed how I look at all End Times prophecy.
+
+
+  - **Generations Come and Go**
+  - **Two Patterns in History**
+
+In progress...
 
 <hr/>
 
@@ -2290,3 +2435,4 @@ With that introduction behind us, here is that chapter and its generational cloc
   - Intervals: 42
   - Period: 119 years (except Adam & Methuselah)
 
+In progress...
