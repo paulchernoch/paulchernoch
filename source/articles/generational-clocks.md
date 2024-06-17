@@ -2411,8 +2411,8 @@ My void is gone. It is full of good news. What follows are the two chapters from
 that describe the single idea that changed how I look at all End Times prophecy.
 
 
-  - **Generations Come and Go**
-  - **Two Patterns in History**
+  - [Generations Come and Go](./generations-come-and-go.html)
+  - [Two Patterns in History](./two-patterns-in-history.html)
 
 In progress...
 

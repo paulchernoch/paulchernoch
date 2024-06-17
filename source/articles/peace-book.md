@@ -53,7 +53,7 @@ expands upon the chapter or merely has a short excerpt of that chapter.
   - Qualifying Time
   - [To Number Our Days](./to-number-our-days.html)
   - Days of Darkness
-  - [Twelve Timely Questions](./most-important-questions.md)
+  - [Twelve Timely Questions](./most-important-questions.html)
   - Hammer Time
   - Hour of Temptation
   - Three Appointments with Satan
@@ -75,9 +75,9 @@ expands upon the chapter or merely has a short excerpt of that chapter.
   - [CSI Babylon: Job 20](./alexander-the-great.html)
   - The Second Half: Job 21-37
   - Father Time: Job 38-42
-  - Generations Come and Go
-  - Two Patterns in History
-  - [Swords, Seals & Surviving to Saturday](./seven-spirits.md)
+  - [Generations Come and Go](./generations-come-and-go.html)
+  - [Two Patterns in History](./two-patterns-in-history.html)
+  - [Swords, Seals & Surviving to Saturday](./seven-spirits.html)
   - A Missing Clock and a Missed Call
   - The Time of Her Confinement
   - Rightly Dividing the Words
