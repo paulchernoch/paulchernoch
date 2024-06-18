@@ -2449,4 +2449,16 @@ that describe the single idea that changed how I look at all End Times prophecy.
   - Intervals: 42
   - Period: 119 years (except Adam & Methuselah)
 
-In progress...
+Psalms 111 and 112 are both acrostics. Each phrase (not verse) begins with a different letter of the Hebrew alphabet,
+in alphabetical order. This device suggests a sequence running to completion, which is perfect for a prophetic clock.
+[Psalm 119](./psalm-119.md) has a prophetic clock, so why not these two?
+
+These two psalms fit together like peas in a pod, with Psalm 111 spanning the history from Creation until the coming of Christ
+and Psalm 112 continuing from there to Christ's second coming, with a small overlap in the middle.
+
+This clock is embedded inside a larger clock which spans the whole of the psalter. Details of that clock are found in
+multiple chapters in *Plague, Precept, Prophet, Peace*.
+
+For the analysis of these two psalms, go here:
+
+  - [The Acrostic Psalms](./acrostic-clock.html)

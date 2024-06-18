@@ -44,7 +44,7 @@ In some cases, such essays have been expanded to include new insights.
   - Selah: Stop, Entreat, Listen, Apply, Hear
   - [Answering Habakkuk](./habakkuk-part-1.html)
   - Songs in the Night: Psalms 1-110 
-  - Acrostic Clock: Psalms 111 and 112 
+  - [Acrostic Clock: Psalms 111 and 112](./acrostic-clock.html)
   - The Final Ascent: Psalms 113-150 
   - Psalms of Growth: Psalms 1–28 
   - Psalm 19: The Glory of God’s Law 

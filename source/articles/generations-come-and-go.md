@@ -22,7 +22,7 @@ Sections of this article:
 </div>
 
 <span id="1"/>
-## Tbe Mystery of Matthew's Genealogy
+## The Mystery of Matthew's Genealogy
 
 In Ecclesiastes 1:4, Solomon declared, *“Generations come and generations go, but the earth remains forever."*
 Those words compelled me to write this book. This is why.
