@@ -795,3 +795,5 @@ generation chiasm and this seven-part pattern, we can tell
 two stories, not one.
 
 Let’s tell those stories.
+
+Next: [Two Patterns in History](./two-patterns-in-history.html)
