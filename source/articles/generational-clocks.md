@@ -2430,8 +2430,6 @@ that describe the single idea that changed how I look at all End Times prophecy.
   - [Generations Come and Go](./generations-come-and-go.html)
   - [Two Patterns in History](./two-patterns-in-history.html)
 
-In progress...
-
 <hr/>
 
 <div class="numbered-image">

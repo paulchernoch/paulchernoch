@@ -2,6 +2,7 @@
 title: Generations Come and Go
 quote: A generation goes, and a generation comes, <br/> but the earth remains forever. <br/> - Ecclesiastes 1:4
 ---
+<img class="center" src="images/dream-of-pharaoh.png" alt="Pharaoh's dream of cattle and wheat" />
 
 <div class="sections">
 
