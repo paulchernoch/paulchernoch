@@ -1,6 +1,5 @@
 ---
 title: Two Patterns in History
-sub: The Cosmic Chiasm
 quote: For now we see through a glass, darkly; <br/> but then face to face... <br/> - 1 Corinthians 13:12
 ---
 <img class="center" src="images/earth-in-mirror.png" />
