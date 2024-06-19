@@ -340,3 +340,22 @@ div.sections {
   padding: 10px;
   background-color: var(--section-interior);
 }
+
+/* Era Description Box */
+
+div.era {
+  width: 35%;
+  margin: 10px;
+  border: 2px dashed var(--section-box);
+  padding: 10px;
+  background-color: var(--section-interior);
+}
+
+.era p {
+  width: 100%;
+  font-weight: bold;
+  font-style: normal;
+  color: var(--flat-blue);
+  margin-bottom: -0.1em;  
+  margin-top: 0.1em;
+}
