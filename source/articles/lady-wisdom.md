@@ -2,6 +2,25 @@
 title: Lady Wisdom
 quote:  She is a tree of life <br/> to those who take hold of her; <br/> those who hold her fast will be blessed**. <br/> - Proverbs 3
 ---
+
+<div class="sections">
+
+Article Contents:
+
+  <ol>
+    <li> <a href="#1">Who is Lady Wisdom?</a> </li>
+    <li> <a href="#2">Meet Lady Wisdom: Proverbs 1</a> </li>
+    <li> <a href="#3">Where we met again: Proverbs 4</a> </li>
+    <li> <a href="#4">Lady Wisdom's Résumé: Proverbs 8</a> </li>
+    <li> <a href="#5">Wait at her door: Proverbs 8</a> </li>
+    <li> <a href="#6">A Dinner Invitation: Proverbs 9</a> </li>
+    <li> <a href="#7">Lady Wisdom Makes House Calls: Proverbs 3</a> </li>
+    <li> <a href="#8">So who is Lady Wisdom?</a> </li>
+  </ol>
+
+</div>
+
+<span id="1"/>
 ## Who is Lady Wisdom?
 
 Where I work, I occasionally get a meeting invite over Teams from a stranger with the cryptic notation **GTKY**. That means "Get to know you". It is how relationships are started among
@@ -25,6 +44,7 @@ The winter cottage is the House of Mourning. I was her frequent guest there for 
 I got to know the fixtures and furnishings while studying and writing about Job,
 another of her frequent guests.
 
+<span id="2"/>
 ## Meet Lady Wisdom: Proverbs 1
 
 More recently, I have been touring her main residence and making architectural sketches.
@@ -161,6 +181,7 @@ digestive issues, and many other physical and mental symptoms. As a result of ye
 most of my anxiety has vanished. Seeing how God has rescued me from so many trials, I now 
 have faith that I can endure all things.
 
+<span id="3"/>
 ## Where we met again: Proverbs 4
 
 After being introduced to a new acquaintance, what happens next? Do you lose their number?
@@ -188,6 +209,7 @@ change. By the end of that year I was able to worship Jesus in Proverbs.
 I attribute my focus on the wisdom literature and my progress toward understanding it to that 
 year that I dedicated solely to the pursuit of wisdom.
 
+<span id="4"/>
 ## Lady Wisdom's Résumé: Proverbs 8
 
 When you meet new people, do you name drop? It is part of sizing people up by discovering
@@ -261,6 +283,7 @@ She is a person filled with rejoicing and boundless creativity who wants to be y
 and friend. She wants to help you succeed and flourish. She can become the kind of friend whose
 house you want to drop by all the time over tea (which I don't drink, but some people like it).
 
+<span id="5"/>
 ## Wait at her door: Proverbs 8
 
 Proverbs 8 says too many wonderful things to cover them all here. The most important thing is the
@@ -295,6 +318,7 @@ Lady Wisdom is not like that. If you knock, she will answer. She is not off in F
 (unless you happen to be Finnish, in which case she is probably at her summer home in 
 the mountains.)
 
+<span id="6"/>
 ## A Dinner Invitation: Proverbs 9
 
 If you nurture a friendship long enough, you will eventually be invited over for dinner.
@@ -322,6 +346,7 @@ She doesn't just invite the popular, successful people to her house.
 She invites you so that she can share her generosity and help you
 to succeed.
 
+<span id="7"/>
 ## Lady Wisdom Makes House Calls: Proverbs 3
 
 Let's back up to Proverbs chapter 3. Lady Wisdom doesn't just invite you to her house.
@@ -434,6 +459,7 @@ During her visit, I was miraculously relieved of pain. And as I now believe, she
 treating my pain for days already, baffling the doctors, stepping back for a time only so that 
 I might comprehend the reality of the miracles I was receiving.
 
+<span id="8"/>
 ## So who is Lady Wisdom?
 
   - When Jenifer Farr shared her faith with me and led me to the Lord in April 1985, she was Lady Wisdom to me.
