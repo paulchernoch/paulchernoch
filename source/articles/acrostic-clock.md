@@ -271,11 +271,11 @@ According to tradition, Job is the oldest book in the Bible, composed even befor
 Genesis. It was Job’s prayer that created the Bible, and God’s gracious answer to that prayer
 that caused all these marvelous truths to be remembered.
 
-### 8th Generation: 1766-1647 BC.
-
-**Psalm 111:4b.**
-
-**Joseph.**
+<div class="era">
+  <p>8th Generation: 1766-1647 BC.</p>
+  <p>Psalm 111:4b.</p>
+  <p>Joseph.</p>
+</div>
 
 #### The Lord is gracious and merciful.
 
@@ -296,11 +296,12 @@ their second journey to Egypt:
 
 The Lord **is** gracious and merciful.
 
-### 9th and 10th Generations: 1647-1528, 1528-1409 BC.
-
-**Psalm 111:5a-b.**
-
-**Egyptian Captivity, Moses and Exodus.**
+<div class="era">
+  <p>9th Generation: 1647-1528 BC.</p>
+  <p>10th Generation: 1528-1409 BC.</p>
+  <p>Psalm 111:5a-b.</p>
+  <p>Egyptian Captivity, Moses and Exodus.</p>
+</div>
 
 #### He provides **food** for those who fear him;
 ##### he remembers his **covenant forever**.
@@ -311,6 +312,7 @@ which was only in abundance because of Joseph’s wise interpretation of Pharaoh
 The Exodus of the 10th generation sent the people into the desert, where Yahweh rained
 down manna to sustain them. Yet it was during the fearful 9th generation of enslavement
 that the Jews grew into a multitude. Even in bondage, God provided food.
+
 If one verse proves that this Psalm corresponds, verse by verse, to events of salvation
 history, it is this one. In this 10th generation, God wrote Ten Commandments upon
 tablets of stone with His finger. Those Ten Commandments are the covenant spoken of in
@@ -318,147 +320,229 @@ the phrase “covenant forever”! This psalm and the next each have ten verses.
 and final verse of Psalm 112 even speaks of the tenth commandment, defining
 covetousness as the desires of the wicked. Together, these two psalms represent Christ as
 the Law, the wisdom of God.
-328
-Acrostic Clock: Psalms 111 and 112
-11th and 12th Generations: 1409-1290, 1290-1171 BC.
-Psalm 111:6a-b.
-Conquest of the Land, Joshua, Judges, Ruth.
-He has shown his people the power of his works,
-in giving them the inheritance of the nations.
+
+<div class="era">
+  <p>11th Generation: 1409-1290 BC.</p>
+  <p>12th Generation: 1290-1171 BC.</p>
+  <p>Psalm 111:6a-b.</p>
+  <p>Conquest of the Land, Joshua, Judges, Ruth.</p>
+</div>
+
+#### He has shown his people the power of his works,
+##### in giving them the inheritance of the nations.
+
 Despite sin and rebellion, the Lord progressively enabled the Israelites to conquer
 Canaan. He gave them their promised inheritance. From the miraculous crossing of the
 Jordan to the toppling of Jericho’s walls to the capture of much territory, Joshua led the
 people faithfully. Then one judge after another reversed incursions by their enemies.
+
 In the second era, the twelfth generation, two widows, Ruth and Naomi, recovered their
 inheritance. This was due to the righteous and compassionate actions of Naomi’s kinsman-
 redeemer, Boaz. From lowly widows to an entire nation, God is faithful. No person is too
 small or insignificant to be noticed by Him.
-13th Generation: 1171-1052 BC.
-Psalm 111:7a.
-Samson.
-The works of his hands are faithful and just…
+
+<div class="era">
+  <p>13th Generation: 1171-1052 BC.</p>
+  <p>Psalm 111:7a.</p>
+  <p>Samson.</p>
+</div>
+
+#### The works of his hands are faithful and just…
+
 Justice was the responsibility of the Judges. During this era, that fell to Samson. His
 successes and failures were spectacular. In his case, “the works of his hands” must be taken
 literally.
-Then Samson went down with his father and mother to Timnah, and they came to the vineyards of
-Timnah. And behold, a young lion came toward him roaring. Then the Spirit of the Lord rushed upon
-him, and although he had nothing in his hand, he tore the lion in pieces as one tears a young goat.
-But he did not tell his father or his mother what he had done. (Judges 14:5-6, ESV)
+
+#### Then Samson went down with his father and mother to Timnah, 
+#### and they came to the vineyards of Timnah. And behold, 
+#### a young lion came toward him roaring. 
+#### Then the Spirit of the Lord rushed upon him, and although 
+#### **he had nothing in his hand, he tore the lion in pieces**
+#### as one tears a young goat. But he did not tell his father 
+#### or his mother what he had done.
+###### - Judges 14:5-6, ESV
+
 He tore apart a lion with his bare hands and with those same hands toppled the pillars
 supporting his enemies’ temple, claiming his life and the lives of thousands of Israel’s
 enemies. In him was found the Spirit of Might. From his example we see that we need
 God’s might but are lost without God’s wisdom.
-14th Generation: 1052-933 BC.
-Psalm 111:7b.
-David and Solomon.
-… all his precepts are trustworthy…
+
+
+<div class="era">
+  <p>14th Generation: 1052-933 BC.</p>
+  <p>Psalm 111:7b.</p>
+  <p>David and Solomon.</p>
+</div>
+
+#### … all his precepts are trustworthy…
+
 In the ESV, the word “precept” appears twenty-nine times. Twenty-three of those usages
 are in the Psalms, namely Psalms 19, 111 and 119. We do not know who wrote Psalm 111
-329
 (though as an acrostic, likely David), but the other two were written by David. Thus at
 least twenty-two usages of this word are due to David.
+
 One use can be attributed to Solomon. Hear what he said in Proverbs:
-Hear, O sons, a father's instruction,
-and be attentive, that you may gain insight,
-for I give you good precepts;
-do not forsake my teaching.
-When I was a son with my father,
-tender, the only one in the sight of my mother,
-he taught me and said to me,
-“Let your heart hold fast my words;
-keep my commandments, and live.
-Get wisdom; get insight;
-do not forget, and do not turn away
-from the words of my mouth.” (Proverbs 4:1-5)
+
+#### Hear, O sons, a father's instruction,
+##### and be attentive, that you may gain insight,
+#### for I give you **good precepts**;
+##### do not forsake my teaching.
+#### **When I was a son with my father**,
+##### tender, the only one in the sight of my mother,
+#### he taught me and said to me,
+#### “Let your heart hold fast my words;
+##### keep my commandments, and live.
+#### Get wisdom; get insight;
+##### do not forget, and do not turn away
+###### from the words of my mouth.”
+###### - Proverbs 4:1-5
+
 David taught Solomon good, trustworthy precepts and Solomon taught them to his
 sons. What is our generation doing?
-15th and 16th Generations: 933-814, 814-695 BC.
-Psalm 111:8a-b.
-Israel and Judah.
-… they are established forever and ever,
-to be performed with faithfulness and uprightness.
+
+<div class="era">
+  <p>15th Generation: 933-814 BC.</p>
+  <p>16th Generation: 814-695 BC.</p>
+  <p>Psalm 111:8a-b.</p>
+  <p>Israel and Judah.</p>
+</div>
+
+#### … they are established forever and ever,
+##### to be performed with faithfulness and uprightness.
+
 Will it be the permanence of establishment or the impermanence of destruction?
 Rehoboam lost half his kingdom in the fifteenth era. The new Kingdom of Israel then fell
 to Assyria in the sixteenth. At the same time, Elijah was established though persistently
 hunted by Ahab, and Hezekiah’s life and reign over Judah were extended by God while
 Sennacherib’s army was slaughtered by a plague.
+
 These erratic arrangements did not appear eternal, but God’s plan is eternal. All He
 needs is a king on the throne who never wavers from the path of uprightness. Until then,
 we must settle for an occasional bright light in the midst of darkness, like one of this era’s
 luminaries, good King Jehoshaphat:
-The Lord was with Jehoshaphat, because he walked in the earlier ways of his father David. He did not
-seek the Baals, but sought the God of his father and walked in his commandments, and not according to
-the practices of Israel. Therefore the Lord established the kingdom in his hand. And all Judah brought
-tribute to Jehoshaphat, and he had great riches and honor. His heart was courageous in the ways of the
-Lord. And furthermore, he took the high places and the Asherim out of Judah. (2 Chronicles 17:3-6)
-330
-Acrostic Clock: Psalms 111 and 112
-17th, 18th & 19th Generations: 695-576-457-338 BC
-Psalm 111:9abc
-Babylonian Exile and Return
-He sent redemption to his people;
-he has commanded his covenant forever.
-Holy and awesome is his name! (Psalm 111:9, ESV)
+
+#### The Lord was with Jehoshaphat, because he walked 
+#### in the earlier ways of his father David. 
+#### He did not seek the Baals, but sought the 
+#### God of his father and walked in his commandments,
+#### and not according to the practices of Israel.
+#### Therefore the Lord **established** the kingdom in his hand. 
+#### And all Judah brought tribute to Jehoshaphat, 
+#### and he had great riches and honor. His heart was courageous 
+#### in the ways of the Lord. And furthermore, he took 
+#### the high places and the Asherim out of Judah.
+###### - 2 Chronicles 17:3-6
+
+<div class="era">
+  <p>17th Generation: 695-576 BC.</p>
+  <p>18th Generation: 576-457 BC.</p>
+  <p>19th Generation: 457-338 BC.</p>
+  <p>Psalm 111:9abc.</p>
+  <p>Babylonian Exile and Return.</p>
+</div>
+
+#### He sent redemption to his people;
+##### he has commanded his **covenant** forever.
+###### Holy and awesome is his name!
+###### - Psalm 111:9, ESV
+
 The prophet Jeremiah lived during the 17th and 18th generations. He declared that God
 would establish a new covenant to replace the one that Israel broke:
-Behold, the days are coming, declares the Lord, when I will make a new covenant with the house of
-Israel and the house of Judah, not like the covenant that I made with their fathers on the day when I took
-them by the hand to bring them out of the land of Egypt, my covenant that they broke, though I was their
-husband, declares the Lord. For this is the covenant that I will make with the house of Israel
-after those days, declares the Lord: I will put my law within them, and I will write it on
-their hearts. And I will be their God, and they shall be my people. And no longer shall each one
-teach his neighbor and each his brother, saying, ‘Know the Lord,’ for they shall all know me, from the
-least of them to the greatest, declares the Lord. For I will forgive their iniquity, and I will
-remember their sin no more.” (Jeremiah 31:31-34)
+
+#### Behold, the days are coming, declares the Lord, 
+#### when I will make a **new covenant** with the 
+#### house of Israel and the house of Judah, not like 
+#### the covenant that I made with their fathers 
+#### on the day when I took them by the hand to bring them 
+#### out of the land of Egypt, my covenant that they broke,
+#### though I was their husband, declares the Lord. 
+#### **For this is the covenant that I will make with** 
+#### **the house of Israel after those days, declares the Lord:**
+#### **I will put my law within them, and I will write it**
+#### **on their hearts. And I will be their God, and they** 
+#### sh**all be my people.** And no longer shall each one teach
+#### his neighbor and each his brother, saying,
+##### ‘Know the Lord,’ 
+#### for they shall all know me, from the least of them to 
+#### the greatest, declares the Lord. **For I will forgive** 
+#### **their iniquity, and I will remember their sin no more.**”
+###### - Jeremiah 31:31-34
+
 The Lord’s redemption of Israel was strange, accomplished this time not by a judge but
 by a foreign king named Cyrus. “I am the Lord…”
-who says of Cyrus, ‘He is my shepherd,
-and he shall fulfill all my purpose’;
-saying of Jerusalem, ‘She shall be built,’
-and of the temple, ‘Your foundation shall be laid.’”
-(Isaiah 44:28)
+
+#### who says of **Cyrus**, ‘He is my shepherd,
+##### and he shall fulfill all my purpose’;
+#### saying of Jerusalem, ‘She shall be built,’
+##### and of the temple, ‘Your foundation shall be laid.’”
+###### - Isaiah 44:28
+
 The deliverance in the next generation was equally miraculous, when a Jewish girl named
 Hadassah was chosen to become Queen Esther. By her courage and tact she delivered the
 Jews from genocide. How incongruous then that nowhere in her book is found that “holy
 and awesome” name of God spoken of in verse 9.
-20th, 21st & 22nd Generations: 338-219-100 BC-19 AD
-Psalm 111:10abc
-Messiah
-The fear of the Lord is the beginning of wisdom;
-all those who practice it have a good understanding.
-His praise endures forever!
+
+<div class="era">
+  <p>20th Generation: 338-219 BC.</p>
+  <p>21st Generation: 219-100 BC.</p>
+  <p>22nd Generation: 100 BC-19 AD.</p>
+  <p>Psalm 111:10abc.</p>
+  <p>Messiah.</p>
+</div>
+
+#### The fear of the Lord is the beginning of wisdom;
+##### all those who practice it have a good understanding.
+###### His praise endures forever!
+
 These fearful days were prophesied by Daniel. In the 20th generation, Alexander the
 Great arose, whose coming empire was spoken of like this:
-331
-Again one having the appearance of a man touched me and strengthened me. And he said, “O man
-greatly loved, fear not, peace be with you; be strong and of good courage.” And as he spoke to me, I was
-strengthened and said, “Let my lord speak, for you have strengthened me.” Then he said, “Do you know
-why I have come to you? But now I will return to fight against the prince of Persia; and when I go out,
-behold, the prince of Greece will come. But I will tell you what is inscribed in the book of truth: there
-is none who contends by my side against these except Michael, your prince. (Daniel 10:18-21)
+
+#### Again one having the appearance of a man
+#### touched me and strengthened me. And he said,
+##### “O man greatly loved, **fear not**, peace be with you; 
+##### be strong and of good courage.”
+#### And as he spoke to me, I was strengthened and said,
+##### “Let my lord speak, for you have strengthened me.”
+#### Then he said,
+##### “Do you know why I have come to you? But now
+##### I will return to fight against the prince of Persia;
+##### and when I go out, behold, **the prince of Greece will come**.
+##### But I will tell you what is inscribed in 
+##### the book of truth: there is none who contends
+##### by my side against these except Michael,
+##### your prince.
+###### - Daniel 10:18-21 
+
 The angel told Daniel not to fear these visions nor the terrors they announced.
 Alexander was not to be feared. The Lord was.
+
 The next object of fear was Antiochus IV Epiphanes. In the twenty-first generation, “all
 those who practice” were subject to persecution, with Sabbath observance banned, the temple
 desecrated and thousands killed for following God’s laws. The Jews of that time endured a
 foretaste of the Great Tribulation that will soon come upon the earth.
+
 The third of this final trio of generations, the twenty-second, states that “His praise
 endures forever”. That indicates the coming of eternal life incarnate, the Messiah, Jesus
 Christ.
+
 Psalm 111:10 combines three of the Seven Spirits of God: the Sprits of the Fear of the
 Lord, of Wisdom and of Understanding. It marked a great outpouring of God’s grace, but
 it was only the beginning. Psalm 112 shall continue the story and take us to the end. But
 first, a word about a number.
-One Nineteen.
+
+## One Nineteen.
+
 Genesis 8:4 recorded the end of the flood of Noah as occurring on the 17th day of the
-7th month. 17 x 7 = 119. Psalm 119 added additional justification for believing that 119
+7th month. **17 x 7 = 119**. Psalm 119 added additional justification for believing that 119
 years is a special time period. To those passages we can add these two psalms. What do we
 get if we look at the four poetic lines that start with the seventh and seventeenth letters of
 the Hebrew alphabet? Let’s look.
-He has caused his wondrous works to be remembered…
-He sent redemption to his people…
-Light dawns in the darkness for the upright…
-He has distributed freely; he has given to the poor…
+
+#### He has caused his wondrous works to be remembered…
+#### He sent redemption to his people…
+#### Light dawns in the darkness for the upright…
+#### He has distributed freely; he has given to the poor…
+
 We see a wondrous work of redemption appearing in a time of great darkness that will
 freely bless the poor. Taken to the extreme, the word “freely” even extends to the Gentiles.
 Of all those verses, the third (Psalm 112:4a) made the greatest impact on me, because
@@ -466,19 +550,30 @@ Of all those verses, the third (Psalm 112:4a) made the greatest impact on me, be
 this verse was subjective. I began to write this section Sunday morning before church on
 July 23, 2023. When I sat in church, all misgivings vanished. My pastor, Josh Cahan,
 preached from this text:
-332
-Acrostic Clock: Psalms 111 and 112
-For God, who said, “Let light shine out of darkness,” has shone in our hearts to give the light of the
-knowledge of the glory of God in the face of Jesus Christ. (2 Corinthians 4:6)
+
+#### For God, who said,
+##### “Let light shine out of darkness,” 
+#### has shone in our hearts to give the light of the
+#### knowledge of the glory of God in the face 
+#### of Jesus Christ.
+###### - 2 Corinthians 4:6
+
 Since the Holy Spirit saw fit to focus our whole church on the light of Christ, I took that
 as confirmation that my attention was properly fixed on this parallel verse in Psalm 112.
 Now may the rest of that psalm shine.
-Psalm 112, verse by verse
-21st and 22nd Generations: 219-100 BC, 100 BC-19 AD.
-Psalm 112:1a-b.
-Publication and Incarnation.
-… Blessed is the man who fears the Lord,
-who greatly delights in his commandments!
+
+## Psalm 112, verse by verse
+
+<div class="era">
+  <p>21st Generation: 219-100 BC.</p>
+  <p>22nd Generation: 100 BC-19 AD.</p>
+  <p>Psalm 112:1a-b.</p>
+  <p>Publication and Incarnation.</p>
+</div>
+
+#### … Blessed is the man who fears the Lord,
+##### who greatly delights in his commandments!
+
 The two eras spanned by this verse speak of the twofold incarnation of Christ. In the
 first era, the Septuagint was completed, and the word of God took a leap towards its final
 written form. In the second era, the word became flesh when Jesus was born.
