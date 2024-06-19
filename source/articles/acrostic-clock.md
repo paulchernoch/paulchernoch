@@ -170,11 +170,12 @@ story of Cain and Abel.
 (Genesis 4:10) Abel is a type of Christ, whose heart burst on the cross, and whose blood also was spilt upon the ground and upon the souls of
 all who accept his sacrifice in faith.
 
-### 2nd and 3rd Generations: 3090-2361,2361-2242 BC.
-
-**Psalm 111:1b-2a.**
-
-**The Flood of Noah.**
+<div class="era">
+  <p>2nd Generation: 3090-2361 BC.</p>
+  <p>3rd Generation: 2361-2242 BC.</p>
+  <p>Psalm 111:1b-2a.</p>
+  <p>The Flood of Noah.</p>
+</div>
 
 #### … in the company of the upright, in the congregation. Great are the works of the Lord…”
 
@@ -191,11 +192,13 @@ carried out by the company of the wicked. It is like the New Creation, when the 
 flood is the first time a group of people, Noah and his family, cooperated in obedience to
 God. His family was the first congregation mentioned in Scripture.
 
-### 4th and 5th Generations: 2242-2123, 2123-2004 BC.
-
-**Psalm 111:2b-3a.**
-
-**Nimrod, Tower of Babel & Dispersal of the Nations.**
+<div class="era">
+  <p>4th Generation: 2242-2123 BC.</p>
+  <p>5th Generation: 2123-2004 BC.</p>
+  <p>Psalm 111:2b-3a.</p>
+  <p>Nimrod, Tower of Babel</p>
+  <p>& Dispersal of the Nations.</p>
+</div>
 
 #### … studied by all who delight in them.
 #### Full of splendor and majesty is his work…
@@ -212,11 +215,11 @@ the Lord, established the first empire in human history at this time. He was the
 human “majesty”, and he lost that majesty by God’s wrath when his subjects were scattered
 to the four corners of the earth.
 
-### 6th Generation: 2004-1885 BC.
-
-**Psalm 111:3b.**
-
-**Abraham.**
+<div class="era">
+  <p>6th Generation: 2004-1885 BC.</p>
+  <p>Psalm 111:3b.</p>
+  <p>Abraham.</p>
+</div>
 
 #### … and his righteousness endures forever.
 
@@ -236,11 +239,11 @@ greater honor.
 #### and to your offspring after you.”
 ###### - Genesis 17:7, ESV
 
-### 7th Generation: 1885-1766 BC.
-
-**Psalm 111:4a.**
-
-**Job.**
+<div class="era">
+  <p>7th Generation: 1885-1766 BC.</p>
+  <p>Psalm 111:4a.</p>
+  <p>Job.</p>
+</div>
 
 #### He has caused his wondrous works to be remembered…
 
