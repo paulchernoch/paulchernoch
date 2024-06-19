@@ -577,70 +577,109 @@ Now may the rest of that psalm shine.
 The two eras spanned by this verse speak of the twofold incarnation of Christ. In the
 first era, the Septuagint was completed, and the word of God took a leap towards its final
 written form. In the second era, the word became flesh when Jesus was born.
+
 Since the Spirit of the Fear of the Lord is the seventh Spirit of God, it signifies
 completeness. As for the commandments, how could they be complete until the one came
 who is to command those commands?
+
 To decide if this verse really speaks of Jesus, we could ask some questions. Did Jesus
 delight in the commandments? Was he blessed by the Father like one who delighted in
 those commandments? Isaiah had this to say:
-Behold my servant, whom I uphold,
-my chosen, in whom my soul delights;
-I have put my Spirit upon him;
-he will bring forth justice to the nations. (Isaiah 42:1)
+
+#### Behold my servant, whom I uphold,
+##### my chosen, in whom my soul delights;
+#### I have put my Spirit upon him;
+##### he will bring forth justice to the nations.
+###### - Isaiah 42:1
+
 The greater question is, “Does God the Father delight in Jesus?” That is the proof of
 everything. That answer is here:
-And when Jesus was baptized, immediately he went up from the water, and behold, the heavens were
-opened to him, and he saw the Spirit of God descending like a dove and coming to rest on him; and
-behold, a voice from heaven said, “This is my beloved Son, with whom I am well pleased.”
-(Matthew 3:16-17)
-333
-23rd and 24th Generations: 19-138, 138-257 AD.
-Psalm 112:2a-b.
-Crucifixion, Resurrection and Great Commission.
-His offspring will be mighty in the land;
-the generation of the upright will be blessed.
+
+#### And when Jesus was baptized, immediately he went up 
+#### from the water, and behold, the heavens were opened to him,
+#### and he saw the Spirit of God descending like a dove 
+#### and coming to rest on him; and behold, 
+#### a voice from heaven said,
+##### “This is my beloved Son, with whom I am well pleased.”
+###### - Matthew 3:16-17
+
+<div class="era">
+  <p>23rd Generation: 19-138 AD.</p>
+  <p>24th Generation: 138-257 AD.</p>
+  <p>Psalm 112:2a-b.</p>
+  <p>Crucifixion, Resurrection and Great Commission.</p>
+</div>
+
+#### His offspring will be mighty in the land;
+##### the generation of the upright will be blessed.
+
 Two mighty offspring are in view. First is Jesus, the only begotten Son of God. Upon
 him was the Spirit of Might, a sword to defeat death and Hades. On the cross he exercised
 the awesome power of God to make atonement for sin and set free all the souls who
 believe in God.
+
 The second offspring is the church, and Jesus promised to make us mighty in the land:
-But you will receive power when the Holy Spirit has come upon you, and you will be my witnesses in
-Jerusalem and in all Judea and Samaria, and to the end of the earth.
-(Acts 1:8)
+
+#### But you will receive power when the Holy Spirit 
+#### has come upon you, and you will be my witnesses in
+#### Jerusalem and in all Judea and Samaria, 
+#### and to the end of the earth.
+###### - Acts 1:8
+
 The 24th generation was upright and blessed, but they received this blessing instead:
-Blessed are those who are persecuted for righteousness' sake, for theirs is the kingdom of heaven.
-(Matthew 5:10)
-25th and 26th Generations: 257-376, 376-495 AD.
-Psalm 112:3a-b.
-The Plundering of Rome.
-Wealth and riches are in his house,
-and his righteousness endures forever.
-Jesus laid out his plan with simplicity by saying, “Or how can someone enter a strong man's
-house and plunder his goods, unless he first binds the strong man? Then indeed he may plunder his
-house.” (Matthew 12:29) Three of the gospel writers saw fit to include this parable, while
+
+#### Blessed are those who are persecuted
+##### for righteousness' sake,
+###### for theirs is the kingdom of heaven.
+###### - Matthew 5:10
+
+<div class="era">
+  <p>25th Generation: 257-376 AD.</p>
+  <p>26th Generation: 376-495 AD.</p>
+  <p>Psalm 112:3a-b.</p>
+  <p>The Plundering of Rome.</p>
+</div>
+
+#### Wealth and riches are in his house,
+##### and his righteousness endures forever.
+
+Jesus laid out his plan with simplicity by saying,
+
+#### “Or how can someone enter a strong man's house 
+#### and plunder his goods, unless he first binds 
+#### the strong man? Then indeed he may plunder his house.” 
+###### - Matthew 12:29 
+
+Three of the gospel writers saw fit to include this parable, while
 John spoke of this event in another way in Revelation. During the 25th generation, the
 church passed through the worst and final Roman persecution, under Diocletian. Then
 the Lord bound the strong man and delivered the wealth and riches and power of Rome’s
 house to his followers. From Constantine’s Edict of Milan in 313 AD to Theodosius’ Edict
 of Thessalonica in 380 AD, the church’s influence rose until it became the official religion
 of the empire.
+
 Shall his righteousness endure forever? The 26th generation called this into question.
 Rome fancied itself as “The Eternal City”. From Alaric’s sack of Rome in 410 AD to its fall
 in 476 AD at the hands of Odoacer, the mortality of that city became clear. As darkness
-began to fall upon the continent, God sent a prophet of light. Augustine wrote The City of
-God to assure the faithful that the heavenly city being built by God would never fall.
-334
-Acrostic Clock: Psalms 111 and 112
-27th and 28th Generations: 495-614, 614-733 AD.
-Psalm 112:4a-b.
-The Dark Ages Begin.
-Light dawns in the darkness for the upright;
-he is gracious, merciful, and righteous.
+began to fall upon the continent, God sent a prophet of light. Augustine wrote 
+*The City of God* to assure the faithful that the heavenly city being built by God would never fall.
+
+<div class="era">
+  <p>27th Generation: 495-614 AD.</p>
+  <p>28th Generation: 614-733 AD.</p>
+  <p>Psalm 112:3a-b.</p>
+  <p>The Dark Ages Begin.</p>
+</div>
+
+#### Light dawns in the darkness for the upright;
+##### he is gracious, merciful, and righteous.
+
 We now come to the verse in this two-psalm generational clock whose time period
 intersects the larger celestial clock that governs the whole of the psalms. In that larger
 clock, the focus is on the years 642-684 AD, in our 28th generation. If two prophetic
 clocks with radically different period lengths and numbers of eras assign one verse to the
 same era in history, it means we should take a closer look.
+
 The 27th generation was the start of the Dark Ages and includes the year 536 AD, the
 year of darkness. That generation also gave birth to Pope Gregory the Great, considered the
 best pope of all time by many Orthodox, Protestants and Catholics. He truly was a light in
@@ -649,24 +688,34 @@ success shining the light of the gospel in England. Consider the ramifications o
 Saint Anselm, the Magna Carta, Shakespeare, progress towards democracy, the planting of
 the American colonies, the spread of the rule of law, Amazing Grace, the abolition of
 slavery, opposition to Hitler…
+
 The 28th generation saw Jerusalem overrun when a devastating foe arose: Islam. When I
 see the words gracious, merciful and righteous in Psalm 112:4, I think of the Trinity. I am
 saved by grace through faith in the Son. My physical needs and miraculous healings are
 provided by the Father. And the righteousness from God is the Holy Spirit dwelling in my
 heart.
+
 Not all see this Trinity. The Quran begins in Surah 1 by speaking of God’s mercy,
 compassion and righteousness. But then in Surah 112, we find these words:
-He has never had offspring, nor was He born.
-And there is none comparable to Him. (Surah 112:3-4)
+
+#### He has never had offspring, nor was He born.
+##### And there is none comparable to Him.
+###### - Surah 112:3-4
+
 Psalm 112 celebrates the birth of God’s Son while Surah 112 denies he exists. That is
 darkness. By God’s grace, this era ended with the Battle of Tours in 732 AD, when the tide
 of Islam reached its first high water mark and began to recede.
-335
-29th and 30th Generations: 733-852, 852-971 AD.
-Psalm 112:5a-b.
-Charlemagne.
-It is well with the man who deals generously and lends;
-who conducts his affairs with justice.
+
+<div class="era">
+  <p>29th Generation: 733-852 AD.</p>
+  <p>30th Generation: 852-971 AD.</p>
+  <p>Psalm 112:5a-b.</p>
+  <p>Charlemagne.</p>
+</div>
+
+#### It is well with the man who deals generously and lends;
+##### who conducts his affairs with justice.
+
 Charlemagne founded the Holy Roman Empire and reformed the justice system. His
 councilor, Alcuin, wrote a treatise on ethics and personally tutored Charlemagne’s family.
 Alcuin also created the distinction between primary and secondary education and
@@ -674,21 +723,29 @@ introduced the use of lower and uppercase letters, making it easier to read. The
 Carolingian Renaissance was a bright spot in the Dark Ages. Charlemagne gave generously
 to the church and expended great effort at spreading Christianity throughout his lands.
 This verse fits him well.
+
 The tenth century saw a movement against fatal judicial punishments. In a hagiography
 about the martyred King Wenceslas (who in truth was but a prince), Bishop Gumpold of
 Mantua (prior to 983 AD) proposed a shockingly humane approach to criminal
 punishment. That is, it would not be shocking to us but it was to a world where blinding
 someone instead of killing them counted as humane. Justice was advancing, however
 slowly.
-31st and 32nd Generations: 971-1090, 1090-1209 AD.
-Psalm 112:6a-b.
-First Crusade, Monastic Reforms of Saints Bernard and Francis.
-For the righteous will never be moved;
-he will be remembered forever.
+
+<div class="era">
+  <p>31st Generation: 971-1090 AD.</p>
+  <p>32nd Generation: 1090-1209 AD.</p>
+  <p>Psalm 112:6a-b.</p>
+  <p>First Crusade, Monastic Reforms of Saints Bernard and Francis.</p>
+</div>
+
+#### For the righteous will never be moved;
+##### he will be remembered forever.
+
 The 31st generation opened with the Baptism of Rus at Kiev in 988 AD. Christianity
 exploded into Slavic lands. A thousand years later, despite seventy years of Soviet
 persecution, the Orthodox Church celebrated a millennium of Christianity in Russia. The
 righteous will never be moved.
+
 Then in the 32nd generation, with the launching of the First Crusade, Christendom
 enjoyed a major military victory against the forces of Islam, capturing Jerusalem and
 holding it for about a century. There are figures from this era that “will be remembered
@@ -697,105 +754,138 @@ two people from that era are still vital parts of the faith of millions: Saint F
 and Bernard of Clairvaux. Bernard left us “O Sacred Head, now Wounded”, one of the
 most moving hymns ever penned. Saint Francis gave us “All Creatures of Our God and
 King” and his prayer, “Make me an instrument of your peace”.
-336
-Acrostic Clock: Psalms 111 and 112
+
 Saint Bernard drew up the code of conduct for the Knights Templar, defining the ideals
 of knighthood. He and the Cistercian Order that he helped spread honored manual labor.
 Saint Francis kissed lepers and preached compassion for the poor.
+
 Such as these deserve to be remembered forever.
-33rd and 34th Generations: 1209-1328, 1328-1447 AD.
-Psalm 112:7a-b.
-Great Famine, Mongol Invasions, Black Death, Tamerlane,
-Ottoman Sieges.
-He is not afraid of bad news;
-his heart is firm, trusting in the Lord.
+
+<div class="era">
+  <p>33rd Generation: 1209-1328 AD.</p>
+  <p>34th Generation: 1328-1447 AD.</p>
+  <p>Psalm 112:7a-b.</p>
+  <p>Great Famine, Mongol Invasions, </p>
+  <p>Black Death, Tamerlane, Ottoman Sieges.</p>
+</div>
+
+#### He is not afraid of bad news;
+##### his heart is firm, trusting in the Lord.
+
 This least specific prophecy is the most prophetic. “Bad news” can only be meaningful if
 it means “the worst news ever”. Consider the contenders for this title. The bowl judgments
 of Revelation will be the last and worst plagues. This verse cannot mean that for two
 reasons. First, this verse addresses the upright man, not the wicked inhabitants of the
 earth. The bad news is for the church, not the infidel. Second, the final verses of this
 psalm address the fate of the wicked separately.
+
 Another contender is the flood of Noah. This can be ruled out because that is covered
 by Psalm 111 and again the righteous were spared.
+
 Only the terrors of this age fit because they were a judgment against the church and were
 comprehensive. Though the thirteenth through the mid-fourteenth centuries did not see
 the visit of all four horsemen of the apocalypse in their full glory, all four did make an
 appearance. Those four categories are war, civil war, pestilence and death.
-For war, we have attacks by Tamerlane and the Ottoman Empire, but the warrior par
+
+**For war**, we have attacks by Tamerlane and the Ottoman Empire, but the warrior par
 excellence was Ghengis Khan. He conquered the second largest empire in history.
 Considering that the largest, the British Empire, was a Christian empire, that means that
 Christians of this era faced the greatest non-Christian warlord of all time. That was bad
 news.
-For civil war, the worst period of civil war among Christians was during the wars of
+
+**For civil war**, the worst period of civil war among Christians was during the wars of
 religion during the subsequent two eras. The second worst period was during these eras.
 The Byzantine Empire spent more years engulfed in civil war during these centuries than
 all its previous history. Also, during the Fourth Crusade in 1204 AD, just five years before
 the 33rd generation began, western Christians sacked Constantinople. More bad news.
-For pestilence, we have the Great Famine of 1315-1317 AD, which killed 10-25% of the
+
+**For pestilence**, we have the Great Famine of 1315-1317 AD, which killed 10-25% of the
 population. The Medieval Warm Period ended and the Little Ice Age would soon follow.
 To take France as an example, famines occurred in 1304, 1305, 1310, 1315–1317 (the Great
 Famine), 1330–1334, 1349–1351, 1358–1360, 1371, 1374–1375, and 1390, or a fifth of the
-337
 century. On one occasion, the attendants of King Edward II of England could not find
 food to feed their king! This famine was exacerbated by cattle disease which killed the
 draft animals, and pneumonia, bronchitis, and tuberculosis, which killed many people.
 Very bad news.
-For death, we have the Black Death, the worst plague in human history. The worst news.
+
+**For death**, we have the Black Death, the worst plague in human history. The worst news.
+
 If you take all this bad news together, it was the worst series of crises ever faced by the
 church. To compound matters, six years after the end of the 34th generation,
 Constantinople fell to the Ottoman Empire and the Byzantine Empire was no more. It
 was one of the greatest blows against Christendom in its history.
+
 This psalm points a finger at exactly when all these crises would hit. It did not tell the
 church “what” but the psalm told it “when”. The reason the prophecy did not specify
 “what” was that it meant everything.
+
 If life throws everything at you, will “[your] heart [remain] firm, trusting in the Lord”?
-35th and 36th Generations: 1447-1566, 1566-1685 AD.
-Psalm 112:8a-b.
-Protestant Reformation, Wars of Religion.
-His heart is steady; he will not be afraid,
-until he looks in triumph on his adversaries.
+
+<div class="era">
+  <p>35th Generation: 1447-1566 AD.</p>
+  <p>36th Generation: 1566-1685 AD.</p>
+  <p>Psalm 112:8a-b.</p>
+  <p>Great Famine, Mongol Invasions, </p>
+  <p>Protestant Reformation, Wars of Religion.</p>
+</div>
+
+#### His heart is steady; he will not be afraid,
+##### until he looks in triumph on his adversaries.
+
 In the 35th generation, Luther, Calvin and other Protestants steadied their hearts in the
 face of great persecution and death.
+
 In the 36th generation, Protestant victories ensured the survival of their creeds, people,
 churches and influence. They truly looked in triumph on their adversaries, at the cost of
 tens of millions of lives lost in battle or claimed by war’s disruption.
+
 Throughout this time, they often sang one song as their battle hymn. They sang it on
 the way to martyrdom. They sang it as they trudged into exile. They sang it when they
 marched into battle at Leipzig in 1631 and Lutzen in 1632. That song was “A Mighty
 Fortress is Our God”, by Martin Luther. This verse touches on our current psalm:
-And though this world, with devils filled,
-should threaten to undo us,
-we will not fear, for God has willed
-his truth to triumph through us.
-The prince of darkness grim,
-we tremble not for him;
-his rage we can endure,
-for lo! his doom is sure;
-one little word shall fell him.
-338
-Acrostic Clock: Psalms 111 and 112
-37th, 38th and 39th Generations:
-1685-1804-1923-2042 AD.
-Psalm 112:9abc.
-Democracy, Abolition of slavery, Rebirth of Israel.
-He has distributed freely; he has given to the poor;
-his righteousness endures forever;
-his horn is exalted in honor.
+
+#### And though this world, with devils filled,
+##### should threaten to undo us,
+#### **we will not fear**, for God has willed
+##### his truth to triumph through us.
+#### The prince of darkness grim,
+##### **we tremble not for him**;
+#### his rage we can endure,
+##### for lo! his doom is sure;
+#### one little word shall fell him.
+
+<div class="era">
+  <p>37th Generation: 1685-1804 AD.</p>
+  <p>38th Generation: 1804-1923 AD.</p>
+  <p>39th Generation: 1923-2042 AD.</p>
+  <p>Psalm 112:9abc.</p>
+  <p>Great Famine, Mongol Invasions, </p>
+  <p>Democracy, Abolition of slavery, Rebirth of Israel.</p>
+</div>
+
+#### He has distributed **freely**; he has given to the poor;
+##### his **righteousness** endures forever;
+###### his **horn** is exalted in honor.
+
 In the 37th generation, God created the United States of America and intensified the
 push towards freedom. A new focus on education and other charitable ventures in
 England, America and elsewhere began to prepare even the poor for a better life. Refugees
 from poverty and religious persecution now had a haven to which they could flee.
+
 The 38th generation spread aspects of God’s righteousness to the whole world. Chief
 among them were the abolition of slavery and the push for women’s rights. By the rapid
 growth of the church and its influence upon all nations, God’s righteousness progressed
 farther and faster in this generation than any before it.
+
 The 39th generation produced a singular miracle. Out of the ashes of the Holocaust a
 new Israel arose. What a horrible price was paid. Let’s do the math.
+
 In the following table, population values or changes are in millions of souls. A critical
 measurement is the excess deaths of Jews from 1933 to 1945. This value of six million is
 often taken as the number of Jews who died in the Holocaust. It is not. It is the number of
 Jews who died in the Holocaust plus the children who were never born. They are victims
 of a horrible sort.
+
 In normal times, a stable population adds births and subtracts deaths. They mostly
 balance out, with a small percentage gain due to births in a growing population. In such a
 regime, if the population drops or fails to increase as fast despite additional births, that is
@@ -805,21 +895,21 @@ to prove that the majority of excess Jewish deaths were directly from the Holoca
 because of those deaths and the fear of what might happen among Jews that escaped the
 Holocaust, the birth rate among Jews in Europe plummeted. For the purpose of these
 calculations, that birth rate will be assumed to be zero.
+
 The upshot of this is that without new births, many of the excess deaths of Jews were
 from natural causes (or war). Every Jew that did not die in the Holocaust was subject to a
 “normal” rate of mortality. By separating deaths into two causes, normal and Holocaust,
 we can divide those six million excess deaths into two groups, then compare those
 numbers to the total Jewish population to discover what percent of all Jews died from the
-339
 Holocaust. It is a fraction with eschatological significance of critical importance to the
 church.
+
 In order to make proper use of excess mortality, we need to know the normal mortality.
 In 1933, the largest number of Jews in Europe lived in Poland (3 million) and the second
 most in the USSR (2.5 million). According to this article, “Vital Statistics: An
 Introduction” [44], the 1930s yearly mortality rate for Jews in Poland was 10.0 ‰ (1%). If
 extrapolated over the next twelve years, that would be 12%, but fail to account for the stark
 increase due to the war.
-
 
 By 1941-2, while the Germans occupied Poland, that rate increased to 20-28%, of which
 19% was war deaths and the rest increased mortality due to general hardship brought on
@@ -859,17 +949,20 @@ H/W = 5.013 / 15.3 = 0.33
 Compute fraction of all Jews that died directly
 from the Holocaust.
 
-Why the math? The result we get after adjusting for natural causes and war deaths is
+**Why the math**? The result we get after adjusting for natural causes and war deaths is
 that almost exactly one-third of the worldwide Jewish population died from the Holocaust.
 This computation is important for three reasons.
-First, I do not want to be labeled a Holocaust denier by reducing the tally from six to
+
+**First**, I do not want to be labeled a Holocaust denier by reducing the tally from six to
 five million Jewish lives lost. Most of the million difference is civilian deaths due to an
 evil war provoked by Satan to kill the Jews, so that is still criminal.
-Second, the factor of one-third is prophetic. It has to do with trumpets. This verse says
+
+**Second**, the factor of one-third is prophetic. It has to do with trumpets. This verse says
 “his horn is exalted in honor”. Bulls have horns, so horns are a symbol of strength. Rams
 have horns, too. The shofar, a trumpet made from a ram’s horn, was significant in Jewish
 history. When the people marched seven times around Jericho, they blew the shofar and
 the walls came tumbling down.
+
 Revelation speaks of seven trumpets, too. The seven trumpets blown in that book
 symbolically represent God marching around the whole world seven times before its walls
 come tumbling down. In Peace, I attempted to match the first five trumpet judgments to
@@ -882,63 +975,91 @@ mentions but one sea creature: Leviathan, the terrifying sea serpent. By reorder
 thus, Job was saying that Leviathan comes before the Morning Star. Jesus is the Morning
 Star and Satan rules over Leviathan. Job was really saying that the devil would get to him
 before the savior. Help would arrive too late.
+
 How does this tie in with Revelation’s fourth trumpet? That judgment announces a great
 persecution:
-The fourth angel blew his trumpet, and a third of the sun was struck, and a third of the moon, and a
-third of the stars, so that a third of their light might be darkened, and a third of the day might be kept
-from shining, and likewise a third of the night.
-(Revelation 8:12)
+
+#### The fourth angel blew his trumpet,
+#### and a third of the sun was struck, 
+#### and a third of the moon, 
+#### and a third of the stars,
+#### so that a third of their light might be darkened, 
+#### and a third of the day might be kept from shining,
+#### and likewise a third of the night.
+###### - Revelation 8:12
+
 By striking the sun, moon, and stars, what is happening is that the numbers of
 Christians will be drastically reduced and the church’s influence – its light – would wane
-341
 significantly. That has not happened yet, but the effects of the fifth trumpet have, as
 explained in Peace. Thus the two trumpets – as they concern the church – were reversed.
+
 Not so for Israel. These prophecies of the end times apply to both Israel and the church,
 but at different times and in different ways. For Israel, the order of the trumpets remains
 unaltered. The church has experienced trumpets one, two, three, and five and awaits the
 fourth trumpet, which will be blown early in “a time to hate”, near when the fifth seal is
 opened, which speaks of the same persecution but in a different way, in terms of lives lost,
 not influence diminished.
+
 Israel has already experienced the first five trumpets in sequence. The precise fraction of
 one-third of all Jews that perished during the Holocaust matches the fraction that was
 relentlessly repeated in Revelation 8:12. John the Apostle accurately prophesied this event
 over 1,800 years before it happened as it pertained to the Jews, whom he loves.
+
 The punchline for this second reason that the factor of one-third is important is God’s
 hedge. God put a hedge around Job. Satan was limited in what he could do to the man, as
 horrible as it was. God also placed a limit upon Satan for the Holocaust. Satan’s agent,
 Hitler, was permitted to kill no more than a third of the world’s Jews. God predicted it,
 promised it and kept that promise.
+
 Third, we have a grave reason. Surely the same will happen to the Lord’s beloved church.
 When the great persecution begins, likely later in this century, Christians will be tempted
 to despair that all believers will be killed. However, we have God’s word that as terrible as
 it is, only one third will die. The cost will be calamitous but God will preserve a remnant.
 This raises a question.
+
 What is the church doing
 to prepare the flock
 so that we may remain faithful,
 no matter what comes?
-342
-Acrostic Clock: Psalms 111 and 112
-40th, 41st and 42nd Generations:
-2042-2161-2280 AD-Eternity.
-Psalm 112:10abc.
-Great Persecution, Final Judgement.
-The wicked man sees it and is angry;
-he gnashes his teeth and melts away;
-the desire of the wicked will perish!
+
+<div class="pullquote-centered">
+  <p>What is the church doing</p>
+  <p>to prepare the flock</p>
+  <p>so that we may remain faithful,</p>
+  <p>no matter what comes?</p>
+</div>
+
+<div class="era">
+  <p>40th Generation: 2042-2161 AD.</p>
+  <p>41st Generation: 2161-2280 AD.</p>
+  <p>42nd Generation: 2280 AD-Eternity.</p>
+  <p>Psalm 112:10abc.</p>
+  <p>Great Persecution, Final Judgement.</p>
+</div>
+
+#### The wicked man sees it and is angry;
+##### he gnashes his teeth and melts away;
+###### the desire of the wicked will perish!
+
 The three lines of the final verse of Psalm 112 match the final three of Solomon’s times:
 a time to hate, a time for war and a time for peace. We can see the hatred in the wicked
 man’s anger in the first line, 112:10a. We see the warfare when he gnashes his teeth in the
 second line, Psalm 112:10b. Finally, we see the cause of peace in 112:10c. When the wicked
 perish and are consigned to Hell, there will be peace.
+
 The first era of this verse is the one soon to begin. It will usher in a terrible persecution.
 Millions of Jews will flee the Americas for Israel. Most Christians will have nowhere to
 flee. We need the rest of the verse to give us hope and sustain our faith. When the clock
 that is these two psalms runs out, it will be for the wicked, not the righteous.
+
 What is “the desire of the wicked”? It is covetousness. The tenth and final
 commandment forbids this sin. It seems to the ignorant that this final commandment is
 the least of the sins described. Murder. Theft. Adultery. Perjury. They look pretty bad.
 However, they all spring from the same evil seed, which is covetousness, the desire for
 what is not yours. By this last verse we see the strongest connection between these two
 psalms and the Law. Throughout all generations, God upholds his law.
+
 Now it is time to return to the larger Psalm Clock. We shall resume with Psalm 115.
+
+(NOTE: This analysis of the Psalms continues in the chapter "The Final Ascent: Psalms 113-150"
+in *Plague, Precept, Prophet, Peace*.)
