@@ -13,6 +13,15 @@ This article will summarize sections of *Peace, like Solomon Never Knew* and *Pl
 It will name each clock, block out the eras of history that it prophesies, point out where in those books it was developed, and (for a few) 
 point to an extended treatment in a separate article on this website.
 
+<hr/>
+
+<div class="numbered-image">
+  <p id="1" class="numbered-image">1</p>
+  <p><img class="numbered-image" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" /></p>
+</div>
+
+<hr/>
+
 ## Creation Clock
 
   - Bible book: Genesis 1
@@ -43,6 +52,15 @@ Day 6 saw the creation of the beasts and man. The sixth millennium spans the per
 
 Day 7 will usher in the sabbath rest, when Christ returns.
 
+<hr/>
+
+<div class="numbered-image">
+  <p id="2" class="numbered-image">2</p>
+  <p><img class="numbered-image" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" /></p>
+</div>
+
+<hr/>
+
 ## Temple Dedication Clocks
 
   - Bible book: 1 Kings 8:62–63
@@ -70,6 +88,15 @@ final generation was the beginning of the Scientific
 Revolution and the age of Reason. Solomon, the wisest
 non-divine man in history, pointed to the era where
 humanity’s earthly wisdom would explode.
+
+<hr/>
+
+<div class="numbered-image">
+  <p id="3" class="numbered-image">3</p>
+  <p><img class="numbered-image" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" /></p>
+</div>
+
+<hr/>
 
 ## Solomon’s Celestial Clock
 
