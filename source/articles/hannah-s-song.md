@@ -625,7 +625,7 @@ by the prophecy. For the seven reversals:
   <td>1200-1080 BC</td>
   <td>v3</td>
   <td>
-      <em>Talk no more so very proudly, let not arrogance come from your <strong>mouth</strong>...</em></td> <br/>
+      <em>Talk no more so very proudly, let not arrogance come from your <strong>mouth</strong>...</em> <br/>
       <br/>
       Jephthah's rash vow in Judges 11 ca 1115 BC cost him his daughter.<br/>
       <em>"Alas, my daughter! You have brought me very low,</em> <br/>
