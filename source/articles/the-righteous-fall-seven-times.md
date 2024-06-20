@@ -337,21 +337,27 @@ God more clearly. His voice grows clearer still. If you train yourself to listen
 then when trouble strikes, you, too, shall rise again.
 
 <hr/>
+
+<div class="sections">
+
 Other articles in this section:
 
-  - [Riddles](./riddles.html): Introduction to Biblical riddles
-  - [The Righteous Fall Seven Times](./the-righteous-fall-seven-times.html): Proverbs 24 tells us when the righteous will fall - and rise again.
-  - [Twice a Thousand Years](./twice-a-thousand-years.html): A Riddle from Ecclesiastes 6
-  - [The Seven Pillars of Wisdom](./seven-pillars-riddle.html): What holds up Lady Wisdom's House in Proverbs 9?
-  - [Why 153 Fish?](./riddle-of-153-fish.html): The Miraculous Catch of Fish from John 21
-  - [Riddles of War](./riddles-of-war.html): The Battle Cry of Proverbs 30
-  - [Building a House](./building-a-house.html): Construction advice by Solomon from Ecclesiastes 10
-  - [Hannah's Song](./hannah-s-song.html): Hannah's Amazing Prayer
-  - [Satan's Taunt](./satan-s-taunt.html): Why is Satan's Taunt in Matthew 4 ironic?
-  - [Parable of the Workers in the Vineyard](./vineyard-parable.html): When would Jesus send out workers to his vineyard?
-  - [The Parable of the Wedding Feast](./wedding-parable.html): If someone ghosted you over a wedding invite, would you burn down their city?
-  - [The Childbearing](./the-childbearing.html): How does bearing children save women?
+  <ol>
+    <li> <a href="./riddles.html">Riddles: Introduction to Biblical riddles</a> </li>
+    <li> <a href="./the-righteous-fall-seven-times.html">The Righteous Fall Seven Times: Proverbs 24 tells us when the righteous will fall - and rise again.</a> </li>
+    <li> <a href="./twice-a-thousand-years.html">Twice a Thousand Years: A Riddle from Ecclesiastes 6</a> </li>
+    <li> <a href="./seven-pillars-riddle.html">The Seven Pillars of Wisdom: What holds up Lady Wisdom's House in Proverbs 9?</a> </li>
+    <li> <a href="./riddle-of-153-fish.html">Why 153 Fish?: The Miraculous Catch of Fish from John 21</a> </li>
+    <li> <a href="./riddles-of-war.html">Riddles of War: The Battle Cry of Proverbs 30</a> </li>
+    <li> <a href="./building-a-house.html">Building a House: Construction advice by Solomon from Ecclesiastes 10</a> </li>
+    <li> <a href="./hannah-s-song.html">Hannah's Song: Hannah's Amazing Prayer</a> </li>
+    <li> <a href="./satan-s-taunt.html">Satan's Taunt: Why is Satan's Taunt in Matthew 4 ironic?</a> </li>
+    <li> <a href="./vineyard-parable.html">Parable of the Workers in the Vineyard: When would Jesus send out workers to his vineyard?</a> </li>
+    <li> <a href="./wedding-parable.html">The Parable of the Wedding Feast: If someone ghosted you over a wedding invite, would you burn down their city?</a> </li>
+    <li> <a href="./the-childbearing.html">The Childbearing: How does bearing children save women?</a> </li>
+  </ol>
 
+</div>
 
 
 
