@@ -154,8 +154,8 @@ International Family Church in Winchester that weekend. A guest preacher
 spoke about the time when Jesus calmed the storm. The preacher said that Jesus' main reason
 for taking his disciples on a boat into the storm was not to teach them faith.
 His reason was to get to the other side of the lake, where there were two demon possessed men
-who needed a savior. That sermon reminded me of my recent dream and convinced me t
-hat it was a prophecy. My family and I would endure many years of trials but the Lord 
+who needed a savior. That sermon reminded me of my recent dream and convinced me
+that it was a prophecy. My family and I would endure many years of trials but the Lord 
 would see us through them all. For the next nearly two decades we endured one crisis
 after another with the first starting only three days after I heard the sermon.
 

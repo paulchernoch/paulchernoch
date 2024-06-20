@@ -12,6 +12,31 @@ meaning behind the words of the Prophetess Hannah to be one of the most importan
 spring from all my years of studying the Bible. Of all the words in the Bible touching on the 
 subject of God's wisdom, hers may be the most profound.
 
+<div class="sections">
+
+Article Contents:
+
+  <ol>
+    <li> <a href="#1">One Wise Woman</a> </li>
+    <li> <a href="#2">A Woman of Sacrifice</a> </li>
+    <li> <a href="#3">A Woman of Power</a> </li>
+    <li> <a href="#4">A Woman of Prophecy</a> </li>
+    <li> <a href="#5">The Big picture</a> </li>
+    <li> <a href="#6">The Introduction</a> </li>
+    <li> <a href="#7">Hannah Understands the Law</a> </li>
+    <li> <a href="#8">Hannah Understands Motherhood</a> </li>
+    <li> <a href="#9">Defining A Prophetic Clock</a> </li>
+    <li> <a href="#10">Hannah's Prophetic Clock</a> </li>
+    <li> <a href="#11">Objections</a> </li>
+    <li> <a href="#12">A Voice for Women</a> </li>
+    <li> <a href="#13">Wiser than Hannah?</a> </li>
+    <li> <a href="#14">What will Tomorrow Bring?</a> </li>
+    
+  </ol>
+
+</div>
+
+<span id="1"/>
 ## One Wise Woman
 
 Everyone wants to be the greatest. Yet how can you become the greatest at something unless 
@@ -63,6 +88,7 @@ Yes!
 
 Her name is Hannah.
 
+<span id="2"/>
 ## A Woman of Sacrifice
 
 Hannah was not on my radar until shortly after I discovered the Pillars of Wisdom. 
@@ -150,6 +176,7 @@ She ended her fast and was no longer sad. She walked away from Shiloh
 with the same peace that I had when I left my doctor's office.
 That is the measure of Hannah's faith.
 
+<span id="3"/>
 ## A Woman of Power
 
 When a person endures great suffering and yet holds fast to God in faith, 
@@ -214,6 +241,7 @@ She could have retreated into melancholy, regretting her decision.
 Instead she uttered ten verses so subtle, I doubt I will ever plumb their depths
 of profundity and power...
 
+<span id="4"/>
 ## A Woman of Prophecy
 
 In the verses that follow, I have added section headings.
@@ -298,6 +326,7 @@ That makes Hannah one of the two wisest women who ever lived.
 ###### and exalt the horn of his anointed.”
 ###### - 1 Samuel 2:1-10
 
+<span id="5"/>
 ## The Big picture
 
 What is the big picture? In a riddle, Hannah prophesied the existence of the seven pillars
@@ -317,6 +346,7 @@ wisdom that God established the heavens and the earth. Wisdom is their foundatio
 Thus by appearing just before the seventh reversal and because of the emotional connection
 of Hannah to the verse about the barren bearing seven, we have the seven pillars of wisdom.
 
+<span id="6"/>
 ## The Introduction
 
 If a little wordplay was all it took to match Hannah's prayer to the seven pillars of wisdom,
@@ -358,6 +388,7 @@ The introduction describes the combatants in three opposing pairs.
 I completely overlooked the introductory verses in my analysis in *Peace*. 
 When solving riddles, it is not wise to overlook anything.
 
+<span id="7"/>
 ## Hannah Understands the Law
 
 The weighing of actions spoken of in verse 3 speaks to the very function of Law.
@@ -403,6 +434,7 @@ parents alone. God steps in alongside us and brings honor to parents by his love
 His grace made Hannah, whose name means grace, into a gracious mother who poured her heart into loving a son
 whom she could not keep. And God still honors mothers today, just as he did Hannah long ago.
 
+<span id="8"/>
 ## Hannah Understands Motherhood
 
 When you look at the whole prayer, not skipping the introduction, you also see how Hannah weaves
@@ -429,6 +461,7 @@ This is the near term prophecy that we can see in her words. I overlooked this c
 when I wrote of my initial findings two years ago. The metaphor of pregnancy unifies the whole prayer, which
 means that if there is a second, long-term prophecy to be found here, it must also bring in the whole prayer.
 
+<span id="9"/>
 ## Defining A Prophetic Clock
 
 In *Plague, Precept, Prophet, Peace*, I set forth hermeneutical rules for discovering and 
@@ -497,6 +530,7 @@ As we shall see, the seven reversals correspond to seven quartets of times from 
 Thus the last reversal is for the times to love, to hate, for war and for peace.
 That quartet has the pattern good-bad-bad-good, just like verses 9 and 10 with their pattern of reversals.
 
+<span id="10"/>
 ## Hannah's Prophetic Clock
 
 It is now time to reveal Hannah's extended prophetic clock.
@@ -544,283 +578,351 @@ by the prophecy. For the seven reversals:
 
 <hr/>
 
-|  Era  |   Year Range  | Verses | Events                                                                               |
-| :---: | :-----------: | :----: | :----------------------------------------------------------------------------------- |
-| <hr>  |     <hr/>     |  <hr/> |                              <hr/>                                                   |
-|  1    |  1440-1320 BC |   v1   | *My heart exults in the Lord;*                                                       |
-|       |               |        |  *my **horn** is exalted in the Lord.*                                               |
-|       |               |        |  *My mouth derides my enemies,*                                                      |
-|       |               |        |  *because I rejoice in your salvation.*                                              |
-|       |               |        |  &nbsp;                                                                              |
-|       |               |        | In the Book of Joshua, the Israelites marched around                                 |
-|       |               |        | the walls of Jericho blowing **horns**, ca 1407 BC.                                  |
-| <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
-|  2    |  1320-1200 BC |   v2   | *for there is none besides you*                                                      |
-|       |               |        |  &nbsp;                                                                              |
-|       |               |        | In Judges 5, in the story of Deborah we read *The mountains quaked before the Lord*, |
-|       |               |        | showing that no rock is as strong as the Lord. We also read about the terrible       |
-|       |               |        | preceding time of anarchy, "When new gods were chosen" (Judges 5:8).                 |
-|       |               |        | The people forgot that there is none beside Yahweh.                                  |
-|       |               |        |  &nbsp;                                                                              |
-|       |               |        | *there is no **rock** like our God*                                                  |
-|       |               |        | In Judges 6, fire miraculously came up from the rock to consume Gideon's sacrifice   |
-|       |               |        | when the angel of the Lord visited him, ca 1201 BC.                                  |
-| <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
-|  3    |  1200-1080 BC |   v3   | *Talk no more so very proudly, let not arrogance come from your **mouth**...*        |
-|       |               |        |  &nbsp;                                                                              |
-|       |               |        | Jephthah's rash vow in Judges 11 ca 1115 BC cost him his daughter.                   |
-|       |               |        |  &nbsp;                                                                              |
-|       |               |        | *"Alas, my daughter! You have brought me very low,*                                  |
-|       |               |        | *and you have become the cause of great trouble to me.*                              |
-|       |               |        | *For I have opened my **mouth** to the Lord,*                                        |
-|       |               |        | *and I cannot take back my vow." *                                                   |
-|       |               |        | *And she said to him, "My father, you have opened*                                   |
-|       |               |        | *your **mouth** to the Lord; *                                                       |
-|       |               |        | *do to me according to what has gone out of your **mouth**..."*                      |
-| <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
-|  4    |  1080-600 BC  |   v4   | *The bows of the mighty are broken,*                                                 |
-|       |               |        | *but the feeble bind on strength.*                                                   |
-|       |               |        |  &nbsp;                                                                              |
-|       |               |        |  **First Reversal**: SECURITY for the weak.                                          |
-|       |               |        |  The mighty have weapons and the feeble do not. This describes security and          |
-|       |               |        |  insecurity at their most basic.                                                     |
-|       |               |        |  **Matching pillar book**: PSALMS                                                    |
-|       |               |        |  A Psalm conforming to Solomon's twenty-eight times is Psalm 102:                    |
-|       |               |        |  &nbsp;                                                                              |
-|       |               |        |  *Of old you laid the foundation of the earth,*                                      |
-|       |               |        |  *and the heavens are the work of your hands.* (Psalm 102:25)                        |
-|       |               |        |  &nbsp;                                                                              |
-|       |               |        |  The first thing that a pillar needs is to be built upon a                           |
-|       |               |        |  strong foundation and this Psalm says that foundation was                           |
-|       |               |        |  laid by God. In the Harvest pattern, this is called the                             |
-|       |               |        |  Preparation phase. Psalms also speaks directly about what                           |
-|       |               |        |  will happen to “the bows of the mighty” of verse 4:                                 |
-|       |               |        |  &nbsp;                                                                              |
-|       |               |        |  *The wicked draw the sword and bend their bows*                                     |
-|       |               |        |  *to bring down the poor and needy,*                                                 |
-|       |               |        |  *to slay those whose way is upright;*                                               |
-|       |               |        |  *their sword shall enter their own heart,*                                          |
-|       |               |        |  *and their bows shall be broken.* (Psalm 37:14–15)                                  |
-|       |               |        |  &nbsp;                                                                              |
-|       |               |        |  Prophetically, Israel oscillated between periods of security and insecurity.        |
-|       |               |        |  the bows of Israel and Judah were broken during this era.                           |
-|       |               |        |  Israel fell to Assyria in 722 BC. Then Josiah was killed by the Babylonians at the  |
-|       |               |        |  Battle of Megiddo in 605 BC and the first wave of prisoners                         |
-|       |               |        |  were exiled. This spelled the end of Israel's security.                             |
-|       |               |        |  Yet in the middle of this chaos, an unnamed Jewish girl enslaved by the Syrians,    |
-|       |               |        |  loves her enemy, the man who captured her, the Syrian general Naaman.               |
-|       |               |        |  She tells him of the Prophet Elijah, who would heal this enfeebled leper            |
-|       |               |        |  that he might be strong again.                                                      |
-| <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
-|  5    |   600-120 BC  |   v5a  |  *Those who were full have hired themselves out for bread,*                          |
-|       |               |        |  *but those who were hungry have ceased to hunger.*                                  |
-|       |               |        |  &nbsp;                                                                              |
-|       |               |        |  **Second Reversal**: ABILITY for the impoverished.                                  |
-|       |               |        |  The impoverished often lack the skills necessary to support themselves,             |
-|       |               |        |  hence are forced as in verse 5 to “\[hire\] themselves out for bread”.              |
-|       |               |        |  They lack ability.                                                                  | 
-|       |               |        |  **Matching pillar book**: JOB                                                       |
-|       |               |        |  A person who must work for starvation wages suffers like Job.                       |
-|       |               |        |  Job confessed his inability to save himself from his troubles (in Job 6:11-13).     |
-|       |               |        |  In the Harvest pattern, Job unquestionably matches the Plowing phase of suffering.  |
-|       |               |        |  &nbsp;                                                                              |
-|       |               |        |  Prophetically, the Jews endured much poverty during this era.                       |
-|       |               |        |  They even faced genocide at the instigation of Haman. How was Haman stopped?        |
-|       |               |        |  Queen Esther threw a banquet, the opposite of hunger.                               |
-|       |               |        |  The former queen, Vashti, was now hungry, and the Jews who were to die,             |
-|       |               |        |  were instead filled with joy.                                                       |
-|       |               |        |  &nbsp;                                                                              |
-|       |               |        |  Also during this era, the Septuagint, symbolically the bread of God’s word,         |
-|       |               |        |  was completed. Jesus may have told his disciples to pray *'Give us this day*        |
-|       |               |        |  *our daily bread'*, but it was Job who first called God's Word his bread:           |
-|       |               |        |  &nbsp;                                                                              |
-|       |               |        |  *I have not departed from the commandment of his lips;*                             |
-|       |               |        |  *I have treasured the words of his mouth more than my portion of food.*             |
-|       |               |        |  - Job 23:12                                                                         |
-|       |               |        |  &nbsp;                                                                              |
-|       |               |        |  The Septuagint was in Greek, meaning that God's words would now begin to go         |
-|       |               |        |  out to the Gentile world, people who never had access to God's Word before, and     |
-|       |               |        |  now would cease to hunger. Sadly, the Jews, who were once full, would now for       |
-|       |               |        |  a long time hear no more from God via prophets. This fulfills the words of the      |
-|       |               |        |  prophet Amos:                                                                       |
-|       |               |        |  *“Behold, the days are coming,” declares the Lord God,*                             |
-|       |               |        |  *“when I will send a **famine** on the land— not a **famine** of bread,*            |
-|       |               |        |  *nor a thirst for water, but of hearing the words of the Lord.*                     |
-|       |               |        |  - Amos 8:11                                                                         |
-| <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
-|  6    | 120 BC-360 AD |   v5b  |  *The barren has borne seven,*                                                       |
-|       |               |        |  *but she who has many children is forlorn.*                                         |
-|       |               |        |  &nbsp;                                                                              |
-|       |               |        |  **Third Reversal**: Emotional STABILITY for the anguished.                          |
-|       |               |        |  On one trip to the temple in 1 Samuel 1:12–16, though                               |
-|       |               |        |  Hannah prayed silently, the anguish of her heart made her                           |
-|       |               |        |  lips move, thus the insensitive priest ridiculed her for being                      |
-|       |               |        |  drunk. Then by God’s grace she bore a child and knew joy.                           |
-|       |               |        |  The capsized ship of her emotions was righted and she                               |
-|       |               |        |  began to experience emotional stability.                                            |
-|       |               |        |  **Matching pillar book**: PROVERBS                                                  |
-|       |               |        |  What connects it to Proverbs? When we need a pillar to                              |
-|       |               |        |  stabilize us, our emotional life needs it most. It is in                            |
-|       |               |        |  Proverbs 9 that the Seven Pillars of Wisdom are named, so                           |
-|       |               |        |  it corresponds to Hannah’s (and our) deepest need.                                  |
-|       |               |        |  This reversal corresponds to the Planting Harvest phase.                            |
-|       |               |        |  In Hannah’s case, what was planted was the seed that                                |
-|       |               |        |  became her firstborn son.                                                           |
-|       |               |        |  &nbsp;                                                                              |
-|       |               |        |  Prophetically, this speaks of two miraculous births that                            |
-|       |               |        |  occurred in the corresponding era. Barren Elizabeth gives                           |
-|       |               |        |  birth to a great prophet in her old age, John the Baptist.                          |
-|       |               |        |  Then the virgin Mary gives birth to our savior.                                     |
-|       |               |        |  On the flip side, the ones who had many children became                             |
-|       |               |        |  forlorn. The Romans destroyed Jerusalem twice, then lost                            |
-|       |               |        |  their empire to the growing influence of the Christians.                            |
-|       |               |        |  &nbsp;                                                                              |
-|       |               |        |  This verse also matches the sixth commandment, **Thou shalt not kill**.             |
-|       |               |        |  This was the era when they killed Jesus. Hannah didn't miss a thing.                |
-| <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
-|  7    |    360-840 AD |   v6   |  *The Lord kills and brings to life;*                                                |
-|       |               |        |  *he brings down to Sheol and raises up.*                                            |
-|       |               |        |  &nbsp;                                                                              |
-|       |               |        |  **Fourth Reversal**: AMITY of marriage.                                             |
-|       |               |        |  **Matching pillar book**: SONG OF SONGS                                             |
-|       |               |        |  Prophetically, the words of this reversal make sense, with                          |
-|       |               |        |  several sacks of Rome, the Plague of Justinian, the Muslim                          |
-|       |               |        |  conquests and Iconomachy. It includes the start of the Dark Ages, and Sheol is      |
-|       |               |        |  the realm of darkness. However they would seem to have nothing to do with           |
-|       |               |        |  friendship and romance, the life growth phase of amity.                             |
-|       |               |        |  Of course, by making Rome a Christian empire in this era via the                    |
-|       |               |        |  Edict of Thessalonica in 380 AD, it was like a marriage between church and state.   |
-|       |               |        |  &nbsp;                                                                              |
-|       |               |        |  A second connection is found in the conclusion of Solomon’s                         |
-|       |               |        |  great love poem:                                                                    |
-|       |               |        |  &nbsp;                                                                              |
-|       |               |        |  *Set me as a seal upon your heart,*                                                 |
-|       |               |        |  *as a seal upon your arm,*                                                          |
-|       |               |        |  *for love is strong as death,*                                                      |
-|       |               |        |  *jealousy is fierce as the grave.*                                                  |
-|       |               |        |  &nbsp;                                                                              |
-|       |               |        |  *Its flashes are flashes of fire,*                                                  |
-|       |               |        |  *the very flame of the LORD.*                                                       |
-|       |               |        |  *Many waters cannot quench love,*                                                   |
-|       |               |        |  *neither can floods drown it.*                                                      |
-|       |               |        |  &nbsp;                                                                              |
-|       |               |        |  Death and the grave are overcome by love.                                           |
-|       |               |        |  In the Harvest Pattern, the Song of Songs corresponds to                            |
-|       |               |        |  the Pouring phase, where the Holy Spirit deals with our                             |
-|       |               |        |  emotions. The poem even refers to water when it says                                |
-|       |               |        |  “Many waters cannot quench love”. It is interesting that the                        |
-|       |               |        |  twenty-eight times have two sections devoted to emotional                           |
-|       |               |        |  growth: first to master the basics, second to deploy them to                        |
-|       |               |        |  foment romance and fashion strong families.                                         |
-|       |               |        |  Each of the twenty-eight speaking parts in Song of Songs                            |
-|       |               |        |  corresponds to one of Solomon's times. The brilliance of                            |
-|       |               |        |  this love poem is that in fifteen of the times, the speaker is                      |
-|       |               |        |  speaking words or advocating actions that contradict the                            |
-|       |               |        |  corresponding time. They run exactly opposite what is                               |
-|       |               |        |  called for. That is the challenge for young people in love.                         |
-|       |               |        |  The demands of life and reason are opposite to the desires                          |
-|       |               |        |  of the heart. Unruly passions are tough to master.                                  |
-| <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
-|  8    |   840-1320 AD |   v7   |  *The Lord makes poor and makes rich;*                                               |
-|       |               |        |  *he brings low and he exalts.*                                                      |
-|       |               |        |  &nbsp;                                                                              |
-|       |               |        |  **Fifth Reversal**: OPPORTUNITY of wealth.                                          |
-|       |               |        |  Once again the prophetic connection is easy. The church's charitable endeavors      |
-|       |               |        |  provided a modest safety net for the poor. The Medieval Warm Period and improved    |
-|       |               |        |  farming techniques made many rich, added ten years to lifespans, and doubled the    |
-|       |               |        |  population, right up until the Great Famine of 1315–1317 brought that to a halt,    |
-|       |               |        |  laying the groundwork for the devastating Black Plague that came on its heels.      |
-|       |               |        |  **Matching pillar book**: ECCLESIASTES                                              |
-|       |               |        |  Ecclesiastes speaks of purpose and work more than any other topic. This is the      |
-|       |               |        |  Pruning phase of the Harvest Pattern, where God faces us with opportunities,        |
-|       |               |        |  worthy and unworthy, to test us and to train us to seize the right opportunities    |
-|       |               |        |  and reject the wrong.                                                               |
-|       |               |        |  &nbsp;                                                                              |
-|       |               |        |  The Second Council of Lyon (1274) recognized four main mendicant orders:            |
-|       |               |        |  the Order of Friars Minor (aka Franciscans), Carmelites, Order of Preachers,        |
-|       |               |        |  and Augustinians. A leader among them was Saint Francis of Assisi, one whom the     |
-|       |               |        |  Lord made poor through the devotion of voluntary poverty.                           |
-|       |               |        |  &nbsp;                                                                              |
-|       |               |        |  Concerning women. Saint Anselm exalted them in philosophical terms, while           |
-|       |               |        |  the new ideas of chivalry attempted to cause society to treat women with more       |
-|       |               |        |  respect in practical ways.                                                          |
-| <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
-|  9    |  1320-1800 AD |   v8a  |  *He raises up the poor from the dust;*                                              |
-|       |               |        |  *he lifts the needy from the ash heap*                                              |
-|       |               |        |  *to make them sit with princes*                                                     |
-|       |               |        |  *and inherit a seat of honor.*                                                      |
-|       |               |        |  &nbsp;                                                                              |
-|       |               |        |  **Sixth Reversal**: A COMMUNITY of church denominations.                            |
-|       |               |        |  **Matching pillar book**: MATTHEW                                                   |
-|       |               |        |  The connection between Hannah’s words and the life growth phase of community        |
-|       |               |        |  is clear. By lifting “the needy from the ash heap”, God improves their standing     |
-|       |               |        |  in the community, promoting equality. By making them “sit with princes and          |
-|       |               |        |  inherit a sear of honor”, the Lord goes further. Matthew is focused on the          |
-|       |               |        |  **Harvest phase** and on preparing a community of harvesters: the church.           |
-|       |               |        |  &nbsp;                                                                              |
-|       |               |        |  Prophetically, this era saw the creation of something counterintuitive.             |
-|       |               |        |  Instead of just the Roman Catholic Church, following the Reformation God            |
-|       |               |        |  created a community of churches, the many denominations. The phrasing in            |
-|       |               |        |  Hannah’s prayer is interesting. She does not say “sit as princes” but               |
-|       |               |        |  “sit with princes”. This era ended with the birth of democracy, where people        |
-|       |               |        |  who are not royal, not princes, wield the authority of princes as                   |
-|       |               |        |  democratically elected officials.                                                   |
-|       |               |        |  &nbsp;                                                                              |
-|       |               |        |  Even though the apex of Christian missionary activity would occur in the            |
-|       |               |        |  next period, this era saw the spread of the gospel to the Americas                  |
-|       |               |        |  and the creation of the first para-church overseas mission organizations.           |
-|       |               |        |  It also saw the rise of notable Christian queens regnant, accelerating God's        |
-|       |               |        |  plan to raise up women, the neediest of the needy.                                  |
-| <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
-|  10   |  1800-1920 BC |   v8b  |  *For the pillars of the earth are the Lord's,*                                      |
-|       |               |        |  *and on them he has set the world.*                                                 |
-|       |               |        |  &nbsp;                                                                              |
-|       |               |        |  All of a sudden, Hannah breaks the pattern, saying something without a reversal.    |
-|       |               |        |  This is our clue that around 1800 AD, something remarkable would happen (and        |
-|       |               |        |  span a period of a different amount of time, not 480 years like the others).        |
-|       |               |        |  What does it mean to be a pillar? Revelation 3, where God offers to bless           |
-|       |               |        |  any who conquer, says *“I will make him a pillar in the temple of my God.”*         |
-|       |               |        |  This blessing was offered to the Church of Philadelphia, representing the           |
-|       |               |        |  faithful missionary church. As shown in the chapter "Seven Churches for Seven Eras" |
-|       |               |        |  in *Peace, like Solomon Never Knew*, that church was active in 1800 AD.             |
-|       |               |        |  Around this time William Carey called upon the church to dedicate itself to         |
-|       |               |        |  completing the Great Commission to take the gospel to the nations, directly         |
-|       |               |        |  quoting Matthew in his charge. Before John, before Jesus, and before Solomon,       |
-|       |               |        |  powerless Hannah prophesied when God would cause His word to go out to the          |
-|       |               |        |  whole world in power!  What is more, this was the first era in which women went out |
-|       |               |        |  as missionaries in large numbers, the first when women were ordained as ministers,  |
-|       |               |        |  and when the first American woman graduated from seminary.                          |
-| <hr>  |      <hr/>    |  <hr/> |                              <hr/>                                                   |
-|  11   |  1920-2400 BC |  v9-10 | *“He will guard the feet of his faithful ones,*                                      |
-|       |               |        |  *but the wicked shall be cut off in darkness,*                                      |
-|       |               |        |  *for not by might shall a man prevail.*                                             |
-|       |               |        |  *The adversaries of the Lord shall be broken to pieces;*                            |
-|       |               |        |  *against them he will thunder in heaven.*                                           |
-|       |               |        |  *The Lord will judge the ends of the earth;*                                        |
-|       |               |        |  *he will give strength to his king*                                                 |
-|       |               |        |  *and exalt the horn of his anointed.”*                                              |
-|       |               |        |  &nbsp;                                                                              |
-|       |               |        |  **Seventh Reversal**: LOYALTY to the anointed king.                                 |
-|       |               |        |  **Matching pillar book**: REVELATION                                                |
-|       |               |        |  When Hannah says, "against them he will thunder in heaven", she                     |
-|       |               |        |  uses an analogy that comes up seven times in Revelation,                            |
-|       |               |        |  and is named the voice of the seven thunders.                                       |
-|       |               |        |  &nbsp;                                                                              |
-|       |               |        |  The life growth phase of loyalty is unmistakable in Hannah’s song.                  |
-|       |               |        |  God is loyal to his faithful ones (the church) and his Son (his anointed).          |
-|       |               |        |  Hannah contrasts this in verse 10 with “The adversaries of the LORD”                |
-|       |               |        |  who demonstrate the opposite of loyalty, which is hostility.                        |
-|       |               |        |  &nbsp;                                                                              |
-|       |               |        |  Prophetically, this speaks of the time of darkness that will come at the            |
-|       |               |        |  end of time. The days of darkness were announced by Solomon three times             |
-|       |               |        |  in his final chapters. Such a time was affirmed by Jesus, who spoke of the          |
-|       |               |        |  darkness as the time when no man can work. The cutting off of the wicked            |
-|       |               |        |  is the final judgment which happens upon Christ’s return, as described              |
-|       |               |        |  potently in Revelation, but summarized by Hannah.                                   |
+<table class="hannah">
+<thead>
+<tr>
+  <th>Era</th>
+  <th>Year Range</th>
+  <th>Verses</th>
+  <th>Events</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>1</td>
+  <td>1440-1320 BC</td>
+  <td>v1</td>
+  <td>
+      <em>My heart exults in the Lord;</em> <br/>
+      <em>my <strong>horn</strong> is exalted in the Lord.</em> <br/>
+      <em>My mouth derides my enemies,</em> <br/>
+      <em>because I rejoice in your salvation.</em> <br/>
+      <br/>
+      In the Book of Joshua, the Israelites marched around
+      the walls of Jericho blowing <strong>horns</strong>, ca 1407 BC.
+  </td>
+</tr>
+<tr>
+  <td>2</td>
+  <td>1320-1200 BC</td>
+  <td>v2</td>
+  <td>
+      <em>for there is none besides you</em> <br>
+      <br/>
+      In Judges 5, in the story of Deborah we read <em>The mountains quaked before the Lord</em>,
+      showing that no rock is as strong as the Lord. We also read about the terrible
+      preceding time of anarchy, "When new gods were chosen" (Judges 5:8).
+      The people forgot that there is none beside Yahweh. <br/>
+      <br/>
+      <em>there is no <strong>rock</strong> like our God</em> <br/>
+      <br/>
+      In Judges 6, fire miraculously came up from the rock to consume Gideon's sacrifice
+      when the angel of the Lord visited him, ca 1201 BC.
+  </td>
+</tr>
+<tr>
+  <td>3</td>
+  <td>1200-1080 BC</td>
+  <td>v3</td>
+  <td>
+      <em>Talk no more so very proudly, let not arrogance come from your <strong>mouth</strong>...</em></td> <br/>
+      <br/>
+      Jephthah's rash vow in Judges 11 ca 1115 BC cost him his daughter.<br/>
+      <em>"Alas, my daughter! You have brought me very low,</em> <br/>
+      <em>and you have become the cause of great trouble to me.</em> <br/>
+      <em>For I have opened my <strong>mouth</strong> to the Lord,</em> <br/>
+      <em>and I cannot take back my vow."</em> <br/>
+      <em>And she said to him, "My father, you have opened</em> <br/>
+      <em>your <strong>mouth</strong> to the Lord;</em> <br/>
+      <em>do to me according to what has gone out of your <strong>mouth</strong>..."</em>
+  </td>
+</tr>
+<tr>
+  <td>4</td>
+  <td>1080-600 BC</td>
+  <td>v4</td>
+  <td>
+      <em>The bows of the mighty are broken,</em> <br/>
+      <em>but the feeble bind on strength.</em> <br/>
 
+      <strong>First Reversal</strong>: SECURITY for the weak. <br/>
+      The mighty have weapons and the feeble do not. This describes security and
+      insecurity at their most basic. <br/>
+      <br/>
+      <strong>Matching pillar book</strong>: PSALMS <br/>
+      A Psalm conforming to Solomon's twenty-eight times is Psalm 102: <br/>
+      <em>Of old you laid the foundation of the earth,</em> <br/>
+      <em>and the heavens are the work of your hands.</em> (Psalm 102:25) <br/>
+      <br/>
+      The first thing that a pillar needs is to be built upon a
+      strong foundation and this Psalm says that foundation was
+      laid by God. In the Harvest pattern, this is called the
+      <strong>Preparation phase</strong>. Psalms also speaks directly about what
+      will happen to “the bows of the mighty” of verse 4: <br/>
+      <em>The wicked draw the sword and bend their bows</em> <br/>
+      <em>to bring down the poor and needy,</em> <br/>
+      <em>to slay those whose way is upright;</em> <br/>
+      <em>their sword shall enter their own heart,</em> <br/>
+      <em>and their bows shall be broken.</em> (Psalm 37:14–15) <br/>
+      <br/>
+      Prophetically, Israel oscillated between periods of security and insecurity.
+      The bows of Israel and Judah were broken during this era.
+      Israel fell to Assyria in 722 BC. Then Josiah was killed by the Babylonians at the
+      Battle of Megiddo in 605 BC and the first wave of prisoners
+      were exiled. This spelled the end of Israel's security.
+      Yet in the middle of this chaos, an unnamed Jewish girl who was enslaved by the Syrians chooses to
+      love her enemy, the man who captured her, the Syrian general Naaman.
+      She tells him of the Prophet Elijah, who would heal this enfeebled leper
+      that he might be strong again.
+  </td>
+</tr>
+<tr>
+  <td>5</td>
+  <td>600-120 BC</td>
+  <td>v5a</td>
+  <td>
+      <em>Those who were full have hired themselves out for bread,</em> <br/>
+      <em>but those who were hungry have ceased to hunger.</em> <br/>
+      <br/>
+      <strong>Second Reversal</strong>: ABILITY for the impoverished.
+      The impoverished often lack the skills necessary to support themselves,
+      hence are forced as in verse 5 to “[hire] themselves out for bread”.
+      They lack ability. <br/>
+      <br/>
+      <strong>Matching pillar book</strong>: JOB <br/>
+      A person who must work for starvation wages suffers like Job.
+      Job confessed his inability to save himself from his troubles (in Job 6:11-13).
+      In the <strong>Harvest pattern</strong>, Job unquestionably matches the Plowing phase of suffering. <br/>
+      Prophetically, the Jews endured much poverty during this era.
+      They even faced genocide at the instigation of Haman. How was Haman stopped?
+      Queen Esther threw a banquet, the opposite of hunger.
+      The former queen, Vashti, was now hungry, and the Jews who were to die,
+      were instead filled with joy.
+      Also during this era, the Septuagint, symbolically the bread of God’s word,
+      was completed. Jesus may have told his disciples to pray <em>'Give us this day our daily bread'</em>, 
+      but it was Job who first called God's Word his bread: <br/>
+      <br/>
+      <em>I have not departed from the commandment of his lips;</em> <br/>
+      <em>I have treasured the words of his mouth more than my portion of food.</em> <br/>
+      - Job 23:12 <br/>
+      <br/>
+      The Septuagint was in Greek, meaning that God's words would now begin to go
+      out to the Gentile world, people who never had access to God's Word before, and
+      now would cease to hunger. Sadly, the Jews, who were once full, would now for
+      a long time hear no more from God via prophets. This fulfills the words of the
+      prophet Amos: <br/>
+      <br/>
+      <em>“Behold, the days are coming,” declares the Lord God,</em> <br/>
+      <em>“when I will send a <strong>famine</strong> on the land—</em> <br/>
+      <em>not a <strong>famine</strong> of bread,</em> <br/>
+      <em>nor a thirst for water.</em> <br/>
+      <em>but of hearing the words of the Lord.</em> <br/>
+      - Amos 8:11
+  </td>
+</tr>
+<tr>
+  <td>6</td>
+  <td>120 BC-360 AD</td>
+  <td>v5b</td>
+  <td>
+      <em>The barren has borne seven,</em> <br/>
+      <em>but she who has many children is forlorn.</em> <br/>
+      <br/>
+      <strong>Third Reversal</strong>: Emotional STABILITY for the anguished. <br/>
+      On one trip to the temple in 1 Samuel 1:12–16, though
+      Hannah prayed silently, the anguish of her heart made her
+      lips move, thus the insensitive priest ridiculed her for being
+      drunk. Then by God’s grace she bore a child and knew joy.
+      The capsized ship of her emotions was righted and she
+      began to experience emotional stability. <br/>
+      <br/>
+      <strong>Matching pillar book</strong>: PROVERBS <br/>
+      What connects it to Proverbs? When we need a pillar to
+      stabilize us, our emotional life needs it most. It is in
+      Proverbs 9 that the Seven Pillars of Wisdom are named, so
+      it corresponds to Hannah’s (and our) deepest need.
+      This reversal corresponds to the <strong>Planting</strong> Harvest phase.
+      In Hannah’s case, what was planted was the seed that
+      became her firstborn son. <br/>
+      Prophetically, this speaks of two miraculous births that
+      occurred in the corresponding era. Barren Elizabeth gives
+      birth to a great prophet in her old age, John the Baptist.
+      Then the virgin Mary gives birth to our savior.
+      On the flip side, the ones who had many children became
+      forlorn. The Romans destroyed Jerusalem twice, then lost
+      their empire to the growing influence of the Christians.
+      This verse also matches the sixth commandment, <strong>Thou shalt not kill</strong>.
+      This was the era when they killed Jesus. Hannah didn't miss a thing.
+  </td>
+</tr>
+<tr>
+  <td>7</td>
+  <td>360-840 AD</td>
+  <td>v6</td>
+  <td>
+      <em>The Lord kills and brings to life;</em> <br/>
+      <em>he brings down to Sheol and raises up.</em> <br/>
+      <br/>
+      <strong>Fourth Reversal</strong>: AMITY of marriage. <br/>
+      <strong>Matching pillar book</strong>: SONG OF SONGS <br/>
+      Prophetically, the words of this reversal make sense, with
+      several sacks of Rome, the Plague of Justinian, the Muslim
+      conquests and Iconomachy. It includes the start of the Dark Ages, and Sheol is
+      the realm of darkness. However they would seem to have nothing to do with
+      friendship and romance, the life growth phase of amity.
+      Of course, by making Rome a Christian empire in this era via the
+      Edict of Thessalonica in 380 AD, it was like a marriage between church and state.<br/>
+      A second connection is found in the conclusion of Solomon’s
+      great love poem: <br/>
+      <br/>
+      <em>as a seal upon your arm,</em> <br/>
+      <em>for love is strong as death,</em> <br/>
+      <em>jealousy is fierce as the grave.</em> <br/>
+      <em>Its flashes are flashes of fire,</em> <br/>
+      <em>the very flame of the LORD.</em> <br/>
+      <em>Many waters cannot quench love,</em> <br/>
+      <em>neither can floods drown it.</em> <br/>
+      <br/>
+      Death and the grave are overcome by love.
+      In the Harvest Pattern, the Song of Songs corresponds to
+      the Pouring phase, where the Holy Spirit deals with our
+      emotions. The poem even refers to water when it says
+      “Many waters cannot quench love”. It is interesting that the
+      twenty-eight times have two sections devoted to emotional
+      growth: first to master the basics, second to deploy them to
+      foment romance and fashion strong families.
+      Each of the twenty-eight speaking parts in Song of Songs
+      corresponds to one of Solomon's times. The brilliance of
+      this love poem is that in fifteen of the times, the speaker is
+      speaking words or advocating actions that contradict the
+      corresponding time. They run exactly opposite what is
+      called for. That is the challenge for young people in love.
+      The demands of life and reason are opposite to the desires
+      of the heart. Unruly passions are tough to master.
+  </td>
+</tr>
+<tr>
+  <td>8</td>
+  <td>840-1320 AD</td>
+  <td>v7</td>
+  <td>
+      <em>The Lord makes poor and makes rich;</em> <br/>
+      <em>he brings low and he exalts.</em> <br/>
+      <br/>
+      <strong>Fifth Reversal</strong>: OPPORTUNITY of wealth. <br/>
+      Once again the prophetic connection is easy. The church's charitable endeavors
+      provided a modest safety net for the poor. The Medieval Warm Period and improved
+      farming techniques made many rich, added ten years to lifespans, and doubled the
+      population, right up until the Great Famine of 1315–1317 brought that to a halt,
+      laying the groundwork for the devastating Black Plague that came on its heels.
+      <strong>Matching pillar book</strong>: ECCLESIASTES <br/>
+      Ecclesiastes speaks of purpose and work more than any other topic. This is the
+      Pruning phase of the Harvest Pattern, where God faces us with opportunities,
+      worthy and unworthy, to test us and to train us to seize the right opportunities
+      and reject the wrong. <br/>
+      The Second Council of Lyon (1274) recognized four main mendicant orders:
+      the Order of Friars Minor (aka Franciscans), Carmelites, Order of Preachers,
+      and Augustinians. A leader among them was Saint Francis of Assisi, one whom the
+      Lord made poor through the devotion of voluntary poverty. <br/>
+      <br/>
+      Concerning women. Saint Anselm exalted them in philosophical terms, while
+      the new ideas of chivalry attempted to cause society to treat women with more
+      respect in practical ways.
+  </td>
+</tr>
+<tr>
+  <td>9</td>
+  <td>1320-1800 AD</td>
+  <td>v8a</td>
+  <td>
+      <em>He raises up the poor from the dust;</em> <br/>
+      <em>he lifts the needy from the ash heap</em> <br/>
+      <em>to make them sit with princes</em> <br/>
+      <em>and inherit a seat of honor.</em> <br/>
+      <br/>
+      <strong>Sixth Reversal</strong>: A COMMUNITY of church denominations. <br/>
+      <strong>Matching pillar book</strong>: MATTHEW <br/>
+      The connection between Hannah’s words and the life growth phase of community
+      is clear. By lifting “the needy from the ash heap”, God improves their standing
+      in the community, promoting equality. By making them “sit with princes and
+      inherit a sear of honor”, the Lord goes further. Matthew is focused on the
+      <strong>Harvest phase</strong> and on preparing a community of harvesters: the church. <br/>
+      Prophetically, this era saw the creation of something counterintuitive.
+      Instead of just the Roman Catholic Church, following the Reformation God
+      created a community of churches, the many denominations. The phrasing in
+      Hannah’s prayer is interesting. She does not say “sit as princes” but
+      “sit with princes”. This era ended with the birth of democracy, where people
+      who are not royal, not princes, wield the authority of princes as
+      democratically elected officials.
+      Even though the apex of Christian missionary activity would occur in the
+      next period, this era saw the spread of the gospel to the Americas
+      and the creation of the first para-church overseas mission organizations.
+      It also saw the rise of notable Christian queens regnant, accelerating God's
+      plan to raise up women, the neediest of the needy. <br/>
+  </td>
+</tr>
+<tr>
+  <td>10</td>
+  <td>1800-1920 BC</td>
+  <td>v8b</td>
+  <td>
+      <em>For the pillars of the earth are the Lord's,</em> <br/>
+      <em>and on them he has set the world.</em> <br/>
+      <br/>
+      All of a sudden, Hannah breaks the pattern, saying something without a reversal.
+      This is our clue that around 1800 AD, something remarkable would happen (and
+      span a period of a different amount of time, not 480 years like the others).
+      What does it mean to be a pillar? Revelation 3, where God offers to bless
+      any who conquer, says <em>“I will make him a pillar in the temple of my God.”</em>
+      This blessing was offered to the Church of Philadelphia, representing the
+      faithful missionary church. As shown in the chapter "Seven Churches for Seven Eras"
+      in <em>Peace, like Solomon Never Knew</em>, that church was active in 1800 AD.
+      Around this time William Carey called upon the church to dedicate itself to
+      completing the Great Commission to take the gospel to the nations, directly
+      quoting Matthew in his charge. Before John, before Jesus, and before Solomon,
+      powerless Hannah prophesied when God would cause His word to go out to the
+      whole world in power!  What is more, this was the first era in which women went out
+      as missionaries in large numbers, the first when women were ordained as ministers,
+      and when the first American woman graduated from seminary.
+  </td>
+</tr>
+<tr>
+  <td>11</td>
+  <td>1920-2400 BC</td>
+  <td>v9-10</td>
+  <td>
+      <em>“He will guard the feet of his faithful ones,</em> <br/>
+      <em>but the wicked shall be cut off in darkness,</em> <br/>
+      <em>for not by might shall a man prevail.</em> <br/>
+      <em>The adversaries of the Lord shall be broken to pieces;</em> <br/>
+      <em>against them he will thunder in heaven.</em> <br/>
+      <em>The Lord will judge the ends of the earth;</em> <br/>
+      <em>he will give strength to his king</em> <br/>
+      <em>and exalt the horn of his anointed.”</em> <br/>
+      <br/>
+      <strong>Seventh Reversal</strong>: LOYALTY to the anointed king. <br/>
+      <strong>Matching pillar book</strong>: REVELATION <br/>
+      When Hannah says, "against them he will thunder in heaven", she
+      uses an analogy that comes up seven times in Revelation,
+      and is named the voice of the seven thunders.
+      The life growth phase of loyalty is unmistakable in Hannah’s song.
+      God is loyal to his faithful ones (the church) and his Son (his anointed).
+      Hannah contrasts this in verse 10 with “The adversaries of the LORD”
+      who demonstrate the opposite of loyalty, which is hostility.
+      Prophetically, this speaks of the time of darkness that will come at the
+      end of time. The days of darkness were announced by Solomon three times
+      in his final chapters. Such a time was affirmed by Jesus, who spoke of the
+      darkness as the time when no man can work. The cutting off of the wicked
+      is the final judgment which happens upon Christ’s return, as described
+      potently in Revelation, but summarized by Hannah.
+  </td>
+</tr>
+</tbody>
+</table>
 
 <hr/>
 
+<span id="11"/>
 ## Objections
 
 **Specificity**. One objection to the above associations is that all times in history will display variations of these reversals.
@@ -907,6 +1009,7 @@ Then I stepped back, looked them over again and was delighted.
   - For verse 8a, many notable Christian queens regnant arose to *"sit with princes and inherit a seat of honor."* They ruled Portugal, Spain, England, Austria and Russia.
   - For verse 8b, women participated extensively in the Church's missionary enterprise. The first American woman was ordained as a minister during this era: Antoinette Brown Blackwell. Thus women began to take their places as pillars - leaders - in the church.
 
+<span id="12"/>
 ## A Voice for Women
 
 Hannah spoke for those without a voice, for all women who have suffered in silence throughout history.
@@ -933,6 +1036,7 @@ Taken together, these references to Israel's past and future celebrate the coura
 faith, humility and dignity of its noblest women. 
 Truly Hannah was a prophetess in service of Lady Wisdom.
 
+<span id="13"/>
 ## Wiser than Hannah?
 
 Is there a woman in the Bible who was wiser than Hannah? 
@@ -1020,8 +1124,9 @@ Hannah prophesied the coming of the messiah, but Mary gave him life, nursed him,
 it was time for his ministry to begin.
 
 You may decide whom you think was the wisest woman ever to live, but I think the answer is clear. 
-What do you thing? Can we get the Guinness Book people to rule on it?
+What do you think? Can we get the Guinness Book people to rule on it?
 
+<span id="14"/>
 ## What will Tomorrow Bring?
 
 Hannah nailed the past. Her words qualitatively and quantitatively mapped out important events in salvation history. 
