@@ -644,7 +644,7 @@ by the prophecy. For the seven reversals:
   <td>
       <em>The bows of the mighty are broken,</em> <br/>
       <em>but the feeble bind on strength.</em> <br/>
-
+      <br/>
       <strong>First Reversal</strong>: SECURITY for the weak. <br/>
       The mighty have weapons and the feeble do not. This describes security and
       insecurity at their most basic. <br/>
@@ -764,6 +764,7 @@ by the prophecy. For the seven reversals:
       <em>he brings down to Sheol and raises up.</em> <br/>
       <br/>
       <strong>Fourth Reversal</strong>: AMITY of marriage. <br/>
+      <br/>
       <strong>Matching pillar book</strong>: SONG OF SONGS <br/>
       Prophetically, the words of this reversal make sense, with
       several sacks of Rome, the Plague of Justinian, the Muslim
@@ -815,6 +816,7 @@ by the prophecy. For the seven reversals:
       farming techniques made many rich, added ten years to lifespans, and doubled the
       population, right up until the Great Famine of 1315–1317 brought that to a halt,
       laying the groundwork for the devastating Black Plague that came on its heels.
+      <br/>
       <strong>Matching pillar book</strong>: ECCLESIASTES <br/>
       Ecclesiastes speaks of purpose and work more than any other topic. This is the
       Pruning phase of the Harvest Pattern, where God faces us with opportunities,
@@ -841,6 +843,7 @@ by the prophecy. For the seven reversals:
       <em>and inherit a seat of honor.</em> <br/>
       <br/>
       <strong>Sixth Reversal</strong>: A COMMUNITY of church denominations. <br/>
+      <br/>
       <strong>Matching pillar book</strong>: MATTHEW <br/>
       The connection between Hannah’s words and the life growth phase of community
       is clear. By lifting “the needy from the ash heap”, God improves their standing
@@ -901,6 +904,7 @@ by the prophecy. For the seven reversals:
       <em>and exalt the horn of his anointed.”</em> <br/>
       <br/>
       <strong>Seventh Reversal</strong>: LOYALTY to the anointed king. <br/>
+      <br/>
       <strong>Matching pillar book</strong>: REVELATION <br/>
       When Hannah says, "against them he will thunder in heaven", she
       uses an analogy that comes up seven times in Revelation,
