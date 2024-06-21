@@ -82,7 +82,7 @@ expands upon the chapter or merely has a short excerpt of that chapter.
   - The Time of Her Confinement
   - Rightly Dividing the Words
   - The Confinement Calendar
-  - A Grand Father Clock & a Silver Cord
+  - [A Grand Father Clock & a Silver Cord](./grandfather-clock.html)
   - Solving the Historical Psalms
   - Psalm 78: Preparation of a Nation
   - Psalm 105: Seasons of Suffering

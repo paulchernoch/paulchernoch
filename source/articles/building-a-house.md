@@ -76,7 +76,7 @@ We call that "Filing for Chapter 11" by reference to a section of our legal code
 That is a "day of darkness" indeed, and often spells the beginning of a person's
 declining years. This article is not about that. It is about the part of the productive years
 described in chapter 10. The ideas were originally presented in a short section of the 
-chapter named "A Grandfather Clock & a Silver Cord" from *Peace, like Solomon Never Knew*.
+chapter named [A Grand Father Clock & a Silver Cord](./grandfather-clock.html) from *Peace, like Solomon Never Knew*.
 
 In that book, I introduced Fractal Historicism, a novel theory of eschatology. An important
 component of that theory is that the same pattern may apply to different scales of time.
@@ -87,7 +87,7 @@ Thus the twenty-eight times of Solomon describe:
   - the history of modern Israel, from the Holocaust until Christ returns
   - the history of the world, from the Creation until Christ returns
 
-The chapter in question was dealing with the last and largest time scale, which I called the Grandfather Clock.
+The chapter in question was dealing with the last and largest time scale, which I called the Grand Father Clock.
 It divided world history into four parts:
 
   1. **Growth Years**: 28 periods of 175 years (4900 years total), *from 4020 BC to 880 AD*

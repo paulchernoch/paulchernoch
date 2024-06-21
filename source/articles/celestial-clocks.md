@@ -499,7 +499,7 @@ For how this parable fits into the larger schema for world missions, see [The Pa
 
   - Bible book: Ecclesiastes
   - Defined in: *Peace, like Solomon Never Knew*
-  - Chapter: A Grand Father Clock & a Silver Cord
+  - Chapter: [A Grand Father Clock & a Silver Cord](./grandfather-clock.html)
   - Timespan: 4020 BC–2280 AD
   - Intervals: 42 (plus a short one)
   - Period: 175 years (for 28 eras), 100 years (for 14 eras)
@@ -556,5 +556,6 @@ to the Lincoln Cathedral made it the tallest building in the world, a title it h
 (Prior to that, the Pyramid of Giza held the title for 3,800 years!)
 
 This clock chronicles the rise and fall of modern Western Civilization. It is sobering to hear about its approaching demise.
+For a detailed article about this clock, see [A Grand Father Clock & a Silver Cord](./grandfather-clock.html).
 
 In progress...
