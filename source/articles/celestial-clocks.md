@@ -13,6 +13,20 @@ This article will summarize sections of *Peace, like Solomon Never Knew* and *Pl
 It will name each clock, block out the eras of history that it prophesies, point out where in those books it was developed, and (for a few) 
 point to an extended treatment in a separate article on this website.
 
+<div class="sections">
+
+To quickly jump to each clock:
+
+  <ol>
+    <li> <a href="#1">Creation Clock</a> </li>
+    <li> <a href="#2">Temple Dedication Clocks</a> </li>
+    <li> <a href="#3">Solomon’s Celestial Clock</a> </li>
+    <li> <a href="#4">Solomon’s Son-dial</a> </li>
+    <li> <a href="#5">Lamps of the Ten Virgins</a> </li>
+  </ol>
+
+</div>
+
 <hr/>
 
 <div class="numbered-image">
@@ -186,7 +200,7 @@ You can find more information about the spiritual analogs of the twenty-eight ti
 
 <hr/>
 
-## Solomon’s Son-dial (celestial)
+## Solomon’s Son-dial
 
   - Bible book: Ecclesiastes 1–10
   - Defined in: *Peace, like Solomon Never Knew*
@@ -372,5 +386,59 @@ the Holy Spirit and Satan’s evil spirits has shifted over time,
 first one way then the other. As the final two occurrences of
 “wind” attest, we “do not know the path of the wind”.
 
+<hr/>
+
+<div class="numbered-image">
+  <p id="5" class="numbered-image">4</p>
+  <p><img class="numbered-image" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" /></p>
+</div>
+
+<hr/>
+
+## Lamps of the Ten Virgins
+
+  - Bible book: Matthew 25
+  - Chapter: The Time of Her Confinement
+  - Timespan: 1–2280 AD
+  - Intervals: 10
+  - Period: 240 years (per lamp)
+
+**Notable facts:**
+
+In this parable, ten virgins are to wait for the Bridegroom to arrive for the wedding.
+When he arrives, they are to meet him with lamps lit, attend to his needs
+and make the final preparations for the wedding. However, the Bridegroom is long in coming.
+The five foolish virgins did not plan for this and had run out of oil for their lamps.
+While they are at the market buying more oil, the Bridegroom arrives and the wedding starts.
+When they return, they are barred from entering the wedding and lose their right to participate
+in the festivities.
+
+When interpreted as a celestial clock, this parable assumes the clock began with Solomon but that
+we can skip over the first eight times, which is four seasons. That is because Jesus ascended to heaven
+(hence is the Bridegroom who went away until it was time for the wedding) during the ninth time,
+a time to weep. From "a time to weep" to "a time for peace" is twenty times or equivalently ten seasons.
+
+With that understood, each virgin with a lamp stands for one of Solomon’s “seasons”, which is
+made up of two 120-year “times”. During five of those ten seasons, women of the church were prepared, 
+including the current season. One ill-prepared season remains. All told, the women of the church
+were prepared during these seasons:
+
+  - Season 5: a time to weep and a time to laugh (1-240 AD)
+  - Season 6: a time to mourn and a time to dance (240-480 AD)
+  - Season 11: a time to tear and a time to mend (1440-1680 AD)
+  - Season 12: a time to be silent and a time to speak (1680-1920 AD)
+  - Season 13: a time to love and a time to hate (1920-2160 AD)
+
+In the beginning of the church, women were the first to see the risen Christ, participated actively 
+in running churches in their homes and assisting in missionary efforts.
+During the years when the women of the church were not prepared, whose fault was that?
+Women were progressively excluded from positions in the church from 360-480 AD.
+Then on the other side, the Protestant Reformation promoted the priesthood of all believers.
+Protestant schools taught women to read and they slowly began to progress towards equality.
+
+However, a time of darkness will one day come when no one can work. The time of war will 
+test us all. Will women be ready for this? Will men?
+
+For more about this parable, see [The Parable of the Wedding Feast](./wedding-parable.md).
 
 In progress...
