@@ -33,24 +33,39 @@ point to an extended treatment in a separate article on this website.
 
 **Notable facts:**
 
-Matches the seven days of creation to important events in the
-seven millennia of history.
+Matches the seven days of creation to important events in the seven millennia of history.
+This assumes that history will last no more than seven thousand years before the final judgment and the
+establishment of the new heavens and new earth. This clock is similar to the ancient expectation of many theologians which is 
+called [Millennial Day Theory](https://en.wikipedia.org/wiki/Millennial_Day_Theory). Many Christians combine the idea of the 
+millennial reign of Christ with the idea of a thousand year sabbath during the seventh millennium. 
+My formulation of eschatology, **Fractal Historicism**, does not. The two events are distinct.
+The millennial kingdom of CHrist has already come and gone, having lasted from 380 to 1380 AD in the form of Christian Rome and its extension
+through the Byzantine Empire. If the Creation was on or near 4020 BC, then we are already in the early years of the
+seventh millennium, yet Christ has not returned. My expectation is that the eternal sabbath will begin during this millennium,
+but not immediately. It could start at any time but the present world order may linger for two or three centuries more.
 
-Day 2 of creation is the only one God did not call good. This
-millennium had the flood and the Tower of Babel, the worst calamities in history (so far).
+Day 1 of creation (4020-3020 BC) was when God created light and separated the light from the darkness
+by alternating day and night. This matches the division of people into two groups, the righteous descendants of Seth
+and the corrupt descendants of Cain.
 
-Day 3 of creation is when God created the dry ground, and plants and trees which grow from seeds. 
+Day 2 of creation (3020-2020 BC) is the only one God did not call good. This
+millennium had Noah's flood and the Tower of Babel, the worst calamities in history (so far).
+
+Day 3 of creation (2020-1020 BC) is when God created the dry ground and plants and trees which grow from seeds. 
 The ground is the Law of Moses and the seed is the beginning of the writing of God's Word.
 
-Day 4 of creation, when God created the sun, moon & stars,
+Day 4 of creation (1020-20 BC), when God created the sun, moon & stars,
 ends within a few years of the birth of the Sun of Righteousness and Morning Star, Jesus.
+This millennium was when most of the prophets lived. Prophecy is about revealing God's future plans, interpreting
+history and marking out time, just like the heavenly bodies. Solomon lived at the very beginning of this millennium.
+His writings provide the temporal framework for understanding the rest of the prophets.
 
-Day 5 the birds were created, corresponding to the Holy Spirit, given at Pentecost, beginning the 5th millennium.
+Day 5 of creation (20 BC-980 AD), when the birds were created, corresponds to the Holy Spirit, given at Pentecost, beginning the 5th millennium.
 The sea creatures were also created. Leviathan, the great sea serpent is first given expression in the form of the Roman Empire.
 
-Day 6 saw the creation of the beasts and man. The sixth millennium spans the period during which mankind's knowledge grew fastest.
+Day 6 of creation (980-1980 AD) saw the creation of the beasts and man. The sixth millennium spans the period during which mankind's knowledge grew fastest.
 
-Day 7 will usher in the sabbath rest, when Christ returns.
+Day 7 of creation (1980 AD-?) will usher in the sabbath rest, when Christ returns.
 
 <hr/>
 
@@ -102,8 +117,10 @@ humanity’s earthly wisdom would explode.
 
   - Bible book: Ecclesiastes 3:1-8
   - Defined in: *Peace, like Solomon Never Knew*
-  - Chapter(s): Solomon’s Celestial Clock,
-  - Solomon’s End Times
+  - Chapters: 
+    - Solomon’s Celestial Clock,
+    - Solomon’s End Times
+    - Solomon’s Sundial
   - Timespan: 960 BC–2280 AD (and beyond)
   - Intervals: 28
   - Period: 120 years (per “time”)
@@ -116,6 +133,7 @@ That makes it the mainspring of God's prophetic clocks.
 
 By assigning a single word to each generation, Solomon revealed the principal spiritual forces at work from the
 dedication of the temple in 960 BC until the day the Lord ushers in eternal peace. His choice of words? Impeccable.
+Here are the key events that occurred in half the twenty-eight times:
 
   - *A time to die*: Northern kingdom of Israel carried into captivity by Assyria.
   - *A time to plant*: Prosperous times for Judah under King Hezekiah.
@@ -132,6 +150,227 @@ dedication of the temple in 960 BC until the day the Lord ushers in eternal peac
   - *A time to love*: Worldwide increase in health & prosperity and Israel reborn.
   - *A time to hate*: Worldwide persecution of Christians and Jews will soon begin.
 
-You can find more information about this clock in the article [Twice a Thousand Years](./twice-a-thousand-years.html)
+The power of this clock is that it operates at different scales of time and on different levels of being.
+It structures the history of...
+
+  - a single person via the [Growth Pattern](./growth-pattern.md).
+  - ancient Israel and the church as a unity via this clock
+  - the secular world from the Creation until the end (via another clock)
+  - modern Israel (via a clock in "Appendix C: A Time for Israel" in *Peace, like Solomon Never Knew*)
+
+It structures the levels of...
+
+  - existence in the material world that Solomon calls life "under the sun"
+  - existence in the spiritual world, as explained by Jesus in Matthew the Apostle Paul in his first seven letters
+
+As illustrations of the spiritual dimension of Solomon's times:
+
+  - A time to be born is being "born again"
+  - A time to die is dying to self and gaining a new identity in Christ, as in Romans 6 and Galatians 2
+  - A time to plant is being baptized into the fellowship of the church
+  - A time to uproot is severing some ties with non-believers following salvation
+
+With Solomon's times woven into so much of the material and spiritual order of the world, this means that
+prophecy is also deeply personal. Neglecting its study is unwise.
+
+You can find more information about this clock in the article [Twice a Thousand Years](./twice-a-thousand-years.html).
+
+You can find more information about the spiritual analogs of the twenty-eight times in [The Righteous Fall Seven Times](./the-righteous-fall-seven-times.html) and [The Apostle Paul's Discipleship Program](./pauls-discipleship-program.md).
+
+<hr/>
+
+<div class="numbered-image">
+  <p id="4" class="numbered-image">4</p>
+  <p><img class="numbered-image" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" /></p>
+</div>
+
+<hr/>
+
+## Solomon’s Son-dial (celestial)
+
+  - Bible book: Ecclesiastes 1–10
+  - Defined in: *Peace, like Solomon Never Knew*
+  - Chapters:
+    - Solomons Sundial,
+    - The Time of Her Confinement,
+    - Rightly Dividing the Words
+  - Timespan: 960 BC–2280 AD (and beyond)
+  - Intervals: 28 (divided by the phrase “under the sun”)
+  - Period: 120 years
+
+**Notable facts:**
+
+Almost a decade ago, I turned my attention to Ecclesiastes. I wrote a program that tallied how often each word and short phrase
+was used. The obvious result was that "under the sun" was Solomon's catch phrase. My clumsy research concluded that 
+the structure and interpretation of Ecclesiastes was tied up in two things:
+
+ - The poem of the twenty-eight times
+ - The phrase "under the sun", which also appears twenty-eight times
+
+It seemed sensible to ask, "Is the list of times a table of contents into the book?" I tried to map those words to
+the content of the rest of the book and failed. Also, the phrase "under the sun" is distributed haphazardly.
+It appears in one verse twice and in some chapters not at all, including the books two concluding chapters.
+I soon abandoned my effort and would not return to Ecclesiastes until 2020. The sad thing is that I was right. 
+I had correctly identified the two features of the book whose relationship you must understand in order to solve the riddles of its meaning.
+I just didn't know what to do with them.
+
+The twenty-eight times are not a table of contents into Ecclesiastes. They are a table of contents into a human life.
+Ecclesiastes is a treatise on the stages of a human life, but some of the "times" are not addressed there.
+They are however, addressed in Psalms, Proverbs, Matthew and the other [Seven Pillars of Wisdom](./seven-pillars-of-wisdom.html).
+
+As for the placement of the instances of "under the sun", that was subtle. They are the tick marks on a prophetic sundial. 
+Even though they are spaced unevenly, they do divide the book into twenty-eight pieces and each piece does correspond to
+one of the twenty-eight times, in sequence. Then the verses between the tick marks contains prophesies that point to events
+in the matching era of history. That is why Ecclesiastes is so hard to understand! It is a rundown of all history from 
+the dedication of the temple until Christ returns. By combining the time phrase and the words in the bracketed passage
+you can understand part of God's plan for history and how it is all developed from an analogy to the life of a single person.
+
+Here are where the "under the sun" references are found in Ecclesiastes and which time goes with each:
+
+  - 1:3 Born
+  - 1:9 Die
+  - 1:14 Plant
+  - 2:11 Uproot
+  - 2:17 Kill
+  - 2:18 Heal
+  - 2:19 Tear down
+  - 2:20 Build
+  - 2:22 Weep
+  - 3:16 Laugh
+  - 4:1 Mourn
+  - 4:3 Dance
+  - 4:7 Scatter stones
+  - 4:15 Gather stones
+  - 5:13 Embrace
+  - 5:18 Refrain
+  - 6:1 Search
+  - 6:12 Give up
+  - 8:9 Keep
+  - 8:15 Throw away
+  - 8:17 Tear
+  - 9:3 Mend
+  - 9:6 Be Silent
+  - 9:9 Speak, Love
+  - 9:11 Hate
+  - 9:13 War
+  - 10:5 Peace
+
+The subtlest riddle in the Bible is hidden in “a thousand years twice over” in Ecclesiastes 6:6, whose answer gives us 120 years
+as the length of one of Solomon’s “times”. The solving of that riddle is the subject of [Twice a Thousand Years](./twice-a-thousand-years.html).
+
+A few interesting prophecies that fall out of the book are: 
+
+ 1. On the “sun-dial”, the poem of the twenty-eight times occurs during “a time to weep” – when Jesus died for our sins, marking
+that the most important of times.
+ 2. Verse 9:9 says “meaningless” and “under the sun” twice and has the book’s only positive use of “love”. It falls on “a time to speak” and “a time to love”, season of God’s greatest outpouring of mercy upon the world and the greatest era of overseas Christian missions.
+
+In the chapter "Solomon's Sundial", the placement of the "under the sun" usages was also used as a scaffold to study the distribution of other common phrases throughout the book. One example should suffice. It is the word "wind" which is often used to indicate futility as in "chasing after the wind".
+
+### Wind
+
+Wind can mean “spirit”. The King James uses “vexation of spirit” in place of “chasing after the wind”.
+The impossibilities of catching the wind, containing it, or
+stopping its repetitive cycles are all conveyed by
+Ecclesiastes. The endless cycle is introduced in 1:6 with 
+*“The wind blows to the south and turns to the north; round and round it goes, ever returning on its course.”* 
+Then the futility of chasing it is found all over. Since we can’t take anything
+with us when we die, 5:6 says we “toil for the wind”. In 8:8
+we are reminded that we can’t hold onto our spirit and so
+overcome death by the words “no one has power over the
+wind to contain it...” The final mentions describe the
+mysteriousness of the wind:
+
+#### “Whoever watches the **wind** will not plant;
+##### whoever looks at the clouds will not reap.
+#### As you do not know the path of the **wind**,
+##### or how the body is formed in a mother’s womb,
+#### so you cannot understand the work of God,
+##### the Maker of all things."
+###### - Ecclesiastes 11:4-5, NIV
+
+It is no mystery which verses speak of the wind:
+
+**1:6,14,17; 2:11,17,26; 4:4,6,16; 5:16; 6:9; 8:8; 11:4-5**
+
+If the phrase occurs in a verse that falls between a pair of
+“under the sun” verses, we will assume the “wind” phrase
+is relevant to both corresponding “times”. If the phrase is
+in the same verse as “under the sun”, we only match it with
+one time.
+
+For example, 1:6 includes “wind” and falls between 1:3
+(born) and 1:9 (die), so it will be assigned both *born* and *die*.
+
+On the other hand, 1:14 has both “under the sun” and
+“chasing after the wind”, so it is only assigned the time
+“plant”.
+
+If you continue this for all fourteen “wind” verses, you
+will collectively match seventeen of the times. You can
+rationalize good reasons for each match, such as terrible
+defeats or the destruction of the temple, but the clearest,
+simplest story that they tell may only be inferred by looking
+at the times that were NOT matched. Those unmatched
+times are the the sundial’s shadow. They are clumped into
+three groups of adjacent times:
+
+  - Heal, Tear down, Build
+  - Mourn
+  - Throw away, Tear, Mend, Be silent, Speak, Love, Hate, War
+
+What distinguishes these three periods of history from
+the rest? Satan. The three times in the first group span the
+silent years between the two testaments, when there were
+no prophets to add to the Word of God, the darkest time for
+Israel. That means the Spirit (the wind) was not at work
+sending authoritative messages to Israel to add to the Bible.
+The second group has one time, the time of the worst of
+the Roman persecutions, under Diocletian. This is what
+Revelation has to say about that time:
+
+#### I know your afflictions and your poverty—yet you are rich! 
+#### I know about the slander of those who say they are Jews 
+#### and are not, but are a synagogue of **Satan**. 
+#### Do not be afraid of what you are about to suffer. 
+#### I tell you, the **devil** will put some of you in prison 
+#### to test you, and you will suffer persecution for ten days. 
+#### Be faithful, even to the point of death, and I will 
+#### give you life as your victor’s crown.
+###### - Revelation 2:9-10, NIV
+
+After that, there is a long stretch where wind appears
+repeatedly. The millennium from “a time to dance” through
+“a time to keep” constitutes the thousand years that Satan
+was bound, between the Edict of Thessalonica and the
+commencement of the long period of Ottoman sieges
+against Constantinople, leading to its fall. The Spirit blew
+freely during those years and experienced limited Satanic
+opposition while the church grew.
+
+After Satan was unbound, chaos ensued. Byzantium fell.
+The Reformation split the church and led to centuries of
+religious wars. More recently, the devil has deceived the
+nations; apostasy has spread, as formerly Christian nations
+abandon the faith. From “a time to throw away” to “a time
+to hate” (in our near future), the wind is absent again. That
+will end when history reaches “a time of war”. Christ will
+return in the middle or end of that time, and the Holy Spirit
+will complete his mission as well, as is revealed in
+Revelation:
+
+#### Then I saw a Lamb, looking as if it had been slain, 
+#### standing at the center of the throne, encircled by 
+#### the four living creatures and the elders. 
+#### The Lamb had seven horns and seven eyes, which are the
+#### **seven spirits of God sent out into all the earth**.
+###### - Revelation 5:6, NIV
+
+Lest there be confusion, the Holy Spirit has never nor
+will ever be entirely absent from this world. What the
+preceding shows is that the balance of influence between
+the Holy Spirit and Satan’s evil spirits has shifted over time,
+first one way then the other. As the final two occurrences of
+“wind” attest, we “do not know the path of the wind”.
+
 
 In progress...

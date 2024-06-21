@@ -254,7 +254,7 @@ average.
   - **a time to love**: Disciple and teach others what I have learned, Perhaps **2025-2032**?
 
 My life is by no means a pattern to follow, but several interesting things pop out.
-The first ten times required ten years, so the average was less than a year per time.
+The first ten times required less than ten years, so the average was less than a year per time.
 Like many new Christians, I initially made rapid progress in the faith and it occurred in an
 orderly fashion, thanks to the good discipleship that I received.
 
