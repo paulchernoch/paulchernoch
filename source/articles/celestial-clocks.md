@@ -405,7 +405,7 @@ first one way then the other. As the final two occurrences of
 
 **Notable facts:**
 
-In this parable, ten virgins are to wait for the Bridegroom to arrive for the wedding.
+In this parable from Matthew 25, ten virgins are to wait for the Bridegroom to arrive for the wedding.
 When he arrives, they are to meet him with lamps lit, attend to his needs
 and make the final preparations for the wedding. However, the Bridegroom is long in coming.
 The five foolish virgins did not plan for this and had run out of oil for their lamps.
@@ -436,8 +436,48 @@ Women were progressively excluded from positions in the church from 360-480 AD.
 Then on the other side, the Protestant Reformation promoted the priesthood of all believers.
 Protestant schools taught women to read and they slowly began to progress towards equality.
 
-However, a time of darkness will one day come when no one can work. The time of war will 
-test us all. Will women be ready for this? Will men?
+Why should we conclude that this parable is about whether the church respects and trains up
+women for service? The parable has many layers of meaning. On the surface, a wise or foolish virgin is
+an individual Christian, male or female, who has taken initiative to prepare for the return of Christ
+through learning the doctrines of the faith and obeying them conscientiously through acts of service.
+On a higher level, it is whole churches, since Revelation tells us that lamp stands stand for churches. 
+On the highest level, it is whole eras of the church age, when the church as a whole was either prepared
+or not. The identification of the preparedness or unpreparedness of women is offered as a single, identifiable
+sign and symptom of the church's condition. It does not represent the whole of the problems that each age faced.
+
+The parable does not tell us which church ages were prepared or not. For that we must add in information from:
+
+  - Church history
+  - Other prophecies, like the letters to the Seven Churches in Revelation
+
+The chapter "Seven Churches for Seven Eras" in *Peace, like Solomon Never Knew* matches the seven named churches
+to seven eras of history. The churches that Jesus mostly praised can be identified with the prepared virgins.
+The churches that Jesus had the harshest criticism for can be identified with the foolish virgins.
+Those seven eras are not uniform in length, but by placing them alongside the ten seasons of this parable,
+you will find that the praised church eras constitute half of church history.
+
+In the following chart, two thirds of the way down the image are two rows labeled "Ten Virgins" and "Letters to the Seven Churches".
+The blocks labeled "YES" are the eras when the church was prepared. These are those prepared church ages:
+
+  - Ephesus (33-100 AD)
+  - Smyrna (100-313 AD)
+  - Pergamum (313-550 AD) Only the first third or so of this era was prepared. As the era progressed, the acceptable roles of women were progressively diminished by popes and councils.
+  - Philadelphia (1453-1990 AD)
+  - Laodicea (1990 AD-?) The church will be prepared during the first half of this, our current era, but steadily lose ground.
+
+The unprepared church eras were:
+
+  - Pergamum (313-550 AD) The second two-thirds of the era.
+  - Thyatira (550-964 AD) The whole era.
+  - Sardis (964-1453 AD) The whole era.
+  - Laodicea (1990 AD-?) The second half of the era.
+
+<a href="images/patterns-correlated.png" target="_blank">
+  <img class="wide" src="images/patterns-correlated.png" alt="Many wisdom patterns correlated" />
+</a>
+
+A time of darkness will one day come when no one can work. The time of war will 
+test us all. Will women be prepared for this? Will men?
 
 For more about this parable, see [The Parable of the Wedding Feast](./wedding-parable.md).
 

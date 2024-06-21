@@ -269,6 +269,17 @@ img.center {
 }
 
 /*
+  Images in articles that should be almost full width.
+*/
+img.wide {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 95%; /* Adjust as needed */
+  height: auto;
+}
+
+/*
   Image stripe placed to the right of a Number.
 */
 div.numbered-image {
