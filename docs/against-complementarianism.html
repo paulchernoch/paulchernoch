@@ -1,0 +1,736 @@
+
+<!DOCTYPE html>
+<head>
+  <!--from template: default-page.html -->
+  <title>Against Complementarianism</title>
+  <link rel="stylesheet" href="./styles/tree.css" type="text/css">
+  <link rel="stylesheet" href="./styles/toc.css" type="text/css">
+  <link rel="stylesheet" href="./styles/article.css" type="text/css">
+  <!-- Font Awesome supplies the icons used in the TOC -->
+  <script src="https://kit.fontawesome.com/ecadd7b212.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="./styles/page.css" type="text/css">
+
+  <script>
+    /* Search for a css class name in an HTML element and replace it with a second class. */
+    function replace_class(element, from_class, to_class) {
+      element.classList.remove(from_class)
+      element.classList.add(to_class)
+    }
+
+    /* Show or hide the table of contents menu in the left sidebar by changing the style classes.
+       Also show and hide the buttons used to open and close the menu.
+     */
+    function toggleLeftSidebar(open) {
+      const sidebar = document.getElementById("leftsidebar");
+      const open_button = document.getElementById("leftsidebaropen");
+      const close_button = document.getElementById("leftsidebarclose");
+      const body = document.getElementById("articlebody")
+     
+      if (open) {
+        replace_class(sidebar, "leftsidebar-closed", "leftsidebar-open")
+        replace_class(open_button, "show-toggle", "hide-toggle")
+        replace_class(close_button, "hide-toggle", "show-toggle")
+        replace_class(body, "body-wide", "body-narrow")
+      }
+      else {
+        replace_class(sidebar, "leftsidebar-open", "leftsidebar-closed")
+        replace_class(open_button, "hide-toggle", "show-toggle")
+        replace_class(close_button, "show-toggle", "hide-toggle")
+        replace_class(body, "body-narrow", "body-wide")
+      }
+   }
+
+  </script>
+</head>
+<html>
+
+
+<body>
+  <!-- Floating buttons to open and close the TOC -->
+  <div id="toggle">
+    <div class="tooltip">
+
+      <a id="leftsidebaropen" class="hide-toggle" role="button" tabindex="1" onclick="toggleLeftSidebar(true)" >
+        <i class="fas fa-angle-double-right"></i>
+        <span class="tooltiptext">Show</span>
+      </a>
+      <a id="leftsidebarclose" class="show-toggle" role="button" tabindex="2" onclick="toggleLeftSidebar(false)">
+        <i class="fas fa-angle-double-left"></i>
+        <span class="tooltiptext">Hide</span>
+      </a>
+    </div>
+  </div>
+  <!-- Page Header -->
+  <div class="header header-colors">
+    <a href="index.html">
+      <img src="images/wisdom-house.png" width="676" height="250"/>
+    </a>
+
+    
+
+  </div>
+  <!-- Left Sidebar TOC -->
+  <div class="container">
+    <div id="leftsidebar" class="leftsidebar-open left-side-colors" tabindex="0">
+        <ul class="tree-padding tree-vertical-lines tree-horizontal-lines tree-summaries tree-markers tree-buttons">
+          <li>
+            <details open="">
+              <summary><i class="fa-solid fa-house-chimney"></i> <a href="home.html">Home</a></summary>
+                <ul>
+                  <li><i class="fas fa-address-card"></i> <a href="about.html">About this Site</a></li>
+                  <li><i class="fas fa-feather-alt"></i> <a href="author.html">Author</a></li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-book"></i> <a href="books.html">Books</a></summary>
+                        <ul>
+                          <li> <a href="the-endless-hunt.html">The Endless Hunt</a></li>
+                          <li> <a href="job-rises.html">Job Rises</a></li>
+                          <li> <a href="peace-book.html">Peace, Like Solomon Never Knew</a></li>
+                          <li> <a href="plague-book.html">Plague, Precept, Prophet, Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li><i class="fa-solid fa-user-secret"></i> <a href="secret.html">Shhhh! Secret!</a></li>
+                  <li>
+                    <details>
+                      <summary><i class="fa-solid fa-building-columns"></i> <a href="lady-wisdom-s-house.html">Lady Wisdom's House</a></summary>
+                        <ul>
+                          <li> <a href="lady-wisdom.html">Lady Wisdom</a></li>
+                          <li> <a href="hannah-s-song.html">Hannah's Song</a></li>
+                          <li> <a href="blueprint.html">Blueprint for Lady Wisdom's House</a></li>
+                          <li> <a href="foundation.html">Foundation: The Commandments</a></li>
+                          <li> <a href="seven-spirits.html">Lanterns: The Seven Spirits of God</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="seven-pillars-of-wisdom.html">Seven Pillars of Wisdom</a></summary>
+                                <ul>
+                                  <li> <a href="theme-of-books.html">Theme of Books</a></li>
+                                  <li> <a href="theme-of-swords.html">Theme of Swords</a></li>
+                                  <li> <a href="theme-of-pillars.html">Theme of Pillars</a></li>
+                                  <li> <a href="theme-of-thunders.html">Theme of Thunders</a></li>
+                                  <li> <a href="theme-of-spirits.html">Theme of Spirits</a></li>
+                                  <li> <a href="theme-of-songs.html">Theme of Songs</a></li>
+                                  <li> <a href="theme-of-treasures.html">Theme of Treasures</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="roof-of-peace.html">Roof: Paul's Gospel of Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-seedling"></i> <a href="spiritual-growth.html">Spiritual Growth</a></summary>
+                        <ul>
+                          <li> <a href="most-important-questions.html">What are life's Most Important Questions?</a></li>
+                          <li> <a href="heavenly-treasures.html">What are the Heavenly Treasures?</a></li>
+                          <li> <a href="harvest-pattern.html">The Harvest Pattern of Jesus</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="growth-pattern.html">The Growth Pattern of Solomon</a></summary>
+                                <ul>
+                                  <li> <a href="there-is-a-season.html">There is a Season</a></li>
+                                  <li> <a href="pauls-discipleship-program.html">The Apostle Paul's Discipleship Program</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="the-motherhood-pattern.html">The Motherhood Pattern</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="law-pattern.html">The Law Pattern of Moses</a></summary>
+                                <ul>
+                                  <li> <a href="which-ten-commandments.html">Which Ten Commandments?</a></li>
+                                  <li> <a href="matthew-and-the-law-of-christ.html">Matthew and the Law of Christ</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="the-journey-pattern.html">The Journey Pattern</a></li>
+                          <li> <a href="emotional-prophecies-of-the-psalms.html">Emotional Prophecies of the Psalms</a></li>
+                          <li> <a href="talk-to-god.html">Job and the Ways to Talk to God</a></li>
+                          <li> <a href="job-description-for-a-savior.html">Job Description for a Savior</a></li>
+                          <li> <a href="dreams.html">Dreams</a></li>
+                          <li> <a href="spiritual-warfare.html">Spiritual Warfare</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-hourglass-half"></i> <a href="the-end-times.html">The End Times</a></summary>
+                        <ul>
+                          <li> <a href="seven-cycles-of-judgment.html">Seven Cycles of Judgment</a></li>
+                          <li> <a href="satan-bound-and-released.html">Satan, Bound and Released</a></li>
+                          <li> <a href="the-millennial-kingdom.html">The Millennial Kingdom</a></li>
+                          <li> <a href="the-four-horsemen-of-the-apocalypse.html">The Four Horsemen of the Apocalypse</a></li>
+                          <li> <a href="the-fifth-trumpet.html">The Fifth Trumpet</a></li>
+                          <li> <a href="the-fifth-seal.html">The Fifth Seal</a></li>
+                          <li> <a href="voice-of-the-seven-thunders.html">Voice of the Seven Thunders</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-list-ol"></i> <a href="numerology.html">Numerology</a></summary>
+                        <ul>
+                          <li> <a href="to-number-our-days.html">To Number our Days</a></li>
+                          <li> <a href="2-is-for-jesus.html">2 is for Jesus</a></li>
+                          <li> <a href="3-is-for-the-father.html">3 is for the Father</a></li>
+                          <li> <a href="4-is-for-cycles-of-nature.html">4 is for Cycles of Nature</a></li>
+                          <li> <a href="5-is-for-grace.html">5 is for Grace</a></li>
+                          <li> <a href="6-is-for-man.html">6 is for Man</a></li>
+                          <li> <a href="7-is-for-the-holy-spirit.html">7 is for the Holy Spirit</a></li>
+                          <li> <a href="17-is-for-victory.html">17 is for Victory</a></li>
+                          <li> <a href="28-is-for-time.html">28 is for Time</a></li>
+                          <li> <a href="40-is-for-suffering.html">40 is for Suffering</a></li>
+                          <li> <a href="42-is-for-the-journey.html">42 is for the Journey</a></li>
+                          <li> <a href="120-is-for-consecration.html">120 is for Consecration</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="153-is-for-total-victory.html">153 is for Total Victory</a></summary>
+                                <ul>
+                                  <li> <a href="153-connections.html">153 Connections</a></li>
+                                  <li> <a href="defining-153.html">Defining 153</a></li>
+                                  <li> <a href="153-and-fear.html">153 and Fear</a></li>
+                                  <li> <a href="153-and-hope.html">153 and Hope</a></li>
+                                  <li> <a href="habakkuk-part-1.html">Habakkuk Part 1</a></li>
+                                  <li> <a href="habakkuk-part-2.html">Habakkuk Part 2</a></li>
+                                  <li> <a href="habakkuk-part-3.html">Habakkuk Part 3</a></li>
+                                  <li> <a href="habakkuk-part-4.html">Habakkuk Part 4</a></li>
+                                  <li> <a href="habakkuk-part-5.html">Habakkuk Part 5</a></li>
+                                  <li> <a href="habakkuk-part-6.html">Habakkuk Part 6</a></li>
+                                  <li> <a href="habakkuk-part-7.html">Habakkuk Part 7</a></li>
+                                  <li> <a href="153-and-the-fifth-trumpet.html">153 and the Fifth Trumpet</a></li>
+                                  <li> <a href="habakkuk-s-war.html">Habakkuk's War</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="210-is-for-peace.html">210 is for Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-scroll"></i> <a href="prophetic-clocks.html">Prophetic Clocks</a></summary>
+                        <ul>
+                          <li> <a href="types-of-clock.html">Types of Clock</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="generational-clocks.html">Generational Clocks</a></summary>
+                                <ul>
+                                  <li> <a href="job-s-anti-jubilee-clock-defined.html">Job's Anti-Jubilee Clock, Defined</a></li>
+                                  <li> <a href="alexander-the-great.html">The Death of Alexander the Great</a></li>
+                                  <li> <a href="psalm-119.html">Psalm 119: The Shepherd's Clock</a></li>
+                                  <li> <a href="generations-come-and-go.html">Generations Come and Go</a></li>
+                                  <li> <a href="two-patterns-in-history.html">Two Patterns in History</a></li>
+                                  <li> <a href="acrostic-clock.html">The Acrostic Clock</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li>
+                            <details>
+                              <summary> <a href="celestial-clocks.html">Celestial Clocks</a></summary>
+                                <ul>
+                                  <li> <a href="grandfather-clock.html">A Grandfather Clock & a Silver Cord</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="spiritual-clocks.html">Spiritual Clocks</a></li>
+                          <li> <a href="empire-clocks.html">Empire Clocks</a></li>
+                          <li> <a href="commandment-clocks.html">Commandment Clocks</a></li>
+                          <li> <a href="other-clocks.html">Other Clocks</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-question-circle"></i> <a href="riddles.html">Riddles</a></summary>
+                        <ul>
+                          <li> <a href="the-righteous-fall-seven-times.html">The Righteous Fall Seven Times</a></li>
+                          <li> <a href="twice-a-thousand-years.html">Twice a Thousand Years</a></li>
+                          <li> <a href="seven-pillars-riddle.html">The Seven Pillars of Wisdom</a></li>
+                          <li> <a href="riddle-of-153-fish.html">Why 153 Fish?</a></li>
+                          <li> <a href="riddles-of-war.html">Riddles of War</a></li>
+                          <li> <a href="building-a-house.html">Building a House</a></li>
+                          <li> <a href="hannah-s-song.html">Hannah's Song</a></li>
+                          <li> <a href="satan-s-taunt.html">Satan's Taunt</a></li>
+                          <li> <a href="vineyard-parable.html">Parable of the Workers in the Vineyard</a></li>
+                          <li> <a href="wedding-parable.html">The Parable of the Wedding Feast</a></li>
+                          <li> <a href="the-childbearing.html">The Childbearing</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details open="">
+                      <summary><i class="fa-solid fa-person-harassing"></i> <a href="a-divided-world.html">A Divided World</a></summary>
+                        <ul>
+                          <li>
+                            <details open="">
+                              <summary> <a href="against-complementarianism.html">Against Complementarianism</a></summary>
+                                <ul>
+                                  <li> <a href="a-model-for-the-ordination-of-women.html">A Model for the Ordination of Women</a></li>
+                                  <li> <a href="submission.html">Submission</a></li>
+                                  <li> <a href="consecration.html">Consecration</a></li>
+                                  <li> <a href="identification.html">Identification</a></li>
+                                  <li> <a href="quantification.html">Quantification</a></li>
+                                  <li> <a href="reconciliation.html">Reconciliation</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-calendar-alt"></i> <a href="chronology.html">Chronology</a></summary>
+                        <ul>
+                          <li> <a href="dating-the-creation.html">Dating the Creation</a></li>
+                          <li> <a href="sojourn-of-israel.html">Sojourn of Israel</a></li>
+                          <li> <a href="chronology-of-judges.html">Chronology of Judges</a></li>
+                          <li> <a href="lifespan-of-solomon.html">Lifespan of Solomon</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                </ul>
+            </details>
+          </li>
+
+        </ul>
+    </div>
+    <!-- Article Text -->
+    <div id="articlebody" class="body-narrow" tabindex="3">
+      <div class="article">
+        <h1>Against Complementarianism</h1>
+        <h2>A Critique of Jesus, Justice & Gender Roles by Kathy Keller</h2>
+        <p class="date">Published on 2024-03-22</p>
+        
+        <p>In early 2024, the booklet <em>Jesus, Justice &amp; Gender Roles</em> by Kathy Keller (published in 2012)
+was circulated in my church. Keller advocates for a complementarian approach to
+church leadership. The author claims that the Bible teaches that women may not serve as pastors or elders
+in churches, but may serve in all other capacities. This article will not critique the whole booklet, 
+but focus on three weaknesses in her argument. Exploiting those three weaknesses, it will offer ideas to 
+support the opposing view of egalitarianism. But first, a little about why I hold the views that I do.</p>
+
+<h2>Declaration Against Interest</h2>
+
+<p>In law, there is a principle known as <em>declaration against interest</em>. By this principle, 
+hearsay testimony by a person who holds a stake in the opposite view is considered highly credible.
+For example, if a man testifies to something that will cause him to lose reputation, money,
+or to be charged with a crime himself because of his testimony, he will be believed and his words accepted
+in court. I am offering such testimony. I am admitting that for most of my life, I was wrong.</p>
+
+<p>I once wholeheartedly accepted the complementarian view. I even left a church when it changed from being 
+complementarian to egalitarian. This cost me friends. I held to varying strains of this philosophy 
+from the time I became a Christian in April 1985 until I became persuaded
+of the opposite opinion in December 2020. Why? Was it because of peer pressure or to win the favor
+of others? Was it because I am easily swayed or lazy and do not carefully study both sides of an argument?</p>
+
+<p>I have held and continue to hold many political and religious views that are mocked or considered 
+repugnant by the people of my liberal state, such as being pro-life, opposed to same sex marriage,
+or believing that God created the heavens and the earth in six literal days
+not more than seven thousand years ago.</p>
+
+<p>I have lost friends and strained relationships many times on account of such views.
+My job was once threatened by a project leader at a management consultant company because
+I refused to work on the sabbath. Neither then nor during the decades since have I have backed down on 
+my commitment to sabbath observance. Therefore, it is not because of peer pressure, social ostracism,
+or a desire to win the favor of anyone that I changed my opinion about this. 
+Nor did any person confront me with a new book or better logic. 
+Instead, I was confronted by two things: my sin and my ignorance.</p>
+
+<p>I was studying world history in the light of the Bible, trying to see from Scripture God's unfolding
+plan over the millennia for the ending of many evils, like religious intolerance, slavery, racism, 
+and colonialism. Suddenly, I was struck that nowhere in my research had I derived any results concerning God's 
+plan for the liberation of women from oppression. The damning realization was not that I had
+not found God's plan. My sin was that I had not even asked the question! All my curiosity at
+poring over millennia of history to understand God's ways and I had no curiosity about
+the Almighty's great concern for his daughters and how he was determined to show it.
+My lack of empathy was a grave sin.</p>
+
+<p>I was cut to the heart. I immediately prayed, "Lord, what is your plan for the liberation of women 
+from oppression?" Over the course of the next week, I pored over the Bible. God's glory
+entered my mind and illuminated passages and ideas that I had either never seen before or discounted
+and downplayed. I did a complete 180. I now believe that I was not only factually wrong, 
+I was spiritually deaf to what God has to say about such things. I was not just ignorant, but culpable.</p>
+
+<p>And God is forgiving.</p>
+
+<h2>The Three Errors of Kathy Keller</h2>
+
+<p>Keller's book is concise and well-written. She offers excellent exegesis of passages that demolish 
+the more extreme views of churches who place even more restrictions upon women than she advocates.
+Without her penetrating logic, I would have overlooked critical holes in my own argument.
+I owe her a debt because I would have overlooked a key aspect of the most wonderful Biblical evidence
+in favor of egalitarianism, the need for a Biblical model of ordination that applies to women. 
+Before we get to that, here are the errors that I spotted. I will collect the quotes up front, 
+then address each in turn.</p>
+
+<h4>"What is clear in the Bible interprets what is cloudy."</h4>
+
+<h6>- Page 12</h6>
+
+<h4>"Why did God arrange things this way,</h4>
+
+<h4>with a gender-based division of labor?"</h4>
+
+<h4>At the end of the day, I still don't know.</h4>
+
+<h6>- Page 29</h6>
+
+<h4>"... and your life takes on meaning and matures</h4>
+
+<h4>when you conform to God's will, not when</h4>
+
+<h4>you get to do what you want to do."</h4>
+
+<h6>- Page 32</h6>
+
+<p><strong>Perspicacity</strong>. The first quote argues for the perspicacity of Scripture. The main things are the plain things
+and the plain things are the main things. It is a fruitful attitude to hold when approaching
+the more confusing passages of the Bible. However, is it universally applicable?
+Can God's plan for women vis-a-vis leadership in the church be understood from the clear passages
+alone? Consider Solomon's words:</p>
+
+<h4>It is the glory of God to conceal things,</h4>
+
+<h5>but the glory of kings is to search things out.</h5>
+
+<h6>- Proverbs 25:2</h6>
+
+<p>Reflect on Solomon's words. <strong>This is a glory issue.</strong> It is not clear. It must be searched out.</p>
+
+<p>Recall the story in the Book of Acts about Cornelius, Peter and the acceptance of the Gentiles into the church.
+The Old Testament is filled with promises of God's desire to spread his message to all peoples, not just the Jews.
+Not until Peter's vision of being permitted to eat unclean animals did the church accept this
+"obvious" truth. It is not the clear words that govern the meaning, it is the defining passages
+that do so. The defining passages for a topic can then be used to deal with the special cases.
+Sometimes the Holy Spirit must illuminate a formerly unrecognized defining passage so that its
+teaching may be applied to the unclear verses elsewhere. In a while I will show that there
+is a defining portion of the Bible that tackles the issue of God's plan for women and it has 
+been overlooked by the church.</p>
+
+<p><strong>Purpose</strong>. With the second quote, Keller admits <strong>ignorance</strong> as to God's purposes concerning 
+the restrictions upon women. Such humility is a good start. However, what if knowing the very thing 
+of which she claims ignorance is essential if we are to arrive at a true and just understanding? 
+There are two ways to read this: as a fact or as an attitude. As a fact, it is a statement that 
+the Lord has not revealed this information. As an attitude, it is a resistance to looking for that 
+answer, persevering until you have it, and then forming your conclusions.</p>
+
+<h4><strong>Q:</strong> Has God has revealed to us this information about why women are suffering?</h4>
+
+<h4><strong>A:</strong> Yes.</h4>
+
+<h4><strong>Q:</strong> How do we know?</h4>
+
+<h4><strong>A:</strong> We know because He promised that He would tell it to us.</h4>
+
+<h4><strong>Q:</strong> Where is the promise?</h4>
+
+<h4><strong>A:</strong> In the Book of Amos.</h4>
+
+<p>Keller's problem is that she is close to charging God with breaking that promise. </p>
+
+<h4>Is a trumpet blown in a city,</h4>
+
+<h5>and the people are not afraid?</h5>
+
+<h4>Does disaster come to a city,</h4>
+
+<h5>unless the Lord has done it?</h5>
+
+<h4>For the Lord God does nothing</h4>
+
+<h5>without revealing his secret</h5>
+
+<h6>to his servants the prophets.</h6>
+
+<h6>- Amos 3:6-7</h6>
+
+<p>What was the first breach in human relationships?</p>
+
+<p>What problem affects half of humanity?</p>
+
+<p>Of all the trials afflicting the world, which by its very magnitude and longevity 
+screams loudest for a solution with the possible exception of mortality itself?</p>
+
+<p>If ANY plan of God's to address ANY evil in the world deserves to be spelled out
+in Scripture, the plan to relieve the suffering of women is that plan.
+Surely the purpose behind the suffering of women is integral to the purpose behind God's plan.</p>
+
+<p>Years ago, a man gave a talk at Ruggles Baptist Church. He shared his ideas about
+Revelation. Revelation is filled with plagues. I asked the speaker why God chose the 
+particular plagues that He did. What was the purpose behind each plague? He said he didn't know.
+I figured that if he didn't know why, he really didn't know. </p>
+
+<p>Since Keller admits she doesn't know why, she really doesn't know.</p>
+
+<p>I know why. I don't know <em>everything</em> about the why, but I learned <em>something</em> about it.
+I learned enough about the WHY to also know the WHEN. The WHEN is when God began to permit 
+women to serve as pastors and elders.</p>
+
+<p>Why should there be a when? Why not have women endure this until the end? 
+The reason is found in Isaiah. Even if we do not know the cause for suffering, 
+we can know that it will end.</p>
+
+<h4><strong>Does he who plows for sowing plow continually?</strong></h4>
+
+<h5>Does he continually open and harrow his ground?</h5>
+
+<h4>When he has leveled its surface,</h4>
+
+<h5>does he not scatter dill, sow cumin,</h5>
+
+<h4>and put in wheat in rows</h4>
+
+<h5>and barley in its proper place,</h5>
+
+<h5>and emmer as the border?</h5>
+
+<h4>For he is rightly instructed;</h4>
+
+<h5>his God teaches him.</h5>
+
+<h6>- Isaiah 28:24-26</h6>
+
+<p>The prophet tells us that you don't plow forever. Eventually you plant, the seed grows, 
+and you reap a harvest. Plowing is used in Scripture as a metaphor for suffering, as in 
+Psalms 129 and 141, as well as Job 1. The plowing of the wicked may not end, but not the 
+plowing of the righteous. </p>
+
+<p><strong>This is a sacrifice issue</strong>. No suffering ordained by God for our good is without 
+purpose or an end date.</p>
+
+<p><strong>Hearing</strong>. In the third quote, the Keller accuses women of pursuing these offices so
+they can "get to do what [they] want to do". I doubt that women are different from men
+when it comes to their capacity for pride and presumption. I will apply Keller's charge to myself.</p>
+
+<p>From 1989 to 1993, I passionately pursued oversea missionary service until the mission board, 
+Pastor Larry, and finally my own reluctant spirit said no, I was not called.</p>
+
+<p>Around that time I also pursued studies at seminary until it became clear to me 
+that I was not called to the pastorate. I wept bitterly.</p>
+
+<p>Only after another decade passed did the Lord begin to guide me into my calling, in the area 
+of Christian writing.</p>
+
+<p>I was a proud, impulsive, multi-talented MIT graduate passionately set on pursuing a course
+that God had not ordained and yet I heard the voice of the Holy Spirit when he said, "No!" 
+I heard and obeyed with tears. Are not godly women equally capable of hearing a "No!" from God?
+Or a "Yes"?</p>
+
+<p><strong>This is a spiritual hearing issue.</strong></p>
+
+<h2>The Three Errors, Synthesized</h2>
+
+<p>The three errors fall into three complementary categories that touch on the three principle aspects 
+of a person: the mind, the heart and the hand.</p>
+
+<ul>
+<li><p>The windows to the <em>mind</em> are your <em>ears</em>. They let God's truth in.</p></li>
+<li><p>The windows to the <em>heart</em> are your <em>eyes</em>. They let God's glory in.</p></li>
+<li><p>The door from the soul to the <em>world</em> is your <em>hands</em>. By them your actions speak your purposes, priorities and plans to the world and to God.</p></li>
+</ul>
+
+<p>Keller said women cannot clearly <strong>hear</strong> from God concerning their calling. 
+She herself did not <strong>see</strong> the glory of the hidden words that Solomon urged us to seek out, words that
+free women to lead. And she dismisses as inadequate the collective sacrifice offered by the <strong>hands</strong> of Christian women
+down through the centuries. Abraham paid a tenth to Melchizedek. In American Colonial times, 
+one in eight women died in childbirth, and by many other measures they devoted themselves to
+the work handed to them. What more sacrifice is needed?</p>
+
+<p>The three categories above are not chosen as a rhetorical device. Jesus alluded to them in his parable
+about the sower and the seed. </p>
+
+<ul>
+<li>The <strong>seed</strong> snatched by the bird is the knowledge of the gospel targeted at your <strong>ears</strong>. Trampled earth represents our deaf ears.</li>
+<li>The <strong>rocky soil</strong> is the <strong>heart</strong> that shuts out the glory of God shining from the sun. It needs the water of the Holy Spirit to survive, like tears of repentance to wash the dust from our eyes.</li>
+<li>The <strong>thorny soil</strong> is the <strong>hand</strong> that won't give. Its priorities are selfish, its habits dissolute, and its sacrifices made for show. It needs to have those clingy weeds pulled up and those thorns pruned, to mourn the loss of worthless things and find things of eternal value.</li>
+</ul>
+
+<p>Keller is a well-educated, dedicated Christian with long experience in Christian ministry. Who am I to challenge her?
+Where do I get the audacity to say that I understand these things better? I get it from making the same mistakes that she made
+and having God turn me around. Here are my credentials:</p>
+
+<p><strong>Hearing.</strong> In January 2005, I lost all hearing in my left ear. A month of steroids and trips to the doctor did nothing. 
+At the end of one doctor visit, I went into the waiting room and pulled out my Bible and a card with a yearly Bible reading plan.
+The plan told me to open to Exodus 4, where God is speaking to Moses from the burning bush. This is what I read:</p>
+
+<h4>Then the Lord said to him,</h4>
+
+<h5>“Who has made man's mouth?</h5>
+
+<h5>Who makes him mute, or <strong>deaf</strong>, or seeing, or blind?</h5>
+
+<h5>Is it not I, the Lord?</h5>
+
+<h5>Now therefore go, and <strong>I will be with your mouth</strong></h5>
+
+<h5><strong>and teach you what you shall speak</strong>.”</h5>
+
+<h6>- Exodus 4:11-12</h6>
+
+<p>That is the only place in the Bible that says that God makes people deaf. As I read those words, I knew God was in the room with me.
+He knew why I was deaf and it was part of his plan. I accepted it in peace and stopped praying for healing.
+Two days later, my hearing returned. By these words from God, I received a sobering message. I was spiritually deaf.
+I also received a promise. The Lord would open my spiritual ears so that I could learn the things that he would teach me.</p>
+
+<p>That was why, years later, I was able to ask the Lord about his plan for freeing women from oppression and hear an answer that
+contradicted what I believed.</p>
+
+<p><strong>Seeing.</strong> Around 2012, reflecting on Moses again, I realized that he knew something that I did not: what is of ultimate value.
+A conversation between Moses and God in Exodus shows us what Moses desired to see above everything else in all creation.</p>
+
+<h4>Moses said, “Please show me your glory.”</h4>
+
+<h6>- Exodus 33:18</h6>
+
+<p>God's glory was what Moses' eyes longed most to see. My priorities were different. What did I do about it? I prayed.
+For the next three years I fasted each Monday, and repeated the same simple prayer: "Lord, show me your glory."
+During the time of my fast I saw no visions, had no dreams, and experienced no miracles, yet when I concluded my fast,
+I knew that I had been heard. A year later, I began to see the world differently. I lost my job and a few days later, 
+my mother died. Though out of work and with no savings, my first thought was to help my father in his time of sorrow. 
+I took him on a vacation to New York City to visit his relatives and the city of his birth. Then I stayed with him
+in the hospital for weeks when he almost died of anaplasmosis. All this time I was at peace. A year after that, 
+the Lord began to open up the Scriptures to me, starting with Job. He was showing me His glory through His Word. 
+My studies of Job eventually led me to revise my ideas about women in leadership, among other things.</p>
+
+<p><strong>Touching.</strong> There is no specific connection between my miraculous recovery of hearing, my prayer to see God's glory,
+and receiving wisdom about God's plan for women in ministry. When someone challenged me a couple years ago
+by asking something along the lines of "Why would God choose you to tell these things?", I had no answer.
+Only while reflecting on Keller's book did the answer finally come to me. It is with our hands that we offer
+our sacrifices to God. Some sacrifices we make willingly. Others are involuntary. They spring from the sufferings of life.
+The latter provoke deep mourning. Just as women have made both kinds of offering, so have I.</p>
+
+<p><em>First, the suffering</em>. Around 2003, I dreamt that while driving my family in our car, a tornado caught us up.
+We were lifted up, then came crashing down. This repeated too many times to count: up, down, up, down. 
+Then the storm ended and we drove on in safety. Days later, a visiting preacher at the International Family Church
+spoke about Jesus calming the storm. He said that the reason Jesus guided the disciples into the storm was not 
+primarily to teach them faith. They entered the storm so that they could reach the other side of the lake.
+Two demon-possessed men were waiting there, in desperate need of a savior.</p>
+
+<p>The conjunction of dream and sermon told me that God was about to thrust my family and I into a long storm but that 
+it would eventually come to an end and we would move on in safety. The imagery of a whirlwind would one day 
+guide me to study Job. And like my hearing loss less than two years later, I was being told that on the other side of the
+storm there would be something fruitful for me to do.</p>
+
+<p>This nearly two decade long period of suffering gave me empathy for women who fear that their suffering has no end.
+All suffering has an end. The suffering of the faithful also has a noble purpose. I am convinced that what
+God made plain to me is also true of women. They were subjected to a long trial, but it is over and we should acknowledge that.</p>
+
+<p><em>Second, the sacrifice</em>. When I was in my late twenties, I was foolish with money. I made one really bad decision and the Lord
+spoke to me sternly in a dream, warning me to reverse my decision, which warning I heeded. Some months later, I 
+came into a sum of money. Knowing that I could not trust myself to make wise use of the money, I prayed. I asked the Lord
+to let me know what I should do with the money. In my prayer, I named the exact amount: eight thousand dollars.
+At the time, this was more that half of all I owned in this world.</p>
+
+<p>Days later, I attended a prayer meeting. One person at the meeting said that a Christian charity for which she volunteered
+had an urgent need. The amount of that need was exactly eight thousand dollars.</p>
+
+<p>Days later, I went to Pastor Larry and asked him to pray with me, to decide if it was really the Lord's will.
+I was a willing but not so cheerful giver. Then I made arrangements to give the money anonymously, because
+Jesus warned us about making big gestures to gain the approval of men. After I made this sacrifice, I searched my
+heart and did not like how hard it was for me to obey. In the Bible, when many people offered God a sacrifice they also
+made a petition. What did I ask God for? I prayed, "Lord, give me a generous heart."</p>
+
+<p>It was a generous heart that I would one day need if I was to expend months of study, writing and prayer for the benefit of women.
+So why did God answer my prayer by directing me to study what His word says about this particular subject?
+Why shine a light on His care for the suffering of women?
+It was because the money that I donated, most of what I owned, was to a crisis pregnancy center. And so the Lord taught me the meaning of 
+these words of Saint Paul:</p>
+
+<h4>and she shall be saved through <strong>the child-bearing</strong>,</h4>
+
+<h5>if they remain in faith, and love, and sanctification, with sobriety.</h5>
+
+<h6>- 1 Timothy 2:15 (YLT)</h6>
+
+<p>The Child-bearing is not what you think...</p>
+
+<p>The rest of this article (except the conclusion) is divided into pieces found at these links:</p>
+
+<p><a href="./a-model-for-the-ordination-of-women.html">A Model for the Ordination of Women</a></p>
+
+<p>You can never just assume that you have the right to do something. God has to authorize it.
+Women have a burden of proof to meet to demonstrate that God has permitted them to serve as pastors and elders.
+This article breaks down the problem.</p>
+
+<p><a href="./submission.html">Submission: The Sacrifice of Long-suffering Christian Women</a></p>
+
+<p>Every ceremony of ordination requires a sacrifice. This article speaks of the sacrifice that women have already offered.</p>
+
+<p><a href="./consecration.html">Consecration: Models of Ordination</a></p>
+
+<p>There are many models of ordination in the Bible. All seem to apply only to men.
+This article asks the question, "Are there any models that can be applied to women?"
+It finds one in Job.</p>
+
+<p><a href="./identification.html">Identification: The Metaphor of Childbirth</a></p>
+
+<p>Having identified a promising model of ordination in the Book of Job, this article proves that it applies to women.</p>
+
+<p><a href="./quantification.html">Quantification: When did the Ordination Occur?</a></p>
+
+<p>It is not enough to have a promising model for ordination and know what sacrifice must be offered at the ceremony.
+The sacrifice must actually be offered at a definite time by actual people and the ceremony performed.
+If this ceremony did not occur before Paul's time, then it happened after him and is not recorded in the Bible as history.
+That means that if it is in the Bible at all, it must be found in prophecy. This article offers up several Bible 
+prophecies that predicted when women would be ordained for authoritative service.</p>
+
+<p><a href="./reconciliation.html">Reconciliation: The Childbearing in 1 Timothy 2</a></p>
+
+<p>1 Timothy 2 makes a lot of women angry. It bluntly says that women can't teach men. 
+This article says that Paul's words do not describe a static role for women, but 
+instead a prophetic timetable for their deliverance from bondage and acquisition of full equality with men,'
+even in matters of church leadership.</p>
+
+<h2>Impartation: The Unsealing of the Scroll of Wisdom</h2>
+
+<p>Why the long wait? Why should the understanding of these prophecies about God's plans for women and many other things have been delayed until now?</p>
+
+<p>The revelation of this information had to wait until Jesus began to unseal the scroll of Revelation.
+Recall that the scroll is secured with seven seals.
+The seven Bible books that constitute the Seven Pillars of Wisdom are each associated with one of the seals.
+As each seal is removed, information in that book that God had once concealed is opened to the church.
+The demonstration that this is so is found in "Appendix H: Clues to the Seven Pillars" in <em>Peace, like Solomon Never Knew</em>.
+Four seals have already been removed:</p>
+
+<ul>
+<li>The first seal: Psalms. This concerns the Lordship of Jesus. The unsealing led to the widespread publication of the Bible via Gutenberg's new printing press.</li>
+<li>The second seal: Job. This concerns God’s sovereignty. The suffering of the Reformation unleashed wisdom, leading to the recognition of the priesthood of all believers. Progress towards democracy accelerated.</li>
+<li>The third seal: Proverbs. This resulted in economic freedom, capitalism, and the abolition of slavery.</li>
+<li>The fourth seal: Song of Songs. This promoted sexual and racial equality and a revolution in social relationships.</li>
+</ul>
+
+<p>The fifth seal is about to be removed. This unsealing will teach the church about the wisdom found in Ecclesiastes.
+The focus of this new wisdom is time, the understanding of the rough outline of God’s plan for history and how to 
+arrange the prophecies into an orderly, quantifiable structure.</p>
+
+<p>It is because the church has long been confused about time that it has been unable to recognize the time to abolish slavery, the time to permit women to lead in the church, and many other things. That is about to change, and just in time. Only armed with this new knowledge will the church be able to
+survive the challenges now arising.</p>
+
+<p>Those challenges require that women be fully equipped. From my study of Job and reflection on my own experiences, I learned that the 
+suffering of the faithful creates a channel for God to communicate His wisdom. Since women have suffered so much and so long, 
+it is evident that He has been communicating a special wisdom to them. This special wisdom will be needed by the church in the coming years. </p>
+
+<ul>
+<li>Why else would God personify wisdom as a woman in Proverbs? </li>
+<li>Why else announce the Seven Pillars of Wisdom via Hannah, a woman? </li>
+<li>Why else describe women collecting the spoils of war in Psalm 68?</li>
+<li>Why else model all of Job after a woman's pregnancy?</li>
+<li>Why else present the Bride of Song of Songs as the one to whom all the friends turn for advice?</li>
+<li>Why else entrust the original message of the resurrection to women?</li>
+<li>Why describe the elect of Revelation as virgins?</li>
+</ul>
+
+<p>If the virgins of the church are not prepared, the church will fall. This is not a fairness issue or a justice issue. </p>
+
+<p>This is a survival issue.</p>
+
+      </div>
+
+    </div>
+    <!-- Page Footer -->
+    <div class="footer faint">
+      
+    </div>
+  </div>
+</body>
+</html>

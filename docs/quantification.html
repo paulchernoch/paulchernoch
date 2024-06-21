@@ -1,0 +1,1147 @@
+
+<!DOCTYPE html>
+<head>
+  <!--from template: default-page.html -->
+  <title>Quantification</title>
+  <link rel="stylesheet" href="./styles/tree.css" type="text/css">
+  <link rel="stylesheet" href="./styles/toc.css" type="text/css">
+  <link rel="stylesheet" href="./styles/article.css" type="text/css">
+  <!-- Font Awesome supplies the icons used in the TOC -->
+  <script src="https://kit.fontawesome.com/ecadd7b212.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="./styles/page.css" type="text/css">
+
+  <script>
+    /* Search for a css class name in an HTML element and replace it with a second class. */
+    function replace_class(element, from_class, to_class) {
+      element.classList.remove(from_class)
+      element.classList.add(to_class)
+    }
+
+    /* Show or hide the table of contents menu in the left sidebar by changing the style classes.
+       Also show and hide the buttons used to open and close the menu.
+     */
+    function toggleLeftSidebar(open) {
+      const sidebar = document.getElementById("leftsidebar");
+      const open_button = document.getElementById("leftsidebaropen");
+      const close_button = document.getElementById("leftsidebarclose");
+      const body = document.getElementById("articlebody")
+     
+      if (open) {
+        replace_class(sidebar, "leftsidebar-closed", "leftsidebar-open")
+        replace_class(open_button, "show-toggle", "hide-toggle")
+        replace_class(close_button, "hide-toggle", "show-toggle")
+        replace_class(body, "body-wide", "body-narrow")
+      }
+      else {
+        replace_class(sidebar, "leftsidebar-open", "leftsidebar-closed")
+        replace_class(open_button, "hide-toggle", "show-toggle")
+        replace_class(close_button, "show-toggle", "hide-toggle")
+        replace_class(body, "body-narrow", "body-wide")
+      }
+   }
+
+  </script>
+</head>
+<html>
+
+
+<body>
+  <!-- Floating buttons to open and close the TOC -->
+  <div id="toggle">
+    <div class="tooltip">
+
+      <a id="leftsidebaropen" class="hide-toggle" role="button" tabindex="1" onclick="toggleLeftSidebar(true)" >
+        <i class="fas fa-angle-double-right"></i>
+        <span class="tooltiptext">Show</span>
+      </a>
+      <a id="leftsidebarclose" class="show-toggle" role="button" tabindex="2" onclick="toggleLeftSidebar(false)">
+        <i class="fas fa-angle-double-left"></i>
+        <span class="tooltiptext">Hide</span>
+      </a>
+    </div>
+  </div>
+  <!-- Page Header -->
+  <div class="header header-colors">
+    <a href="index.html">
+      <img src="images/wisdom-house.png" width="676" height="250"/>
+    </a>
+
+    
+
+  </div>
+  <!-- Left Sidebar TOC -->
+  <div class="container">
+    <div id="leftsidebar" class="leftsidebar-open left-side-colors" tabindex="0">
+        <ul class="tree-padding tree-vertical-lines tree-horizontal-lines tree-summaries tree-markers tree-buttons">
+          <li>
+            <details open="">
+              <summary><i class="fa-solid fa-house-chimney"></i> <a href="home.html">Home</a></summary>
+                <ul>
+                  <li><i class="fas fa-address-card"></i> <a href="about.html">About this Site</a></li>
+                  <li><i class="fas fa-feather-alt"></i> <a href="author.html">Author</a></li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-book"></i> <a href="books.html">Books</a></summary>
+                        <ul>
+                          <li> <a href="the-endless-hunt.html">The Endless Hunt</a></li>
+                          <li> <a href="job-rises.html">Job Rises</a></li>
+                          <li> <a href="peace-book.html">Peace, Like Solomon Never Knew</a></li>
+                          <li> <a href="plague-book.html">Plague, Precept, Prophet, Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li><i class="fa-solid fa-user-secret"></i> <a href="secret.html">Shhhh! Secret!</a></li>
+                  <li>
+                    <details>
+                      <summary><i class="fa-solid fa-building-columns"></i> <a href="lady-wisdom-s-house.html">Lady Wisdom's House</a></summary>
+                        <ul>
+                          <li> <a href="lady-wisdom.html">Lady Wisdom</a></li>
+                          <li> <a href="hannah-s-song.html">Hannah's Song</a></li>
+                          <li> <a href="blueprint.html">Blueprint for Lady Wisdom's House</a></li>
+                          <li> <a href="foundation.html">Foundation: The Commandments</a></li>
+                          <li> <a href="seven-spirits.html">Lanterns: The Seven Spirits of God</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="seven-pillars-of-wisdom.html">Seven Pillars of Wisdom</a></summary>
+                                <ul>
+                                  <li> <a href="theme-of-books.html">Theme of Books</a></li>
+                                  <li> <a href="theme-of-swords.html">Theme of Swords</a></li>
+                                  <li> <a href="theme-of-pillars.html">Theme of Pillars</a></li>
+                                  <li> <a href="theme-of-thunders.html">Theme of Thunders</a></li>
+                                  <li> <a href="theme-of-spirits.html">Theme of Spirits</a></li>
+                                  <li> <a href="theme-of-songs.html">Theme of Songs</a></li>
+                                  <li> <a href="theme-of-treasures.html">Theme of Treasures</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="roof-of-peace.html">Roof: Paul's Gospel of Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-seedling"></i> <a href="spiritual-growth.html">Spiritual Growth</a></summary>
+                        <ul>
+                          <li> <a href="most-important-questions.html">What are life's Most Important Questions?</a></li>
+                          <li> <a href="heavenly-treasures.html">What are the Heavenly Treasures?</a></li>
+                          <li> <a href="harvest-pattern.html">The Harvest Pattern of Jesus</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="growth-pattern.html">The Growth Pattern of Solomon</a></summary>
+                                <ul>
+                                  <li> <a href="there-is-a-season.html">There is a Season</a></li>
+                                  <li> <a href="pauls-discipleship-program.html">The Apostle Paul's Discipleship Program</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="the-motherhood-pattern.html">The Motherhood Pattern</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="law-pattern.html">The Law Pattern of Moses</a></summary>
+                                <ul>
+                                  <li> <a href="which-ten-commandments.html">Which Ten Commandments?</a></li>
+                                  <li> <a href="matthew-and-the-law-of-christ.html">Matthew and the Law of Christ</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="the-journey-pattern.html">The Journey Pattern</a></li>
+                          <li> <a href="emotional-prophecies-of-the-psalms.html">Emotional Prophecies of the Psalms</a></li>
+                          <li> <a href="talk-to-god.html">Job and the Ways to Talk to God</a></li>
+                          <li> <a href="job-description-for-a-savior.html">Job Description for a Savior</a></li>
+                          <li> <a href="dreams.html">Dreams</a></li>
+                          <li> <a href="spiritual-warfare.html">Spiritual Warfare</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-hourglass-half"></i> <a href="the-end-times.html">The End Times</a></summary>
+                        <ul>
+                          <li> <a href="seven-cycles-of-judgment.html">Seven Cycles of Judgment</a></li>
+                          <li> <a href="satan-bound-and-released.html">Satan, Bound and Released</a></li>
+                          <li> <a href="the-millennial-kingdom.html">The Millennial Kingdom</a></li>
+                          <li> <a href="the-four-horsemen-of-the-apocalypse.html">The Four Horsemen of the Apocalypse</a></li>
+                          <li> <a href="the-fifth-trumpet.html">The Fifth Trumpet</a></li>
+                          <li> <a href="the-fifth-seal.html">The Fifth Seal</a></li>
+                          <li> <a href="voice-of-the-seven-thunders.html">Voice of the Seven Thunders</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-list-ol"></i> <a href="numerology.html">Numerology</a></summary>
+                        <ul>
+                          <li> <a href="to-number-our-days.html">To Number our Days</a></li>
+                          <li> <a href="2-is-for-jesus.html">2 is for Jesus</a></li>
+                          <li> <a href="3-is-for-the-father.html">3 is for the Father</a></li>
+                          <li> <a href="4-is-for-cycles-of-nature.html">4 is for Cycles of Nature</a></li>
+                          <li> <a href="5-is-for-grace.html">5 is for Grace</a></li>
+                          <li> <a href="6-is-for-man.html">6 is for Man</a></li>
+                          <li> <a href="7-is-for-the-holy-spirit.html">7 is for the Holy Spirit</a></li>
+                          <li> <a href="17-is-for-victory.html">17 is for Victory</a></li>
+                          <li> <a href="28-is-for-time.html">28 is for Time</a></li>
+                          <li> <a href="40-is-for-suffering.html">40 is for Suffering</a></li>
+                          <li> <a href="42-is-for-the-journey.html">42 is for the Journey</a></li>
+                          <li> <a href="120-is-for-consecration.html">120 is for Consecration</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="153-is-for-total-victory.html">153 is for Total Victory</a></summary>
+                                <ul>
+                                  <li> <a href="153-connections.html">153 Connections</a></li>
+                                  <li> <a href="defining-153.html">Defining 153</a></li>
+                                  <li> <a href="153-and-fear.html">153 and Fear</a></li>
+                                  <li> <a href="153-and-hope.html">153 and Hope</a></li>
+                                  <li> <a href="habakkuk-part-1.html">Habakkuk Part 1</a></li>
+                                  <li> <a href="habakkuk-part-2.html">Habakkuk Part 2</a></li>
+                                  <li> <a href="habakkuk-part-3.html">Habakkuk Part 3</a></li>
+                                  <li> <a href="habakkuk-part-4.html">Habakkuk Part 4</a></li>
+                                  <li> <a href="habakkuk-part-5.html">Habakkuk Part 5</a></li>
+                                  <li> <a href="habakkuk-part-6.html">Habakkuk Part 6</a></li>
+                                  <li> <a href="habakkuk-part-7.html">Habakkuk Part 7</a></li>
+                                  <li> <a href="153-and-the-fifth-trumpet.html">153 and the Fifth Trumpet</a></li>
+                                  <li> <a href="habakkuk-s-war.html">Habakkuk's War</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="210-is-for-peace.html">210 is for Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-scroll"></i> <a href="prophetic-clocks.html">Prophetic Clocks</a></summary>
+                        <ul>
+                          <li> <a href="types-of-clock.html">Types of Clock</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="generational-clocks.html">Generational Clocks</a></summary>
+                                <ul>
+                                  <li> <a href="job-s-anti-jubilee-clock-defined.html">Job's Anti-Jubilee Clock, Defined</a></li>
+                                  <li> <a href="alexander-the-great.html">The Death of Alexander the Great</a></li>
+                                  <li> <a href="psalm-119.html">Psalm 119: The Shepherd's Clock</a></li>
+                                  <li> <a href="generations-come-and-go.html">Generations Come and Go</a></li>
+                                  <li> <a href="two-patterns-in-history.html">Two Patterns in History</a></li>
+                                  <li> <a href="acrostic-clock.html">The Acrostic Clock</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li>
+                            <details>
+                              <summary> <a href="celestial-clocks.html">Celestial Clocks</a></summary>
+                                <ul>
+                                  <li> <a href="grandfather-clock.html">A Grandfather Clock & a Silver Cord</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="spiritual-clocks.html">Spiritual Clocks</a></li>
+                          <li> <a href="empire-clocks.html">Empire Clocks</a></li>
+                          <li> <a href="commandment-clocks.html">Commandment Clocks</a></li>
+                          <li> <a href="other-clocks.html">Other Clocks</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-question-circle"></i> <a href="riddles.html">Riddles</a></summary>
+                        <ul>
+                          <li> <a href="the-righteous-fall-seven-times.html">The Righteous Fall Seven Times</a></li>
+                          <li> <a href="twice-a-thousand-years.html">Twice a Thousand Years</a></li>
+                          <li> <a href="seven-pillars-riddle.html">The Seven Pillars of Wisdom</a></li>
+                          <li> <a href="riddle-of-153-fish.html">Why 153 Fish?</a></li>
+                          <li> <a href="riddles-of-war.html">Riddles of War</a></li>
+                          <li> <a href="building-a-house.html">Building a House</a></li>
+                          <li> <a href="hannah-s-song.html">Hannah's Song</a></li>
+                          <li> <a href="satan-s-taunt.html">Satan's Taunt</a></li>
+                          <li> <a href="vineyard-parable.html">Parable of the Workers in the Vineyard</a></li>
+                          <li> <a href="wedding-parable.html">The Parable of the Wedding Feast</a></li>
+                          <li> <a href="the-childbearing.html">The Childbearing</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details open="">
+                      <summary><i class="fa-solid fa-person-harassing"></i> <a href="a-divided-world.html">A Divided World</a></summary>
+                        <ul>
+                          <li>
+                            <details open="">
+                              <summary> <a href="against-complementarianism.html">Against Complementarianism</a></summary>
+                                <ul>
+                                  <li> <a href="a-model-for-the-ordination-of-women.html">A Model for the Ordination of Women</a></li>
+                                  <li> <a href="submission.html">Submission</a></li>
+                                  <li> <a href="consecration.html">Consecration</a></li>
+                                  <li> <a href="identification.html">Identification</a></li>
+                                  <li> <a href="quantification.html">Quantification</a></li>
+                                  <li> <a href="reconciliation.html">Reconciliation</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-calendar-alt"></i> <a href="chronology.html">Chronology</a></summary>
+                        <ul>
+                          <li> <a href="dating-the-creation.html">Dating the Creation</a></li>
+                          <li> <a href="sojourn-of-israel.html">Sojourn of Israel</a></li>
+                          <li> <a href="chronology-of-judges.html">Chronology of Judges</a></li>
+                          <li> <a href="lifespan-of-solomon.html">Lifespan of Solomon</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                </ul>
+            </details>
+          </li>
+
+        </ul>
+    </div>
+    <!-- Article Text -->
+    <div id="articlebody" class="body-narrow" tabindex="3">
+      <div class="article">
+        <h1>Quantification</h1>
+        <h2>When did the Ordination Occur?</h2>
+        <p class="date">Published on 2024-03-27</p>
+        
+        <p>Timing is everything. Say that God does have a plan to permit women to become pastors and elders. 
+What difference does it make to today's women if that planned event remains in the future?
+We need more than verses that say He will permit it. We need to nail the prophesies down to a specific time
+and that time must be in our past.</p>
+
+<p>In <em>Peace, like Solomon Never Knew</em>, I derived a framework for prophecy that covers the books of the Seven Pillars of Wisdom.
+It also extends to select other Bible prophecies. That framework is defined in Ecclesiastes. It follows the 
+twenty-eight times of Ecclesiastes 3. Those times describe both the practical and the prophetic:</p>
+
+<ul>
+<li><strong>Practical</strong>. Solomon enumerates the seven phases of human life from birth to full maturity.</li>
+<li><strong>Prophetic</strong>. The seven phases are a parable for the development of civilization, from Solomon until Christ's return.</li>
+</ul>
+
+<h2>Time to Get Practical</h2>
+
+<p>Solomon in Ecclesiastes divides a life into three parts in a way that is identical for men and women.</p>
+
+<ol>
+<li>Ascending Years (birth to age 49) Ecclesiastes 1:1-10:5</li>
+<li>Productive Years (age 50 to 61) Ecclesiastes 10:6-11:6</li>
+<li>Declining Years (age 62 to death) Ecclesiastes 11:7-12:14</li>
+</ol>
+
+<p>For the ascending years, there is a seven-phase pattern for men which I call the <strong>Growth Pattern</strong>. Each phase of life covers four times and lasts seven years:</p>
+
+<ol>
+<li><strong>Security</strong> (birth to age 7). A time to be born &amp; die, to plant &amp; uproot. The needs are for food, shelter, health and parental love.</li>
+<li><strong>Ability</strong> (age 7 to 14). A time to kill &amp; heal, to break down &amp; build. The needs are to be trained to use mind and hand productively.</li>
+<li><strong>Stability</strong> (age 14 to 21). A time to weep &amp; laugh, to mourn &amp; dance. The needs are to learn verbal &amp; physical self control, emotional stability.</li>
+<li><strong>Amity</strong> (age 21 to 28). A time to scatter &amp; gather stones, embrace &amp; refrain. The needs are to cooperate in friendship and marriage in the areas of work and intimacy, to choose and reject relationships wisely.</li>
+<li><strong>Opportunity</strong> (age 28 to 35). A time to seek &amp; lose, keep &amp; throw away. The needs are to accept or reject immaterial opportunities (where to live and work) and to manage material resources (money and goods).</li>
+<li><strong>Community</strong> (age 35 to 42). A time to tear &amp; mend, to be silent &amp; speak. The needs are to handle conflict, dissolve partnerships, forgive &amp; restore them, and maintain open, two-way lines of communication.</li>
+<li><strong>Loyalty</strong> (age 42 to 49). A time to love &amp; hate, for war &amp; peace. The need is to develop loyalty and express it. Love &amp; hate are about defining our loyalties and forming loyal attitudes: who is on my side and who is on the other side. War &amp; peace are about expressing our loyalties by our actions.</li>
+</ol>
+
+<p>There is a second pattern for women, which I call the <strong>Motherhood Pattern</strong>. It matches the pattern for men, except for the times from dancing to mending, the years of bearing children:</p>
+
+<ul>
+<li>The time to mourn is marriage.</li>
+<li>The time to dance is getting pregnant.</li>
+<li>The times from scattering stones to throwing away are the time of Confinement during a woman's many pregnancies and years caring for children.</li>
+<li>The time to tear is birth.</li>
+<li>The time to mend is the laying-in recovery period.</li>
+<li>The time to be silent is when women receive instruction and their life pattern rejoins the pattern for men.</li>
+<li>The time to speak is when women are finally permitted to speak.</li>
+</ul>
+
+<p>The “times of confinement” are 9 ½ times for pregnancy plus one for recovery:</p>
+
+<ul>
+<li>Dance (½): Conception occurs halfway through this time</li>
+<li>Scatter, gather, embrace, refrain: Early pregnancy</li>
+<li>Seek, give up, keep, throw away: Late Pregnancy</li>
+<li>Tear: Delivery</li>
+<li>Mend: For recovery</li>
+</ul>
+
+<p>That equals (10.5 / 12) * 7 years = 18.375 years, or roughly ages 19 to 38.</p>
+
+<p>Between the Growth Pattern and the Motherhood Pattern, Ecclesiastes shows that God planned out the phases of our life with care.
+Our days are ordered and given a unique purpose. The differences between men and women are also accounted for.
+As crucial as the differences are, the pattern also shows the similarities. After the childbearing and rearing years, a woman's
+life pattern as defined by God rejoins the pattern for men from which it diverged. This is thus a parable for the coming of a time
+when men and women are equal.</p>
+
+<h2>Time to Get Prophetic</h2>
+
+<p>The Seven Pillars are prophetic and precise, like a clock. Jesus and the prophets used ordinary stories to teach spiritual lessons
+and offer prophetic advice. The concrete allusions each had a special, spiritual meaning. The twenty-eight times in Solomon's poem 
+are thus a parable for all of human history. My books show that (like a fractal) the parable has multiple applications at different 
+scales of time:</p>
+
+<ul>
+<li>From Creation until Christ's Return, showing the rise and permanent fall of human civilization</li>
+<li>From the Dedication of Solomon's Temple until Christ's return, showing the growth to full maturity of Israel and the Church</li>
+<li>From the Holocaust to Christ's return, showing the growth to full maturity of the modern nation of Israel</li>
+</ul>
+
+<p>We shall concern ourselves with the second trajectory, as it is the primary application of the pattern in the Bible.
+The logical progression I followed in my book is as follows:</p>
+
+<ul>
+<li>Solomon defines the Growth pattern and applies it to individuals</li>
+<li>Solomon poses a riddle in Ecclesiastes that tells us how long each time lasts and when the clock begins</li>
+<li>The bulk of Ecclesiastes is divided into twenty-eight parts of unequal length, using the phrase "under the sun" to divide sections</li>
+<li>Each part of Ecclesiastes therefore matches one of the twenty-eight times</li>
+<li>Many of these sections in Ecclesiastes contain prophesies related thematically to the corresponding time phrase...</li>
+<li>... and prophetically to events in history</li>
+<li>With those prophecies proving the accuracy of the framework, we proceed to the other books in the Seven Pillars</li>
+<li>The other six pillar books are Psalms, Job, Proverbs, Song of Songs, Matthew and Revelation</li>
+<li>The remaining pillar books have part or all of the book divisible into twenty-eight parts according to various structural markers, excepting Revelation</li>
+<li>Having matched sections of each book to one of the twenty-eight times thematically, we conclude that the section also matches temporally</li>
+<li>With each chapter or section of the pillar books so divided into a time grid, we can slot prophecies given in those chapters or passages to eras in history </li>
+</ul>
+
+<p>Here is how the twenty-eight times map to sections of each book:</p>
+
+<ul>
+<li><strong>Psalms A</strong>: Each verse of Psalm 102 (which has twenty-eight verses) matches its corresponding time</li>
+<li><strong>Psalms B</strong>: Psalms 1-28 match their corresponding time, with three intentional exceptions, as given in <em>Plague, Precept, Prophet, Peace</em>. </li>
+<li><strong>Job</strong>: Chapters 15-42 match successive times from Ecclesiastes</li>
+<li><strong>Proverbs</strong>: Chapters 4-31 match successive times from Ecclesiastes. The first three chapters are an introduction.</li>
+<li><strong>Song of Songs</strong>: The book has twenty-eight speaking parts. About half match their corresponding time. Fifteen match the opposite time of what is appropriate. This signifies how young people in love are so impatient and governed by emotion that they almost always pick the wrong time to do things.</li>
+<li><strong>Matthew</strong>: Each of Matthew's twenty-eight chapters matches its corresponding time.</li>
+<li><strong>Revelation</strong>: This book is different. It is broken into seven parts, not twenty-eight, one for each phase of four times. Each section ends with a reference to thunder.</li>
+</ul>
+
+<h2>Prolepsis: That's too complicated!</h2>
+
+<p>The universal reaction I get to these ideas is that there is no way God would make things so complicated as what I am describing. 
+Let me ask you:</p>
+
+<ul>
+<li>Have you ever seen the blueprints for a nuclear reactor?</li>
+<li>Have you ever seen the data flow and sequence diagrams for an enterprise software application?</li>
+<li>Have you ever seen my manager's planning calendar?</li>
+<li>Would you even consider answering the questions God posed to Job without differential equations, laws of gravity and electricity, fluid dynamics, or population genetics?</li>
+</ul>
+
+<p>Millions (maybe billions) of people key their lives into calendar applications like Outlook or Teams. 
+They mark up spiral bound paper planners or dog and cat calendars posted on their fridge. 
+They plan out their lives day by day, month by month, year by year.
+All I am saying is that God speaks to us in ways to which we can relate. </p>
+
+<ul>
+<li>God broke His work of saving the world into seven categories.</li>
+<li>He divided His activities into those seven categories.</li>
+<li>He created a separate ledger for each category, the Seven Pillars of Wisdom.</li>
+<li>He divided time into equal increments, like a planner.</li>
+<li>He sorted his activities by time.</li>
+<li>He slotted each activity into its proper time period on each calendar.</li>
+<li>He wrote out his first draft of a complete plan for the salvation of the righteous and judgment of the wicked.</li>
+<li>Then He came up with a special set of code words.</li>
+<li>Then He encrypted the event descriptions, making them into parables using the code words.</li>
+<li>And He threw away the year and month markers.</li>
+<li>And He distributed parts of the answer key throughout the Bible.</li>
+<li>And He threw away the chapter and verse boundaries.</li>
+<li>Lastly, he oversaw the process of translating it into Greek, then Latin, then Old English, then Elizabethan English, and finally modern English so that we could read it today.</li>
+</ul>
+
+<p>It is the work of the church to recover the original message so that we can plan our lives, plan the work of the church, 
+understand God's will and find weapons to use against the enemy.</p>
+
+<ul>
+<li>Jewish scholars added back the verse boundaries to the Old Testament.</li>
+<li>Christian scholars added back the verse boundaries to the New Testament.</li>
+<li>A Christian scholar added back the chapter divisions. (Called by most scholars "uninspired", but the evidence is mounting that they were sovereignly determined and prophetically significant.)</li>
+<li>Many Jewish and Christian scholars have labored long to deduce the meaning of the code words.</li>
+</ul>
+
+<p>In this process, I have been doing this:</p>
+
+<ul>
+<li>adding to the set of decoded words and phrases</li>
+<li>using pattern recognition techniques to identify the planning ledgers (the Seven Pillars of Wisdom)</li>
+<li>identifying the categories associated with each ledger</li>
+<li>finding portions of the decryption key</li>
+<li>recovering the time grid so that each "page" of each planner can be dated</li>
+<li>comparing the rediscovered times to historical events to decode the prophecies</li>
+<li>discovering the larger trends and so clarifying and constraining the meaning of each prophecy</li>
+<li>applying the time grid to other books of the Bible where warranted</li>
+</ul>
+
+<p>In high school, the first thing I did every morning when I arrived was to go to the school library, get the latest Schenectady Gazette,
+and solve the Daily Cryptoquote puzzle. It was a single substitution cypher. If you cracked the code you were rewarded with a clever quote
+from a poet, philosopher or public figure. In my work, I developed a high speed computer algorithm for the unassisted classification of data
+with thousands of attributes per record. This is the kind of problem I was made for.</p>
+
+<h2>Back to the Clock</h2>
+
+<p>The main clock in Ecclesiastes starts with the dedication of Solomon’s temple in 960 BC.
+It follows the history of Israel and the Church. In my two most recent books, I work out a complex riddle
+in Ecclesiastes which gives us the duration of each era as 120 years. 
+Here then is how we can match Solomon's words to history:</p>
+
+<ol>
+<li>960 BC. A time to <strong>be born</strong>. Northern kingdom of Israel born by civil war.</li>
+<li>840 BC. A time to <strong>die.</strong> Israel taken captive by Assyria in 722 BC.</li>
+<li>720 BC. A time to <strong>plant.</strong> Judah prospers under Hezekiah.</li>
+<li>600 BC. A time to <strong>uproot.</strong> Judah exiled by Babylon.</li>
+<li>480 BC. A time to <strong>kill.</strong> Haman incites genocide against the Jews but is killed instead, thanks to Queen Esther.</li>
+<li>360 BC. A time to <strong>heal.</strong> Mild Ptolemaic rule.</li>
+<li>240 BC. A time to <strong>tear down</strong>. Harsh Seleucid rule. Antiochus Epiphanes suppresses Judaism &amp; desecrates the temple.</li>
+<li>120 BC. A time to <strong>build.</strong> Herod rebuilds temple and the birth of Jesus, God’s new temple.</li>
+<li>1 AD. A time to <strong>weep.</strong> Jesus crucified.</li>
+<li>120 AD. A time to <strong>laugh.</strong> Justin Martyr.  “For I myself, when I discovered the wicked disguise which the evil spirits had thrown around the divine doctrines of the Christians, to turn aside others from joining them, <strong>laughed</strong> both at those who framed these falsehoods, and at the disguise itself and at popular opinion and I confess that I both boast and with all my strength strive to be found a Christian.”</li>
+<li>240 AD. A time to <strong>mourn.</strong> Diocletian’s persecution.</li>
+<li>360 AD. A time to <strong>dance.</strong> Edict of Thessalonica (380 AD). Christianity becomes official state religion of Rome and Roman persecution ends.</li>
+<li>480 AD. A time to <strong>scatter stones</strong>. Rome sacked twice. Fall of Rome in 476 AD. Icelandic volcanoes trigger year of darkness in 536 AD and usher in the Dark Ages.</li>
+<li>600 AD. A time to <strong>gather stones</strong>. Dome of the Rock built, 688-691 AD.</li>
+<li>720 AD. A time to <strong>embrace.</strong> Seventh and Last Ecumenical Council, concerning proper worship, the embrace of God.</li>
+<li>840 AD. A time to <strong>refrain.</strong> Division between eastern and western Christianity. Church corruption, a thing to avoid, not embrace.</li>
+<li>960 AD. A time to <strong>seek.</strong> Church seeks freedom from secular governmental control. Believers seek Jesus’ return as it is one thousand years since he ascended to heaven.</li>
+<li>1080 AD. A time to <strong>lose.</strong> First crusade. Jerusalem captured &amp; lost.</li>
+<li>1200 AD. A time to <strong>keep.</strong> Saint Francis of Assisi, whose rule of faith emphasizes "Keeping" God’s commands.</li>
+<li>1320 AD. A time to <strong>throw away</strong>. God throws away Byzantium and the bodies of people lost to the Black Death.</li>
+<li>1440 AD. A time to <strong>tear.</strong> Protestant Reformation. Wars of religion.</li>
+<li>1560 AD. A time to <strong>mend.</strong> Peace of Westphalia. Religious tolerance extended to Lutherans, Calvinists &amp; Jews.</li>
+<li>1680 AD. A time to <strong>be silent</strong>. In the Pietism movement, Methodist revival and Great Awakening, people listen to God.</li>
+<li>1800 AD. A time to <strong>speak.</strong> Christian overseas missionaries "speak" the gospel and triple the number of believers. Abolition movement frees the slaves.</li>
+<li>1920 AD. A time to <strong>love.</strong> God blesses the world with Prosperity &amp; longer life and Israel with a new nation.</li>
+<li>2040 AD. A time to <strong>hate.</strong> Civil discord &amp; persecution grow. Behemoth shall arise.</li>
+<li>2160 AD. A time for <strong>war.</strong> Armageddon. Leviathan.</li>
+<li>2280 AD. A time for <strong>peace.</strong> Christ <em>possibly</em> returns. Wedding supper of the lamb.</li>
+</ol>
+
+<p>By matching the above to chapters 15 thru 42 of Job, we can anchor Job's prophecies in time.
+By this, we now know when “The Childbearing” occurred, which is "a time to tear", or 1440-1560 AD.</p>
+
+<p><strong>The Childbearing is the Protestant Reformation and the dawn of a new civilization.</strong></p>
+
+<p>Here are a selection of prophecies from Job, matching the time bounds to chapters in Job:</p>
+
+<p><em>Job 18, 600-480 BC, A time to uproot, Babylonian Exile</em></p>
+
+<h4>He is <strong>torn from the tent</strong> in which he trusted</h4>
+
+<h5>and is brought to the king of terrors.</h5>
+
+<h4>In his tent dwells that which is none of his;</h4>
+
+<h5>sulfur is scattered over his habitation.</h5>
+
+<h4>His <strong>roots dry up</strong> beneath,</h4>
+
+<h5>and his <strong>branches wither</strong> above.</h5>
+
+<h4>His memory perishes from the earth,</h4>
+
+<h5>and he has no name in the street.</h5>
+
+<h6>- Job 18:14-17</h6>
+
+<p>Who was the King of terrors? King Nebuchadnezzar. The uprooting of plants and trees is the dominant metaphor used in scores 
+of Old Testament prophecies to describe the coming exile.  </p>
+
+<p><em>Job 20, 360-240 BC, A time to Heal, Death of Alexander the Great</em></p>
+
+<p>As Revelation 13 reveals, Satan controls the beasts of the world, its evil empires. That means that Satan controlled the empire of Alexander, 
+one of the beasts and one of the heads of Daniel’s visions. The devil is full of hatred, even for his servants. 
+Job 20 is Satan’s <em>epitaphios logos</em>, his funeral oration, for the fallen “Lord of Asia”, the “Great King” and “Son of Zeus”. 
+In the case of Alexander the Great, we have the unusual situation that he was attended by doctors and their notes
+about his medical condition were preserved by secular historians down through the ages, such as Flavius Arrianus, 
+Ptolemy, Plutarch, and Quintus Curtius. Because of that, we can match his known symptoms to the prophecy of Job with precision.
+Here then are the profound connections between Job 20 (from the NIV) and the death of Alexander:</p>
+
+<h4>Verse 5. **“... the mirth of the wicked is brief,</h4>
+
+<h4>the joy of the godless lasts but a moment.”**</h4>
+
+<p>Alexander fell ill during the merriment of a banquet.</p>
+
+<h4>Verse 6. “**Though the pride of the godless person</h4>
+
+<h4>reaches to the heavens and his head touches the clouds...**”</h4>
+
+<p>Though a man, he pursued and accepted divine honors and titles, just as Satan sought the throne of heaven.</p>
+
+<h4>Verse 7. “**he will perish forever, like his own dung;</h4>
+
+<h4>those who have seen him will say, ‘Where is he?’**”</h4>
+
+<p>The word dung brings to mind the diarrhea that beset him.</p>
+
+<h4>Verse 8. “**Like a dream he flies away, no more to be found,</h4>
+
+<h4>banished like a vision of the night.**”</h4>
+
+<p>Delirium and hallucinations seized him.</p>
+
+<h4>Verses 9-10. “**The eye that saw him will not see him again;</h4>
+
+<h5>his place will look on him no more.</h5>
+
+<h4>His children must make amends to the poor;</h4>
+
+<h5>his own hands must give back his wealth.**”</h5>
+
+<p>After Alexander died, his generals, called the Diadochi, fought each other to seize his title and kingdom. One was Cassander, who ordered the execution of Alexander’s wife Roxane and his sons Heracles and Alexander IV and usurped the throne of Macedon. Wikipedia says this of Cassander. “It was later even said that he could not pass a statue of Alexander without feeling faint.” Truly the one who took his place did not want look on him any more. Among those who contend that Alexander was poisoned, Cassander is their prime suspect.</p>
+
+<h4>Verse 11. “**The youthful vigor that fills his bones</h4>
+
+<h4>will lie with him in the dust.**”</h4>
+
+<p>Alexander died young.</p>
+
+<h4>Verses 12-14. “**Though evil is sweet in his mouth and</h4>
+
+<h5>he hides it under his tongue,</h5>
+
+<h4>though he cannot bear to let it go and</h4>
+
+<h5>lets it linger in his mouth,</h5>
+
+<h4>yet his food will turn sour in his stomach;</h4>
+
+<h5>it will become the venom of serpents within him.**”</h5>
+
+<p>The first symptoms were excruciating stomach pain. Yet despite the travails of the first day of his illness, Alexander attended another banquet the next day. He could not bear to let his pleasures go.</p>
+
+<h4>Verse 15. “**He will spit out the riches he swallowed;</h4>
+
+<h5>God will make his stomach vomit them up.**”</h5>
+
+<p>His doctors induced vomiting.</p>
+
+<h4>Verse 16. “**He will suck the poison of serpents;</h4>
+
+<h5>the fangs of an adder will kill him**.”</h5>
+
+<p>There is no mention of real snakes in the historical record. This may refer to medicines that his doctors gave him that worsened his condition, or metaphorically to the supernatural agent contributing to his death: Satan.</p>
+
+<h4>Verse 17. “**He will not enjoy the streams,</h4>
+
+<h5>the rivers flowing with honey and cream.**”</h5>
+
+<p>His corpse was encased in a sarcophagus filled with honey! (Honey deters the decomposition of dead bodies.)</p>
+
+<h4>Verse 18. “**What he toiled for he must give back uneaten;</h4>
+
+<h5>he will not enjoy the profit from his trading.**”</h5>
+
+<p>Alexander eventually lost his appetite. Metaphorically, it means he never enjoyed ruling over the empire he conquered.</p>
+
+<h4>Verse 20. “**Surely he will have no respite from his craving;</h4>
+
+<h5>he cannot save himself by his treasure.**”</h5>
+
+<p>Alexander suffered an unquenchable thirst.</p>
+
+<h4>Verses 22-23. “**In the midst of his plenty, distress will overtake him;</h4>
+
+<h5>the full force of misery will come upon him.</h5>
+
+<h4>When he has filled his belly,</h4>
+
+<h5>God will vent his burning anger against him</h5>
+
+<h6>and rain down his blows on him.**”</h6>
+
+<p>This describes the start of his anguish, when he filled his belly with food and wine. The full force of misery struck his belly first. Reports indicated that if anyone touched his midsection gently it caused sharp pain. This also identifies the second, more substantial spiritual agent of Alexander’s destruction: God.</p>
+
+<h4>Verses 24-26. “**Though he flees from an iron weapon,</h4>
+
+<h5>a bronze-tipped arrow pierces him.</h5>
+
+<h4>He pulls it out of his back,</h4>
+
+<h5>the gleaming point out of his liver.</h5>
+
+<h4>Terrors will come over him;</h4>
+
+<h5>total darkness lies in wait for his treasures.</h5>
+
+<h4>A fire unfanned will consume him and</h4>
+
+<h5>devour what is left in his tent.**”</h5>
+
+<p>Though doctors say his symptoms do not indicate cirrhosis as the cause of death, Alexander was a heavy drinker, and drank to excess the first two days of his illness, which may have injured his liver and weakened his body’s ability to fight off disease. Reports of his symptoms include jaundice, indicating liver failure.</p>
+
+<p>There is no mistaking the “fire unfanned”; persistent high fever plagued him until he met his end. Also, recall how Plutarch described the initial pain as feeling like being stuck in the back with a spear, an almost identical analogy to being pierced by an arrowhead.
+A skeptic might argue that these symptoms could apply to someone other than Alexander the Great. Iron and bronze connect this passage to Nebuchadnezzar’s vision of the statue in Daniel 2. Bronze refers to Alexander’s own empire. This suggests treachery: the king of the bronze empire laid low by bronze. Iron represents the next empire: Rome. The kingdoms that sprang from his empire, the Ptolemaic and Seleucid empires, would eventually be conquered by Rome, the iron weapon from which his successors could not flee.</p>
+
+<h4>Verses 27-28. “**The heavens will expose his guilt;</h4>
+
+<h5>the earth will rise up against him.</h5>
+
+<h4>A flood will carry off his house,</h4>
+
+<h5>rushing waters on the day of God’s wrath.**”</h5>
+
+<p>The flood could be a poetic description of the ailing man’s diarrhea, but there is no mistaking the wrath of both heaven and earth. Both God and Satan had their hand in Alexander’s destruction, including his house: the murder of his wife and children.</p>
+
+<p><em>Job 23, 1 BC-120 AD, A time to weep: Jesus endures the Cross</em></p>
+
+<h4>“Today also my complaint is bitter;</h4>
+
+<h5>my hand is heavy on account of my <strong>groaning.</strong> (23:2)</h5>
+
+<h4>Behold, I go forward, but <strong>he is not there</strong>,</h4>
+
+<h5>and backward, but I do not perceive him;</h5>
+
+<h4>on the left hand when he is working,</h4>
+
+<h5>I do not behold him;</h5>
+
+<h4>he turns to the right hand,</h4>
+
+<h5>but <strong>I do not see him</strong>. (23:8-9)</h5>
+
+<h4>God has made my <strong>heart faint</strong>;</h4>
+
+<h5>the Almighty has <strong>terrified</strong> me;</h5>
+
+<h4>yet I am <strong>not silenced</strong> because of the <strong>darkness,</strong></h4>
+
+<h5>nor because thick darkness covers my face. (23:16-17)</h5>
+
+<p>Compare the words of Job to what Jesus said in John’s gospel:</p>
+
+<h4>A little while, and you will see me no longer;</h4>
+
+<h5>and again a little while, and you will see me.”</h5>
+
+<h6>- John 16:16, ESV</h6>
+
+<p><em>Job 26, 360-480 AD, A time to dance</em></p>
+
+<p>By the Edict of Thessalonica in 380 AD, Rome became a Christian empire and all Roman persecution of Christians ceased.
+Rome was one of Satan’s beasts, now pierced and controlled by Christ’s kingdom. 
+Rome in this passage is symbolized by two sea serpents, Rahab and Leviathan, the Western and Eastern Roman empires, respectively:</p>
+
+<h4>By his power he stilled the sea;</h4>
+
+<h5>by his understanding he <strong>shattered Rahab</strong>.</h5>
+
+<h4>By his wind the heavens were made fair;</h4>
+
+<h5>his hand <strong>pierced the fleeing serpent</strong>. (26:12-13)</h5>
+
+<p><em>Job 34, 1328-1447 AD (by a different clock), or 1320-1440 AD, A time to cast away.</em></p>
+
+<p>The Black Plague and sieges against Constantinople are prophesied in Job 34. </p>
+
+<ul>
+<li>The "incurable wound" is both the effects of the plague and a series of devastating sieges by the Ottoman’s from which Byzantium would never recover. </li>
+<li>The reference to water is the terrible thirst suffered by plague victims.</li>
+<li>Those who are “shaken” have fever and chills.</li>
+<li>When it says “they die in an instant”, people who often seemed well when they went to bed died during the night. </li>
+</ul>
+
+<h4>Although I am right, I am considered a liar;</h4>
+
+<h5>although I am guiltless, his <strong>arrow</strong> inflicts an <strong>incurable wound</strong>.’ (34:6)</h5>
+
+<h4>Is there anyone like Job, who drinks scorn like <strong>water?</strong> (34:7, NIV)</h4>
+
+<h4>They die in an instant, <strong>in the middle of the night</strong>;</h4>
+
+<h5>the people are <strong>shaken</strong> and they pass away;</h5>
+
+<h6>the mighty are removed without human hand. (34:20-21, NIV)</h6>
+
+<h4>Without inquiry he shatters the mighty and</h4>
+
+<h5>sets up others in their place.</h5>
+
+<h4>Because he takes note of their deeds,</h4>
+
+<h5>he <strong>overthrows them in the night</strong> and they are crushed. (34:24-25, NIV)</h5>
+
+<p><em>Job 35, 1440-1560 AD, a time to tear.</em></p>
+
+<p>This is the time when greater wisdom began to arrive, the Childbearing, when a woman cries out in the night as she delivers her child.</p>
+
+<h4>Because of the multitude of oppressions people cry out;</h4>
+
+<h4>they call for help because of the arm of the mighty.</h4>
+
+<h4>But none says,</h4>
+
+<h5>‘Where is God my Maker,</h5>
+
+<h6>who gives <strong>songs in the night</strong>,</h6>
+
+<h5><strong>who teaches us more than the beasts of the earth</strong></h5>
+
+<h6>and makes us wiser than the birds of the heavens?’ (Job 35:9-11, ESV)</h6>
+
+<p>This points us to the heavens, when Copernicus wrote <em>De Revolutionibus orbium coelestium</em> and began the Copernican revolution in astronomy.</p>
+
+<h4>Look up at the heavens and see;</h4>
+
+<h5>gaze at the clouds so high above you. (35:5, NIV)</h5>
+
+<p><em>Job 36, 1560-1680 AD, A time to mend</em></p>
+
+<p>The new Protestant churches believed that all people must be taught to read, so that they may read the Bible for themselves:</p>
+
+<h4>“God is exalted in his power.</h4>
+
+<h5><strong>Who is a teacher like him?</strong> (36:22, NIV)</h5>
+
+<p>Lawrence Stone, in “The Educational Revolution in England 1500-1640”, revealed something remarkable. Between the Reformation and the mid-seventeenth century, England built schools. Lots of schools! In fact, the number of schools increased more than tenfold. Puritans especially were keen to teach everyone how to read so that they could read the Bible. England devoted one quarter of all charitable funds to the construction of schools and their endowment, so that the poor could be educated. By the end of this period, over half of all people in England could read and 2.5% of men had a college degree.</p>
+
+<p>Job 36 even prophesies the first Thanksgiving of the Pilgrims in America:</p>
+
+<h4>“He is wooing you from the jaws of distress</h4>
+
+<h5>to <strong>a spacious place free from restriction</strong>,</h5>
+
+<h4>to the comfort of your <strong>table laden with choice food</strong>. (Job 36:16)</h4>
+
+<p>It also predicts the explosion in the writing of Christian hymns during that era:</p>
+
+<h4>**Remember to extol his work,</h4>
+
+<h5>which people have praised in song.** (36:24, NIV)</h5>
+
+<p><em>Job 37: 1680-1800 AD, a time to be silent.</em></p>
+
+<p>God’s determination to silence people is given here:</p>
+
+<h4>He seals up the hand of every man,</h4>
+
+<h5>that all men whom he made may know it.</h5>
+
+<h4>Then the beasts go into their lairs,</h4>
+
+<h5>and remain in their dens. (Job 37:7-8, ESV)</h5>
+
+<p>How do you compel people to cease from work and spend time listening to God? First, you shout:</p>
+
+<h4>Keep <strong>listening</strong> to the <strong>thunder</strong> of <strong>his voice</strong></h4>
+
+<h5>and the <strong>rumbling</strong> that comes from <strong>his mouth</strong>.</h5>
+
+<h4>Under the whole heaven he lets it go,</h4>
+
+<h5>and his <strong>lightning</strong> to the corners of the earth.</h5>
+
+<h4>After it his <strong>voice roars;</strong></h4>
+
+<h5>he <strong>thunders</strong> with his majestic <strong>voice,</strong></h5>
+
+<h6>and he does not restrain the lightnings when <strong>his voice</strong> is heard.</h6>
+
+<h4>God <strong>thunders</strong> wondrously with <strong>his voice</strong>;</h4>
+
+<h5>he does great things that we cannot comprehend. (37:2-5)</h5>
+
+<p>From the language, we know that God’s voice is the theme of this chapter:</p>
+
+<ul>
+<li>Thunder (3)</li>
+<li>Lightning(s) (4) plus golden splendor</li>
+<li>Rumbling + Roars</li>
+<li>His Voice (4) + his majestic voice</li>
+</ul>
+
+<p>Historically, this was the time of the Enlightenment &amp; Scientific Revolution.
+Climatologically, this was the Little Ice Age.</p>
+
+<h4>From its chamber comes the whirlwind,</h4>
+
+<h5>and cold from the scattering winds.</h5>
+
+<h4>By the breath of God ice is given,</h4>
+
+<h5>and <strong>the broad waters are frozen fast</strong>.</h5>
+
+<h6>- Job 37:9-10, ESV</h6>
+
+<p>During this period fell the year 1709, a particularly deadly time amidst the continuing Little Ice Age. 
+“Winter Is Coming: Europe’s Deep Freeze of 1709” by Juan José Sánchez Arreseigor provides the chilling details. 
+In England, William Derham wrote: “I believe the Frost was greater ... than any other within the Memory of Man.” 
+Scientists reckon it the coldest winter in five hundred years. 
+The Baltic Sea froze over for four months, permitting people to walk from Denmark to Sweden.
+Venetians forsook their gondolas to skate along their canals while the “broad waters” of the Rhône River in France could support the weight of a cart. 
+That year, the harsh winter and subsequent flooding and poor harvest killed 600,000 in France alone. 
+This deadly year fell near the end of the Maunder Minimum, a period from 1645-1715 when the sun seldom sported any sunspots, suggesting the light of the sun was diminished.</p>
+
+<p>Not only new ideas and weather got people to stop working. So did war:</p>
+
+<h4>Under the whole heaven he lets it go,</h4>
+
+<h5>and his lightning to the corners of the earth.</h5>
+
+<h6>- Job 37:3, ESV</h6>
+
+<p>This period saw more wars and more deaths due to warfare than any preceding epoch in history, surpassed only by the 20th century. 
+By historians it is called the General Crisis of the seventeenth century.
+The prophecy is no hyperbole: it struck the whole “civilized” world, excepting those parts of Africa lacking large kingdoms, 
+Australia and many island peoples. Combining the lightning imagery of both chapters 36 and 37, you get an extended period of unrest, 
+climate disruption, war, and famine. No other period in history saw so many wars flare up across so great an area until we reach the 
+Twentieth Century with its two World Wars and communist revolutions. Here is a summary of the strife:</p>
+
+<ul>
+<li><strong>India.</strong> The Mughal-Maratha wars lasted half a century and left five million dead, adding to the earlier misery of the Deccan famine which killed seven million more. China. The Ming-Qing dynasty transition killed 25 million.</li>
+<li><strong>Japan.</strong> The Sengoku period of constant civil war lasted 150 years.</li>
+<li><strong>Germany.</strong> The Thirty Years War killed up to 12 million. England. The Wars of the Three Kingdoms killed almost a million.</li>
+<li><strong>Spain.</strong> The War of the Spanish Succession claimed over a million lives.</li>
+<li><strong>Other European nations</strong>. The French, Dutch, Swedes, Russians, Ottomans and others became embroiled in deadly wars of their own. Poland collapsed completely. </li>
+<li><strong>Burma.</strong> Invaded by China.</li>
+<li><strong>Southeast Asia</strong>. Ports and islands were captured by the Spanish, Dutch, Portuguese, British and French, including the Philippines.</li>
+<li><strong>The Americas</strong>. All indigenous empires had already been overthrown by Spain, Portugal and other European colonial empires. Now disease, climate change and war killed a majority of the survivors. <strong>Africa.</strong> The largest Central African empires either fractured or were absorbed into the Muslim world. Many of their subjects wound up in Muslim slave markets or New World plantations.</li>
+<li><strong>England, France &amp; Allies</strong>. The Seven Years War was the final blow to exhaust the European powers. Snuffing out over a million lives in Europe, Africa, North and South America, India and the Philippines, it was a precursor of the world wars.</li>
+</ul>
+
+<p>Yes, God’s lightning struck the whole world. Why? Verses 7 and 8 give us a clue. </p>
+
+<h4>“The animals take cover,</h4>
+
+<h5>they remain in their dens.”</h5>
+
+<p>What are those animals? Kingdoms and empires. Why are they stopped from continuing their labor? 
+So that they may watch God do “great things beyond our understanding” as it says in verse 5.
+What great thing did God do? He arranged for the founding of the United States of America.</p>
+
+<p><em>Job 38: 1800-1920 AD, a time to speak.</em></p>
+
+<p>In this era, God changed the whole world:</p>
+
+<h4>The earth takes shape like clay under a seal;</h4>
+
+<h5>its features stand out like those of a garment. (Job 38:14, NIV)</h5>
+
+<p>How did God mold the world into new image?</p>
+
+<ul>
+<li>Slavery forcefully outlawed in most of the world Serfs freed in Russia</li>
+<li>Dalits (untouchables) &amp; other low caste peoples in British India enjoyed modest improvements in status and rights</li>
+<li>Women gained the right to vote and hold office in dozens of nations</li>
+<li>Democratic institutions matured</li>
+<li>Prisons reformed</li>
+<li>Public education expanded, </li>
+<li>literacy increased </li>
+<li>Mentally ill treated more humanely</li>
+<li>Old age pensions instituted</li>
+<li>Science, Medicine &amp; public health advanced </li>
+<li>Agriculture, industry &amp; transportation revolutionized </li>
+<li>Christianity spread by missionaries worldwide</li>
+</ul>
+
+<p>How did people rise to meet God’s challenges? By our science we began to find answers to the questions that God put to Job:</p>
+
+<h4>Have you entered the storehouses of the snow,</h4>
+
+<h5>or have you seen the storehouses of the hail,</h5>
+
+<h4>which I have reserved for the time of trouble,</h4>
+
+<h5>for the day of battle and war? (Job 38:22-23, ESV)</h5>
+
+<p>Roald Amundsen in 1911 reached the South Pole, the heart of earth’s greatest “storehouse of snow”.
+Those storehouses proved decisive against Napoleon in 1812. First, the Russian Winter, worsened by the continuing Little Ice Age, 
+killed, crippled or captured hundreds of thousands of Napoleon’s soldiers, humbling the largest army ever assembled in Europe up to that time.</p>
+
+<p>How did God speak to the world in a new way?</p>
+
+<h4>Do you know the laws of the heavens?</h4>
+
+<h5>Can you set up God’s dominion over the earth?</h5>
+
+<h4><strong>Do you send the lightning bolts on their way?</strong></h4>
+
+<h5><strong>Do they report to you, ‘Here we are’?</strong></h5>
+
+<h6>- Job 38:33,35, NIV</h6>
+
+<p>Christian missions were amplified by new technologies, all dependent upon mankind being able to “send the lightning bolts on their way” 
+through power lines and report “Here we are!” by sending human voices over the wires. All these marvels were invented in this era:</p>
+
+<ul>
+<li>telegraph</li>
+<li>telephone</li>
+<li>radio</li>
+</ul>
+
+<p>On top of this, an early prototype of the television was demonstrated in 1911 by Boris Lvovich Rosing of Russia, though television would
+not have an impact on the world until the next era.</p>
+
+<p>The first telegraph message sent by Samuel Morse was, “What hath God wrought?”</p>
+
+<p>What God wrought was a new world. From the Protestant Reformation to the Scientific Revolution to the Industrial Revolution, 
+the world was upended. It was a true "Childbearing". The remnants of the ancient world gave birth to the modern world.
+And it happened exactly when the Bible predicted it would.</p>
+
+<h2>Matthew 21</h2>
+
+<p>While Job defines a model for ordination, applies it to women, and by connection to Ecclesiastes tells us when it would happen,
+the Gospel of Matthew has important contributions to offer. According to the calendar given to us by Solomon,
+Matthew 21 matches the twenty-first time, "a time to tear", the Protestant Reformation, which accelerated the liberation of women.
+The story of Palm Sunday, when Jesus entered Jerusalem, includes these words:</p>
+
+<h4>“Go into the village in front of you, and immediately</h4>
+
+<h4>you will find <strong>a donkey tied, and a colt with her.</strong></h4>
+
+<h4>Untie them and bring them to me. If anyone says anything to you,</h4>
+
+<h4>you shall say,</h4>
+
+<h5>‘The Lord needs them,’</h5>
+
+<h4>and he will send them at once.”</h4>
+
+<h4>This took place to fulfill what was spoken by the prophet, saying,</h4>
+
+<h5>“Say to the <strong>daughter</strong> of Zion,</h5>
+
+<h6>‘Behold, your king is coming to you,</h6>
+
+<h5>humble, and mounted on a donkey,</h5>
+
+<h6>on a colt, the foal of a beast of burden.’”</h6>
+
+<h6>Matthew 21:2-5, ESV</h6>
+
+<p>Job 39, which matches "a time for love", has a parallel passage. Right after describing the mountain goats giving birth
+and the calving of the does, God talks about the greater liberty that is to follow the Childbearing:</p>
+
+<h4>“Who has let the wild donkey go free?</h4>
+
+<h5>Who has loosed the bonds of the swift donkey,</h5>
+
+<h4>to whom I have given the arid plain for his home</h4>
+
+<h5>and the salt land for his dwelling place?</h5>
+
+<h4>He scorns the tumult of the city;</h4>
+
+<h5>he hears not the shouts of the driver.</h5>
+
+<h4>He ranges the mountains as his pasture,</h4>
+
+<h5>and he searches after every green thing.</h5>
+
+<h6>- Job 39:5-8</h6>
+
+<p>In Job, God takes credit for setting the donkey free. The donkey is a beast of burden, 
+symbolizing all who work as slaves or menial servants. Since Job 39 has been talking about 
+female creatures giving birth, it is logical to conclude that this passage speaks of the freeing of women from servitude.</p>
+
+<p>Then in Matthew, the picture is clearer.:</p>
+
+<ul>
+<li>The female donkey represents the women who lived before the Protestant Reformation, before the Childbearing, who had known hard service.</li>
+<li>The colt represents the women who live after the Childbearing for they are the children. They are loosed before ever having to endure servitude, freed as children.</li>
+</ul>
+
+<p>The donkey and colt are being set free to serve Jesus.
+The colt symbolizes a new world, a new civilization, the daughter of Zion.</p>
+
+<p>Later in Matthew 21 we find another passage with feminine analogies:</p>
+
+<h4>But when the chief priests and the scribes</h4>
+
+<h4>saw the wonderful things that he did,</h4>
+
+<h4>and the children crying out in the temple,</h4>
+
+<h5>“Hosanna to the Son of David!”</h5>
+
+<h4>they were indignant, and they said to him,</h4>
+
+<h5>“Do you hear what these are saying?”</h5>
+
+<h4>And Jesus said to them,</h4>
+
+<h5>“Yes; have you never read,</h5>
+
+<h5>‘Out of the mouth of <strong>infants and nursing babies</strong></h5>
+
+<h5>you have prepared praise’?”</h5>
+
+<h6>- Matthew 21:15-16, ESV</h6>
+
+<ul>
+<li>The infants and nursing babies are the children of the Reformation.</li>
+<li>The priests and scribes are indignant because these children are 
+filling the temple with praise in a way that broke their ancient rules.</li>
+<li>These children are emphatically NOT quiet.</li>
+</ul>
+
+<h2>Psalm 22</h2>
+
+<p>Psalm 22 matches the twenty-second time, a time to mend. It too has feminine analogies that
+tie it to the matter at hand:</p>
+
+<h4>Yet you are he who took me from the womb;</h4>
+
+<h5>you made me trust you <strong>at my mother's breasts</strong>.</h5>
+
+<h4>On you was I cast <strong>from my birth</strong>,</h4>
+
+<h5>and <strong>from my mother's womb</strong> you have been my God.</h5>
+
+<h6>- Psalm 22:9-10, ESV</h6>
+
+<h4>Posterity shall serve him;</h4>
+
+<h5>it shall be told of the Lord</h5>
+
+<h6>to <strong>the coming generation</strong>;</h6>
+
+<h4>they shall come and proclaim his righteousness</h4>
+
+<h5><strong>to a people yet unborn</strong>,</h5>
+
+<h6>that he has done it.</h6>
+
+<h6>- Psalm 22:30-31, ESV</h6>
+
+<p>In a broad sense, the coming generation, those "people yet unborn", is every future generation of
+Christians who benefited from the Lord's sacrifice. But by the focusing effect of the timetable of Ecclesiastes,
+the more direct fulfillment of these words is the creation of a free people who burst from the womb of the Reformation, 
+accomplished by means that only Jesus could have employed. Psalm 22 is a celebrated Psalm
+that Christ quoted while on the cross. It speaks about his suffering, but also the miracles
+that his suffering would accomplish. I believe that by quoting this Psalm, which maps to the time
+of mending immediately following the Reformation, Jesus is promising from the cross to set women free.
+This was a shout-out to all Christian women down through the centuries that he would finish the task.</p>
+
+<p>This concludes a brief defense of the proposition that Job and several other Bible books contain 
+prophecies laid out so regularly that you can set your watch by them. This regularity allows us
+to connect key prophecies in Job to history and show when the sacrifice of women would be complete 
+and their Ordination accomplished. That sacrifice was completed with the Childbearing, the Protestant Reformation.
+After that, women needed to:</p>
+
+<ul>
+<li>heal in <em>a time to mend</em> (1560-1680 AD)</li>
+<li>be taught to read, to study the Bible, and to listen to God in prayer during <em>a time to be silent</em> (1680-1800 AD)</li>
+<li>be commissioned to preach and share the gospel, during <em>a time to speak</em> (1800-1920 AD)</li>
+</ul>
+
+<p>With this result, we can tackle some thorny passages in the New Testament.</p>
+
+<hr>
+
+<p>Other articles in this Series:</p>
+
+<ol>
+<li><a href="./against-complementarianism.html">Against Complementarianism</a></li>
+<li><a href="./a-model-for-the-ordination-of-women.html">A Model for the Ordination of Women</a></li>
+<li><a href="./submission.html">Submission: The Sacrifice of Long-suffering Christian Women</a></li>
+<li><a href="./consecration.html">Consecration: Models of Ordination</a></li>
+<li><a href="./identification.html">Identification: The Metaphor of Childbirth</a></li>
+<li><a href="./quantification.html">Quantification: When did the Ordination Occur?</a></li>
+<li><a href="./reconciliation.html">Reconciliation: The Childbearing in 1 Timothy 2</a></li>
+</ol>
+
+      </div>
+
+    </div>
+    <!-- Page Footer -->
+    <div class="footer faint">
+      
+    </div>
+  </div>
+</body>
+</html>

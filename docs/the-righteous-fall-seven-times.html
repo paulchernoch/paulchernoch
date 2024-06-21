@@ -1,0 +1,695 @@
+
+<!DOCTYPE html>
+<head>
+  <!--from template: default-page.html -->
+  <title>The Righteous Fall Seven Times</title>
+  <link rel="stylesheet" href="./styles/tree.css" type="text/css">
+  <link rel="stylesheet" href="./styles/toc.css" type="text/css">
+  <link rel="stylesheet" href="./styles/article.css" type="text/css">
+  <!-- Font Awesome supplies the icons used in the TOC -->
+  <script src="https://kit.fontawesome.com/ecadd7b212.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="./styles/page.css" type="text/css">
+
+  <script>
+    /* Search for a css class name in an HTML element and replace it with a second class. */
+    function replace_class(element, from_class, to_class) {
+      element.classList.remove(from_class)
+      element.classList.add(to_class)
+    }
+
+    /* Show or hide the table of contents menu in the left sidebar by changing the style classes.
+       Also show and hide the buttons used to open and close the menu.
+     */
+    function toggleLeftSidebar(open) {
+      const sidebar = document.getElementById("leftsidebar");
+      const open_button = document.getElementById("leftsidebaropen");
+      const close_button = document.getElementById("leftsidebarclose");
+      const body = document.getElementById("articlebody")
+     
+      if (open) {
+        replace_class(sidebar, "leftsidebar-closed", "leftsidebar-open")
+        replace_class(open_button, "show-toggle", "hide-toggle")
+        replace_class(close_button, "hide-toggle", "show-toggle")
+        replace_class(body, "body-wide", "body-narrow")
+      }
+      else {
+        replace_class(sidebar, "leftsidebar-open", "leftsidebar-closed")
+        replace_class(open_button, "hide-toggle", "show-toggle")
+        replace_class(close_button, "show-toggle", "hide-toggle")
+        replace_class(body, "body-narrow", "body-wide")
+      }
+   }
+
+  </script>
+</head>
+<html>
+
+
+<body>
+  <!-- Floating buttons to open and close the TOC -->
+  <div id="toggle">
+    <div class="tooltip">
+
+      <a id="leftsidebaropen" class="hide-toggle" role="button" tabindex="1" onclick="toggleLeftSidebar(true)" >
+        <i class="fas fa-angle-double-right"></i>
+        <span class="tooltiptext">Show</span>
+      </a>
+      <a id="leftsidebarclose" class="show-toggle" role="button" tabindex="2" onclick="toggleLeftSidebar(false)">
+        <i class="fas fa-angle-double-left"></i>
+        <span class="tooltiptext">Hide</span>
+      </a>
+    </div>
+  </div>
+  <!-- Page Header -->
+  <div class="header header-colors">
+    <a href="index.html">
+      <img src="images/wisdom-house.png" width="676" height="250"/>
+    </a>
+
+    <div class="quote">for the righteous falls <br/> seven times and rises again, <br/> but the wicked stumble in <br/> times of calamity. - Proverbs 24:16</div>
+
+  </div>
+  <!-- Left Sidebar TOC -->
+  <div class="container">
+    <div id="leftsidebar" class="leftsidebar-open left-side-colors" tabindex="0">
+        <ul class="tree-padding tree-vertical-lines tree-horizontal-lines tree-summaries tree-markers tree-buttons">
+          <li>
+            <details open="">
+              <summary><i class="fa-solid fa-house-chimney"></i> <a href="home.html">Home</a></summary>
+                <ul>
+                  <li><i class="fas fa-address-card"></i> <a href="about.html">About this Site</a></li>
+                  <li><i class="fas fa-feather-alt"></i> <a href="author.html">Author</a></li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-book"></i> <a href="books.html">Books</a></summary>
+                        <ul>
+                          <li> <a href="the-endless-hunt.html">The Endless Hunt</a></li>
+                          <li> <a href="job-rises.html">Job Rises</a></li>
+                          <li> <a href="peace-book.html">Peace, Like Solomon Never Knew</a></li>
+                          <li> <a href="plague-book.html">Plague, Precept, Prophet, Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li><i class="fa-solid fa-user-secret"></i> <a href="secret.html">Shhhh! Secret!</a></li>
+                  <li>
+                    <details>
+                      <summary><i class="fa-solid fa-building-columns"></i> <a href="lady-wisdom-s-house.html">Lady Wisdom's House</a></summary>
+                        <ul>
+                          <li> <a href="lady-wisdom.html">Lady Wisdom</a></li>
+                          <li> <a href="hannah-s-song.html">Hannah's Song</a></li>
+                          <li> <a href="blueprint.html">Blueprint for Lady Wisdom's House</a></li>
+                          <li> <a href="foundation.html">Foundation: The Commandments</a></li>
+                          <li> <a href="seven-spirits.html">Lanterns: The Seven Spirits of God</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="seven-pillars-of-wisdom.html">Seven Pillars of Wisdom</a></summary>
+                                <ul>
+                                  <li> <a href="theme-of-books.html">Theme of Books</a></li>
+                                  <li> <a href="theme-of-swords.html">Theme of Swords</a></li>
+                                  <li> <a href="theme-of-pillars.html">Theme of Pillars</a></li>
+                                  <li> <a href="theme-of-thunders.html">Theme of Thunders</a></li>
+                                  <li> <a href="theme-of-spirits.html">Theme of Spirits</a></li>
+                                  <li> <a href="theme-of-songs.html">Theme of Songs</a></li>
+                                  <li> <a href="theme-of-treasures.html">Theme of Treasures</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="roof-of-peace.html">Roof: Paul's Gospel of Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-seedling"></i> <a href="spiritual-growth.html">Spiritual Growth</a></summary>
+                        <ul>
+                          <li> <a href="most-important-questions.html">What are life's Most Important Questions?</a></li>
+                          <li> <a href="heavenly-treasures.html">What are the Heavenly Treasures?</a></li>
+                          <li> <a href="harvest-pattern.html">The Harvest Pattern of Jesus</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="growth-pattern.html">The Growth Pattern of Solomon</a></summary>
+                                <ul>
+                                  <li> <a href="there-is-a-season.html">There is a Season</a></li>
+                                  <li> <a href="pauls-discipleship-program.html">The Apostle Paul's Discipleship Program</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="the-motherhood-pattern.html">The Motherhood Pattern</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="law-pattern.html">The Law Pattern of Moses</a></summary>
+                                <ul>
+                                  <li> <a href="which-ten-commandments.html">Which Ten Commandments?</a></li>
+                                  <li> <a href="matthew-and-the-law-of-christ.html">Matthew and the Law of Christ</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="the-journey-pattern.html">The Journey Pattern</a></li>
+                          <li> <a href="emotional-prophecies-of-the-psalms.html">Emotional Prophecies of the Psalms</a></li>
+                          <li> <a href="talk-to-god.html">Job and the Ways to Talk to God</a></li>
+                          <li> <a href="job-description-for-a-savior.html">Job Description for a Savior</a></li>
+                          <li> <a href="dreams.html">Dreams</a></li>
+                          <li> <a href="spiritual-warfare.html">Spiritual Warfare</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-hourglass-half"></i> <a href="the-end-times.html">The End Times</a></summary>
+                        <ul>
+                          <li> <a href="seven-cycles-of-judgment.html">Seven Cycles of Judgment</a></li>
+                          <li> <a href="satan-bound-and-released.html">Satan, Bound and Released</a></li>
+                          <li> <a href="the-millennial-kingdom.html">The Millennial Kingdom</a></li>
+                          <li> <a href="the-four-horsemen-of-the-apocalypse.html">The Four Horsemen of the Apocalypse</a></li>
+                          <li> <a href="the-fifth-trumpet.html">The Fifth Trumpet</a></li>
+                          <li> <a href="the-fifth-seal.html">The Fifth Seal</a></li>
+                          <li> <a href="voice-of-the-seven-thunders.html">Voice of the Seven Thunders</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-list-ol"></i> <a href="numerology.html">Numerology</a></summary>
+                        <ul>
+                          <li> <a href="to-number-our-days.html">To Number our Days</a></li>
+                          <li> <a href="2-is-for-jesus.html">2 is for Jesus</a></li>
+                          <li> <a href="3-is-for-the-father.html">3 is for the Father</a></li>
+                          <li> <a href="4-is-for-cycles-of-nature.html">4 is for Cycles of Nature</a></li>
+                          <li> <a href="5-is-for-grace.html">5 is for Grace</a></li>
+                          <li> <a href="6-is-for-man.html">6 is for Man</a></li>
+                          <li> <a href="7-is-for-the-holy-spirit.html">7 is for the Holy Spirit</a></li>
+                          <li> <a href="17-is-for-victory.html">17 is for Victory</a></li>
+                          <li> <a href="28-is-for-time.html">28 is for Time</a></li>
+                          <li> <a href="40-is-for-suffering.html">40 is for Suffering</a></li>
+                          <li> <a href="42-is-for-the-journey.html">42 is for the Journey</a></li>
+                          <li> <a href="120-is-for-consecration.html">120 is for Consecration</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="153-is-for-total-victory.html">153 is for Total Victory</a></summary>
+                                <ul>
+                                  <li> <a href="153-connections.html">153 Connections</a></li>
+                                  <li> <a href="defining-153.html">Defining 153</a></li>
+                                  <li> <a href="153-and-fear.html">153 and Fear</a></li>
+                                  <li> <a href="153-and-hope.html">153 and Hope</a></li>
+                                  <li> <a href="habakkuk-part-1.html">Habakkuk Part 1</a></li>
+                                  <li> <a href="habakkuk-part-2.html">Habakkuk Part 2</a></li>
+                                  <li> <a href="habakkuk-part-3.html">Habakkuk Part 3</a></li>
+                                  <li> <a href="habakkuk-part-4.html">Habakkuk Part 4</a></li>
+                                  <li> <a href="habakkuk-part-5.html">Habakkuk Part 5</a></li>
+                                  <li> <a href="habakkuk-part-6.html">Habakkuk Part 6</a></li>
+                                  <li> <a href="habakkuk-part-7.html">Habakkuk Part 7</a></li>
+                                  <li> <a href="153-and-the-fifth-trumpet.html">153 and the Fifth Trumpet</a></li>
+                                  <li> <a href="habakkuk-s-war.html">Habakkuk's War</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="210-is-for-peace.html">210 is for Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-scroll"></i> <a href="prophetic-clocks.html">Prophetic Clocks</a></summary>
+                        <ul>
+                          <li> <a href="types-of-clock.html">Types of Clock</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="generational-clocks.html">Generational Clocks</a></summary>
+                                <ul>
+                                  <li> <a href="job-s-anti-jubilee-clock-defined.html">Job's Anti-Jubilee Clock, Defined</a></li>
+                                  <li> <a href="alexander-the-great.html">The Death of Alexander the Great</a></li>
+                                  <li> <a href="psalm-119.html">Psalm 119: The Shepherd's Clock</a></li>
+                                  <li> <a href="generations-come-and-go.html">Generations Come and Go</a></li>
+                                  <li> <a href="two-patterns-in-history.html">Two Patterns in History</a></li>
+                                  <li> <a href="acrostic-clock.html">The Acrostic Clock</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li>
+                            <details>
+                              <summary> <a href="celestial-clocks.html">Celestial Clocks</a></summary>
+                                <ul>
+                                  <li> <a href="grandfather-clock.html">A Grandfather Clock & a Silver Cord</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="spiritual-clocks.html">Spiritual Clocks</a></li>
+                          <li> <a href="empire-clocks.html">Empire Clocks</a></li>
+                          <li> <a href="commandment-clocks.html">Commandment Clocks</a></li>
+                          <li> <a href="other-clocks.html">Other Clocks</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details open="">
+                      <summary><i class="fas fa-question-circle"></i> <a href="riddles.html">Riddles</a></summary>
+                        <ul>
+                          <li> <a href="the-righteous-fall-seven-times.html">The Righteous Fall Seven Times</a></li>
+                          <li> <a href="twice-a-thousand-years.html">Twice a Thousand Years</a></li>
+                          <li> <a href="seven-pillars-riddle.html">The Seven Pillars of Wisdom</a></li>
+                          <li> <a href="riddle-of-153-fish.html">Why 153 Fish?</a></li>
+                          <li> <a href="riddles-of-war.html">Riddles of War</a></li>
+                          <li> <a href="building-a-house.html">Building a House</a></li>
+                          <li> <a href="hannah-s-song.html">Hannah's Song</a></li>
+                          <li> <a href="satan-s-taunt.html">Satan's Taunt</a></li>
+                          <li> <a href="vineyard-parable.html">Parable of the Workers in the Vineyard</a></li>
+                          <li> <a href="wedding-parable.html">The Parable of the Wedding Feast</a></li>
+                          <li> <a href="the-childbearing.html">The Childbearing</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fa-solid fa-person-harassing"></i> <a href="a-divided-world.html">A Divided World</a></summary>
+                        <ul>
+                          <li>
+                            <details>
+                              <summary> <a href="against-complementarianism.html">Against Complementarianism</a></summary>
+                                <ul>
+                                  <li> <a href="a-model-for-the-ordination-of-women.html">A Model for the Ordination of Women</a></li>
+                                  <li> <a href="submission.html">Submission</a></li>
+                                  <li> <a href="consecration.html">Consecration</a></li>
+                                  <li> <a href="identification.html">Identification</a></li>
+                                  <li> <a href="quantification.html">Quantification</a></li>
+                                  <li> <a href="reconciliation.html">Reconciliation</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-calendar-alt"></i> <a href="chronology.html">Chronology</a></summary>
+                        <ul>
+                          <li> <a href="dating-the-creation.html">Dating the Creation</a></li>
+                          <li> <a href="sojourn-of-israel.html">Sojourn of Israel</a></li>
+                          <li> <a href="chronology-of-judges.html">Chronology of Judges</a></li>
+                          <li> <a href="lifespan-of-solomon.html">Lifespan of Solomon</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                </ul>
+            </details>
+          </li>
+
+        </ul>
+    </div>
+    <!-- Article Text -->
+    <div id="articlebody" class="body-narrow" tabindex="3">
+      <div class="article">
+        <h1>The Righteous Fall Seven Times</h1>
+        <h2>Proverbs 24:16</h2>
+        <p class="date">Published on 2024-05-11</p>
+        
+        <p>The article on <a href="./riddles.html">Riddles</a> introduced the idea of <strong>Emotional Riddles</strong>. The answer to
+such a riddle does not come easy because the way the riddle is phrased repels the reader.
+The riddle tries to wrestle itself from your grasp, like Jacob wrestling with the angel in
+<a href="https://www.biblegateway.com/passage/?search=Genesis%2032&version=ESV">Genesis 32:24-29</a>.
+If you do not hold on until dawn, you won't receive the blessing, the wisdom it conceals.</p>
+
+<p>The riddle could come across as sexist and you are a woman, as with 1 Timothy 2, telling you 
+to be silent and that you are not qualified to teach. </p>
+
+<p>Or it could sound racist, like with Jesus' harsh words to the Canaanite woman whose daughter was sick:</p>
+
+<h4>“It is not right to take the children's bread and throw it to the dogs.”</h4>
+
+<h6>- Matthew 15:26</h6>
+
+<p>Then there is Revelation 10, an affront to all Christians, telling us that we are not in the 
+same league as the Apostle John. He gets to hear what the voice of the seven thunders said but we do not.
+That riddle stopped me cold for years, until I realized that when God says, "I am not telling you about that",
+He is secretly winking and saying, "But I am telling you about this." That was how I discovered that
+merely knowing the existence of an angel with a voice of seven thunders was a great clue. I followed that
+clue and found that the seven thunders had spoken four times before. Collecting all those utterances
+from Exodus, Job, Psalms and Revelation and laying them side by side was very informative. 
+(See "Aftertaste: Donner &amp; Blitzen" in <em>Peace, like Solomon Never Knew</em> for details.)</p>
+
+<p>Those emotional riddles and many others push you away. They keep you at bay. They are not
+the only kind, though. Some riddles draw you in. Such was the case for me with Proverbs 24:16.</p>
+
+<p>In "Appendix E: The Plan of Proverbs" from <em>Peace, like Solomon Never Knew</em>, 
+I described how this proverb helped me. This passage builds on an idea
+developed at the start of the appendix. The first three chapters of Proverbs are an introduction,
+but the remaining chapters each correspond to one of the twenty-eight times of Ecclesiastes 3, 
+in sequence. Thus Proverbs 24 matches the twenty-first time, "a time to tear".</p>
+
+<hr/>
+
+<p>Some proverbs stick with you. After my mother died and my father nearly joined her in 2016, 
+I prayed to the Lord for greater resilience. As I prayed, I recalled the following
+parable from memory:</p>
+
+<h4>for the righteous falls seven times and rises again,</h4>
+
+<h4>but the wicked stumble in times of calamity.</h4>
+
+<h6>- Proverbs 24:16</h6>
+
+<p>I asked the Lord who in the Bible would be a good role
+model for me to imitate that I might become one who could
+rise every time I fall. The name that came to mind was Job.
+Because of this verse from Proverbs 24, I studied Job and
+wrote <em>Job Rises: Thirteen Keys to a Resilient Life</em>. The
+confirmation that Job was the right book came when I read
+this parallel verse in Job: </p>
+
+<h4>From six calamities he will rescue you;</h4>
+
+<h5>in seven no harm will touch you.”</h5>
+
+<h6>- Job 5:19, NIV</h6>
+
+<p>So this verse started my journey through Job and concludes my journey through Ecclesiastes.
+Only because it holds such personal meaning to me did I linger over it – and
+discover that it is a riddle! This chapter matches <em>“a time to tear”</em>. If the righteous 
+fall “seven times”, what times might those be?</p>
+
+<ul>
+<li>(1) A time to tear</li>
+<li>(2) A time to mend, </li>
+<li>(3) A time to be silent, </li>
+<li>(4) A time to speak,</li>
+<li>(5) A time to love,</li>
+<li>(6) A time to hate,</li>
+<li>and a time for (7) war. </li>
+</ul>
+
+<p>Then in <em>“a time for peace”</em>, the righteous will “rise again”!
+Then will be the rapture of the church at the return of our Lord.
+This proverb is God’s promise to protect His church through the
+seven calamities: the opening of the seven seals, blowing of
+the seven trumpets, and pouring out of the seven bowls of
+judgment.</p>
+
+<p>The pursuit of one proverb, one single proverb, opened
+up vast treasures of insight to me. I wonder what riches the
+others conceal?</p>
+
+<hr/>
+
+<p>My insight above was that while the righteous may struggle and overcome 
+any kinds of time, there was a hidden focus on seven specific
+times drawn from the twenty-eight of Solomon. Those seven times
+are the lead up to <em>"a time for peace"</em>. The riddle was that the proverb
+seemed non-specific. A simple reading makes you think that you have grasped the
+whole message. </p>
+
+<p>Over a decade ago, I came to the conclusion, based on a sober
+reflection on one of Jesus' parables, that I did not understand the parables 
+as well as I thought I did. I did a deep dive and was proved right.
+Not that I discovered all that his parables had to say - I have since found
+much more - but that I must always consider that there is more to be learned
+from passages that I have already gained much understanding from.</p>
+
+<p>Today it is May 11, 2024. This morning I was again meditating on this proverb when
+I found that it hid the unexpected. It was not a helpful pointer to Job.
+It was not a prophecy for the church of the future. It was a word directed to me.</p>
+
+<p>Has anyone every shared a version of the four spiritual laws that has these words?</p>
+
+<p><strong>God loves you and has a wonderful plan for your life.</strong></p>
+
+<p>Maybe you believe that and maybe you don't. The one thing made abundantly clear by
+the days that follow the hearing of that promise is that the plan is a secret.
+That secret plan may help God, but how does it help me?</p>
+
+<p>When I was a young man, I read about another young man from the 19th century who reasoned that he could 
+expect a working life of forty-five years. Thus he planned to study the Bible languages 
+(like Hebrew and Greek) for the first fifteen years. Then he would study the Bible and theology 
+for the second fifteen years. After that he would teach others what he had learned for his remaining fifteen years.
+Then that young man did exactly what he had planned and became one of the most learned and influential 
+Christian professors of his era. O, how I longed to have the foresight to formulate such a plan and
+the discipline and perseverance to stick with it! Alas, I lacked both the aptitude for long term planning and
+the strength of character to execute such a plan. That idea became one of my heart's desires.
+In my life, I have harbored many such unobtainable desires. Knowing myself, such longings are things
+too deep for prayer. </p>
+
+<h4>The purpose in a man's heart is like deep water,</h4>
+
+<h5>but a man of understanding will draw it out.</h5>
+
+<h6>- Proverbs 20:5</h6>
+
+<p>Too much shame and feelings of inadequacy prevent those longings from rising to 
+the surface. I had not the understanding to draw them out. Those desires may be too deep for me, 
+but they are not too deep for God.</p>
+
+<h4>Delight yourself in the Lord,</h4>
+
+<h5>and he will give you the desires of your heart.</h5>
+
+<h6>- Psalm 37:4</h6>
+
+<p>Over the last decade, God has begun to answer prayers that I never prayed and given me treasures
+I did not know how to seek. Questions and confusions that I could not enunciate He has answered.
+I wanted to know how to simplify and structure all the complex ideas of the Christian faith.
+He is showing me that. I wanted to understand His wisdom. He has opened my eyes.
+I wanted to grasp His plan for history and resolve the hopelessly confused contradictions that
+abound in all theories of eschatology. He is doing that. I harbored questions whose answers 
+I knew would require years of tireless study, focus, determination and skill beyond my ability.
+The Lord poured strength into my heart for the journey, just like Elijah on his way to the mountain
+to hear the Lord's still, small voice. The Holy Spirit guided me, pointing to me which chapters to read,
+refusing to let me proceed until I had found the idea that had to be found in that passage.
+Sometimes I lingered for days on a single verse. God did not give me answers, he gave me a plan.
+He gave it to me with out telling it to me. He walked me through his plan for my life, one day at a time.
+I had to read the words. I had to compose the charts and graphs. I had to search the internet, 
+read the articles, and sort things into patterns until they made sense. I had to write the books
+and proofread them. I had to format everything for publication. That was what the Lord gave me.
+He gave me meaningful work and the joy of discovery. He gave me the sense that there was a destination.
+I was not adrift. There was a compass pointing to true north, even if it was not in my hand.</p>
+
+<p>Lately, I began to get impatient. Like the professor from years ago, I feel I must get to the time when 
+I share my ideas with others, to teach, lead Bible studies, and disciple younger believers. 
+When? Should I rush through my writing so I can get to that?
+Or am I supposed to keep sitting before my laptop for years longer?</p>
+
+<p>The Lord could tell me wait. He could tell me hurry up. He could tll me slow down. He could tell me
+have faith and trust that He is guiding me. Today He surprised me.</p>
+
+<p><strong>Today the Lord told me his plan.</strong></p>
+
+<p>How did He do that? He did it through Proverbs 24:16. He showed me how He has conformed my life
+to follow the twenty-eight times of Solomon. From this, I could see how many times I have already passed through,
+which I am in now, when it will end, and what comes next.</p>
+
+<p>The principle is something I call <strong>scriptural incarnation</strong>. The idea is hinted at here:</p>
+
+<h4>It is always good to be made much of for a good purpose,</h4>
+
+<h4>and not only when I am present with you, my little children,</h4>
+
+<h4>for whom I am again in the anguish of childbirth</h4>
+
+<h4>until <strong>Christ is formed in you</strong>!</h4>
+
+<h6>- Galatians 4:18-19</h6>
+
+<p>What does it mean for Christ to be formed in you? You acquire His character,
+his virtues, his mind, his desires, and his love. His goals become your goals.
+His interests become your interests (Philippians 2). Those are the sorts of
+things that come to mind. Ah, but there is so much more!</p>
+
+<p>From reflecting upon my life, it has become apparent that God has shaped my life experience
+to imitate features of the Bible. After all, Christ is the Eternal Word. If we become like him,
+we must also become like it. This enables us to tap into analogies from our own life
+to gain insight into spiritual matters. We are all different people, so God performs this
+work in each of us in a different way. We treasure different psalms, chew on different proverbs,
+and identify with different Bible characters.</p>
+
+<p>Elsewhere I have spoken of my <a href="./dreams.html">Dreams</a>. Some led me to Bible verses that helped
+me in times of trouble. For example, as a child I often dreamt about climbing the hill behind
+my house. In the dream, I knew that if I reached the top of the hill, I would see heaven.
+Decades later, that image directed me to Habakkuk 3, where the prophet, despite being mournful
+over a barren life, praises God in faith, trusting that one day, "I will climb on my high hills".
+Meditating on that verse every day for eighteen months gave me the faith to complete my thesis
+and graduate from MIT.</p>
+
+<p>Twenty years ago, after a long study of the Bible's wisdom books, those ideas colonized my imagination. 
+In my novels I imagined what the voice of the Seven Thunders might have said. I designed
+a city based on ideas from Psalm 119. The main street was lined with the pillars of wisdom. 
+The villain tried to steal Lady Wisdom's house so he could build his own universe. 
+And the good Lady was the head of a chain of grief counseling centers called the Houses of Mourning.
+All these fanciful notions made for a wonderful adventure. I had no idea that decades later I would
+identify the Seven Pillars of Wisdom, map out the blueprint for Lady Wisdom's house and decode
+many mysteries in the book of Habakkuk!</p>
+
+<p>I could reminisce about connections between my life and many Bible books, but only one is needful:
+Ecclesiastes. By a quirk of fate, I was born in 1962, the year that Pete Seeger's song 
+"Turn, Turn, Turn" was first released on an album. That song is based on Solomon's poem in Ecclesiastes 3.
+Understanding that poem unlocked myriad mysteries to my mind. By another coincidence, based on
+my research, Solomon was crowned king at age 23, the age at which I became a Christian.
+We don't know how old he was when he wrote Proverbs and Ecclesiastes, but it was probably near the end
+of his life. By my calculations, he died months after his 63rd birthday. While I do not
+savor the idea of copying THAT feature of his life, I am sixty-two years now, so the years I spent
+writing my book on Ecclesiastes probably overlap the parallel time in his life.</p>
+
+<p>All that is slippery. This is not. After pondering the proverb this morning, I realized that God
+has shaped my life according to Solomon's twenty-eight times. But, you might say, isn't the
+universality of that pattern in the life of all people something you have argued?</p>
+
+<p>Yes and no. At a materialistic level, the lives of most people follow the literal 
+<a href="./growth-pattern.html">Growth Pattern</a>. They pass through the human stages of development from 
+security to loyalty, work for a few years as a mature adult, then endure decline and death.
+At a spiritual level, some people are never born again. Some who are born again do not proceed
+very far before their life ends. Unlike biological processes and social conventions, 
+spiritual growth depends on the faith of each believer. Growth can be uneven, with a person
+stuck for long periods before progressing further. Such unevenness is the normal expectation
+for believers. My early years of faith were no exception. What is exceptional is how,
+after I reached a certain level of spiritual maturity, my progress became VERY regular.</p>
+
+<p>Regular and slow. In the materialistic human Growth Pattern, every group of four "times" lasts
+seven years. That means that each "time" lasts twenty-one months. At such a pace, a person
+attains physical, emotional, relational, occupational and societal maturity at about forty-nine years.
+Consider a person who is born again at age twenty, a not uncommon age. If they were to live
+to seventy-six years, what would the slowest pace of spiritual growth have to be if they were
+to reach full maturity in the faith before they died? With fifty-six years remaining to them
+and twenty-eight times to progress through, they could spare no more that two years per time on 
+average. </p>
+
+<ul>
+<li><strong>a time to be born</strong>: Born again in <strong>April 1985</strong></li>
+<li><strong>a time to die</strong>: Death to self, gaining a new identity in Christ from memorizing Galatians and a comforting dream, <strong>September-October 1985</strong></li>
+<li><strong>a time to plant</strong>: Joined a church (Ruggles Baptist) in <strong>March 1986</strong></li>
+<li><strong>a time to uproot</strong>: Ended friendships with some unbelieving friends, Graduated college, thus leaving my campus fellowship, <strong>1986-1987</strong></li>
+<li><strong>times to kill &amp; heal</strong>, tear down &amp; build up: Discipled by Christian roommates, books, church fellowship and Bible studies, healing from nightmares <strong>1987-1988</strong></li>
+<li><strong>times to weep &amp; laugh</strong>: Baptized in the Holy Spirit, freed from depression by overwhelming joy, <strong>1988-1991</strong></li>
+<li><strong>a time to mourn</strong>: Significant losses, like a romantic breakup, job loss, Bible study leader leaving the faith, <strong>Early 1992</strong></li>
+<li><strong>a time to dance</strong>: Read <em>Our Sufficiency in Christ</em> by John MacArthur, attended Bible study on Romans 6, wrote a worship song, grew spiritually, <strong>Late 1992</strong></li>
+<li><strong>a time to gather stones</strong>: Participation in many church ministries, <strong>1988-1996</strong></li>
+<li><strong>a time to embrace</strong>: dating &amp; marriage to Tina, <strong>1993-1994</strong></li>
+<li><strong>times to scatter stones and refrain from embracing</strong>: Rejected the Toronto Blessing when it took over our church, <strong>1995-1997</strong></li>
+<li><strong>times to seek &amp; give up</strong>: Despite two mission trips and passing three courses at seminary, discovered I was not called to be a missionary or a pastor, <strong>1989-1993</strong></li>
+<li><strong>a time to keep</strong>: Depression limited my giving, <strong>1983-1990</strong></li>
+<li><strong>a time to give away</strong>: Generous gifts to the church, charities and friends in need, <strong>1990-1997</strong></li>
+<li><strong>a time to tear</strong>: Left Ruggles Baptist Church over the Toronto Blessing Movement, <strong>1997-2004</strong></li>
+<li><strong>a time to mend</strong>: Returned to Ruggles Baptist church, extended forgiveness, attended men's Bible study, <strong>2004-2011</strong></li>
+<li><strong>a time to be silent</strong>: Prayed and fasted three years, asking God to show me His glory, then mourned my mother's death, <strong>2011-2018</strong></li>
+<li><strong>a time to speak</strong>: Writing Job Rises, Peace &amp; Plague, ths website, <strong>2018-Present</strong></li>
+<li><strong>a time to love</strong>: Disciple and teach others what I have learned, Perhaps <strong>2025-2032</strong>?</li>
+</ul>
+
+<p>My life is by no means a pattern to follow, but several interesting things pop out.
+The first ten times required less than ten years, so the average was less than a year per time.
+Like many new Christians, I initially made rapid progress in the faith and it occurred in an
+orderly fashion, thanks to the good discipleship that I received.</p>
+
+<p>The next thing to notice is that the times can run concurrently. "A time to gather stones"
+represents volunteering in church ministries and helping to build the church. 
+In my life, that began after I was at the church a short time and continued throughout
+my time at church as I passed through the other phases.</p>
+
+<p>After that, notice how the middle times are a bit jumbled, with some occurring out of order
+and more overlap occurring. When I studied Song of Songs 
+(see "Appendix G: A Prophetic Song of Songs" in <em>Peace, like Solomon Never Knew</em>), 
+I found that the Growth Pattern is similarly muddled. In that book, each of the twenty-eight 
+speaking parts corresponds to one of the times. However, for fifteen of the sections,
+the time exactly opposite the expected time appears. This shows how young people are impatient
+and impulsive, having a terrible sense of time. That is why the Bride counsels her friends 
+to "not arouse or awaken love until it is time". In my case, I tried to live out "a time to seek"
+before I completed "a time to dance". That means that I tried to seek Christian ministry
+before I had dealt with crushing loss, mastered my emotions and matured enough to handle
+such responsibility.</p>
+
+<p>I have found this sort of scripturally-guided introspection to be beneficial. It has helped
+me understand how God works, which Bible truths set me free from which troubles, and
+now to understand some reasons why I failed at things (or succeeded) in the past.
+I recommend the practice to everyone.</p>
+
+<p>The jumbled years make sense, as that was when I changed jobs several times, got married, 
+had children, bought a house and switched churches. The chaos in my spiritual growth 
+matches the chaos in my life.</p>
+
+<p>The surprise for me was what followed the chaos. My spiritual growth slowed to a crawl. 
+Consider the six most recent times, the times to keep, give away, tear, mend, be silent, and speak.</p>
+
+<ul>
+<li>The first overlaps my earliest seven years, including the crisis that led me to faith, 1983-1990. </li>
+<li>The second overlaps the next seven-year period, 1990-1997.</li>
+<li>Since then there has been no overlap and each time also lasts seven years.</li>
+</ul>
+
+<p>This regularity shocked me. The switch from a rapid jumble to a regular, slower pace was a time to tear.
+That is the crucial time that I discovered in my analysis of Proverbs 24:16.
+The righteous man begins to fall in "a time to tear" and endures crises in each subsequent time, 
+until he reaches "a time for peace" and his troubles end.</p>
+
+<p>What is God telling me? Since I am six years into "a time to speak", it should end in 2025.
+That means I should expect to complete my website, perhaps write a few articles or one more book, then
+shift gears. Starting in late 2025, I should focus on teaching others, discipling them in whatI have learned.
+After seven years of that, ending in 2032, I shall be near retirement age (I do not expect to retire at 65!). 
+When I retire, my next phase will be "a time to hate", from 2032-2039. I believe that that the
+world will enter history's "time to hate" in 2040 AD, according to Solomon's Clock.
+Thus I suspect that I will be trying to wake up the church to what is about to happen.
+I do not expect that this is a message people will receive well.</p>
+
+<p>Will my life work out this way? The Lord has not given me such a guarantee. The only assurance I have is this:</p>
+
+<h4>“Who then is the faithful and wise servant,</h4>
+
+<h4>whom his master has set over his household,</h4>
+
+<h4>to give them their food at the proper time?</h4>
+
+<h4>Blessed is that servant whom his master will</h4>
+
+<h4>find so doing when he comes.</h4>
+
+<h6>- Matthew 24:45-46</h6>
+
+<p>The Lord has given me a timetable for the remaining years of my service, however many that may be.
+Should I be granted the next fifteen years or more, I know how I am to apportion my efforts during those years.</p>
+
+<p>The Lord does have a wonderful plan for my life. He has chosen to share a little bit of it in my latter years
+so that I may run my race to completion. One reason He has done this is so that I can pace myself.
+I cannot sustain a marathon pace. My worries over this matter prompted His gracious gift, His answer
+to my prayer.</p>
+
+<p>What might God do for you? Has surely has a marvelous plan for your life. He may reveal part of it to you
+or not, as he chooses, but the Lord will never discourage you from praying for insight.</p>
+
+<p>If you, like me, seem to hit a brick wall in your progress towards Christian maturity, do not lose heart.
+This parable warns - and my experience confirms - that seven of the last eight stages, from "a time to mourn" to
+"a time for war", may take a long time. For me, the time per stage began at six months, before settling into a year
+per stage. Then after a period of crisis, they lengthened into seven years per stage. When your
+progress slows down by a factor of seven or ten, that will get your attention. It was then that
+the Lord told me I was spiritually deaf, but that He would take care of that. Many years of trials
+compelled me to learn to pray, fast, meditate on Scripture, and seek the Lord with persistence. 
+I knew I had no strength to help myself, so I had to rely upon His grace. Eventually, I began to hear
+God more clearly. His voice grows clearer still. If you train yourself to listen for that voice,
+then when trouble strikes, you, too, shall rise again.</p>
+
+<hr/>
+
+<div class="sections">
+
+Other articles in this section:
+
+  <ol>
+    <li> <a href="./riddles.html">Riddles: Introduction to Biblical riddles</a> </li>
+    <li> <a href="./the-righteous-fall-seven-times.html">The Righteous Fall Seven Times: Proverbs 24 tells us when the righteous will fall - and rise again.</a> </li>
+    <li> <a href="./twice-a-thousand-years.html">Twice a Thousand Years: A Riddle from Ecclesiastes 6</a> </li>
+    <li> <a href="./seven-pillars-riddle.html">The Seven Pillars of Wisdom: What holds up Lady Wisdom's House in Proverbs 9?</a> </li>
+    <li> <a href="./riddle-of-153-fish.html">Why 153 Fish?: The Miraculous Catch of Fish from John 21</a> </li>
+    <li> <a href="./riddles-of-war.html">Riddles of War: The Battle Cry of Proverbs 30</a> </li>
+    <li> <a href="./building-a-house.html">Building a House: Construction advice by Solomon from Ecclesiastes 10</a> </li>
+    <li> <a href="./hannah-s-song.html">Hannah's Song: Hannah's Amazing Prayer</a> </li>
+    <li> <a href="./satan-s-taunt.html">Satan's Taunt: Why is Satan's Taunt in Matthew 4 ironic?</a> </li>
+    <li> <a href="./vineyard-parable.html">Parable of the Workers in the Vineyard: When would Jesus send out workers to his vineyard?</a> </li>
+    <li> <a href="./wedding-parable.html">The Parable of the Wedding Feast: If someone ghosted you over a wedding invite, would you burn down their city?</a> </li>
+    <li> <a href="./the-childbearing.html">The Childbearing: How does bearing children save women?</a> </li>
+  </ol>
+
+</div>
+
+      </div>
+
+    </div>
+    <!-- Page Footer -->
+    <div class="footer faint">
+      
+    </div>
+  </div>
+</body>
+</html>

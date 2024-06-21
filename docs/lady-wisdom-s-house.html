@@ -1,0 +1,705 @@
+
+<!DOCTYPE html>
+<head>
+  <!--from template: default-page.html -->
+  <title>Lady Wisdom's House</title>
+  <link rel="stylesheet" href="./styles/tree.css" type="text/css">
+  <link rel="stylesheet" href="./styles/toc.css" type="text/css">
+  <link rel="stylesheet" href="./styles/article.css" type="text/css">
+  <!-- Font Awesome supplies the icons used in the TOC -->
+  <script src="https://kit.fontawesome.com/ecadd7b212.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="./styles/page.css" type="text/css">
+
+  <script>
+    /* Search for a css class name in an HTML element and replace it with a second class. */
+    function replace_class(element, from_class, to_class) {
+      element.classList.remove(from_class)
+      element.classList.add(to_class)
+    }
+
+    /* Show or hide the table of contents menu in the left sidebar by changing the style classes.
+       Also show and hide the buttons used to open and close the menu.
+     */
+    function toggleLeftSidebar(open) {
+      const sidebar = document.getElementById("leftsidebar");
+      const open_button = document.getElementById("leftsidebaropen");
+      const close_button = document.getElementById("leftsidebarclose");
+      const body = document.getElementById("articlebody")
+     
+      if (open) {
+        replace_class(sidebar, "leftsidebar-closed", "leftsidebar-open")
+        replace_class(open_button, "show-toggle", "hide-toggle")
+        replace_class(close_button, "hide-toggle", "show-toggle")
+        replace_class(body, "body-wide", "body-narrow")
+      }
+      else {
+        replace_class(sidebar, "leftsidebar-open", "leftsidebar-closed")
+        replace_class(open_button, "hide-toggle", "show-toggle")
+        replace_class(close_button, "show-toggle", "hide-toggle")
+        replace_class(body, "body-narrow", "body-wide")
+      }
+   }
+
+  </script>
+</head>
+<html>
+
+
+<body>
+  <!-- Floating buttons to open and close the TOC -->
+  <div id="toggle">
+    <div class="tooltip">
+
+      <a id="leftsidebaropen" class="hide-toggle" role="button" tabindex="1" onclick="toggleLeftSidebar(true)" >
+        <i class="fas fa-angle-double-right"></i>
+        <span class="tooltiptext">Show</span>
+      </a>
+      <a id="leftsidebarclose" class="show-toggle" role="button" tabindex="2" onclick="toggleLeftSidebar(false)">
+        <i class="fas fa-angle-double-left"></i>
+        <span class="tooltiptext">Hide</span>
+      </a>
+    </div>
+  </div>
+  <!-- Page Header -->
+  <div class="header header-colors">
+    <a href="index.html">
+      <img src="images/wisdom-house.png" width="676" height="250"/>
+    </a>
+
+    <div class="quote">Everyone then who hears these words of mine <br/> and does them will be like a wise man <br/> who built his house on the rock. <br/> - Jesus</div>
+
+  </div>
+  <!-- Left Sidebar TOC -->
+  <div class="container">
+    <div id="leftsidebar" class="leftsidebar-open left-side-colors" tabindex="0">
+        <ul class="tree-padding tree-vertical-lines tree-horizontal-lines tree-summaries tree-markers tree-buttons">
+          <li>
+            <details open="">
+              <summary><i class="fa-solid fa-house-chimney"></i> <a href="home.html">Home</a></summary>
+                <ul>
+                  <li><i class="fas fa-address-card"></i> <a href="about.html">About this Site</a></li>
+                  <li><i class="fas fa-feather-alt"></i> <a href="author.html">Author</a></li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-book"></i> <a href="books.html">Books</a></summary>
+                        <ul>
+                          <li> <a href="the-endless-hunt.html">The Endless Hunt</a></li>
+                          <li> <a href="job-rises.html">Job Rises</a></li>
+                          <li> <a href="peace-book.html">Peace, Like Solomon Never Knew</a></li>
+                          <li> <a href="plague-book.html">Plague, Precept, Prophet, Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li><i class="fa-solid fa-user-secret"></i> <a href="secret.html">Shhhh! Secret!</a></li>
+                  <li>
+                    <details open="">
+                      <summary><i class="fa-solid fa-building-columns"></i> <a href="lady-wisdom-s-house.html">Lady Wisdom's House</a></summary>
+                        <ul>
+                          <li> <a href="lady-wisdom.html">Lady Wisdom</a></li>
+                          <li> <a href="hannah-s-song.html">Hannah's Song</a></li>
+                          <li> <a href="blueprint.html">Blueprint for Lady Wisdom's House</a></li>
+                          <li> <a href="foundation.html">Foundation: The Commandments</a></li>
+                          <li> <a href="seven-spirits.html">Lanterns: The Seven Spirits of God</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="seven-pillars-of-wisdom.html">Seven Pillars of Wisdom</a></summary>
+                                <ul>
+                                  <li> <a href="theme-of-books.html">Theme of Books</a></li>
+                                  <li> <a href="theme-of-swords.html">Theme of Swords</a></li>
+                                  <li> <a href="theme-of-pillars.html">Theme of Pillars</a></li>
+                                  <li> <a href="theme-of-thunders.html">Theme of Thunders</a></li>
+                                  <li> <a href="theme-of-spirits.html">Theme of Spirits</a></li>
+                                  <li> <a href="theme-of-songs.html">Theme of Songs</a></li>
+                                  <li> <a href="theme-of-treasures.html">Theme of Treasures</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="roof-of-peace.html">Roof: Paul's Gospel of Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-seedling"></i> <a href="spiritual-growth.html">Spiritual Growth</a></summary>
+                        <ul>
+                          <li> <a href="most-important-questions.html">What are life's Most Important Questions?</a></li>
+                          <li> <a href="heavenly-treasures.html">What are the Heavenly Treasures?</a></li>
+                          <li> <a href="harvest-pattern.html">The Harvest Pattern of Jesus</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="growth-pattern.html">The Growth Pattern of Solomon</a></summary>
+                                <ul>
+                                  <li> <a href="there-is-a-season.html">There is a Season</a></li>
+                                  <li> <a href="pauls-discipleship-program.html">The Apostle Paul's Discipleship Program</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="the-motherhood-pattern.html">The Motherhood Pattern</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="law-pattern.html">The Law Pattern of Moses</a></summary>
+                                <ul>
+                                  <li> <a href="which-ten-commandments.html">Which Ten Commandments?</a></li>
+                                  <li> <a href="matthew-and-the-law-of-christ.html">Matthew and the Law of Christ</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="the-journey-pattern.html">The Journey Pattern</a></li>
+                          <li> <a href="emotional-prophecies-of-the-psalms.html">Emotional Prophecies of the Psalms</a></li>
+                          <li> <a href="talk-to-god.html">Job and the Ways to Talk to God</a></li>
+                          <li> <a href="job-description-for-a-savior.html">Job Description for a Savior</a></li>
+                          <li> <a href="dreams.html">Dreams</a></li>
+                          <li> <a href="spiritual-warfare.html">Spiritual Warfare</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-hourglass-half"></i> <a href="the-end-times.html">The End Times</a></summary>
+                        <ul>
+                          <li> <a href="seven-cycles-of-judgment.html">Seven Cycles of Judgment</a></li>
+                          <li> <a href="satan-bound-and-released.html">Satan, Bound and Released</a></li>
+                          <li> <a href="the-millennial-kingdom.html">The Millennial Kingdom</a></li>
+                          <li> <a href="the-four-horsemen-of-the-apocalypse.html">The Four Horsemen of the Apocalypse</a></li>
+                          <li> <a href="the-fifth-trumpet.html">The Fifth Trumpet</a></li>
+                          <li> <a href="the-fifth-seal.html">The Fifth Seal</a></li>
+                          <li> <a href="voice-of-the-seven-thunders.html">Voice of the Seven Thunders</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-list-ol"></i> <a href="numerology.html">Numerology</a></summary>
+                        <ul>
+                          <li> <a href="to-number-our-days.html">To Number our Days</a></li>
+                          <li> <a href="2-is-for-jesus.html">2 is for Jesus</a></li>
+                          <li> <a href="3-is-for-the-father.html">3 is for the Father</a></li>
+                          <li> <a href="4-is-for-cycles-of-nature.html">4 is for Cycles of Nature</a></li>
+                          <li> <a href="5-is-for-grace.html">5 is for Grace</a></li>
+                          <li> <a href="6-is-for-man.html">6 is for Man</a></li>
+                          <li> <a href="7-is-for-the-holy-spirit.html">7 is for the Holy Spirit</a></li>
+                          <li> <a href="17-is-for-victory.html">17 is for Victory</a></li>
+                          <li> <a href="28-is-for-time.html">28 is for Time</a></li>
+                          <li> <a href="40-is-for-suffering.html">40 is for Suffering</a></li>
+                          <li> <a href="42-is-for-the-journey.html">42 is for the Journey</a></li>
+                          <li> <a href="120-is-for-consecration.html">120 is for Consecration</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="153-is-for-total-victory.html">153 is for Total Victory</a></summary>
+                                <ul>
+                                  <li> <a href="153-connections.html">153 Connections</a></li>
+                                  <li> <a href="defining-153.html">Defining 153</a></li>
+                                  <li> <a href="153-and-fear.html">153 and Fear</a></li>
+                                  <li> <a href="153-and-hope.html">153 and Hope</a></li>
+                                  <li> <a href="habakkuk-part-1.html">Habakkuk Part 1</a></li>
+                                  <li> <a href="habakkuk-part-2.html">Habakkuk Part 2</a></li>
+                                  <li> <a href="habakkuk-part-3.html">Habakkuk Part 3</a></li>
+                                  <li> <a href="habakkuk-part-4.html">Habakkuk Part 4</a></li>
+                                  <li> <a href="habakkuk-part-5.html">Habakkuk Part 5</a></li>
+                                  <li> <a href="habakkuk-part-6.html">Habakkuk Part 6</a></li>
+                                  <li> <a href="habakkuk-part-7.html">Habakkuk Part 7</a></li>
+                                  <li> <a href="153-and-the-fifth-trumpet.html">153 and the Fifth Trumpet</a></li>
+                                  <li> <a href="habakkuk-s-war.html">Habakkuk's War</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="210-is-for-peace.html">210 is for Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-scroll"></i> <a href="prophetic-clocks.html">Prophetic Clocks</a></summary>
+                        <ul>
+                          <li> <a href="types-of-clock.html">Types of Clock</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="generational-clocks.html">Generational Clocks</a></summary>
+                                <ul>
+                                  <li> <a href="job-s-anti-jubilee-clock-defined.html">Job's Anti-Jubilee Clock, Defined</a></li>
+                                  <li> <a href="alexander-the-great.html">The Death of Alexander the Great</a></li>
+                                  <li> <a href="psalm-119.html">Psalm 119: The Shepherd's Clock</a></li>
+                                  <li> <a href="generations-come-and-go.html">Generations Come and Go</a></li>
+                                  <li> <a href="two-patterns-in-history.html">Two Patterns in History</a></li>
+                                  <li> <a href="acrostic-clock.html">The Acrostic Clock</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li>
+                            <details>
+                              <summary> <a href="celestial-clocks.html">Celestial Clocks</a></summary>
+                                <ul>
+                                  <li> <a href="grandfather-clock.html">A Grandfather Clock & a Silver Cord</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="spiritual-clocks.html">Spiritual Clocks</a></li>
+                          <li> <a href="empire-clocks.html">Empire Clocks</a></li>
+                          <li> <a href="commandment-clocks.html">Commandment Clocks</a></li>
+                          <li> <a href="other-clocks.html">Other Clocks</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-question-circle"></i> <a href="riddles.html">Riddles</a></summary>
+                        <ul>
+                          <li> <a href="the-righteous-fall-seven-times.html">The Righteous Fall Seven Times</a></li>
+                          <li> <a href="twice-a-thousand-years.html">Twice a Thousand Years</a></li>
+                          <li> <a href="seven-pillars-riddle.html">The Seven Pillars of Wisdom</a></li>
+                          <li> <a href="riddle-of-153-fish.html">Why 153 Fish?</a></li>
+                          <li> <a href="riddles-of-war.html">Riddles of War</a></li>
+                          <li> <a href="building-a-house.html">Building a House</a></li>
+                          <li> <a href="hannah-s-song.html">Hannah's Song</a></li>
+                          <li> <a href="satan-s-taunt.html">Satan's Taunt</a></li>
+                          <li> <a href="vineyard-parable.html">Parable of the Workers in the Vineyard</a></li>
+                          <li> <a href="wedding-parable.html">The Parable of the Wedding Feast</a></li>
+                          <li> <a href="the-childbearing.html">The Childbearing</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fa-solid fa-person-harassing"></i> <a href="a-divided-world.html">A Divided World</a></summary>
+                        <ul>
+                          <li>
+                            <details>
+                              <summary> <a href="against-complementarianism.html">Against Complementarianism</a></summary>
+                                <ul>
+                                  <li> <a href="a-model-for-the-ordination-of-women.html">A Model for the Ordination of Women</a></li>
+                                  <li> <a href="submission.html">Submission</a></li>
+                                  <li> <a href="consecration.html">Consecration</a></li>
+                                  <li> <a href="identification.html">Identification</a></li>
+                                  <li> <a href="quantification.html">Quantification</a></li>
+                                  <li> <a href="reconciliation.html">Reconciliation</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-calendar-alt"></i> <a href="chronology.html">Chronology</a></summary>
+                        <ul>
+                          <li> <a href="dating-the-creation.html">Dating the Creation</a></li>
+                          <li> <a href="sojourn-of-israel.html">Sojourn of Israel</a></li>
+                          <li> <a href="chronology-of-judges.html">Chronology of Judges</a></li>
+                          <li> <a href="lifespan-of-solomon.html">Lifespan of Solomon</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                </ul>
+            </details>
+          </li>
+
+        </ul>
+    </div>
+    <!-- Article Text -->
+    <div id="articlebody" class="body-narrow" tabindex="3">
+      <div class="article">
+        <h1>Lady Wisdom's House</h1>
+        
+        <p class="date">Published on 2024-03-03</p>
+        
+        <h2>When is a House not a House?</h2>
+
+<p>I learned a riddle as a child.</p>
+
+<h4>Q: When is a door not a door?</h4>
+
+<h4>A: When it is ajar.</h4>
+
+<p>So when is a house not a house? When it is a metaphor. The Bible uses the image of a house in many of its teachings. Since one particular edifice, Lady Wisdom's House, is the subject of this entire website, it is incumbent upon me to prove that understanding and applying the meaning behind the metaphor is important to every Christian. Not every reference to a house in the Bible is captured by this metaphor, so let's begin by selecting some that are. </p>
+
+<h2>What is a House?</h2>
+
+<p>First, what are some common meanings that people in the Bible attribute to the idea of a house? </p>
+
+<ul>
+<li><strong>To kings</strong>, building a house means establishing a long-lasting dynasty that can govern wisely and protect the people of the nation from invaders.</li>
+<li><strong>To priests</strong>, building a house means constructing a temple acceptable to God so that God might dwell among His people and show His favor to them.</li>
+<li><strong>To families</strong>, building a house means security and stability, a posterity to be built upon to benefit generations to come.</li>
+<li><strong>To individuals</strong>, building a house means both the construction of a literal house and the forming of strong, godly character.</li>
+<li><strong>To the church of Christ</strong>, building a house means training in righteousness and evangelism, the growing and maturing of the body of Christ.</li>
+</ul>
+
+<p>And what does building a house mean to the philosopher? It means a collection of principles and a body of knowledge that fits together into a harmonious whole.</p>
+
+<p>Conversely, the destruction of a house is the loss of all those things.</p>
+
+<h2>Is the idea of a House Important?</h2>
+
+<p>Now importance can be measured in several ways. Here are four:</p>
+
+<ul>
+<li>A truth may be important in its depth, touching on matters of salvation or the nature of God. </li>
+<li>A truth may be important in its scope, binding together seemingly disparate ideas.</li>
+<li>A truth may be important in its timing, being restricted to one era or applicable across all generations.</li>
+<li>A truth may be important in its capacity to reveal new truth, being a clue that leads the scholar onward to new insights.</li>
+</ul>
+
+<p>The Bible's teaching about Lady Wisdom's House is important for all those reasons: it is deep, wide, eternal and revelatory.</p>
+
+<p>When I ponder the relative importance of Bible teachings, it is good to start with Jesus. If Jesus said something is important, it is important. 
+The Sermon on the Mount is considered one of Jesus' core teachings, including the Beatitudes and the Golden Rule. Here is how that speech ends:</p>
+
+<h4>“Everyone then who hears these words of mine and does them</h4>
+
+<h4>will be like <strong>a wise man who built his house on the rock</strong>.</h4>
+
+<h4>And the rain fell, and the floods came, and the winds blew</h4>
+
+<h4>and beat on that house, but it did not fall,</h4>
+
+<h4>because it had been founded on the rock.</h4>
+
+<h4>And everyone who hears these words of mine and does not do them</h4>
+
+<h4>will be like <strong>a foolish man who built his house on the sand</strong>.</h4>
+
+<h4>And the rain fell, and the floods came, and the winds blew</h4>
+
+<h4>and beat against that house, and it fell,</h4>
+
+<h4>and great was the fall of it.”</h4>
+
+<h4>- Matthew 7:24-27</h4>
+
+<p>Straightaway, Jesus likens obeying his teachings to building a house on the rock. His words are the foundation of a secure life.
+The impression that these verses left me with during my early years as a Christian was that this figure of speech was a helpful simile
+used by Jesus so that I could understand better. I sold him short. The analogy does more than communicate, it connects. 
+As a kid, I assembled paper models that had labeled tabs that had to be inserted into matching slots. Jesus and the other prophets often 
+used phrases that connect the parts together into a larger idea. The whole is greater than the sum of the parts.</p>
+
+<h2>How do Riddles Help us Learn?</h2>
+
+<p>Here are a few examples of where what seems to be a clever turn of phrase is really a clue to something deeper.</p>
+
+<p><strong>The Seven Spirits of God</strong>. Revelation uses this phrase a few times. If there are seven spirits, what are they? Are they different? What is each for?
+Some scholars, looking for a list of spirits numbering seven, matched this to Isaiah 11:2. I agree. Knowing there is a special collection
+of spirits called "The Seven Spirits of God" challenged people to look and eventually find the definition. How does knowing this help?
+It says in Revelation that God sent those spirits out into the whole earth. Did he send them out all at once or one at a time?
+Did this sending occur once or multiple times? Were the spirits sent in a particular order? Does this tell us something about how God operates?
+I tackled all these questions and more in <em>Peace</em> and found answers. God has sent them out multiple times, in the order listed in Isaiah.
+Each has a different purpose and produces a different effect on the history of the church or the world. 
+Seeing this pattern enables us to understand more about the structure of God's plan for the salvation of the world.
+The chapter "Swords, Seals &amp; Surviving to Saturday" shows how each spirit is associated with one time that the Lord has drawn his sword in 
+a spectacular way, connecting the spirits to God's judgment. This is in keeping with the phrase "the sword of the spirit" from Ephesians 6:17. 
+Each spirit also matches a different phase of spiritual growth, as shown in "Appendix H: Clues to the Seven Pillars". 
+And a different spirit was sent to each of the seven churches that received a letter from Jesus in Revelation.</p>
+
+<p><strong>The Voices of the Seven Thunders</strong>. Revelation 10 has a marvelous riddle. The voices of the seven thunders speak, then John is ordered
+not to write down what they said. This has to be one of the most baffling passages in the Bible! If we cannot know what they said, what is the 
+purpose of including this chapter in the Bible at all? This is a case of what security engineers call information leakage. </p>
+
+<p>One famous example of information leakage is called the <a href="https://en.wikipedia.org/wiki/German_tank_problem">German Tank Problem</a>. 
+During World War II, the Allies tried to estimate tank production using aerial surveillance and other techniques. 
+They also captured two tanks in battle. It turns out that the Germans printed serial numbers on many parts,
+like the wheels and gears. The serial numbers started at one and increased in an unbroken sequence. 
+By applying statistical models to the part numbers on just those two tanks, they estimated that 270 tanks of that type had been produced prior 
+to a certain battle. After the war, the British got the actual production figures: 274 tanks. The statistical methods were far more accurate than the
+other forms of intelligence that projected far fewer tanks. </p>
+
+<p>How does this apply to the Bible? Revelation 10 tells us that the voices of the seven thunders exist. 
+This tells us that they are a meaningful category. Knowing this, we can look for them elsewhere. 
+I found them. We cannot know what the seven thunders told John in Revelation 10, but we can know what they said elsewhere in the Bible.
+They previously spoke in Exodus, Job, Psalms and elsewhere in Revelation. Common phrasing and themes tie all these passages together,
+as explored in the chapter "Aftertaste: Donner &amp; Blitzen" in <em>Peace</em>.</p>
+
+<p><strong>The Seven Pillars of Wisdom</strong>. Many people have tried to identify the seven pillars of wisdom named by Solomon in Proverbs 9:1. 
+By placing such riddles in the Bible, God challenges people to read Scripture more closely that they may find answers and be blessed by them.
+Identifying and defending a particular identification of the seven pillars was a major goal of both <em>Peace, like Solomon Never Knew</em> and 
+<em>Plague, Precept, Prophet, Peace</em>. With a solution to that riddle, I proceeded to extend the metaphor that I might discover more of the
+architectural elements of Lady Wisdom's house.</p>
+
+<h2>Important Bible Passages about Houses</h2>
+
+<p>Now that we can see that the Lord uses metaphors to challenge us to connect the dots and assemble new insights, let's move on. 
+Let's get back to showing that the idea of a house is fundamental to our understanding of God's plans for us. 
+Here is a short list of passages that emphasize the metaphor of a house:</p>
+
+<ul>
+<li><strong>Psalm 127:1</strong>: <em>Unless the Lord builds the house, those who build it labor in vain.</em></li>
+<li><strong>Psalms 23, 27, 92, 116, 118, 122, 134, 135</strong>: <em>the house of the Lord</em></li>
+<li><strong>Job</strong>: The house of Job's son fell in a storm, killing all his children, but Job's house - his soul - was revived when God visited him in a second storm.</li>
+<li><strong>Proverbs</strong>: 18 of 31 chapters speak of the houses of wise and foolish, wicked and righteous, including 9:1, Lady Wisdom's house.</li>
+<li><strong>Song of Songs 8:7</strong>: Speaks of something greater than the wealth of a house: <em>Many waters cannot quench love, neither can floods drown it. If a man offered for love all the wealth of his house, he would be utterly despised.</em></li>
+<li><strong>Ecclesiastes</strong>: Distinguishes these houses: the house of man, the house of God, the House of Mourning, the House of Pleasure (or laughter, mirth, feasting), and the house of the body. Much of chapter 10 is devoted to a parable of the challenges of building a solid house.</li>
+<li><strong>Matthew</strong>: The houses built on rock and sand, the house of the strongman, and parables about the master of the house</li>
+<li><strong>Revelation</strong>: The new Jerusalem, and the wonderful promise of 3:12, <em>The one who conquers, I will make him a pillar in the temple of my God.</em></li>
+<li><strong>2 Corinthians 5:1</strong>: <em>For we know that if the tent that is our earthly home is destroyed, we have a building from God, a house not made with hands, eternal in the heavens.</em></li>
+<li><strong>Paul's Other Letters</strong>: Galatians 6:10, Ephesians 2:19, 1&amp;2 Timothy</li>
+<li><strong>Hebrews 3:6</strong>: <em>but Christ is faithful over God's house as a son. And <strong>we are his house</strong>, if indeed we hold fast our confidence and our boasting in our hope.</em></li>
+<li><strong>1 Peter 2:5</strong>: <em>you yourselves like living stones are being built up as a spiritual house, to be a holy priesthood, to offer spiritual sacrifices acceptable to God through Jesus Christ.</em></li>
+</ul>
+
+<p>Ephesians bears a closer look.</p>
+
+<h4>And he came and preached <strong>peace</strong> to you who were far off</h4>
+
+<h4>and <strong>peace</strong> to those who were near.</h4>
+
+<h4>For through him we both have access in one Spirit to the Father.</h4>
+
+<h4>So then you are no longer strangers and aliens,</h4>
+
+<h4>but you are fellow citizens with the saints and</h4>
+
+<h4>members of the household of God, built on the <strong>foundation</strong></h4>
+
+<h4>of the apostles and prophets, Christ Jesus himself being</h4>
+
+<h4>the <strong>cornerstone</strong>, in whom the whole <strong>structure</strong>, being joined together,</h4>
+
+<h4>grows into a <strong>holy temple</strong> in the Lord.</h4>
+
+<h4>In him you also are being built together into</h4>
+
+<h4>a <strong>dwelling place</strong> for God by the Spirit.</h4>
+
+<h6>- Ephesians 2:17-22</h6>
+
+<p>In <em>Plague, Precept, Prophet, Peace</em>, I extended the house analogy to include a foundation and a roof.
+The foundation is given here as the Apostles and Prophets, which I identified with the Law.
+By reference to other patterns which we will get to, I identified Paul's letters with the roof of the house.
+That roof is a roof of peace, as Paul uses the word peace twice as much as any other writer in the Bible.</p>
+
+<h2>Important to Me</h2>
+
+<p>To sell their books, authors work hard to convince readers that the topics on which they expound are of supreme importance.</p>
+
+<ul>
+<li>If it is a cookbook, the recipes don't just taste good, they will extend your life because of their nutritional value.</li>
+<li>If it is a novel, the themes are universal and will transform your view of the world.</li>
+<li>If it is about history, it will help you understand today and enable you to vote for wiser leaders who will save civilization from tyranny.</li>
+</ul>
+
+<p>With me, it is all backwards. I was searching for what I thought was important and found Lady Wisdom's house instead. 
+Only by reflecting on the Bible teachings that most impacted me, by looking for their commonalities and structure so that I could understand
+how salvation works, did I trip over the curb in front of her house. </p>
+
+<p>If you visit different buildings designed by the same architect, if she is a master, you will recognize similarities of proportion, form and design.
+You will see her signature. That is what happened to me. I became so acquainted with some of Lady Wisdom's work that when I looked around the Bible,
+I spotted other places that displayed her signature. Only once I found seven books that mimicked the same pattern did I realize that I had
+unearthed the Seven Pillars of Wisdom.</p>
+
+<h4>“I revealed myself to those who did not ask for me;</h4>
+
+<h5>I was found by those who did not seek me.</h5>
+
+<h4>To a nation that did not call on my name,</h4>
+
+<h5>I said, ‘Here am I, here am I.’ "</h5>
+
+<h6>- Isaiah 65:1</h6>
+
+<p>The person who was pivotal in my process of discovery was Job. You see, Job and I came at things from opposite directions.
+Job had lots of problems and he needed a savior to rescue him from all of them. After enumerating his problems, Job knew
+the capabilities a person would require in order for that person to save him. In my book <em>Job Rises</em>, I called this his
+"Job description for a savior". Job's analysis was spot on. His list prophesied nine aspects of the earthly ministry of Jesus, from start
+to finish, in chronological order.</p>
+
+<p>My problem was the reverse. I already had a savior. I just didn't understand him. I didn't know Jesus well enough to comprehend
+how he saved me. I knew the promises and experienced the results, but the process, the elements of wisdom and how they were 
+applied to my life to effect that transformation, those things eluded me. I could not see God's plan.</p>
+
+<p>As I came to know Job, I also came to know myself. As I uncovered the process of rescue and restoration in Job's life, 
+I began to see patterns in how Jesus saved me. Then once I saw those principles in the Word, clearly spelled out,
+I understood that they are universal principles that can aid anyone. That is one reason why this is important.</p>
+
+<p>Another proof of the importance of these ideas is the magnitude of the changes they brought about in my life. These principles:</p>
+
+<ul>
+<li>Removed the twin fears of death and living a wasted life devoid of impact</li>
+<li>Reoriented my sense of self-worth away from ambition and accomplishment and toward God's undeserved acceptance</li>
+<li>Stopped my chronic nightmares</li>
+<li>Ended a decade of depression and replaced it with joy</li>
+<li>Replaced a score of debilitating physical and mental symptoms of anxiety with peace</li>
+<li>Helped me become productive at work despite significant neurological problems</li>
+<li>Infused empathy into a self-centered person</li>
+<li>Brought self-awareness to a clueless man</li>
+<li>Opened the ears of one who was spiritually deaf</li>
+</ul>
+
+<p>Selling the value of the above benefits isn't hard, as people can relate. What has been hard is connecting the things 
+that I learned to those benefits. The question is how I applied them to obtain those benefits. A simple message of "Believe in Jesus, read the Bible 
+and do what it says" captures it all factually but doesn't explain how it works and how to successfully implement it. 
+For that, a slice of my personal journey is helpful.</p>
+
+<p>Though the shape and outworking of the principles of wisdom are evident in Job, their definition is found in Matthew 
+and Ecclesiastes. If I just sat down and read those two books one day and it all made sense, my books and this website 
+would be superfluous. My best advice then would be, "Believe in Jesus, read Matthew and Ecclesiastes, and do what they say." That would be more focused than the previous message, but equally unhelpful. Those two books did not make sense to me 
+all at once; I had to return to them again and again before I received the full benefit. Here is a little of my history with these two books. May it persuade you that a sustained, ever-deepening inquiry is the only way to uncover such truths. 
+May it also persuade you that I did uncover them.</p>
+
+<p>When I was little, we had a dairy barn. You could still see the frayed rope hanging from the highest rafter.
+It was all that remained of the hangman's noose. Farmer Waters learned his wife and maid were conspiring to kill him and
+take his money. To spite them, he buried his treasure where generations of kids with spades and metal detectors would
+never find it. Then he hung himself. </p>
+
+<p>Almost a century later, two men robbed the Western Union office in Schenectady.
+The tire tracks from their getaway car led behind Farmer Waters' barn. The men were captured and died in prison.
+They never recovered their loot. That treasure was also never recovered.</p>
+
+<p>I grew up on tales of pirates and treasure and tales of Greek Mythology. That cow barn eventually fell down. 
+My siblings and I used to play amid the ruins. At night I sometimes dreamed about crawling under the fallen timbers and through the creeping vines. In my exploration, I stumbled across the ruins of a Greek temple. Its pillars and cross pieces
+still stood, though the roof had collapsed. That was one of my favorite dreams of childhood, weaving together the 
+real relics of our farm with my imagination.</p>
+
+<p>I wouldn't call that dream a prophecy, but I would call it a Dream with a capital "D". It crystallized my desire to 
+uncover long hidden mysteries. I became captivated by architecture, archaeology and history, though math and 
+engineering ended up winning out career-wise. After I became a Christian, I began to associate the temple in 
+that recurring dream from childhood with Lady Wisdom's House. That is just one of my childhood dreams that 
+I reinterpreted after coming to faith. This was part of the process whereby the Holy Spirit colonized my imagination. 
+We are to take every thought captive to Christ, and so I did.</p>
+
+<p>Another way that the Holy Spirit focused my attention on wisdom was by convicting me of folly.
+My father often told me when I was a teen, "Don't be a fool." Once a Christian, I accepted his judgment.
+In January 1988, I made a New Years Resolution to "Get Wisdom". Every day of that year I read from one of the 
+Bible's wisdom books: Proverbs, Job, Psalms, Ecclesiastes, Song of Songs and James. By reading and rereading
+those books, their sayings became part of me.</p>
+
+<p>Between 2004 and 2012, I wrote several Christian fantasy novels. In those stories, the villain's goal was to 
+steal Lady Wisdom's House and use it to overthrow Heaven. A related house in the story was Solomon's House of Mourning, 
+which I made into a franchise of grief counseling centers. Lady Wisdom was the spiritual leader for the centers.</p>
+
+<p>Other features of the stories were based on imagery from the Psalms and Isaiah. In the late eighties, I suffered 
+chronic nightmares. Through prayer and meditation on the Psalms and Isaiah, I was delivered from those nightmares, as recounted in <a href="./dreams.html">Dreams</a>.
+The "Way of Holiness" in Isaiah 35 spoke to me so powerfully that I made that road a feature in my novels 
+fifteen years later. For scenery along the road, I chose twenty-two images, one from each stanza of Psalm 119, with the
+end of the road passing by a flock of sheep to match the Psalm's ending. My interpretation of the Psalm
+was that it was a road that led to a destination: salvation. I had no scholarship, no structural analysis or word studies
+to back that up. It just felt right. Fifteen more years passed and I wrote <a href="./psalm-119.html">"Psalm 119: The Shepherd’s Clock"</a>, a chapter in 
+<em>Peace, like Solomon Never Knew</em>. Armed with a stanza by stanza analysis, I discovered that the Psalm has a direction. As it draws near its
+conclusion, the cries for God to save the psalmist occur more and more often. The Psalm was really a lengthy
+prophecy of the coming of the Christ.</p>
+
+<p>How? The Holy Spirit showed my heart the meaning of the text long before my mind could see it. That is how you 
+learn the wisdom books. Read them. Study them. Don't forget to feel them. Don't neglect to swallow them whole
+and let them permeate your soul. It takes your whole heart to follow them to the end of the road.</p>
+
+<p>So when I came to the conclusion that my research into the wisdom literature had turned up the Seven Pillars of Wisdom,
+this was not an accident. I was primed since my youth to search for them. First, I searched in my dreams. 
+Next, I searched in my novels, through my imagination. Then I searched in the Word, by study, logic and prayer. 
+I did not know what I was searching for until I found it. I identified the Seven Pillars of Wisdom not by searching
+for them directly, but by becoming attuned to their essence and recognizing them when they finally appeared before
+my eyes.</p>
+
+<p>My experience of the Gospel of Matthew was no less deep, but attended by intense study and struggle.
+I delivered the baccalaureate sermon for my high school. The assigned text was on being salt and light, 
+from the Sermon on the Mount. Then in my final semester in college I wrote a paper comparing and contrasting 
+the Gospels of John and Matthew. For that I read each gospel a dozen times or more.</p>
+
+<p>A year or so later, I acquired a copy of Bonhoeffer's <em>The Cost of Discipleship</em>. It took me three years and five attempts
+to finally get through that book. Bonhoeffer based much of his analysis on the Sermon on the Mount. I struggled 
+to live out my faith by his teachings and failed. Studying is easier than obeying.</p>
+
+<p>I stuck with studying. A friend challenged me to make a habit of memorizing scripture. 
+Hoping that better understanding would produce holier living, I memorized the entire Sermon on the Mount. 
+That took months. The effort produced at least three benefits:</p>
+
+<ol>
+<li>The Golden Rule began to make sense.  Finally I saw the connection to the previous verses in the sermon: ask, seek and knock. You cannot do unto others unless you trust in God to give you the resources to help your neighbors. That is why only people of faith can live by that rule. Only people who pray often and trust God to provide will receive the means to bless others regularly.</li>
+<li>Jesus told me not to worry. My lifelong struggle with anxiety was revealed as a spiritual issue and came to the fore. This would become a major preoccupation of mine during the next quarter century. </li>
+<li>Jesus told me to lay up treasures in heaven.</li>
+</ol>
+
+<p>My struggles with point two (anxiety) undermined my success at living out point one (loving my neighbor as myself).
+God's plan was to guide me with point three. What are the heavenly treasures? I had to know! 
+Why couldn't Jesus have given me a list? I spent a few years looking, then gave up for almost a decade. 
+Then in 2004 I took up the search in earnest and persevered for almost a decade until I had my list.
+The result was <em>The Endless Hunt: Or if I've Found God, Why am I still Looking?</em> </p>
+
+<p>In the course of searching for spiritual treasures, I tackled Jesus' parables. I was struck by how he
+told the disciples that if they did not understand the parable of the four soils, how could they 
+understand any of his parables? Since that is one of the most complex of the parables, I was perplexed.
+If Jesus was right, then the others, which seem simpler in comparison, are really more difficult
+to understand. I took this to mean that since the other parables looked simpler to me, I must not really
+understand them as well as I thought. A decade later, it would be that very parable of the soils that 
+unlocked the structure of Job to me. That parable would help me formulate the Harvest Pattern. 
+That in turn helped me recognize the seven pillars of wisdom. </p>
+
+<p>One last peculiarity. About a decade ago, while meditating on the genealogy of Jesus recorded in Matthew, 
+two peculiar thoughts occurred to me. First, I spotted a <a href="./two-patterns-in-history.html">chiasm</a> in the names, a symmetrical parallelism.
+Abraham matched Jesus and David matched Jehoiachin. There seemed to be a symmetry to history.</p>
+
+<p>Second, Matthew made much of there being forty-two generations from Abraham to Christ. 
+What if God measured time not by years, but by <a href="./generational-clocks.html">generations</a> of people?
+How many generations would there be from the creation until Christ returns?</p>
+
+<p>The generations from Abraham to Jesus were heavily overlapping generations. This shortened the time from
+promise to fulfillment, from covenant to Christ. God wanted to send his grace as soon as possible. 
+What if God also wanted to give an unbelieving world the maximum amount of time to repent before sending judgment? 
+If he had a number of generations in mind before sending Jesus back, then by making those generations overlap by 
+but a single year, he could maximize the time of grace. The questions that came to me were these:</p>
+
+<ul>
+<li>How many generations did God plan until all of history would be completed?</li>
+<li>How long for each generation?</li>
+<li>Is there a symmetric pattern of themes in history that flows in keeping with those generations?</li>
+<li>Where in the Bible are we given an expectation that God will measure history in this way?</li>
+</ul>
+
+<p>I hypothesized values for the count and duration and discovered some symmetries in history, 
+but could not find the fourth. Without warrant in Scripture for my idea, I abandoned it for many years.
+Not until I began to study Ecclesiastes did I find where God tells us that he measures history by
+counting generations: in Ecclesiastes 1. It was that half-abandoned idea that was one of the keys
+to uncloaking hundreds of prophesies that are in the Bible but have never been noticed before.
+And it all came to me because I stopped to ponder the meaning of a boring chronology.</p>
+
+<p>That is but a small flavor of how the words of Matthew have propelled me forward. The confusion and questions
+that the gospel stirred up in me drove me to pursue ideas across decades. Most of that time, all I had
+was the questions. I tried to study but soon gave up on violin, trumpet, piano and guitar. 
+I have left stories unfinished, abandoned many dreams and hobbies. 
+Forming long term goals, planning and persevering at tasks despite little progress across most of a lifetime 
+is not in my nature. My character is to be a dilettante and give up easily. That is how I know that my
+study of God's wisdom books does not spring from my own strength and character.</p>
+
+<p>God's wisdom is so important to me that it draws forth an energy and single-minded focus far beyond me.
+Solomon described it well:</p>
+
+<h4>The appetite of laborers works for them;</h4>
+
+<h5>their hunger drives them on.</h5>
+
+<h6>- Proverbs 16:26</h6>
+
+<p>Jesus gave it a religious spin:</p>
+
+<h4>Blessed are those who hunger and thirst for righteousness,</h4>
+
+<h5>for they will be filled.</h5>
+
+<h6>- Matthew 5:6</h6>
+
+<p>It is not a matter of human effort and merit. It is a matter of hunger and thirst.</p>
+
+<p>Read the articles on this website and you will read the words of a thirsty man.</p>
+
+<div class="sections">
+
+Articles exploring Lady Wisdom and her house:
+
+  <ol>
+    <li> <a href="./lady-wisdom.html">Lady Wisdom</a> </li>
+    <li> <a href="./hannah-s-song.html">Hannah's Song</a> </li>
+    <li> <a href="./blueprint.html">Blueprint for Lady Wisdom's House</a> </li>
+    <li> <a href="./foundation.html">Foundation: The Commandments</a> </li>
+    <li> <a href="./seven-spirits.html">Lanterns: The Seven Spirits of God</a> </li>
+    <li> <a href="./seven-pillars-of-wisdom.html">Seven Pillars of Wisdom</a> </li>
+    <li> <a href="./roof-of-peace.html">Roof: Paul's Gospel of Peace</a> </li>
+  </ol>
+
+</div>
+
+      </div>
+
+    </div>
+    <!-- Page Footer -->
+    <div class="footer faint">
+      
+    </div>
+  </div>
+</body>
+</html>

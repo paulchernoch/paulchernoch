@@ -1,0 +1,642 @@
+
+<!DOCTYPE html>
+<head>
+  <!--from template: default-page.html -->
+  <title>Habakkuk's War</title>
+  <link rel="stylesheet" href="./styles/tree.css" type="text/css">
+  <link rel="stylesheet" href="./styles/toc.css" type="text/css">
+  <link rel="stylesheet" href="./styles/article.css" type="text/css">
+  <!-- Font Awesome supplies the icons used in the TOC -->
+  <script src="https://kit.fontawesome.com/ecadd7b212.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="./styles/page.css" type="text/css">
+
+  <script>
+    /* Search for a css class name in an HTML element and replace it with a second class. */
+    function replace_class(element, from_class, to_class) {
+      element.classList.remove(from_class)
+      element.classList.add(to_class)
+    }
+
+    /* Show or hide the table of contents menu in the left sidebar by changing the style classes.
+       Also show and hide the buttons used to open and close the menu.
+     */
+    function toggleLeftSidebar(open) {
+      const sidebar = document.getElementById("leftsidebar");
+      const open_button = document.getElementById("leftsidebaropen");
+      const close_button = document.getElementById("leftsidebarclose");
+      const body = document.getElementById("articlebody")
+     
+      if (open) {
+        replace_class(sidebar, "leftsidebar-closed", "leftsidebar-open")
+        replace_class(open_button, "show-toggle", "hide-toggle")
+        replace_class(close_button, "hide-toggle", "show-toggle")
+        replace_class(body, "body-wide", "body-narrow")
+      }
+      else {
+        replace_class(sidebar, "leftsidebar-open", "leftsidebar-closed")
+        replace_class(open_button, "hide-toggle", "show-toggle")
+        replace_class(close_button, "show-toggle", "hide-toggle")
+        replace_class(body, "body-narrow", "body-wide")
+      }
+   }
+
+  </script>
+</head>
+<html>
+
+
+<body>
+  <!-- Floating buttons to open and close the TOC -->
+  <div id="toggle">
+    <div class="tooltip">
+
+      <a id="leftsidebaropen" class="hide-toggle" role="button" tabindex="1" onclick="toggleLeftSidebar(true)" >
+        <i class="fas fa-angle-double-right"></i>
+        <span class="tooltiptext">Show</span>
+      </a>
+      <a id="leftsidebarclose" class="show-toggle" role="button" tabindex="2" onclick="toggleLeftSidebar(false)">
+        <i class="fas fa-angle-double-left"></i>
+        <span class="tooltiptext">Hide</span>
+      </a>
+    </div>
+  </div>
+  <!-- Page Header -->
+  <div class="header header-colors">
+    <a href="index.html">
+      <img src="images/wisdom-house.png" width="676" height="250"/>
+    </a>
+
+    <div class="quote">in wrath remember mercy <br/> - Habakkuk 3:2c</div>
+
+  </div>
+  <!-- Left Sidebar TOC -->
+  <div class="container">
+    <div id="leftsidebar" class="leftsidebar-open left-side-colors" tabindex="0">
+        <ul class="tree-padding tree-vertical-lines tree-horizontal-lines tree-summaries tree-markers tree-buttons">
+          <li>
+            <details open="">
+              <summary><i class="fa-solid fa-house-chimney"></i> <a href="home.html">Home</a></summary>
+                <ul>
+                  <li><i class="fas fa-address-card"></i> <a href="about.html">About this Site</a></li>
+                  <li><i class="fas fa-feather-alt"></i> <a href="author.html">Author</a></li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-book"></i> <a href="books.html">Books</a></summary>
+                        <ul>
+                          <li> <a href="the-endless-hunt.html">The Endless Hunt</a></li>
+                          <li> <a href="job-rises.html">Job Rises</a></li>
+                          <li> <a href="peace-book.html">Peace, Like Solomon Never Knew</a></li>
+                          <li> <a href="plague-book.html">Plague, Precept, Prophet, Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li><i class="fa-solid fa-user-secret"></i> <a href="secret.html">Shhhh! Secret!</a></li>
+                  <li>
+                    <details>
+                      <summary><i class="fa-solid fa-building-columns"></i> <a href="lady-wisdom-s-house.html">Lady Wisdom's House</a></summary>
+                        <ul>
+                          <li> <a href="lady-wisdom.html">Lady Wisdom</a></li>
+                          <li> <a href="hannah-s-song.html">Hannah's Song</a></li>
+                          <li> <a href="blueprint.html">Blueprint for Lady Wisdom's House</a></li>
+                          <li> <a href="foundation.html">Foundation: The Commandments</a></li>
+                          <li> <a href="seven-spirits.html">Lanterns: The Seven Spirits of God</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="seven-pillars-of-wisdom.html">Seven Pillars of Wisdom</a></summary>
+                                <ul>
+                                  <li> <a href="theme-of-books.html">Theme of Books</a></li>
+                                  <li> <a href="theme-of-swords.html">Theme of Swords</a></li>
+                                  <li> <a href="theme-of-pillars.html">Theme of Pillars</a></li>
+                                  <li> <a href="theme-of-thunders.html">Theme of Thunders</a></li>
+                                  <li> <a href="theme-of-spirits.html">Theme of Spirits</a></li>
+                                  <li> <a href="theme-of-songs.html">Theme of Songs</a></li>
+                                  <li> <a href="theme-of-treasures.html">Theme of Treasures</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="roof-of-peace.html">Roof: Paul's Gospel of Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-seedling"></i> <a href="spiritual-growth.html">Spiritual Growth</a></summary>
+                        <ul>
+                          <li> <a href="most-important-questions.html">What are life's Most Important Questions?</a></li>
+                          <li> <a href="heavenly-treasures.html">What are the Heavenly Treasures?</a></li>
+                          <li> <a href="harvest-pattern.html">The Harvest Pattern of Jesus</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="growth-pattern.html">The Growth Pattern of Solomon</a></summary>
+                                <ul>
+                                  <li> <a href="there-is-a-season.html">There is a Season</a></li>
+                                  <li> <a href="pauls-discipleship-program.html">The Apostle Paul's Discipleship Program</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="the-motherhood-pattern.html">The Motherhood Pattern</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="law-pattern.html">The Law Pattern of Moses</a></summary>
+                                <ul>
+                                  <li> <a href="which-ten-commandments.html">Which Ten Commandments?</a></li>
+                                  <li> <a href="matthew-and-the-law-of-christ.html">Matthew and the Law of Christ</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="the-journey-pattern.html">The Journey Pattern</a></li>
+                          <li> <a href="emotional-prophecies-of-the-psalms.html">Emotional Prophecies of the Psalms</a></li>
+                          <li> <a href="talk-to-god.html">Job and the Ways to Talk to God</a></li>
+                          <li> <a href="job-description-for-a-savior.html">Job Description for a Savior</a></li>
+                          <li> <a href="dreams.html">Dreams</a></li>
+                          <li> <a href="spiritual-warfare.html">Spiritual Warfare</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-hourglass-half"></i> <a href="the-end-times.html">The End Times</a></summary>
+                        <ul>
+                          <li> <a href="seven-cycles-of-judgment.html">Seven Cycles of Judgment</a></li>
+                          <li> <a href="satan-bound-and-released.html">Satan, Bound and Released</a></li>
+                          <li> <a href="the-millennial-kingdom.html">The Millennial Kingdom</a></li>
+                          <li> <a href="the-four-horsemen-of-the-apocalypse.html">The Four Horsemen of the Apocalypse</a></li>
+                          <li> <a href="the-fifth-trumpet.html">The Fifth Trumpet</a></li>
+                          <li> <a href="the-fifth-seal.html">The Fifth Seal</a></li>
+                          <li> <a href="voice-of-the-seven-thunders.html">Voice of the Seven Thunders</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details open="">
+                      <summary><i class="fas fa-list-ol"></i> <a href="numerology.html">Numerology</a></summary>
+                        <ul>
+                          <li> <a href="to-number-our-days.html">To Number our Days</a></li>
+                          <li> <a href="2-is-for-jesus.html">2 is for Jesus</a></li>
+                          <li> <a href="3-is-for-the-father.html">3 is for the Father</a></li>
+                          <li> <a href="4-is-for-cycles-of-nature.html">4 is for Cycles of Nature</a></li>
+                          <li> <a href="5-is-for-grace.html">5 is for Grace</a></li>
+                          <li> <a href="6-is-for-man.html">6 is for Man</a></li>
+                          <li> <a href="7-is-for-the-holy-spirit.html">7 is for the Holy Spirit</a></li>
+                          <li> <a href="17-is-for-victory.html">17 is for Victory</a></li>
+                          <li> <a href="28-is-for-time.html">28 is for Time</a></li>
+                          <li> <a href="40-is-for-suffering.html">40 is for Suffering</a></li>
+                          <li> <a href="42-is-for-the-journey.html">42 is for the Journey</a></li>
+                          <li> <a href="120-is-for-consecration.html">120 is for Consecration</a></li>
+                          <li>
+                            <details open="">
+                              <summary> <a href="153-is-for-total-victory.html">153 is for Total Victory</a></summary>
+                                <ul>
+                                  <li> <a href="153-connections.html">153 Connections</a></li>
+                                  <li> <a href="defining-153.html">Defining 153</a></li>
+                                  <li> <a href="153-and-fear.html">153 and Fear</a></li>
+                                  <li> <a href="153-and-hope.html">153 and Hope</a></li>
+                                  <li> <a href="habakkuk-part-1.html">Habakkuk Part 1</a></li>
+                                  <li> <a href="habakkuk-part-2.html">Habakkuk Part 2</a></li>
+                                  <li> <a href="habakkuk-part-3.html">Habakkuk Part 3</a></li>
+                                  <li> <a href="habakkuk-part-4.html">Habakkuk Part 4</a></li>
+                                  <li> <a href="habakkuk-part-5.html">Habakkuk Part 5</a></li>
+                                  <li> <a href="habakkuk-part-6.html">Habakkuk Part 6</a></li>
+                                  <li> <a href="habakkuk-part-7.html">Habakkuk Part 7</a></li>
+                                  <li> <a href="153-and-the-fifth-trumpet.html">153 and the Fifth Trumpet</a></li>
+                                  <li> <a href="habakkuk-s-war.html">Habakkuk's War</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="210-is-for-peace.html">210 is for Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-scroll"></i> <a href="prophetic-clocks.html">Prophetic Clocks</a></summary>
+                        <ul>
+                          <li> <a href="types-of-clock.html">Types of Clock</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="generational-clocks.html">Generational Clocks</a></summary>
+                                <ul>
+                                  <li> <a href="job-s-anti-jubilee-clock-defined.html">Job's Anti-Jubilee Clock, Defined</a></li>
+                                  <li> <a href="alexander-the-great.html">The Death of Alexander the Great</a></li>
+                                  <li> <a href="psalm-119.html">Psalm 119: The Shepherd's Clock</a></li>
+                                  <li> <a href="generations-come-and-go.html">Generations Come and Go</a></li>
+                                  <li> <a href="two-patterns-in-history.html">Two Patterns in History</a></li>
+                                  <li> <a href="acrostic-clock.html">The Acrostic Clock</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li>
+                            <details>
+                              <summary> <a href="celestial-clocks.html">Celestial Clocks</a></summary>
+                                <ul>
+                                  <li> <a href="grandfather-clock.html">A Grandfather Clock & a Silver Cord</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="spiritual-clocks.html">Spiritual Clocks</a></li>
+                          <li> <a href="empire-clocks.html">Empire Clocks</a></li>
+                          <li> <a href="commandment-clocks.html">Commandment Clocks</a></li>
+                          <li> <a href="other-clocks.html">Other Clocks</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-question-circle"></i> <a href="riddles.html">Riddles</a></summary>
+                        <ul>
+                          <li> <a href="the-righteous-fall-seven-times.html">The Righteous Fall Seven Times</a></li>
+                          <li> <a href="twice-a-thousand-years.html">Twice a Thousand Years</a></li>
+                          <li> <a href="seven-pillars-riddle.html">The Seven Pillars of Wisdom</a></li>
+                          <li> <a href="riddle-of-153-fish.html">Why 153 Fish?</a></li>
+                          <li> <a href="riddles-of-war.html">Riddles of War</a></li>
+                          <li> <a href="building-a-house.html">Building a House</a></li>
+                          <li> <a href="hannah-s-song.html">Hannah's Song</a></li>
+                          <li> <a href="satan-s-taunt.html">Satan's Taunt</a></li>
+                          <li> <a href="vineyard-parable.html">Parable of the Workers in the Vineyard</a></li>
+                          <li> <a href="wedding-parable.html">The Parable of the Wedding Feast</a></li>
+                          <li> <a href="the-childbearing.html">The Childbearing</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fa-solid fa-person-harassing"></i> <a href="a-divided-world.html">A Divided World</a></summary>
+                        <ul>
+                          <li>
+                            <details>
+                              <summary> <a href="against-complementarianism.html">Against Complementarianism</a></summary>
+                                <ul>
+                                  <li> <a href="a-model-for-the-ordination-of-women.html">A Model for the Ordination of Women</a></li>
+                                  <li> <a href="submission.html">Submission</a></li>
+                                  <li> <a href="consecration.html">Consecration</a></li>
+                                  <li> <a href="identification.html">Identification</a></li>
+                                  <li> <a href="quantification.html">Quantification</a></li>
+                                  <li> <a href="reconciliation.html">Reconciliation</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-calendar-alt"></i> <a href="chronology.html">Chronology</a></summary>
+                        <ul>
+                          <li> <a href="dating-the-creation.html">Dating the Creation</a></li>
+                          <li> <a href="sojourn-of-israel.html">Sojourn of Israel</a></li>
+                          <li> <a href="chronology-of-judges.html">Chronology of Judges</a></li>
+                          <li> <a href="lifespan-of-solomon.html">Lifespan of Solomon</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                </ul>
+            </details>
+          </li>
+
+        </ul>
+    </div>
+    <!-- Article Text -->
+    <div id="articlebody" class="body-narrow" tabindex="3">
+      <div class="article">
+        <h1>Habakkuk's War</h1>
+        
+        <p class="date">Published on 2024-03-30</p>
+        
+        <h2>Data Clustering</h2>
+
+<p>A few pages ago, I partially explained the sixth section of Habakkuk. At that time, I asked myself this question: Do I understand this passage? I said no. I redoubled my efforts. I reasoned that if the section addressed all five occupying civilizations from Babylon to the Islamic Empires, plus the sixth and final empire, Leviathan, then there must be a way to divide those sixteen verses into six cohesive parts and match them to history. But how?</p>
+
+<p>Spreadsheets! I decided to manually cluster the verses using the ten sixfold categories I had already discovered. I marked which and how many category phrases occurred in each verse. Then I counted the total number of such phrases and the distinct number of categories that could be found in each verse. Six verses stood out as mentioning the most categories: 2,6,7,9,12 and 16. I then clustered the remaining ten verses with the closest key verse that had similar subject matter. This yielded the following breakdown:</p>
+
+<ul>
+<li>3:1-3. God approaches the field of battle.</li>
+<li>3:4. Defeat of Babylon by Persia.</li>
+<li>3:5-6. Defeat of Persia by Greece.</li>
+<li>3:7-8. Defeat of Greece by Rome.</li>
+<li>3:9-11. Defeat of Rome by Islam.</li>
+<li>3:12-15. Defeat of Islam by the locusts of Europe.</li>
+<li>3:16. Defeat of Leviathan by God.</li>
+</ul>
+
+<p>This approach should not have worked. Instead of discovering the meaning of the text in order to find the structure, I worked out the structure and it gave me the meaning. If not for approaching all of Habakkuk as a math puzzle, which is how this engineer is built, this concept would never have occurred to me. The actual words were the distraction. The surface meaning was a smokescreen. Only by ignoring most of the meaning of the words could I find the pattern. Then with the pattern, the meaning jumped out at me in a few minutes. Here is how to understand the six battles.</p>
+
+<h2>God approaches the field of battle</h2>
+
+<h4>A prayer of Habakkuk the prophet,</h4>
+
+<h5>according to Shigionoth.</h5>
+
+<h4>O Lord, I have heard the report of you,</h4>
+
+<h5>and your work, O Lord, do I fear.</h5>
+
+<h4><strong>In the midst of the years</strong> revive it;</h4>
+
+<h5>in the midst of the years make it known;</h5>
+
+<h5><strong>in wrath remember mercy</strong>.</h5>
+
+<h4>God came from Teman,</h4>
+
+<h5>and the Holy One from Mount Paran.</h5>
+
+<h4>His splendor covered the heavens,</h4>
+
+<h5>and the earth was full of his praise.</h5>
+
+<h6>- Habakkuk 3:1-3</h6>
+
+<p>In the midst of the years… When was that? If human history eventually lasts a full seven thousand years, then 520 BC would be the exact middle. Babylon fell to Persia in 539 BC. Truly this war commenced in the midst of the years.</p>
+
+<h2>Defeat of Babylon by Persia</h2>
+
+<h4>His brightness was like the light;</h4>
+
+<h5>rays flashed from his hand;</h5>
+
+<h5><strong>and there he veiled his power</strong>.</h5>
+
+<h6>- Habakkuk 3:4</h6>
+
+<p>In wrath, the Lord did remember mercy. The most mercy shown to the Jews in all these wars was under Persian rule, as Nehemiah was permitted by the king to rebuild the walls of Jerusalem and Queen Esther found favor with the king and prevented a genocide of the Jews. The verse says “and there he veiled his power”. There is no mention of the name of God in the Book of Esther. Also, going forward, God achieved victory over Israel’s enemies without prophets (as in the years of silence between the testaments), Jewish kings, or wonders as of old. Yes, God truly veiled his power. He did this in secret, without taking credit.</p>
+
+<h2>Defeat of Persia by Greece</h2>
+
+<h4>Before him went pestilence,</h4>
+
+<h5>and plague followed at his heels.</h5>
+
+<h4><strong>He stood and measured the earth</strong>;</h4>
+
+<h5>he looked and shook the nations;</h5>
+
+<h4>then the eternal mountains were scattered;</h4>
+
+<h5>the everlasting hills sank low.</h5>
+
+<h5>His were the everlasting ways.</h5>
+
+<h6>- Habakkuk 3:5-6</h6>
+
+<p>Surely Alexander the Great shook the nations. What identifies this conquest as Greek in nature is philosophy. Who “stood and measured the earth”? The Greek philosopher Eratosthenes measured the circumference of the earth. As for the “everlasting ways”, we owe the underpinnings of much of our science and philosophy to Greek thinkers; their ideas persist to this day.</p>
+
+<h2>Defeat of Greece by Rome</h2>
+
+<h4>I saw the tents of Cushan in affliction;</h4>
+
+<h5>the curtains of the land of Midian did tremble.</h5>
+
+<h4>Was your wrath against the rivers, O Lord?</h4>
+
+<h5>Was your anger against the rivers,</h5>
+
+<h5>or your indignation against the <strong>sea</strong>,</h5>
+
+<h4>when you rode on your <strong>horses</strong>,</h4>
+
+<h5>on your <strong>chariot</strong> of salvation?</h5>
+
+<h6>- Habakkuk 3:7-8</h6>
+
+<p>After Rome defeated Carthage they became master of the Mediterranean Sea. They also had capable cavalry. By Roman times, chariots were mostly used for sport, but chariot racing was Rome’s most popular sport. Taken together, these images of sea, horse and chariot identify Rome as Greece’s attacker.</p>
+
+<h2>Defeat of Rome by Islam</h2>
+
+<h4>You stripped the sheath from your <strong>bow</strong>,</h4>
+
+<h5>calling for many <strong>arrows</strong>.</h5>
+
+<h5>You split the earth with rivers.</h5>
+
+<h4>The mountains saw you and writhed;</h4>
+
+<h5>the raging waters swept on;</h5>
+
+<h4>the deep gave forth its voice;</h4>
+
+<h5>it lifted its hands on high.</h5>
+
+<h4>The sun and <strong>moon</strong> stood still in their place</h4>
+
+<h5>at the light of your <strong>arrows</strong> as they sped,</h5>
+
+<h5>at the flash of your glittering spear.</h5>
+
+<h6>- Habakkuk 3:9-11</h6>
+
+<p>Ishmael, founder of the Arab peoples, was renowned as an archer (Genesis 21:20). In Peace, bow and arrow and the moon were demonstrated to be associated with Mohammed and Islam. The first horseman of the apocalypse rode out with bow in hand to conquer.</p>
+
+<p>The phrase “the sun and moon stood still” is a reference to Joshua 10, when the Lord won the battle for Israel against the Amorites by sending a hailstorm and extending the daylight miraculously so Joshua could pursue their enemies. This means that the Islamic victories over Rome, including capturing Jerusalem and later overthrowing Byzantium, were appointed by God. This explains Habakkuk’s horrified response.</p>
+
+<h2>Defeat of Islam by the locusts of Europe</h2>
+
+<h4>You <strong>marched through the earth</strong> in fury;</h4>
+
+<h5>you <strong>threshed the nations</strong> in anger.</h5>
+
+<h4>You went out for <strong>the salvation of your people</strong>,</h4>
+
+<h5>for the <strong>salvation of your anointed</strong>.</h5>
+
+<h4>You <strong>crushed the head of the house of the wicked</strong>,</h4>
+
+<h5>laying him bare from thigh to neck.</h5>
+
+<h4>You <strong>pierced with his own arrows</strong></h4>
+
+<h5><strong>the heads of his warriors</strong>,</h5>
+
+<h5>who came like a <strong>whirlwind</strong> to scatter me,</h5>
+
+<h5>rejoicing as if to <strong>devour the poor in secret</strong>.</h5>
+
+<h4>You <strong>trampled the sea</strong> with your horses,</h4>
+
+<h5>the surging of mighty waters.</h5>
+
+<h6>- Habakkuk 3:12-15</h6>
+
+<p>By their centuries long colonial expansion the European Christian nations “marched through the earth”, conquered almost all the non-Christian nations of the world and shattered their cultures. “Britannia rules the waves!” was England’s patriotic cry as it “trampled the sea”. Then in the bloodbath of two world wars, they shattered each other. Unlike the progression so far, instead of a new empire displacing the old, this final swarm of locusts destroyed itself.</p>
+
+<p>The phrase “threshed the nations” perfectly describes this event. You thresh the grain after you bring in the sheaves, to separate wheat from chaff. Threshing is a violent process. The harvest was Solomon’s “a time to speak”, from 1800 to 1920. That great missionary age made many converts, but not all sincere ones. The World Wars began the process of separating true believers from false, as evidenced by the sharp decline in church membership in many nations.</p>
+
+<p>With this breakdown of the section in place, it is evident that “crushed the head of the house of the wicked” is a reference to Adolph Hitler and Germany, as suspected. How was he “pierced with his own arrows”? Many weapons invented by the Germans were used against them by the Allies. Arrows can also mean children, as in Psalm 127:4-5. The joke during the Cold War arms race was that America had its Germans and the Russians had their Germans. Defected or captured German scientists were the leaders in rocketry and missile design, and our own Manhattan Project benefited from the contributions of many German scientists.</p>
+
+<p>The answer to Habakkuk’s fervent prayer would be the realization of the words “the salvation of your people”. The shattering of the Ottoman Empire pried Jerusalem from their hands but left it in British hands, the queen of locusts. Then the shattering of the British Empire in World War II enabled the Jews to reclaim their heritage. During that war the Lord used the Nazi U-boats to “[trample] the sea” and sink England’s ships. And the end of the Nazis, whose cities burned in the whirlwind of firestorms caused by massive bombing meant that no longer would there be death camps to “devour the poor in secret”.</p>
+
+<h2>Defeat of Leviathan by God</h2>
+
+<p>One more evil, beastly empire remains. Leviathan is rising as we speak. I will not name it, because I can’t be sure. When I was younger, many Christians thought it would be the USSR. An alternate theory was the European Union. Now some think China. Given its current trajectory, it could be America. Others predict a resurgent Islam. Whatever nation is gripped by Satan’s perfected evil, it will horrify, for that is how Habakkuk received the vision.</p>
+
+<h4>I hear, and my body trembles;</h4>
+
+<h5>my lips quiver at the sound;</h5>
+
+<h4>rottenness enters into my bones;</h4>
+
+<h5>my legs tremble beneath me.</h5>
+
+<h4>Yet I will quietly wait for the day of trouble</h4>
+
+<h5>to come upon people who invade us.</h5>
+
+<h6>- Habakkuk 3:16</h6>
+
+<h2>How long?</h2>
+
+<p>Habakkuk asked God how long all this would take. There is no obvious quantitative statement about how long it would take before Israel would be restored. There is, however, a strong qualitative measure. If we count the number of letters, words, and verses that go with each battle and compare the trends to the actual number of years that each empire controlled Jerusalem, we can draw a conclusion. (The number of Hebrew letters per section varies slightly among different Hebrew versions. I counted letters on the website scripture4all.org .)</p>
+
+<hr/>
+
+<table>
+<thead>
+<tr>
+  <th style="text-align:left;"><strong>Dates of Occupation</strong></th>
+  <th style="text-align:center;"><strong>Years</strong></th>
+  <th style="text-align:center;"><strong>Verses</strong></th>
+  <th style="text-align:center;"><strong>Words</strong></th>
+  <th style="text-align:center;"><strong>Letters</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td style="text-align:left;"><hr></td>
+  <td style="text-align:center;"><hr></td>
+  <td style="text-align:center;"><hr></td>
+  <td style="text-align:center;"><hr></td>
+  <td style="text-align:center;"><hr></td>
+</tr>
+<tr>
+  <td style="text-align:left;">Israel 1407-605 BC</td>
+  <td style="text-align:center;">802</td>
+  <td style="text-align:center;">3</td>
+  <td style="text-align:center;">32</td>
+  <td style="text-align:center;">140</td>
+</tr>
+<tr>
+  <td style="text-align:left;"><hr></td>
+  <td style="text-align:center;"><hr></td>
+  <td style="text-align:center;"><hr></td>
+  <td style="text-align:center;"><hr></td>
+  <td style="text-align:center;"><hr></td>
+</tr>
+<tr>
+  <td style="text-align:left;">Babylon 605-539 BC</td>
+  <td style="text-align:center;">66</td>
+  <td style="text-align:center;">1</td>
+  <td style="text-align:center;">9</td>
+  <td style="text-align:center;">34</td>
+</tr>
+<tr>
+  <td style="text-align:left;"><hr></td>
+  <td style="text-align:center;"><hr></td>
+  <td style="text-align:center;"><hr></td>
+  <td style="text-align:center;"><hr></td>
+  <td style="text-align:center;"><hr></td>
+</tr>
+<tr>
+  <td style="text-align:left;">Persia 539-331 BC</td>
+  <td style="text-align:center;">208</td>
+  <td style="text-align:center;">2</td>
+  <td style="text-align:center;">20</td>
+  <td style="text-align:center;">83</td>
+</tr>
+<tr>
+  <td style="text-align:left;"><hr></td>
+  <td style="text-align:center;"><hr></td>
+  <td style="text-align:center;"><hr></td>
+  <td style="text-align:center;"><hr></td>
+  <td style="text-align:center;"><hr></td>
+</tr>
+<tr>
+  <td style="text-align:left;">Greece <sup>1</sup> 331-63 BC</td>
+  <td style="text-align:center;">266</td>
+  <td style="text-align:center;">2</td>
+  <td style="text-align:center;">23</td>
+  <td style="text-align:center;">99</td>
+</tr>
+<tr>
+  <td style="text-align:left;"><hr></td>
+  <td style="text-align:center;"><hr></td>
+  <td style="text-align:center;"><hr></td>
+  <td style="text-align:center;"><hr></td>
+  <td style="text-align:center;"><hr></td>
+</tr>
+<tr>
+  <td style="text-align:left;">Rome 63 BC-637 AD</td>
+  <td style="text-align:center;">700</td>
+  <td style="text-align:center;">3</td>
+  <td style="text-align:center;">31</td>
+  <td style="text-align:center;">121</td>
+</tr>
+<tr>
+  <td style="text-align:left;"><hr></td>
+  <td style="text-align:center;"><hr></td>
+  <td style="text-align:center;"><hr></td>
+  <td style="text-align:center;"><hr></td>
+  <td style="text-align:center;"><hr></td>
+</tr>
+<tr>
+  <td style="text-align:left;">Islam <sup>2</sup> 637-1099, 1187-1229, 1244-1967</td>
+  <td style="text-align:center;">~1230</td>
+  <td style="text-align:center;">4</td>
+  <td style="text-align:center;">36</td>
+  <td style="text-align:center;">152</td>
+</tr>
+</tbody>
+</table>
+
+<hr/>
+
+<p><sup>1</sup> The dates for Greece do not recognize Jewish Commonwealth or Hasmonean rule of Jerusalem between periods of Seleucid and Roman rule, instead considering the end to be when Rome captured Jerusalem in 60 AD. </p>
+
+<p><sup>2</sup> The dates for Islam recognize the Crusader captures of Jerusalem and the fact that even after Britain in 1917 and later Israel in 1948 wrested control from the Ottomans, Arabs continued to control half of Jerusalem until after the Six Day war in 1967.</p>
+
+<p>The conclusion that can be drawn from the relative lengths of each section is that each new empire or civilization would control Jerusalem longer than the one before it, excepting the original Israel/Judah tenure, which fell in the middle. That message would not be comforting to Habakkuk or the Jews, but it would be truthful. However, by this logic, we can derive an estimate of how long the final empire, Leviathan, should last. With one verse and 18 words, it should last between 66 and 208 years, but closer to the latter. If Solomon’s “time for war” lasts 120 years, that falls within that range. If the war spills over into the beginning of “a time for peace”, it might extend to 150 years or so. This estimate is not exact, but offers hope that the final crisis will be shorter than the ages of Islam, Rome and Greece. Shorter is better. Whatever we conclude, we must acknowledge that the Lord answered even Habakkuk’s toughest question, “How long?”</p>
+
+<p>What is your toughest question for God?</p>
+
+<h2>Assessment</h2>
+
+<p>Before closing out this interpretation of Habakkuk, why should it be trusted any more than others? Jesus said it best. <em>“Or which one of you, if his son asks him for bread, will give him a stone? Or if he asks for a fish, will give him a serpent?”</em> (Matthew 7:9-10) Habakkuk asked God for mercy amid wrath, and the Jews were shown mercy during the time of the indicated empire. He asked for justice and each empire was judged according to the named crimes. He asked when his nation would again see a harvest, and God told Him exactly how many empires to expect and what qualities distinguished one from another.</p>
+
+<p>In the Sea of Galilee there are several varieties of kosher fish, such as <em>Tilapia Galilea</em>, called Saint Peter’s fish. To be kosher, a fish had to have scales. The lake also has Clarias macracanthus, a scaleless fish that can grow to five feet in length and resembles a snake. Many commentators believe that slimy fish is the snake in Jesus’ parable. God did not give Habakkuk slimy, scaleless fish that he could not eat. The Lord answered his questions in detail. If you have Habakkuk’s faith, the Lord will answer yours.</p>
+
+<h2>You talking to me?</h2>
+
+<p>Why will the Lord answer your questions? Why should anyone but Habakkuk and the Jewish people expect this book of prophecy to bring them comfort? Here is why. God had His reasons for concealing so much of this book’s meaning behind riddles. The Lord conceals as a challenge and reward for faith. Only those who study the Word diligently will be rewarded with deep understanding. The Lord conceals because He wants key messages to be released like medicinal time capsules into different ages of history. But the Lord also conceals so that we will not become so focused on the “proper” meaning and “target audience” that we miss the application to our own circumstances.</p>
+
+<p>When I was a depressed, twenty-three year old in danger of being expelled from college, what did I need? If I knew the names of ancient empires and the atrocities they committed against the Jews and each other, how would that help me know God? If I could recognize two millennia of history compressed into a few chapters, would that soothe my soul? It was my ignorance that allowed me to feel kinship with that ancient prophet. I desperately needed an abundant harvest to brighten my worthless, barren life. I programmed my computer to print Habakkuk 3:17-19 to the terminal every time I logged in. Even though I had only the faintest inkling of their meaning, those words gave me hope. For eighteen months, that prayer and that praise became my desperate prayer and my daily praise. The empires that I could not see became the impersonal and destructive forces in my life over which I had no control. A few years later, I graduated from college. If a brand new Christian who knew almost nothing could read words he didn’t understand and find a hope powerful enough to change the course of his life, they can do the same for you. “The righteous will live by his faith.” These words are life.</p>
+
+<p>The “day of trouble” will come with the blowing of the seventh trumpet. The Day of the Lord will come. Lord, help us be like Habakkuk and quiet our spirits as we await that day. Such peace we cannot conjure by our own efforts. Only your Holy Spirit can deliver it to us, and deliver us through the days to come. Lord, give us songs in the night.</p>
+
+<hr>
+
+<p>Links to the other articles in this section:</p>
+
+<ol>
+<li><a href="153-connections.html">Connections to other books</a> The scope of inquiry is given. The riddle is connected to Genesis, Psalms 34 and 119, Jeremiah 32, Habakkuk, John 21,  Matthew 13, and Revelation 9. </li>
+<li><a href="defining-153.html">Defining 153</a> Noah's Flood is shown to have lasted precisely 153 days.</li>
+<li><a href="153-and-fear.html">Fear</a> 153 is connected to the Fear of the Lord through Psalms 24 and 119, Luke 12 and 2 Kings 17.</li>
+<li><a href="153-and-hope.html">Hope</a> Jeremiah connects a related victory number, seventeen (17), to hope. Then the themes of John 21 are connected to Habakkuk.</li>
+<li><a href="habakkuk-part-1.html">Habakkuk: Part 1</a> Analysis of Habakkuk 1:1-4. Habakkuk puts questions to God.</li>
+<li><a href="habakkuk-part-2.html">Habakkuk: Part 2</a> Analysis of Habakkuk 1:5-11. God doubles down: the bitter and hasty Chaldeans are coming.</li>
+<li><a href="habakkuk-part-3.html">Habakkuk: Part 3</a> Analysis of Habakkuk 1:12-2:1. Habakkuk complains with three threes about innocent people caught in a cruel net.</li>
+<li><a href="habakkuk-part-4.html">Habakkuk: Part 4</a> Analysis of Habakkuk 2:2-5. God offers a fourfold assurance to the faithful.</li>
+<li><a href="habakkuk-part-5.html">Habakkuk: Part 5</a> Analysis of Habakkuk 2:6-20. Five woes are pronounced against lawbreakers.</li>
+<li><a href="habakkuk-part-6.html">Habakkuk: Part 6</a> Analysis of Habakkuk 3:1-16. Prophecy of God's coming six-ply war against the wicked.</li>
+<li><a href="habakkuk-part-7.html">Habakkuk: Part 7</a> Analysis of Habakkuk 3:17-19. Six laments over a barren harvest and a seventh praise of God in faith.</li>
+<li><a href="153-and-the-fifth-trumpet.html">The Fifth Trumpet of Revelation</a> The Revelation 9 Plague of Locusts lasts 153 Years.</li>
+<li><a href="habakkuk-s-war.html">Habakkuk's War</a> Revisits the sixth section of Habakkuk with a final insight into God's battle plan.</li>
+</ol>
+
+      </div>
+
+    </div>
+    <!-- Page Footer -->
+    <div class="footer faint">
+      
+    </div>
+  </div>
+</body>
+</html>

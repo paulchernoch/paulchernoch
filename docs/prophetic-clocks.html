@@ -1,0 +1,620 @@
+
+<!DOCTYPE html>
+<head>
+  <!--from template: default-page.html -->
+  <title>Prophetic Clocks</title>
+  <link rel="stylesheet" href="./styles/tree.css" type="text/css">
+  <link rel="stylesheet" href="./styles/toc.css" type="text/css">
+  <link rel="stylesheet" href="./styles/article.css" type="text/css">
+  <!-- Font Awesome supplies the icons used in the TOC -->
+  <script src="https://kit.fontawesome.com/ecadd7b212.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="./styles/page.css" type="text/css">
+
+  <script>
+    /* Search for a css class name in an HTML element and replace it with a second class. */
+    function replace_class(element, from_class, to_class) {
+      element.classList.remove(from_class)
+      element.classList.add(to_class)
+    }
+
+    /* Show or hide the table of contents menu in the left sidebar by changing the style classes.
+       Also show and hide the buttons used to open and close the menu.
+     */
+    function toggleLeftSidebar(open) {
+      const sidebar = document.getElementById("leftsidebar");
+      const open_button = document.getElementById("leftsidebaropen");
+      const close_button = document.getElementById("leftsidebarclose");
+      const body = document.getElementById("articlebody")
+     
+      if (open) {
+        replace_class(sidebar, "leftsidebar-closed", "leftsidebar-open")
+        replace_class(open_button, "show-toggle", "hide-toggle")
+        replace_class(close_button, "hide-toggle", "show-toggle")
+        replace_class(body, "body-wide", "body-narrow")
+      }
+      else {
+        replace_class(sidebar, "leftsidebar-open", "leftsidebar-closed")
+        replace_class(open_button, "hide-toggle", "show-toggle")
+        replace_class(close_button, "show-toggle", "hide-toggle")
+        replace_class(body, "body-narrow", "body-wide")
+      }
+   }
+
+  </script>
+</head>
+<html>
+
+
+<body>
+  <!-- Floating buttons to open and close the TOC -->
+  <div id="toggle">
+    <div class="tooltip">
+
+      <a id="leftsidebaropen" class="hide-toggle" role="button" tabindex="1" onclick="toggleLeftSidebar(true)" >
+        <i class="fas fa-angle-double-right"></i>
+        <span class="tooltiptext">Show</span>
+      </a>
+      <a id="leftsidebarclose" class="show-toggle" role="button" tabindex="2" onclick="toggleLeftSidebar(false)">
+        <i class="fas fa-angle-double-left"></i>
+        <span class="tooltiptext">Hide</span>
+      </a>
+    </div>
+  </div>
+  <!-- Page Header -->
+  <div class="header header-colors">
+    <a href="index.html">
+      <img src="images/wisdom-house.png" width="676" height="250"/>
+    </a>
+
+    <div class="quote">For the Lord God does nothing <br/> without revealing his secret to <br/> his servants the prophets. <br/> - Amos 3:7</div>
+
+  </div>
+  <!-- Left Sidebar TOC -->
+  <div class="container">
+    <div id="leftsidebar" class="leftsidebar-open left-side-colors" tabindex="0">
+        <ul class="tree-padding tree-vertical-lines tree-horizontal-lines tree-summaries tree-markers tree-buttons">
+          <li>
+            <details open="">
+              <summary><i class="fa-solid fa-house-chimney"></i> <a href="home.html">Home</a></summary>
+                <ul>
+                  <li><i class="fas fa-address-card"></i> <a href="about.html">About this Site</a></li>
+                  <li><i class="fas fa-feather-alt"></i> <a href="author.html">Author</a></li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-book"></i> <a href="books.html">Books</a></summary>
+                        <ul>
+                          <li> <a href="the-endless-hunt.html">The Endless Hunt</a></li>
+                          <li> <a href="job-rises.html">Job Rises</a></li>
+                          <li> <a href="peace-book.html">Peace, Like Solomon Never Knew</a></li>
+                          <li> <a href="plague-book.html">Plague, Precept, Prophet, Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li><i class="fa-solid fa-user-secret"></i> <a href="secret.html">Shhhh! Secret!</a></li>
+                  <li>
+                    <details>
+                      <summary><i class="fa-solid fa-building-columns"></i> <a href="lady-wisdom-s-house.html">Lady Wisdom's House</a></summary>
+                        <ul>
+                          <li> <a href="lady-wisdom.html">Lady Wisdom</a></li>
+                          <li> <a href="hannah-s-song.html">Hannah's Song</a></li>
+                          <li> <a href="blueprint.html">Blueprint for Lady Wisdom's House</a></li>
+                          <li> <a href="foundation.html">Foundation: The Commandments</a></li>
+                          <li> <a href="seven-spirits.html">Lanterns: The Seven Spirits of God</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="seven-pillars-of-wisdom.html">Seven Pillars of Wisdom</a></summary>
+                                <ul>
+                                  <li> <a href="theme-of-books.html">Theme of Books</a></li>
+                                  <li> <a href="theme-of-swords.html">Theme of Swords</a></li>
+                                  <li> <a href="theme-of-pillars.html">Theme of Pillars</a></li>
+                                  <li> <a href="theme-of-thunders.html">Theme of Thunders</a></li>
+                                  <li> <a href="theme-of-spirits.html">Theme of Spirits</a></li>
+                                  <li> <a href="theme-of-songs.html">Theme of Songs</a></li>
+                                  <li> <a href="theme-of-treasures.html">Theme of Treasures</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="roof-of-peace.html">Roof: Paul's Gospel of Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-seedling"></i> <a href="spiritual-growth.html">Spiritual Growth</a></summary>
+                        <ul>
+                          <li> <a href="most-important-questions.html">What are life's Most Important Questions?</a></li>
+                          <li> <a href="heavenly-treasures.html">What are the Heavenly Treasures?</a></li>
+                          <li> <a href="harvest-pattern.html">The Harvest Pattern of Jesus</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="growth-pattern.html">The Growth Pattern of Solomon</a></summary>
+                                <ul>
+                                  <li> <a href="there-is-a-season.html">There is a Season</a></li>
+                                  <li> <a href="pauls-discipleship-program.html">The Apostle Paul's Discipleship Program</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="the-motherhood-pattern.html">The Motherhood Pattern</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="law-pattern.html">The Law Pattern of Moses</a></summary>
+                                <ul>
+                                  <li> <a href="which-ten-commandments.html">Which Ten Commandments?</a></li>
+                                  <li> <a href="matthew-and-the-law-of-christ.html">Matthew and the Law of Christ</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="the-journey-pattern.html">The Journey Pattern</a></li>
+                          <li> <a href="emotional-prophecies-of-the-psalms.html">Emotional Prophecies of the Psalms</a></li>
+                          <li> <a href="talk-to-god.html">Job and the Ways to Talk to God</a></li>
+                          <li> <a href="job-description-for-a-savior.html">Job Description for a Savior</a></li>
+                          <li> <a href="dreams.html">Dreams</a></li>
+                          <li> <a href="spiritual-warfare.html">Spiritual Warfare</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-hourglass-half"></i> <a href="the-end-times.html">The End Times</a></summary>
+                        <ul>
+                          <li> <a href="seven-cycles-of-judgment.html">Seven Cycles of Judgment</a></li>
+                          <li> <a href="satan-bound-and-released.html">Satan, Bound and Released</a></li>
+                          <li> <a href="the-millennial-kingdom.html">The Millennial Kingdom</a></li>
+                          <li> <a href="the-four-horsemen-of-the-apocalypse.html">The Four Horsemen of the Apocalypse</a></li>
+                          <li> <a href="the-fifth-trumpet.html">The Fifth Trumpet</a></li>
+                          <li> <a href="the-fifth-seal.html">The Fifth Seal</a></li>
+                          <li> <a href="voice-of-the-seven-thunders.html">Voice of the Seven Thunders</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-list-ol"></i> <a href="numerology.html">Numerology</a></summary>
+                        <ul>
+                          <li> <a href="to-number-our-days.html">To Number our Days</a></li>
+                          <li> <a href="2-is-for-jesus.html">2 is for Jesus</a></li>
+                          <li> <a href="3-is-for-the-father.html">3 is for the Father</a></li>
+                          <li> <a href="4-is-for-cycles-of-nature.html">4 is for Cycles of Nature</a></li>
+                          <li> <a href="5-is-for-grace.html">5 is for Grace</a></li>
+                          <li> <a href="6-is-for-man.html">6 is for Man</a></li>
+                          <li> <a href="7-is-for-the-holy-spirit.html">7 is for the Holy Spirit</a></li>
+                          <li> <a href="17-is-for-victory.html">17 is for Victory</a></li>
+                          <li> <a href="28-is-for-time.html">28 is for Time</a></li>
+                          <li> <a href="40-is-for-suffering.html">40 is for Suffering</a></li>
+                          <li> <a href="42-is-for-the-journey.html">42 is for the Journey</a></li>
+                          <li> <a href="120-is-for-consecration.html">120 is for Consecration</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="153-is-for-total-victory.html">153 is for Total Victory</a></summary>
+                                <ul>
+                                  <li> <a href="153-connections.html">153 Connections</a></li>
+                                  <li> <a href="defining-153.html">Defining 153</a></li>
+                                  <li> <a href="153-and-fear.html">153 and Fear</a></li>
+                                  <li> <a href="153-and-hope.html">153 and Hope</a></li>
+                                  <li> <a href="habakkuk-part-1.html">Habakkuk Part 1</a></li>
+                                  <li> <a href="habakkuk-part-2.html">Habakkuk Part 2</a></li>
+                                  <li> <a href="habakkuk-part-3.html">Habakkuk Part 3</a></li>
+                                  <li> <a href="habakkuk-part-4.html">Habakkuk Part 4</a></li>
+                                  <li> <a href="habakkuk-part-5.html">Habakkuk Part 5</a></li>
+                                  <li> <a href="habakkuk-part-6.html">Habakkuk Part 6</a></li>
+                                  <li> <a href="habakkuk-part-7.html">Habakkuk Part 7</a></li>
+                                  <li> <a href="153-and-the-fifth-trumpet.html">153 and the Fifth Trumpet</a></li>
+                                  <li> <a href="habakkuk-s-war.html">Habakkuk's War</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="210-is-for-peace.html">210 is for Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details open="">
+                      <summary><i class="fas fa-scroll"></i> <a href="prophetic-clocks.html">Prophetic Clocks</a></summary>
+                        <ul>
+                          <li> <a href="types-of-clock.html">Types of Clock</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="generational-clocks.html">Generational Clocks</a></summary>
+                                <ul>
+                                  <li> <a href="job-s-anti-jubilee-clock-defined.html">Job's Anti-Jubilee Clock, Defined</a></li>
+                                  <li> <a href="alexander-the-great.html">The Death of Alexander the Great</a></li>
+                                  <li> <a href="psalm-119.html">Psalm 119: The Shepherd's Clock</a></li>
+                                  <li> <a href="generations-come-and-go.html">Generations Come and Go</a></li>
+                                  <li> <a href="two-patterns-in-history.html">Two Patterns in History</a></li>
+                                  <li> <a href="acrostic-clock.html">The Acrostic Clock</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li>
+                            <details>
+                              <summary> <a href="celestial-clocks.html">Celestial Clocks</a></summary>
+                                <ul>
+                                  <li> <a href="grandfather-clock.html">A Grandfather Clock & a Silver Cord</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="spiritual-clocks.html">Spiritual Clocks</a></li>
+                          <li> <a href="empire-clocks.html">Empire Clocks</a></li>
+                          <li> <a href="commandment-clocks.html">Commandment Clocks</a></li>
+                          <li> <a href="other-clocks.html">Other Clocks</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-question-circle"></i> <a href="riddles.html">Riddles</a></summary>
+                        <ul>
+                          <li> <a href="the-righteous-fall-seven-times.html">The Righteous Fall Seven Times</a></li>
+                          <li> <a href="twice-a-thousand-years.html">Twice a Thousand Years</a></li>
+                          <li> <a href="seven-pillars-riddle.html">The Seven Pillars of Wisdom</a></li>
+                          <li> <a href="riddle-of-153-fish.html">Why 153 Fish?</a></li>
+                          <li> <a href="riddles-of-war.html">Riddles of War</a></li>
+                          <li> <a href="building-a-house.html">Building a House</a></li>
+                          <li> <a href="hannah-s-song.html">Hannah's Song</a></li>
+                          <li> <a href="satan-s-taunt.html">Satan's Taunt</a></li>
+                          <li> <a href="vineyard-parable.html">Parable of the Workers in the Vineyard</a></li>
+                          <li> <a href="wedding-parable.html">The Parable of the Wedding Feast</a></li>
+                          <li> <a href="the-childbearing.html">The Childbearing</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fa-solid fa-person-harassing"></i> <a href="a-divided-world.html">A Divided World</a></summary>
+                        <ul>
+                          <li>
+                            <details>
+                              <summary> <a href="against-complementarianism.html">Against Complementarianism</a></summary>
+                                <ul>
+                                  <li> <a href="a-model-for-the-ordination-of-women.html">A Model for the Ordination of Women</a></li>
+                                  <li> <a href="submission.html">Submission</a></li>
+                                  <li> <a href="consecration.html">Consecration</a></li>
+                                  <li> <a href="identification.html">Identification</a></li>
+                                  <li> <a href="quantification.html">Quantification</a></li>
+                                  <li> <a href="reconciliation.html">Reconciliation</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-calendar-alt"></i> <a href="chronology.html">Chronology</a></summary>
+                        <ul>
+                          <li> <a href="dating-the-creation.html">Dating the Creation</a></li>
+                          <li> <a href="sojourn-of-israel.html">Sojourn of Israel</a></li>
+                          <li> <a href="chronology-of-judges.html">Chronology of Judges</a></li>
+                          <li> <a href="lifespan-of-solomon.html">Lifespan of Solomon</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                </ul>
+            </details>
+          </li>
+
+        </ul>
+    </div>
+    <!-- Article Text -->
+    <div id="articlebody" class="body-narrow" tabindex="3">
+      <div class="article">
+        <h1>Prophetic Clocks</h1>
+        
+        <p class="date">Published on 2024-06-02</p>
+        
+        <p><img class="center" src="images/dove-and-watch.png" /></p>
+
+<h2>The Desire for a Prophetic Clock</h2>
+
+<p>Abraham waited for a son. Israel waited for messiah's birth. The Church waits for Christ's return.
+If we had things our way, God would tell us the year, month and day. We aren't getting things our way.</p>
+
+<p>What are we getting? We are getting riddles. The Bible is filled with them. Some have been decoded.
+Jesus explained to his disciples many prophecies that had been fulfilled by his birth, life and death. 
+After his ascension to Heaven, the Holy Spirit taught the church more.</p>
+
+<p>Most of these prophecies appear to be one-shot mysteries. The prophecy contains one or more details fulfilled 
+by a single event or person. They do not describe God's overarching plan for history. They do not lay
+out long series of events on a timeline so that we can comprehend the big picture.</p>
+
+<p>What would be the benefit of seeing such a timeline? A man holding such a plan in his hands could trace
+out history leading up to the present and see the hand of God in its direction. He could find comfort
+in knowing there is a divine plan and it is on schedule. A woman holding such a plan could see the future.
+She would know what is coming next and so could prepare for dark times.</p>
+
+<p>That man and that woman would be walking by sight and not by faith. God is training us in faith, so He
+has not seen fit for most of history to grant such insight to Israel or the church. Or has He?</p>
+
+<p>Before I answer, I must interject an account of my own heart's desire. As a new Christian, I was excited to 
+learn about the many Bible prophecies that had been fulfilled. They strengthened my faith in Jesus and in 
+the accuracy of his Word. However, those prophecies seemed to clump up. Many were about the coming of the
+the Babylonian Exile and return, the coming of Christ, and the tribulations immediately preceding the 
+second coming of Christ. In between the first and second coming is a huge span of history that seems to
+be glossed over by phrases like "wars and rumors of wars" in Matthew 24:6. Is the whole of my life
+to be lived in some sort of historical ellipsis? Where are the prophecies that will help 
+<strong>ME</strong> live through <strong>MY</strong> generation? Everything I have done in researching and writing on this topic
+has been to find the missing prophetic message for my time, for our time. I have found some of it.
+I continue to look for more. Now back to the question of whether God has given anyone more than tiny hints of His plan. </p>
+
+<p>The prophet Daniel was given such a plan (incomplete though it might be) which identified the next four empires to conquer Israel.
+So was the Apostle John, though Revelation defies the interpretive skills of even the wisest commentators. 
+Those two books seem to be the exceptions, but what exceptions they are! Yet it is the prophet Amos who told us 
+that we should expect to see much more than this:</p>
+
+<h4>Is a trumpet blown in a city,</h4>
+
+<h5>and the people are not afraid?</h5>
+
+<h4>Does disaster come to a city,</h4>
+
+<h5>unless the Lord has done it?</h5>
+
+<h4><strong>“For the Lord God does nothing</strong></h4>
+
+<h5><strong>without revealing his secret</strong></h5>
+
+<h6><strong>to his servants the prophets.</strong></h6>
+
+<h4>The lion has roared;</h4>
+
+<h5>who will not fear?</h5>
+
+<h4>The Lord God has spoken;</h4>
+
+<h5>who can but prophesy?”</h5>
+
+<h6>- Amos 3:6-8</h6>
+
+<p>If the Bible canon is closed (meaning no more books will ever be added to it, as many Christians believe) 
+AND Amos' words can be taken at face value, then the Bible MUST ALREADY contain the details of all of God's 
+major actions in history from beginning to end. We just can't spot them.</p>
+
+<p>It is self-evident that God has not included an unencoded, simple chronology in the Bible.
+This leaves three possibilities:</p>
+
+<ul>
+<li>An unencoded but complex chronology</li>
+<li>An encoded but simple chronology</li>
+<li>An encoded and complex chronology</li>
+</ul>
+
+<p>The elegant simplicity of God's Commandments and laws and Christ's sacrifice argue against the first.
+It is generally our sin and rebellion that blinds us to God's truths, not lack of mathematical ability.
+Likewise, if God saw fit to encode His plan for the future behind parables and riddles, why would
+He add the additional hurdle of a math or logic puzzle? He can do so, of course, but it seems so extra.</p>
+
+<p>That leaves a simple description of history hidden behind a clever series of riddles. 
+What would the ideal message look like? If we got to choose how to structure God's 
+revelation to us of His plan for all history, what would it look like?</p>
+
+<ul>
+<li>It would be regular as a clock. </li>
+<li>It would sort events chronologically, from the first to the last.</li>
+<li>It would progress in even increments, with each era spanning the same number of years. </li>
+</ul>
+
+<p>Setting aside the ideal presentation of the future which God isn't giving us, some sort of
+regular clock is the best we can hope for. Is such a hope realistic?</p>
+
+<p>Yes!</p>
+
+<p>In my books, I patiently set down the case that God has included scores of prophetic clocks in the
+Bible to guide, warn and encourage those who love and trust in Him. The next part of this article 
+originally appeared as the chapter "The Shape of a Prophetic Clock" in <em>Plague, Precept, Prophet, Peace</em>.</p>
+
+<hr/>
+
+<h2>The Shape of a Prophetic Clock</h2>
+
+<p>The Lord speaks to us on His terms. He is not constrained by our expectations.
+Nevertheless, He is also gracious. He knows our weakness. Thus out of my own longing, I
+drew up a list of the things I would expect to see in an acceptable answer. If God really has
+given us a prophetic clock to tick off the generations, it needs to possess certain features or
+else it is incomplete. If incomplete, we will either misapply its prophecies to the wrong
+period in history, misconstrue the meaning, or lack strong hermeneutical reasons for
+trusting it is there at all. Here is the shape that a glorious answer ought to possess:</p>
+
+<ol>
+<li>A declaration that the clock is there to be found.</li>
+<li>The start year.</li>
+<li>The end year.</li>
+<li>The duration of each tick of the clock.</li>
+<li>Matches between historical events and prophecies.</li>
+<li>Chronological arrangement of prophecies.</li>
+<li>Prophecies for every addressed era in history, without gaps.</li>
+<li>The larger theme of the story the Lord is telling us, its goal.</li>
+<li>Reasonable consistency of imagery.</li>
+<li>Synchronization between different prophetic clocks.</li>
+<li>A framework for assembling prophetic clocks into a coherent picture.</li>
+<li>A reason why this detailed prophetic information has been hidden so long.</li>
+<li>A prophecy declaring that God scheduled these mysteries to be revealed in our time.</li>
+</ol>
+
+<p>The logical rebuttal to the above springs from the twelfth point. Nothing so logical,
+structured and comprehensive could possibly both be in the Bible and remain
+undiscovered until today. Any complex of riddles that could not be cracked by the efforts
+of millions of eager truth-seekers, thousands of scholarly geniuses, and saints of
+unmatched piety cannot be useful. If no one in the last three millennia has been able to
+solve them, where shall we find the preacher with the intellect and wit to make their
+meaning plain?</p>
+
+<p>This is not hard to rebut. A divinely simple saying may be concealed by a devilishly
+difficult code. We do this every day when we use modern encryption techniques. The basis
+of some algorithms (like RSA-250) is factorization of composite numbers. The public key
+holds a large composite number which is the product of two large prime numbers. The
+private key contains the prime factors. Those prime factors are required by the decoder to
+unscramble a message. Factoring the composite number would take millennia of computer
+time. The reverse process, multiplying the prime factors to recover the composite number
+and prove you got the factoring right takes nanoseconds. In 2020, cracking an 829-bit
+composite required 2,700 core years of processing. (Many computers cooperated in parallel
+to speed things up.) It is estimated that a 1,024-bit composite would take 500,000 core
+years to crack, something that a large nation could do if it used tens of thousands of
+computers in parallel running for months. The most advanced codes now require even
+larger numbers to keep ahead of hackers. But in the end, once you get the factorization
+right, decoding is easy and the decoded message as simple or complex as the sender
+desires.</p>
+
+<p>The Father has done this. He encoded some simple prophecies using a sophisticated
+code. Once you decode the messages, it is easy to verify that you have done so correctly,
+for they describe the history of the last three thousand years and predict aspects of the
+centuries to come (assuming Jesus does not return first). Concise. Poetic. Methodical.
+Consistent. Comprehensive. Purposeful. Accurate. These properties of the decoded
+prophecies establish marvelous truths:</p>
+
+<ul>
+<li>The Bible is miraculous.</li>
+<li>Its author is divine.</li>
+<li>Many prophetic books conform to common, detailed, and formerly unseen  structures.</li>
+<li>Since the structures were unseen until now, no forger could alter the Bible in a way that preserved the structures while falsifying the message.</li>
+<li>Even if a forger cracked some of the codes and structures, the Word has still not been tampered with, else the prophecies would have been wrecked. Can a false prophet taking the Lord’s name in vain by conveying words the Lord did not speak add true prophecies to the Word?</li>
+<li>Bible prophecies could not have been inserted after the fact as deceitful PR because we have manuscripts going back at least 1500 years (and for some Old Testament Books, 2,000 years) and many prophecies speak of events that occurred since those manuscript copies were made, on schedule.</li>
+<li>The prophetic timelines authenticate the age of the world.</li>
+</ul>
+
+<p>The last point is vital. Some of the prophetic clocks in the Bible start with creation. That
+means that the prophet recorded both future events (prophecies) and past events (history).
+If the future events came true, the author spoke divine insight and eternal truth. That
+same divine source guarantees the accuracy of the backward looking statements. Since
+those backwards looking statements are found in the same rigorous time grid as the
+prophecies, the dating scheme applies to them, too. This fixes the date of the creation
+somewhere between 3950 and 4050 BC. (There are limits to the accuracy of our dating of
+certain Biblical events. Nevertheless, this is a matter of decades, not millennia!
+See the articles in the <a href="./chronology.html">Chronology</a> section for some of my research into that area.)</p>
+
+<p>Peace analyzed thirty-six prophetic clocks. In what follows, we shall tackle around ten
+more. Two were covered in that book (though absent a few details I overlooked and present
+here). They come from Ecclesiastes and Exodus and provide essential context. The third is
+original and comes from Job and concerns the fate of a dozen empires. The fourth is also
+original to this paper, comes also from Exodus, and deals with the history of Israel from
+Joshua to Jesus. The fifth is another clock based on Job. Following a clue from Matthew’s
+genealogy, it matches chapters in Job to the history from Abraham to the first coming of
+Christ. This instantiates the forty-two generations of the Journey Pattern. To round it off,
+there are three clocks in Psalms, an Acrostic Clock formed from a pair of Psalms (111 and 1)
+a master Psalm Clock drawn from fifty psalms scattered throughout that book, and
+one last clock drawn from Psalms 1-28. That last one conforms to the the twenty-eight
+times of Ecclesiastes 3.</p>
+
+<p>The thirteenth and final point in the list is among the hardest to define and defend, but
+the most important. Assume that detailed prophetic clocks do exist and God hid most of
+them until now. What reason do we have for believing that God chose the present time to
+reveal them? The answer is tied up with the scroll of Revelation. Jesus alone was found to
+be worthy to break its seals and open the scroll. People have long speculated about the
+nature and timing of the plagues and calamities that accompany the opening of each seal.
+Making such identification helps you pinpoint in time when each seal was or will be
+broken. What it does not do is tell you what is written on the scroll.
+The words written on the scroll are changing the world. As each seal is broken, insight
+into another of the seven pillars of wisdom is poured out upon the Church, enabling it to
+continue Christ’s mission. Peace argues that four seals have been broken already. The fifth
+is poised to break in our lifetime. Unless you know what those seven pillars are, how they
+are ordered, and with what aspect of civilization each is concerned, you cannot conceive
+what God is about to reveal. Before we can answer that, we need to work out the
+architecture for Lady Wisdom’s house.</p>
+
+<p>Note: In <em>Plague, Precept, Prophet, Peace</em> the next chapter outlined the architecture of Lady Wisdom's House.
+On this website, that is covered in <a href="./blueprint.html">Blueprint for Lady Wisdom's House</a></p>
+
+<hr/>
+
+<h2>Implications of the Prophetic Clocks</h2>
+
+<p>Should the existence of these clocks be real and my interpretation fundamentally true, the implications
+are many and they are significant. In my books, I occasionally comment on them, but such conclusions are scattered about.
+Let's collect a few of them in one place. Once you see them, if you are not motivated to investigate these matters
+more closely, I have failed utterly as a communicator.</p>
+
+<p><strong>God keeps His promises</strong>. Amos told us that God tells his prophet's everything. Everything has its limits, as the
+information content of God's entire plan exceeds our brain capacity. Everything does mean that down to a certain 
+level of detail, God has spelled out His plan for history, generation by generation, from beginning to end.</p>
+
+<p><strong>Human history is finite</strong>. The full number of generations and years has been set. God knows that number and
+despite the reality of human freedom, we won't get any more than that. This makes every day precious. Don't waste yours.</p>
+
+<p><strong>All previous systems are wrong.</strong> Theologians have proposed many systems of eschatology (theories about the end times).
+All of them are wrong. The ones that are least wrong are of the Historicist variety. My ideas spring from that fountain.</p>
+
+<p><strong>Waiting for the Millennial Kingdom is a futile hope.</strong> Some churches teach that Jesus will come back and reign
+for a literal thousand years. He will subdue all the nations and usher in a time of righteousness, peace and prosperity.
+Other churches teach that this kingdom is merely an expression of the gospel spreading slowly until most of the earth believes.
+They say that the thousand years is a round number, symbolic, not literal. Both are wrong. The kingdom was literal 
+and the duration a literal thousand years. However, Jesus was present in spirit, in the hearts of his people, but not in bodily form. That awaits his Second Coming. The emphasis is on the past tense. That kingdom has already come and gone, meaning that...</p>
+
+<p><strong>Satan is unbound.</strong> Satan was already bound for a thousand years and has been released. The time of binding coincided
+with the era of the Millennial Kingdom, roughly 380-1380 AD.</p>
+
+<p><strong>The Great Tribulation has already begun.</strong> The four horsemen of the Apocalypse have already ridden forth.
+The fifth seal on the scroll of Revelation is about to be opened. This means that...</p>
+
+<p><strong>The rapture of the church will not precede the Tribulation.</strong> Christ will descend to rescue his people from this world,
+but it will have to endure much of the Great Tribulation. I do not know whether the Mid-Tribulation or Post-Tribulation
+rapture is the correct view, but the Pre-Tribulation rapture view is wrong.</p>
+
+<p><strong>Most scientists are wrong about our origins.</strong> The earth is less than seven thousand years old. Theories
+such as the Big Bang and macro-evolution are wrong. They hypothesize events that never happened.
+Prophetic clocks accurately predicted the future relative to the times when the prophets lived.
+Those same prophets included backwards looking statements embedded into the same chronological structure as their
+forward looking statements. Some of those clocks look all the way back to the Creation, establishing a date
+for that event that refutes all the scientific theories that contradict it. This means that...</p>
+
+<p><strong>If you trust the scientists on this matter, you will reject God's prophecies.</strong> If those prophecies provide
+actionable warnings, you will not heed them and you will suffer. Furthermore, if you do not trust
+God's Word on this, you will not bother to investigate these matters further. Your unbelief will stop you cold.
+I have not finished passing through the whole Bible and arranging its prophecies according to these principles.
+There is much work that remains to be done. Will that knowledge, put into the Bible by God for such a time as this,
+be found and applied to the problems soon to be faced by the church? It won't be if people refuse to search for it
+because it forces them to admit that the world is not just misguided, it is hopelessly deluded about what
+is real and what is a lie, straight up to the most educated and brilliant of people who advise our leaders.</p>
+
+<p><strong>Colonialism was part of God's Plan.</strong> The violent, thieving expansion of the Christian, European colonial empires
+was prophesied by John in Revelation and by Jesus in Matthew. For example, the Lord said this about nations who
+mistreat his missionaries:
+<em>"The king was angry, and he sent his troops and destroyed those murderers and burned their city."</em> (Matthew 22:7)
+It constitutes part of God's judgment of the wicked for their harsh treatment of the church.
+On the flip side, the Bible also predicts the ultimate judgement upon and loss of territory 
+by those same empires for exceeding their authority and enriching themselves unjustly. Whether you hate colonialism 
+or think it was a positive development in history, it was God's plan. The prophets were horrified that God
+appointed wicked Babylon to punish Israel. If this horrifies you, you are in good company.</p>
+
+<p><strong>The Subjection of Women and their liberation were both part of God's plan.</strong> This subject is so huge
+that I devoted an entire section of the website to it. One small implication of this is that God 
+did not intend for women to serve as pastors or elders in the early church but does desire for them
+to serve as pastors and elders today. The changeover occurred during the 19th century. Thus the feminists
+who claim that a patriarchal early Church opposed God's perfect plan and wrongly prevented women from
+serving in leadership are wrong. On the other hand, traditionalists and complementarians who refuse to 
+allow women to hold such leadership positions in the modern church are equally wrong.
+Only a quantifiable prophetic timetable for God's staged plan for the liberation of women can account for this.
+The people who hold the three positions mentioned above lack such a timetable. Without it, there can be no
+resolution to the problem, for God does not hold either view.
+See <a href="./against-complementarianism.html">Against Complementarianism</a> for details.</p>
+
+<p><strong>Solomon's time to hate is nearly here.</strong> The times of history do not turn on a dime. The end of each time
+gives evidence of the shift to the next. Already the rifts in society are growing. Anti-semitism is on the rise.
+Anti-Christian bigotry, vandalism against church buildings and discrimination in the workplace and in schools 
+are increasingly common. This is not a fad. It will worsen for the rest of this century and continue well 
+into the next.</p>
+
+<p>That is enough of the implications for now. There are more. I do not list them for sport.
+The ideas on this website are hard to swallow. It is a certainty that at least a few of your treasured beliefs
+about Christianity or God will be upended if you adopt these views. That was the case for me.
+I have come to understand that things I believed deeply for many years were not just wrong but hurtful to people
+around me. I would love to continue to hold onto those old views and so conceal my shame, but I won't.
+The truth matters and it is both precious and powerful.</p>
+
+<h2>Show me the Clocks!</h2>
+
+<p>The remaining articles in this section will enumerate the broad categories of prophetic clocks and
+give examples of each. For years I held off exploring this subject because I saw no warrant for the
+first prophetic structure that I found. Not until I began to study Ecclesiastes did I make the
+critical discovery that Solomon has given us a list! He names five categories of prophetic clock.
+There may be more, but this systematic introduction to prophecy was way more than I expected to find!
+It was like God knew millennia ago the question I would ask and had an answer ready to be found...</p>
+
+      </div>
+
+    </div>
+    <!-- Page Footer -->
+    <div class="footer faint">
+      
+    </div>
+  </div>
+</body>
+</html>

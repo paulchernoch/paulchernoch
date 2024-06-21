@@ -1,0 +1,764 @@
+
+<!DOCTYPE html>
+<head>
+  <!--from template: default-page.html -->
+  <title>Dreams</title>
+  <link rel="stylesheet" href="./styles/tree.css" type="text/css">
+  <link rel="stylesheet" href="./styles/toc.css" type="text/css">
+  <link rel="stylesheet" href="./styles/article.css" type="text/css">
+  <!-- Font Awesome supplies the icons used in the TOC -->
+  <script src="https://kit.fontawesome.com/ecadd7b212.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="./styles/page.css" type="text/css">
+
+  <script>
+    /* Search for a css class name in an HTML element and replace it with a second class. */
+    function replace_class(element, from_class, to_class) {
+      element.classList.remove(from_class)
+      element.classList.add(to_class)
+    }
+
+    /* Show or hide the table of contents menu in the left sidebar by changing the style classes.
+       Also show and hide the buttons used to open and close the menu.
+     */
+    function toggleLeftSidebar(open) {
+      const sidebar = document.getElementById("leftsidebar");
+      const open_button = document.getElementById("leftsidebaropen");
+      const close_button = document.getElementById("leftsidebarclose");
+      const body = document.getElementById("articlebody")
+     
+      if (open) {
+        replace_class(sidebar, "leftsidebar-closed", "leftsidebar-open")
+        replace_class(open_button, "show-toggle", "hide-toggle")
+        replace_class(close_button, "hide-toggle", "show-toggle")
+        replace_class(body, "body-wide", "body-narrow")
+      }
+      else {
+        replace_class(sidebar, "leftsidebar-open", "leftsidebar-closed")
+        replace_class(open_button, "hide-toggle", "show-toggle")
+        replace_class(close_button, "show-toggle", "hide-toggle")
+        replace_class(body, "body-narrow", "body-wide")
+      }
+   }
+
+  </script>
+</head>
+<html>
+
+
+<body>
+  <!-- Floating buttons to open and close the TOC -->
+  <div id="toggle">
+    <div class="tooltip">
+
+      <a id="leftsidebaropen" class="hide-toggle" role="button" tabindex="1" onclick="toggleLeftSidebar(true)" >
+        <i class="fas fa-angle-double-right"></i>
+        <span class="tooltiptext">Show</span>
+      </a>
+      <a id="leftsidebarclose" class="show-toggle" role="button" tabindex="2" onclick="toggleLeftSidebar(false)">
+        <i class="fas fa-angle-double-left"></i>
+        <span class="tooltiptext">Hide</span>
+      </a>
+    </div>
+  </div>
+  <!-- Page Header -->
+  <div class="header header-colors">
+    <a href="index.html">
+      <img src="images/wisdom-house.png" width="676" height="250"/>
+    </a>
+
+    <div class="quote">For when dreams increase and words grow many, <br/> there is vanity; <br/> but God is the one you must fear. <br/> - Ecclesiastes 5:7</div>
+
+  </div>
+  <!-- Left Sidebar TOC -->
+  <div class="container">
+    <div id="leftsidebar" class="leftsidebar-open left-side-colors" tabindex="0">
+        <ul class="tree-padding tree-vertical-lines tree-horizontal-lines tree-summaries tree-markers tree-buttons">
+          <li>
+            <details open="">
+              <summary><i class="fa-solid fa-house-chimney"></i> <a href="home.html">Home</a></summary>
+                <ul>
+                  <li><i class="fas fa-address-card"></i> <a href="about.html">About this Site</a></li>
+                  <li><i class="fas fa-feather-alt"></i> <a href="author.html">Author</a></li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-book"></i> <a href="books.html">Books</a></summary>
+                        <ul>
+                          <li> <a href="the-endless-hunt.html">The Endless Hunt</a></li>
+                          <li> <a href="job-rises.html">Job Rises</a></li>
+                          <li> <a href="peace-book.html">Peace, Like Solomon Never Knew</a></li>
+                          <li> <a href="plague-book.html">Plague, Precept, Prophet, Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li><i class="fa-solid fa-user-secret"></i> <a href="secret.html">Shhhh! Secret!</a></li>
+                  <li>
+                    <details>
+                      <summary><i class="fa-solid fa-building-columns"></i> <a href="lady-wisdom-s-house.html">Lady Wisdom's House</a></summary>
+                        <ul>
+                          <li> <a href="lady-wisdom.html">Lady Wisdom</a></li>
+                          <li> <a href="hannah-s-song.html">Hannah's Song</a></li>
+                          <li> <a href="blueprint.html">Blueprint for Lady Wisdom's House</a></li>
+                          <li> <a href="foundation.html">Foundation: The Commandments</a></li>
+                          <li> <a href="seven-spirits.html">Lanterns: The Seven Spirits of God</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="seven-pillars-of-wisdom.html">Seven Pillars of Wisdom</a></summary>
+                                <ul>
+                                  <li> <a href="theme-of-books.html">Theme of Books</a></li>
+                                  <li> <a href="theme-of-swords.html">Theme of Swords</a></li>
+                                  <li> <a href="theme-of-pillars.html">Theme of Pillars</a></li>
+                                  <li> <a href="theme-of-thunders.html">Theme of Thunders</a></li>
+                                  <li> <a href="theme-of-spirits.html">Theme of Spirits</a></li>
+                                  <li> <a href="theme-of-songs.html">Theme of Songs</a></li>
+                                  <li> <a href="theme-of-treasures.html">Theme of Treasures</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="roof-of-peace.html">Roof: Paul's Gospel of Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details open="">
+                      <summary><i class="fas fa-seedling"></i> <a href="spiritual-growth.html">Spiritual Growth</a></summary>
+                        <ul>
+                          <li> <a href="most-important-questions.html">What are life's Most Important Questions?</a></li>
+                          <li> <a href="heavenly-treasures.html">What are the Heavenly Treasures?</a></li>
+                          <li> <a href="harvest-pattern.html">The Harvest Pattern of Jesus</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="growth-pattern.html">The Growth Pattern of Solomon</a></summary>
+                                <ul>
+                                  <li> <a href="there-is-a-season.html">There is a Season</a></li>
+                                  <li> <a href="pauls-discipleship-program.html">The Apostle Paul's Discipleship Program</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="the-motherhood-pattern.html">The Motherhood Pattern</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="law-pattern.html">The Law Pattern of Moses</a></summary>
+                                <ul>
+                                  <li> <a href="which-ten-commandments.html">Which Ten Commandments?</a></li>
+                                  <li> <a href="matthew-and-the-law-of-christ.html">Matthew and the Law of Christ</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="the-journey-pattern.html">The Journey Pattern</a></li>
+                          <li> <a href="emotional-prophecies-of-the-psalms.html">Emotional Prophecies of the Psalms</a></li>
+                          <li> <a href="talk-to-god.html">Job and the Ways to Talk to God</a></li>
+                          <li> <a href="job-description-for-a-savior.html">Job Description for a Savior</a></li>
+                          <li> <a href="dreams.html">Dreams</a></li>
+                          <li> <a href="spiritual-warfare.html">Spiritual Warfare</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-hourglass-half"></i> <a href="the-end-times.html">The End Times</a></summary>
+                        <ul>
+                          <li> <a href="seven-cycles-of-judgment.html">Seven Cycles of Judgment</a></li>
+                          <li> <a href="satan-bound-and-released.html">Satan, Bound and Released</a></li>
+                          <li> <a href="the-millennial-kingdom.html">The Millennial Kingdom</a></li>
+                          <li> <a href="the-four-horsemen-of-the-apocalypse.html">The Four Horsemen of the Apocalypse</a></li>
+                          <li> <a href="the-fifth-trumpet.html">The Fifth Trumpet</a></li>
+                          <li> <a href="the-fifth-seal.html">The Fifth Seal</a></li>
+                          <li> <a href="voice-of-the-seven-thunders.html">Voice of the Seven Thunders</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-list-ol"></i> <a href="numerology.html">Numerology</a></summary>
+                        <ul>
+                          <li> <a href="to-number-our-days.html">To Number our Days</a></li>
+                          <li> <a href="2-is-for-jesus.html">2 is for Jesus</a></li>
+                          <li> <a href="3-is-for-the-father.html">3 is for the Father</a></li>
+                          <li> <a href="4-is-for-cycles-of-nature.html">4 is for Cycles of Nature</a></li>
+                          <li> <a href="5-is-for-grace.html">5 is for Grace</a></li>
+                          <li> <a href="6-is-for-man.html">6 is for Man</a></li>
+                          <li> <a href="7-is-for-the-holy-spirit.html">7 is for the Holy Spirit</a></li>
+                          <li> <a href="17-is-for-victory.html">17 is for Victory</a></li>
+                          <li> <a href="28-is-for-time.html">28 is for Time</a></li>
+                          <li> <a href="40-is-for-suffering.html">40 is for Suffering</a></li>
+                          <li> <a href="42-is-for-the-journey.html">42 is for the Journey</a></li>
+                          <li> <a href="120-is-for-consecration.html">120 is for Consecration</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="153-is-for-total-victory.html">153 is for Total Victory</a></summary>
+                                <ul>
+                                  <li> <a href="153-connections.html">153 Connections</a></li>
+                                  <li> <a href="defining-153.html">Defining 153</a></li>
+                                  <li> <a href="153-and-fear.html">153 and Fear</a></li>
+                                  <li> <a href="153-and-hope.html">153 and Hope</a></li>
+                                  <li> <a href="habakkuk-part-1.html">Habakkuk Part 1</a></li>
+                                  <li> <a href="habakkuk-part-2.html">Habakkuk Part 2</a></li>
+                                  <li> <a href="habakkuk-part-3.html">Habakkuk Part 3</a></li>
+                                  <li> <a href="habakkuk-part-4.html">Habakkuk Part 4</a></li>
+                                  <li> <a href="habakkuk-part-5.html">Habakkuk Part 5</a></li>
+                                  <li> <a href="habakkuk-part-6.html">Habakkuk Part 6</a></li>
+                                  <li> <a href="habakkuk-part-7.html">Habakkuk Part 7</a></li>
+                                  <li> <a href="153-and-the-fifth-trumpet.html">153 and the Fifth Trumpet</a></li>
+                                  <li> <a href="habakkuk-s-war.html">Habakkuk's War</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="210-is-for-peace.html">210 is for Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-scroll"></i> <a href="prophetic-clocks.html">Prophetic Clocks</a></summary>
+                        <ul>
+                          <li> <a href="types-of-clock.html">Types of Clock</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="generational-clocks.html">Generational Clocks</a></summary>
+                                <ul>
+                                  <li> <a href="job-s-anti-jubilee-clock-defined.html">Job's Anti-Jubilee Clock, Defined</a></li>
+                                  <li> <a href="alexander-the-great.html">The Death of Alexander the Great</a></li>
+                                  <li> <a href="psalm-119.html">Psalm 119: The Shepherd's Clock</a></li>
+                                  <li> <a href="generations-come-and-go.html">Generations Come and Go</a></li>
+                                  <li> <a href="two-patterns-in-history.html">Two Patterns in History</a></li>
+                                  <li> <a href="acrostic-clock.html">The Acrostic Clock</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li>
+                            <details>
+                              <summary> <a href="celestial-clocks.html">Celestial Clocks</a></summary>
+                                <ul>
+                                  <li> <a href="grandfather-clock.html">A Grandfather Clock & a Silver Cord</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="spiritual-clocks.html">Spiritual Clocks</a></li>
+                          <li> <a href="empire-clocks.html">Empire Clocks</a></li>
+                          <li> <a href="commandment-clocks.html">Commandment Clocks</a></li>
+                          <li> <a href="other-clocks.html">Other Clocks</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-question-circle"></i> <a href="riddles.html">Riddles</a></summary>
+                        <ul>
+                          <li> <a href="the-righteous-fall-seven-times.html">The Righteous Fall Seven Times</a></li>
+                          <li> <a href="twice-a-thousand-years.html">Twice a Thousand Years</a></li>
+                          <li> <a href="seven-pillars-riddle.html">The Seven Pillars of Wisdom</a></li>
+                          <li> <a href="riddle-of-153-fish.html">Why 153 Fish?</a></li>
+                          <li> <a href="riddles-of-war.html">Riddles of War</a></li>
+                          <li> <a href="building-a-house.html">Building a House</a></li>
+                          <li> <a href="hannah-s-song.html">Hannah's Song</a></li>
+                          <li> <a href="satan-s-taunt.html">Satan's Taunt</a></li>
+                          <li> <a href="vineyard-parable.html">Parable of the Workers in the Vineyard</a></li>
+                          <li> <a href="wedding-parable.html">The Parable of the Wedding Feast</a></li>
+                          <li> <a href="the-childbearing.html">The Childbearing</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fa-solid fa-person-harassing"></i> <a href="a-divided-world.html">A Divided World</a></summary>
+                        <ul>
+                          <li>
+                            <details>
+                              <summary> <a href="against-complementarianism.html">Against Complementarianism</a></summary>
+                                <ul>
+                                  <li> <a href="a-model-for-the-ordination-of-women.html">A Model for the Ordination of Women</a></li>
+                                  <li> <a href="submission.html">Submission</a></li>
+                                  <li> <a href="consecration.html">Consecration</a></li>
+                                  <li> <a href="identification.html">Identification</a></li>
+                                  <li> <a href="quantification.html">Quantification</a></li>
+                                  <li> <a href="reconciliation.html">Reconciliation</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-calendar-alt"></i> <a href="chronology.html">Chronology</a></summary>
+                        <ul>
+                          <li> <a href="dating-the-creation.html">Dating the Creation</a></li>
+                          <li> <a href="sojourn-of-israel.html">Sojourn of Israel</a></li>
+                          <li> <a href="chronology-of-judges.html">Chronology of Judges</a></li>
+                          <li> <a href="lifespan-of-solomon.html">Lifespan of Solomon</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                </ul>
+            </details>
+          </li>
+
+        </ul>
+    </div>
+    <!-- Article Text -->
+    <div id="articlebody" class="body-narrow" tabindex="3">
+      <div class="article">
+        <h1>Dreams</h1>
+        
+        <p class="date">Published on 2024-04-16</p>
+        
+        <p><img class="center" src="images/tornado-dream.png" /></p>
+
+<p>This article shares what the author has learned about how to interpret dreams.
+The main takeaways are:</p>
+
+<ul>
+<li>Who sent the dream? Not all dreams are messages from God. Learn to discern.</li>
+<li>Does the dream align with other sources of wisdom? No valid dream will contradict the Bible.</li>
+<li>Does the dream bear good fruit? God means us good. The devil means to destroy.</li>
+</ul>
+
+<h2>Types of Dreams</h2>
+
+<p>Eighteen books in the Bible speak of dreams. How are dreams regarded by the prophets and apostles?</p>
+
+<ol>
+<li>As a divine promise (Gen 28, 37, 40) or offer (1 Kings 3)</li>
+<li>As commands from God to take specific positive action (Matthew 1)</li>
+<li>As commands from God to refrain from taking action (Gen 31; Matthew 27)</li>
+<li>As warnings from God to save people in danger (Matthew 2)</li>
+<li>As predictions of future events, enabling the wise to plan ahead (Gen 31, 41; Judges 7)</li>
+<li>As predictions of future judgment, affording the humble opportunity to change course (Gen 20; Daniel 4)</li>
+<li>As predictions of unalterable future judgment (Gen 40; Daniel 2; Daniel 7, Revelation)</li>
+<li>As clear rebukes from God of past actions, affording the contrite opportunity to repent</li>
+<li>As a lesser form of communication than hearing God's direct words (Numbers 12)</li>
+<li>As a charismatic gift without regard to what is communicated (Daniel 5; Joel 2; Acts 2)</li>
+<li>As unclear nightmares sent by God to correct and rescue those going astray (Job 33)</li>
+<li>As nightmares from an unknown source, possibly Satanic (Job 7)</li>
+<li>As the day's cares and worries given new form (Ecclesiastes 5)</li>
+<li>As a metaphor for transitory, unreliable things easily dispelled (Job 20; Psalms 73, 90; Isaiah 29)</li>
+<li>As a metaphor for an impossibly good outcome (Psalm 126)</li>
+<li>As romantic longing (Song of Songs 3)</li>
+<li>As negligence, asleep on the job (Isaiah 56)</li>
+<li>As unwise speculations or leaning on actual dreams not from God (Colossians 2; Jude)</li>
+<li>As lies told by false prophets (Deuteronomy 13; Jeremiah 23, 27, 29; Zechariah 10)</li>
+<li>As deceptions sent by evil spirits (Job 4)</li>
+<li>As suppressed by God in judgment (1 Sam 28)</li>
+</ol>
+
+<p>Dreams are dangerous. </p>
+
+<ul>
+<li>Ignore a true dream from God and you will go astray or lose a blessing.</li>
+<li>Misinterpret a dream and you may make a mess of things.</li>
+<li>Misuse your dreams in pride to gain status in the church and you will be judged.</li>
+<li>Embrace a false dream from the enemy and you place your soul in jeopardy.</li>
+</ul>
+
+<p>With this diversity of the possible species of meaning (or meaninglessness) of dreams, 
+how can anyone safely make use of them? I know of only one person granted the ability to
+correctly discern the truth from among all these types of dreams.</p>
+
+<h4>... and Daniel had understanding in <strong>all visions and dreams</strong>.</h4>
+
+<h6>- Daniel 1:17</h6>
+
+<p>I am no Daniel. I have not personally experienced all of the types of dream listed above.
+I have experienced some (actually most of them). God has warned me away from folly. 
+He has warned me of danger. He has prepared me for difficulty. He has disciplined me for not listening.
+I have also heeded dreams that were not from God and suffered dearly for it.
+Nightmares from Satan destabilized my emotional life for years. All these experiences 
+have taught me that you must be careful how you interpret and act on dreams. 
+The Bible offers much guidance and we should not neglect it. The most important
+thing to know is that you should <strong>never act solely on the basis of a dream</strong>.
+We are given other sources of wisdom that we must combine with our dreams in 
+order to understand them aright.</p>
+
+<h2>The Power of a God-given Dream</h2>
+
+<p>Let's start with the up-side. By God's grace, shortly after I became a Christian,
+I had a powerful and positive dream that permanently changed me for the better.
+This showed me the promise of what a dream from God can accomplish, but gave me a 
+one-sided view of things that would need correcting later.</p>
+
+<p>It was the fall of 1985. I had just started my undergrad physics thesis. A month before,
+I joined a good Bible study sponsored by the United Christian Fellowship, a group
+formed by the merger of several campus Christian groups, including Intervarsity (IVCF).
+I was struggling as a student and suffering depression, anxiety and other emotional problems.
+I felt like a failure who had not made any positive contribution to the world.
+This is called the "existential fear of life", the fear of living a wasted life.
+I was also afraid of death. My fear of death was closely tied to my fear of life.
+If I died, my life would have been an incomplete waste of time.</p>
+
+<p>That Fall I had a recurring dream. In the dream, I was in bed, shaving with my electric razor.
+As I shaved, the razor shorted and I was electrocuted. As the shock passed through my body, 
+I knew I was about to die. However, instead of feeling scared, incomplete or worthless, 
+my last thought as the dream ended was that I was going to be with Jesus. I was filled with
+peace.</p>
+
+<p>Since that month, I have never been afraid of dying. Nor have I fear that my life is worthless.
+My ambition was taken from me. I no longer felt the need to strive to be accepted. 
+Jesus accepted me the way I was. Even if I accomplished no more in this life than I already had,
+it was enough.</p>
+
+<p>I knew that the dream was from the Lord. It changed me. It healed me. It was mysterious.
+I never thought to question where it came from. Only decades later did I make the connection.
+A month before the dreams started, my Bible study leader had us memorize a passage from Galatians:</p>
+
+<h4>I have been crucified with Christ.</h4>
+
+<h4>It is no longer I who live,</h4>
+
+<h4>but Christ who lives in me.</h4>
+
+<h4>And the life I now live in the flesh I live</h4>
+
+<h4>by faith in the Son of God, who loved me</h4>
+
+<h4>and gave himself for me.</h4>
+
+<h4>I do not nullify the grace of God,</h4>
+
+<h4>for if righteousness were through the law,</h4>
+
+<h4>then Christ died for no purpose.</h4>
+
+<h6>- Galatians 2:20-21</h6>
+
+<p><em>I did not understand</em> the words that I had memorized, but they changed me.
+Those words are about putting on a new identity in Christ. That new
+person need fear nothing and is perfect in the eyes of God, accepted
+and loved and forgiven. That dream was just my heart catching up with
+what the words were doing inside my soul. </p>
+
+<p>This is the first and most important lesson of dreams:</p>
+
+<p><strong>Does your dream align with the Word of God? Does it leap forth from that Word?</strong></p>
+
+<p>The second lesson is that this dream brought peace. Not all dreams must bring peace.
+Some are to judge, to discipline, or to warn. They lead to peace only if you heed them.</p>
+
+<p>There is a special reason for mentioning this dream first. It came true twice.
+It makes me choke up just thinking about it. My father and I had a difficult relationship
+for decades. In the last decade of his life, things improved markedly and we became close.
+Even so, I prayed many times for him to soften his anger at God and trust in Jesus.
+He was raised Catholic but grew bitter in his middle years. He often ridiculed my faith.
+Towards the end, when his health was failing, he told us not to revive him if anything happened.
+Then he told my wife on the phone, "God isn't done with me yet." He had a heart attack,
+but because of what my wife said, we told the doctors to revive him. My dad told us afterwards,
+"I need to take care of Martha." His wife was in worse shape than him and he would not let go
+so long as she was alive.</p>
+
+<p>I continued to pray for my father and the Lord led me to the passage about the sheep and the goats.
+Some of the sheep said, "When did we ever do anything for you?" But Jesus assured them that
+if they did something good for the least of his brothers, they also did for him.
+In the last few years of his life, my dad became a father to my wife, whose own father had been cruel. 
+The change in his personality and kindness he showed us was evidence that he was a different man. 
+My wife and I are Jesus' brother and sister, so my father did show the Lord kindness.
+God gave me peace while reading a book on the doctrine of blessed assurance that my father would 
+go to heaven.</p>
+
+<p>During COVID-19, my dad's condition worsened. I visited him at the hospital. He asked me to do 
+him a favor. He wanted me to fetch his electric razor from his apartment. I got it and recharged 
+or replaced the batteries. I shot a video of him shaving with his razor, sitting on his hospital bed.
+It is the last picture we have of him before he died a few days later.</p>
+
+<p>God knew. Decades ago, when I first had that dream, God knew. He knew I would one day be in torment over
+whether my father would go to heaven or not. He gave me a dream about being at peace with Jesus
+at the hour of my death, with a razor in my hand. It was not enough for God to send me a dream 
+to let me know that MY life was not a waste. He also used the same dream to tell me that my FATHER'S
+life was not a waste.</p>
+
+<p>That is the good that a dream from God can do. Now, for the bad news.</p>
+
+<h2>Dreams and the Occult</h2>
+
+<p>As a teen, dreams held a fascination for me. One night I dreamt that a close friend was moving away.
+The next day at school she told me her family was moving to Virginia.</p>
+
+<p>My grandparents' eccentric neighbor fed my interest. Kay Boardman kept dozens of cats and had a large
+hand bell collection. She gave me books on the Bermuda Triangle, ESP and astral travel. 
+I followed the visualization exercises in one book. The hardest part was imagining color.
+This is the trick I figured out. I would imagine the black cards in a deck of playing cards.
+Then I would work on imagining the hearts and diamonds. Once I could see red, all the other colors
+followed quickly. It took hours of focus over the course of several weeks, but I was finally able to imagine
+any still image that I wanted, in broad daylight, with my eyes open. I could make the world disappear.</p>
+
+<p>Once I had managed that, the next thing was capturing motion. Pretty soon I could imagine myself
+flying over the countryside, looking down on the fields. Then one day, while lying in bed, I 
+repeated this exercise, but it felt different. It was as though my spirit lifted out of my body
+and hovered near the ceiling. I looked down and could see my body motionless below.</p>
+
+<p>I only did this once. I stopped the visualization exercises and never repeated them.
+The experience was exciting and mysterious. I wasn't afraid and no one told me to stop.
+I cannot explain what caused me to lose interest in this occult practice.
+I was Catholic, but had not yet been born again. The only explanation that makes sense is that God
+sovereignly took away my interest for my own protection.</p>
+
+<p>Is astral travel real? Or is it a form of self-hypnosis? The answer to that question is immaterial to me.
+What matters is that I was dabbling in the occult, signaling a willingness to open myself up 
+to forces that I did not understand and which God forbids. I would one day pay a price.</p>
+
+<p>Fast forward about a decade. In my late twenties I read lots of Christian books about the end times,
+most of shoddy scholarship. I began to have apocalyptic nightmares. Bursting dams swept me away in a flood.
+Wild animals attacked me. One family member became a drug addict and another left the faith. 
+Christians had to meet in secret to avoid persecution. These nightmares persisted for over a year.
+It destabilized my life. How do you plan for the future when you think we don't have any?</p>
+
+<p>What if someone back then said that if I didn't like the nightmares, I should just stop having them? 
+I would have gotten angry. I would have claimed it was beyond my power to do that. 
+I would also have been wrong. I would eventually learn two of the causes of my nightmares:
+pride and my early experiments with the occult. The occult involvement explains the form of my oppression,
+but it was the pride that caused me to hold onto the nightmares.</p>
+
+<p>What if the nightmares were from God? That would mean that I was hearing messages from God. 
+That would mean I was special. It would give me authority. People would have to listen to me.
+That pride was the force that kept churning my subconscious and generating those dreams.
+I was refusing to let go of the torment because my identity was tied up in being someone to whom God 
+speaks via dreams.</p>
+
+<p>Eventually, the nightmares became so severe that I sought help from my pastor, Larry Showalter. 
+He prayed over me, then I left. Then something clicked. God gave me a special wisdom, a way out.
+Every time I had a nightmare, I would recall the imagery from the dream. I would use a Bible concordance
+to look up passages with those images and meditate on them. Most of the time the concordance led me
+to Psalms or Isaiah. I would throw away all meaning from the dream and only focus on the meaning in the 
+Psalm or prophet.</p>
+
+<p>The worse the nightmares became, the more I read the Bible. The more I read the Bible, the more
+my emotions healed. Eventually the devil gave up.</p>
+
+<p>Of all the torments, the worst was being torn by wild beasts. The verses that comforted me most were these:</p>
+
+<h4>And a highway shall be there,</h4>
+
+<h5>and it shall be called <strong>the Way of Holiness</strong>;</h5>
+
+<h6>the unclean shall not pass over it.</h6>
+
+<h4>It shall belong to those who walk on the way;</h4>
+
+<h5><strong>even if they are fools, they shall not go astray</strong>.</h5>
+
+<h4><strong>No lion shall be there</strong>,</h4>
+
+<h5><strong>nor shall any ravenous beast</strong> come up on it;</h5>
+
+<h4>they shall not be found there,</h4>
+
+<h5>but the redeemed shall walk there.</h5>
+
+<h4>And the ransomed of the Lord shall return</h4>
+
+<h5>and come to Zion with singing;</h5>
+
+<h4>everlasting joy shall be upon their heads;</h4>
+
+<h5>they shall obtain gladness and joy,</h5>
+
+<h5>and sorrow and sighing shall flee away.</h5>
+
+<h6>- Isaiah 35:8-10</h6>
+
+<p>The Lord told me that if I pursued holiness I would never have cause to fear 
+the wild beasts of this world.</p>
+
+<p>You would think that this experience would have cured me of my pride and 
+attraction to false dreams. It did not. A few years later (in 1992), in a time
+of emotional turmoil when my life was spinning out of control, I seized
+on dreams again to empower me. I was self-deceived. I gave several people 
+advice based on dreams that I had. I was seeing a Christian counselor at the time.
+I still remember the day that I had the realization that I was a false prophet.
+I wept, terrified that God would kill me. I begged his forgiveness.
+I also swore off trying to manipulate others by use of my dreams.</p>
+
+<p>For several years after that, I had no dreams that suggested anything remotely prophetic.
+This is item #21 on my list, when God suppresses a gift or ability in judgment or for discipline.
+Then I began to on rare occasions have meaningful dreams, but they are not for others. 
+They were only for me, to warn, guide or encourage me personally. I had failed the test that 
+Paul set forth in Romans 12:</p>
+
+<h4>We have different gifts,</h4>
+
+<h5>according to the grace given to each of us.</h5>
+
+<h4>If your gift is prophesying,</h4>
+
+<h5>then prophesy <strong>in accordance with your faith</strong>;</h5>
+
+<h6>- Romans 12:6</h6>
+
+<p>I thought my faith was strong, but that faith was in myself, not God.</p>
+
+<h2>Dream Language</h2>
+
+<p>Let's back up. I believe that just as God worked out with Adam what to call all the animals, 
+God establishes a special language to communicate with every person.
+Part of that language is the symbolism buried in our dreams. 
+As a child, I had a recurring dream. In it, I started to climb the hill behind our house.
+In most of these dreams, something distracted me and I didn't make it to the top.
+In a few, I made it to the final crest of the hill and almost saw what lay beyond.
+This dream came to symbolize to me the journey to reach heaven. 
+I had other dreams that involved deer.</p>
+
+<p>When I began to work on my thesis, I was an emotional wreck facing a very difficult project.
+I needed a Bible passage to inspire me. Remembering my childhood dreams, I searched a concordance
+for verses about climbing hills and deer. I found this:</p>
+
+<h4>The Lord God is my strength;</h4>
+
+<h4>He will make my feet like deer’s feet,</h4>
+
+<h4>And He will make me walk on my high hills.</h4>
+
+<h6>- Habakkuk 3:19 (NKJV)</h6>
+
+<p>I meditated on that verse (and the two preceding it) every day for the next eighteen months.
+That passage taught me how to praise God in the midst of trials and gave me the strength
+to climb a pretty high hill (just not one to heaven).
+That is an example of how God can use our dreams to guide us to the help we need.</p>
+
+<p>By the way, how did I get into MIT in the first place?
+After filling out the application and the assigned essay, I had extra time.
+On a lark and just because of the joy of it, I wrote a second essay on a topic of my own choosing.
+I had no indication that an extra essay would sway the admissions office, but it did.
+My freshman advisor told me years later that the Institute was trying to broaden their 
+candidate pool by seeking students with good writing ability, not just math skills.
+Even after all that time, he still remembered my college application essay. 
+Considering the thousands of essays that they have to read, that is saying something. 
+What was that essay about? It was about going on a walk up that same hill behind our house 
+with my dog Donner when I was four. So thinking about climbing that hill both got me into
+MIT (with the essay) and helped me graduate (giving me inspiring words on which to meditate).</p>
+
+<p>God helps us climb difficult hills so that we may achieve our dreams.</p>
+
+<h2>In accordance with my faith</h2>
+
+<p>In the mid 1990's I had a dream in which my car's brakes gave out.
+I took my car to the shop the next day; both rear and front brakes were
+seriously worn. This is not a great miracle. Perhaps my subconscious
+noticed something off with my car and it was not God at all.
+This simple dream is more important to me than all the rest because
+I took it as a sign of God's forgiveness. We were on speaking terms
+again. It was a small test of whether I could handle dreams without
+going off the deep end. I passed.</p>
+
+<p>It would be almost a decade before I would have another.</p>
+
+<h2>Seek Confirmation</h2>
+
+<p>My recollection is fuzzy, but I think it was Fall 2003 when I had the
+most significant dream of my life. My family and I were driving in our
+car when a tornado stormed by. It lifted our car up, then slammed it down.
+Up, down, up, down. I lost count of how many times it happened.
+Then the storm ended and we drove on in safety.</p>
+
+<p>I would have forgotten that dream, but for the sermon I heard that weekend.
+My daughters were attending a Christian school run by the International Family Church
+in Winchester, so I went to their church service one night. 
+A visiting pastor gave a message about Jesus calming the storm.
+He said that most sermons you hear about that event go on about how Jesus was
+teaching his disciples how to have faith. He said his was different.
+It wasn't about the disciples at all. On the other side of the lake were
+two demon-possessed men desperately in need of a savior. The only way to
+get there in time was to cross the lake in a storm.</p>
+
+<p>I immediately made the connection to my dream. The Lord was telling
+me that my family and I would go through a long series of trials
+but God would see us through. Then, when I reached "the other side of the lake",
+God would have something useful for me to do.
+The first disaster struck three days later (a house fire)
+and our difficulties continued for about nineteen years.</p>
+
+<p>Several of the Bible figures in the passages listed at the top of this article
+asked God for secondary confirmation before taking action. Is that a sign
+of doubt or of wisdom? Given my missteps with dreams early on, I am glad that
+God confirmed my dream with that sermon. During all those years of
+unemployment, utilities turned off, health problems, disagreements at church, 
+family squabbles, and many other issues, I held onto that dream and that sermon
+as a promise that we would survive.</p>
+
+<h4>“I have told you these things,</h4>
+
+<h5>so that in me you may have peace.</h5>
+
+<h4>In this world you will have trouble.</h4>
+
+<h4>But take heart! I have overcome the world.”</h4>
+
+<h6>- John 16:33 (NIV)</h6>
+
+<p>Jesus told us to expect troubles. Couldn't I just have trusted what he said in John 16?
+There is a difference. If God just wanted to prepare me for trials lasting until the
+day I die and enter heaven, John 16 works fine. However, if he wanted to give a message
+detailed enough to let me know that a long series of trials would both come and end,
+a personal message was essential. Otherwise, how would I know when I am ready to 
+take up the unspecified task that he is using those trials to prepare me for?
+Also, how would I know what it is that I am supposed to do?</p>
+
+<p><strong>What to do.</strong> The task is still coming into focus, but it involves the Book of Job. My dream
+featured a tornado, and Job's trials began and ended with whirlwinds.
+Over the last six or seven years, large parts of the three most recent books 
+that I have written concern Job.</p>
+
+<p><strong>When to do it</strong>. The Lord used the sermon to confirm that the trials were about to begin.
+He also used it to tell me how to recognize when they had run their course.
+On December 26, 2022, I was skating with my daughter on Winter Pond in Winchester.
+I fell through thin ice and needed to be rescued. When Erica Poitras and the rest of the
+rescue team pulled me from the freezing waters onto the shore, it was like the disciples
+reaching the other side of the lake in the story of Jesus calming the storm.</p>
+
+<p>As I fell through the ice, I fractured my upper humerus. Dr. David Alessandro repaired 
+my right arm, using a plate, seven screws and a band. The surgery was performed at 
+Winchester Hospital's Ambulatory Surgery Center on Washington Street in Winchester.
+That surgery center is built on the grounds once owned by the International Family Church.
+On the same spot that I heard the sermon that confirmed my trials would soon begin,
+that season of trials ended under a doctor's scalpel.</p>
+
+<p>That skating accident is the only time during those two decades that my life was in real jeopardy. 
+Only God could bring those trials to such a fitting and poetic climax.
+By such means and such dreams, the Lord tells me that my life has meaning.
+I may not know what that meaning is for long stretches of time, but if I wait, it will come.</p>
+
+<h2>Dare to Dream</h2>
+
+<p>I trust that I have communicated the promise and the peril of reading too much into dreams.
+If you read the Bible passages on dreams at the top of this article, you will find real wisdom.
+May my personal anecdotes, as incomplete as they are in their coverage of this topic, help you
+wrestle with your dreams. To get where I am today, I had to grow spiritually and face my pride 
+and folly with tears of repentance. It is the same with every spiritual gift. They are not toys.</p>
+
+<hr>
+
+<p>Links to the other articles in this section:</p>
+
+<p><a href="./spiritual-growth.html">Spiritual Growth</a> Introduction to the articles about spiritual growth.</p>
+
+<p><a href="./most-important-questions.html">What are Life's Twelve Most Important Questions?</a> If you can answer these questions, you know the way better than the Mandelorian.</p>
+
+<p><a href="./heavenly-treasures.html">What are the Heavenly Treasures?</a> It is one thing to list these treasures, quite another to acquire them!</p>
+
+<p><a href="./harvest-pattern.html">The Harvest Pattern of Jesus</a> A tactical pattern for overcoming an individual obstacle and reaping a single spiritual harvest.</p>
+
+<p><a href="./growth-pattern.html">The Growth Pattern of Solomon</a> A strategic pattern to help you plan your whole life.</p>
+
+<p><a href="./the-motherhood-pattern.html">The Motherhood Pattern</a> A strategic pattern for women.</p>
+
+<p><a href="./law-pattern.html">The Law Pattern of Moses</a> The law does more than restrict; it also guides.</p>
+
+<p><a href="./the-journey-pattern.html">The Journey Pattern</a> It is a long journey back to Eden.</p>
+
+<p><a href="./emotional-properties-of-the-psalms.html">Emotional Prophecies of the Psalms</a></p>
+
+<p><a href="./talk-to-god.html">Job and the Ways to Talk to God</a></p>
+
+<p><a href="./job-description-for-a-savior.html">Job Description for a Savior</a> Job knew what he needed in a savior. Do you?</p>
+
+<p><a href="./dreams.html">Dreams</a> Dreams can guide you, paralyze you, or lead you astray. In my case, it was all three.</p>
+
+<p><a href="./spiritual-warfare.html">Spiritual Warfare</a> Somebody IS out to get you.</p>
+
+      </div>
+
+    </div>
+    <!-- Page Footer -->
+    <div class="footer faint">
+      
+    </div>
+  </div>
+</body>
+</html>

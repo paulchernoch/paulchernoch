@@ -289,7 +289,7 @@
     - title: Celestial Clocks
       parts:
         - title: A Grandfather Clock & a Silver Cord
-        - named: grandfather-clock.md
+          named: grandfather-clock.md
     - title: Spiritual Clocks
     - title: Empire Clocks
     - title: Commandment Clocks

@@ -1,0 +1,539 @@
+
+<!DOCTYPE html>
+<head>
+  <!--from template: default-page.html -->
+  <title>Spiritual Growth</title>
+  <link rel="stylesheet" href="./styles/tree.css" type="text/css">
+  <link rel="stylesheet" href="./styles/toc.css" type="text/css">
+  <link rel="stylesheet" href="./styles/article.css" type="text/css">
+  <!-- Font Awesome supplies the icons used in the TOC -->
+  <script src="https://kit.fontawesome.com/ecadd7b212.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="./styles/page.css" type="text/css">
+
+  <script>
+    /* Search for a css class name in an HTML element and replace it with a second class. */
+    function replace_class(element, from_class, to_class) {
+      element.classList.remove(from_class)
+      element.classList.add(to_class)
+    }
+
+    /* Show or hide the table of contents menu in the left sidebar by changing the style classes.
+       Also show and hide the buttons used to open and close the menu.
+     */
+    function toggleLeftSidebar(open) {
+      const sidebar = document.getElementById("leftsidebar");
+      const open_button = document.getElementById("leftsidebaropen");
+      const close_button = document.getElementById("leftsidebarclose");
+      const body = document.getElementById("articlebody")
+     
+      if (open) {
+        replace_class(sidebar, "leftsidebar-closed", "leftsidebar-open")
+        replace_class(open_button, "show-toggle", "hide-toggle")
+        replace_class(close_button, "hide-toggle", "show-toggle")
+        replace_class(body, "body-wide", "body-narrow")
+      }
+      else {
+        replace_class(sidebar, "leftsidebar-open", "leftsidebar-closed")
+        replace_class(open_button, "hide-toggle", "show-toggle")
+        replace_class(close_button, "show-toggle", "hide-toggle")
+        replace_class(body, "body-narrow", "body-wide")
+      }
+   }
+
+  </script>
+</head>
+<html>
+
+
+<body>
+  <!-- Floating buttons to open and close the TOC -->
+  <div id="toggle">
+    <div class="tooltip">
+
+      <a id="leftsidebaropen" class="hide-toggle" role="button" tabindex="1" onclick="toggleLeftSidebar(true)" >
+        <i class="fas fa-angle-double-right"></i>
+        <span class="tooltiptext">Show</span>
+      </a>
+      <a id="leftsidebarclose" class="show-toggle" role="button" tabindex="2" onclick="toggleLeftSidebar(false)">
+        <i class="fas fa-angle-double-left"></i>
+        <span class="tooltiptext">Hide</span>
+      </a>
+    </div>
+  </div>
+  <!-- Page Header -->
+  <div class="header header-colors">
+    <a href="index.html">
+      <img src="images/wisdom-house.png" width="676" height="250"/>
+    </a>
+
+    <div class="quote">He sleeps and rises night and day, <br/> and the seed sprouts and grows; <br/> he knows not how. </br> - Mark 4:27</div>
+
+  </div>
+  <!-- Left Sidebar TOC -->
+  <div class="container">
+    <div id="leftsidebar" class="leftsidebar-open left-side-colors" tabindex="0">
+        <ul class="tree-padding tree-vertical-lines tree-horizontal-lines tree-summaries tree-markers tree-buttons">
+          <li>
+            <details open="">
+              <summary><i class="fa-solid fa-house-chimney"></i> <a href="home.html">Home</a></summary>
+                <ul>
+                  <li><i class="fas fa-address-card"></i> <a href="about.html">About this Site</a></li>
+                  <li><i class="fas fa-feather-alt"></i> <a href="author.html">Author</a></li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-book"></i> <a href="books.html">Books</a></summary>
+                        <ul>
+                          <li> <a href="the-endless-hunt.html">The Endless Hunt</a></li>
+                          <li> <a href="job-rises.html">Job Rises</a></li>
+                          <li> <a href="peace-book.html">Peace, Like Solomon Never Knew</a></li>
+                          <li> <a href="plague-book.html">Plague, Precept, Prophet, Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li><i class="fa-solid fa-user-secret"></i> <a href="secret.html">Shhhh! Secret!</a></li>
+                  <li>
+                    <details>
+                      <summary><i class="fa-solid fa-building-columns"></i> <a href="lady-wisdom-s-house.html">Lady Wisdom's House</a></summary>
+                        <ul>
+                          <li> <a href="lady-wisdom.html">Lady Wisdom</a></li>
+                          <li> <a href="hannah-s-song.html">Hannah's Song</a></li>
+                          <li> <a href="blueprint.html">Blueprint for Lady Wisdom's House</a></li>
+                          <li> <a href="foundation.html">Foundation: The Commandments</a></li>
+                          <li> <a href="seven-spirits.html">Lanterns: The Seven Spirits of God</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="seven-pillars-of-wisdom.html">Seven Pillars of Wisdom</a></summary>
+                                <ul>
+                                  <li> <a href="theme-of-books.html">Theme of Books</a></li>
+                                  <li> <a href="theme-of-swords.html">Theme of Swords</a></li>
+                                  <li> <a href="theme-of-pillars.html">Theme of Pillars</a></li>
+                                  <li> <a href="theme-of-thunders.html">Theme of Thunders</a></li>
+                                  <li> <a href="theme-of-spirits.html">Theme of Spirits</a></li>
+                                  <li> <a href="theme-of-songs.html">Theme of Songs</a></li>
+                                  <li> <a href="theme-of-treasures.html">Theme of Treasures</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="roof-of-peace.html">Roof: Paul's Gospel of Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details open="">
+                      <summary><i class="fas fa-seedling"></i> <a href="spiritual-growth.html">Spiritual Growth</a></summary>
+                        <ul>
+                          <li> <a href="most-important-questions.html">What are life's Most Important Questions?</a></li>
+                          <li> <a href="heavenly-treasures.html">What are the Heavenly Treasures?</a></li>
+                          <li> <a href="harvest-pattern.html">The Harvest Pattern of Jesus</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="growth-pattern.html">The Growth Pattern of Solomon</a></summary>
+                                <ul>
+                                  <li> <a href="there-is-a-season.html">There is a Season</a></li>
+                                  <li> <a href="pauls-discipleship-program.html">The Apostle Paul's Discipleship Program</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="the-motherhood-pattern.html">The Motherhood Pattern</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="law-pattern.html">The Law Pattern of Moses</a></summary>
+                                <ul>
+                                  <li> <a href="which-ten-commandments.html">Which Ten Commandments?</a></li>
+                                  <li> <a href="matthew-and-the-law-of-christ.html">Matthew and the Law of Christ</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="the-journey-pattern.html">The Journey Pattern</a></li>
+                          <li> <a href="emotional-prophecies-of-the-psalms.html">Emotional Prophecies of the Psalms</a></li>
+                          <li> <a href="talk-to-god.html">Job and the Ways to Talk to God</a></li>
+                          <li> <a href="job-description-for-a-savior.html">Job Description for a Savior</a></li>
+                          <li> <a href="dreams.html">Dreams</a></li>
+                          <li> <a href="spiritual-warfare.html">Spiritual Warfare</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-hourglass-half"></i> <a href="the-end-times.html">The End Times</a></summary>
+                        <ul>
+                          <li> <a href="seven-cycles-of-judgment.html">Seven Cycles of Judgment</a></li>
+                          <li> <a href="satan-bound-and-released.html">Satan, Bound and Released</a></li>
+                          <li> <a href="the-millennial-kingdom.html">The Millennial Kingdom</a></li>
+                          <li> <a href="the-four-horsemen-of-the-apocalypse.html">The Four Horsemen of the Apocalypse</a></li>
+                          <li> <a href="the-fifth-trumpet.html">The Fifth Trumpet</a></li>
+                          <li> <a href="the-fifth-seal.html">The Fifth Seal</a></li>
+                          <li> <a href="voice-of-the-seven-thunders.html">Voice of the Seven Thunders</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-list-ol"></i> <a href="numerology.html">Numerology</a></summary>
+                        <ul>
+                          <li> <a href="to-number-our-days.html">To Number our Days</a></li>
+                          <li> <a href="2-is-for-jesus.html">2 is for Jesus</a></li>
+                          <li> <a href="3-is-for-the-father.html">3 is for the Father</a></li>
+                          <li> <a href="4-is-for-cycles-of-nature.html">4 is for Cycles of Nature</a></li>
+                          <li> <a href="5-is-for-grace.html">5 is for Grace</a></li>
+                          <li> <a href="6-is-for-man.html">6 is for Man</a></li>
+                          <li> <a href="7-is-for-the-holy-spirit.html">7 is for the Holy Spirit</a></li>
+                          <li> <a href="17-is-for-victory.html">17 is for Victory</a></li>
+                          <li> <a href="28-is-for-time.html">28 is for Time</a></li>
+                          <li> <a href="40-is-for-suffering.html">40 is for Suffering</a></li>
+                          <li> <a href="42-is-for-the-journey.html">42 is for the Journey</a></li>
+                          <li> <a href="120-is-for-consecration.html">120 is for Consecration</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="153-is-for-total-victory.html">153 is for Total Victory</a></summary>
+                                <ul>
+                                  <li> <a href="153-connections.html">153 Connections</a></li>
+                                  <li> <a href="defining-153.html">Defining 153</a></li>
+                                  <li> <a href="153-and-fear.html">153 and Fear</a></li>
+                                  <li> <a href="153-and-hope.html">153 and Hope</a></li>
+                                  <li> <a href="habakkuk-part-1.html">Habakkuk Part 1</a></li>
+                                  <li> <a href="habakkuk-part-2.html">Habakkuk Part 2</a></li>
+                                  <li> <a href="habakkuk-part-3.html">Habakkuk Part 3</a></li>
+                                  <li> <a href="habakkuk-part-4.html">Habakkuk Part 4</a></li>
+                                  <li> <a href="habakkuk-part-5.html">Habakkuk Part 5</a></li>
+                                  <li> <a href="habakkuk-part-6.html">Habakkuk Part 6</a></li>
+                                  <li> <a href="habakkuk-part-7.html">Habakkuk Part 7</a></li>
+                                  <li> <a href="153-and-the-fifth-trumpet.html">153 and the Fifth Trumpet</a></li>
+                                  <li> <a href="habakkuk-s-war.html">Habakkuk's War</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="210-is-for-peace.html">210 is for Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-scroll"></i> <a href="prophetic-clocks.html">Prophetic Clocks</a></summary>
+                        <ul>
+                          <li> <a href="types-of-clock.html">Types of Clock</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="generational-clocks.html">Generational Clocks</a></summary>
+                                <ul>
+                                  <li> <a href="job-s-anti-jubilee-clock-defined.html">Job's Anti-Jubilee Clock, Defined</a></li>
+                                  <li> <a href="alexander-the-great.html">The Death of Alexander the Great</a></li>
+                                  <li> <a href="psalm-119.html">Psalm 119: The Shepherd's Clock</a></li>
+                                  <li> <a href="generations-come-and-go.html">Generations Come and Go</a></li>
+                                  <li> <a href="two-patterns-in-history.html">Two Patterns in History</a></li>
+                                  <li> <a href="acrostic-clock.html">The Acrostic Clock</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li>
+                            <details>
+                              <summary> <a href="celestial-clocks.html">Celestial Clocks</a></summary>
+                                <ul>
+                                  <li> <a href="grandfather-clock.html">A Grandfather Clock & a Silver Cord</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="spiritual-clocks.html">Spiritual Clocks</a></li>
+                          <li> <a href="empire-clocks.html">Empire Clocks</a></li>
+                          <li> <a href="commandment-clocks.html">Commandment Clocks</a></li>
+                          <li> <a href="other-clocks.html">Other Clocks</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-question-circle"></i> <a href="riddles.html">Riddles</a></summary>
+                        <ul>
+                          <li> <a href="the-righteous-fall-seven-times.html">The Righteous Fall Seven Times</a></li>
+                          <li> <a href="twice-a-thousand-years.html">Twice a Thousand Years</a></li>
+                          <li> <a href="seven-pillars-riddle.html">The Seven Pillars of Wisdom</a></li>
+                          <li> <a href="riddle-of-153-fish.html">Why 153 Fish?</a></li>
+                          <li> <a href="riddles-of-war.html">Riddles of War</a></li>
+                          <li> <a href="building-a-house.html">Building a House</a></li>
+                          <li> <a href="hannah-s-song.html">Hannah's Song</a></li>
+                          <li> <a href="satan-s-taunt.html">Satan's Taunt</a></li>
+                          <li> <a href="vineyard-parable.html">Parable of the Workers in the Vineyard</a></li>
+                          <li> <a href="wedding-parable.html">The Parable of the Wedding Feast</a></li>
+                          <li> <a href="the-childbearing.html">The Childbearing</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fa-solid fa-person-harassing"></i> <a href="a-divided-world.html">A Divided World</a></summary>
+                        <ul>
+                          <li>
+                            <details>
+                              <summary> <a href="against-complementarianism.html">Against Complementarianism</a></summary>
+                                <ul>
+                                  <li> <a href="a-model-for-the-ordination-of-women.html">A Model for the Ordination of Women</a></li>
+                                  <li> <a href="submission.html">Submission</a></li>
+                                  <li> <a href="consecration.html">Consecration</a></li>
+                                  <li> <a href="identification.html">Identification</a></li>
+                                  <li> <a href="quantification.html">Quantification</a></li>
+                                  <li> <a href="reconciliation.html">Reconciliation</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-calendar-alt"></i> <a href="chronology.html">Chronology</a></summary>
+                        <ul>
+                          <li> <a href="dating-the-creation.html">Dating the Creation</a></li>
+                          <li> <a href="sojourn-of-israel.html">Sojourn of Israel</a></li>
+                          <li> <a href="chronology-of-judges.html">Chronology of Judges</a></li>
+                          <li> <a href="lifespan-of-solomon.html">Lifespan of Solomon</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                </ul>
+            </details>
+          </li>
+
+        </ul>
+    </div>
+    <!-- Article Text -->
+    <div id="articlebody" class="body-narrow" tabindex="3">
+      <div class="article">
+        <h1>Spiritual Growth</h1>
+        
+        <p class="date">Published on 2024-04-13</p>
+        
+        <p>The articles in this section of the website are devoted to individual 
+spiritual growth. They generally steer clear of prophecy and history.
+Topics covered include:</p>
+
+<ul>
+<li>long term strategy for plotting your whole life (a Growth Pattern)</li>
+<li>short term tactics for facing specific challenges (a Harvest Pattern)</li>
+<li>getting grounded (a Law Pattern)</li>
+<li>spiritual values</li>
+<li>the big questions of life</li>
+<li>how to communicate with God (the spiritual disciplines)</li>
+<li>how God knows our material and spiritual needs and meets them</li>
+<li>emotional healing through the Psalms</li>
+<li>dreams</li>
+<li>spiritual warfare</li>
+</ul>
+
+<h2>Growth Patterns</h2>
+
+<p>Jesus used different analogies to describe the life of faith. Some refer to inanimate objects, like our body being a temple,
+but most relate to growing things. That is why we speak of spiritual growth as being important to believers. 
+We must obey what the Apostle Peter said:</p>
+
+<h4>Like newborn infants,</h4>
+
+<h5>long for the pure spiritual milk,</h5>
+
+<h6>that by it you may grow up into salvation...</h6>
+
+<h6>- 1 Peter 2:2</h6>
+
+<p>After I finished writing <em>Job Rises: Thirteen Keys to a Resilient Life</em>, I pondered how to distill a simpler action plan 
+from the thirteen lessons that I learned. I had in mind preparing and leading a Bible study to communicate these ideas. 
+Some points in Job reminded of ideas I had seen elsewhere, in Matthew. They appear in Jesus' Parable of the Soils and 
+his temptation in the desert. Thus I dove into Matthew and discovered the seven-step Harvest Pattern.</p>
+
+<p>Since then I have discovered other patterns related to spiritual growth. Here is the list:</p>
+
+<ul>
+<li>Harvest Pattern (in Matthew)</li>
+<li>Growth Pattern (in Ecclesiastes)</li>
+<li>Motherhood Pattern (in Job, 1 Samuel 1-2)</li>
+<li>Law Pattern (in Exodus)</li>
+<li>Journey Pattern (in Matthew 1, Job)</li>
+</ul>
+
+<p>I doubt that I have found all the patterns that the Bible contains related to
+this topic.</p>
+
+<p>When Jesus called the Church a vine (John 15), or Paul a human body (Romans 12) or an olive tree (Romans 11),
+they were not just using a poetic analogy. They were telling us that there are principles of growth
+that apply not only to individuals, but to groups, nations and whole civilizations. Good trees and bad trees,
+wild vines and cultivated vines, we are all part of social organisms that are larger than us.
+That is why everything Jesus says can have two meanings (at least). That is why prophecy works.</p>
+
+<p>God has arranged it so that analogies between the growth of people from infants into mature adults 
+serve as well to describe the phases of growth for nations from a few families to a great kingdom - and then 
+to the grave. To understand the course of history you need to understand the life of a single soul.</p>
+
+<p>When Nicodemus argued with Jesus over the idea of being "born again" or "born from above", Jesus said this:</p>
+
+<h4>If I have told you earthly things and you do not believe,</h4>
+
+<h4>how can you believe if I tell you heavenly things?</h4>
+
+<h6>- John 3:12</h6>
+
+<p>How is the spiritual idea of being "born again" related to earthly things?
+Why was it so hard for Nicodemus to understand? I submit to you, most Christians 
+have no more idea about these things than Nicodemus did. If we believe, then
+we have experienced it. We can point to the change in our spirit. Yet, can we explain it?
+Can we translate the earthly things into the heavenly things, matching them one to one?
+Can we relate the medical details of human birth to the spiritual process of salvation? </p>
+
+<p>I found out how. The answer was in Ecclesiastes. Solomon speaks of twenty-eight times of life.
+Who knew that they were ordered to tell a story? Who knew that those twenty-eight times
+set forth the earthly process of materialistic and emotional development that carries a person
+from birth to full maturity? If you read what commentators say about the structure of
+Ecclesiastes, you will find opinions like this, from the New Century Bible Commentary:</p>
+
+<h4>"in general no progression of thought</h4>
+
+<h4>from one section to another is discernible."</h4>
+
+<h6>– R. N. Whybray (1989)</h6>
+
+<p>That scholar could not see an overall structure to Ecclesiastes. He could not see the "earthly things".
+Unable to see the earthly things, he could not see their spiritual analogies.
+"A time to be born" maps to being born again. "A time to die" maps to the dying to self that Paul 
+describes in Romans 6. "A time to plant" is being grafted into the vine, the church, through baptism. 
+"A time to pluck up" is being severed from your former connection to the world.
+Those are the first four steps on the road to a mature faith, ending with "a time for peace". </p>
+
+<h2>Growing Pains</h2>
+
+<p>Why should you trust me?
+For a nuanced theoretical view of spiritual growth, consult someone with a doctorate in theology.
+For a comprehensive clinical view that weighs and balances all factors and can apply them appropriately 
+to people with different personalities and cultural backgrounds, consult a professor of Christian counseling. 
+What I have to offer is based on the problems I have faced personally, how I overcame them, and how I related my 
+victories to the actions of the Holy Spirit and the wisdom found in the Bible. My experience is limited so my 
+wisdom is limited. Ah! Despite my limitations, my area of understanding may include the issues that you confront, 
+because among the problems I have overcome are:</p>
+
+<ul>
+<li>depression</li>
+<li>fear of death</li>
+<li>loneliness</li>
+<li>nightmares</li>
+<li>anxiety</li>
+<li>purposelessness</li>
+<li>peer pressure</li>
+<li>social ostracism due to a neurological problem</li>
+<li>frequent unemployment exacerbated by being on the autism spectrum</li>
+</ul>
+
+<p>That list is not exhaustive. I am able to <strong>empathize</strong>, not because I am gifted with empathy, but because
+I have suffered and overcome a cross-section of problems common to hundreds of millions, plus several 
+less common trials. I am able to offer <strong>hope</strong>, because God swiftly delivered me from some of these problems 
+after but a few weeks or months of prayer. I am able to model <strong>patience</strong>, because for some of these problems
+(especially anxiety) I endured decades of suffering while God's patient ministrations brought slow relief 
+(and frequent lapses!). I have waited in faith, trusting a promise given to me by a friend's prophecy that help
+would come soon. I have also waited in confusion and doubt, with no prophecy and no promise beyond the words of Scripture to rely on. </p>
+
+<p>I will explain how healing and deliverance follow a pattern. That does not mean that they follow a timetable to which 
+we are privy. We each have many areas needing improvement. Who establishes our treatment regimen? Who defines the
+order in which to tackle each area? Not us! However, by understanding what God does tell us in His Word about 
+how He orders the different phases of human growth, we can cooperate with the Holy Spirit or at least get out of the way. 
+That is something I have learned and will share with you. Even though we may not know God's time, we can know God's times.</p>
+
+<h2>Stuck in Time</h2>
+
+<p>Lack of understanding of Solomon's times can cause you to become stuck. The times must be embraced, not avoided.
+When I had been a Christian only a few years, an appeal by my pastor to the church fell on deaf ears.
+He asked people in the congregation to visit a sick member who lived in a nursing facility.
+I had at that point suffered for about a decade with depression. Being saved weakened its hold 
+on me but did not end it. The thought of visiting a sick person was anathema to me. 
+Her suffering would add to mine. I couldn't handle that. I was determined not to go.
+Weeks of these appeals wore me down. The final straw was discovering that the woman lived 
+one block from my apartment. We lived two towns away from the church. Of everyone in the 
+congregation, I was Janet's only neighbor.</p>
+
+<p>One morning, as I walked to church (a forty-five minute walk), I stopped by Janet's facility.
+I brought her a Christian music cassette, read to her from the Bible and prayed.
+She had rheumatoid arthritis. I have never seen anyone in so much pain.
+When my visit was over, I walked the rest of the way to church, sobbing.
+Never before had I ever cried so hard for someone other than myself - and never since.</p>
+
+<p>My instinct to avoid visiting the sick was spot on. It would add to my pain. It would
+magnify my sadness. It would usher me into "a time to weep". I had been holding in
+so much pain for so long. Why would God put me through this?</p>
+
+<p>It is because "a time to weep" was designed by God. We need it. We must not try to skip 
+over it. We must enter into it fully if we are to advance.</p>
+
+<p>The tears stopped a few minutes before I reached the church that morning. First, a gentle peace settled in.
+Then my soul was flooded with joy. That joy remained with me for a week. I had entered "a time to laugh".
+My years of depression were over. It is now over thirty years later and they have not returned.</p>
+
+<p>That is how important it is to know and embrace the times God has given us.
+"A time to weep" is not the only one I have resisted, but now I know that I do not have to 
+walk through them alone.</p>
+
+<h2>Prophetic Times</h2>
+
+<p>Once you can connect the worldly analogy to a spiritual one that applies to a single person, 
+you can take it a step father. Ecclesiastes 3 is a parable for more than spiritual growth.
+It is a parable for the history of the Church and the world. Many articles on this website 
+talk about how to interpret the spiritual patterns prophetically.
+This section won't do that. It is all about how to gain understanding about the patterns
+and put them to work for you.</p>
+
+<p>You may lack interest (or trust) in the prophetic parts of the Bible, or at least how 
+people interpret them. Prophecies are not there to be flashy or spooky. What are they for? 
+Parables and analogies work two ways. Solomon's poem in Ecclesiastes 3 is about how God has 
+charted the normal and healthy course of a human life. Do you trust God? 
+Can you lean on that pattern? Does it explain things in a way that helps you plan out your life?</p>
+
+<p>Articles in other sections of this website show that those times correspond to eras in history. 
+Each era has a theme that is related to the name for that time. Thus "a time to tear" is a time of 
+turmoil and civil war (the wars of religion following the Protestant Reformation being one example). 
+As you see the prophecies you will see that God governs history, the church, Israel, and the world's 
+civilization according to that pattern.</p>
+
+<p>Have you ever heard advertisements that say things like, "If this deodorant is strong enough to
+keep a marathon runner smelling fresh all the way to the finish line, isn't it strong enough for you?
+The times of Solomon are like that deodorant. <strong>If the principles behind those times are powerful</strong> 
+<strong>enough and wise enough for God to use in governing and guiding the whole world through its problems, do you</strong>
+<strong>think they might be good enough to guide you through yours?</strong></p>
+
+<hr>
+
+<p>Links to the other articles in this section:</p>
+
+<p><a href="./spiritual-growth.html">Spiritual Growth</a> Introduction to the articles about spiritual growth.</p>
+
+<p><a href="./most-important-questions.html">What are Life's Twelve Most Important Questions?</a> If you can answer these questions, you know the way better than the Mandelorian.</p>
+
+<p><a href="./heavenly-treasures.html">What are the Heavenly Treasures?</a> It is one thing to list these treasures, quite another to acquire them!</p>
+
+<p><a href="./harvest-pattern.html">The Harvest Pattern of Jesus</a> A tactical pattern for overcoming an individual obstacle and reaping a single spiritual harvest.</p>
+
+<p><a href="./growth-pattern.html">The Growth Pattern of Solomon</a> Overview of a strategic pattern to help you plan your whole life.</p>
+
+<ul>
+<li><p><a href="./there-is-a-season.html">There is a Season</a> The chapter from <em>Peace, like Solomon Never Knew</em> where I first introduced the Growth Pattern. </p></li>
+<li><p><a href="./pauls-discipleship-program.html">The Apostle Paul's Discipleship Program</a> Shows how the first seven letters of Paul to the churches are arranged according to the Growth Pattern.</p></li>
+</ul>
+
+<p><a href="./the-motherhood-pattern.html">The Motherhood Pattern</a> A strategic pattern for women.</p>
+
+<p><a href="./law-pattern.html">The Law Pattern of Moses</a> The law does more than restrict; it also guides.</p>
+
+<p><a href="./the-journey-pattern.html">The Journey Pattern</a> It is a long journey back to Eden.</p>
+
+<p><a href="./emotional-properties-of-the-psalms.html">Emotional Prophecies of the Psalms</a></p>
+
+<p><a href="./talk-to-god.html">Job and the Ways to Talk to God</a></p>
+
+<p><a href="./job-description-for-a-savior.html">Job Description for a Savior</a> Job knew what he needed in a savior. Do you?</p>
+
+<p><a href="./dreams.html">Dreams</a> Dreams can guide you, paralyze you, or lead you astray. In my case, it was all three.</p>
+
+<p><a href="./spiritual-warfare.html">Spiritual Warfare</a> Somebody IS out to get you.</p>
+
+      </div>
+
+    </div>
+    <!-- Page Footer -->
+    <div class="footer faint">
+      
+    </div>
+  </div>
+</body>
+</html>

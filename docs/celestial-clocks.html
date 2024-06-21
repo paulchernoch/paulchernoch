@@ -1,0 +1,940 @@
+
+<!DOCTYPE html>
+<head>
+  <!--from template: default-page.html -->
+  <title>Celestial Clocks</title>
+  <link rel="stylesheet" href="./styles/tree.css" type="text/css">
+  <link rel="stylesheet" href="./styles/toc.css" type="text/css">
+  <link rel="stylesheet" href="./styles/article.css" type="text/css">
+  <!-- Font Awesome supplies the icons used in the TOC -->
+  <script src="https://kit.fontawesome.com/ecadd7b212.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="./styles/page.css" type="text/css">
+
+  <script>
+    /* Search for a css class name in an HTML element and replace it with a second class. */
+    function replace_class(element, from_class, to_class) {
+      element.classList.remove(from_class)
+      element.classList.add(to_class)
+    }
+
+    /* Show or hide the table of contents menu in the left sidebar by changing the style classes.
+       Also show and hide the buttons used to open and close the menu.
+     */
+    function toggleLeftSidebar(open) {
+      const sidebar = document.getElementById("leftsidebar");
+      const open_button = document.getElementById("leftsidebaropen");
+      const close_button = document.getElementById("leftsidebarclose");
+      const body = document.getElementById("articlebody")
+     
+      if (open) {
+        replace_class(sidebar, "leftsidebar-closed", "leftsidebar-open")
+        replace_class(open_button, "show-toggle", "hide-toggle")
+        replace_class(close_button, "hide-toggle", "show-toggle")
+        replace_class(body, "body-wide", "body-narrow")
+      }
+      else {
+        replace_class(sidebar, "leftsidebar-open", "leftsidebar-closed")
+        replace_class(open_button, "hide-toggle", "show-toggle")
+        replace_class(close_button, "show-toggle", "hide-toggle")
+        replace_class(body, "body-narrow", "body-wide")
+      }
+   }
+
+  </script>
+</head>
+<html>
+
+
+<body>
+  <!-- Floating buttons to open and close the TOC -->
+  <div id="toggle">
+    <div class="tooltip">
+
+      <a id="leftsidebaropen" class="hide-toggle" role="button" tabindex="1" onclick="toggleLeftSidebar(true)" >
+        <i class="fas fa-angle-double-right"></i>
+        <span class="tooltiptext">Show</span>
+      </a>
+      <a id="leftsidebarclose" class="show-toggle" role="button" tabindex="2" onclick="toggleLeftSidebar(false)">
+        <i class="fas fa-angle-double-left"></i>
+        <span class="tooltiptext">Hide</span>
+      </a>
+    </div>
+  </div>
+  <!-- Page Header -->
+  <div class="header header-colors">
+    <a href="index.html">
+      <img src="images/wisdom-house.png" width="676" height="250"/>
+    </a>
+
+    
+
+  </div>
+  <!-- Left Sidebar TOC -->
+  <div class="container">
+    <div id="leftsidebar" class="leftsidebar-open left-side-colors" tabindex="0">
+        <ul class="tree-padding tree-vertical-lines tree-horizontal-lines tree-summaries tree-markers tree-buttons">
+          <li>
+            <details open="">
+              <summary><i class="fa-solid fa-house-chimney"></i> <a href="home.html">Home</a></summary>
+                <ul>
+                  <li><i class="fas fa-address-card"></i> <a href="about.html">About this Site</a></li>
+                  <li><i class="fas fa-feather-alt"></i> <a href="author.html">Author</a></li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-book"></i> <a href="books.html">Books</a></summary>
+                        <ul>
+                          <li> <a href="the-endless-hunt.html">The Endless Hunt</a></li>
+                          <li> <a href="job-rises.html">Job Rises</a></li>
+                          <li> <a href="peace-book.html">Peace, Like Solomon Never Knew</a></li>
+                          <li> <a href="plague-book.html">Plague, Precept, Prophet, Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li><i class="fa-solid fa-user-secret"></i> <a href="secret.html">Shhhh! Secret!</a></li>
+                  <li>
+                    <details>
+                      <summary><i class="fa-solid fa-building-columns"></i> <a href="lady-wisdom-s-house.html">Lady Wisdom's House</a></summary>
+                        <ul>
+                          <li> <a href="lady-wisdom.html">Lady Wisdom</a></li>
+                          <li> <a href="hannah-s-song.html">Hannah's Song</a></li>
+                          <li> <a href="blueprint.html">Blueprint for Lady Wisdom's House</a></li>
+                          <li> <a href="foundation.html">Foundation: The Commandments</a></li>
+                          <li> <a href="seven-spirits.html">Lanterns: The Seven Spirits of God</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="seven-pillars-of-wisdom.html">Seven Pillars of Wisdom</a></summary>
+                                <ul>
+                                  <li> <a href="theme-of-books.html">Theme of Books</a></li>
+                                  <li> <a href="theme-of-swords.html">Theme of Swords</a></li>
+                                  <li> <a href="theme-of-pillars.html">Theme of Pillars</a></li>
+                                  <li> <a href="theme-of-thunders.html">Theme of Thunders</a></li>
+                                  <li> <a href="theme-of-spirits.html">Theme of Spirits</a></li>
+                                  <li> <a href="theme-of-songs.html">Theme of Songs</a></li>
+                                  <li> <a href="theme-of-treasures.html">Theme of Treasures</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="roof-of-peace.html">Roof: Paul's Gospel of Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-seedling"></i> <a href="spiritual-growth.html">Spiritual Growth</a></summary>
+                        <ul>
+                          <li> <a href="most-important-questions.html">What are life's Most Important Questions?</a></li>
+                          <li> <a href="heavenly-treasures.html">What are the Heavenly Treasures?</a></li>
+                          <li> <a href="harvest-pattern.html">The Harvest Pattern of Jesus</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="growth-pattern.html">The Growth Pattern of Solomon</a></summary>
+                                <ul>
+                                  <li> <a href="there-is-a-season.html">There is a Season</a></li>
+                                  <li> <a href="pauls-discipleship-program.html">The Apostle Paul's Discipleship Program</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="the-motherhood-pattern.html">The Motherhood Pattern</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="law-pattern.html">The Law Pattern of Moses</a></summary>
+                                <ul>
+                                  <li> <a href="which-ten-commandments.html">Which Ten Commandments?</a></li>
+                                  <li> <a href="matthew-and-the-law-of-christ.html">Matthew and the Law of Christ</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="the-journey-pattern.html">The Journey Pattern</a></li>
+                          <li> <a href="emotional-prophecies-of-the-psalms.html">Emotional Prophecies of the Psalms</a></li>
+                          <li> <a href="talk-to-god.html">Job and the Ways to Talk to God</a></li>
+                          <li> <a href="job-description-for-a-savior.html">Job Description for a Savior</a></li>
+                          <li> <a href="dreams.html">Dreams</a></li>
+                          <li> <a href="spiritual-warfare.html">Spiritual Warfare</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-hourglass-half"></i> <a href="the-end-times.html">The End Times</a></summary>
+                        <ul>
+                          <li> <a href="seven-cycles-of-judgment.html">Seven Cycles of Judgment</a></li>
+                          <li> <a href="satan-bound-and-released.html">Satan, Bound and Released</a></li>
+                          <li> <a href="the-millennial-kingdom.html">The Millennial Kingdom</a></li>
+                          <li> <a href="the-four-horsemen-of-the-apocalypse.html">The Four Horsemen of the Apocalypse</a></li>
+                          <li> <a href="the-fifth-trumpet.html">The Fifth Trumpet</a></li>
+                          <li> <a href="the-fifth-seal.html">The Fifth Seal</a></li>
+                          <li> <a href="voice-of-the-seven-thunders.html">Voice of the Seven Thunders</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-list-ol"></i> <a href="numerology.html">Numerology</a></summary>
+                        <ul>
+                          <li> <a href="to-number-our-days.html">To Number our Days</a></li>
+                          <li> <a href="2-is-for-jesus.html">2 is for Jesus</a></li>
+                          <li> <a href="3-is-for-the-father.html">3 is for the Father</a></li>
+                          <li> <a href="4-is-for-cycles-of-nature.html">4 is for Cycles of Nature</a></li>
+                          <li> <a href="5-is-for-grace.html">5 is for Grace</a></li>
+                          <li> <a href="6-is-for-man.html">6 is for Man</a></li>
+                          <li> <a href="7-is-for-the-holy-spirit.html">7 is for the Holy Spirit</a></li>
+                          <li> <a href="17-is-for-victory.html">17 is for Victory</a></li>
+                          <li> <a href="28-is-for-time.html">28 is for Time</a></li>
+                          <li> <a href="40-is-for-suffering.html">40 is for Suffering</a></li>
+                          <li> <a href="42-is-for-the-journey.html">42 is for the Journey</a></li>
+                          <li> <a href="120-is-for-consecration.html">120 is for Consecration</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="153-is-for-total-victory.html">153 is for Total Victory</a></summary>
+                                <ul>
+                                  <li> <a href="153-connections.html">153 Connections</a></li>
+                                  <li> <a href="defining-153.html">Defining 153</a></li>
+                                  <li> <a href="153-and-fear.html">153 and Fear</a></li>
+                                  <li> <a href="153-and-hope.html">153 and Hope</a></li>
+                                  <li> <a href="habakkuk-part-1.html">Habakkuk Part 1</a></li>
+                                  <li> <a href="habakkuk-part-2.html">Habakkuk Part 2</a></li>
+                                  <li> <a href="habakkuk-part-3.html">Habakkuk Part 3</a></li>
+                                  <li> <a href="habakkuk-part-4.html">Habakkuk Part 4</a></li>
+                                  <li> <a href="habakkuk-part-5.html">Habakkuk Part 5</a></li>
+                                  <li> <a href="habakkuk-part-6.html">Habakkuk Part 6</a></li>
+                                  <li> <a href="habakkuk-part-7.html">Habakkuk Part 7</a></li>
+                                  <li> <a href="153-and-the-fifth-trumpet.html">153 and the Fifth Trumpet</a></li>
+                                  <li> <a href="habakkuk-s-war.html">Habakkuk's War</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="210-is-for-peace.html">210 is for Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details open="">
+                      <summary><i class="fas fa-scroll"></i> <a href="prophetic-clocks.html">Prophetic Clocks</a></summary>
+                        <ul>
+                          <li> <a href="types-of-clock.html">Types of Clock</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="generational-clocks.html">Generational Clocks</a></summary>
+                                <ul>
+                                  <li> <a href="job-s-anti-jubilee-clock-defined.html">Job's Anti-Jubilee Clock, Defined</a></li>
+                                  <li> <a href="alexander-the-great.html">The Death of Alexander the Great</a></li>
+                                  <li> <a href="psalm-119.html">Psalm 119: The Shepherd's Clock</a></li>
+                                  <li> <a href="generations-come-and-go.html">Generations Come and Go</a></li>
+                                  <li> <a href="two-patterns-in-history.html">Two Patterns in History</a></li>
+                                  <li> <a href="acrostic-clock.html">The Acrostic Clock</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li>
+                            <details open="">
+                              <summary> <a href="celestial-clocks.html">Celestial Clocks</a></summary>
+                                <ul>
+                                  <li> <a href="grandfather-clock.html">A Grandfather Clock & a Silver Cord</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="spiritual-clocks.html">Spiritual Clocks</a></li>
+                          <li> <a href="empire-clocks.html">Empire Clocks</a></li>
+                          <li> <a href="commandment-clocks.html">Commandment Clocks</a></li>
+                          <li> <a href="other-clocks.html">Other Clocks</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-question-circle"></i> <a href="riddles.html">Riddles</a></summary>
+                        <ul>
+                          <li> <a href="the-righteous-fall-seven-times.html">The Righteous Fall Seven Times</a></li>
+                          <li> <a href="twice-a-thousand-years.html">Twice a Thousand Years</a></li>
+                          <li> <a href="seven-pillars-riddle.html">The Seven Pillars of Wisdom</a></li>
+                          <li> <a href="riddle-of-153-fish.html">Why 153 Fish?</a></li>
+                          <li> <a href="riddles-of-war.html">Riddles of War</a></li>
+                          <li> <a href="building-a-house.html">Building a House</a></li>
+                          <li> <a href="hannah-s-song.html">Hannah's Song</a></li>
+                          <li> <a href="satan-s-taunt.html">Satan's Taunt</a></li>
+                          <li> <a href="vineyard-parable.html">Parable of the Workers in the Vineyard</a></li>
+                          <li> <a href="wedding-parable.html">The Parable of the Wedding Feast</a></li>
+                          <li> <a href="the-childbearing.html">The Childbearing</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fa-solid fa-person-harassing"></i> <a href="a-divided-world.html">A Divided World</a></summary>
+                        <ul>
+                          <li>
+                            <details>
+                              <summary> <a href="against-complementarianism.html">Against Complementarianism</a></summary>
+                                <ul>
+                                  <li> <a href="a-model-for-the-ordination-of-women.html">A Model for the Ordination of Women</a></li>
+                                  <li> <a href="submission.html">Submission</a></li>
+                                  <li> <a href="consecration.html">Consecration</a></li>
+                                  <li> <a href="identification.html">Identification</a></li>
+                                  <li> <a href="quantification.html">Quantification</a></li>
+                                  <li> <a href="reconciliation.html">Reconciliation</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-calendar-alt"></i> <a href="chronology.html">Chronology</a></summary>
+                        <ul>
+                          <li> <a href="dating-the-creation.html">Dating the Creation</a></li>
+                          <li> <a href="sojourn-of-israel.html">Sojourn of Israel</a></li>
+                          <li> <a href="chronology-of-judges.html">Chronology of Judges</a></li>
+                          <li> <a href="lifespan-of-solomon.html">Lifespan of Solomon</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                </ul>
+            </details>
+          </li>
+
+        </ul>
+    </div>
+    <!-- Article Text -->
+    <div id="articlebody" class="body-narrow" tabindex="3">
+      <div class="article">
+        <h1>Celestial Clocks</h1>
+        
+        
+        
+        <p>Genesis 1 tells us that on the fourth day, God created the sun, moon and stars to govern day and night and regulate days, seasons and years.
+They are God's celestial time pieces. These heavenly bodies move through the skies with mechanical precision, the
+attribute par excellence of the Celestial Clock. In Solomon's inventory of types of prophetic clocks, they come second, after the generation clocks:</p>
+
+<h4>The sun rises, and the sun goes down,</h4>
+
+<h5>and hastens to the place where it rises.</h5>
+
+<h6>- Ecclesiastes 1:5</h6>
+
+<p>This article will summarize sections of <em>Peace, like Solomon Never Knew</em> and <em>Plague, Precept, Prophet, Peace</em> that were devoted to this type of clock.
+It will name each clock, block out the eras of history that it prophesies, point out where in those books it was developed, and (for a few) 
+point to an extended treatment in a separate article on this website.</p>
+
+<div class="sections">
+
+To quickly jump to each clock:
+
+  <ol>
+    <li> <a href="#1">Creation Clock</a> </li>
+    <li> <a href="#2">Temple Dedication Clocks</a> </li>
+    <li> <a href="#3">Solomon’s Celestial Clock</a> </li>
+    <li> <a href="#4">Solomon’s Son-dial</a> </li>
+    <li> <a href="#5">Lamps of the Ten Virgins</a> </li>
+    <li> <a href="#6">Grand Father Clock</a> </li>
+  </ol>
+
+</div>
+
+<hr/>
+
+<div class="numbered-image">
+  <p id="1" class="numbered-image">1</p>
+  <p><img class="numbered-image" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" /></p>
+</div>
+
+<hr/>
+
+<h2>Creation Clock</h2>
+
+<ul>
+<li>Bible book: Genesis 1</li>
+<li>Defined in: <em>Peace, like Solomon Never Knew</em></li>
+<li>Chapter(s): Solomon’s Clocks: Ecclesiastes 1</li>
+<li>Time span: 4020 BC–2280 AD (or later)</li>
+<li>Intervals: 7</li>
+<li>Period: 1000 years</li>
+</ul>
+
+<p><strong>Notable facts:</strong></p>
+
+<p>Matches the seven days of creation to important events in the seven millennia of history.
+This assumes that history will last no more than seven thousand years before the final judgment and the
+establishment of the new heavens and new earth. This clock is similar to the ancient expectation of many theologians which is 
+called <a href="https://en.wikipedia.org/wiki/Millennial_Day_Theory">Millennial Day Theory</a>. Many Christians combine the idea of the 
+millennial reign of Christ with the idea of a thousand year sabbath during the seventh millennium. 
+My formulation of eschatology, <strong>Fractal Historicism</strong>, does not. The two events are distinct.
+The millennial kingdom of CHrist has already come and gone, having lasted from 380 to 1380 AD in the form of Christian Rome and its extension
+through the Byzantine Empire. If the Creation was on or near 4020 BC, then we are already in the early years of the
+seventh millennium, yet Christ has not returned. My expectation is that the eternal sabbath will begin during this millennium,
+but not immediately. It could start at any time but the present world order may linger for two or three centuries more.</p>
+
+<p>Day 1 of creation (4020-3020 BC) was when God created light and separated the light from the darkness
+by alternating day and night. This matches the division of people into two groups, the righteous descendants of Seth
+and the corrupt descendants of Cain.</p>
+
+<p>Day 2 of creation (3020-2020 BC) is the only one God did not call good. This
+millennium had Noah's flood and the Tower of Babel, the worst calamities in history (so far).</p>
+
+<p>Day 3 of creation (2020-1020 BC) is when God created the dry ground and plants and trees which grow from seeds. 
+The ground is the Law of Moses and the seed is the beginning of the writing of God's Word.</p>
+
+<p>Day 4 of creation (1020-20 BC), when God created the sun, moon &amp; stars,
+ends within a few years of the birth of the Sun of Righteousness and Morning Star, Jesus.
+This millennium was when most of the prophets lived. Prophecy is about revealing God's future plans, interpreting
+history and marking out time, just like the heavenly bodies. Solomon lived at the very beginning of this millennium.
+His writings provide the temporal framework for understanding the rest of the prophets.</p>
+
+<p>Day 5 of creation (20 BC-980 AD), when the birds were created, corresponds to the Holy Spirit, given at Pentecost, beginning the 5th millennium.
+The sea creatures were also created. Leviathan, the great sea serpent is first given expression in the form of the Roman Empire.</p>
+
+<p>Day 6 of creation (980-1980 AD) saw the creation of the beasts and man. The sixth millennium spans the period during which mankind's knowledge grew fastest.</p>
+
+<p>Day 7 of creation (1980 AD-?) will usher in the sabbath rest, when Christ returns.</p>
+
+<hr/>
+
+<div class="numbered-image">
+  <p id="2" class="numbered-image">2</p>
+  <p><img class="numbered-image" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" /></p>
+</div>
+
+<hr/>
+
+<h2>Temple Dedication Clocks</h2>
+
+<ul>
+<li>Bible book: 1 Kings 8:62–63</li>
+<li>Defined in: <em>Peace, like Solomon Never Knew</em></li>
+<li>Chapter(s): Psalm 119: The Shepherd’s Clock</li>
+<li>Timespan: 4020 BC–39 AD, 960 BC–1680 AD</li>
+<li>Intervals: 22</li>
+<li>Period: 120 years</li>
+</ul>
+
+<p><strong>Notable facts:</strong></p>
+
+<p>When Solomon dedicated the temple, the quantity of
+animals sacrificed used the numbers twenty-two (22) and
+one hundred twenty (120). If you start the clock at the
+creation and allow Adam and Methuselah their longer
+generations, the 22nd generation ends in 39 AD, shortly
+after Christ sacrificed his life for our sins on the cross.
+Combined with the Psalm 119 clock which defines the
+birth of Christ before 19 AD, you can derive a range for
+the crucifixion of 19–39 AD!</p>
+
+<p>If you instead start the clock from the temple dedication
+in 960 BC, the 22nd generation ends in 1680 AD. This
+final generation was the beginning of the Scientific
+Revolution and the age of Reason. Solomon, the wisest
+non-divine man in history, pointed to the era where
+humanity’s earthly wisdom would explode.</p>
+
+<hr/>
+
+<div class="numbered-image">
+  <p id="3" class="numbered-image">3</p>
+  <p><img class="numbered-image" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" /></p>
+</div>
+
+<hr/>
+
+<h2>Solomon’s Celestial Clock</h2>
+
+<ul>
+<li>Bible book: Ecclesiastes 3:1-8</li>
+<li>Defined in: <em>Peace, like Solomon Never Knew</em></li>
+<li>Chapters: 
+<ul>
+<li>Solomon’s Celestial Clock,</li>
+<li>Solomon’s End Times</li>
+<li>Solomon’s Sundial</li>
+</ul></li>
+<li>Timespan: 960 BC–2280 AD (and beyond)</li>
+<li>Intervals: 28</li>
+<li>Period: 120 years (per “time”)</li>
+</ul>
+
+<p><strong>Notable facts:</strong></p>
+
+<p>This is the most fundamental prophetic clock in the Bible.
+It is the scaffolding that allows the others to be fit into a coherent and consistent framework.
+That makes it the mainspring of God's prophetic clocks.</p>
+
+<p>By assigning a single word to each generation, Solomon revealed the principal spiritual forces at work from the
+dedication of the temple in 960 BC until the day the Lord ushers in eternal peace. His choice of words? Impeccable.
+Here are the key events that occurred in half the twenty-eight times:</p>
+
+<ul>
+<li><em>A time to die</em>: Northern kingdom of Israel carried into captivity by Assyria.</li>
+<li><em>A time to plant</em>: Prosperous times for Judah under King Hezekiah.</li>
+<li><em>A time to uproot</em>: The Babylonian Exile of Judah uproots the Jews from their homeland.</li>
+<li><em>A time to kill</em>: Attempted genocide of all the Jews by Haman in the Book of Esther.</li>
+<li><em>A time to weep</em>: The Crucifixion of Jesus.</li>
+<li><em>A time to mourn</em>: Roman persecution of Christians peaks under Diocletian.</li>
+<li><em>A time to dance</em>: Rome becomes a Christian empire! Edict of Thessalonica issued in 380 AD.</li>
+<li><em>A time to throw away</em>: Byzantium abandoned to its fate.</li>
+<li><em>A time to tear</em>: Protestant Reformation &amp; civil war tears the church apart.</li>
+<li><em>A time to mend</em>: Dawn of Religious freedom and tolerance.</li>
+<li><em>A time to be silent</em>: Christians listen to God during the Pietism Movement, Methodist Revival &amp; Great Awakening.</li>
+<li><em>A time to speak</em>: Great age of Christian missions.</li>
+<li><em>A time to love</em>: Worldwide increase in health &amp; prosperity and Israel reborn.</li>
+<li><em>A time to hate</em>: Worldwide persecution of Christians and Jews will soon begin.</li>
+</ul>
+
+<p>The power of this clock is that it operates at different scales of time and on different levels of being.
+It structures the history of...</p>
+
+<ul>
+<li>a single person via the <a href="./growth-pattern.md">Growth Pattern</a>.</li>
+<li>ancient Israel and the church as a unity via this clock</li>
+<li>the secular world from the Creation until the end (via another clock)</li>
+<li>modern Israel (via a clock in "Appendix C: A Time for Israel" in <em>Peace, like Solomon Never Knew</em>)</li>
+</ul>
+
+<p>It structures the levels of...</p>
+
+<ul>
+<li>existence in the material world that Solomon calls life "under the sun"</li>
+<li>existence in the spiritual world, as explained by Jesus in Matthew the Apostle Paul in his first seven letters</li>
+</ul>
+
+<p>As illustrations of the spiritual dimension of Solomon's times:</p>
+
+<ul>
+<li>A time to be born is being "born again"</li>
+<li>A time to die is dying to self and gaining a new identity in Christ, as in Romans 6 and Galatians 2</li>
+<li>A time to plant is being baptized into the fellowship of the church</li>
+<li>A time to uproot is severing some ties with non-believers following salvation</li>
+</ul>
+
+<p>With Solomon's times woven into so much of the material and spiritual order of the world, this means that
+prophecy is also deeply personal. Neglecting its study is unwise.</p>
+
+<p>You can find more information about this clock in the article <a href="./twice-a-thousand-years.html">Twice a Thousand Years</a>.</p>
+
+<p>You can find more information about the spiritual analogs of the twenty-eight times in <a href="./the-righteous-fall-seven-times.html">The Righteous Fall Seven Times</a> and <a href="./pauls-discipleship-program.md">The Apostle Paul's Discipleship Program</a>.</p>
+
+<hr/>
+
+<div class="numbered-image">
+  <p id="4" class="numbered-image">4</p>
+  <p><img class="numbered-image" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" /></p>
+</div>
+
+<hr/>
+
+<h2>Solomon’s Son-dial</h2>
+
+<ul>
+<li>Bible book: Ecclesiastes 1–10</li>
+<li>Defined in: <em>Peace, like Solomon Never Knew</em></li>
+<li>Chapters:
+<ul>
+<li>Solomons Sundial,</li>
+<li>The Time of Her Confinement,</li>
+<li>Rightly Dividing the Words</li>
+</ul></li>
+<li>Timespan: 960 BC–2280 AD (and beyond)</li>
+<li>Intervals: 28 (divided by the phrase “under the sun”)</li>
+<li>Period: 120 years</li>
+</ul>
+
+<p><strong>Notable facts:</strong></p>
+
+<p>Almost a decade ago, I turned my attention to Ecclesiastes. I wrote a program that tallied how often each word and short phrase
+was used. The obvious result was that "under the sun" was Solomon's catch phrase. My clumsy research concluded that 
+the structure and interpretation of Ecclesiastes was tied up in two things:</p>
+
+<ul>
+<li>The poem of the twenty-eight times</li>
+<li>The phrase "under the sun", which also appears twenty-eight times</li>
+</ul>
+
+<p>It seemed sensible to ask, "Is the list of times a table of contents into the book?" I tried to map those words to
+the content of the rest of the book and failed. Also, the phrase "under the sun" is distributed haphazardly.
+It appears in one verse twice and in some chapters not at all, including the books two concluding chapters.
+I soon abandoned my effort and would not return to Ecclesiastes until 2020. The sad thing is that I was right. 
+I had correctly identified the two features of the book whose relationship you must understand in order to solve the riddles of its meaning.
+I just didn't know what to do with them.</p>
+
+<p>The twenty-eight times are not a table of contents into Ecclesiastes. They are a table of contents into a human life.
+Ecclesiastes is a treatise on the stages of a human life, but some of the "times" are not addressed there.
+They are however, addressed in Psalms, Proverbs, Matthew and the other <a href="./seven-pillars-of-wisdom.html">Seven Pillars of Wisdom</a>.</p>
+
+<p>As for the placement of the instances of "under the sun", that was subtle. They are the tick marks on a prophetic sundial. 
+Even though they are spaced unevenly, they do divide the book into twenty-eight pieces and each piece does correspond to
+one of the twenty-eight times, in sequence. Then the verses between the tick marks contains prophesies that point to events
+in the matching era of history. That is why Ecclesiastes is so hard to understand! It is a rundown of all history from 
+the dedication of the temple until Christ returns. By combining the time phrase and the words in the bracketed passage
+you can understand part of God's plan for history and how it is all developed from an analogy to the life of a single person.</p>
+
+<p>Here are where the "under the sun" references are found in Ecclesiastes and which time goes with each:</p>
+
+<ul>
+<li>1:3 Born</li>
+<li>1:9 Die</li>
+<li>1:14 Plant</li>
+<li>2:11 Uproot</li>
+<li>2:17 Kill</li>
+<li>2:18 Heal</li>
+<li>2:19 Tear down</li>
+<li>2:20 Build</li>
+<li>2:22 Weep</li>
+<li>3:16 Laugh</li>
+<li>4:1 Mourn</li>
+<li>4:3 Dance</li>
+<li>4:7 Scatter stones</li>
+<li>4:15 Gather stones</li>
+<li>5:13 Embrace</li>
+<li>5:18 Refrain</li>
+<li>6:1 Search</li>
+<li>6:12 Give up</li>
+<li>8:9 Keep</li>
+<li>8:15 Throw away</li>
+<li>8:17 Tear</li>
+<li>9:3 Mend</li>
+<li>9:6 Be Silent</li>
+<li>9:9 Speak, Love</li>
+<li>9:11 Hate</li>
+<li>9:13 War</li>
+<li>10:5 Peace</li>
+</ul>
+
+<p>The subtlest riddle in the Bible is hidden in “a thousand years twice over” in Ecclesiastes 6:6, whose answer gives us 120 years
+as the length of one of Solomon’s “times”. The solving of that riddle is the subject of <a href="./twice-a-thousand-years.html">Twice a Thousand Years</a>.</p>
+
+<p>A few interesting prophecies that fall out of the book are: </p>
+
+<ol>
+<li>On the “sun-dial”, the poem of the twenty-eight times occurs during “a time to weep” – when Jesus died for our sins, marking
+that the most important of times.</li>
+<li>Verse 9:9 says “meaningless” and “under the sun” twice and has the book’s only positive use of “love”. It falls on “a time to speak” and “a time to love”, season of God’s greatest outpouring of mercy upon the world and the greatest era of overseas Christian missions.</li>
+</ol>
+
+<p>In the chapter "Solomon's Sundial", the placement of the "under the sun" usages was also used as a scaffold to study the distribution of other common phrases throughout the book. One example should suffice. It is the word "wind" which is often used to indicate futility as in "chasing after the wind".</p>
+
+<h3>Wind</h3>
+
+<p>Wind can mean “spirit”. The King James uses “vexation of spirit” in place of “chasing after the wind”.
+The impossibilities of catching the wind, containing it, or
+stopping its repetitive cycles are all conveyed by
+Ecclesiastes. The endless cycle is introduced in 1:6 with 
+<em>“The wind blows to the south and turns to the north; round and round it goes, ever returning on its course.”</em> 
+Then the futility of chasing it is found all over. Since we can’t take anything
+with us when we die, 5:6 says we “toil for the wind”. In 8:8
+we are reminded that we can’t hold onto our spirit and so
+overcome death by the words “no one has power over the
+wind to contain it...” The final mentions describe the
+mysteriousness of the wind:</p>
+
+<h4>“Whoever watches the <strong>wind</strong> will not plant;</h4>
+
+<h5>whoever looks at the clouds will not reap.</h5>
+
+<h4>As you do not know the path of the <strong>wind</strong>,</h4>
+
+<h5>or how the body is formed in a mother’s womb,</h5>
+
+<h4>so you cannot understand the work of God,</h4>
+
+<h5>the Maker of all things."</h5>
+
+<h6>- Ecclesiastes 11:4-5, NIV</h6>
+
+<p>It is no mystery which verses speak of the wind:</p>
+
+<p><strong>1:6,14,17; 2:11,17,26; 4:4,6,16; 5:16; 6:9; 8:8; 11:4-5</strong></p>
+
+<p>If the phrase occurs in a verse that falls between a pair of
+“under the sun” verses, we will assume the “wind” phrase
+is relevant to both corresponding “times”. If the phrase is
+in the same verse as “under the sun”, we only match it with
+one time.</p>
+
+<p>For example, 1:6 includes “wind” and falls between 1:3
+(born) and 1:9 (die), so it will be assigned both <em>born</em> and <em>die</em>.</p>
+
+<p>On the other hand, 1:14 has both “under the sun” and
+“chasing after the wind”, so it is only assigned the time
+“plant”.</p>
+
+<p>If you continue this for all fourteen “wind” verses, you
+will collectively match seventeen of the times. You can
+rationalize good reasons for each match, such as terrible
+defeats or the destruction of the temple, but the clearest,
+simplest story that they tell may only be inferred by looking
+at the times that were NOT matched. Those unmatched
+times are the the sundial’s shadow. They are clumped into
+three groups of adjacent times:</p>
+
+<ul>
+<li>Heal, Tear down, Build</li>
+<li>Mourn</li>
+<li>Throw away, Tear, Mend, Be silent, Speak, Love, Hate, War</li>
+</ul>
+
+<p>What distinguishes these three periods of history from
+the rest? Satan. The three times in the first group span the
+silent years between the two testaments, when there were
+no prophets to add to the Word of God, the darkest time for
+Israel. That means the Spirit (the wind) was not at work
+sending authoritative messages to Israel to add to the Bible.
+The second group has one time, the time of the worst of
+the Roman persecutions, under Diocletian. This is what
+Revelation has to say about that time:</p>
+
+<h4>I know your afflictions and your poverty—yet you are rich!</h4>
+
+<h4>I know about the slander of those who say they are Jews</h4>
+
+<h4>and are not, but are a synagogue of <strong>Satan</strong>.</h4>
+
+<h4>Do not be afraid of what you are about to suffer.</h4>
+
+<h4>I tell you, the <strong>devil</strong> will put some of you in prison</h4>
+
+<h4>to test you, and you will suffer persecution for ten days.</h4>
+
+<h4>Be faithful, even to the point of death, and I will</h4>
+
+<h4>give you life as your victor’s crown.</h4>
+
+<h6>- Revelation 2:9-10, NIV</h6>
+
+<p>After that, there is a long stretch where wind appears
+repeatedly. The millennium from “a time to dance” through
+“a time to keep” constitutes the thousand years that Satan
+was bound, between the Edict of Thessalonica and the
+commencement of the long period of Ottoman sieges
+against Constantinople, leading to its fall. The Spirit blew
+freely during those years and experienced limited Satanic
+opposition while the church grew.</p>
+
+<p>After Satan was unbound, chaos ensued. Byzantium fell.
+The Reformation split the church and led to centuries of
+religious wars. More recently, the devil has deceived the
+nations; apostasy has spread, as formerly Christian nations
+abandon the faith. From “a time to throw away” to “a time
+to hate” (in our near future), the wind is absent again. That
+will end when history reaches “a time of war”. Christ will
+return in the middle or end of that time, and the Holy Spirit
+will complete his mission as well, as is revealed in
+Revelation:</p>
+
+<h4>Then I saw a Lamb, looking as if it had been slain,</h4>
+
+<h4>standing at the center of the throne, encircled by</h4>
+
+<h4>the four living creatures and the elders.</h4>
+
+<h4>The Lamb had seven horns and seven eyes, which are the</h4>
+
+<h4><strong>seven spirits of God sent out into all the earth</strong>.</h4>
+
+<h6>- Revelation 5:6, NIV</h6>
+
+<p>Lest there be confusion, the Holy Spirit has never nor
+will ever be entirely absent from this world. What the
+preceding shows is that the balance of influence between
+the Holy Spirit and Satan’s evil spirits has shifted over time,
+first one way then the other. As the final two occurrences of
+“wind” attest, we “do not know the path of the wind”.</p>
+
+<hr/>
+
+<div class="numbered-image">
+  <p id="5" class="numbered-image">5</p>
+  <p><img class="numbered-image" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" /></p>
+</div>
+
+<hr/>
+
+<h2>Lamps of the Ten Virgins</h2>
+
+<ul>
+<li>Bible book: Matthew 25</li>
+<li>Defined in: <em>Peace, like Solomon Never Knew</em></li>
+<li>Chapter: The Time of Her Confinement</li>
+<li>Timespan: 1–2280 AD</li>
+<li>Intervals: 10</li>
+<li>Period: 240 years (per lamp)</li>
+</ul>
+
+<p><strong>Notable facts:</strong></p>
+
+<p>In this parable from Matthew 25, ten virgins are to wait for the Bridegroom to arrive for the wedding.
+When he arrives, they are to meet him with lamps lit, attend to his needs
+and make the final preparations for the wedding. However, the Bridegroom is long in coming.
+The five foolish virgins did not plan for this and had run out of oil for their lamps.
+While they are at the market buying more oil, the Bridegroom arrives and the wedding starts.
+When they return, they are barred from entering the wedding and lose their right to participate
+in the festivities.</p>
+
+<p>When interpreted as a celestial clock, this parable assumes the clock began with Solomon but that
+we can skip over the first eight times, which is four seasons. That is because Jesus ascended to heaven
+(hence is the Bridegroom who went away until it was time for the wedding) during the ninth time,
+a time to weep. From "a time to weep" to "a time for peace" is twenty times or equivalently ten seasons.</p>
+
+<p>With that understood, each virgin with a lamp stands for one of Solomon’s “seasons”, which is
+made up of two 120-year “times”. During five of those ten seasons, women of the church were prepared, 
+including the current season. One ill-prepared season remains. All told, the women of the church
+were prepared during these seasons:</p>
+
+<ul>
+<li>Season 5: a time to weep and a time to laugh (1-240 AD)</li>
+<li>Season 6: a time to mourn and a time to dance (240-480 AD)</li>
+<li>Season 11: a time to tear and a time to mend (1440-1680 AD)</li>
+<li>Season 12: a time to be silent and a time to speak (1680-1920 AD)</li>
+<li>Season 13: a time to love and a time to hate (1920-2160 AD)</li>
+</ul>
+
+<p>In the beginning of the church, women were the first to see the risen Christ, participated actively 
+in running churches in their homes and assisting in missionary efforts.
+During the years when the women of the church were not prepared, whose fault was that?
+Women were progressively excluded from positions in the church from 360-480 AD.
+Then on the other side, the Protestant Reformation promoted the priesthood of all believers.
+Protestant schools taught women to read and they slowly began to progress towards equality.</p>
+
+<p>Why should we conclude that this parable is about whether the church respects and trains up
+women for service? The parable has many layers of meaning. On the surface, a wise or foolish virgin is
+an individual Christian, male or female, who has taken initiative to prepare for the return of Christ
+through learning the doctrines of the faith and obeying them conscientiously through acts of service.
+On a higher level, it is whole churches, since Revelation tells us that lamp stands stand for churches. 
+On the highest level, it is whole eras of the church age, when the church as a whole was either prepared
+or not. The identification of the preparedness or unpreparedness of women is offered as a synedoche, a single, identifiable
+sign and symptom of the church's condition that stands for the whole of its problems.</p>
+
+<p>The parable does not tell us which church ages were prepared or not. For that we must add in information from:</p>
+
+<ul>
+<li>Church history</li>
+<li>Other prophecies, like the letters to the Seven Churches in Revelation</li>
+</ul>
+
+<p>The chapter "Seven Churches for Seven Eras" in <em>Peace, like Solomon Never Knew</em> matches the seven named churches
+to seven eras of history, using evidence from scripture, church history and archaeology. The assigned dates for the
+early church ages are similar to those proposed by scholars at the time of the Reformation, while
+those for the later ages are based on my own research.</p>
+
+<p>The churches that Jesus mostly praised can be identified with the prepared virgins. The churches that Jesus had the harshest criticism 
+for can be identified with the foolish virgins. Those seven eras are not uniform in length, but by placing them 
+alongside the ten seasons of this parable, you will find that the praised church eras constitute half of church history.</p>
+
+<p>In the following chart, two thirds of the way down the image are two rows labeled "Ten Virgins" and "Letters to the Seven Churches".
+The blocks labeled "YES" are the eras when the church was prepared. These are those prepared church ages:</p>
+
+<ul>
+<li>Ephesus (33-100 AD)</li>
+<li>Smyrna (100-313 AD)</li>
+<li>Pergamum (313-550 AD) Only the first third or so of this era was prepared. As the era progressed, the acceptable roles of women were progressively diminished by popes and councils.</li>
+<li>Philadelphia (1453-1990 AD)</li>
+<li>Laodicea (1990 AD-?) The church will be prepared during the first half of this, our current era, but steadily lose ground.</li>
+</ul>
+
+<p>The unprepared church eras were:</p>
+
+<ul>
+<li>Pergamum (313-550 AD) The second two-thirds of the era.</li>
+<li>Thyatira (550-964 AD) The whole era.</li>
+<li>Sardis (964-1453 AD) The whole era.</li>
+<li>Laodicea (1990 AD-?) The second half of the era.</li>
+</ul>
+
+<p><a href="images/patterns-correlated.png" target="_blank">
+  <img class="wide" src="images/patterns-correlated.png" alt="Many wisdom patterns correlated" />
+</a></p>
+
+<p>A time of darkness will one day come when no one can work. The time of war will 
+test us all. Will women be prepared for this? Will men?</p>
+
+<p>For how this parable fits into the larger schema for world missions, see <a href="./wedding-parable.html">The Parable of the Wedding Feast</a>.</p>
+
+<hr/>
+
+<div class="numbered-image">
+  <p id="6" class="numbered-image">6</p>
+  <p><img class="numbered-image" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" /></p>
+</div>
+
+<hr/>
+
+<h2>Grand Father Clock</h2>
+
+<ul>
+<li>Bible book: Ecclesiastes</li>
+<li>Defined in: <em>Peace, like Solomon Never Knew</em></li>
+<li>Chapter: A Grand Father Clock &amp; a Silver Cord</li>
+<li>Timespan: 4020 BC–2280 AD</li>
+<li>Intervals: 42 (plus a short one)</li>
+<li>Period: 175 years (for 28 eras), 100 years (for 14 eras)</li>
+</ul>
+
+<p><strong>Notable facts:</strong></p>
+
+<p>One reason why scholars are stumped by Ecclesiastes is that it has multiple prophetic 
+sequences overlaying one another. The same passage may have some verses that are prophecies for one clock
+while having other verses that are part of a second. Ecclesiastes has at least four:</p>
+
+<ol>
+<li>The poem of Ecclesiastes 3:1-8 describes a clock from the temple dedication to Christ's return.</li>
+<li>The major portion of the book describes a clock from the temple dedication to Christ's return, divided into eras by the phrase "under the sun".</li>
+<li>The whole book describes a clock from the Creation to Christ's return, divided into eras first by the phrase "under the sun", then by other textual clues.</li>
+<li>The major portion of the book describes a clock from the Holocaust to Christ's return, divided into eras by the phrase "under the sun".</li>
+</ol>
+
+<p>The first two listed above go hand in hand. They describe the growth of ancient Israel and a remnant's transformation into the church as
+a unit from birth to full maturity. When Christ returns, the church will be spiritually vital. The bride will be ready and in her prime.</p>
+
+<p>The third clock listed above describes the growth of human civilization from birth to maturity to decline to death. It covers the whole
+life arc of Ecclesiastes, not omitting the days of darkness and decline. It does not have a happy ending like the other three.</p>
+
+<p>The fourth clock governs the history of modern Israel.</p>
+
+<p>This section is about the third clock above, for all humanity. It follows the rise and fall of human civilization
+through three phases:</p>
+
+<ul>
+<li>years of growth (28 times of 175 years each) from 4020 BC-880 AD</li>
+<li>productive years (12 times of 100 years each) from 880-2080 AD</li>
+<li>years of decline (2 times) from 2080-2280 AD or beyond</li>
+</ul>
+
+<p>It identifies the centuries in which:</p>
+
+<ul>
+<li>Satan would be unbound (1380–1480 AD)</li>
+<li>New printing technology would let “fools multiply words”</li>
+<li>Kingdoms would have kings to rule as fools (1580–1680 AD), during the General Crisis</li>
+<li>Or rule as wise (1680–1780 AD), during the Enlightenment</li>
+<li>Or do away with kings altogether (1780–1880 AD), as democracy and revolution spread</li>
+<li>To be followed by Feasting (1880–1980 AD), as health, long life and prosperity spread worldwide</li>
+</ul>
+
+<p>Let's zoom in on one verse to get the flavor. Ecclesiastes 10 is an extended metaphor for building a house.
+Is that not a fitting analogy for building a civilization? Setting aside for now how the calculation was made,
+the first half of verse 9 may be associated with the era 1180-1280 AD.</p>
+
+<h4>Whoever quarries stones may be injured by them...</h4>
+
+<h6>- Ecclesiastes 10:9a</h6>
+
+<p>A modern work site sees an endless stream of trucks dropping off supplies. The masonry work may require
+marble, granite, brick, natural stone or cinder blocks. This verse, about quarrying stone, is the most on-the-nose verse
+in the chapter. The late twelfth and thirteenth centuries were the peak of the age of church building. 
+Many of the great cathedrals were constructed during this century. It is estimated that during
+this phase of the establishment of Christendom, more stone was quarried for churches than was used for all the
+pyramids and temples of Ancient Egypt combined. A few decades into the next era, the addition of a new spire
+to the Lincoln Cathedral made it the tallest building in the world, a title it held for 237 years.
+(Prior to that, the Pyramid of Giza held the title for 3,800 years!)</p>
+
+<p>This clock chronicles the rise and fall of modern Western Civilization. It is sobering to hear about its approaching demise.</p>
+
+<p>In progress...</p>
+
+      </div>
+
+    </div>
+    <!-- Page Footer -->
+    <div class="footer faint">
+      
+    </div>
+  </div>
+</body>
+</html>

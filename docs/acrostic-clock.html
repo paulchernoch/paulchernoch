@@ -1,0 +1,1503 @@
+
+<!DOCTYPE html>
+<head>
+  <!--from template: default-page.html -->
+  <title>The Acrostic Clock</title>
+  <link rel="stylesheet" href="./styles/tree.css" type="text/css">
+  <link rel="stylesheet" href="./styles/toc.css" type="text/css">
+  <link rel="stylesheet" href="./styles/article.css" type="text/css">
+  <!-- Font Awesome supplies the icons used in the TOC -->
+  <script src="https://kit.fontawesome.com/ecadd7b212.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="./styles/page.css" type="text/css">
+
+  <script>
+    /* Search for a css class name in an HTML element and replace it with a second class. */
+    function replace_class(element, from_class, to_class) {
+      element.classList.remove(from_class)
+      element.classList.add(to_class)
+    }
+
+    /* Show or hide the table of contents menu in the left sidebar by changing the style classes.
+       Also show and hide the buttons used to open and close the menu.
+     */
+    function toggleLeftSidebar(open) {
+      const sidebar = document.getElementById("leftsidebar");
+      const open_button = document.getElementById("leftsidebaropen");
+      const close_button = document.getElementById("leftsidebarclose");
+      const body = document.getElementById("articlebody")
+     
+      if (open) {
+        replace_class(sidebar, "leftsidebar-closed", "leftsidebar-open")
+        replace_class(open_button, "show-toggle", "hide-toggle")
+        replace_class(close_button, "hide-toggle", "show-toggle")
+        replace_class(body, "body-wide", "body-narrow")
+      }
+      else {
+        replace_class(sidebar, "leftsidebar-open", "leftsidebar-closed")
+        replace_class(open_button, "hide-toggle", "show-toggle")
+        replace_class(close_button, "show-toggle", "hide-toggle")
+        replace_class(body, "body-narrow", "body-wide")
+      }
+   }
+
+  </script>
+</head>
+<html>
+
+
+<body>
+  <!-- Floating buttons to open and close the TOC -->
+  <div id="toggle">
+    <div class="tooltip">
+
+      <a id="leftsidebaropen" class="hide-toggle" role="button" tabindex="1" onclick="toggleLeftSidebar(true)" >
+        <i class="fas fa-angle-double-right"></i>
+        <span class="tooltiptext">Show</span>
+      </a>
+      <a id="leftsidebarclose" class="show-toggle" role="button" tabindex="2" onclick="toggleLeftSidebar(false)">
+        <i class="fas fa-angle-double-left"></i>
+        <span class="tooltiptext">Hide</span>
+      </a>
+    </div>
+  </div>
+  <!-- Page Header -->
+  <div class="header header-colors">
+    <a href="index.html">
+      <img src="images/wisdom-house.png" width="676" height="250"/>
+    </a>
+
+    <div class="quote">For the righteous will never be moved; <br/> he will be remembered forever. <br/> - Psalm 112:6</div>
+
+  </div>
+  <!-- Left Sidebar TOC -->
+  <div class="container">
+    <div id="leftsidebar" class="leftsidebar-open left-side-colors" tabindex="0">
+        <ul class="tree-padding tree-vertical-lines tree-horizontal-lines tree-summaries tree-markers tree-buttons">
+          <li>
+            <details open="">
+              <summary><i class="fa-solid fa-house-chimney"></i> <a href="home.html">Home</a></summary>
+                <ul>
+                  <li><i class="fas fa-address-card"></i> <a href="about.html">About this Site</a></li>
+                  <li><i class="fas fa-feather-alt"></i> <a href="author.html">Author</a></li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-book"></i> <a href="books.html">Books</a></summary>
+                        <ul>
+                          <li> <a href="the-endless-hunt.html">The Endless Hunt</a></li>
+                          <li> <a href="job-rises.html">Job Rises</a></li>
+                          <li> <a href="peace-book.html">Peace, Like Solomon Never Knew</a></li>
+                          <li> <a href="plague-book.html">Plague, Precept, Prophet, Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li><i class="fa-solid fa-user-secret"></i> <a href="secret.html">Shhhh! Secret!</a></li>
+                  <li>
+                    <details>
+                      <summary><i class="fa-solid fa-building-columns"></i> <a href="lady-wisdom-s-house.html">Lady Wisdom's House</a></summary>
+                        <ul>
+                          <li> <a href="lady-wisdom.html">Lady Wisdom</a></li>
+                          <li> <a href="hannah-s-song.html">Hannah's Song</a></li>
+                          <li> <a href="blueprint.html">Blueprint for Lady Wisdom's House</a></li>
+                          <li> <a href="foundation.html">Foundation: The Commandments</a></li>
+                          <li> <a href="seven-spirits.html">Lanterns: The Seven Spirits of God</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="seven-pillars-of-wisdom.html">Seven Pillars of Wisdom</a></summary>
+                                <ul>
+                                  <li> <a href="theme-of-books.html">Theme of Books</a></li>
+                                  <li> <a href="theme-of-swords.html">Theme of Swords</a></li>
+                                  <li> <a href="theme-of-pillars.html">Theme of Pillars</a></li>
+                                  <li> <a href="theme-of-thunders.html">Theme of Thunders</a></li>
+                                  <li> <a href="theme-of-spirits.html">Theme of Spirits</a></li>
+                                  <li> <a href="theme-of-songs.html">Theme of Songs</a></li>
+                                  <li> <a href="theme-of-treasures.html">Theme of Treasures</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="roof-of-peace.html">Roof: Paul's Gospel of Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-seedling"></i> <a href="spiritual-growth.html">Spiritual Growth</a></summary>
+                        <ul>
+                          <li> <a href="most-important-questions.html">What are life's Most Important Questions?</a></li>
+                          <li> <a href="heavenly-treasures.html">What are the Heavenly Treasures?</a></li>
+                          <li> <a href="harvest-pattern.html">The Harvest Pattern of Jesus</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="growth-pattern.html">The Growth Pattern of Solomon</a></summary>
+                                <ul>
+                                  <li> <a href="there-is-a-season.html">There is a Season</a></li>
+                                  <li> <a href="pauls-discipleship-program.html">The Apostle Paul's Discipleship Program</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="the-motherhood-pattern.html">The Motherhood Pattern</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="law-pattern.html">The Law Pattern of Moses</a></summary>
+                                <ul>
+                                  <li> <a href="which-ten-commandments.html">Which Ten Commandments?</a></li>
+                                  <li> <a href="matthew-and-the-law-of-christ.html">Matthew and the Law of Christ</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="the-journey-pattern.html">The Journey Pattern</a></li>
+                          <li> <a href="emotional-prophecies-of-the-psalms.html">Emotional Prophecies of the Psalms</a></li>
+                          <li> <a href="talk-to-god.html">Job and the Ways to Talk to God</a></li>
+                          <li> <a href="job-description-for-a-savior.html">Job Description for a Savior</a></li>
+                          <li> <a href="dreams.html">Dreams</a></li>
+                          <li> <a href="spiritual-warfare.html">Spiritual Warfare</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-hourglass-half"></i> <a href="the-end-times.html">The End Times</a></summary>
+                        <ul>
+                          <li> <a href="seven-cycles-of-judgment.html">Seven Cycles of Judgment</a></li>
+                          <li> <a href="satan-bound-and-released.html">Satan, Bound and Released</a></li>
+                          <li> <a href="the-millennial-kingdom.html">The Millennial Kingdom</a></li>
+                          <li> <a href="the-four-horsemen-of-the-apocalypse.html">The Four Horsemen of the Apocalypse</a></li>
+                          <li> <a href="the-fifth-trumpet.html">The Fifth Trumpet</a></li>
+                          <li> <a href="the-fifth-seal.html">The Fifth Seal</a></li>
+                          <li> <a href="voice-of-the-seven-thunders.html">Voice of the Seven Thunders</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-list-ol"></i> <a href="numerology.html">Numerology</a></summary>
+                        <ul>
+                          <li> <a href="to-number-our-days.html">To Number our Days</a></li>
+                          <li> <a href="2-is-for-jesus.html">2 is for Jesus</a></li>
+                          <li> <a href="3-is-for-the-father.html">3 is for the Father</a></li>
+                          <li> <a href="4-is-for-cycles-of-nature.html">4 is for Cycles of Nature</a></li>
+                          <li> <a href="5-is-for-grace.html">5 is for Grace</a></li>
+                          <li> <a href="6-is-for-man.html">6 is for Man</a></li>
+                          <li> <a href="7-is-for-the-holy-spirit.html">7 is for the Holy Spirit</a></li>
+                          <li> <a href="17-is-for-victory.html">17 is for Victory</a></li>
+                          <li> <a href="28-is-for-time.html">28 is for Time</a></li>
+                          <li> <a href="40-is-for-suffering.html">40 is for Suffering</a></li>
+                          <li> <a href="42-is-for-the-journey.html">42 is for the Journey</a></li>
+                          <li> <a href="120-is-for-consecration.html">120 is for Consecration</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="153-is-for-total-victory.html">153 is for Total Victory</a></summary>
+                                <ul>
+                                  <li> <a href="153-connections.html">153 Connections</a></li>
+                                  <li> <a href="defining-153.html">Defining 153</a></li>
+                                  <li> <a href="153-and-fear.html">153 and Fear</a></li>
+                                  <li> <a href="153-and-hope.html">153 and Hope</a></li>
+                                  <li> <a href="habakkuk-part-1.html">Habakkuk Part 1</a></li>
+                                  <li> <a href="habakkuk-part-2.html">Habakkuk Part 2</a></li>
+                                  <li> <a href="habakkuk-part-3.html">Habakkuk Part 3</a></li>
+                                  <li> <a href="habakkuk-part-4.html">Habakkuk Part 4</a></li>
+                                  <li> <a href="habakkuk-part-5.html">Habakkuk Part 5</a></li>
+                                  <li> <a href="habakkuk-part-6.html">Habakkuk Part 6</a></li>
+                                  <li> <a href="habakkuk-part-7.html">Habakkuk Part 7</a></li>
+                                  <li> <a href="153-and-the-fifth-trumpet.html">153 and the Fifth Trumpet</a></li>
+                                  <li> <a href="habakkuk-s-war.html">Habakkuk's War</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="210-is-for-peace.html">210 is for Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details open="">
+                      <summary><i class="fas fa-scroll"></i> <a href="prophetic-clocks.html">Prophetic Clocks</a></summary>
+                        <ul>
+                          <li> <a href="types-of-clock.html">Types of Clock</a></li>
+                          <li>
+                            <details open="">
+                              <summary> <a href="generational-clocks.html">Generational Clocks</a></summary>
+                                <ul>
+                                  <li> <a href="job-s-anti-jubilee-clock-defined.html">Job's Anti-Jubilee Clock, Defined</a></li>
+                                  <li> <a href="alexander-the-great.html">The Death of Alexander the Great</a></li>
+                                  <li> <a href="psalm-119.html">Psalm 119: The Shepherd's Clock</a></li>
+                                  <li> <a href="generations-come-and-go.html">Generations Come and Go</a></li>
+                                  <li> <a href="two-patterns-in-history.html">Two Patterns in History</a></li>
+                                  <li> <a href="acrostic-clock.html">The Acrostic Clock</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li>
+                            <details>
+                              <summary> <a href="celestial-clocks.html">Celestial Clocks</a></summary>
+                                <ul>
+                                  <li> <a href="grandfather-clock.html">A Grandfather Clock & a Silver Cord</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="spiritual-clocks.html">Spiritual Clocks</a></li>
+                          <li> <a href="empire-clocks.html">Empire Clocks</a></li>
+                          <li> <a href="commandment-clocks.html">Commandment Clocks</a></li>
+                          <li> <a href="other-clocks.html">Other Clocks</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-question-circle"></i> <a href="riddles.html">Riddles</a></summary>
+                        <ul>
+                          <li> <a href="the-righteous-fall-seven-times.html">The Righteous Fall Seven Times</a></li>
+                          <li> <a href="twice-a-thousand-years.html">Twice a Thousand Years</a></li>
+                          <li> <a href="seven-pillars-riddle.html">The Seven Pillars of Wisdom</a></li>
+                          <li> <a href="riddle-of-153-fish.html">Why 153 Fish?</a></li>
+                          <li> <a href="riddles-of-war.html">Riddles of War</a></li>
+                          <li> <a href="building-a-house.html">Building a House</a></li>
+                          <li> <a href="hannah-s-song.html">Hannah's Song</a></li>
+                          <li> <a href="satan-s-taunt.html">Satan's Taunt</a></li>
+                          <li> <a href="vineyard-parable.html">Parable of the Workers in the Vineyard</a></li>
+                          <li> <a href="wedding-parable.html">The Parable of the Wedding Feast</a></li>
+                          <li> <a href="the-childbearing.html">The Childbearing</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fa-solid fa-person-harassing"></i> <a href="a-divided-world.html">A Divided World</a></summary>
+                        <ul>
+                          <li>
+                            <details>
+                              <summary> <a href="against-complementarianism.html">Against Complementarianism</a></summary>
+                                <ul>
+                                  <li> <a href="a-model-for-the-ordination-of-women.html">A Model for the Ordination of Women</a></li>
+                                  <li> <a href="submission.html">Submission</a></li>
+                                  <li> <a href="consecration.html">Consecration</a></li>
+                                  <li> <a href="identification.html">Identification</a></li>
+                                  <li> <a href="quantification.html">Quantification</a></li>
+                                  <li> <a href="reconciliation.html">Reconciliation</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-calendar-alt"></i> <a href="chronology.html">Chronology</a></summary>
+                        <ul>
+                          <li> <a href="dating-the-creation.html">Dating the Creation</a></li>
+                          <li> <a href="sojourn-of-israel.html">Sojourn of Israel</a></li>
+                          <li> <a href="chronology-of-judges.html">Chronology of Judges</a></li>
+                          <li> <a href="lifespan-of-solomon.html">Lifespan of Solomon</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                </ul>
+            </details>
+          </li>
+
+        </ul>
+    </div>
+    <!-- Article Text -->
+    <div id="articlebody" class="body-narrow" tabindex="3">
+      <div class="article">
+        <h1>The Acrostic Clock</h1>
+        <h2>Psalms 111 and 112</h2>
+        <p class="date">Published on 2024-06-18</p>
+        
+        <h2>Marvelous or marvel-less?</h2>
+
+<p>We have been walking through fifty selected psalms that fit into a clock, with each such
+psalm corresponding to a forty-two year era of history, beginning with the creation and
+continuing until Christ’s return (or near to it). Our next stop is Psalm 112. It fits the
+schema but cannot be properly understood without reference to Psalm 111, which is not
+part of this master Psalm Clock. These two psalms form a clock of their own, an Acrostic
+Clock. This Acrostic Clock intersects the major psalm clock at Psalm 112:4. That verse
+maps to the same years in each clock. The extra details brought in from Psalm 111 and
+from the coarser time structure of the Acrostic Clock confirm the interpretation of verse 4.
+They also connect us to Psalm 119 and to the Ten Commandments. By these connections,
+the larger structure of the Psalms becomes clearer and the reasonableness of interpreting
+the Psalms in this way is supported.</p>
+
+<p>All of what I just said may be true – and still be dull as dishwater. The only reason I dove
+into Psalm 111 was to find evidence to shore up my theory about Psalm 112. That is not
+what psalms were made for. They are examples of people meditating on God’s Law. 
+<em>“Open my eyes, that I may behold wondrous things out of your law.”</em> (119:18) 
+I saw useful. I did not see wondrous. This chapter might proceed as originally planned, 
+but now as I write, my heart is searching for wonders.</p>
+
+<h2>Psalm 112: 642-684 AD</h2>
+
+<p>In our larger Psalm Clock, this psalm maps to the middle of the seventh century.</p>
+
+<h4>Light dawns in the darkness for the upright;</h4>
+
+<h5>he is gracious, merciful, and righteous.</h5>
+
+<h6>- Psalm 112:4</h6>
+
+<p>The reference to darkness reminds us that we are near the start of the Dark Ages, which
+began in the previous century. The upright person is characterized by three qualities:</p>
+
+<ul>
+<li><strong>Gracious</strong> recalls the declaration from Ephesians 2:8, <em>“For by grace you have been saved through faith.”</em> The Son of God graciously saved us by his blood. We didn’t deserve it.</li>
+<li><strong>Merciful</strong> recalls the Father’s words reported by Paul in Romans 9:15: For he says to Moses, <em>“I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion.”</em></li>
+<li><strong>Righteous</strong> is a synonym for holy, so this quality speaks of the Holy Spirit.</li>
+</ul>
+
+<p>Of course these qualities are shared by all members of the Trinity. In this era, the Trinity
+came under assault. The legions of Islam denied the incarnation and denied the Trinity.
+They captured Jerusalem and held it for over a millennium, except for two brief periods
+during the Crusades.</p>
+
+<p>The above connection is weak. Let us bring in Psalm 111 and see what the two together
+have to say.</p>
+
+<h2>Two Interlocking Psalms</h2>
+
+<p>Unlike some collections of psalms in the psalter which are non-consecutive, this pair was
+arranged consecutively so that their connection would be obvious. Both are acrostics. In
+Hebrew, every line of poetry in these two psalms begins with a different letter of the
+Hebrew alphabet, in alphabetical order. The first eight verses of each are couplets; the
+remaining two verses are triplets. This is the first, most obvious structural similarity
+between the two.</p>
+
+<p>Since Psalm 119 is an acrostic, with each stanza, not verse or poetic line, beginning with
+a different letter, one might hope there is a connection between all three, and there is. As
+explored in Peace, Psalm 119 sets the period in years for each tick of the clock at 119 years,
+which duration also applies to these clocks, excepting the generations of Adam and
+Methuselah, who lived much longer. So these acrostics likewise use the rigorous sequence
+of the alphabet to hint at their hidden purpose: to prophesy a precise sequence of
+historical events.</p>
+
+<p>Another indicator of prophetic content is the identification of these as wisdom psalms.
+The fingerprint of each of the Seven Spirits of God may be found in the collective verses
+of these two psalms (though in no particular order):</p>
+
+<ul>
+<li><strong>Spirit of the Lord</strong>. Both Psalms begin with “Praise the Lord” and address the Lord elsewhere.</li>
+<li><strong>Spirit of Wisdom</strong>. In Psalm 111:10, we are instructed what is <em>“the beginning of wisdom”</em>.</li>
+<li><strong>Spirit of Understanding</strong>. Also in 111:10, we are informed what type of person has <em>“a good understanding”</em>.</li>
+<li><strong>Spirit of Counsel</strong>. First, it was the prophets speaking by the Spirit who delivered God’s counsel in the form of prophecy, so by being prophetic these psalms count as counsel. Second, these psalms give examples of counsel given to guide us: precepts (111:7), covenants (111:5,9) and commandments (112:1).</li>
+<li><strong>Spirit of Might</strong>. God’s might is displayed in <em>“the power of his works”</em> (111:6) which are <em>“established forever and ever”</em> (111:8), ensuring that <em>“his offspring will be mighty”</em> (112:2) and will <em>“never be moved”</em> (112:6).</li>
+<li><strong>Spirit of Knowledge</strong>. The clearest inference that this spirit is present is found in these words: <em>“Great are the works of the Lord, <strong>studied</strong> by all who delight in them”</em> (111:2). It is in studying God that our knowledge increases. The second inference is from the purpose of that knowledge: to reap an evangelistic harvest. That is the thrust of Matthew, the book most aligned with this spirit. Pursuant to this, we have these words: <em>“He has distributed freely; he has given to the poor; his righteousness endures forever; his horn is exalted in honor.”</em> (112:9)</li>
+<li><strong>Spirit of the Fear of the Lord</strong>. The fear of the Lord appears at the conclusion of the first psalm (111:10) and the introduction of the second (112:1). It also shows up in the middle of one (111:5). Beginning, middle, end. This spirit is preeminent.</li>
+</ul>
+
+<p>Before continuing the analysis of these two psalms, it is helpful to line them up side-by-side. In the following table, poetic lines with bolded text either match by exact phrasing, by synonymy, or occasionally by antonymy. Half the phrases have such a match.</p>
+
+<p><br/>
+<img class="center" src="images/psalms-111-and-112.png" alt="Psalms 111 and 112 side-by-side" />
+<br/></p>
+
+<p>The many similarities prove the connection, but the key difference explains its meaning.
+Psalm 111 speaks of the Lord. Psalm 112 speaks of the upright man. The two psalms taken
+together teach us that the upright man copies the Lord. God is teacher, model, and father.
+The one who fears God becomes like Him in righteousness.</p>
+
+<p>With that insight in hand, other truths surface. “Splendor and majesty” of verse 3 is an
+odd pairing for “wealth and riches”. The only way they can match is for the upright man
+to value the splendor and majesty of God, which is God’s glory, more than material
+wealth. Proverbs and Job liken wisdom to gold, silver and rubies. Now we see this in
+Psalms.</p>
+
+<p>Verse 7 shows another profound connection. In Psalm 111 we see “trustworthy”, but in
+Psalm 112, “trusting”. The Lord is trustworthy and that inspires in the upright a response
+of faith, with the man relying on God’s faithfulness, trusting God to keep His promises
+and maintain His steadfast love.</p>
+
+<p>If we carry uprightness to its extreme, we see that Psalm 111 is about the Father while
+Psalm 112 is about the Son. Another clue that supports this is in 112:2, “his offspring will
+be mighty in the land”. Jesus is God’s offspring.</p>
+
+<p>These psalms do more than describe a verse by verse cause and effect. They tell a larger
+story that spans the two. The hinge is found in the last verse of Psalm 111 and the first
+verse of Psalm 112. That hinge is the fear of the Lord. Between Father and Son we have the
+ultimate expression of the Seven Spirits of God. Father, Spirit, Son.</p>
+
+<p>Ecclesiastes ends by extolling the Fear of the Lord. The introductory chapters of Proverbs
+do the same. Ecclesiastes concerns time and is particularly associated with the Father.
+Proverbs concerns the planted seed and is particularly associated with the Son; all its
+teachings are expressed as a Father’s advice to his son. Thus these two psalms mirror
+Ecclesiastes and Proverbs, respectively.</p>
+
+<p>With all these parallels and the acrostic nature to suggest a methodical sequence of time,
+the question becomes: how do they define a clock? Twenty-two poetic lines from Psalm 111
+plus twenty-two more from Psalm 112 makes a clock of forty-four time periods. The clock
+based on Psalm 119 had only twenty-two generations, going from Creation to Christ. The
+clocks based on Job, Matthew’s Chronology and some other Bible passages that run from
+Creation to Christ’s Second Coming span forty-two generations. Only one solution made
+sense.</p>
+
+<p>A single clock of forty-two periods may be formed by splicing the two psalms together
+with two generations of overlap. That overlap includes the two consecutive generations
+when Jesus was born and was crucified. That overlap is drawn from the verses in each that
+speak of the Fear of the Lord. Thus Psalm 111 leads us from Creation to Christ and Psalm
+112 leads from Christ’s first to his second coming.</p>
+
+<p>The starkest difference between the two psalms supports this conclusion. Psalm 111 says
+nothing about the wicked. Psalm 112 ends by speaking about how the wicked will perish.
+That prophesies the events of the tribulation that immediately precedes the Messiah’s
+return.</p>
+
+<p>The preceding speaks qualitatively about how to relate these psalms to history. Now it is
+time to get quantitative. In the following, each poetic line corresponds to an era of history.
+Sometimes the match is looser, in which case a whole verse matches two generations.</p>
+
+<p><strong>Night and Day</strong>. One caveat. The correspondences for Psalm 112 (which look forward
+from the Psalmist’s time) are much stronger than those for Psalm 111, which mostly looks
+backward. Why? Maybe there is no pattern and no prophetic clock. Or perhaps my skill at
+finding the connections is poor. If neither of those is true, a third explanation comes to
+mind, one consistent with the very verse that sent me on this wild goose chase, Psalm
+112:4, which begins, <em>“Light dawns in the darkness for the upright…”</em> In the dark of night, little
+can be seen. Only as dawn approaches do the features of the world become recognizable.
+Psalm 111 spans the years of darkness. Psalm 112 begins at the rising of the Morning Star.</p>
+
+<p>Behold the light.</p>
+
+<h2>Psalm 111, verse by verse.</h2>
+
+<div class="era">
+  <p>1st Generation: 4020-3090 BC.</p>
+  <p>Psalm 111:1a.</p>
+  <p>Abel.</p>
+</div>
+
+<h4>I will give thanks to the Lord with my whole <strong>heart</strong>.</h4>
+
+<p>This generation is defined by Adam, who lived 930 years. Only two people from the first
+millennium were commended in Scripture. First was Abel, whose sacrifice God accepted
+and who became the first martyr. Second was Enoch who “walked with God”. He was
+born in this generation and in the second generation was carried up to heaven without
+dying. Those two men loved God wholeheartedly, but which one is best associated with the
+heart?</p>
+
+<p>The heart is the organ that pumps our blood. The Bible’s first mention of blood is in the
+story of Cain and Abel. 
+<em>“And the Lord said, ‘What have you done? The voice of your brother's blood is crying to me from the ground.’ ”</em> 
+(Genesis 4:10) Abel is a type of Christ, whose heart burst on the cross, and whose blood also was spilt upon the ground and upon the souls of
+all who accept his sacrifice in faith.</p>
+
+<div class="era">
+  <p>2nd Generation: 3090-2361 BC.</p>
+  <p>3rd Generation: 2361-2242 BC.</p>
+  <p>Psalm 111:1b-2a.</p>
+  <p>The Flood of Noah.</p>
+</div>
+
+<h4>… in the company of the upright, in the congregation. Great are the works of the Lord…”</h4>
+
+<p>Here we have two lines and two generations. The dividing line between the second and
+third generations is the great flood. Before the flood, generations were long. After the
+flood, shortened to 120 years, with one year of overlap as with all Generation Clocks.</p>
+
+<p>Great are the Lord’s works! Only three works in history are greater than the flood: the
+Creation, the New Creation at the end of time, and Christ’s death and Resurrection. This
+work is distinguished from the Creation, in which no humans actively participated, save
+Adam, passively as creature, on the sixth day. It is distinguished from the Crucifixion,
+carried out by the company of the wicked. It is like the New Creation, when the whole
+“company of the upright” shall be assembled at the time of the Rapture. The story of the
+flood is the first time a group of people, Noah and his family, cooperated in obedience to
+God. His family was the first congregation mentioned in Scripture.</p>
+
+<div class="era">
+  <p>4th Generation: 2242-2123 BC.</p>
+  <p>5th Generation: 2123-2004 BC.</p>
+  <p>Psalm 111:2b-3a.</p>
+  <p>Nimrod, Tower of Babel</p>
+  <p>& Dispersal of the Nations.</p>
+</div>
+
+<h4>… studied by all who delight in them.</h4>
+
+<h4>Full of splendor and majesty is his work…</h4>
+
+<p>If verse 2a declared one of the Lord’s great works, verse 2b tells us with irony that the
+people of that day failed to study and delight in it. Disobeying God, they built the Tower
+of Babel and provoked another great work of God: the destruction of the tower, the
+confusion of the languages and the establishment of the original nations and tribes of
+humanity.</p>
+
+<p>The word “majesty” is another source of irony. For ages it was common to address kings
+and queens as “Your Majesty”. It is a title of authority. Nimrod, that mighty hunter before
+the Lord, established the first empire in human history at this time. He was the first
+human “majesty”, and he lost that majesty by God’s wrath when his subjects were scattered
+to the four corners of the earth.</p>
+
+<div class="era">
+  <p>6th Generation: 2004-1885 BC.</p>
+  <p>Psalm 111:3b.</p>
+  <p>Abraham.</p>
+</div>
+
+<h4>… and his righteousness endures forever.</h4>
+
+<p>Abraham was promised an eternal kingdom founded on righteousness. As Paul said,</p>
+
+<h4>“For the promise to Abraham and his offspring</h4>
+
+<h4>that he would be heir of the world did not come</h4>
+
+<h4>through the law but through the righteousness of faith.”</h4>
+
+<h6>- Romans 4:13</h6>
+
+<p>What a great promise! To receive such a promise from the lips of God – there can be no
+greater honor. </p>
+
+<h4>“And I will establish my covenant between me and you</h4>
+
+<h4>and your offspring after you throughout their generations</h4>
+
+<h4>for an everlasting covenant, to be God to you</h4>
+
+<h4>and to your offspring after you.”</h4>
+
+<h6>- Genesis 17:7, ESV</h6>
+
+<div class="era">
+  <p>7th Generation: 1885-1766 BC.</p>
+  <p>Psalm 111:4a.</p>
+  <p>Job.</p>
+</div>
+
+<h4>He has caused his wondrous works to be remembered…</h4>
+
+<p>Nobody knows when Job lived, but based on multiple lines of evidence presented in 
+<em>Job Rises: Thirteen Keys to a Resilient Life</em>, his 210 year lifespan overlapped this era. Looking at
+this verse, it is good advice for all ages. However, who was the first person to take the
+initiative to make sure God’s works would be remembered? Who poured out his heart in
+desperate prayer to the Lord that the story of his faith and struggles not be forgotten but
+serve as a reminder to all generations that God can even raise the dead?</p>
+
+<h4><strong>Oh that my words were written!</strong></h4>
+
+<h5><strong>Oh that they were inscribed in a book!</strong></h5>
+
+<h4><strong>Oh that with an iron pen and lead</strong></h4>
+
+<h5><strong>they were engraved in the rock forever!</strong></h5>
+
+<h4>For I know that my Redeemer lives,</h4>
+
+<h5>and at the last he will stand upon the earth.</h5>
+
+<h4>And after my skin has been thus destroyed,</h4>
+
+<h5>yet in my flesh I shall see God,</h5>
+
+<h4>whom I shall see for myself,</h4>
+
+<h5>and my eyes shall behold, and not another.</h5>
+
+<h4>My heart faints within me!</h4>
+
+<h6>- Job 19:23-27</h6>
+
+<p>According to tradition, Job is the oldest book in the Bible, composed even before
+Genesis. It was Job’s prayer that created the Bible, and God’s gracious answer to that prayer
+that caused all these marvelous truths to be remembered.</p>
+
+<div class="era">
+  <p>8th Generation: 1766-1647 BC.</p>
+  <p>Psalm 111:4b.</p>
+  <p>Joseph.</p>
+</div>
+
+<h4>The Lord is gracious and merciful.</h4>
+
+<p>The greatest expression of grace (an unmerited blessing) and mercy is the forgiveness of a
+grievous wrong. There are two ways to identify the first expression of great forgiveness in
+the Bible: by book and by time. By time, it is Job forgiving his friends, which is fitting
+since Job’s life overlaps this era. By book, it is Joseph forgiving his brothers for selling him
+into slavery. Job was personally commanded by God to forgive, so it is Joseph’s forgiveness
+that is remarkable. The slow softening of his heart is on display in his story. In the end, it
+was his father’s prayer that tipped the scales. Israel said this to his sons before they went on
+their second journey to Egypt:</p>
+
+<h4>“May God Almighty grant you mercy before the man,</h4>
+
+<h4>and may he send back your other brother and Benjamin.</h4>
+
+<h4>And as for me, if I am bereaved of my children,</h4>
+
+<h4>I am bereaved.”</h4>
+
+<h6>- Genesis 43:14</h6>
+
+<p>The Lord <strong>is</strong> gracious and merciful.</p>
+
+<div class="era">
+  <p>9th Generation: 1647-1528 BC.</p>
+  <p>10th Generation: 1528-1409 BC.</p>
+  <p>Psalm 111:5a-b.</p>
+  <p>Egyptian Captivity, Moses and Exodus.</p>
+</div>
+
+<h4>He provides <strong>food</strong> for those who fear him;</h4>
+
+<h5>he remembers his <strong>covenant forever</strong>.</h5>
+
+<p>Two miraculous provisions of food bookend the story of the Egyptian Captivity. The
+famine of the 8th generation caused the Hebrew people to enter Egypt in search of food,
+which was only in abundance because of Joseph’s wise interpretation of Pharaoh’s dream.
+The Exodus of the 10th generation sent the people into the desert, where Yahweh rained
+down manna to sustain them. Yet it was during the fearful 9th generation of enslavement
+that the Jews grew into a multitude. Even in bondage, God provided food.</p>
+
+<p>If one verse proves that this Psalm corresponds, verse by verse, to events of salvation
+history, it is this one. In this 10th generation, God wrote Ten Commandments upon
+tablets of stone with His finger. Those Ten Commandments are the covenant spoken of in
+the phrase “covenant forever”! This psalm and the next each have ten verses. The tenth
+and final verse of Psalm 112 even speaks of the tenth commandment, defining
+covetousness as the desires of the wicked. Together, these two psalms represent Christ as
+the Law, the wisdom of God.</p>
+
+<div class="era">
+  <p>11th Generation: 1409-1290 BC.</p>
+  <p>12th Generation: 1290-1171 BC.</p>
+  <p>Psalm 111:6a-b.</p>
+  <p>Conquest of the Land, Joshua, Judges, Ruth.</p>
+</div>
+
+<h4>He has shown his people the power of his works,</h4>
+
+<h5>in giving them the inheritance of the nations.</h5>
+
+<p>Despite sin and rebellion, the Lord progressively enabled the Israelites to conquer
+Canaan. He gave them their promised inheritance. From the miraculous crossing of the
+Jordan to the toppling of Jericho’s walls to the capture of much territory, Joshua led the
+people faithfully. Then one judge after another reversed incursions by their enemies.</p>
+
+<p>In the second era, the twelfth generation, two widows, Ruth and Naomi, recovered their
+inheritance. This was due to the righteous and compassionate actions of Naomi’s kinsman-
+redeemer, Boaz. From lowly widows to an entire nation, God is faithful. No person is too
+small or insignificant to be noticed by Him.</p>
+
+<div class="era">
+  <p>13th Generation: 1171-1052 BC.</p>
+  <p>Psalm 111:7a.</p>
+  <p>Samson.</p>
+</div>
+
+<h4>The works of his hands are faithful and just…</h4>
+
+<p>Justice was the responsibility of the Judges. During this era, that fell to Samson. His
+successes and failures were spectacular. In his case, “the works of his hands” must be taken
+literally.</p>
+
+<h4>Then Samson went down with his father and mother to Timnah,</h4>
+
+<h4>and they came to the vineyards of Timnah. And behold,</h4>
+
+<h4>a young lion came toward him roaring.</h4>
+
+<h4>Then the Spirit of the Lord rushed upon him, and although</h4>
+
+<h4><strong>he had nothing in his hand, he tore the lion in pieces</strong></h4>
+
+<h4>as one tears a young goat. But he did not tell his father</h4>
+
+<h4>or his mother what he had done.</h4>
+
+<h6>- Judges 14:5-6, ESV</h6>
+
+<p>He tore apart a lion with his bare hands and with those same hands toppled the pillars
+supporting his enemies’ temple, claiming his life and the lives of thousands of Israel’s
+enemies. In him was found the Spirit of Might. From his example we see that we need
+God’s might but are lost without God’s wisdom.</p>
+
+<div class="era">
+  <p>14th Generation: 1052-933 BC.</p>
+  <p>Psalm 111:7b.</p>
+  <p>David and Solomon.</p>
+</div>
+
+<h4>… all his precepts are trustworthy…</h4>
+
+<p>In the ESV, the word “precept” appears twenty-nine times. Twenty-three of those usages
+are in the Psalms, namely Psalms 19, 111 and 119. We do not know who wrote Psalm 111
+(though as an acrostic, likely David), but the other two were written by David. Thus at
+least twenty-two usages of this word are due to David.</p>
+
+<p>One use can be attributed to Solomon. Hear what he said in Proverbs:</p>
+
+<h4>Hear, O sons, a father's instruction,</h4>
+
+<h5>and be attentive, that you may gain insight,</h5>
+
+<h4>for I give you <strong>good precepts</strong>;</h4>
+
+<h5>do not forsake my teaching.</h5>
+
+<h4><strong>When I was a son with my father</strong>,</h4>
+
+<h5>tender, the only one in the sight of my mother,</h5>
+
+<h4>he taught me and said to me,</h4>
+
+<h4>“Let your heart hold fast my words;</h4>
+
+<h5>keep my commandments, and live.</h5>
+
+<h4>Get wisdom; get insight;</h4>
+
+<h5>do not forget, and do not turn away</h5>
+
+<h6>from the words of my mouth.”</h6>
+
+<h6>- Proverbs 4:1-5</h6>
+
+<p>David taught Solomon good, trustworthy precepts and Solomon taught them to his
+sons. What is our generation doing?</p>
+
+<div class="era">
+  <p>15th Generation: 933-814 BC.</p>
+  <p>16th Generation: 814-695 BC.</p>
+  <p>Psalm 111:8a-b.</p>
+  <p>Israel and Judah.</p>
+</div>
+
+<h4>… they are established forever and ever,</h4>
+
+<h5>to be performed with faithfulness and uprightness.</h5>
+
+<p>Will it be the permanence of establishment or the impermanence of destruction?
+Rehoboam lost half his kingdom in the fifteenth era. The new Kingdom of Israel then fell
+to Assyria in the sixteenth. At the same time, Elijah was established though persistently
+hunted by Ahab, and Hezekiah’s life and reign over Judah were extended by God while
+Sennacherib’s army was slaughtered by a plague.</p>
+
+<p>These erratic arrangements did not appear eternal, but God’s plan is eternal. All He
+needs is a king on the throne who never wavers from the path of uprightness. Until then,
+we must settle for an occasional bright light in the midst of darkness, like one of this era’s
+luminaries, good King Jehoshaphat:</p>
+
+<h4>The Lord was with Jehoshaphat, because he walked</h4>
+
+<h4>in the earlier ways of his father David.</h4>
+
+<h4>He did not seek the Baals, but sought the</h4>
+
+<h4>God of his father and walked in his commandments,</h4>
+
+<h4>and not according to the practices of Israel.</h4>
+
+<h4>Therefore the Lord <strong>established</strong> the kingdom in his hand.</h4>
+
+<h4>And all Judah brought tribute to Jehoshaphat,</h4>
+
+<h4>and he had great riches and honor. His heart was courageous</h4>
+
+<h4>in the ways of the Lord. And furthermore, he took</h4>
+
+<h4>the high places and the Asherim out of Judah.</h4>
+
+<h6>- 2 Chronicles 17:3-6</h6>
+
+<div class="era">
+  <p>17th Generation: 695-576 BC.</p>
+  <p>18th Generation: 576-457 BC.</p>
+  <p>19th Generation: 457-338 BC.</p>
+  <p>Psalm 111:9abc.</p>
+  <p>Babylonian Exile and Return.</p>
+</div>
+
+<h4>He sent redemption to his people;</h4>
+
+<h5>he has commanded his <strong>covenant</strong> forever.</h5>
+
+<h6>Holy and awesome is his name!</h6>
+
+<h6>- Psalm 111:9, ESV</h6>
+
+<p>The prophet Jeremiah lived during the 17th and 18th generations. He declared that God
+would establish a new covenant to replace the one that Israel broke:</p>
+
+<h4>Behold, the days are coming, declares the Lord,</h4>
+
+<h4>when I will make a <strong>new covenant</strong> with the</h4>
+
+<h4>house of Israel and the house of Judah, not like</h4>
+
+<h4>the covenant that I made with their fathers</h4>
+
+<h4>on the day when I took them by the hand to bring them</h4>
+
+<h4>out of the land of Egypt, my covenant that they broke,</h4>
+
+<h4>though I was their husband, declares the Lord.</h4>
+
+<h4><strong>For this is the covenant that I will make with</strong></h4>
+
+<h4><strong>the house of Israel after those days, declares the Lord:</strong></h4>
+
+<h4><strong>I will put my law within them, and I will write it</strong></h4>
+
+<h4><strong>on their hearts. And I will be their God, and they</strong></h4>
+
+<h4>sh<strong>all be my people.</strong> And no longer shall each one teach</h4>
+
+<h4>his neighbor and each his brother, saying,</h4>
+
+<h5>‘Know the Lord,’</h5>
+
+<h4>for they shall all know me, from the least of them to</h4>
+
+<h4>the greatest, declares the Lord. <strong>For I will forgive</strong></h4>
+
+<h4><strong>their iniquity, and I will remember their sin no more.</strong>”</h4>
+
+<h6>- Jeremiah 31:31-34</h6>
+
+<p>The Lord’s redemption of Israel was strange, accomplished this time not by a judge but
+by a foreign king named Cyrus. “I am the Lord…”</p>
+
+<h4>who says of <strong>Cyrus</strong>, ‘He is my shepherd,</h4>
+
+<h5>and he shall fulfill all my purpose’;</h5>
+
+<h4>saying of Jerusalem, ‘She shall be built,’</h4>
+
+<h5>and of the temple, ‘Your foundation shall be laid.’”</h5>
+
+<h6>- Isaiah 44:28</h6>
+
+<p>The deliverance in the next generation was equally miraculous, when a Jewish girl named
+Hadassah was chosen to become Queen Esther. By her courage and tact she delivered the
+Jews from genocide. How incongruous then that nowhere in her book is found that “holy
+and awesome” name of God spoken of in verse 9.</p>
+
+<div class="era">
+  <p>20th Generation: 338-219 BC.</p>
+  <p>21st Generation: 219-100 BC.</p>
+  <p>22nd Generation: 100 BC-19 AD.</p>
+  <p>Psalm 111:10abc.</p>
+  <p>Messiah.</p>
+</div>
+
+<h4>The fear of the Lord is the beginning of wisdom;</h4>
+
+<h5>all those who practice it have a good understanding.</h5>
+
+<h6>His praise endures forever!</h6>
+
+<p>These fearful days were prophesied by Daniel. In the 20th generation, Alexander the
+Great arose, whose coming empire was spoken of like this:</p>
+
+<h4>Again one having the appearance of a man</h4>
+
+<h4>touched me and strengthened me. And he said,</h4>
+
+<h5>“O man greatly loved, <strong>fear not</strong>, peace be with you;</h5>
+
+<h5>be strong and of good courage.”</h5>
+
+<h4>And as he spoke to me, I was strengthened and said,</h4>
+
+<h5>“Let my lord speak, for you have strengthened me.”</h5>
+
+<h4>Then he said,</h4>
+
+<h5>“Do you know why I have come to you? But now</h5>
+
+<h5>I will return to fight against the prince of Persia;</h5>
+
+<h5>and when I go out, behold, <strong>the prince of Greece will come</strong>.</h5>
+
+<h5>But I will tell you what is inscribed in</h5>
+
+<h5>the book of truth: there is none who contends</h5>
+
+<h5>by my side against these except Michael,</h5>
+
+<h5>your prince.</h5>
+
+<h6>- Daniel 10:18-21</h6>
+
+<p>The angel told Daniel not to fear these visions nor the terrors they announced.
+Alexander was not to be feared. The Lord was.</p>
+
+<p>The next object of fear was Antiochus IV Epiphanes. In the twenty-first generation, “all
+those who practice” were subject to persecution, with Sabbath observance banned, the temple
+desecrated and thousands killed for following God’s laws. The Jews of that time endured a
+foretaste of the Great Tribulation that will soon come upon the earth.</p>
+
+<p>The third of this final trio of generations, the twenty-second, states that “His praise
+endures forever”. That indicates the coming of eternal life incarnate, the Messiah, Jesus
+Christ.</p>
+
+<p>Psalm 111:10 combines three of the Seven Spirits of God: the Sprits of the Fear of the
+Lord, of Wisdom and of Understanding. It marked a great outpouring of God’s grace, but
+it was only the beginning. Psalm 112 shall continue the story and take us to the end. But
+first, a word about a number.</p>
+
+<h2>One Nineteen.</h2>
+
+<p>Genesis 8:4 recorded the end of the flood of Noah as occurring on the 17th day of the
+7th month. <strong>17 x 7 = 119</strong>. Psalm 119 added additional justification for believing that 119
+years is a special time period. To those passages we can add these two psalms. What do we
+get if we look at the four poetic lines that start with the seventh and seventeenth letters of
+the Hebrew alphabet? Let’s look.</p>
+
+<h4>He has caused his wondrous works to be remembered…</h4>
+
+<h4>He sent redemption to his people…</h4>
+
+<h4>Light dawns in the darkness for the upright…</h4>
+
+<h4>He has distributed freely; he has given to the poor…</h4>
+
+<p>We see a wondrous work of redemption appearing in a time of great darkness that will
+freely bless the poor. Taken to the extreme, the word “freely” even extends to the Gentiles.
+Of all those verses, the third (Psalm 112:4a) made the greatest impact on me, because
+“dawn” and “darkness” are prophetic words that refer to time. I worried that my focus on
+this verse was subjective. I began to write this section Sunday morning before church on
+July 23, 2023. When I sat in church, all misgivings vanished. My pastor, Josh Cahan,
+preached from this text:</p>
+
+<h4>For God, who said,</h4>
+
+<h5>“Let light shine out of darkness,”</h5>
+
+<h4>has shone in our hearts to give the light of the</h4>
+
+<h4>knowledge of the glory of God in the face</h4>
+
+<h4>of Jesus Christ.</h4>
+
+<h6>- 2 Corinthians 4:6</h6>
+
+<p>Since the Holy Spirit saw fit to focus our whole church on the light of Christ, I took that
+as confirmation that my attention was properly fixed on this parallel verse in Psalm 112.
+Now may the rest of that psalm shine.</p>
+
+<h2>Psalm 112, verse by verse</h2>
+
+<div class="era">
+  <p>21st Generation: 219-100 BC.</p>
+  <p>22nd Generation: 100 BC-19 AD.</p>
+  <p>Psalm 112:1a-b.</p>
+  <p>Publication and Incarnation.</p>
+</div>
+
+<h4>… Blessed is the man who fears the Lord,</h4>
+
+<h5>who greatly delights in his commandments!</h5>
+
+<p>The two eras spanned by this verse speak of the twofold incarnation of Christ. In the
+first era, the Septuagint was completed, and the word of God took a leap towards its final
+written form. In the second era, the word became flesh when Jesus was born.</p>
+
+<p>Since the Spirit of the Fear of the Lord is the seventh Spirit of God, it signifies
+completeness. As for the commandments, how could they be complete until the one came
+who is to command those commands?</p>
+
+<p>To decide if this verse really speaks of Jesus, we could ask some questions. Did Jesus
+delight in the commandments? Was he blessed by the Father like one who delighted in
+those commandments? Isaiah had this to say:</p>
+
+<h4>Behold my servant, whom I uphold,</h4>
+
+<h5>my chosen, in whom my soul delights;</h5>
+
+<h4>I have put my Spirit upon him;</h4>
+
+<h5>he will bring forth justice to the nations.</h5>
+
+<h6>- Isaiah 42:1</h6>
+
+<p>The greater question is, “Does God the Father delight in Jesus?” That is the proof of
+everything. That answer is here:</p>
+
+<h4>And when Jesus was baptized, immediately he went up</h4>
+
+<h4>from the water, and behold, the heavens were opened to him,</h4>
+
+<h4>and he saw the Spirit of God descending like a dove</h4>
+
+<h4>and coming to rest on him; and behold,</h4>
+
+<h4>a voice from heaven said,</h4>
+
+<h5>“This is my beloved Son, with whom I am well pleased.”</h5>
+
+<h6>- Matthew 3:16-17</h6>
+
+<div class="era">
+  <p>23rd Generation: 19-138 AD.</p>
+  <p>24th Generation: 138-257 AD.</p>
+  <p>Psalm 112:2a-b.</p>
+  <p>Crucifixion, Resurrection and Great Commission.</p>
+</div>
+
+<h4>His offspring will be mighty in the land;</h4>
+
+<h5>the generation of the upright will be blessed.</h5>
+
+<p>Two mighty offspring are in view. First is Jesus, the only begotten Son of God. Upon
+him was the Spirit of Might, a sword to defeat death and Hades. On the cross he exercised
+the awesome power of God to make atonement for sin and set free all the souls who
+believe in God.</p>
+
+<p>The second offspring is the church, and Jesus promised to make us mighty in the land:</p>
+
+<h4>But you will receive power when the Holy Spirit</h4>
+
+<h4>has come upon you, and you will be my witnesses in</h4>
+
+<h4>Jerusalem and in all Judea and Samaria,</h4>
+
+<h4>and to the end of the earth.</h4>
+
+<h6>- Acts 1:8</h6>
+
+<p>The 24th generation was upright and blessed, but they received this blessing instead:</p>
+
+<h4>Blessed are those who are persecuted</h4>
+
+<h5>for righteousness' sake,</h5>
+
+<h6>for theirs is the kingdom of heaven.</h6>
+
+<h6>- Matthew 5:10</h6>
+
+<div class="era">
+  <p>25th Generation: 257-376 AD.</p>
+  <p>26th Generation: 376-495 AD.</p>
+  <p>Psalm 112:3a-b.</p>
+  <p>The Plundering of Rome.</p>
+</div>
+
+<h4>Wealth and riches are in his house,</h4>
+
+<h5>and his righteousness endures forever.</h5>
+
+<p>Jesus laid out his plan with simplicity by saying,</p>
+
+<h4>“Or how can someone enter a strong man's house</h4>
+
+<h4>and plunder his goods, unless he first binds</h4>
+
+<h4>the strong man? Then indeed he may plunder his house.”</h4>
+
+<h6>- Matthew 12:29</h6>
+
+<p>Three of the gospel writers saw fit to include this parable, while
+John spoke of this event in another way in Revelation. During the 25th generation, the
+church passed through the worst and final Roman persecution, under Diocletian. Then
+the Lord bound the strong man and delivered the wealth and riches and power of Rome’s
+house to his followers. From Constantine’s Edict of Milan in 313 AD to Theodosius’ Edict
+of Thessalonica in 380 AD, the church’s influence rose until it became the official religion
+of the empire.</p>
+
+<p>Shall his righteousness endure forever? The 26th generation called this into question.
+Rome fancied itself as “The Eternal City”. From Alaric’s sack of Rome in 410 AD to its fall
+in 476 AD at the hands of Odoacer, the mortality of that city became clear. As darkness
+began to fall upon the continent, God sent a prophet of light. Augustine wrote 
+<em>The City of God</em> to assure the faithful that the heavenly city being built by God would never fall.</p>
+
+<div class="era">
+  <p>27th Generation: 495-614 AD.</p>
+  <p>28th Generation: 614-733 AD.</p>
+  <p>Psalm 112:3a-b.</p>
+  <p>The Dark Ages Begin.</p>
+</div>
+
+<h4>Light dawns in the darkness for the upright;</h4>
+
+<h5>he is gracious, merciful, and righteous.</h5>
+
+<p>We now come to the verse in this two-psalm generational clock whose time period
+intersects the larger celestial clock that governs the whole of the psalms. In that larger
+clock, the focus is on the years 642-684 AD, in our 28th generation. If two prophetic
+clocks with radically different period lengths and numbers of eras assign one verse to the
+same era in history, it means we should take a closer look.</p>
+
+<p>The 27th generation was the start of the Dark Ages and includes the year 536 AD, the
+year of darkness. That generation also gave birth to Pope Gregory the Great, considered the
+best pope of all time by many Orthodox, Protestants and Catholics. He truly was a light in
+the darkness, for he sent out the Catholic Church’s first large scale mission. They had great
+success shining the light of the gospel in England. Consider the ramifications of that:
+Saint Anselm, the Magna Carta, Shakespeare, progress towards democracy, the planting of
+the American colonies, the spread of the rule of law, Amazing Grace, the abolition of
+slavery, opposition to Hitler…</p>
+
+<p>The 28th generation saw Jerusalem overrun when a devastating foe arose: Islam. When I
+see the words gracious, merciful and righteous in Psalm 112:4, I think of the Trinity. I am
+saved by grace through faith in the Son. My physical needs and miraculous healings are
+provided by the Father. And the righteousness from God is the Holy Spirit dwelling in my
+heart.</p>
+
+<p>Not all see this Trinity. The Quran begins in Surah 1 by speaking of God’s mercy,
+compassion and righteousness. But then in Surah 112, we find these words:</p>
+
+<h4>He has never had offspring, nor was He born.</h4>
+
+<h5>And there is none comparable to Him.</h5>
+
+<h6>- Surah 112:3-4</h6>
+
+<p>Psalm 112 celebrates the birth of God’s Son while Surah 112 denies he exists. That is
+darkness. By God’s grace, this era ended with the Battle of Tours in 732 AD, when the tide
+of Islam reached its first high water mark and began to recede.</p>
+
+<div class="era">
+  <p>29th Generation: 733-852 AD.</p>
+  <p>30th Generation: 852-971 AD.</p>
+  <p>Psalm 112:5a-b.</p>
+  <p>Charlemagne.</p>
+</div>
+
+<h4>It is well with the man who deals generously and lends;</h4>
+
+<h5>who conducts his affairs with justice.</h5>
+
+<p>Charlemagne founded the Holy Roman Empire and reformed the justice system. His
+councilor, Alcuin, wrote a treatise on ethics and personally tutored Charlemagne’s family.
+Alcuin also created the distinction between primary and secondary education and
+introduced the use of lower and uppercase letters, making it easier to read. The
+Carolingian Renaissance was a bright spot in the Dark Ages. Charlemagne gave generously
+to the church and expended great effort at spreading Christianity throughout his lands.
+This verse fits him well.</p>
+
+<p>The tenth century saw a movement against fatal judicial punishments. In a hagiography
+about the martyred King Wenceslas (who in truth was but a prince), Bishop Gumpold of
+Mantua (prior to 983 AD) proposed a shockingly humane approach to criminal
+punishment. That is, it would not be shocking to us but it was to a world where blinding
+someone instead of killing them counted as humane. Justice was advancing, however
+slowly.</p>
+
+<div class="era">
+  <p>31st Generation: 971-1090 AD.</p>
+  <p>32nd Generation: 1090-1209 AD.</p>
+  <p>Psalm 112:6a-b.</p>
+  <p>First Crusade, Monastic Reforms of Saints Bernard and Francis.</p>
+</div>
+
+<h4>For the righteous will never be moved;</h4>
+
+<h5>he will be remembered forever.</h5>
+
+<p>The 31st generation opened with the Baptism of Rus at Kiev in 988 AD. Christianity
+exploded into Slavic lands. A thousand years later, despite seventy years of Soviet
+persecution, the Orthodox Church celebrated a millennium of Christianity in Russia. The
+righteous will never be moved.</p>
+
+<p>Then in the 32nd generation, with the launching of the First Crusade, Christendom
+enjoyed a major military victory against the forces of Islam, capturing Jerusalem and
+holding it for about a century. There are figures from this era that “will be remembered
+forever” as the psalm says, but how many touch people’s hearts on a regular basis? Only
+two people from that era are still vital parts of the faith of millions: Saint Francis of Assisi
+and Bernard of Clairvaux. Bernard left us “O Sacred Head, now Wounded”, one of the
+most moving hymns ever penned. Saint Francis gave us “All Creatures of Our God and
+King” and his prayer, “Make me an instrument of your peace”.</p>
+
+<p>Saint Bernard drew up the code of conduct for the Knights Templar, defining the ideals
+of knighthood. He and the Cistercian Order that he helped spread honored manual labor.
+Saint Francis kissed lepers and preached compassion for the poor.</p>
+
+<p>Such as these deserve to be remembered forever.</p>
+
+<div class="era">
+  <p>33rd Generation: 1209-1328 AD.</p>
+  <p>34th Generation: 1328-1447 AD.</p>
+  <p>Psalm 112:7a-b.</p>
+  <p>Great Famine, Mongol Invasions, </p>
+  <p>Black Death, Tamerlane, Ottoman Sieges.</p>
+</div>
+
+<h4>He is not afraid of bad news;</h4>
+
+<h5>his heart is firm, trusting in the Lord.</h5>
+
+<p>This least specific prophecy is the most prophetic. “Bad news” can only be meaningful if
+it means “the worst news ever”. Consider the contenders for this title. The bowl judgments
+of Revelation will be the last and worst plagues. This verse cannot mean that for two
+reasons. First, this verse addresses the upright man, not the wicked inhabitants of the
+earth. The bad news is for the church, not the infidel. Second, the final verses of this
+psalm address the fate of the wicked separately.</p>
+
+<p>Another contender is the flood of Noah. This can be ruled out because that is covered
+by Psalm 111 and again the righteous were spared.</p>
+
+<p>Only the terrors of this age fit because they were a judgment against the church and were
+comprehensive. Though the thirteenth through the mid-fourteenth centuries did not see
+the visit of all four horsemen of the apocalypse in their full glory, all four did make an
+appearance. Those four categories are war, civil war, pestilence and death.</p>
+
+<p><strong>For war</strong>, we have attacks by Tamerlane and the Ottoman Empire, but the warrior par
+excellence was Ghengis Khan. He conquered the second largest empire in history.
+Considering that the largest, the British Empire, was a Christian empire, that means that
+Christians of this era faced the greatest non-Christian warlord of all time. That was bad
+news.</p>
+
+<p><strong>For civil war</strong>, the worst period of civil war among Christians was during the wars of
+religion during the subsequent two eras. The second worst period was during these eras.
+The Byzantine Empire spent more years engulfed in civil war during these centuries than
+all its previous history. Also, during the Fourth Crusade in 1204 AD, just five years before
+the 33rd generation began, western Christians sacked Constantinople. More bad news.</p>
+
+<p><strong>For pestilence</strong>, we have the Great Famine of 1315-1317 AD, which killed 10-25% of the
+population. The Medieval Warm Period ended and the Little Ice Age would soon follow.
+To take France as an example, famines occurred in 1304, 1305, 1310, 1315–1317 (the Great
+Famine), 1330–1334, 1349–1351, 1358–1360, 1371, 1374–1375, and 1390, or a fifth of the
+century. On one occasion, the attendants of King Edward II of England could not find
+food to feed their king! This famine was exacerbated by cattle disease which killed the
+draft animals, and pneumonia, bronchitis, and tuberculosis, which killed many people.
+Very bad news.</p>
+
+<p><strong>For death</strong>, we have the Black Death, the worst plague in human history. The worst news.</p>
+
+<p>If you take all this bad news together, it was the worst series of crises ever faced by the
+church. To compound matters, six years after the end of the 34th generation,
+Constantinople fell to the Ottoman Empire and the Byzantine Empire was no more. It
+was one of the greatest blows against Christendom in its history.</p>
+
+<p>This psalm points a finger at exactly when all these crises would hit. It did not tell the
+church “what” but the psalm told it “when”. The reason the prophecy did not specify
+“what” was that it meant everything.</p>
+
+<p>If life throws everything at you, will “[your] heart [remain] firm, trusting in the Lord”?</p>
+
+<div class="era">
+  <p>35th Generation: 1447-1566 AD.</p>
+  <p>36th Generation: 1566-1685 AD.</p>
+  <p>Psalm 112:8a-b.</p>
+  <p>Great Famine, Mongol Invasions, </p>
+  <p>Protestant Reformation, Wars of Religion.</p>
+</div>
+
+<h4>His heart is steady; he will not be afraid,</h4>
+
+<h5>until he looks in triumph on his adversaries.</h5>
+
+<p>In the 35th generation, Luther, Calvin and other Protestants steadied their hearts in the
+face of great persecution and death.</p>
+
+<p>In the 36th generation, Protestant victories ensured the survival of their creeds, people,
+churches and influence. They truly looked in triumph on their adversaries, at the cost of
+tens of millions of lives lost in battle or claimed by war’s disruption.</p>
+
+<p>Throughout this time, they often sang one song as their battle hymn. They sang it on
+the way to martyrdom. They sang it as they trudged into exile. They sang it when they
+marched into battle at Leipzig in 1631 and Lutzen in 1632. That song was “A Mighty
+Fortress is Our God”, by Martin Luther. This verse touches on our current psalm:</p>
+
+<h4>And though this world, with devils filled,</h4>
+
+<h5>should threaten to undo us,</h5>
+
+<h4><strong>we will not fear</strong>, for God has willed</h4>
+
+<h5>his truth to triumph through us.</h5>
+
+<h4>The prince of darkness grim,</h4>
+
+<h5><strong>we tremble not for him</strong>;</h5>
+
+<h4>his rage we can endure,</h4>
+
+<h5>for lo! his doom is sure;</h5>
+
+<h4>one little word shall fell him.</h4>
+
+<div class="era">
+  <p>37th Generation: 1685-1804 AD.</p>
+  <p>38th Generation: 1804-1923 AD.</p>
+  <p>39th Generation: 1923-2042 AD.</p>
+  <p>Psalm 112:9abc.</p>
+  <p>Democracy, Abolition of slavery, Rebirth of Israel.</p>
+</div>
+
+<h4>He has distributed <strong>freely</strong>; he has given to the poor;</h4>
+
+<h5>his <strong>righteousness</strong> endures forever;</h5>
+
+<h6>his <strong>horn</strong> is exalted in honor.</h6>
+
+<p>In the 37th generation, God created the United States of America and intensified the
+push towards freedom. A new focus on education and other charitable ventures in
+England, America and elsewhere began to prepare even the poor for a better life. Refugees
+from poverty and religious persecution now had a haven to which they could flee.</p>
+
+<p>The 38th generation spread aspects of God’s righteousness to the whole world. Chief
+among them were the abolition of slavery and the push for women’s rights. By the rapid
+growth of the church and its influence upon all nations, God’s righteousness progressed
+farther and faster in this generation than any before it.</p>
+
+<p>The 39th generation produced a singular miracle. Out of the ashes of the Holocaust a
+new Israel arose. What a horrible price was paid. Let’s do the math.</p>
+
+<p>In the following table, population values or changes are in millions of souls. A critical
+measurement is the excess deaths of Jews from 1933 to 1945. This value of six million is
+often taken as the number of Jews who died in the Holocaust. It is not. It is the number of
+Jews who died in the Holocaust plus the children who were never born. They are victims
+of a horrible sort.</p>
+
+<p>In normal times, a stable population adds births and subtracts deaths. They mostly
+balance out, with a small percentage gain due to births in a growing population. In such a
+regime, if the population drops or fails to increase as fast despite additional births, that is
+called excess deaths and we must try to attribute them to one or more causes, like a
+pandemic, war or in our case, Genocide. Actual concentration camp records are sufficient
+to prove that the majority of excess Jewish deaths were directly from the Holocaust. But
+because of those deaths and the fear of what might happen among Jews that escaped the
+Holocaust, the birth rate among Jews in Europe plummeted. For the purpose of these
+calculations, that birth rate will be assumed to be zero.</p>
+
+<p>The upshot of this is that without new births, many of the excess deaths of Jews were
+from natural causes (or war). Every Jew that did not die in the Holocaust was subject to a
+“normal” rate of mortality. By separating deaths into two causes, normal and Holocaust,
+we can divide those six million excess deaths into two groups, then compare those
+numbers to the total Jewish population to discover what percent of all Jews died from the
+Holocaust. It is a fraction with eschatological significance of critical importance to the
+church.</p>
+
+<p>In order to make proper use of excess mortality, we need to know the normal mortality.
+In 1933, the largest number of Jews in Europe lived in Poland (3 million) and the second
+most in the USSR (2.5 million). According to this article, “Vital Statistics: An
+Introduction” [44], the 1930s yearly mortality rate for Jews in Poland was 10.0 ‰ (1%). If
+extrapolated over the next twelve years, that would be 12%, but fail to account for the stark
+increase due to the war.</p>
+
+<p>By 1941-2, while the Germans occupied Poland, that rate increased to 20-28%, of which
+19% was war deaths and the rest increased mortality due to general hardship brought on
+by the war. War deaths in the USSR were 14.8%. The numbers for Poland and the USSR
+were worse than for other nations, so an estimate for the general mortality rate across all
+European Jews of 22% per this twelve year period seems warranted. One reason is that the
+early years from 1933-1940, before Poland was invaded, would have had births to
+counteract the deaths. Let’s see what we can learn from that mortality rate.</p>
+
+<p><img class="center" src="images/holocaust-formulas.png" /></p>
+
+<p><strong>Why the math</strong>? The result we get after adjusting for natural causes and war deaths is
+that almost exactly one-third of the worldwide Jewish population died from the Holocaust.
+This computation is important for three reasons.</p>
+
+<p><strong>First</strong>, I do not want to be labeled a Holocaust denier by reducing the tally from six to
+five million Jewish lives lost. Most of the million difference is civilian deaths due to an
+evil war provoked by Satan to kill the Jews, so that is still criminal.</p>
+
+<p><strong>Second</strong>, the factor of one-third is prophetic. It has to do with trumpets. This verse says
+“his horn is exalted in honor”. Bulls have horns, so horns are a symbol of strength. Rams
+have horns, too. The shofar, a trumpet made from a ram’s horn, was significant in Jewish
+history. When the people marched seven times around Jericho, they blew the shofar and
+the walls came tumbling down.</p>
+
+<p>Revelation speaks of seven trumpets, too. The seven trumpets blown in that book
+symbolically represent God marching around the whole world seven times before its walls
+come tumbling down. In Peace, I attempted to match the first five trumpet judgments to
+events in history. It only works if you swap the chronological order of trumpets four and
+five. This swapping of the fourth and fifth items in a series of seven has precedent. In Job
+3, his lament is a Decreation myth. Job inverts the good things of creation with the bad
+things of his life, like darkness for light and death for life. Day four was when the sun,
+moon, and stars were made. Day five included the creation of the sea creatures. Job
+mentions but one sea creature: Leviathan, the terrifying sea serpent. By reordering things
+thus, Job was saying that Leviathan comes before the Morning Star. Jesus is the Morning
+Star and Satan rules over Leviathan. Job was really saying that the devil would get to him
+before the savior. Help would arrive too late.</p>
+
+<p>How does this tie in with Revelation’s fourth trumpet? That judgment announces a great
+persecution:</p>
+
+<h4>The fourth angel blew his trumpet,</h4>
+
+<h4>and a third of the sun was struck,</h4>
+
+<h4>and a third of the moon,</h4>
+
+<h4>and a third of the stars,</h4>
+
+<h4>so that a third of their light might be darkened,</h4>
+
+<h4>and a third of the day might be kept from shining,</h4>
+
+<h4>and likewise a third of the night.</h4>
+
+<h6>- Revelation 8:12</h6>
+
+<p>By striking the sun, moon, and stars, what is happening is that the numbers of
+Christians will be drastically reduced and the church’s influence – its light – would wane
+significantly. That has not happened yet, but the effects of the fifth trumpet have, as
+explained in Peace. Thus the two trumpets – as they concern the church – were reversed.</p>
+
+<p>Not so for Israel. These prophecies of the end times apply to both Israel and the church,
+but at different times and in different ways. For Israel, the order of the trumpets remains
+unaltered. The church has experienced trumpets one, two, three, and five and awaits the
+fourth trumpet, which will be blown early in “a time to hate”, near when the fifth seal is
+opened, which speaks of the same persecution but in a different way, in terms of lives lost,
+not influence diminished.</p>
+
+<p>Israel has already experienced the first five trumpets in sequence. The precise fraction of
+one-third of all Jews that perished during the Holocaust matches the fraction that was
+relentlessly repeated in Revelation 8:12. John the Apostle accurately prophesied this event
+over 1,800 years before it happened as it pertained to the Jews, whom he loves.</p>
+
+<p>The punchline for this second reason that the factor of one-third is important is God’s
+hedge. God put a hedge around Job. Satan was limited in what he could do to the man, as
+horrible as it was. God also placed a limit upon Satan for the Holocaust. Satan’s agent,
+Hitler, was permitted to kill no more than a third of the world’s Jews. God predicted it,
+promised it and kept that promise.</p>
+
+<p>Third, we have a grave reason. Surely the same will happen to the Lord’s beloved church.
+When the great persecution begins, likely later in this century, Christians will be tempted
+to despair that all believers will be killed. However, we have God’s word that as terrible as
+it is, only one third will die. The cost will be calamitous but God will preserve a remnant.
+This raises a question.</p>
+
+<p>What is the church doing
+to prepare the flock
+so that we may remain faithful,
+no matter what comes?</p>
+
+<div class="pullquote-centered">
+  <p>What is the church doing</p>
+  <p>to prepare the flock</p>
+  <p>so that we may remain faithful,</p>
+  <p>no matter what comes?</p>
+</div>
+
+<div class="era">
+  <p>40th Generation: 2042-2161 AD.</p>
+  <p>41st Generation: 2161-2280 AD.</p>
+  <p>42nd Generation: 2280 AD-Eternity.</p>
+  <p>Psalm 112:10abc.</p>
+  <p>Great Persecution, Final Judgement.</p>
+</div>
+
+<h4>The wicked man sees it and is angry;</h4>
+
+<h5>he gnashes his teeth and melts away;</h5>
+
+<h6>the desire of the wicked will perish!</h6>
+
+<p>The three lines of the final verse of Psalm 112 match the final three of Solomon’s times:
+a time to hate, a time for war and a time for peace. We can see the hatred in the wicked
+man’s anger in the first line, 112:10a. We see the warfare when he gnashes his teeth in the
+second line, Psalm 112:10b. Finally, we see the cause of peace in 112:10c. When the wicked
+perish and are consigned to Hell, there will be peace.</p>
+
+<p>The first era of this verse is the one soon to begin. It will usher in a terrible persecution.
+Millions of Jews will flee the Americas for Israel. Most Christians will have nowhere to
+flee. We need the rest of the verse to give us hope and sustain our faith. When the clock
+that is these two psalms runs out, it will be for the wicked, not the righteous.</p>
+
+<p>What is “the desire of the wicked”? It is covetousness. The tenth and final
+commandment forbids this sin. It seems to the ignorant that this final commandment is
+the least of the sins described. Murder. Theft. Adultery. Perjury. They look pretty bad.
+However, they all spring from the same evil seed, which is covetousness, the desire for
+what is not yours. By this last verse we see the strongest connection between these two
+psalms and the Law. Throughout all generations, God upholds his law.</p>
+
+<p>Now it is time to return to the larger Psalm Clock. We shall resume with Psalm 115.</p>
+
+<p>(NOTE: This analysis of the Psalms continues in the chapter "The Final Ascent: Psalms 113-150"
+in <em>Plague, Precept, Prophet, Peace</em>.)</p>
+
+      </div>
+
+    </div>
+    <!-- Page Footer -->
+    <div class="footer faint">
+      
+    </div>
+  </div>
+</body>
+</html>

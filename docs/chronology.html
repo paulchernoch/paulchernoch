@@ -1,0 +1,404 @@
+
+<!DOCTYPE html>
+<head>
+  <!--from template: default-page.html -->
+  <title>Chronology</title>
+  <link rel="stylesheet" href="./styles/tree.css" type="text/css">
+  <link rel="stylesheet" href="./styles/toc.css" type="text/css">
+  <link rel="stylesheet" href="./styles/article.css" type="text/css">
+  <!-- Font Awesome supplies the icons used in the TOC -->
+  <script src="https://kit.fontawesome.com/ecadd7b212.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="./styles/page.css" type="text/css">
+
+  <script>
+    /* Search for a css class name in an HTML element and replace it with a second class. */
+    function replace_class(element, from_class, to_class) {
+      element.classList.remove(from_class)
+      element.classList.add(to_class)
+    }
+
+    /* Show or hide the table of contents menu in the left sidebar by changing the style classes.
+       Also show and hide the buttons used to open and close the menu.
+     */
+    function toggleLeftSidebar(open) {
+      const sidebar = document.getElementById("leftsidebar");
+      const open_button = document.getElementById("leftsidebaropen");
+      const close_button = document.getElementById("leftsidebarclose");
+      const body = document.getElementById("articlebody")
+     
+      if (open) {
+        replace_class(sidebar, "leftsidebar-closed", "leftsidebar-open")
+        replace_class(open_button, "show-toggle", "hide-toggle")
+        replace_class(close_button, "hide-toggle", "show-toggle")
+        replace_class(body, "body-wide", "body-narrow")
+      }
+      else {
+        replace_class(sidebar, "leftsidebar-open", "leftsidebar-closed")
+        replace_class(open_button, "hide-toggle", "show-toggle")
+        replace_class(close_button, "show-toggle", "hide-toggle")
+        replace_class(body, "body-narrow", "body-wide")
+      }
+   }
+
+  </script>
+</head>
+<html>
+
+
+<body>
+  <!-- Floating buttons to open and close the TOC -->
+  <div id="toggle">
+    <div class="tooltip">
+
+      <a id="leftsidebaropen" class="hide-toggle" role="button" tabindex="1" onclick="toggleLeftSidebar(true)" >
+        <i class="fas fa-angle-double-right"></i>
+        <span class="tooltiptext">Show</span>
+      </a>
+      <a id="leftsidebarclose" class="show-toggle" role="button" tabindex="2" onclick="toggleLeftSidebar(false)">
+        <i class="fas fa-angle-double-left"></i>
+        <span class="tooltiptext">Hide</span>
+      </a>
+    </div>
+  </div>
+  <!-- Page Header -->
+  <div class="header header-colors">
+    <a href="index.html">
+      <img src="images/wisdom-house.png" width="676" height="250"/>
+    </a>
+
+    <div class="quote">Since his days are determined, <br/> and the number of his months is with you, <br/> and you have appointed his limits <br/> that he cannot pass... - Job 14:5</div>
+
+  </div>
+  <!-- Left Sidebar TOC -->
+  <div class="container">
+    <div id="leftsidebar" class="leftsidebar-open left-side-colors" tabindex="0">
+        <ul class="tree-padding tree-vertical-lines tree-horizontal-lines tree-summaries tree-markers tree-buttons">
+          <li>
+            <details open="">
+              <summary><i class="fa-solid fa-house-chimney"></i> <a href="home.html">Home</a></summary>
+                <ul>
+                  <li><i class="fas fa-address-card"></i> <a href="about.html">About this Site</a></li>
+                  <li><i class="fas fa-feather-alt"></i> <a href="author.html">Author</a></li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-book"></i> <a href="books.html">Books</a></summary>
+                        <ul>
+                          <li> <a href="the-endless-hunt.html">The Endless Hunt</a></li>
+                          <li> <a href="job-rises.html">Job Rises</a></li>
+                          <li> <a href="peace-book.html">Peace, Like Solomon Never Knew</a></li>
+                          <li> <a href="plague-book.html">Plague, Precept, Prophet, Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li><i class="fa-solid fa-user-secret"></i> <a href="secret.html">Shhhh! Secret!</a></li>
+                  <li>
+                    <details>
+                      <summary><i class="fa-solid fa-building-columns"></i> <a href="lady-wisdom-s-house.html">Lady Wisdom's House</a></summary>
+                        <ul>
+                          <li> <a href="lady-wisdom.html">Lady Wisdom</a></li>
+                          <li> <a href="hannah-s-song.html">Hannah's Song</a></li>
+                          <li> <a href="blueprint.html">Blueprint for Lady Wisdom's House</a></li>
+                          <li> <a href="foundation.html">Foundation: The Commandments</a></li>
+                          <li> <a href="seven-spirits.html">Lanterns: The Seven Spirits of God</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="seven-pillars-of-wisdom.html">Seven Pillars of Wisdom</a></summary>
+                                <ul>
+                                  <li> <a href="theme-of-books.html">Theme of Books</a></li>
+                                  <li> <a href="theme-of-swords.html">Theme of Swords</a></li>
+                                  <li> <a href="theme-of-pillars.html">Theme of Pillars</a></li>
+                                  <li> <a href="theme-of-thunders.html">Theme of Thunders</a></li>
+                                  <li> <a href="theme-of-spirits.html">Theme of Spirits</a></li>
+                                  <li> <a href="theme-of-songs.html">Theme of Songs</a></li>
+                                  <li> <a href="theme-of-treasures.html">Theme of Treasures</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="roof-of-peace.html">Roof: Paul's Gospel of Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-seedling"></i> <a href="spiritual-growth.html">Spiritual Growth</a></summary>
+                        <ul>
+                          <li> <a href="most-important-questions.html">What are life's Most Important Questions?</a></li>
+                          <li> <a href="heavenly-treasures.html">What are the Heavenly Treasures?</a></li>
+                          <li> <a href="harvest-pattern.html">The Harvest Pattern of Jesus</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="growth-pattern.html">The Growth Pattern of Solomon</a></summary>
+                                <ul>
+                                  <li> <a href="there-is-a-season.html">There is a Season</a></li>
+                                  <li> <a href="pauls-discipleship-program.html">The Apostle Paul's Discipleship Program</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="the-motherhood-pattern.html">The Motherhood Pattern</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="law-pattern.html">The Law Pattern of Moses</a></summary>
+                                <ul>
+                                  <li> <a href="which-ten-commandments.html">Which Ten Commandments?</a></li>
+                                  <li> <a href="matthew-and-the-law-of-christ.html">Matthew and the Law of Christ</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="the-journey-pattern.html">The Journey Pattern</a></li>
+                          <li> <a href="emotional-prophecies-of-the-psalms.html">Emotional Prophecies of the Psalms</a></li>
+                          <li> <a href="talk-to-god.html">Job and the Ways to Talk to God</a></li>
+                          <li> <a href="job-description-for-a-savior.html">Job Description for a Savior</a></li>
+                          <li> <a href="dreams.html">Dreams</a></li>
+                          <li> <a href="spiritual-warfare.html">Spiritual Warfare</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-hourglass-half"></i> <a href="the-end-times.html">The End Times</a></summary>
+                        <ul>
+                          <li> <a href="seven-cycles-of-judgment.html">Seven Cycles of Judgment</a></li>
+                          <li> <a href="satan-bound-and-released.html">Satan, Bound and Released</a></li>
+                          <li> <a href="the-millennial-kingdom.html">The Millennial Kingdom</a></li>
+                          <li> <a href="the-four-horsemen-of-the-apocalypse.html">The Four Horsemen of the Apocalypse</a></li>
+                          <li> <a href="the-fifth-trumpet.html">The Fifth Trumpet</a></li>
+                          <li> <a href="the-fifth-seal.html">The Fifth Seal</a></li>
+                          <li> <a href="voice-of-the-seven-thunders.html">Voice of the Seven Thunders</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-list-ol"></i> <a href="numerology.html">Numerology</a></summary>
+                        <ul>
+                          <li> <a href="to-number-our-days.html">To Number our Days</a></li>
+                          <li> <a href="2-is-for-jesus.html">2 is for Jesus</a></li>
+                          <li> <a href="3-is-for-the-father.html">3 is for the Father</a></li>
+                          <li> <a href="4-is-for-cycles-of-nature.html">4 is for Cycles of Nature</a></li>
+                          <li> <a href="5-is-for-grace.html">5 is for Grace</a></li>
+                          <li> <a href="6-is-for-man.html">6 is for Man</a></li>
+                          <li> <a href="7-is-for-the-holy-spirit.html">7 is for the Holy Spirit</a></li>
+                          <li> <a href="17-is-for-victory.html">17 is for Victory</a></li>
+                          <li> <a href="28-is-for-time.html">28 is for Time</a></li>
+                          <li> <a href="40-is-for-suffering.html">40 is for Suffering</a></li>
+                          <li> <a href="42-is-for-the-journey.html">42 is for the Journey</a></li>
+                          <li> <a href="120-is-for-consecration.html">120 is for Consecration</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="153-is-for-total-victory.html">153 is for Total Victory</a></summary>
+                                <ul>
+                                  <li> <a href="153-connections.html">153 Connections</a></li>
+                                  <li> <a href="defining-153.html">Defining 153</a></li>
+                                  <li> <a href="153-and-fear.html">153 and Fear</a></li>
+                                  <li> <a href="153-and-hope.html">153 and Hope</a></li>
+                                  <li> <a href="habakkuk-part-1.html">Habakkuk Part 1</a></li>
+                                  <li> <a href="habakkuk-part-2.html">Habakkuk Part 2</a></li>
+                                  <li> <a href="habakkuk-part-3.html">Habakkuk Part 3</a></li>
+                                  <li> <a href="habakkuk-part-4.html">Habakkuk Part 4</a></li>
+                                  <li> <a href="habakkuk-part-5.html">Habakkuk Part 5</a></li>
+                                  <li> <a href="habakkuk-part-6.html">Habakkuk Part 6</a></li>
+                                  <li> <a href="habakkuk-part-7.html">Habakkuk Part 7</a></li>
+                                  <li> <a href="153-and-the-fifth-trumpet.html">153 and the Fifth Trumpet</a></li>
+                                  <li> <a href="habakkuk-s-war.html">Habakkuk's War</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="210-is-for-peace.html">210 is for Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-scroll"></i> <a href="prophetic-clocks.html">Prophetic Clocks</a></summary>
+                        <ul>
+                          <li> <a href="types-of-clock.html">Types of Clock</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="generational-clocks.html">Generational Clocks</a></summary>
+                                <ul>
+                                  <li> <a href="job-s-anti-jubilee-clock-defined.html">Job's Anti-Jubilee Clock, Defined</a></li>
+                                  <li> <a href="alexander-the-great.html">The Death of Alexander the Great</a></li>
+                                  <li> <a href="psalm-119.html">Psalm 119: The Shepherd's Clock</a></li>
+                                  <li> <a href="generations-come-and-go.html">Generations Come and Go</a></li>
+                                  <li> <a href="two-patterns-in-history.html">Two Patterns in History</a></li>
+                                  <li> <a href="acrostic-clock.html">The Acrostic Clock</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li>
+                            <details>
+                              <summary> <a href="celestial-clocks.html">Celestial Clocks</a></summary>
+                                <ul>
+                                  <li> <a href="grandfather-clock.html">A Grandfather Clock & a Silver Cord</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="spiritual-clocks.html">Spiritual Clocks</a></li>
+                          <li> <a href="empire-clocks.html">Empire Clocks</a></li>
+                          <li> <a href="commandment-clocks.html">Commandment Clocks</a></li>
+                          <li> <a href="other-clocks.html">Other Clocks</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-question-circle"></i> <a href="riddles.html">Riddles</a></summary>
+                        <ul>
+                          <li> <a href="the-righteous-fall-seven-times.html">The Righteous Fall Seven Times</a></li>
+                          <li> <a href="twice-a-thousand-years.html">Twice a Thousand Years</a></li>
+                          <li> <a href="seven-pillars-riddle.html">The Seven Pillars of Wisdom</a></li>
+                          <li> <a href="riddle-of-153-fish.html">Why 153 Fish?</a></li>
+                          <li> <a href="riddles-of-war.html">Riddles of War</a></li>
+                          <li> <a href="building-a-house.html">Building a House</a></li>
+                          <li> <a href="hannah-s-song.html">Hannah's Song</a></li>
+                          <li> <a href="satan-s-taunt.html">Satan's Taunt</a></li>
+                          <li> <a href="vineyard-parable.html">Parable of the Workers in the Vineyard</a></li>
+                          <li> <a href="wedding-parable.html">The Parable of the Wedding Feast</a></li>
+                          <li> <a href="the-childbearing.html">The Childbearing</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fa-solid fa-person-harassing"></i> <a href="a-divided-world.html">A Divided World</a></summary>
+                        <ul>
+                          <li>
+                            <details>
+                              <summary> <a href="against-complementarianism.html">Against Complementarianism</a></summary>
+                                <ul>
+                                  <li> <a href="a-model-for-the-ordination-of-women.html">A Model for the Ordination of Women</a></li>
+                                  <li> <a href="submission.html">Submission</a></li>
+                                  <li> <a href="consecration.html">Consecration</a></li>
+                                  <li> <a href="identification.html">Identification</a></li>
+                                  <li> <a href="quantification.html">Quantification</a></li>
+                                  <li> <a href="reconciliation.html">Reconciliation</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details open="">
+                      <summary><i class="fas fa-calendar-alt"></i> <a href="chronology.html">Chronology</a></summary>
+                        <ul>
+                          <li> <a href="dating-the-creation.html">Dating the Creation</a></li>
+                          <li> <a href="sojourn-of-israel.html">Sojourn of Israel</a></li>
+                          <li> <a href="chronology-of-judges.html">Chronology of Judges</a></li>
+                          <li> <a href="lifespan-of-solomon.html">Lifespan of Solomon</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                </ul>
+            </details>
+          </li>
+
+        </ul>
+    </div>
+    <!-- Article Text -->
+    <div id="articlebody" class="body-narrow" tabindex="3">
+      <div class="article">
+        <h1>Chronology</h1>
+        
+        <p class="date">Published on 2024-05-07</p>
+        
+        <p>If you like math puzzles, the Bible is filled with them. None of the events are marked with a date.
+Scriptural accounts may give the day and month something happened, they may tell you relatively how many years passed between two events,
+but in the Bible no absolute dating system is employed. Not until Dionysius Exiguus, a Scythian monk, created the Anno Domini system 
+in the sixth century did such a system come into existence. Because of him, I know it is the year 2024.
+According to Wikipedia, Dionysius performed this labor to dissuade people from believing that Jesus' return was imminent 
+by showing that the age of the world was not so great as people thought.
+His goal was to prevent the despair and disruption that often attend millennial expectations. </p>
+
+<p>Some people in the church tried to allay such end of the world fears by dismissing the expectations as unbiblical or 
+counter to church teaching. The trouble is that numerous Bible passages, taken in isolation, could lead a Christian
+to the conclusion that the world was about to end. Also, have you ever tried to tell people that they are wrong?
+Instead, Dionysius took the approach of scholarship. He did not argue with people's ideas, just their math.
+He synthesized the best records available to him (including the Bible) and proved that the creation was a millennium or so
+more recent than people thought, therefore they need not worry. A millennium later, the great physicist Isaac Newton
+did the same thing. He studied history, assembled his own chronology (my sister Kate has an original copy of it!), 
+and concluded that the earliest possible return date for Jesus was still several centuries in the future.</p>
+
+<p>I am not an expert in Bible Chronology. I have scoured the literature for solutions to numerous chronological conundrums.
+Where a scholar's logic seems sound, I have adopted it. If my chronology differs from others, it is because I have selected
+a unique subset of all known proposed solutions. My goal is similar to that of Dionysius and Newton. World events
+have made many Christians anxious and susceptible to manipulation by unscrupulous charlatans. In my twenties, I suffered
+nightmares about the end of the world, as recounted in <a href="./dreams.html">Dreams</a>. I want to spare others this torment.
+My study of end times prophecy has taught me that there is good news mixed in with the bad. For every judgment God executes,
+He also improves the world by His grace. His patience will run out eventually, then the end will come.</p>
+
+<p>My goal in establishing this chronology was not to be exact to the year. My insight is that there are two uses of time in prophecy.
+One is to give the exact count of years between two events. That time may be expressed in a riddle, like seven cows meaning seven years
+in Pharaoh's dream in Genesis, but the symbolism has a precise meaning that can be found. With such a prophecy, you must identify
+the two events that mark the beginning and end of the prophecy and know the years in which they occurred exactly.
+The Bible is not sloppy with dates. If your proposed events do not differ by the expected number of years, you either
+have the wrong events or your chronology is wrong. Your work is not complete until you can fix this inconsistency.
+An exact chronology is necessary to analyze this kind of prophecy.</p>
+
+<p>The second use is to define a regular grid, like a calendar. In my writing, I call those prophetic clocks. 
+For such a clock, you need to know the duration of each period, but you can be off a few years with the start and end date for the clock. 
+So long as most events are slotted into the clock in the right period, it can be understood and acted upon. 
+One example where this helped me date something relates to Solomon's times and the Babylonian Exile. 
+It was obvious from the metaphor that "a time to tear" must include time of the Babylonian Exile. When my initial 
+starting event for the clock did not cause the exile to be properly slotted, I knew I was wrong.</p>
+
+<p>In a clock where the period is 120 years (one of the common durations), being off by a decade means there is only a one in eight
+chance that a key event that is supposed to fall in a given era gets incorrectly slotted into an adjacent era. 
+This adds noise to the pattern, but does not usually destroy it. Only as the dates diverge further is 
+the pattern destroyed. Thus my goal is to establish dates that are less than a decade off from true.</p>
+
+<p>The articles in this section will cover the following chronological challenges:</p>
+
+<ul>
+<li><a href="./dating-the-creation.html">Dating the Creation</a>. How long ago did the Creation occur? When did the Flood of Noah occur? How old was Terah when Abram was born?</li>
+<li><strong>Sojourn of Israel</strong>. When did the patriarchs live? How long did Jacob live near Laban? When did the sojourn of Israel in Egypt begin?</li>
+<li><a href="./chronology-of-judges.html">Chronology of Judges</a>. How long did Joshua rule Israel? To measure time between judges, do you add the intervening periods of subjugation to enemy peoples to the years of the judges or not? Did any judgeships overlap? How long did King Saul reign?</li>
+<li><a href="./lifespan-of-solomon.html">Lifespan of Solomon</a>. When was Solomon born? How long did he live?</li>
+</ul>
+
+<h2>Counting like Kings</h2>
+
+<p>Though the chronology of the kings of Israel and Judah is viewed as one of the more challenging ones, I leave that one to the experts.
+They mostly have been refining the work of Edwin Thiele, who introduced the idea in his 1951 book (and subsequent revisions)
+<a href="https://en.wikipedia.org/wiki/The_Mysterious_Numbers_of_the_Hebrew_Kings">The Mysterious Numbers of the Hebrew Kings</a>
+that there are two ways to use the lengths of the reigns of kings to form a chronology. </p>
+
+<ul>
+<li><strong>accession year chronology</strong>. When the old king dies or abdicates, the remainder of the year is called the accession year of the new king. The year one of the new king starts with the next calendar year.</li>
+<li><strong>non-accession year chronology</strong>. The first year of the reign of the new king is the partial year left after the end of the previous king's reign. </li>
+</ul>
+
+<p>If you use a non-accession year chronology, it is the mathematical equivalent of rounding up. The other is like rounding down.
+Between Israel and Judah, or Judah and Assyria, you have the situation that the dates do not line up because one kingdom
+rounds up and the other rounds down, and at a point in history, some kingdoms switched from one to the other scheme.</p>
+
+<p>NOTE: Thiele's work is not without its detractors. One such article by Larry Pierce published in 2001 is 
+<a href="https://answersingenesis.org/bible-history/evidentialism-the-bible-and-assyrian-chronology/">Evidentialism–The Bible and Assyrian Chronology</a>
+I accept some of Thiele's ideas as sound but not his detailed reconstruction, as it places more credence on the Assyrian record than on the Biblical record.</p>
+
+<h2>Counting backwards to the Creation</h2>
+
+<p>This idea of rounding up versus rounding down (plus coregencies and other oddities) is now applied by many scholars to understanding 
+the reigns of the kings. I have not seen it applied to the lives of the people before Abram. That is my key innovation. 
+There are twenty generations from Adam to Abraham. If the Bible records the whole number of years of age when each father 
+gave birth to his son, then you lose the fractional part of the birth year. That means that summing up those ages at birth figures 
+will cause you to round down. On average, each rounding down will cost you half a year. Across twenty generations you will lose ten years.</p>
+
+<p>Bishop James Ussher published <em>Annales veteris testamenti, a prima mundi origine deducti</em> 
+("Annals of the Old Testament, deduced from the first origins of the world"), in 1650, and <em>Annalium pars posterior</em> in 1654. 
+In his work he famously estimated that the Creation occurred in 4004 BC. We have better solutions to some of the Chronological 
+problems than he, but taking his date and adding my correction of ten years leads to a <strong>Creation date of 4014 BC</strong>. 
+Based on other calculations of mine (explained in the other articles), the <strong>creation likely occurred in 4020 BC</strong> or very close to it.
+By that reckoning, we are now in the early part of the seventh millennium of history, thought by many to be the final millennium.
+Enjoy!</p>
+
+      </div>
+
+    </div>
+    <!-- Page Footer -->
+    <div class="footer faint">
+      
+    </div>
+  </div>
+</body>
+</html>

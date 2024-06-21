@@ -1,0 +1,569 @@
+
+<!DOCTYPE html>
+<head>
+  <!--from template: default-page.html -->
+  <title>120 is for Consecration</title>
+  <link rel="stylesheet" href="./styles/tree.css" type="text/css">
+  <link rel="stylesheet" href="./styles/toc.css" type="text/css">
+  <link rel="stylesheet" href="./styles/article.css" type="text/css">
+  <!-- Font Awesome supplies the icons used in the TOC -->
+  <script src="https://kit.fontawesome.com/ecadd7b212.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="./styles/page.css" type="text/css">
+
+  <script>
+    /* Search for a css class name in an HTML element and replace it with a second class. */
+    function replace_class(element, from_class, to_class) {
+      element.classList.remove(from_class)
+      element.classList.add(to_class)
+    }
+
+    /* Show or hide the table of contents menu in the left sidebar by changing the style classes.
+       Also show and hide the buttons used to open and close the menu.
+     */
+    function toggleLeftSidebar(open) {
+      const sidebar = document.getElementById("leftsidebar");
+      const open_button = document.getElementById("leftsidebaropen");
+      const close_button = document.getElementById("leftsidebarclose");
+      const body = document.getElementById("articlebody")
+     
+      if (open) {
+        replace_class(sidebar, "leftsidebar-closed", "leftsidebar-open")
+        replace_class(open_button, "show-toggle", "hide-toggle")
+        replace_class(close_button, "hide-toggle", "show-toggle")
+        replace_class(body, "body-wide", "body-narrow")
+      }
+      else {
+        replace_class(sidebar, "leftsidebar-open", "leftsidebar-closed")
+        replace_class(open_button, "hide-toggle", "show-toggle")
+        replace_class(close_button, "show-toggle", "hide-toggle")
+        replace_class(body, "body-narrow", "body-wide")
+      }
+   }
+
+  </script>
+</head>
+<html>
+
+
+<body>
+  <!-- Floating buttons to open and close the TOC -->
+  <div id="toggle">
+    <div class="tooltip">
+
+      <a id="leftsidebaropen" class="hide-toggle" role="button" tabindex="1" onclick="toggleLeftSidebar(true)" >
+        <i class="fas fa-angle-double-right"></i>
+        <span class="tooltiptext">Show</span>
+      </a>
+      <a id="leftsidebarclose" class="show-toggle" role="button" tabindex="2" onclick="toggleLeftSidebar(false)">
+        <i class="fas fa-angle-double-left"></i>
+        <span class="tooltiptext">Hide</span>
+      </a>
+    </div>
+  </div>
+  <!-- Page Header -->
+  <div class="header header-colors">
+    <a href="index.html">
+      <img src="images/wisdom-house.png" width="676" height="250"/>
+    </a>
+
+    <div class="quote">Then [the Queen of Sheba] gave [King Solomon] <br/> 120 talents of gold, and ... spices and precious stones. <br/> Never again came such an abundance... <br/> - 1 Kings 10:10</div>
+
+  </div>
+  <!-- Left Sidebar TOC -->
+  <div class="container">
+    <div id="leftsidebar" class="leftsidebar-open left-side-colors" tabindex="0">
+        <ul class="tree-padding tree-vertical-lines tree-horizontal-lines tree-summaries tree-markers tree-buttons">
+          <li>
+            <details open="">
+              <summary><i class="fa-solid fa-house-chimney"></i> <a href="home.html">Home</a></summary>
+                <ul>
+                  <li><i class="fas fa-address-card"></i> <a href="about.html">About this Site</a></li>
+                  <li><i class="fas fa-feather-alt"></i> <a href="author.html">Author</a></li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-book"></i> <a href="books.html">Books</a></summary>
+                        <ul>
+                          <li> <a href="the-endless-hunt.html">The Endless Hunt</a></li>
+                          <li> <a href="job-rises.html">Job Rises</a></li>
+                          <li> <a href="peace-book.html">Peace, Like Solomon Never Knew</a></li>
+                          <li> <a href="plague-book.html">Plague, Precept, Prophet, Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li><i class="fa-solid fa-user-secret"></i> <a href="secret.html">Shhhh! Secret!</a></li>
+                  <li>
+                    <details>
+                      <summary><i class="fa-solid fa-building-columns"></i> <a href="lady-wisdom-s-house.html">Lady Wisdom's House</a></summary>
+                        <ul>
+                          <li> <a href="lady-wisdom.html">Lady Wisdom</a></li>
+                          <li> <a href="hannah-s-song.html">Hannah's Song</a></li>
+                          <li> <a href="blueprint.html">Blueprint for Lady Wisdom's House</a></li>
+                          <li> <a href="foundation.html">Foundation: The Commandments</a></li>
+                          <li> <a href="seven-spirits.html">Lanterns: The Seven Spirits of God</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="seven-pillars-of-wisdom.html">Seven Pillars of Wisdom</a></summary>
+                                <ul>
+                                  <li> <a href="theme-of-books.html">Theme of Books</a></li>
+                                  <li> <a href="theme-of-swords.html">Theme of Swords</a></li>
+                                  <li> <a href="theme-of-pillars.html">Theme of Pillars</a></li>
+                                  <li> <a href="theme-of-thunders.html">Theme of Thunders</a></li>
+                                  <li> <a href="theme-of-spirits.html">Theme of Spirits</a></li>
+                                  <li> <a href="theme-of-songs.html">Theme of Songs</a></li>
+                                  <li> <a href="theme-of-treasures.html">Theme of Treasures</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="roof-of-peace.html">Roof: Paul's Gospel of Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-seedling"></i> <a href="spiritual-growth.html">Spiritual Growth</a></summary>
+                        <ul>
+                          <li> <a href="most-important-questions.html">What are life's Most Important Questions?</a></li>
+                          <li> <a href="heavenly-treasures.html">What are the Heavenly Treasures?</a></li>
+                          <li> <a href="harvest-pattern.html">The Harvest Pattern of Jesus</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="growth-pattern.html">The Growth Pattern of Solomon</a></summary>
+                                <ul>
+                                  <li> <a href="there-is-a-season.html">There is a Season</a></li>
+                                  <li> <a href="pauls-discipleship-program.html">The Apostle Paul's Discipleship Program</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="the-motherhood-pattern.html">The Motherhood Pattern</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="law-pattern.html">The Law Pattern of Moses</a></summary>
+                                <ul>
+                                  <li> <a href="which-ten-commandments.html">Which Ten Commandments?</a></li>
+                                  <li> <a href="matthew-and-the-law-of-christ.html">Matthew and the Law of Christ</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="the-journey-pattern.html">The Journey Pattern</a></li>
+                          <li> <a href="emotional-prophecies-of-the-psalms.html">Emotional Prophecies of the Psalms</a></li>
+                          <li> <a href="talk-to-god.html">Job and the Ways to Talk to God</a></li>
+                          <li> <a href="job-description-for-a-savior.html">Job Description for a Savior</a></li>
+                          <li> <a href="dreams.html">Dreams</a></li>
+                          <li> <a href="spiritual-warfare.html">Spiritual Warfare</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-hourglass-half"></i> <a href="the-end-times.html">The End Times</a></summary>
+                        <ul>
+                          <li> <a href="seven-cycles-of-judgment.html">Seven Cycles of Judgment</a></li>
+                          <li> <a href="satan-bound-and-released.html">Satan, Bound and Released</a></li>
+                          <li> <a href="the-millennial-kingdom.html">The Millennial Kingdom</a></li>
+                          <li> <a href="the-four-horsemen-of-the-apocalypse.html">The Four Horsemen of the Apocalypse</a></li>
+                          <li> <a href="the-fifth-trumpet.html">The Fifth Trumpet</a></li>
+                          <li> <a href="the-fifth-seal.html">The Fifth Seal</a></li>
+                          <li> <a href="voice-of-the-seven-thunders.html">Voice of the Seven Thunders</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details open="">
+                      <summary><i class="fas fa-list-ol"></i> <a href="numerology.html">Numerology</a></summary>
+                        <ul>
+                          <li> <a href="to-number-our-days.html">To Number our Days</a></li>
+                          <li> <a href="2-is-for-jesus.html">2 is for Jesus</a></li>
+                          <li> <a href="3-is-for-the-father.html">3 is for the Father</a></li>
+                          <li> <a href="4-is-for-cycles-of-nature.html">4 is for Cycles of Nature</a></li>
+                          <li> <a href="5-is-for-grace.html">5 is for Grace</a></li>
+                          <li> <a href="6-is-for-man.html">6 is for Man</a></li>
+                          <li> <a href="7-is-for-the-holy-spirit.html">7 is for the Holy Spirit</a></li>
+                          <li> <a href="17-is-for-victory.html">17 is for Victory</a></li>
+                          <li> <a href="28-is-for-time.html">28 is for Time</a></li>
+                          <li> <a href="40-is-for-suffering.html">40 is for Suffering</a></li>
+                          <li> <a href="42-is-for-the-journey.html">42 is for the Journey</a></li>
+                          <li> <a href="120-is-for-consecration.html">120 is for Consecration</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="153-is-for-total-victory.html">153 is for Total Victory</a></summary>
+                                <ul>
+                                  <li> <a href="153-connections.html">153 Connections</a></li>
+                                  <li> <a href="defining-153.html">Defining 153</a></li>
+                                  <li> <a href="153-and-fear.html">153 and Fear</a></li>
+                                  <li> <a href="153-and-hope.html">153 and Hope</a></li>
+                                  <li> <a href="habakkuk-part-1.html">Habakkuk Part 1</a></li>
+                                  <li> <a href="habakkuk-part-2.html">Habakkuk Part 2</a></li>
+                                  <li> <a href="habakkuk-part-3.html">Habakkuk Part 3</a></li>
+                                  <li> <a href="habakkuk-part-4.html">Habakkuk Part 4</a></li>
+                                  <li> <a href="habakkuk-part-5.html">Habakkuk Part 5</a></li>
+                                  <li> <a href="habakkuk-part-6.html">Habakkuk Part 6</a></li>
+                                  <li> <a href="habakkuk-part-7.html">Habakkuk Part 7</a></li>
+                                  <li> <a href="153-and-the-fifth-trumpet.html">153 and the Fifth Trumpet</a></li>
+                                  <li> <a href="habakkuk-s-war.html">Habakkuk's War</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="210-is-for-peace.html">210 is for Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-scroll"></i> <a href="prophetic-clocks.html">Prophetic Clocks</a></summary>
+                        <ul>
+                          <li> <a href="types-of-clock.html">Types of Clock</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="generational-clocks.html">Generational Clocks</a></summary>
+                                <ul>
+                                  <li> <a href="job-s-anti-jubilee-clock-defined.html">Job's Anti-Jubilee Clock, Defined</a></li>
+                                  <li> <a href="alexander-the-great.html">The Death of Alexander the Great</a></li>
+                                  <li> <a href="psalm-119.html">Psalm 119: The Shepherd's Clock</a></li>
+                                  <li> <a href="generations-come-and-go.html">Generations Come and Go</a></li>
+                                  <li> <a href="two-patterns-in-history.html">Two Patterns in History</a></li>
+                                  <li> <a href="acrostic-clock.html">The Acrostic Clock</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li>
+                            <details>
+                              <summary> <a href="celestial-clocks.html">Celestial Clocks</a></summary>
+                                <ul>
+                                  <li> <a href="grandfather-clock.html">A Grandfather Clock & a Silver Cord</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="spiritual-clocks.html">Spiritual Clocks</a></li>
+                          <li> <a href="empire-clocks.html">Empire Clocks</a></li>
+                          <li> <a href="commandment-clocks.html">Commandment Clocks</a></li>
+                          <li> <a href="other-clocks.html">Other Clocks</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-question-circle"></i> <a href="riddles.html">Riddles</a></summary>
+                        <ul>
+                          <li> <a href="the-righteous-fall-seven-times.html">The Righteous Fall Seven Times</a></li>
+                          <li> <a href="twice-a-thousand-years.html">Twice a Thousand Years</a></li>
+                          <li> <a href="seven-pillars-riddle.html">The Seven Pillars of Wisdom</a></li>
+                          <li> <a href="riddle-of-153-fish.html">Why 153 Fish?</a></li>
+                          <li> <a href="riddles-of-war.html">Riddles of War</a></li>
+                          <li> <a href="building-a-house.html">Building a House</a></li>
+                          <li> <a href="hannah-s-song.html">Hannah's Song</a></li>
+                          <li> <a href="satan-s-taunt.html">Satan's Taunt</a></li>
+                          <li> <a href="vineyard-parable.html">Parable of the Workers in the Vineyard</a></li>
+                          <li> <a href="wedding-parable.html">The Parable of the Wedding Feast</a></li>
+                          <li> <a href="the-childbearing.html">The Childbearing</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fa-solid fa-person-harassing"></i> <a href="a-divided-world.html">A Divided World</a></summary>
+                        <ul>
+                          <li>
+                            <details>
+                              <summary> <a href="against-complementarianism.html">Against Complementarianism</a></summary>
+                                <ul>
+                                  <li> <a href="a-model-for-the-ordination-of-women.html">A Model for the Ordination of Women</a></li>
+                                  <li> <a href="submission.html">Submission</a></li>
+                                  <li> <a href="consecration.html">Consecration</a></li>
+                                  <li> <a href="identification.html">Identification</a></li>
+                                  <li> <a href="quantification.html">Quantification</a></li>
+                                  <li> <a href="reconciliation.html">Reconciliation</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-calendar-alt"></i> <a href="chronology.html">Chronology</a></summary>
+                        <ul>
+                          <li> <a href="dating-the-creation.html">Dating the Creation</a></li>
+                          <li> <a href="sojourn-of-israel.html">Sojourn of Israel</a></li>
+                          <li> <a href="chronology-of-judges.html">Chronology of Judges</a></li>
+                          <li> <a href="lifespan-of-solomon.html">Lifespan of Solomon</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                </ul>
+            </details>
+          </li>
+
+        </ul>
+    </div>
+    <!-- Article Text -->
+    <div id="articlebody" class="body-narrow" tabindex="3">
+      <div class="article">
+        <h1>120 is for Consecration</h1>
+        
+        <p class="date">Published on 2024-03-29</p>
+        
+        <p>The number One hundred twenty (120) is of first importance, yet presents contradictory meanings. From its obvious factoring we get:</p>
+
+<p><strong>120 = 10 x 12</strong></p>
+
+<p>Both are numbers of completeness: </p>
+
+<ul>
+<li>ten for secular human completeness (fingers and toes) and</li>
+<li>twelve for consecrated human completeness (elders and apostles). </li>
+</ul>
+
+<p>It is also a factorial: </p>
+
+<p><strong>120 = 1 x 2 x 3 x 4 x 5</strong></p>
+
+<p>It may also be divided into three parts of forty each, and forty has to do with suffering. Let’s see one hundred twenty in its normal 
+habitat.</p>
+
+<h2>These usages relate to being consecrated for service:</h2>
+
+<ul>
+<li>When David brought the ark to Jerusalem: <em>And David gathered together the sons of Aaron and the Levites: of the sons of Kohath, Uriel the chief, with <strong>120 of his brothers</strong>;</em> (1 Chronicles 15:4-5, ESV)</li>
+<li><strong>120 talents of gold</strong> were paid in a transaction between Solomon and King Hiram of Tyre in 1 Kings 9:14, related to building expenses for the temple.</li>
+<li><strong>120 talents of gold</strong> was part of the Queen of Sheba’s gift to Solomon in 1 Kings 10:10.</li>
+<li><strong>120 priests blew trumpets</strong> when the ark of the covenant was brought into the temple at its dedication by Solomon in 2 Chronicles 5:12. The temple filled with a cloud “and the priests could not perform their service because of the cloud, for the glory of the LORD filled the temple of God.” (2 Chronicles 5:14, NIV)</li>
+<li>After Solomon offered the prayer for the dedication of the temple, they made their sacrifice. <em>Then the king and all the people offered sacrifice before the Lord. King Solomon offered as a sacrifice 22,000 oxen and <strong>120,000 sheep</strong>. So the king and all the people dedicated the house of God.</em> (2 Chronicles 7:4-5, ESV)</li>
+<li><em>It pleased Darius to appoint 120 satraps to rule throughout the kingdom, with three administrators over them, one of whom was Daniel. The satraps were made accountable to them so that the king might not suffer loss.</em> (Daniel 6:1-2, NIV) Here we see 120 representing the complete leadership of a nation, divided into three groups of forty.</li>
+<li>According to Jewish tradition, Ezra the scribe gathered many manuscripts and commissioned a Great Synagogue of <strong>120 scribes</strong> to codify the Old Testament.  Additionally, the number of those who returned from Babylon with Ezra was 42,360 = 120 x 353. (Ezra 2:8-66)</li>
+<li>In Acts 1:15-17, Peter instructed the <strong>hundred and twenty believers</strong> meeting with him to <strong>consecrate</strong> a man to replace Judas Iscariot as the twelfth apostle. Presumably, this same <strong>120 people were present on the day of Pentecost</strong> days later when the Holy Spirit consecrated them from Heaven in Acts 2.</li>
+</ul>
+
+<h2>These next usages have to do with judgment:</h2>
+
+<ul>
+<li><em>When human beings began to increase in number on the earth and daughters were born to them, the sons of God saw that the daughters of humans were beautiful, and they married any of them they chose. Then the LORD said, “My Spirit will not contend with humans forever, for they are mortal; their days will be a hundred and twenty years.”</em> (Genesis 6:1-3, NIV)</li>
+<li><em>Moses was a <strong>hundred and twenty years old</strong> when he died, yet his eyes were not weak nor his strength gone.</em> (Deuteronomy 34:7, NIV) </li>
+<li>Moses’ life came in three parts: 40 years in Egypt, 40 years in Midian, and 40 years leading Israel in the desert. He was a man consecrated (chosen to lead) and judged (forbidden to enter the Promised Land).</li>
+<li>Gideon led Israel against Zebah and Zalmunna, kings of Midian, in Judges 8. His army slew <strong>120,000 enemy swordsmen</strong>.</li>
+<li><em>In one day Pekah son of Remaliah killed <strong>a hundred and twenty thousand soldiers</strong> in Judah—because Judah had forsaken the LORD, the God of their ancestors.</em> (2 Chronicles 28:6, NIV) Yet the Lord was merciful, and sent a prophet to compel Israel to free the women and children of Judah carried off as hostages.</li>
+<li>Jonah was sent to Nineveh to announce its destruction in forty days (another period of trial). The prophet craved that a just punishment be exacted against that city, but God arranged for mercy: </li>
+</ul>
+
+<h4>But the LORD said, “You have been concerned about this plant,</h4>
+
+<h5>though you did not tend it or make it grow.</h5>
+
+<h4>It sprang up overnight and died overnight.</h4>
+
+<h4>And should I not have concern for the great city of Nineveh,</h4>
+
+<h5>in which there are more than <strong>a hundred and twenty thousand people</strong></h5>
+
+<h4>who cannot tell their right hand from their left—</h4>
+
+<h5>and also many animals?”</h5>
+
+<h6>- Jonah 4:10-11, NIV</h6>
+
+<p>Among these usages of one hundred twenty, just over half involve consecration to service while the rest describe judgment. However, even in judgment, many displayed God’s mercy (such as towards Nineveh), while in consecration, some were tied with judgment (like replacing Judas). In Israel’s sacrificial system, some sacrifices were consumed, while others were not. Thus these two meanings for 120 are opposite sides of the same coin.</p>
+
+<p>To complete the image of consecration combined with judgment, in Revelation, 144,000 people from the tribes of Israel will be sealed, commissioned for a special mission during the time of the end. 144,000 = 120 x 120 x 10. Their consecration will be to pronounce judgment against the nations.</p>
+
+<p>So the number one hundred twenty has a part to play from Genesis to Revelation. The first usage is the attention grabber, God’s warning preceding the flood of Noah: “their days will be a hundred and twenty years”. There are two prevalent interpretations of this warning:</p>
+
+<ul>
+<li>The world had 120 years of probation to reform or be destroyed by the flood. During that time, Noah built the ark.</li>
+<li>The maximum human lifespan was to be reduced from 1,000 years to 120 years.</li>
+</ul>
+
+<p>Standing against the idea that the reduction in maximum human lifespan was intended is the fact that after the flood, people continued to live longer than 120 years for centuries. However, human lifespan did steadily decline. Who were the last two people in the Bible to live at least 120 years? </p>
+
+<ul>
+<li>Jehoiada the priest: <em>But Jehoiada grew old and full of days, and died. He was 130 years old at his death.</em> - 2 Chronicles 24:15</li>
+<li>Moses, lawgiver and author of Genesis, who lived a thousand years after God spoke to Noah.</li>
+</ul>
+
+<p>Jehoiada is surely an outlier, specially blessed by God. (In <em>Peace, like Solomon Never Knew</em>, I overlooked Jehoiada and erroneously said that Moses was the last person to reach 120 years of age.) The case of Moses is different. Step back and consider God’s warning to Adam: </p>
+
+<h4>And the Lord God commanded the man, saying,</h4>
+
+<h5>“You may surely eat of every tree of the garden,</h5>
+
+<h5>but of the tree of the knowledge of good and evil</h5>
+
+<h5>you shall not eat, for in the day that you eat</h5>
+
+<h5>of it you shall surely die.”</h5>
+
+<h6>-  Genesis 2:16-17, ESV</h6>
+
+<p>Did Adam die that day? No, he lived to the age of 930.</p>
+
+<p>Did Adam die that day? Yes! It was a prophetic day, not a literal day.</p>
+
+<h4>For a thousand years in your sight</h4>
+
+<h5>are but as yesterday when it is past,</h5>
+
+<h6>or as a watch in the night.</h6>
+
+<h6>- Psalm 90:4, ESV</h6>
+
+<p>The above psalm was written by Moses, which is significant, as his life ended at the end of an important millennium, at the age of 120 years.</p>
+
+<h4>But do not overlook this one fact, beloved,</h4>
+
+<h5>that with the Lord one day is as a thousand years,</h5>
+
+<h6>and a thousand years as one day.</h6>
+
+<h6>- 2 Peter 3:8, ESV</h6>
+
+<p>There is a principle in how God dealt with Adam.</p>
+
+<ul>
+<li>a verbal warning</li>
+<li>an early example</li>
+<li>a final fulfillment</li>
+</ul>
+
+<p>For Adam, the verbal warning was given in Eden, as shown above. The early example came when Cain slew Abel, a demonstration of human mortality. Since Seth was born after this, when Adam was 130, it is possible that Abel’s death may have happened 120 years after the verbal warning, though it may have come much earlier. The final fulfillment came when Adam died at age 930, just before the close of the first millennium. A prophetic day can be as long as a thousand years.</p>
+
+<p>Can we apply this principle to Noah? First came the verbal warning, about 2,470 BC. One hundred twenty years later, in accord with the first interpretation, came the demonstration: the destruction of the world by flood, about 2,349 BC. Finally, the death of Moses in around 1,451 BC, at age 120, after which no one has ever lived longer. The prophetic thousand-year clock that began with Noah ran out nineteen years before Moses died. Scripture says that Moses’ eyes were still sharp and his body still strong the day he died. He did not die of famine, plague, war or old age. He died by God’s law, now finally in full effect.</p>
+
+<p>The last section, about the <a href="42-is-for-the-journey.html">number forty-two</a> pondered what would be a suitable unit by which to measure all of human history. Many have tried to detect patterns in the Bible and secular history. They try to count years and find cycles of varying lengths that illuminate God’s mysterious plan. Why years? Years are mechanical. The motions of sun, moon, and stars are mechanical and predictable, if subtle, and we have cracked them. History is made up of people, not machines! Shouldn’t it be different with us?</p>
+
+<p><em>Secrets of Time</em>, by Dr. Stephen E. Jones, is filled with marvelous insights into Jewish laws and customs. My criticism is that his logic in places is circular. He proposes a variant chronology, then shows that certain events fall multiples of 49, 50 or 414 years after certain other events, then uses those concordances to prove the correctness of his chronology.</p>
+
+<p>Jones’ foundational unit is the jubilee cycle of forty-nine years. He claims that even though the laws of jubilee were given to Moses, they began with the creation. Those laws require that all debts be forgiven and all slaves be freed every 7x7 or forty-nine years, the year of jubilee. Israel’s failure to free their servants on this schedule contributed to their ultimate exile.</p>
+
+<p>Jones then speculates that since the number one hundred twenty carries special symbolic meaning related to judgment, the arrival of the 120th jubilee should be marked by a particularly spectacular spiritual event. By his calendar, that happened in either 1986 or 1993 (there are uncertainties in some historical dates). What was the most significant event to happen between those two years? The Berlin Wall fell, the Soviet Union collapsed and many nations were set free from tyranny. That certainly sounds like a year of jubilee. Didn’t I just make his case?</p>
+
+<p>The problem is that the last century or two has been jam-packed with momentous events. Any proposed calendar that has a date falling near the present will find a hit, and then you can weave it into a convincing story.</p>
+
+<p>It is not certain that there is <em>nothing</em> to the idea of jubilee years marking important dates in history, but the number 414, which that author associates with “cursed time”, is never mentioned in Scripture directly. 1,656 = 4 x 414, and that is the number of years after the creation that the flood arrived. That is the closest you can get to a proof of its importance without resorting to manipulations of Bible chronology to manufacture more examples.</p>
+
+<p>A second criticism of the idea of multiplying 120 x 49 to arrive at his modern 120th jubilee and declare its special significance comes from dimensional analysis. In engineering, your formulas must multiply values that not only use the correct units (English vs metric) but also measure the right dimensions. Length over time is a velocity, a useful measure. Length times a time is meaningless.</p>
+
+<p>A jubilee cycle is forty-nine years. It is a unit of time, just like the day and the forty-year times of testing. The maximum length of a human life has been set as one hundred twenty years. That is also a unit of time. You do not multiply time by time! What can you multiply it by? You can multiply it by seven. The creation week is built on top  of the day (a twenty-four hour time period) multiplied by a number indicating a process, seven, signifying completeness or holiness.</p>
+
+<p>We have seen other process numbers besides seven. Five has to do with growing, of teaching and refining people through suffering and the threefold ministry of the Trinity, leading to a harvest. Which brings us back to forty-two.</p>
+
+<p>What do you get if you multiply forty-two (a process number) by one hundred twenty years? You get a long period of time: 5,040 years. It is not a meaningless multiplication, but it also doesn’t accomplish the stated goal of measuring the years (or measuring something) from the creation to the end of time: history has already exceeded that length in years by nearly a millennium.</p>
+
+<p>One clue leading to a solution is found in the story of Methuselah. One theory is that his name means “when he dies, it will come”. His name was a prophecy of the flood, a warning given centuries earlier than the one God gave Noah. The Almighty used a man’s life as his measuring rod.</p>
+
+<p>What does that say about God? The flood story bothers people. They use it to label the God of the Old Testament as a God of vengeance, and the God of the New Testament as patient, merciful and forgiving. One sermon I heard put it this way. Since God decided to use one man’s life as the amount of time He would wait before executing judgment, the man He chose reveals God’s character. If God chose a short-lived person, then it shows He leans toward the side of justice. However, if He chose a long-lived person, then He leans on the side of mercy. By choosing Methuselah, at 969 years the longest living man to ever set foot on earth, God chose mercy.</p>
+
+<p>God also established a pattern. In important matters, God counts people, not ticks on a wall clock. Did He not make the sun stand still for a day for Joshua? Did he not make it run backwards, up the stairs, for Hezekiah? Time is like putty in God’s hands; lives are what matter. He made His covenants with humans, not marks on an hourglass.</p>
+
+<p>Speaking of King Hezekiah, for his pride he was told he would die in 2 Kings 20. The king humbled himself and prayed for forgiveness and fifteen years were added to his life. Did this act of grace throw off God’s timetable for sending the messiah? No! The Lord measured out the time from Abraham to Jesus as forty-two generations, and from David to Jesus as forty-two generations. This permits Him to show mercy where He wills, or judgment instead. He can shorten or lengthen years as He pleases, yet keep the count of generations fixed, baffling all who are trying to settle on a number of years.</p>
+
+<h4>‘The Lord is slow to anger</h4>
+
+<h5>and abounding in steadfast love,</h5>
+
+<h4>forgiving iniquity and transgression,</h4>
+
+<h5>but he will by no means clear the guilty,</h5>
+
+<h4>visiting the iniquity of the fathers on the children,</h4>
+
+<h5>to the third and the fourth generation.’</h5>
+
+<h6>- Numbers 14:18, ESV</h6>
+
+<p>This verse is amazing. It is Moses speaking. He had the audacity to use God’s own words to remind God of His mercy and beseech Him to not kill all the Israelites after they sinned greatly. Reflecting on those words, I reasoned that God must have longed to send a savior as soon as possible. He chose forty-two overlapping generations to accomplish this goal. That forty-two generation span was the short time until salvation. </p>
+
+<p>God will not withhold His wrath forever, though. What if He chose forty-two other people and strung their lives together, end-to-end, with minimal overlap? That would postpone judgment day as long as possible, giving the world extra time to repent.</p>
+
+<p>One problem: the Bible stopped. What authoritative, steadily growing list of names can we use as our clock? No more genealogies are being written by God’s prophets! </p>
+
+<p>Solution! God’s words to Noah remove this difficulty. The earliest people in the Bible lived phenomenally long, but we have their ages recorded. Two overlapping generations (Adam and Methuselah) get us to the flood. After that, God changed the definition of a generation and made lifespans decline until they reached 120 years. From then on, if God acts with the most extreme patience, every subsequent generation will last 120 years...</p>
+
+<p>... unless something changes that lengthens human life. That something might be modern medicine, cracking the DNA code, genetic engineering, and life extension. If that happens (and God permits it) then generations will lengthen once more. Can man escape the Apocalypse by stopping God’s generational clock? All it takes is one bio-engineered immortal to forestall the end of the world.</p>
+
+<p>Is that possible? If this scheme were true, with two long generations, followed after Noah by 120-year long generations up to the present, how many generations total have elapsed? Assuming Archbishop Ussher’s Chronology, this year (2020) is about the year 6,024 since the creation. Two non-overlapping generations lived prior to the flood. The flood occurred about 1,656 years after creation.  All the years since then must be divided by 120, giving this result:</p>
+
+<p><strong>Generations = 2 + (6,024 - 1,656) / 120 = 38.4</strong></p>
+
+<p>(NOTE: Since children do not normally have their birthday on the same day of the year as their father, chronologies that make reference to the age of the father when the son is born suffer from rounding error. Depending on whether the years given in the Genesis chronology use accession year or non-accession year dating, the flood may have occurred anywhere from 1,646 to 1,666 years after the creation. The non-accession year method rounds up, the accession year method rounds down. The average difference is half a year per generation. This solution to some chronology problems was popularized by Edwin Thiele.)</p>
+
+<p>Thirty-eight generations are complete and we are almost halfway through the thirty-ninth. When dealing with forty-two, remember there are forty-units of suffering, one of crisis, then one of peace or judgment. The forty-first generation will reveal the crisis: the final conflict recorded in Revelation, with tribulation, the appearance of the anti-Christ, and Christ’s triumphant return. Then the forty-second generation will usher in peace, the resurrections of the blessed and the damned, and the beginning of eternity.</p>
+
+<p>By this logic, we only have two-and-a-half generations to solve the medical problem of mortality. Nevertheless, this scheme offers no hint of how many years that may be. It could be three hundred years. It could be longer. Depending on how fast wickedness spreads, it could also be shorter:</p>
+
+<h4>For in those days there will be such tribulation</h4>
+
+<h5>as has not been from the beginning of the creation</h5>
+
+<h6>that God created until now, and never will be.</h6>
+
+<h4>And if the Lord had not cut short the days,</h4>
+
+<h5>no human being would be saved.</h5>
+
+<h4>But for the sake of the elect,</h4>
+
+<h5>whom he chose,</h5>
+
+<h6>he shortened the days.</h6>
+
+<h6>- Mark 13:19-20, ESV</h6>
+
+<p>The Lord may not reduce the number of generations, but He may surely shorten those days. Long ago He reduced our years from 1,000 to 120. He can do it again.</p>
+
+<p>To summarize:</p>
+
+<ul>
+<li>Methuselah is an example of a man whose life God employed as a measure of one unit of human history. </li>
+<li>Matthew’s genealogy of Jesus emphasizes that Israel’s struggle lasted 42 overlapping generations, divided in three parts.</li>
+<li>God’s words to Noah redefined a human generation to be 120 years.</li>
+<li>The whole world is engaged in a longer struggle than Israel’s, which will last 42 generations, just like Israel, but longer, non-overlapping ones, to give the world time to repent.</li>
+</ul>
+
+<p>That was how my thinking progressed. This thesis has huge holes, holes which caused me to put it down for several years because I could not answer my own objections. Where in the Bible does it say that the whole of history runs on a timetable governed by a fixed number of generations? In Matthew it may be that 42 generations were given to Israel, but might not the world be given a different number? Should the calendar not use actual people’s lives? In some years, the oldest person alive dies at an age less than 120, as low as 111 in records I have read. Should the time when the 120 year generation length kicks in begin immediately following the flood, or wait until Moses?</p>
+
+<p>How would you test this conjecture? Are any patterns in the Bible and in history clarified using this scheme? Are they striking enough to offer as proof? Instead of pushing my doubts aside, I let them push me to search for answers.</p>
+
+<p>I found them. The remainder of <em>Peace, like Solomon Never Knew</em> constructed an edifice that arranges human history into forty-one generations with too many symmetries to be coincidental. However, those symmetries were insufficient to make up for the most serious deficiency: lack of scriptural warrant establishing such a pattern. Not until I dug into Ecclesiastes did I find the words that gave me confidence to proceed:</p>
+
+<h4>A generation goes,</h4>
+
+<h5>and a generation comes,</h5>
+
+<h6>but the earth remains forever.</h6>
+
+<h6>- Ecclesiastes 1:4, ESV</h6>
+
+<p>Verse 4 describes the first of four cycles. The remaining three are natural: the regular and mechanical motions of sun, wind and water. The first stands out because it is built not on the daily motion of the stars, the monthly ebb and flow of tides, or the yearly winds that carry autumn and spring rains, but on the generations of mankind. By being placed first in the list and by possessing the longest period of all four cycles, its primacy is shown. The generational clock is real. Proving that its period is 120 years and its duration is forty-one cycles – that will take a heap of evidence.</p>
+
+<p>One rich source of prophetic evidence backing this thesis came to light while I was studying the life of a man associated with the final number, <a href="210-is-for-peace.html">210</a>.</p>
+
+<hr/>
+
+<p>List of articles in this section:</p>
+
+<ul>
+<li><a href="./numerology.html">Numerology</a></li>
+<li><a href="./to-number-our-days.html">To Number our Days</a></li>
+<li><a href="./2-is-for-jesus.html">2 is for Jesus</a></li>
+<li><a href="./3-is-for-the-father.html">3 is for the Father</a></li>
+<li><a href="./4-is-for-cycles-of-nature.html">4 is for Cycles of Nature</a></li>
+<li><a href="./5-is-for-grace.html">5 is for Grace</a></li>
+<li><a href="./6-is-for-man.html">6 is for Man</a></li>
+<li><a href="./7-is-for-the-holy-spirit.html">7 is for the Holy Spirit</a></li>
+<li><a href="./17-is-for-victory.html">17 is for Victory</a></li>
+<li><a href="./28-is-for-time.html">28 is for Time</a></li>
+<li><a href="./40-is-for-suffering.html">40 is for Suffering</a></li>
+<li><a href="./42-is-for-the-journey.html">42 is for the Journey</a></li>
+<li><a href="./120-is-for-consecration.html">120 is for Consecration</a></li>
+<li><a href="./153-is-for-total-victory.html">153 is for Total Victory</a></li>
+<li><a href="./210-is-for-peace.html">210 is for Peace</a></li>
+</ul>
+
+      </div>
+
+    </div>
+    <!-- Page Footer -->
+    <div class="footer faint">
+      
+    </div>
+  </div>
+</body>
+</html>
