@@ -479,6 +479,6 @@ The unprepared church eras were:
 A time of darkness will one day come when no one can work. The time of war will 
 test us all. Will women be prepared for this? Will men?
 
-For more about this parable, see [The Parable of the Wedding Feast](./wedding-parable.md).
+For more about this parable, see [The Parable of the Wedding Feast](./wedding-parable.html).
 
 In progress...
