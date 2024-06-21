@@ -287,6 +287,9 @@
           dates: [2024-06-18]
           named: acrostic-clock.md
     - title: Celestial Clocks
+      parts:
+        - title: A Grandfather Clock & a Silver Cord
+        - named: grandfather-clock.md
     - title: Spiritual Clocks
     - title: Empire Clocks
     - title: Commandment Clocks

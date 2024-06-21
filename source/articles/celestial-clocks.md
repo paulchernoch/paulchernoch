@@ -23,6 +23,7 @@ To quickly jump to each clock:
     <li> <a href="#3">Solomon’s Celestial Clock</a> </li>
     <li> <a href="#4">Solomon’s Son-dial</a> </li>
     <li> <a href="#5">Lamps of the Ten Virgins</a> </li>
+    <li> <a href="#6">Grand Father Clock</a> </li>
   </ol>
 
 </div>
@@ -398,6 +399,7 @@ first one way then the other. As the final two occurrences of
 ## Lamps of the Ten Virgins
 
   - Bible book: Matthew 25
+  - Defined in: *Peace, like Solomon Never Knew*
   - Chapter: The Time of Her Confinement
   - Timespan: 1–2280 AD
   - Intervals: 10
@@ -442,8 +444,8 @@ an individual Christian, male or female, who has taken initiative to prepare for
 through learning the doctrines of the faith and obeying them conscientiously through acts of service.
 On a higher level, it is whole churches, since Revelation tells us that lamp stands stand for churches. 
 On the highest level, it is whole eras of the church age, when the church as a whole was either prepared
-or not. The identification of the preparedness or unpreparedness of women is offered as a single, identifiable
-sign and symptom of the church's condition. It does not represent the whole of the problems that each age faced.
+or not. The identification of the preparedness or unpreparedness of women is offered as a synedoche, a single, identifiable
+sign and symptom of the church's condition that stands for the whole of its problems.
 
 The parable does not tell us which church ages were prepared or not. For that we must add in information from:
 
@@ -451,10 +453,13 @@ The parable does not tell us which church ages were prepared or not. For that we
   - Other prophecies, like the letters to the Seven Churches in Revelation
 
 The chapter "Seven Churches for Seven Eras" in *Peace, like Solomon Never Knew* matches the seven named churches
-to seven eras of history. The churches that Jesus mostly praised can be identified with the prepared virgins.
-The churches that Jesus had the harshest criticism for can be identified with the foolish virgins.
-Those seven eras are not uniform in length, but by placing them alongside the ten seasons of this parable,
-you will find that the praised church eras constitute half of church history.
+to seven eras of history, using evidence from scripture, church history and archaeology. The assigned dates for the
+early church ages are similar to those proposed by scholars at the time of the Reformation, while
+those for the later ages are based on my own research.
+
+The churches that Jesus mostly praised can be identified with the prepared virgins. The churches that Jesus had the harshest criticism 
+for can be identified with the foolish virgins. Those seven eras are not uniform in length, but by placing them 
+alongside the ten seasons of this parable, you will find that the praised church eras constitute half of church history.
 
 In the following chart, two thirds of the way down the image are two rows labeled "Ten Virgins" and "Letters to the Seven Churches".
 The blocks labeled "YES" are the eras when the church was prepared. These are those prepared church ages:
@@ -480,5 +485,76 @@ A time of darkness will one day come when no one can work. The time of war will
 test us all. Will women be prepared for this? Will men?
 
 For how this parable fits into the larger schema for world missions, see [The Parable of the Wedding Feast](./wedding-parable.html).
+
+<hr/>
+
+<div class="numbered-image">
+  <p id="6" class="numbered-image">6</p>
+  <p><img class="numbered-image" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" /></p>
+</div>
+
+<hr/>
+
+## Grand Father Clock
+
+  - Bible book: Ecclesiastes
+  - Defined in: *Peace, like Solomon Never Knew*
+  - Chapter: A Grand Father Clock & a Silver Cord
+  - Timespan: 4020 BC–2280 AD
+  - Intervals: 42 (plus a short one)
+  - Period: 175 years (for 28 eras), 100 years (for 14 eras)
+
+**Notable facts:**
+
+One reason why scholars are stumped by Ecclesiastes is that it has multiple prophetic 
+sequences overlaying one another. The same passage may have some verses that are prophecies for one clock
+while having other verses that are part of a second. Ecclesiastes has at least four:
+
+  1. The poem of Ecclesiastes 3:1-8 describes a clock from the temple dedication to Christ's return.
+  2. The major portion of the book describes a clock from the temple dedication to Christ's return, divided into eras by the phrase "under the sun".
+  3. The whole book describes a clock from the Creation to Christ's return, divided into eras first by the phrase "under the sun", then by other textual clues.
+  4. The major portion of the book describes a clock from the Holocaust to Christ's return, divided into eras by the phrase "under the sun".
+
+The first two listed above go hand in hand. They describe the growth of ancient Israel and a remnant's transformation into the church as
+a unit from birth to full maturity. When Christ returns, the church will be spiritually vital. The bride will be ready and in her prime.
+
+The third clock listed above describes the growth of human civilization from birth to maturity to decline to death. It covers the whole
+life arc of Ecclesiastes, not omitting the days of darkness and decline. It does not have a happy ending like the other three.
+
+The fourth clock governs the history of modern Israel.
+
+This section is about the third clock above, for all humanity. It follows the rise and fall of human civilization
+through three phases:
+
+  - years of growth (28 times of 175 years each) from 4020 BC-880 AD
+  - productive years (12 times of 100 years each) from 880-2080 AD
+  - years of decline (2 times) from 2080-2280 AD or beyond
+
+It identifies the centuries in which:
+
+  - Satan would be unbound (1380–1480 AD)
+  - New printing technology would let “fools multiply words”
+  - Kingdoms would have kings to rule as fools (1580–1680 AD), during the General Crisis
+  - Or rule as wise (1680–1780 AD), during the Enlightenment
+  - Or do away with kings altogether (1780–1880 AD), as democracy and revolution spread
+  - To be followed by Feasting (1880–1980 AD), as health, long life and prosperity spread worldwide
+
+Let's zoom in on one verse to get the flavor. Ecclesiastes 10 is an extended metaphor for building a house.
+Is that not a fitting analogy for building a civilization? Setting aside for now how the calculation was made,
+the first half of verse 9 may be associated with the era 1180-1280 AD.
+
+#### Whoever quarries stones may be injured by them... 
+###### - Ecclesiastes 10:9a
+
+A modern work site sees an endless stream of trucks dropping off supplies. The masonry work may require
+marble, granite, brick, natural stone or cinder blocks. This verse, about quarrying stone, is the most on-the-nose verse
+in the chapter. The late twelfth and thirteenth centuries were the peak of the age of church building. 
+Many of the great cathedrals were constructed during this century. It is estimated that during
+this phase of the establishment of Christendom, more stone was quarried for churches than was used for all the
+pyramids and temples of Ancient Egypt combined. A few decades into the next era, the addition of a new spire
+to the Lincoln Cathedral made it the tallest building in the world, a title it held for 237 years.
+(Prior to that, the Pyramid of Giza held the title for 3,800 years!)
+
+This clock chronicles the rise and fall of modern Western Civilization. It is sobering to hear about its approaching demise.
 
 In progress...
