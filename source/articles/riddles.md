@@ -2,6 +2,8 @@
 title: Riddles
 quote: to understand a proverb <br/> and a saying, <br/> the words of the wise <br/> and their riddles. - Proverbs 1:6
 ---
+<img class="center" src="images/lion-hive.png" />
+
 Riddles are a delight and a torment. They are a delight to the teller and the rare soul
 who can guess them. They are an aggravation to the dull-minded when their arrogant pretense
 of wisdom is punctured. But oh, are riddles a torment to the person whose life depends on solving them. 
