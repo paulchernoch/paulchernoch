@@ -30,8 +30,9 @@ One of the bird images may puzzle you. It is a mourning dove, signifying "a time
 
 ## Table of Contents
 
-If a chapter title has a hyperlink, it may point to a page which reproduces that chapter of the book without alteration,
-expands upon the chapter or merely has a short excerpt of that chapter.
+If a chapter title has a hyperlink, it may point to a page which reproduces 
+that chapter of the book without alteration, expands upon the chapter or merely has 
+a short excerpt of that chapter.
 
   - Meditation & Dedication
   - Acknowledgements
@@ -87,7 +88,7 @@ expands upon the chapter or merely has a short excerpt of that chapter.
   - Psalm 78: Preparation of a Nation
   - Psalm 105: Seasons of Suffering
   - Psalm 106: Planted in our Memory
-  - Psalm 107: Where is the Love?
+  - [Psalm 107: Where is the Love?](./psalm-107.html)
   - Psalm 114: Why?
   - Psalm 135: Four Harvests
   - Psalm 136: Requiem Aeternam

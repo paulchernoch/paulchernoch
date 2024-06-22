@@ -649,6 +649,20 @@ successful raid of Damietta, Egypt in 853 AD, the flight to the
 Americas of the pilgrims, the abolition of slavery, and the
 defeat of Hitler.
 
+**Why would God put so many prophesies in the Psalms?**
+
+Twenty-five years ago, I didn't even like poetry. When I came across it in the Bible, I endured it.
+It struck me as emotional and imprecise - I am an engineer. The narratives told stories rich in detail, 
+the sequencing of events and logical forms that I could sink my intellectual teeth into. 
+Paul's letters, though poetic in expression, communicated intricate philosophical ideas and doctrines.
+
+It was not until I began writing my novels that I got hooked. I blame God. I decided that
+my hero's wife was a literature professor. While he was in a coma, I had her read poetry to him at his bedside
+in the hospital. What kind of poems does a lit teacher like? To write her character convincingly,
+I forced myself to read lots of poems as part of my research. I didn't know it at the time, but writing 
+that novel was my education in how to read and enjoy poetry. It would be essential years later when I 
+faced Job and later the Psalms. You cannot understand what you do not love.
+
 Discovering the prophetic content of the Psalms required years of study.
 The book is so large and complex that a single assault on this fortress of knowledge
 can never breach its walls. My first success was with [Psalm 119](./psalm-119.html). These seven Psalms came next.
@@ -657,6 +671,17 @@ the first twenty-eight psalms matching the twenty-eight times of Solomon followe
 plus the notable pairing of Psalms 111 and 112. Bringing up the rear was my discovery of the riches hidden 
 in Psalm 19, said by C. S. Lewis to be the greatest in the psalter and among the greatest poems ever written.
 I am convinced that I have still only scratched the surface.
+
+This brings us to the question. Why the Psalms? Why put so many prophecies there? Poems in antiquity
+had regular and intricate structures. Some of their forms have only been rediscovered in the last century or so.
+This regularity with subtlety is ready-made as a matrix upon which to stamp and conceal mysteries.
+The subjective emotions and colorful imagery can easily encode truths. If you add enough layers to the text,
+readers will likely give up after piercing a few but before they reach the bottom.
+
+Given that my engineering mind recoiled for so long from undertaking a careful study of the Bible's poetry,
+I think God did it to thumb his nose at the world's intellectuals. I am glad I finally relented and
+discovered in God's poetry the truths that my heart longed to find.
+
 
 
 In progress...
