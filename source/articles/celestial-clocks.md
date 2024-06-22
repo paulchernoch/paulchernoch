@@ -24,6 +24,7 @@ To quickly jump to each clock:
     <li> <a href="#4">Solomon’s Son-dial</a> </li>
     <li> <a href="#5">Lamps of the Ten Virgins</a> </li>
     <li> <a href="#6">Grand Father Clock</a> </li>
+    <li> <a href="#7">Holy Spirit Clock</a> </li>
   </ol>
 
 </div>
@@ -547,9 +548,8 @@ the first half of verse 9 may be associated with the era 1180-1280 AD.
 ###### - Ecclesiastes 10:9a
 
 A modern work site sees an endless stream of trucks dropping off supplies. The masonry work may require
-marble, granite, brick, natural stone or cinder blocks. This verse, about quarrying stone, is the most on-the-nose verse
-in the chapter. The late twelfth and thirteenth centuries were the peak of the age of church building. 
-Many of the great cathedrals were constructed during this century. It is estimated that during
+marble, granite, brick, natural stone or cinder blocks. This verse, about quarrying stone, 
+is the most on-the-nose verse in the chapter. The late twelfth and thirteenth centuries were the peak of the age of church building. Many of the great cathedrals were constructed during this century. It is estimated that during
 this phase of the establishment of Christendom, more stone was quarried for churches than was used for all the
 pyramids and temples of Ancient Egypt combined. A few decades into the next era, the addition of a new spire
 to the Lincoln Cathedral made it the tallest building in the world, a title it held for 237 years.
@@ -557,5 +557,106 @@ to the Lincoln Cathedral made it the tallest building in the world, a title it h
 
 This clock chronicles the rise and fall of modern Western Civilization. It is sobering to hear about its approaching demise.
 For a detailed article about this clock, see [A Grand Father Clock & a Silver Cord](./grandfather-clock.html).
+
+<hr/>
+
+<div class="numbered-image">
+  <p id="7" class="numbered-image">7</p>
+  <p><img class="numbered-image" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" /></p>
+</div>
+
+<hr/>
+
+## Holy Spirit Clock
+
+  - Bible book: Psalms 78, 105, 106, 107, 114, 135, 136
+  - Defined in: *Peace, like Solomon Never Knew*
+  - Chapters:
+    - Solving the Historical Psalms
+    - Psalm 78: Preparation of a Nation
+    - Psalm 105: Seasons of Suffering
+    - Psalm 106: Planted in our Memory
+    - [Psalm 107: Where is the Love](./psalm-107.md)
+    - Psalm 114: Why?
+    - Psalm 135: Four Harvests
+    - Psalm 136: Requiem Aeternam
+  - Timespans:
+    - 33–2280 AD for Psalm 107
+    - 4040 BC - 2280 AD and beyond for others
+  - Intervals: 28 (for Psalms 107, 136), 7 (for others, by millennia)
+  - Period: 321 years per four periods (for Psalm 107), 1000 years (for some others)
+
+**Notable facts:**
+
+The Seven Historical Psalms have long been regarded as a unit. 
+They look backward on Israel's history and most have references to the plagues on Egypt,
+parting of the Red Sea and initial conquest of the land.
+Each of the Psalms has ties to one of the seven phases of the [Harvest Pattern](./harvest-pattern.html),
+so that pattern organizes and sequences them into a larger pattern.
+The retrospective focus hides the prophetic intent. The true goal of these psalms is to look forward
+to what God will do next. How do we know this? The psalmist tells us!
+
+#### Give ear, O my people, to my teaching;
+##### incline your ears to the words of my mouth!
+#### I will open my mouth in a **parable**;
+##### I will utter **dark sayings** from of old,
+#### things that we have heard and known,
+##### that our fathers have told us.
+###### - Psalm 78:1-3
+
+In place of "dark sayings" some translations use "riddles", "puzzling problems" or "mysteries".
+It is our privilege to probe those mysteries and perhaps solve them. 
+
+Each of these seven psalms has its own prophetic clock. Some selections:
+
+**Psalm 105** picks just seven of the ten plagues against Egypt and reorders them to each match a different millennium.
+
+  - The fifth plague of hail destroys fig tree and vine, but not olive tree, signifying that Israel would lose their political power (the fig tree) and receive no more prophets (the vine), but their religion (the olive tree) would continue. The time would be the fifth millennium, which began with the birth of Christ and the total loss of sovereignty to Rome and later the Islamic empires and Crusaders.
+  - The sixth plague, of locusts, matches the sixth millennium’s fit of European colonial expansion. This is not the only Bible prophecy that likens those colonial empires to locusts. See [153 and the Fifth Trumpet](./153-and-the-fifth-trumpet.html) for an interpretation of the blowing of the Fifth Trumpet in Revelation.
+
+**Psalm 106** also offers a millennial clock.
+
+ - For the fifth millennium, it predicts the people would “not believe his promise” (106:24), i.e. reject the messiah, and be exiled a second time, when God “scatter\[s\] them throughout the lands.” (106:24-27)
+ - For the sixth millennium, this psalm predicts the AIDS epidemic.
+
+**Psalm 107** parallels the 28 times of Ecclesiastes 3 in structure as well as mirroring the 
+sevenfold harvest pattern. It covers the period 33–2280 AD and allocates 321 years for
+each four “times”. For example, Psalm 107:10-16, which corresponds to
+weeping, laughing, mourning and dancing, describes the Dark Ages, using the word darkness four times.
+Then Psalm 107:23-32, corresponding to the times to search, to
+give up, to keep, and throw away, describes a sea voyage. This
+matches the era of sea exploration, when the church reached
+the Americas.
+
+The most amazing prophecy is one that correctly identifies the
+order in which the Jewish people would return to Israel from
+exile, in Psalm 107:1-3. The sequence was from the hand of the
+foe (Hitler’s Germany), from the east (Iran, Iraq, etc.), from the
+west (Egypt, North Africa), from the north (Iron Curtain
+countries including Russia), and from the south (the rest of the
+world). This prophecy also correctly identifies the direction of
+expansion in the five major periods of Christian expansion.
+
+For a detailed analysis of Psalm 107, see the article [Psalm 107: Where is the Love?](./psalm-107.html).
+
+**Psalm 136** has 26 of Solomon’s 28 times, with the two
+remaining times being found in the two Biblical events at which
+this psalm was recited: the temple dedication and before a
+battle when King Jehoshaphat faced an overwhelming force.
+This psalm prophecies dozens of events, including the coming
+of Christ (“the sun to govern the day”), the Byzantine Empire’s
+successful raid of Damietta, Egypt in 853 AD, the flight to the
+Americas of the pilgrims, the abolition of slavery, and the
+defeat of Hitler.
+
+Discovering the prophetic content of the Psalms required years of study.
+The book is so large and complex that a single assault on this fortress of knowledge
+can never breach its walls. My first success was with [Psalm 119](./psalm-119.html). These seven Psalms came next.
+Then in short order, Psalms 102 and the seven Thunder Psalms. After that, other structures, like
+the first twenty-eight psalms matching the twenty-eight times of Solomon followed,
+plus the notable pairing of Psalms 111 and 112. Bringing up the rear was my discovery of the riches hidden 
+in Psalm 19, said by C. S. Lewis to be the greatest in the psalter and among the greatest poems ever written.
+I am convinced that I have still only scratched the surface.
+
 
 In progress...
