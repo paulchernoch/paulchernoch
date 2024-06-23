@@ -1168,24 +1168,75 @@ Just today (June 22, 2024) I found three more, so have included them, even thoug
   <tr>
     <td>20</td><td>1558-1638</td><td>Throw Away</td>
     <td>
+    Jesus predicted that the chief priests and teachers of the law would throw away their Messiah to be crucified. (20:18-19) <br/>
+    And Jesus threw his own life away to ransom ours. (20:28) <br/>
+    <br/>
+    The prophecy for this era was the publication in 1559 AD of the complete version of
+    Calvin’s <em>Institutes of the Christian Religion</em>. 
+    Among the ideas he forwarded was penal substitutionary atonement (a name not applied to it until much later), 
+    a successor to the ransom theory intended to more adequately describe how the ransom that Jesus paid on our behalf worked.
     </td>
   </tr>
   <tr>
     <td>21</td><td>1638-1718</td><td>Tear</td>
     <td>
+    <em>“Therefore I tell you that the kingdom of God will be taken away from you and given to a people who will
+    produce its fruit.” (21:43) </em> <br/> 
+    The kingdom would be torn from Israel and given to the church.
+    Later in the gospel, when Jesus addresses the end times,
+    it will be to speak about another kind of tearing: <br/>
+    <br/>
+    <em>Two men will be in the field; one will be taken and the other left. Two women will be grinding with a hand mill; 
+    one will be taken and the other left. (24:40-41) </em><br/>
+    <br/>
+    To be torn from this world in judgment is a terrible thing. <br/>
+    <br/>
+    During this era pointed to by this clock, the Thirty Years War raged on. More and more territory was torn away 
+    from the Catholic Church and given to the Protestants, whose missionary fervor produced fruit across the globe.
     </td>
   </tr>
   <tr>
     <td>22</td><td>1718-1799</td><td>Mend</td>
     <td>
+    In this chapter, Jesus is confronted by people trying to trick him. They ask if it is right to pay taxes to Caesar or not.
+    He asked to see the coin, asked whose image was on it, and said these famous words:<br/><br/>
+    <br/>
+    <em>So render unto Caesar what is Caesar’s, and to God what is God’s.</em> <br/>
+    <br/>
+    His brilliant answer set forth the idea that there are two spheres of authority both set in place by God, the church and the state, each deserving of its own respect. During this prophetic era, the United States of America was founded,
+    a nation where the distinct roles of church and state are separated so that neither will become too entangled 
+    in the other's business.
     </td>
   </tr>
   <tr>
     <td>23</td><td>1799-1879</td><td>Be Silent</td>
     <td>
-    Jesus silences his critics, saying, “They tie up heavy, cumbersome loads and put them on other people’s shoulders, but they themselves are not willing to lift a finger to move them”. In this era abolitionists began to lift that load off of people’s shoulders. <br/>
+    <em>They tie up heavy, cumbersome loads and put them on other people’s shoulders, but they themselves are
+    not willing to lift a finger to move them. (23:4)</em> <br/>
+    This was God’s call to eliminate slavery. This era began with
+    England’s abolition of the slave trade and ended with
+    the American Civil War and Reconstruction.
+    The connection to freeing slaves and prisoners is
+    reinforced by Jesus’ reference to Zechariah: <br/>
+    <br/>
+    <em>And so upon you will come all the righteous blood that has been
+    shed on earth, from the blood of righteous Abel to the blood of
+    Zechariah son of Berekiah, whom you murdered between the temple and the altar. (Matthew 23:35)</em> <br/>
+    <br/>
+    And here is what Zechariah said when he announced what the blood of the covenant would do:<br/>
+    <br/>
+    <em>As for you, because of the blood of my covenant with you,<br/>
+    I will free your prisoners from the waterless pit.<br/>
+    Return to your fortress, you prisoners of hope;<br/>
+    even now I announce that I will restore twice as much to you.<br/>
+    (Zechariah 9:11-12)</em> <br/>
+    <br/>
+    We should all aspire to be prisoners – not of men, but of hope. <br/>
+    <br/>
+    Jesus said something else that was prophetic:<br/>
     <br/>
     <em>“Jerusalem, Jerusalem, you who kill the prophets and stone those sent to you, how often I have longed to gather your children together, as a hen gathers her chicks under her wings, and you were not willing. 38 Look, your house is left to you desolate." - Matthew 23:37-38</em> <br/>
+    <br/>
     Jerusalem of the 19th century was desolate. The population was less than 40,000, with perhaps 13,000 of them Jewish. By Ottoman law, the name of a Jew could not appear on a property deed.
     This changed with the Land Emancipation Act of 1876, near the end of this era. Finally Jews could own property,
     so they began to return from exile.
