@@ -958,8 +958,34 @@ they were not in the book as published.
   <tr>
     <td>14</td><td>1076-1157</td><td>Gather Stones</td>
     <td>
-    Matthew tells of the feeding of the five thousand, which matches the Medieval Warm Period when a revolution in agriculture in the 11th and 12th centuries enabled people to "gather" a bountiful harvest. 
-    This helped double the population of Europe and extend life expectancy by ten years.
+    In this chapter, Jesus feeds the 5,000, he gathers crowds to feed, gathers sick people to heal, and gathers leftovers. (14:13-21) <br/>
+    <br/>
+    In this era, God performed a greater miracle: the feeding of millions. <br/>
+    <br/>
+    The Medieval Warm period began around 950 AD. This did not have an immediate impact on
+    agriculture in northern Europe. Starting around 1050 AD and continuing for the next three centuries, 
+    harvest yields doubled. Formerly, half of all grain used to be needed for the next year’s planting. 
+    This doubling of output meant that only a third of the grain needed to be held in reserve for the next year.
+    The net effect was to triple the amount of grain available for food.<br/>
+    <br/>
+    In addition to the weather, there were other causes:
+    <ul>
+      <li>The cessation of Viking raids.</li>
+      <li>The introduction of new farm practices, like three field crop rotation. </li>
+      <li>Better plows. Light plows were suitable for the Mediterranean, barely scratching the surface to 
+      preserve the moisture from evaporating. The development of heavy plows that cut deep furrows was needed in the north because the ground was too wet.</li>
+      <li>To draw the new, heavy plows without oxen, you needed another invention, the horse collar; 
+      using ox yokes on horses choked the horses and cut off air to their lungs.</li>
+      <li>The harrow was developed to break the clods and bury the seed after the rough plowing and seed scattering.</li>
+      <li>Water mills were developed to grind the grain into flour.</li>
+      <li>Hoes</li>
+      <li>horse shoes</li> 
+    </ul>
+    Most of these things were invented a century or two before and far away, but finally reached the north in this era.
+    This phenomenal growth in northern Europe’s agricultural system caused European life expectancy to
+    increase by twenty years and shifted the balance of power away from the Mediterranean. We can give sole
+    credit to human ingenuity, but if the one called the Bread of Life predicted this miracle that could feed
+    millions, should not our praises be directed elsewhere?
     </td>
   </tr>
   <tr>
