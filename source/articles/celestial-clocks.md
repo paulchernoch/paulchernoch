@@ -707,11 +707,18 @@ This clock shows that every chapter of Matthew corresponds to
 one of Solomon’s twenty-eight times, making Jesus the new Solomon.
 Here are some highlights:
 
-Here are brief comments summarizing the findings from the chapter.
+Here is a selection of the findings from the chapter. In my book, this "planner" showed two things for
+most chapters:
+
+  - Verses whose theme was then related to the time phrase from Solomon's poem of twenty-eight times.
+  - A prophetic interpretation tying other verses from the chapter to later history according to the clock.
+
+In the table below, I have mostly dispensed with the passages that refer to Solomon's times and focus on the 
+prophecies.
+
 I was able to find for every chapter of Matthew some content that matches the corresponding time from Solomon's poem.
 I was not able to find prophecies for every chapter. However, every time I look at Matthew, I find more. 
-Just today (June 22, 2024) I found three more, so have included them, even though 
-they were not in the book as published.
+Just today (June 22, 2024) I found three more, so have included them, even though they were not in the book as published.
 
 <table class="planner">
   <tr>
@@ -953,6 +960,11 @@ they were not in the book as published.
   <tr>
     <td>13</td><td>996-1076</td><td>Scatter Stones</td>
     <td>
+    <em>But Jesus said to them, “A prophet is not without honor except in his hometown and in his own household.”</em><br/>
+    <br/>
+    In 1009 AD, the Fatimid Caliph al-Hakim bi-Amr Allah destroyed the Church of the Holy Sepulchre, scattering its stone, 
+    dishonoring Jesus Christ, in whose memory it was built. That church marked the site of his tomb. This act was a
+    prominent <em>cassus belli</em> that led to the First Crusade at the end of the century.
     </td>
   </tr>
   <tr>
@@ -983,36 +995,174 @@ they were not in the book as published.
     </ul>
     Most of these things were invented a century or two before and far away, but finally reached the north in this era.
     This phenomenal growth in northern Europe’s agricultural system caused European life expectancy to
-    increase by twenty years and shifted the balance of power away from the Mediterranean. We can give sole
-    credit to human ingenuity, but if the one called the Bread of Life predicted this miracle that could feed
-    millions, should not our praises be directed elsewhere?
+    increase by ten years, its population to double, and shifted the balance of power away from the Mediterranean.
+    We can give sole credit to human ingenuity, but if the one called the Bread of Life predicted this miracle that could feed
+    millions a thousand years before, should not our praises be directed elsewhere?
     </td>
   </tr>
   <tr>
     <td>15</td><td>1157-1237</td><td>Embrace</td>
     <td>
+    In this chapter, Jesus feeds a second crowd, of four thousand people. The Medieval Warm Period continued, 
+    as did a long period of increased agricultural output and increasing population.
     </td>
   </tr>
   <tr>
     <td>16</td><td>1237-1317</td><td>Refrain</td>
     <td>
+    <em>“Be careful,” Jesus said to them. “Be on your guard against the yeast of the Pharisees and Sadducees.” (16:6) </em> <br/>
+    <br/>
+    In the above passage, Jesus is telling his contemporaries to refrain from embracing false teachings. <br>
+    In this era, the church spent a century suppressing the heretical sect of the Cathars in France.
     </td>
   </tr>
   <tr>
     <td>17</td><td>1317-1397</td><td>Seek</td>
     <td>
+    At the Transfiguration (17:1-13), the disciples are
+    confused why Elijah - whom they saw beside Jesus - was
+    not appearing to all Israel to persuade them that
+    Messiah had come. Elijah was whom all the people were
+    told to search for, but they did not recognize him, as he
+    came spiritually in the person of John the Baptist.
+    If you have religious expectations, how do you test to
+    see if they are well-founded? Are you searching for the wrong things? <br/>
+    <br/>
+    Another example of searching is when Jesus tells Peter
+    to search for a fish with a four-drachma coin in its
+    mouth to use for the Temple tax. That would seem to be
+    an unreasonable thing to spend time searching for, yet
+    Jesus commanded it. Knowing what to search for is not
+    a simple proposition!<br/>
+    <br/>
+    A good example of searching is found in the following
+    chapter, in the Parable of the Wandering Sheep
+    (18:10-14). Though not in the same chapter, it is in the
+    same larger section of the growth pattern –
+    opportunity. Interestingly, the placement of a story
+    about searching in a chapter about “a time to give up”
+    adds the richness of irony to the meaning. Jesus was
+    telling them that they would never abandon their
+    property – a sheep, but they were abandoning their
+    neighbors who were in need. <br/>
+    <br/>
+    Prophetically, the Hesychast controversy (1337-1351 AD) erupted between the eastern and western church. 
+    It concerned a mystical way to search for God. Western rational scholastic approaches to knowledge were
+    incompatible with the mystical traditions of the east. In hesychastic practice, inner contemplation is supposed
+    to permit the believer to experience God’s uncreated light, the same light that emanated from Jesus at his
+    Transfiguration. Gregory Palamas proposed the Essence-Energies distinction which became standard
+    Eastern Orthodox doctrine. We cannot see God’s essence, but we can see his energies. <br/>
+    <br/>
+    The upshot is that the disciples were confused by the meaning of the glory shining from Jesus at his Transfiguration,
+    and over a millennium later, the church was still arguing about what to make of that glory.
+    A decade ago, I fasted for three years, praying for God to show me His glory.
+    I am still trying to understand...
     </td>
   </tr>
   <tr>
     <td>18</td><td>1397-1478</td><td>Give Up</td>
     <td>
-    Jesus says we may need to "give up" an eye or cut off a foot if it causes us to sin. During this time, God gave up on Byzantium. By telling his disciples to forgive their brother seventy times seven times, he decreed the number of years an offense by the Orthodox Church would be tolerated until they were overthrown. The offense (related to rejecting the Filioque clause in the creed) occurred in 867 AD, deepened for a few decades, and Constantinople refused to back down for the next 490 years, resulting in Satan being unbound in 1380 AD to wage war against them.
+    To enter the kingdom of heaven, we need to give up our pride and become like a little child. (18:1-5) <br/>
+    We also need to give up things that make us stumble, like a symbolic eye or foot. (18:8-9) <br/>
+    We need to give up our place of safety among the ninety-nine in the flock and search for the lost sheep. (18:12-14) <br/>
+    Sadly, if after repeated overtures to an offending brother or sister come to naught, we must give up on them 
+    and expel them from the church. (18:15-17) <br/>
+    Lastly, we are called upon to give up our grudges and forgive or face eternity in prison. (18:21-35) <br/>
+    <br/>
+    Prophetically, during this era the Lord gave up on Constantinople, which fell in 1453.
+    What was the cause? There were many causes, but one is symbolic and fits the timing of this disaster. C
+    onsider Jesus’ answer to Peter: <br/>
+    <br/>
+    <em>
+    Then Peter came to Him and said, “Lord, how many times could my
+    brother sin against me and I forgive him? As many as seven times?
+    “I tell you, not as many as seven,” Jesus said to him, "but 70 times
+    seven. (Matthew 18:21-22, HCSB)
+    </em>
+    <br/>
+    Some translations say we are to forgive seventy-seven
+    times, while others, like the HCSB, assume the words
+    “seventy sevens” means seventy times seven, or 490.
+    The parable of the unforgiving servant is about
+    unforgiveness. On a macroscopic level, what is the
+    historical manifestation of unforgiveness? It is civil war. <br/>
+    <br/>
+    The Byzantine Empire was beset by civil war throughout its history. 
+    From the 4th to the 15th centuries there were 119 wars and revolts, 
+    spanning a cumulative 294 years. The 7th and 8th centuries were two of the worst. 
+    However the longest sustained period of civil unrest was from the 11th
+    to the 14th centuries. Of this 400 year period, 156 years were troubled by civil war and revolts. 
+    The only thing that prevented the 15th century from going the same way was their final conquest by the Turks.
+    That captures the qualitative spirit of God’s complaint against that empire. <br/>
+    <br/>
+    Now for the quantitative part. Numerous theological disagreements drove
+    Constantinople and Rome apart. One such disagreement may not be the gravest of them, but it is
+    among the oldest and comes up in any discussion of what divides east and west. 
+    It is the addition by the Roman Catholic Church of the Filioque clause to the Nicene Creed. 
+    The oldest form of the creed said that the Holy Spirit proceeds from the Father. 
+    The Filioque clause is the tacking on of the words “and the Son”.
+    Does the Spirit only proceed from the Father, which is clearly stated in Scripture? 
+    Or does it also proceed from the Son? That latter may be inferred from the Bible, but
+    is not stated explicitly. <br/>
+    <br/>
+    The debate involves attempts by the Catholic Church to show that the addition occurred very early
+    and should be accepted as part of church tradition. The Orthodox Church contends that the addition 
+    was made much later and should be rejected as not having been approved by
+    an Ecumenical Council and on other grounds. According to Wikipedia: <br/>
+    <br/>
+    <em>“Some scholars claim that the earliest example of the Filioque clause in the East is
+    contained in the West Syriac recension of the profession of
+    faith of the Church of the East formulated at the Council of
+    Seleucia-Ctesiphon in Persia in 410.” </em> <br/>
+    <br/>
+    A few earlier Christian writers subscribed to the idea, but the church
+    had previously not made a ruling on it. One author to address the subject was Augustine, 
+    who affirmed the substance of the Filioque in De Trinitate, released in 419 AD, but begun in 399 AD.  <br/>
+    <br/>
+    Thus let us assume the year 400 AD as a starting point for this controversy.
+    The rancor of the debate increased for centuries.
+    Charlemagne entered the fray in 787 AD, accusing Patriarch Tarasios of Constantinople of infidelity for not
+    affirming that the Holy Spirit proceeds from the Son. Things came to a head in the next century, during the
+    Photian controversy. Again, from Wikipedia: <br/>
+    <br/>
+    <em>Around 860 the controversy over the Filioque broke out in the course
+    of the disputes between Patriarch Photius of Constantinople and
+    Patriarch Ignatius of Constantinople. In <em>867</em>, Photius was Patriarch
+    of Constantinople and issued an Encyclical to the Eastern
+    Patriarchs, and called a council in Constantinople in which he
+    charged the Western Church with heresy and schism because of
+    differences in practices, in particular for the Filioque and the
+    authority of the Papacy. <em>This moved the issue from jurisdiction
+    and custom to one of dogma.</em> This council declared Pope Nicholas
+    anathema, excommunicated and deposed. </em> <br/>
+    <br/>
+    So in 867 AD, rejection of the Filioque became an official dogma of the Eastern Orthodox Church. 
+    This crisis continued to unfold over the next two decades, with more church councils and political actions occurring.
+    Now for the punchline. Let us break the Filioque controversy into two eras: <br/>
+    <ul>
+      <li>400–890 AD: The east grows in opposition</li>
+      <li>890–1380 AD: The east solidifies their opposition</li>
+    </ul>
+    Each era lasted 490 years. So when Jesus said that you should forgive your brothers seventy times seven times
+    (or 490 times), was he referring to this offense? The year 1380 was when – according to the eschatological
+    framework of this book – Satan was unbound and turned loose upon the Byzantine empire. 
+    The period of forgiveness for the 867 Encyclical was up. An unrepentant and unforgiving empire had exhausted the
+    patience of God and was abandoned to the devil for its judgment.
     </td>
   </tr>
   <tr>
     <td>19</td><td>1478-1558</td><td>Keep</td>
     <td>
-    Jesus speaks against divorce, saying a man should keep his wife, but the church did not listen and the Protestant Reformation led to a spiritual divorce within the church.
+    Opposing divorce, Jesus says a man should <strong>keep</strong> his wife. (19:3-12) <br/>
+    Jesus tells the rich young rule that to get eternal life, he must “<strong>keep</strong> the commandments”. (19:17) <br/>
+    Then Jesus says “everyone who has left houses or brothers or sisters or father or mother or wife or children or fields
+    for my sake will receive a hundred times as much and will inherit eternal life.” (19: 29) <br/>
+    <br/>
+    So to get and keep eternal life, you must leave everything else behind, a paradox. <br/>
+    <br/>
+    Jesus spoke against divorce, but in the prophetic era the western Church underwent a bloody spiritual divorce. 
+    The Protestant Reformation created the greatest rupture in the church since the Great Schism,
+    with deadlier consequences.
     </td>
   </tr>
   <tr>
