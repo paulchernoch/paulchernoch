@@ -800,23 +800,89 @@ they were not in the book as published.
   <tr>
     <td>7</td><td>515-595</td><td>Tear Down</td>
     <td>
-    Jesus warns of wolves in sheep’s clothing, matching the Germanic tribes that followed the Arian heresy and lionized wolves for their savagery and bravery.
+    <em>Unproductive trees are cut down. (7:19)</em> <br/>
+    <em>Houses built on sand fall down. (7:24-27)</em> <br/>
+    <em>“Watch out for false prophets. They come to you in sheep’s clothing, but inwardly they are ferocious wolves." (7:15)</em> <br/>
+    <br/>
+     Though many heresies have beset the church, Arianism is considered to have been the worst threat. 
+     Though the Arian heresy began in the 4th century, it posed the greatest threat politically and
+    spiritually during the 6th. When Ulfilas translated the Bible into Gothic and evangelized the Germanic
+    peoples, he brought his Arian views with him. Different Germanic tribes raided the south frequently 
+    and the 6th century saw the territory held by Arians grow substantially. Emperor Justinian opposed them
+    forcefully during this era. Much of Italy fell to the Ostrogoths; Spain to the Visigoths; 
+    and north Africa to the Vandals. In addition to Germanic peoples, the Lombards also conquered parts 
+    of Italy under the sway of Arianism. <br>
+    <br/>
+    Totila, leader of the Ostrogoths, vowed to level Rome after he captured it in 546, but relented. 
+    Even so, the might of Rome was torn down, in keeping with this era’s theme.
+    Interestingly, wolves were symbolic representatives of both Rome and the Germanic peoples. 
+    However, Rome emphasized the nurturing aspects of wolves; Romulus and Remus, who founded Rome, 
+    were said to have been abandoned by the river but rescued by a wolf, who suckled and raised them. 
+    The Germans emphasized wolves’ fierceness, savagery and bravery. Thus the wolves in sheep’s clothing 
+    were Germanic tribes practicing a false version of Christianity.
     </td>
   </tr>
   <tr>
     <td>8</td><td>595-675</td><td>Build</td>
     <td>
+    What do you build, if not a house? Matthew 8 speaks three times of houses:<br/>
+    <br/>
+    1. <strong>The house of the Centurion</strong>. The centurion replied,
+    <em>“Lord, I do not deserve to have you come under my
+    roof. But just say the word, and my servant will be healed.” (8:8)</em> <br/>
+    <br/>
+    2. <strong>The house of Peter</strong>. <em>When Jesus came into Peter’s
+    house, he saw Peter’s mother-in-law lying in bed with a
+    fever. He touched her hand and the fever left her, and
+    she got up and began to wait on him. (8:14-15) </em> <br/>
+    <br/>
+    3. <strong>The house of Jesus</strong>: He has none! Jesus replied, 
+    <em>“Foxes have dens and birds have nests, but the Son of Man has no place to lay his head.” (8:20)</em>
+    In the case of the centurion and Peter, their houses were built on faith. In the case of Jesus, he has no house
+    because he is busy building houses for us. <br/>
+    <br/>
+    Thus we have houses for the Centurion, Peter, Foxes, Birds, and Jesus - five houses. <br/>
+    <br/>
+    The ancient church had five patriarchates: Rome (founded by Peter), Constantinople (founded by Andrew), Alexandria (founded by Mark), Antioch (also founded by Peter), and Jerusalem (founded by James). 
+    Thus we can match Peter to Rome and the Centurion to Constantinople, since in this era Constantinople inherited
+    Rome's place as seat of government. That leaves dens, nests and the open sky for Christians from the other three
+    patriarchates. That is because in this era, the forces of Islam conquered the Middle East. They captured
+    Alexandria, Jerusalem and Antioch. Christians in those parts now were like Jesus, without a home.
     </td>
   </tr>
   <tr>
     <td>9</td><td>675-755</td><td>Weep</td>
     <td>
+    <em>When he saw the crowds, he had compassion
+    on them, because they were harassed and helpless, like
+    sheep without a shepherd. Then he said to his disciples,
+    “The harvest is plentiful but the workers are few. Ask the
+    Lord of the harvest, therefore, to send out workers into
+    his harvest field.” (9:36-38)</em> <br/>
+    <br/>
+    The period 675-755 AD falls midway between two major
+    expansions of Christianity, in the middle of Islam’s first
+    major expansion. Rome had fallen long before and
+    Christian unity was weak. What did Jesus’ prayer do? In
+    Ireland, they built a missionary training center and sent
+    missionaries to Scotland and Iceland. Translations of the
+    Bible were rendered in Arabic and Old English. And
+    Charles Martel stopped the invasion by Islam at Tours in
+    732 AD. <br/>
+    <br/>
+    Translation: Jesus sent help.
     </td>
   </tr>
   <tr>
     <td>10</td><td>755-836</td><td>Laugh</td>
-    <td>
-    Jesus says, “I did not come to bring peace, but a sword.” This corresponds to Charlemagne, who spread Christianity by the sword and inspired imitators.
+    <td>Jesus said, <br/>
+    <em> “Do not suppose that I have come to bring peace to the earth. I did not come to bring peace, but a sword.” (10:34) </em>
+    
+    Charlemagne used that sword to conquer the Saxons and many others, imposing
+    Christianity and his rule upon most of Western Europe.
+    While not the only king to spread the Gospel by force,
+    his belief that Christian kings had a dual responsibility
+    to spread the faith and advance their own nation influenced many future monarchs.
     </td>
   </tr>
   <tr>
