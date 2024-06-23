@@ -94,6 +94,25 @@ table.matthew td:nth-child(1), table.matthew td:nth-child(2) {
   text-align: center;
 }
 
+/* Matthew's Monthly Planner */
+
+.planner th {
+  background-color: #606080;
+  color: white;
+}
+
+.planner tr:nth-child(even) {
+  background-color: #f0f0ff;
+}
+
+table.planner th:nth-child(1), table.planner th:nth-child(2), table.planner th:nth-child(3) {
+  text-align: center;
+}
+
+table.planner td:nth-child(1), table.planner td:nth-child(2), table.planner td:nth-child(3) {
+  text-align: center;
+}
+
 /* Hannah's Prophetic Clock Table */
 
 .hannah th {
