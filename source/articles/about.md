@@ -52,3 +52,7 @@ Concerning a matter that will perplex many, while in agony one night in January 
 by sending me a vision of the Virgin Mary. Let this be a final testimony to who I am. I know what I believe, 
 I believe it with passion and tenacity, and when I am proven wrong, I submit. You will find my testimony of this 
 blessed event on this website if you hunt long enough...
+
+## Acknowledgments
+
+Many of the illustrations on this website were created with the help of Microsoft Copilot.

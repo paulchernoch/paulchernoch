@@ -25,6 +25,7 @@ To quickly jump to each clock:
     <li> <a href="#5">Lamps of the Ten Virgins</a> </li>
     <li> <a href="#6">Grand Father Clock</a> </li>
     <li> <a href="#7">Holy Spirit Clock</a> </li>
+    <li> <a href="#8">Matthew’s Monthly Planner</a> </li>
   </ol>
 
 </div>
@@ -681,6 +682,253 @@ readers will likely give up after piercing a few but before they reach the botto
 Given that my engineering mind recoiled for so long from undertaking a careful study of the Bible's poetry,
 I think God did it to thumb his nose at the world's intellectuals. I am glad I finally relented and
 discovered in God's poetry the truths that my heart longed to find.
+
+<hr/>
+
+<div class="numbered-image">
+  <p id="8" class="numbered-image">8</p>
+  <p><img class="numbered-image" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" /></p>
+</div>
+
+<hr/>
+
+## Matthew’s Monthly Planner
+
+  - Bible book: Matthew
+  - Defined in: *Peace, like Solomon Never Knew*
+  - Chapter: One Greater than Solomon
+  - Timespan: 33–2280 AD
+  - Intervals: 28
+  - Period: 321 years per four times
+
+**Notable facts:**
+
+This clock shows that every chapter of Matthew corresponds to
+one of Solomon’s twenty-eight times, making Jesus the new Solomon.
+Here are some highlights:
+
+Here are brief comments summarizing the findings from the chapter.
+I was able to find for every chapter of Matthew some content that matches the corresponding time from Solomon's poem.
+I was not able to find prophecies for every chapter. However, every time I look at Matthew, I find more. 
+Just today (June 22, 2024) I found three more, so have included them, even though 
+they were not in the book as published.
+
+<table class="planner">
+  <tr>
+    <th>Chapter</th>
+    <th>Year Range (AD)</th>
+    <th>A time to...</th>
+    <th>Prophecy</th>
+  </tr>
+  <tr>
+    <td>1</td><td>33-113</td><td>Be Born</td>
+    <td>
+    First, this predicted the purchase of
+    salvation for mankind and the birth of the church. <br/>
+    Second, the genealogy from Abraham to Jesus establishes that human history will last forty-two generations, as demonstrated in the
+    <a href="./generational-clocks.html">generational clock</a> based on the forty-two chapters of Job.
+    </td>
+  </tr>
+  <tr>
+    <td>2</td><td>113-194</td><td>Die</td>
+    <td>
+    The story of the Murder of the innocents (2:16-18) prophesies an era of increasing
+    Roman persecution and the 136 AD Bar Kokhba revolt.
+    </td>
+  </tr>
+  <tr>
+    <td>3</td><td>194-274</td><td>Plant</td>
+    <td>
+    Verse 3:6 says, <em>"Confessing their sins, they were baptized by [John] in the Jordan River."</em> <br/>
+    <br/>
+    This chapter recounts the Baptism of Jesus (3:13-17). John the Baptist challenges
+    the leaders to produce the fruit of repentance (3:7-10).
+    Then we see Jesus as a contrast. Compare to this Psalm,
+    which describes Jesus planted by the water, producing good fruit: 
+    <br/>
+    <em> That person is like a tree <br/>
+    planted by streams of water, <br/>
+    which yields its fruit in season <br/>
+    and whose leaf does not wither— <br/>
+    whatever they do prospers. (Psalm 1:3) </em>
+    <br/>
+
+    During the reign of Emperor Gallienus (253-268) and for a few decades afterward, 
+    the “Little Peace of the Church” gave the church a reprieve. It put down roots and grew rapidly 
+    because it had been well-planted and watered.
+    </td>
+  </tr>
+  <tr>
+    <td>4</td><td>274-354</td><td>Uproot</td>
+    <td>
+    Jesus calls the disciples in 4:18-22. They are uprooted
+    from their old lives to wander with Jesus. <br/>
+    <br/>
+    Rome in this era tried to uproot Christianity with its
+    final persecution, but it was Rome’s pagan culture that
+    was uprooted following Constantine’s conversion. This
+    first great testing of the church was over: <br/>
+    <br/>
+    <em>Then the devil left him, and angels came and attended him. (4:11)</em> <br/>
+    <br/>
+    This anticipates the binding of Satan, which would begin twenty-six years later
+    with the Edict of Thessalonica.
+    </td>
+  </tr>
+  <tr>
+    <td>5</td><td>354-434</td><td>Kill</td>
+    <td>
+    In 5:21-26, Jesus compares anger to murder. The opposite is meekness.<br/>
+    <br/>
+    In 380 AD, the once persecuted Christians now inherit the kingdom of Rome,
+    when the Edict of Thessalonica made Christianity its state religion: <br/>
+    <br/>
+    <em>Blessed are the meek, <br/>
+    for they will inherit the earth. (5:5)</em>  <br/>
+    <br/>
+    <em>Blessed are those who are persecuted because of righteousness,  <br/>
+    for theirs is the kingdom of heaven. (5:10)</em>
+    </td>
+  </tr>
+  <tr>
+    <td>6</td><td>434-515</td><td>Heal</td>
+    <td>
+    Jesus teaches about anxiety, the pursuit of heavenly and not earthly treasures, and the impossibility of serving two masters, money and God. In 476 AD, Rome falls. The church now has to survive by faith, without
+    the wealth and protection of the world's most powerful empire.
+    </td>
+  </tr>
+  <tr>
+    <td>7</td><td>515-595</td><td>Tear Down</td>
+    <td>
+    Jesus warns of wolves in sheep’s clothing, matching the Germanic tribes that followed the Arian heresy and lionized wolves for their savagery and bravery.
+    </td>
+  </tr>
+  <tr>
+    <td>8</td><td>595-675</td><td>Build</td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td>9</td><td>675-755</td><td>Weep</td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td>10</td><td>755-836</td><td>Laugh</td>
+    <td>
+    Jesus says, “I did not come to bring peace, but a sword.” This corresponds to Charlemagne, who spread Christianity by the sword and inspired imitators.
+    </td>
+  </tr>
+  <tr>
+    <td>11</td><td>836-916</td><td>Mourn</td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td>12</td><td>916-996</td><td>Dance</td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td>13</td><td>996-1076</td><td>Scatter Stones</td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td>14</td><td>1076-1157</td><td>Gather Stones</td>
+    <td>
+    Matthew tells of the feeding of the five thousand, which matches the Medieval Warm Period when a revolution in agriculture in the 11th and 12th centuries enabled people to "gather" a bountiful harvest. 
+    This helped double the population of Europe and extend life expectancy by ten years.
+    </td>
+  </tr>
+  <tr>
+    <td>15</td><td>1157-1237</td><td>Embrace</td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td>16</td><td>1237-1317</td><td>Refrain</td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td>17</td><td>1317-1397</td><td>Seek</td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td>18</td><td>1397-1478</td><td>Give Up</td>
+    <td>
+    Jesus says we may need to "give up" an eye or cut off a foot if it causes us to sin. During this time, God gave up on Byzantium. By telling his disciples to forgive their brother seventy times seven times, he decreed the number of years an offense by the Orthodox Church would be tolerated until they were overthrown. The offense (related to rejecting the Filioque clause in the creed) occurred in 867 AD, deepened for a few decades, and Constantinople refused to back down for the next 490 years, resulting in Satan being unbound in 1380 AD to wage war against them.
+    </td>
+  </tr>
+  <tr>
+    <td>19</td><td>1478-1558</td><td>Keep</td>
+    <td>
+    Jesus speaks against divorce, saying a man should keep his wife, but the church did not listen and the Protestant Reformation led to a spiritual divorce within the church.
+    </td>
+  </tr>
+  <tr>
+    <td>20</td><td>1558-1638</td><td>Throw Away</td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td>21</td><td>1638-1718</td><td>Tear</td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td>22</td><td>1718-1799</td><td>Mend</td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td>23</td><td>1799-1879</td><td>Be Silent</td>
+    <td>
+    Jesus silences his critics, saying, “They tie up heavy, cumbersome loads and put them on other people’s shoulders, but they themselves are not willing to lift a finger to move them”. In this era abolitionists began to lift that load off of people’s shoulders. <br/>
+    <br/>
+    <em>“Jerusalem, Jerusalem, you who kill the prophets and stone those sent to you, how often I have longed to gather your children together, as a hen gathers her chicks under her wings, and you were not willing. 38 Look, your house is left to you desolate." - Matthew 23:37-38</em> <br/>
+    Jerusalem of the 19th century was desolate. The population was less than 40,000, with perhaps 13,000 of them Jewish. By Ottoman law, the name of a Jew could not appear on a property deed.
+    This changed with the Land Emancipation Act of 1876, near the end of this era. Finally Jews could own property,
+    so they began to return from exile.
+    </td>
+  </tr>
+  <tr>
+    <td>24</td><td>1879-1959</td><td>Speak</td>
+    <td>
+    Jesus says, “Heaven and earth will pass away, but my words will never pass away.” To speak those words to the world, this era was dominated by a new invention: the telephone. This chapter also prophesied the development of electric power transmission and the spread of the gospel to the whole world. <br/>
+    <br/>
+    <em>Pray that your flight will not take place in winter or on the Sabbath. For then there will be great distress, unequaled from the beginning of the world until now—and never to be equaled again.
+    If those days had not been cut short, no one would survive, but for the sake of the elect those days will be shortened. - Matthew 24:20-22</em> <br/>
+    Thus did Jesus prophesy the Nazi Holocaust of the Jews.<br/>
+    <br/>
+    <em>“Now learn this lesson from the fig tree: As soon as its twigs get tender and its leaves come out, you know that summer is near." - Matthew 24:32</em> <br/>
+    This prophesied the rebirth of Israel in 1948, since Israel is symbolized as the fig tree.
+    </td>
+  </tr>
+  <tr>
+    <td>25</td><td>1959-2039</td><td>Love</td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td>26</td><td>2039-2120</td><td>Hate</td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td>27</td><td>2120-2200</td><td>for War</td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td>28</td><td>2200-2280</td><td>for Peace</td>
+    <td>
+    </td>
+  </tr>
+</table>
+
 
 
 
