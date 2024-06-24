@@ -1299,6 +1299,20 @@ Just today (June 22, 2024) I found three more, so have included them, even thoug
   <tr>
     <td>26</td><td>2039-2120</td><td>Hate</td>
     <td>
+    This chapter is steeped in Solomon's "time to hate". <br/>
+    <br/>
+    The Chief Priests. The Elders of the people. High Priest Caiaphas. Judas. The Sanhedrin. Peter. The disciples.
+    <br/>
+    All those men betrayed or deserted Jesus. The only person in the chapter to show unfeigned and total devotion to Jesus
+    was the woman with the alabaster jar, who anointed Jesus with costly perfume.<br/>
+    <br/>
+    We don't know what is about to happen, but the rest of this century will surely see an increase in division
+    and civil discord. Pray that your love for God will withstand what is to come.<br/>
+    <br/>
+    <em>“You have said so,” Jesus replied. “But I say to all of you: 
+    From now on you will see the Son of Man sitting at the right hand of the Mighty One and coming on the clouds of heaven.” (26:64)</em> <br/>
+    <br/>
+    Cry out to Jesus that you might have this vision of the Son of Man sitting at the Father's right hand. May it sustain you.
     </td>
   </tr>
   <tr>
