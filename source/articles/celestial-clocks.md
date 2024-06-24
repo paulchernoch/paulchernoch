@@ -2,8 +2,8 @@
 title: Celestial Clocks
 ---
 Genesis 1 tells us that on the fourth day, God created the sun, moon and stars to govern day and night and regulate days, seasons and years.
-They are God's celestial time pieces. These heavenly bodies move through the skies with mechanical precision, the
-attribute par excellence of the Celestial Clock. In Solomon's inventory of types of prophetic clocks, they come second, after the generation clocks:
+They are God's celestial time pieces. These heavenly bodies move through the skies 
+with mechanical precision, the attribute par excellence of the Celestial Clock. In Solomon's inventory of types of prophetic clocks, they come second, after the generation clocks:
 
 #### The sun rises, and the sun goes down,
 ##### and hastens to the place where it rises.
@@ -27,6 +27,8 @@ To quickly jump to each clock:
     <li> <a href="#7">Holy Spirit Clock</a> </li>
     <li> <a href="#8">Matthew’s Monthly Planner</a> </li>
     <li> <a href="#9">Moses’ Commandment Clock</a> </li>
+    <li> <a href="#10">Rebirth of Israel Clock</a> </li>
+    <li> <a href="#11">Hezekiah's Celestial Clock</a> </li>
   </ol>
 
 </div>
@@ -1399,11 +1401,141 @@ the church (for discipline), others against the world.
   - The 1st plague (blood on the Nile) was Christ’s Crucifixion.
   - The 2nd plague (of frogs) matched the rise of the Frankish Merovingian Kings, whose crest of arms bore three frogs.
   - The 5th plague (on livestock) preceded Mongol invasions.
-  - The 6th plague (of boils) matched the Black Plague.
+  - The 6th plague (of boils) matched the Black Plague as judgement upon the church for breaking the 6th commandment, against murder.
   - The 7th plague (hail & thunder) was the 17th C General Crisis.
   - The 8th plague (of locusts) was European colonial expansion breaking the 8th commandment: Thou shalt not steal.
   - The 9th plague (of darkness) is the darkness of lies, starting with Hitler’s “Big Lie” philosophy, first enunciated in Mein Kampf, published in 1925.
 
-In *Plague, Precept, Prophet, Peace*, two more clocks were found that applied these principles to Israel and to a series of ten empires.
+In *Plague, Precept, Prophet, Peace*, two more clocks were found that applied these principles to Israel and to a series of ten empires respectively.
+
+<hr/>
+
+<div class="numbered-image">
+  <p id="10" class="numbered-image">10</p>
+  <p><img class="numbered-image" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" /></p>
+</div>
+
+<hr/>
+
+## Rebirth of Israel Clock
+
+- Bible books: Ecclesiastes, Psalm 107
+- Defined in: *Peace, like Solomon Never Knew*
+- Chapter: Appendix C: A Time for Israel
+- Timespan: 1942–2280 AD
+- Intervals: 28
+- Period: 12.5 years (a 50-year jubilee per quartet)
+
+**Notable facts:**
+
+Starting with the Nazi death camps of 1942, this clock follows
+the history of modern Israel from its birth up until Christ
+returns. The new Israel will celebrate six jubilees, six fifty-year periods, 
+before the Lord returns prior to the seventh. Here is a taste of that clock, 
+what it had to say about the rebirth of Israel, during the first quartet of times, 
+the Security phase of the [Growth Pattern](./growth-pattern.html).
+
+In the following, the Grand Index is a reference to how Ecclesiastes may be broken into twenty-eight pieces
+using the phrase "under the sun" as a divider. Each piece then maps to one of the twenty-eight times
+of Ecclesiastes 3.
+
+**Security**
+
+  - A time to be born: 1942–1955 AD
+  - A time to die: 1955-1967 AD
+  - A time to plant: 1967–1980 AD
+  - A time to uproot: 1980–1992 AD
+
+Ecclesiastes begins with a riddle:
+
+#### What has been will be again,
+##### what has been done will be done again;
+###### there is nothing new under the sun.
+#### Is there anything of which one can say,
+##### “Look! This is something new”?
+#### It was here already, long ago;
+##### it was here before our time.
+###### - Ecclesiastes 1:9-10
+
+According to the Grand Index, this riddle falls between “a time to be born” and “a time to die”. 
+“What has been will be again” is the nation of Israel. The death of its people in the
+Holocaust preceded its rebirth in 1948, like history moving
+in reverse. The chapter [Psalm 107: Where is the Love?](./psalm-107.html)
+went through the immigration records for Israel to prove
+that the refugees returned from the land of the foe, the
+east, the west, and the sea (south) in the order prophesied.
+
+Two monumental events marked off the second time
+(1955–1967). “A time to die” began with the Suez War of 1956
+and concluded with the Six Day War of 1967.
+
+The third time, “a time to plant”, saw Israeli agricultural
+output (like its famed Jaffa oranges) increase dramatically.
+In 1973, a Jewish botanist even perfected a variety of
+tomato that ripens slower, dramatically reducing loss due
+to spoilage (which had been 40% of the crop). This was
+predicted by Solomon, in this passage that matches "a time to plant" 
+according to the Grand Index:
+
+#### I made gardens and parks
+##### and planted all kinds of fruit trees in them. 
+#### I made reservoirs to water groves of flourishing trees.
+###### - Ecclesiastes 2:5-6
+
+The fourth time, “a time to uproot”, was a beneficial
+uprooting. Jews from Russia and other Iron Curtain nations
+were uprooted from their homes and migrated to Israel,
+culminating at the end of this era with the arrival of several
+million Jews in the space of a couple years.
+
+In another instance of God hiding a great blessing in the
+guise of objectionable language, we have this prophecy, a true [emotional riddle](./riddles.html):
+
+#### I bought male and female slaves and had other slaves
+#### who were born in my house...
+###### - Ecclesiastes 2:7a
+
+The USSR instituted a “diploma tax” in 1972 to prevent a brain drain. 
+To get a visa to emigrate, some Jewish professionals had to pay twenty times 
+their annual salary to meet the tax! Other communist countries had similar
+policies. Israel paid to release as many as they could afford. Thus the nation
+of Israel did buy “slaves” – in order to set them free!
+
+
+<hr/>
+
+<div class="numbered-image">
+  <p id="11" class="numbered-image">11</p>
+  <p><img class="numbered-image" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" /></p>
+</div>
+
+<hr/>
+
+## Hezekiah’s Celestial Clock
+
+  - Bible books: Ecclesiastes, Psalm 102, Isaiah
+  - Defined in: *Peace, like Solomon Never Knew*
+  - Chapter: Appendix D: To Number our Psalms
+  - Timespan: 960 BC–2280 AD
+  - Intervals: 28
+  - Period: 120 years
+
+**Notable facts:**
+
+Prophecies in Psalm 102 focus on the period between the 816 year period
+Muslim Siege of Jerusalem in 637 AD and the Fall of Constantinople in 1453 AD. 
+That period of time is a multiple of the Psalm’s number, since:
+
+**816 years = 8 x 102**
+
+As for the number eight, the time between the sieges spans eight (8) of Solomon’s times. 
+Furthermore, to direct our attention to the start of the crucial time, the psalm helpfully
+includes in the preceding verse the phrase “the appointed time”.
+
+The time I spent studying this Psalm was sweet. Hezekiah has long been one of my favorite 
+Bible personalities. It is likely that he or someone from his court wrote Psalm 102 to speak 
+of Hezekiah's faith amid his suffering. Look here for a detailed analysis of the poem:
+
+[Psalm 102](./psalm-102.html).
 
 In progress...
