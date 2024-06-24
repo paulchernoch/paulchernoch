@@ -26,6 +26,7 @@ To quickly jump to each clock:
     <li> <a href="#6">Grand Father Clock</a> </li>
     <li> <a href="#7">Holy Spirit Clock</a> </li>
     <li> <a href="#8">Matthew’s Monthly Planner</a> </li>
+    <li> <a href="#9">Moses’ Commandment Clock</a> </li>
   </ol>
 
 </div>
@@ -1362,7 +1363,47 @@ Just today (June 22, 2024) I found three more, so have included them, even thoug
   </tr>
 </table>
 
+<hr/>
 
+<div class="numbered-image">
+  <p id="9" class="numbered-image">9</p>
+  <p><img class="numbered-image" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" /></p>
+</div>
 
+<hr/>
+
+## Moses’ Commandment Clock
+
+  - Bible book: Exodus 7-11, 19, 20
+  - Defined in: *Peace, like Solomon Never Knew*
+  - Chapter(s): Aftertaste: Donner and Blitzen
+  - Timespan: 1–2280 AD
+  - Intervals: 10 (one per plague/commandment)
+  - Period: 240 years
+
+**Notable facts**:
+
+This clock shows that analogies to Moses’ plagues against Egypt
+are being repeated during the church age as judgments against
+the church and the world.
+
+Moses lived to the age of 120 years, so:
+
+<div class="pullquote-centered">
+  <p>(10 plagues + 10 Commandments) x 120 years = 2400 years</p>
+</div>
+
+The last period will be cut short. Some plagues prophesy God’s judgments against
+the church (for discipline), others against the world.
+
+  - The 1st plague (blood on the Nile) was Christ’s Crucifixion.
+  - The 2nd plague (of frogs) matched the rise of the Frankish Merovingian Kings, whose crest of arms bore three frogs.
+  - The 5th plague (on livestock) preceded Mongol invasions.
+  - The 6th plague (of boils) matched the Black Plague.
+  - The 7th plague (hail & thunder) was the 17th C General Crisis.
+  - The 8th plague (of locusts) was European colonial expansion breaking the 8th commandment: Thou shalt not steal.
+  - The 9th plague (of darkness) is the darkness of lies, starting with Hitler’s “Big Lie” philosophy, first enunciated in Mein Kampf, published in 1925.
+
+In *Plague, Precept, Prophet, Peace*, two more clocks were found that applied these principles to Israel and to a series of ten empires.
 
 In progress...
