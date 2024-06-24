@@ -101,7 +101,7 @@ a short excerpt of that chapter.
   - Appendix A: Heavenly Peace
   - Appendix B: Index of Prophetic Clocks
   - Appendix C: A Time for Israel
-  - Appendix D: To Number our Psalms
+  - [Appendix D: To Number our Psalms](./psalm-102.md) - Only Part of Appendix is reproduced.
   - Appendix E: The Plan of Proverbs
   - Appendix F: Job Keeps Perfect Time
   - Appendix G: A Prophetic Song of Songs
