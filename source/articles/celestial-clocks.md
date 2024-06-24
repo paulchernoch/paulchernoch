@@ -1318,6 +1318,40 @@ Just today (June 22, 2024) I found three more, so have included them, even thoug
   <tr>
     <td>27</td><td>2120-2200</td><td>for War</td>
     <td>
+    War is about taking violent action in support of the
+    things you love and against the things you hate. This
+    chapter is all about Satan’s war against God: the trial,
+    scourging and crucifixion of Jesus.<br/>
+    <br/>
+    We know Armageddon is coming; we just don’t know when. Jesus said he would rise on the third
+    day, and his enemies knew that:<br/>
+    <br/>
+    <em/>The next day, the one after Preparation Day, the chief priests and the
+    Pharisees went to Pilate. “Sir,” they said, “we remember that while he
+    was still alive that deceiver said, ‘After three days I will rise again.’
+    So give the order for the tomb to be made secure until the third day.
+    Otherwise, his disciples may come and steal the body and tell the
+    people that he has been raised from the dead. This last deception will
+    be worse than the first.” (Matthew 27:62-64, NIV) </em><br/>
+    <br/>
+    Taking a day as a thousand years, the third day is about
+    to begin. It will begin in 2033 AD, two millennia after
+    Christ was crucified. The first time Jesus rose, he
+    appeared only to his followers and to Paul. When he
+    returns from Heaven this time, he will be seen by the
+    whole world.
+    <br/>
+    Most of the other clocks in this book have the final battle
+    occurring closer to 2280 AD, and peace following after
+    that, sometime between 2280 and 2340 AD. However,
+    they also offer the possibility that the last time or two
+    get stretched out, due to humanity perfecting new
+    medicine that extends life. In addition, the fractal
+    nature of God’s word makes it likely that this period of
+    2120–2200 is a time of war, to be followed by a false time
+    of peace when the world believes it has defeated the
+    church and God, which time will end with the true final
+    battle and the return of Christ.
     </td>
   </tr>
   <tr>
