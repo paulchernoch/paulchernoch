@@ -271,6 +271,8 @@ predicted a siege that lasted for 816 years...
 
 <img class="center" src="images/key-time-durations.png" />
 
+*The 816-year time span of interest goes from marks D to F in the above diagram.*
+
 **Clock**. Because the NIV twice substitutes “when” for
 “day”, obscuring the Hebrew’s repetition of time words,
 this section cites the ESV. Every verse will appear, but some
