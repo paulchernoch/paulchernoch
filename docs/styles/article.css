@@ -113,6 +113,30 @@ table.planner td:nth-child(1), table.planner td:nth-child(2), table.planner td:n
   text-align: center;
 }
 
+/* Proverbs Clock */
+
+table.proverbs-clock {
+  width: 90%;
+  background-color: #FFFFFF;
+  border-collapse: collapse;
+  border-width: 0px;
+  border-color: #7EA8F8;
+  border-style: dashed;
+  color: #174DB9;
+}
+
+table.proverbs-clock td, table.proverbs-clock th {
+  border-width: 0px;
+  border-color: #7EA8F8;
+  border-style: dashed;
+  padding: 5px;
+}
+
+table.proverbs-clock thead {
+  background-color: #BCE2F8;
+}
+
+
 /* Hannah's Prophetic Clock Table */
 
 .hannah th {
