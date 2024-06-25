@@ -1538,4 +1538,55 @@ of Hezekiah's faith amid his suffering. Look here for a detailed analysis of the
 
 [Psalm 102](./psalm-102.html).
 
+
+<hr/>
+
+<div class="numbered-image">
+  <p id="12" class="numbered-image">12</p>
+  <p><img class="numbered-image" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" /></p>
+</div>
+
+<hr/>
+
+## Proverbs Clock
+
+  - Bible books: Proverbs
+  - Defined in: *Peace, like Solomon Never Knew*
+  - Chapter(s): Appendix E: The Plan of Proverbs
+  - Timespan: 4020 AD–2280 AD and beyond
+  - Intervals: 31
+  - Period: 120 years (except the first three)
+
+**Notable facts**:
+
+The first three chapters of Proverbs look back to the first three
+millennia, respectively. Chapter 1 corresponds to the Son,
+chapter 2 to the Holy Spirit, and chapter 3 to the Father.
+The remaining twenty-eight chapters correspond to
+Solomon’s twenty-eight times, and begin in 960 BC. The
+conclusion is the wedding supper of the lamb, which
+occurs once the church has been perfected and become
+the wife of noble character of Proverbs 31.
+
+For an excerpt that analyzes my favorite chapter, Proverbs 30, see [Riddles of War](./riddles-of-war.html).
+Otherwise, to read up on the entire book, follow the links below.
+
+<div class="sections">
+
+<p>
+  The Proverbs clock is too big to swallow in one bite.
+  Here are links to analyses of each of its chapters:
+</p>
+
+  <ol>
+    <li> <a href="./proverbs-1-to-3.html">Proverbs 1 to 3</a> </li>
+    <li> <a href="./proverbs-4-to-19.html">Proverbs 4 to 19</a> </li>
+    <li> <a href="./proverbs-20-to-29.html">Proverbs 20 to 29</a> </li>
+    <li> <a href="./proverbs-30-to-31.html">Proverbs 30 to 31</a> </li>
+  </ol>
+
+</div>
+
+
+
 In progress...
