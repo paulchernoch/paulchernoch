@@ -117,7 +117,7 @@ table.planner td:nth-child(1), table.planner td:nth-child(2), table.planner td:n
 
 table.proverbs-clock {
   width: 90%;
-  background-color: var(--coral-blue);
+  background-color: var(--pale-sky-blue);
   border-collapse: collapse;
   border-width: 0px;
   border-color: #7EA8F8;
