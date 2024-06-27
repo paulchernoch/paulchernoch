@@ -342,4 +342,6 @@ during the third time, a time to plant, any correspondence
 between verses in chapters 4–6 is likely backwards looking
 commentary, not forward looking prophecy.
 
+<hr/>
+
 Continue reading with [Proverbs 4 to 19](./proverbs-4-to-19.html).
