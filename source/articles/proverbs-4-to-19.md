@@ -1,5 +1,6 @@
 ---
 title: Proverbs 4 to 19
+quote: Above all else, guard your heart, <br/> for everything you do flows from it. <br/> - Proverbs 4:23
 ---
 This article was originally published as a portion of "Appendix E: The Plan of Proverbs",
 in *Peace, Like Solomon Never Knew*. It covers chapters four to nineteen of Proverbs.
