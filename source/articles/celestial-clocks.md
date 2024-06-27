@@ -30,6 +30,7 @@ To quickly jump to each clock:
     <li> <a href="#10">Rebirth of Israel Clock</a> </li>
     <li> <a href="#11">Hezekiah's Celestial Clock</a> </li>
     <li> <a href="#12">Proverbs Clock</a> </li>
+    <li> <a href="#13">Fool's Clock</a> </li>
   </ol>
 
 </div>
@@ -1671,6 +1672,40 @@ floodgates of knowledge, it is impossible to not get carried away...
 
 </div>
 
+<hr/>
 
+<div class="numbered-image">
+  <p id="13" class="numbered-image">13</p>
+  <p><img class="numbered-image" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" /></p>
+</div>
+
+## Fool’s Clock
+
+  - Bible books: Proverbs 26
+  - Defined in: *Peace, like Solomon Never Knew*
+  - Chapter(s): Appendix E: The Plan of Proverbs
+  - Timespan: 960 BC–2280 AD and beyond
+  - Intervals: 28
+  - Period: 120 years
+
+**Notable facts**:
+
+This clock is nested inside the Proverbs Clock. It reveals
+the shape of Satan’s strategy to overcome the church.
+
+Each of the twenty-eight verses of this chapter
+corresponds to one of Solomon’s twenty-eight times.
+Many include prophecies.
+
+The chapter (and hence Satan’s master plan) is divided
+into four unequal sections, to correspond to four different
+agents and four eras in church history: fools, sluggards,
+the quarrelsome, and the malicious.
+
+The details of the Fool's Clock are found in this article:
+
+[Proverbs 20 to 29](./proverbs-20-to-29.md)
+
+<hr/>
 
 In progress...
