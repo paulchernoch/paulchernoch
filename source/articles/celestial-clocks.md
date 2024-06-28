@@ -31,6 +31,8 @@ To quickly jump to each clock:
     <li> <a href="#11">Hezekiah's Celestial Clock</a> </li>
     <li> <a href="#12">Proverbs Clock</a> </li>
     <li> <a href="#13">Fool's Clock</a> </li>
+    <li> <a href="#14">Battle Clock</a> </li>
+    <li> <a href="#15">Hannah's Prayer Clock</a> </li>
   </ol>
 
 </div>
@@ -1679,6 +1681,8 @@ floodgates of knowledge, it is impossible to not get carried away...
   <p><img class="numbered-image" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" /></p>
 </div>
 
+<hr/>
+
 ## Fool’s Clock
 
   - Bible books: Proverbs 26
@@ -1705,6 +1709,95 @@ the quarrelsome, and the malicious.
 The details of the Fool's Clock are found in this article:
 
 [Proverbs 20 to 29](./proverbs-20-to-29.md)
+
+<hr/>
+
+<div class="numbered-image">
+  <p id="14" class="numbered-image">14</p>
+  <p><img class="numbered-image" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" /></p>
+</div>
+
+<hr/>
+
+## Battle Clock
+
+  - Bible books: Proverbs 30
+  - Defined in: *Peace, like Solomon Never Knew*
+  - Chapter(s): Appendix E: The Plan of Proverbs
+  - Timespan: 960 BC–2280 AD and beyond
+  - Intervals: 7
+  - Period: 480 years
+
+**Notable facts**:
+
+This clock nested inside the Proverbs Clock reveals the battle
+plan for the war between the righteous & the wicked.
+Seven riddling quartets address seven aspects of battle as well
+as consecutive time periods (with exceptions that reprise the
+whole time period).
+
+The clock reveals five battlefields, then the combatants, cassus
+belli, cost, strategy, promotion, tactics and leadership. The
+strategy parable identifies the five major missions eras while
+the tactics parable goes into greater detail about the last two
+missions eras.
+
+This clock is explained in detail in [Riddles of War](./riddles-of-war.html).
+
+## Hannah’s Prayer Clock
+
+  - Bible books: 1 Samuel 2
+  - Defined in: *Peace, like Solomon Never Knew*
+  - Chapter(s): The Seven Pillars of Wisdom
+  - Timespan: 1080 BC–2280+ AD
+  - Intervals: 8
+  - Period: 7 intervals of 480 years, one of 120 years
+
+**Notable facts**:
+
+Hannah defined the seven pillars of wisdom and prophesied:
+
+  - the destruction of Israel
+  - the birth of the messiah
+  - greatest era of world missions
+  - the coming of Messiah in judgment
+
+The details of Hannah's clock are found in this article:
+
+[Hannah's Song](./hannah-s-song.html)
+
+<hr/>
+
+<div class="numbered-image">
+  <p id="15" class="numbered-image">15</p>
+  <p><img class="numbered-image" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" /></p>
+</div>
+
+<hr/>
+
+## Timothy’s Freedom Clocks
+
+  - Bible books: 1 & 2 Timothy
+  - Defined in: *Peace, like Solomon Never Knew*
+  - Chapter(s): Appendix I: A Clock for Timothy
+  - Timespan: 1–2280+ AD
+  - Intervals: 10
+  - Period: 240 years
+
+**Notable facts**:
+
+The books of 1 & 2 Timothy contain not one, but four clocks!
+Their subject is the freedom that comes as God writes His law
+on human hearts.
+
+  - **The Whole**: Each of the ten chapters that constitute the two letters corresponds to an era lasting 240 years. The first points to eternity, while the rest point to successive pairs of times from Ecclesiastes. It chronicles God’s establishment of one commandment per season and identifies each season.
+  - **Women’s Freedom**: 1 Timothy 2:12-15. This clock has eight parts, some of which are 240 years but others 120 years, according to seasons or times, respectively. This describes a part of the process by which the equality of women will be restored.
+  - **Equipping & Rescue**: 2 Timothy 3:16-17 lists qualities to be learned and obstacles to be overcome by the church, until the final rescue at the time of the rapture. It identifies the times of steadfastness (the missionary age) and persecution (the tribulation about to come).
+  - **Guidance**: 2 Timothy 4:10-18 points to select Bible books to guide the church in the first six seasons. It identifies the seventh season as the time when all the books of the Bible would be mass produced. Then it offers warnings for the remaining three seasons, as well as repeating the promise of God’s rescue plan.
+
+Much of the material from the appendix related to the prophetic clocks from 1 Timothy is found in this article:
+
+[Reconciliation](./reconciliation.html)
 
 <hr/>
 
