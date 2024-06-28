@@ -33,6 +33,7 @@ To quickly jump to each clock:
     <li> <a href="#13">Fool's Clock</a> </li>
     <li> <a href="#14">Battle Clock</a> </li>
     <li> <a href="#15">Hannah's Prayer Clock</a> </li>
+    <li> <a href="#16">Timothy’s Freedom Clocks</a> </li>
   </ol>
 
 </div>
@@ -1744,6 +1745,15 @@ missions eras.
 
 This clock is explained in detail in [Riddles of War](./riddles-of-war.html).
 
+<hr/>
+
+<div class="numbered-image">
+  <p id="15" class="numbered-image">15</p>
+  <p><img class="numbered-image" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" /></p>
+</div>
+
+<hr/>
+
 ## Hannah’s Prayer Clock
 
   - Bible books: 1 Samuel 2
@@ -1769,7 +1779,7 @@ The details of Hannah's clock are found in this article:
 <hr/>
 
 <div class="numbered-image">
-  <p id="15" class="numbered-image">15</p>
+  <p id="16" class="numbered-image">16</p>
   <p><img class="numbered-image" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" /></p>
 </div>
 
