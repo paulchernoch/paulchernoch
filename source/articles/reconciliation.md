@@ -3,6 +3,23 @@ title: Reconciliation
 sub: The Childbearing in 1 Timothy 2
 quote: Yet she will be saved through childbearing-<br/>if they continue in faith and love <br/> and holiness, with self-control. <br/> - 1 Timothy 2:15
 ---
+<div class="sections">
+
+Sections of this article:
+
+  <ol>
+    <li> <a href="#1">Two Signs so the Church might see</a> </li>
+    <li> <a href="#2">Paul's Letters to Timothy</a> </li>
+    <li> <a href="#3">1 Timothy 2: The Time Limit</a> </li>
+    <li> <a href="#4">The Break</a> </li>
+    <li> <a href="#5">A Planting Almanac</a> </li>
+    <li> <a href="#6">A Due Date Clock</a> </li>
+    <li> <a href="#7">Eight Powerful Words</a> </li>
+    <li> <a href="#8">The Long War against Slavery</a> </li>
+  </ol>
+
+</div>
+
 
 A major battleground in the debate over whether God permits women to serve as pastors and elders is 1 Timothy 2.
 I will offer a prophetic interpretation of those verses that shows a redemptive trajectory from the restricted 
@@ -12,6 +29,7 @@ concisely. It occurred to me this month that God has given us two signs by which
   - A spiritual sign, given earlier
   - A literal sign, given later
 
+<span id="1"/>
 ## Two Signs so the Church might see
 
 God gave the spiritual sign to Christians who were more in tune with the Holy Spirit to begin the age of liberation. 
@@ -92,6 +110,7 @@ Before we get to 1 Timothy 2, two questions.
   - Who conducts all those blood drives that save lives? The Red Cross. 
   - And who started the Red Cross? Clara Barton. A woman.
 
+<span id="2"/>
 ## Paul's Letters to Timothy
 
 The following section is excerpted from the concluding chapter in my book *Plague, Precept, Prophet, Peace*, 
@@ -107,6 +126,7 @@ That is why it must be shown that the whole of the two letters is prophetic, as 
 Once the letters are seen as fundamentally prophetic in nature on several fronts, including slavery, women's roles, persecution and world missions, 
 then the narrower focus on 1 Timothy 2 will not seen to be such a stretch.
 
+<span id="3"/>
 ## 1 Timothy 2: The Time Limit
 
 It is time to apply the vocabulary for time to 1 Timothy 2. The times of Solomon are firmly anchored in history and prophecy and have a special meaning as they relate to women. They are also the key to understanding Paul’s letters to Timothy. Appendix I of *Peace, like Solomon Never Knew* devoted over fifty pages to these two letters. We shall have to sacrifice most of the evidence that proves their prophetic nature and limit discussion to key results from that analysis.
@@ -119,6 +139,7 @@ It is time to apply the vocabulary for time to 1 Timothy 2. The times of Solomon
   - All ten chapters are prophetic. Each corresponds to a distinct era of history 240 years in duration, in chronological order. These eras are tied to both the commandment for that chapter and Solomon’s times. The first chapter begins the clock near Christ’s birth. We are living through the era of the ninth chapter.
   - Some chapters contain sections that hold additional prophecies spanning longer periods of time than the era governed by the bulk of the chapter. The most striking are 1 Timothy 2:11-15, 1 Timothy 3:2-3, 2 Timothy 3:10-11, and 2 Timothy 4:9-18. Let us call these four “encapsulated clocks”.
 
+<span id="4"/>
 ## The Break
 
 What is most interesting about the letters is the break between them. Paul wrote in his first letter to Timothy with instructions about women’s place in the church. Then in his second letter, his tone changes. He takes pains in 2 Timothy 1:5 to remind Timothy of the crucial role that two women played in his (Timothy’s) life of faith: his grandmother Lois and mother, Eunice, the woman who gave birth to him. Could Timothy have been too harsh in interpreting Paul’s previous instructions about keeping women in line? Could this correction be a prophecy to the church to reform its treatment of women?
@@ -127,6 +148,7 @@ Since each season lasts 240 years (two times of 120 years apiece), the break bet
 
 To understand this momentous event, this childbearing, we need to follow the events that lead up to it and the consequences that flow from it. The metaphor of childbirth is the major one, found summarized in 1 Timothy 2 and elaborated upon throughout the rest of 1 & 2 Timothy. Before we get to that, there is a second analogy, of farming.
 
+<span id="5"/>
 ## A Planting Almanac.
 
 The final chapter in the two books ends with an encapsulated clock devoted to certain seeds planted by God into the church. That chapter does not seem to refer to the sowing of seed, but that is what it is. The metaphor was introduced here:
@@ -190,6 +212,7 @@ The preceding encapsulated clock focused on what the Lord did to facilitate this
 
 According to the schedule outlined by Paul, the Holy Spirit delivered apt words of wisdom in their proper season to a church in dire need of his instruction. Now for insights more targeted towards women.
 
+<span id="6"/>
 ## A Due Date Clock
 
 Pregnant women keep careful track of their predicted delivery date. They plan all their activities around that “due date”. The Bible has such a clock, and it is found here. The encapsulated clock we are interested in here is from 1 Timothy 2. It covers church history from 480-1920 AD. According to a survey of women theologians, this passage is the second most hated passage in the Bible for feminists.
@@ -211,6 +234,7 @@ Pregnant women keep careful track of their predicted delivery date. They plan al
 
 Bolded words refer to prophetic times: teach, quiet, saved, childbearing, faith, love, holiness and self-control. They are in reverse chronological order. Think about that for a minute. Many espouse the proposition that Jesus reversed the curse by his death, which should work itself out by women being freed to serve as pastors and elders. This intentional reversal of time wrapped around a reference to Eve is symbolic of exactly that sentiment. Jesus has reversed the curse. Now for the details of how and when.
 
+<span id="7"/>
 ## Eight Powerful Words
 
 Let us un-reverse these eight words and tell the story in forward, chronological order. Some of the words clearly correspond to a single one of Solomon’s times, while others match a whole season, which is two times. 
@@ -267,6 +291,7 @@ In the following table:
 | *<br> No coveting<br><br> **Promise: Christ’s Return**<br> (2 Ti 4:18) | 2160-? <br> **War & Peace** <br><br> The day of his appearing! | **2 Timothy 4** <br><br> The church will depart the world’s stage to meet the Lord.<br><br> *For I am already being poured out as a drink offering, and **the time of my departure** has come. I have fought the good fight, I have finished the race, I have kept the faith. Henceforth there is laid up for me the crown of righteousness, which the Lord, the righteous judge, will award to me on **that Day**, and not only to me but also to all who have loved his appearing.* (v6-8) |
 | <hr> | <hr> | <hr> |
 
+<span id="8"/>
 ## The Long War against Slavery
 
 Many things could be called out from the preceding table, but Paul’s stance on slavery stands out. Stripped of any reference to God’s prophetic timeline, Paul is seen as ennobling slaves and the work they do, but seems to tolerate the institution. This is why the temporal framework supplied by Solomon’s times and the commandments is vital. It shows when God’s age old plan to abolish slavery would kick into high gear. The chapter where Paul offers encouragement and advice to slaves corresponds to the era 1200-1440 AD. This author’s contention is that the pivotal era for abolition would fall in the next era, or 1440-1680 AD. Let us ponder some milestones in God’s unfolding plan for abolition:
