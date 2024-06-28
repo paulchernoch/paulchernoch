@@ -58,7 +58,7 @@ a short excerpt of that chapter.
   - Hammer Time
   - Hour of Temptation
   - Three Appointments with Satan
-  - Solomon’s Clocks: Ecclesiastes 1
+  - [Solomon’s Clocks: Ecclesiastes 1](./types-of-clock.html)
   - The Final Countdown
   - Four Months til Harvest
   - Winding the Clock
@@ -102,7 +102,7 @@ a short excerpt of that chapter.
   - Appendix B: Index of Prophetic Clocks
   - Appendix C: A Time for Israel
   - [Appendix D: To Number our Psalms](./psalm-102.md) - Only Part of Appendix is reproduced.
-  - Appendix E: The Plan of Proverbs
+  - [Appendix E: The Plan of Proverbs](./proverbs-1-to-3.html)  
   - Appendix F: Job Keeps Perfect Time
   - Appendix G: A Prophetic Song of Songs
   - Appendix H: Clues to the Seven Pillars
