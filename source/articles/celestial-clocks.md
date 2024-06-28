@@ -34,6 +34,7 @@ To quickly jump to each clock:
     <li> <a href="#14">Battle Clock</a> </li>
     <li> <a href="#15">Hannah's Prayer Clock</a> </li>
     <li> <a href="#16">Timothy’s Freedom Clocks</a> </li>
+    <li> <a href="#17">Song of Songs Clock</a> </li>
   </ol>
 
 </div>
@@ -1811,4 +1812,54 @@ Much of the material from the appendix related to the prophetic clocks from 1 Ti
 
 <hr/>
 
-In progress...
+<div class="numbered-image">
+  <p id="17" class="numbered-image">17</p>
+  <p><img class="numbered-image" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" /></p>
+</div>
+
+<hr/>
+
+## Song of Songs Clock
+
+  - Bible books: Song of Songs
+  - Defined in: *Peace, like Solomon Never Knew*
+  - Chapter(s): Appendix G: A Prophetic Song of Songs
+  - Timespan: 3 BC–2280 AD
+  - Intervals: 28
+  - Period: 81.5 years
+
+**Notable facts**:
+
+The Song of Solomon (aka Song of Songs) has three speakers,
+the Beloved (or HE), the Bride (or SHE), and the friends (or
+OTHERS). Collectively they have twenty-eight speaking parts,
+one for each of Solomon’s twenty-eight times. Many of the
+events in the poem or history run opposite to Solomon’s
+times. The Bride is constantly out of phase with time, having
+to remind herself to wait before she awakens love.
+
+The first part prophecies the birth and death of Christ.
+
+The tenth part corresponds to the time of the Byzantine
+Iconoclasm, when Christians fought over what was proper in
+worship and what was idolatry. This is the only section in the
+poem that mentions gold, frankincense and myrrh, the gifts of
+the wise men who followed the star of Bethlehem to worship
+Jesus.
+
+The Beloved (a type of Christ) has eight dialogue sections. All
+of them match negative times: *uproot, tear down, weep, mourn, scatter, throw away, be silent, and war*. 
+These show that Christ is raising up his army, readying it for the final battle.
+
+The word myrrh, symbolizing preparation for death and
+burial, occurs eight times in six sections. These occurrences
+match the worst times of crisis for the Roman Empire: the Fall
+of Rome, Iconoclasm, Photian Controversy of the Filioque,
+Great Schism, the Crusaders’ sack of Constantinople and the Black Plague.
+
+
+<hr/>
+
+Those are all the Celestial Clocks that I can remember. I may have defined a few in *Plague, Precept, Prophet, Peace*.
+If I stumble upon them again I will be sure to expand this article.
+
