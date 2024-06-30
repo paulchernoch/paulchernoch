@@ -21,34 +21,69 @@ Empire Clocks follow a series of empires, each of different longevity. They do n
 of how long each empire will last. In Scripture, empires are symbolized in many ways:
 
   - by name (Egypt, Assyria, Babylon, Greece, Rome, etc)
-  - as beasts (lion, leopard, goat, wolves, eagle, sea serpent, etc)
-  - as metals (gold, silver, bronze, iron)
-  - by military insignia (eagle, boar, moon, stars, etc)
-  - by vegetation (specific tree or flower, like fig tree)
+  - as beasts (lion, bear, leopard, goat, wolves, eagle, sea serpent, etc) like in Daniel 7
+  - as metals (gold, silver, bronze, iron) like in Daniel 2
+  - by military insignia (eagle, boar, moon and stars, etc)
+  - by vegetation (specific tree or bush, like fig tree, olive tree or grapevine) like in Judges 9
 
-The two most common designations seem to be as beasts or metals. A given symbol usually refers to the same empire
-across Bible books, but there are exceptions. The lion and eagle have been the symbols for many empires, so
-additional details from the text are needed to make a proper identification. For example, the eagle can mean Rome,
-Byzantium or the United States. The lion can mean Egypt (as the lion was a symbol of Pharaoh), Babylon or the British Empire.
+The two most common designations seem to be as beasts or metals, each prominently featured in Daniel.
+References to trees and other growing things show up in Judges, like in Jotham's prophecy about the trees of the forest choosing
+a ruler in Judges 9. Each category of symbol captures a different dimension of empire. For example,
+contrast the dignified pride of the lion (Babylon) with the savage efficiency of a pack of wolves (Rome). Rome would ultimately split
+into pieces (the European colonial empires), but those pieces would alternately cooperate or collide, making them deadly.
+So the metal is the glory or splendor of the kingdom, the animal its behavior, and the plant says something about its fruit.
 
-The Bible has prophecies about many empires, but not all appear in prophetic clocks.
+**The Metals**. Understanding the nature of the metals is not something for which you look to Daniel. As with most prophecies, important
+background is given in the Law of Moses. The progression found in Daniel is gold to silver to bronze to iron. That progression
+first shows up in Numbers, concerning the spoils of war:
+
+#### Then Eleazar the priest said to the men in the army
+#### who had gone to battle: “This is the statute of the law 
+#### that the Lord has commanded Moses:
+##### only the **gold**, the **silver**, the **bronze**, the **iron**, 
+##### the tin, and the lead, everything that can stand the fire, 
+##### you shall pass through the fire, and it shall be clean.
+#### Nevertheless, it shall also be purified with the water for impurity.
+#### And whatever cannot stand the fire, you shall pass through the water.
+###### - Numbers 31:21-23
+
+When the Israelites captured spoils, they needed to be purified of the uncleanness 
+of their former owners. Captured items were either to be burned in fire or washed in water.
+If you take the words of Numbers and of Daniel together, the full meaning becomes clear.
+The empires that would claim Israel as spoils of war would one day be conquered by it.
+The fire of purification symbolizes God's judgment of each empire. Defeat will one day be swallowed up in victory.
+However, the judgment against each empire is not utter destruction. Something of value survives the fire.
+Could it be the Gentile Church?
+
+In Daniel's two main lists, by animal and by metal, the progression is from strong to weak (lion to wolf) and precious to common (from gold to iron). The irony is that Rome, represented by the weakest symbols, lasted longest and proved more powerful than the others.
+(Technically, Daniel likens Rome not to wolves but in 7:7 to a beast "terrifying and dreadful and exceedingly strong. It had great iron teeth; it devoured and broke in pieces and stamped what was left with its feet." It is by matching lists of beasts, their sequence and other traits
+as found in the other prophets that we can confidently say that the terrifying beast was "the evening wolves", as in Habakkuk 1:8 and Zephaniah 3:3.) Daniel tells us that there is something different about this terrible beast. It is the only beast whose animal nature and
+metal are blended in the same creature, as iron teeth.
+
+A given symbol usually refers to the same empire across Bible books, but there are exceptions. 
+The lion and eagle have been the symbols for many empires, so additional details from the text 
+are needed to make a proper identification. For example, the eagle can mean Rome,
+Byzantium or the United States. The lion can mean Egypt (as the lion was a symbol of Pharaoh), the tribe of Judah,
+Babylon or the British Empire.
+
+**The Main Sequence**. The Bible has prophecies about many empires, but not all appear in prophetic clocks.
 There seems to be a main sequence of ten empires that appear in many Empire Clocks, stretching
 all the way from Babel to Leviathan, the last empire. The defining feature of these main empires
 is that most captured Jerusalem (as asserted by Ellis Skolfield). The only exceptions
-are Babel, Egypt and Assyria. Babel (possibly the Akkadian Empire) likely held the later location
-of Jerusalem in its territory. Egypt may have held the site of Jerusalem from time to time, but
+are Babel, Egypt and Assyria. Babel (possibly the Akkadian Empire) likely possessed as one of its territories
+the future location of Jerusalem. Egypt may have held the site of Jerusalem from time to time, but
 more importantly held the Hebrews as slaves. As for Assyria, it captured and deported Israel, but merely
 made Judah a tribute-paying vassal.
 
-Most Empire Clocks include a subset of the empires; only one that I have discovered references all ten.
-The illustration at the top of this article shows the first nine, from Babel to Islam. The tenth is Leviathan,
+Most Empire Clocks include a subset of the empires; only one that I have discovered references all ten; it is found in Job.
+The illustration at the top of this article shows the first nine empires, from Babel to Islam. The tenth is Leviathan,
 which along with its companion, Behemoth, has not yet arisen.
 
 Why is it useful to learn about these empires and the symbols used to refer to them? First, they pop up in
 the words of most of the prophets. For example, both Zephaniah (in 3:3) and Ezekiel (in 22:25-27) mention 
 lions and wolves. Since the lion was Babylon (which came first) and the wolves Rome (which came last in Daniel's list),
 that pair collectively refers to all four of Daniel's beasts, thus they refer to all human empires.
-Understanding the animal references thus helps explain the meaning of th text.
+Understanding the animal references helps explain the meaning of the text.
 
 Another reason is to learn humility while also glorifying God. Many people slander Christ and his church
 over the issue of European colonialism. Christians spread the gospel to the ends of the earth while
@@ -176,7 +211,8 @@ the Christian Crusaders, and the British Empire. Since the Islamic forces held i
 other two were ostensibly Christian, hence related to the stone that was cut by divine hands, that tells us that the seventh
 head of the beast was Islam.
 
-In “Timeless?”, the duration of the seventh empire’s occupation of Jerusalem is shown to have been prophesied to
+For a few fascinating details about this clock, read the article [Timeless?](./timeless.html).
+It shows that the duration of the seventh empire’s occupation of Jerusalem was prophesied to
 the exact number of years. Such details cement the idea that the seventh head was Islam.
 
 <hr/>
