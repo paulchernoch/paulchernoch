@@ -306,6 +306,7 @@
           dates: [2024-06-27]
     - title: Spiritual Clocks
     - title: Empire Clocks
+      dates: [2024-07-01]
       parts:
         - title: Timeless?
           named: timeless.md

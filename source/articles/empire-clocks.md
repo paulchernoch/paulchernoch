@@ -13,6 +13,7 @@ To quickly jump to each clock:
     <li> <a href="#1">Dream of a Statue</a> </li>
     <li> <a href="#2">Seven Kingdoms</a> </li>
     <li> <a href="#3">Job's Empire Clock</a> </li>
+    <li> <a href="#4">Habakkuk's Clock</a> </li>
   </ol>
 
 </div>
@@ -274,6 +275,46 @@ magnificent evidence that Job's friends prophesied thousands of years of God's e
   - [The Meaning of the Beasts of Job](./the-meaning-of-the-beasts-of-job.html)
 
 
+<hr/>
 
+<div class="numbered-image">
+  <p id="4" class="numbered-image">4</p>
+  <p><img class="numbered-image" src="images/empires.png" alt="Maps of World Empires" /></p>
+</div>
 
-In progress...
+<hr/>
+
+## Habakkuk's Clock
+
+  - Bible book: Habakkuk
+  - Defined in: *Plague, Precept, Prophet, Peace*
+  - Chapter: Answering Habakkuk
+  - Timespan: 605 BC-1917 AD
+  - Intervals: 5
+  - Period: variable
+
+Habakkuk revisits the same five empires in section after section of his prophecy, each time adding additional details to the picture.
+These are the empires:
+
+  - Babylon
+  - Medo-Persia
+  - Greece (Alexander the Great and successors)
+  - Rome
+  - Islamic Empires
+
+<div class="sections">
+
+Here is the full analysis of Habakkuk:
+
+  <ol>
+    <li> <a href="./habakkuk-part-1.html">Analysis of Habakkuk 1:1-4. Habakkuk puts questions to God.</a> </li>
+    <li> <a href="./habakkuk-part-2.html">Analysis of Habakkuk 1:5-11. God doubles down: the bitter and hasty Chaldeans are coming</a> </li>
+    <li> <a href="./habakkuk-part-3.html">Analysis of Habakkuk 1:12-2:1. Habakkuk complains with three threes about innocent people caught in a cruel net.</a> </li>
+    <li> <a href="./habakkuk-part-4.html">Analysis of Habakkuk 2:2-5. God offers a fourfold assurance to the faithful.</a> </li>
+    <li> <a href="./habakkuk-part-5.html">Analysis of Habakkuk 2:6-20. Five woes are pronounced against lawbreakers.</a> </li>
+    <li> <a href="./habakkuk-part-6.html">Analysis of Habakkuk 3:1-16. Prophecy of God's coming six-ply war against the wicked.</a> </li>
+    <li> <a href="./habakkuk-part-7.html">Analysis of Habakkuk 3:17-19. Six laments over a barren harvest and a seventh praise of God in faith.</a> </li>
+    <li> <a href="./habakkuk-s-war.html">Revisits the sixth section of Habakkuk with a final insight into God's battle plan.</a> </li>
+  </ol>
+
+</div>

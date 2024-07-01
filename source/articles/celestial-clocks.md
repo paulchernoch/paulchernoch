@@ -35,6 +35,7 @@ To quickly jump to each clock:
     <li> <a href="#15">Hannah's Prayer Clock</a> </li>
     <li> <a href="#16">Timothy’s Freedom Clocks</a> </li>
     <li> <a href="#17">Song of Songs Clock</a> </li>
+    <li> <a href="#18">Master Psalm Clock</a> </li>
   </ol>
 
 </div>
@@ -1857,6 +1858,75 @@ match the worst times of crisis for the Roman Empire: the Fall
 of Rome, Iconoclasm, Photian Controversy of the Filioque,
 Great Schism, the Crusaders’ sack of Constantinople and the Black Plague.
 
+
+<hr/>
+
+
+<div class="numbered-image">
+  <p id="18" class="numbered-image">18</p>
+  <p><img class="numbered-image" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" /></p>
+</div>
+
+<hr/>
+
+## Master Psalm Clock
+
+  - Bible book: Psalms
+  - Defined in: *Plague, Precept, Prophet, Peace*
+  - Chapters:
+    - Songs in the Night: Psalms 1-110
+    - Acrostic Clock: Psalms 111 and 112
+    - The Final Ascent: Psalms 113-150
+  - Timespan: 4020 BC-2280 AD
+  - Intervals: 150 (one per Psalm)
+  - Period: 42 years
+
+**Notable facts**:
+
+The Book of Psalms has numerous clocks of various sizes, from a single psalm (Psalm 119) to a pair (Psalms 111 and 112) to seven psalms (the Historical Psalms) to twenty-eight psalms (the Psalms of Growth, that match the Growth Pattern) to this largest clock, which spans the whole
+of the Psalter. It is possible that all 150 psalms contain prophecies, but it appears that not all psalms have prophecies that are part
+of this clock, the Master Psalm Clock. I have found fifty psalms that contain prophecies belonging to this clock. 
+
+For a psalm to belong to this clock it must have a prophecy that is fulfilled in the era that goes with that psalm.
+The era is given by these formulas for the start and end years:
+
+  - start year = -4020 + 42 * (psalm number - 1)
+  - end year = -4020 + 42 * psalm number
+
+These fifty psalms are part of the clock:
+
+1, 17, 23, 24, 33, 37, 40, 43, 44, 45, 46, 47, 52, 57, 63, 68, 71, 72, 73, 78, 82, 84, 87, 89,
+90, 92, 96, 97, 102, 104, 105, 107, 108, 109, 112, 115, 122, 125, 126, 127, 128, 131,
+133, 137, 139, 141, 142, 143, 144, 150
+
+Here is one small taste of the riches hidden in the Psalms:
+
+**Psalm 139: 1776-1818 AD**
+
+#### Where shall I go from your Spirit?
+#### Or where shall I flee from your presence?
+#### If I ascend to heaven, you are there!
+#### If I make my bed in Sheol, you are there!
+#### If I take the wings of the morning
+##### **and dwell in the uttermost parts of the sea**,
+#### even there your hand shall lead me,
+##### and your right hand shall hold me.
+###### - Psalm 139:7-10
+
+Right after the founding of the United States, William Carey in 1791 posed a question to the church,
+First in a meeting of ministers and later in a pamphlet titled 
+*An Enquiry into the Obligations of Christians to Use Means for the Conversion of the Heathens*. 
+Carey asked:
+
+#### “whether or not it was possible for, as well as the duty of, 
+#### the Christian to preach the gospel among the unreached nations.”
+
+Carey answered the question with his own life, serving as a missionary in India and translating the Bible into 
+Bengali, Oriya, Marathi, Hindi, Assamese, and Sanskrit. By his bold challenge and example, tens of
+thousands of Christians, men and women, soon entered the mission field and spread across the globe.
+Combine this with the British Empire’s turn towards abolishing the slave trade worldwide and you can see that the
+church had entered an exciting era. The gospel was spread *“to the uttermost parts of the sea”*. 
+This was no mere poetic flourish but a solid truth. The Lord did it, and it is marvelous in our sight.
 
 <hr/>
 
