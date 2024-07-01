@@ -4,6 +4,10 @@ quote: But about that day or hour no one knows, <br/> not even the angels in hea
 ---
 <img class="center" src="images/leopard-bear-lion.png" />
 
+This article originally appeared as a chapter in my book *Peace, like Solomon Never Knew*. 
+
+<hr/>
+
 Ruined cities helped us sort out the lengths of the
 seven church ages in a quantitative way, but
 ruinous empires can only help us sort secular

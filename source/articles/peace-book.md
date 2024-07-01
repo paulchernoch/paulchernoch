@@ -64,7 +64,7 @@ a short excerpt of that chapter.
   - Winding the Clock
   - Day of Rest: Job 3
   - Seven Churches for Seven Eras
-  - Timeless?
+  - [Timeless?](./timeless.html)
   - Let’s Synchronize Our Watches
   - [Psalm 119: The Shepherd’s Clock](./psalm-119.html)
   - Solomon’s Celestial Clock
@@ -102,7 +102,7 @@ a short excerpt of that chapter.
   - Appendix B: Index of Prophetic Clocks
   - Appendix C: A Time for Israel
   - [Appendix D: To Number our Psalms](./psalm-102.md) - Only Part of Appendix is reproduced.
-  - [Appendix E: The Plan of Proverbs](./proverbs-1-to-3.html)  
+  - [Appendix E: The Plan of Proverbs](./proverbs-1-to-3.html) 
   - Appendix F: Job Keeps Perfect Time
   - Appendix G: A Prophetic Song of Songs
   - Appendix H: Clues to the Seven Pillars
