@@ -2,6 +2,7 @@
 title: 5 is for Grace
 quote: "But Noah found favor in the eyes of the Lord."<br/> - Genesis 6:8
 ---
+<img class="center" src="images/grace-blocks.png" alt="Five toy blocks spelling GRACE"/>
 
 The number five is the reason I wrote the practical sections of *Peace, like Solomon Never Knew*. Opinion on the web is that five has to do with grace. Agreed, but is there more to grace’s “five-ness” than that? There is. First I saw it in Job. Then I saw it in Jesus’ temptation in the desert. Then in his parable of the soils. Then I searched my heart and life and five was present everywhere the Lord was at work, in all the teaching, healing, and miracles he did. This week, to make sure I wasn’t overreaching, I dove into Numbers and Deuteronomy to see if the five books of the Pentateuch correspond – in order – to the five distinct steps God takes as He applies that grace to a believer’s soul.
 
