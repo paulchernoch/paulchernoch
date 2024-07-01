@@ -2,6 +2,7 @@
 title: 2 is for Jesus
 quote: "I will tell of the decree:<br/>The Lord said to me, 'You are my Son; <br/>Today I have begotten you.'"<br/> - Proverbs 2:7
 ---
+<img class="center" src="images/smashing-pottery.png" alt="Man with rod dashing to pieces a potter's vessel"/>
 
 The number two points to Jesus Christ. He is called the Word of God, and it was given in two parts, the Old and New Testaments. 
 
