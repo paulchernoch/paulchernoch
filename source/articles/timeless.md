@@ -339,52 +339,59 @@ and Turkey.
 **Jeremiah & Lamentations**. Some of those animals
 appear elsewhere:
 
-A lion has come out of his lair;
-a destroyer of nations has set out.
-He has left his place
-to lay waste your land.
-Your towns will lie in ruins
-without inhabitant. (Jeremiah 4:7, NIV)
+#### A **lion** has come out of his lair;
+##### a destroyer of nations has set out.
+#### He has left his place
+##### to lay waste your land.
+#### Your towns will lie in ruins
+##### without inhabitant.
+###### - Jeremiah 4:7, NIV
 
-Therefore a lion from the forest will attack them,
-a wolf from the desert will ravage them,
-a leopard will lie in wait near their towns
-to tear to pieces any who venture out,
-for their rebellion is great
-and their backslidings many. (Jeremiah 5:6, NIV)
+#### Therefore a **lion** from the forest will attack them,
+##### a **wolf** from the desert will ravage them,
+#### a **leopard** will lie in wait near their towns
+##### to tear to pieces any who venture out,
+#### for their rebellion is great
+##### and their backslidings many.
+###### - Jeremiah 5:6, NIV
 
 The main difference above is the substitution of a wolf for
 the bear. But Jeremiah in Lamentations writes this:
 
-Like a bear lying in wait,
-like a lion in hiding,
-he dragged me from the path and mangled me
-and left me without help.
-He drew his bow
-and made me the target for his arrows.
-He pierced my heart
-with arrows from his quiver. (Lamentations 3:10-13)
+#### Like a **bear** lying in wait,
+##### like a **lion** in hiding,
+#### he dragged me from the path and mangled me
+##### and left me without help.
+#### He drew his bow
+##### and made me the target for his **arrows**.
+#### He pierced my heart
+##### with **arrows** from his quiver.
+###### - Lamentations 3:10-13
 
 The mention of arrows matches Job 20, and here the
 missing bear is present, along with the lion.
 
 **Hosea**. The trio of animals makes another appearance:
 
-So I will be like a lion to them,
-like a leopard I will lurk by the path.
-Like a bear robbed of her cubs,
-I will attack them and rip them open;
-like a lion I will devour them—
-a wild animal will tear them apart. (Hosea 13:7-8)
+#### So I will be like a **lion** to them,
+##### like a **leopard** I will lurk by the path.
+#### Like a **bear** robbed of her cubs,
+##### I will attack them and rip them open;
+#### like a lion I will devour them—
+##### a wild animal will tear them apart.
+###### - Hosea 13:7-8
 
 **Isaiah**. In Isaiah, we see lion, bear, leopard and wolf:
-The wolf will live with the lamb,
-the leopard will lie down with the goat,
-the calf and the lion and the yearling together;
-and a little child will lead them.
-The cow will feed with the bear,
-their young will lie down together,
-and the lion will eat straw like the ox. (Isaiah 11:6-7)
+
+#### The **wolf** will live with the **lamb**,
+##### the **leopard** will lie down with the **goat**,
+#### the calf and the **lion** and the yearling together;
+##### and a little child will lead them.
+#### The cow will feed with the **bear**,
+##### their young will lie down together,
+#### and the **lion** will eat straw
+##### like the ox.
+###### - Isaiah 11:6-7
 
 Unlike all the other Scripture cited, this passage is
 hopeful. It also has goats and lambs; a ram is an adult male
@@ -396,30 +403,35 @@ wolf fit in?
 would soon be on its way to destroy Israel. Again with the
 animals:
 
-Their horses are swifter than leopards,
-fiercer than wolves at dusk.
-Their cavalry gallops headlong;
-their horsemen come from afar.
-They fly like an eagle swooping to devour; (Habakkuk 1:8, NIV)
+#### Their horses are swifter than **leopards**,
+##### fiercer than **wolves at dusk**.
+#### Their cavalry gallops headlong;
+##### their horsemen come from afar.
+#### They fly like an **eagle** swooping to devour;
+###### - Habakkuk 1:8, NIV
 
 What’s with the eagle? Daniel described Babylon’s beast
 as more than a lion:
 
-“The first was like a lion, and it had the wings of an eagle. I
-watched until its wings were torn of and it was lifted from the
-ground so that it stood on two feet like a human being, and the mind
-of a human was given to it. (Daniel 7:4, NIV)
+#### “The first was like a **lion**, and it had the **wings of an eagle**. 
+#### I watched until its **wings were torn off** and it was lifted
+#### from the ground so that it stood on two feet like a
+#### human being, and the mind of a human was given to it.
+###### - Daniel 7:4, NIV
 
 So Habakkuk identifies three of these four creatures,
 including the wolf, but not the bear. Daniel listed four
 beasts, but the fourth was not compared to an identifiable
 creature:
 
-“After that, in my vision at night I looked, and there before me was a
-fourth beast—terrifying and frightening and very powerful. It had
-large iron teeth; it crushed and devoured its victims and trampled
-underfoot whatever was left. It was different from all the former
-beasts, and it had ten horns. (Daniel 7:7, NIV)
+#### “After that, in my vision at night I looked,
+#### and there before me was a fourth beast—
+#### terrifying and frightening and very powerful. 
+#### It had large **iron** teeth; it crushed and devoured
+#### its victims and trampled underfoot whatever was left.
+#### It was different from all the former beasts, 
+#### and it had **ten horns**.
+###### - Daniel 7:7, NIV
 
 This associates the metal iron with the fourth beast, as
 well as the ten horns. What would make it terrifying? We
@@ -441,10 +453,11 @@ been part of that.
 **Zephaniah**. This prophet includes a detail that
 reinforces the idea that Rome is the wolf:
 
-Her officials within her
-are roaring lions;
-her rulers are evening wolves,
-who leave nothing for the morning. (Zephaniah 3:3, NIV)
+#### Her officials within her
+##### are roaring **lions**;
+#### her rulers are **evening wolves**,
+##### who leave nothing for the morning.
+###### - Zephaniah 3:3, NIV
 
 While lions normally hunt at night, they often hunt at
 dawn. This passage emphasizes that the wolves hunt in the
@@ -456,19 +469,21 @@ was the last, coming in the evening.
 **Ezekiel**. Chapter 22 of Ezekiel references both metals
 and animals. First, he tells the people they are worthless:
 
-“Son of man, the people of Israel have become dross to me; all of
-them are the copper, tin, iron and lead left inside a furnace. They
-are but the dross of silver. (Ezekiel 22:18, NIV)
+#### “Son of man, the people of Israel have become dross to me;
+#### all of them are the **copper, tin, iron and lead** left inside
+#### a furnace. They are but the dross of **silver**.
+###### - Ezekiel 22:18, NIV
 
 Remember the progression in Daniel? Gold, silver,
 bronze then iron. Here we have the silver and iron. Bronze
 is an alloy of copper and tin. Lastly, lead is the metal that
 alchemists tried to transmute into gold. As for the animals:
 
-There is a conspiracy of her princes within her like a roaring lion
-tearing its prey; they devour people... Her officials within her are like
-wolves tearing their prey; they shed blood and kill people to make
-unjust gain. (Ezekiel 22:25-27, NIV)
+#### There is a conspiracy of her princes within her
+#### like a roaring **lion** tearing its prey; they devour people... 
+#### Her officials within her are like **wolves** tearing their prey;
+#### they shed blood and kill people to make unjust gain.
+###### - Ezekiel 22:25-27, NIV
 
 Again, this prophet begins with the lion and ends with
 the wolves. Note the trend. Mentions of lions, leopards and
@@ -483,8 +498,10 @@ and priests, but other times external enemies. Jesus and
 Paul uniformly affiliate wolves with heretics and false
 believers who will destroy the church.
 
-“Watch out for false prophets. They come to you in sheep’s clothing,
-but inwardly they are ferocious wolves. (Matthew 7:15, NIV)
+#### “Watch out for false prophets. 
+#### They come to you in sheep’s clothing, 
+#### but inwardly they are ferocious **wolves**.
+###### - Matthew 7:15, NIV
 
 If we take all this together, then the final beasts of
 Revelation come into focus. The lion, bear and leopard are
@@ -492,8 +509,9 @@ the external foes of the church, finally united. The wolves,
 that terrible beast, are the empire that looks Christian but
 isn’t:
 
-Then I saw a second beast, coming out of the earth. It had two horns
-like a lamb, but it spoke like a dragon. (Revelation 13:11, NIV)
+#### Then I saw a second beast, coming out of the earth.
+#### It had two horns **like a lamb**, but it spoke like a dragon.
+###### - Revelation 13:11, NIV
 
 This beast from the earth, Behemoth, is the ultimate
 example of the wolf in sheep’s clothing.
@@ -526,18 +544,22 @@ beast was also given, though the calculation is tricky. Daniel
 sets the conundrum up for us, and Revelation adds to the
 confusion:
 
-“He gave me this explanation: ‘The fourth beast is a fourth kingdom
-that will appear on earth. It will be different from all the other
-kingdoms and will devour the whole earth, trampling it down and
-crushing it. The ten horns are ten kings who will come from this
-kingdom. After them another king will arise, different from the
-earlier ones; he will subdue three kings. He will speak against the
-Most High and oppress his holy people and try to change the set
-times and the laws. The holy people will be delivered into his hands
-for a time, times and half a time. (Daniel 7:23-25)
+#### “He gave me this explanation:
+##### ‘The fourth beast is a fourth kingdom that will appear on earth.
+##### It will be different from all the other kingdoms and will
+##### devour the whole earth, trampling it down and crushing it.
+##### The ten horns are ten kings who will come from this kingdom.
+##### **After them another king will arise**, different from the
+##### earlier ones; **he will subdue three kings**. He will speak
+##### against the Most High and oppress his holy people and try
+##### to change the set times and the laws. The holy people will
+##### be delivered into his hands for **a time, times and half a time**.
+###### - Daniel 7:23-25
 
-The beast I saw resembled a leopard, but had feet like those of a
-bear and a mouth like that of a lion... (Revelation 13:2)
+#### The beast I saw resembled a **leopard**,
+#### but had feet like those of a **bear** 
+#### and a mouth like that of a **lion**...
+###### - Revelation 13:2
 
 The first problem concerns when the fifth king will arrive
 relative to the fourth beast (Rome). Some believe it comes
@@ -619,7 +641,9 @@ calendar where years have 360 days, not 365.25 days. To
 get the number of prophetic years, we multiply by a scale
 factor:
 
-1,230 · (365.25 / 360) → 1,248
+<div class="pullquote-centered">
+  <p>1,230 · (365.25 / 360) → 1,248</p>
+</div>
 
 to get 1,248 prophetic years. How do we get that out of “a
 time, times and half a time”? What if the first “time” is still
@@ -639,9 +663,11 @@ Jerusalem changed hands. 1,250 years is a lot longer than
 3.5. Does Daniel say anything that would help us decide
 between the two? Yes, he does.
 
-“This is the end of the matter. I, Daniel, was deeply troubled by my
-thoughts, and my face turned pale, but I kept the matter to
-myself.” (Daniel 7:28, NIV)
+#### “This is the end of the matter.
+#### I, Daniel, was deeply troubled by my thoughts, 
+#### and **my face turned pale**,
+#### but **I kept the matter to myself**.”
+###### - Daniel 7:28, NIV
 
 Daniel had already endured years of captivity and
 absorbed Jeremiah’s prophecy that it would last seventy in
@@ -717,10 +743,11 @@ good and partly evil, partly Christian and partly worldly.
 
 Those empires had a mission: destroy every nation.
 
-The LORD is angry with all nations;
-his wrath is on all their armies.
-He will totally destroy them,
-he will give them over to slaughter. (Isaiah 34:2, NIV)
+#### The LORD is angry with all nations;
+##### his wrath is on all their armies.
+#### He will totally destroy them,
+##### he will give them over to slaughter.
+###### - Isaiah 34:2, NIV
 
 In the Old Testament, God used wicked pagan empires to
 judge Israel, but after the judgment was complete, God
