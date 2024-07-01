@@ -1,5 +1,6 @@
 ---
 title: Timeless?
+quote: But about that day or hour no one knows, <br/> not even the angels in heaven, <br/> nor the Son, <br/> but only the Father. - Mark 13:32
 ---
 Ruined cities helped us sort out the lengths of the
 seven church ages in a quantitative way, but
