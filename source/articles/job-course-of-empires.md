@@ -126,7 +126,8 @@ into detail about what qualifies a kingdom to be a beast in John’s list. It wa
 Jerusalem. The first seven of his beasts all conquered Jerusalem, with one exception:
 Assyria. Assyria did conquer all of the Northern Kingdom of Israel but merely extorted
 tribute from Judah, which held Jerusalem. This rule about Jerusalem was emphasized by
-the Bible scholar Ellis Skolfield. [23]
+the Bible scholar Ellis Skolfield in his *2014 Teaching Outline on Daniel & Revelation*, Fish House
+Ministries, 2014.
 
 Revelation focuses our attention on God’s heavenly altar, temple, and throne. Jerusalem
 is the analogous earthly copy of that altar, temple and throne. Based on this criteria, we
@@ -245,9 +246,9 @@ Enoch who would be translated to heaven for walking closely with God). Enoch mea
 “dedicated” and Cain dedicated the city that he built - the first city in the world - to
 his son. He magnified his name, not the Lord’s.
 
-*Third generation (Seth’s line)*. The time of the third generation is special, for Scripture
-says, “To Seth also a son was born, and he called his name Enosh. At that time people began to
-call upon the name of the Lord.” When these people began to call on God’s name, did
+*Third generation (Seth’s line)*. The time of the third generation is special, for Scripture says,
+*“To Seth also a son was born, and he called his name Enosh. At that time people began to call upon the name of the Lord.”* 
+When these people began to call on God’s name, did
 they use His Name in reverent humility or misuse it for vain, selfish purposes? We
 don’t know. All we do know is that this is when people first began to use God’s name.
 
@@ -284,11 +285,10 @@ brother.
 Cain’s line, however, offers a perverse way to honor its fathers. The wicked Lamech is
 seventh in line from Adam, and he was a repeat offender of commandments. He
 honors his ancestor Cain for being a murderer by celebrating his own murder of a man
-who offended him by saying, “I have killed a man for wounding me, a young man for
-striking me. If Cain's revenge is sevenfold, then Lamech's is seventy-sevenfold.” Repeating the
-sins of our fathers is no way to honor them. As we shall see, Lamech honors his father
-corruptly (fifth commandment), commits murder (sixth commandment), and adultery
-(seventh commandment).
+who offended him by saying,
+*“I have killed a man for wounding me, a young man for striking me. If Cain's revenge is sevenfold, then Lamech's is seventy-sevenfold.”*
+Repeating the sins of our fathers is no way to honor them. As we shall see, Lamech honors his father
+corruptly (fifth commandment), commits murder (sixth commandment), and adultery (seventh commandment).
 
 *Fifth generation (Seth’s line)*. In the fifth Sethite generation we meet Mahalalel. His name
 means mighty rising, glory of brightness, mighty exaltation, raise a joyous shout
@@ -297,7 +297,7 @@ generation in which “El” appears in a person’s name, honoring God.
 
 *Fifth chapter*. The blessing for honoring your father and your mother is to enjoy peace
 and long life in the land. This chapter offers an alternative blessing: rapture.
-“Enoch walked with God, and he was not, for God took him.” (Genesis 5:24) Enoch was
+*“Enoch walked with God, and he was not, for God took him.”* (Genesis 5:24) Enoch was
 carried into heaven as a reward for walking with God. The greatest way to honor
 someone is to walk with them in harmony of purpose and action.
 Genesis 5 (in the ESV) uses the word “fathered” nineteen times, most of any chapter in
@@ -319,8 +319,8 @@ Lamech became a vengeful murderer, Enoch walked with God.
 
 *Sixth chapter*. The early chapters of Genesis twice mention specific murders (Cain of
 Abel and Lamech of an unknown man) and once the general trend towards a
-murderous society. Genesis 6:11 says, “Now the earth was corrupt in God's sight, and the
-earth was filled with violence.”
+murderous society. Genesis 6:11 says, 
+*“Now the earth was corrupt in God's sight, and the earth was filled with **violence**.”*
 
 **Seven. No adultery**.
 
@@ -332,15 +332,20 @@ Scripture.
 Lamech’s case, the other meaning of adultery is mixing false religion with true. Enoch
 remained pure and walked with God. His is an example of an unadulterated life.
 
-*Seventh chapter*. Genesis 6 introduces adultery in general, saying, “When man began to
-multiply on the face of the land and daughters were born to them, the sons of God saw that the
-daughters of man were attractive. And they took as their wives any they chose.” Some people
-believe that this means that fallen angels (sons of God) mated with women, while
+*Seventh chapter*. Genesis 6 introduces adultery in general, saying,
+
+#### “When man began to multiply on the face of the land
+#### and daughters were born to them, the sons of God saw
+#### that the daughters of man were attractive. 
+#### And they took as their wives any they chose.”
+###### - Genesis 6
+
+Some people believe that this means that fallen angels (sons of God) mated with women, while
 others believe this indicates intermarriage between the lines of Seth and Cain, which
 adulterated the good morals of Seth’s descendants. The latter seems more likely, if we
-take chapter 7 into account. In the story of the ark it says, “Take with you seven pairs of
-all clean animals, the male and his mate, and a pair of the animals that are not clean, the male
-and his mate…” Noah is being taught not just about animals, but also the necessity of
+take chapter 7 into account. In the story of the ark it says,
+*“Take with you seven pairs of all clean animals, the male and his mate, and a pair of the animals that are not clean, the male and his mate…” *
+Noah is being taught not just about animals, but also the necessity of
 keeping the unclean and clean animals apart. Clean animals have a clean mate, and
 unclean an unclean mate.
 
@@ -350,10 +355,18 @@ uncleanness of the world away.
 **Eight. No theft**.
 
 *Eighth generation (Cain’s line)*. We learn the names of four of Lamech’s children in
-Genesis 4:20-22. “Adah bore Jabal; he was the father of those who dwell in tents and have
-livestock. His brother's name was Jubal; he was the father of all those who play the lyre and
-pipe. Zillah also bore Tubal-cain; he was the forger of all instruments of bronze and iron. The
-sister of Tubal-cain was Naamah.” We learn of their ingenuity at creating material wealth.
+Genesis 4:
+
+#### “Adah bore Jabal; he was the father of those
+#### who dwell in tents and have livestock.
+#### His brother's name was Jubal; he was the father
+#### of all those who play the lyre and pipe.
+#### Zillah also bore Tubal-cain; he was the forger of
+#### all instruments of bronze and iron. 
+#### The sister of Tubal-cain was Naamah.” 
+###### - Genesis 4:20-22
+
+We learn of their ingenuity at creating material wealth.
 There is no theft without property to steal. This passage describes the beginning of the
 acquisition of wealth through industry and hard work. Since their father was a violent
 man, one must wonder. Were the conditions that enabled these sons of Lamech to
@@ -373,21 +386,19 @@ thus gives Noah the whole earth as his possession.
 
 *Ninth generation (Cain’s line)*. We do not learn anything about the ninth generation
 along Cain’s branch of mankind’s family tree. We learn in Genesis 6 of the
-intermarriage between Cain’s family and Seth’s. Genesis 6:5 says, “The Lord saw that the
-wickedness of man was great in the earth, and that every intention of the thoughts of his heart
-was only evil continually.” It is no stretch to assume that this includes lying.
+intermarriage between Cain’s family and Seth’s. Genesis 6:5 says,
+*“The Lord saw that the wickedness of man was great in the earth, and that every intention of the thoughts of his heart was only evil continually.”* 
+It is no stretch to assume that this includes lying.
 
 *Ninth generation (Seth’s line)*. On Seth’s side, we meet righteous Lamech, counterpart to
 the wicked man on Cain’s side. In Genesis 5:28-29, we learn one fact about this
-Lamech. “When Lamech had lived 182 years, he fathered a son and called his name Noah,
-saying, ‘Out of the ground that the Lord has cursed, this one shall bring us relief from our work
-and from the painful toil of our hands.’ ” Lamech was a prophet and he spoke truly. He
-bore true witness to the salvation of God.
+Lamech. *“When Lamech had lived 182 years, he fathered a son and called his name Noah, saying, ‘Out of the ground that the Lord has cursed, this one shall bring us relief from our work and from the painful toil of our hands.’ ”*
+Lamech was a prophet and he spoke truly. He bore true witness to the salvation of God.
 
 *Ninth chapter*. In Genesis 9, two people speak: God and Noah. God makes a solemn,
-generous and forgiving covenant not to destroy the earth again by flood. “I have set my
-bow in the cloud, and it shall be a sign of the covenant between me and the earth.” That
-promise speaks to me still, every time I see a rainbow. That rainbow is a true witness of
+generous and forgiving covenant not to destroy the earth again by flood.
+*“I have set my bow in the cloud, and it shall be a sign of the covenant between me and the earth.”* 
+That promise speaks to me still, every time I see a rainbow. That rainbow is a true witness of
 God’s mercy.
 
 When Noah speaks, we get the opposite. His son makes fun of his drunken nakedness
@@ -398,20 +409,18 @@ witness to God’s character.
 **Ten. No coveting**.
 
 *Tenth generation (Cain’s line)*. The final assessment of Cain’s descendants was to describe
-their covetousness. “When man began to multiply on the face of the land and daughters were
-born to them, the sons of God saw that the daughters of man were attractive. And they
-took as their wives any they chose.” (Genesis 6:1-2)
+their covetousness. 
+*“When man began to multiply on the face of the land and daughters were born to them, the sons of God saw that the daughters of man were attractive. And they took as their wives any they chose.”* (Genesis 6:1-2)
 
 *Tenth generation (Seth’s line)*. The tenth in line via Seth was Noah. We can assume that
-covetousness was not the mark of this man, for God said, “I have seen that you are
-righteous before me in this generation.” (Genesis 7:1)
+covetousness was not the mark of this man, for God said, 
+*“I have seen that you are righteous before me in this generation.”* (Genesis 7:1)
 
 *Tenth chapter*. Genesis 10 unpacks an unending legacy of covetousness. Nimrod
 conquers his kingdom and in the next chapter builds Babel, a testament to mankind’s
-continuing covetous desire to become equal with God. “Come, let us build ourselves a city
-and a tower with its top in the heavens, and let us make a name for ourselves, lest we be
-dispersed over the face of the whole earth.” (Genesis 11:4.) Back in the tenth chapter,
-though, we learn of the origination of many peoples who would elevate covetousness
+continuing covetous desire to become equal with God.
+*“Come, let us build ourselves a city and a tower with its top in the heavens, and let us make a name for ourselves, lest we be dispersed over the face of the whole earth.”* (Genesis 11:4.) 
+Back in the tenth chapter, though, we learn of the origination of many peoples who would elevate covetousness
 to a new level: the Amorites and the people of Sodom and Gomorrah, who would one
 day covet for debased purposes even the angels visiting Lot.
 
@@ -458,8 +467,8 @@ and reverse the wickedness that burst into the world.
 
 Unbelievers shake their head at the idea that eating one piece of fruit should provoke
 such a severe response by God. Now it is obvious that James was not exaggerating when he
-said, “For whoever keeps the whole law but fails in one point has become guilty of all of it.” (James
-2:10) The ripple effects of Eve’s sin rapidly shredded every commandment. The
+said, *“For whoever keeps the whole law but fails in one point has become guilty of all of it.”* (James 2:10) 
+The ripple effects of Eve’s sin rapidly shredded every commandment. The
 commandments were broken that day and every day up until the flood. After the flood, sin
 resumed and continues up to the present day.
 
@@ -467,11 +476,16 @@ resumed and continues up to the present day.
 
 Thanks to our Lord, we have a record of the world’s first empire in the Bible.
 
-Cush fathered Nimrod; he was the first on earth to be a mighty man. He was a mighty hunter before
-the Lord. Therefore it is said, “Like Nimrod a mighty hunter before the Lord.” The beginning of his
-kingdom was Babel, Erech, Accad, and Calneh, in the land of Shinar. From that land he went into
-Assyria and built Nineveh, Rehoboth-Ir, Calah, and Resen between Nineveh and Calah; that is the great
-city. (Genesis 10:8-12, ESV)
+#### Cush fathered Nimrod; he was **the first on earth to be**
+#### **a mighty man**. He was a mighty hunter before the Lord. 
+#### Therefore it is said,
+##### “Like Nimrod a mighty hunter before the Lord.”
+#### The beginning of his kingdom was Babel, Erech, Accad,
+#### and Calneh, in the land of Shinar. From that land 
+#### he went into Assyria and built Nineveh, Rehoboth-Ir, 
+#### Calah, and Resen between Nineveh and Calah; 
+#### that is the great city.
+###### - Genesis 10:8-12, ESV
 
 Nimrod subdued both nature (hunting wild animals) and humanity. Here is the irony.
 The man who subdued the literal beasts threatening human safety built the first empire,
@@ -483,10 +497,11 @@ Following the flood, God decreed capital punishment for murder (in Genesis 9:5-6
 edict established human government and was an important measure for restraining
 lawlessness. It also enabled further rebellion.
 
+<em>
 And as people migrated from the east, they found a plain in the land of Shinar and settled there. And they
 said to one another, “Come, let us make bricks, and burn them thoroughly.” And they had brick for stone,
 and bitumen for mortar. Then they said, “Come, let us build ourselves a city and a tower with its top in
-the heavens, and let us make a name for ourselves, lest we be dispersed over the face of the whole
+the heavens, and <strong>let us make a name for ourselves</strong>, lest we be dispersed over the face of the whole
 earth.” And the Lord came down to see the city and the tower, which the children of man had built. And
 the Lord said, “Behold, they are one people, and they have all one language, and this is only the beginning
 of what they will do. And nothing that they propose to do will now be impossible for them. Come, let us
@@ -494,6 +509,7 @@ go down and there confuse their language, so that they may not understand one an
 Lord dispersed them from there over the face of all the earth, and they left off building the city. Therefore its
 name was called Babel, because there the Lord confused the language of all the earth. And from there the
 Lord dispersed them over the face of all the earth. (Genesis 11:2-9, ESV)
+</em>
 
 Genesis 4:6 noted when people first began to call on the name of the Lord for help. Now
 people were trying to make a name for themselves, instead of glorifying the name of God.
@@ -517,79 +533,82 @@ the breath of God they perish, and by the blast of his anger they are consumed.�
 breath calls to mind the wind that parted the Red Sea, saving Israel but consuming
 Pharaoh’s chariots. Prophetically, this passage also declares the fate of lions in Egypt:
 
-The roar of the lion, the voice of the fierce lion,
-the teeth of the young lions are broken.
-The strong lion perishes for lack of prey,
-and the cubs of the lioness are scattered. (Job 4:10-11)
+#### The roar of the lion, the voice of the fierce lion,
+##### the teeth of the young lions are broken.
+#### The strong lion perishes for lack of prey,
+##### and the cubs of the lioness are scattered.
+###### - Job 4:10-11
 
 The lion was a symbol of Pharaoh as well as the sun god. As the climate of Egypt
 became more arid, the lions in Egypt eventually died out or migrated south, until none
 remained in Egypt, within a couple centuries of this prophecy. And what shook the power
 of Pharaoh? Compare the words of Eliphaz in Job with those of Exodus:
 
-He performs **wonders** that cannot be fathomed,
-miracles that cannot be counted. 
-(Job 5:9, NIV)
+#### He performs **wonders** that cannot be fathomed,
+##### miracles that cannot be counted. 
+###### - Job 5:9, NIV
 
-So I will stretch out my hand and strike the Egyptians
-with all the **wonders** that I will perform among
-them. After that, he will let you go. 
-(Exodus 3:20, NIV)
+#### So I will stretch out my hand and strike the Egyptians
+#### with all the **wonders** that I will perform among them.
+#### After that, he will let you go. 
+###### - Exodus 3:20, NIV
 
 Eliphaz not only announces the wonders collectively, he makes allusion to several of
 them. A connection to the plague on the firstborn is found in this verse:
 
-His children are far from safety;
-they are crushed in the gate,
-and there is no one to deliver them.
-(Job 5:4)
+#### His children are far from safety;
+##### they are crushed in the gate,
+###### and there is no one to deliver them.
+###### - Job 5:4
 
 Ironically, the plague of gnats, which God caused to arise from the dust, makes a lie of
-Eliphaz’s next aphorism: “For affliction does not come from the dust, nor does trouble sprout from
-the ground…” (Job 5:6, ESV)
+Eliphaz’s next aphorism:
+*“For affliction does not come from the dust, nor does trouble sprout from the ground…”* (Job 5:6, ESV)
 
 The Egyptians suffered a plague on their cattle, but not the Hebrews:
 
-You shall know that your tent is at peace,
-and you shall inspect your fold and miss nothing.
-(Job 5:24)
+#### You shall know that your tent is at peace,
+##### and you shall inspect your fold and miss nothing.
+###### - Job 5:24
 
 As for the plague of darkness, we finds its mention, too:
 
-They meet with darkness in the daytime
-and grope at noonday as in the night.
-But he saves the needy from the sword of their mouth
-and from the hand of the mighty. (Job 5:14-15, ESV)
+#### They meet with **darkness in the daytime**
+##### and grope at noonday as in the night.
+#### But he saves the needy from the sword of their mouth
+##### and from the hand of the mighty.
+###### - Job 5:14-15, ESV
 
 All these plagues came because Egypt forgot Joseph and Joseph’s God, who saved them
 from an earlier famine:
 
-In famine he will redeem you from death,
-and in war from the power of the sword.
-(Job 5:20, ESV)
+#### In famine he will redeem you from death,
+##### and in war from the power of the sword.
+###### - Job 5:20, ESV
 
 The skeptic may argue that some of the plagues against Egypt are not mentioned in Job
 4 & 5, so the connection between them is accidental, not intended. Eliphaz gives us this
-clue that refutes such an argument: “He will deliver you from six troubles; in seven no evil shall
-touch you.” (Job 5:19) Moses executed ten plagues again Egypt. The Hebrew people were
+clue that refutes such an argument:
+*“He will deliver you from six troubles; in seven no evil shall touch you.”* (Job 5:19) 
+Moses executed ten plagues again Egypt. The Hebrew people were
 forced to endure the first three plagues along with the Egyptians, but not the last seven.
-Starting with the fourth plague, a distinction was made. As it is written, “But on that day I
-will set apart the land of Goshen, where my people dwell, so that no swarms of flies shall be there, that
-you may know that I am the Lord in the midst of the earth.” (Exodus 8:22) Thus the Book of
-Job even spells out from how many plagues against Egypt the Hebrew people would be
-spared.
+Starting with the fourth plague, a distinction was made. As it is written,
+*“But on that day I will set apart the land of Goshen, where my people dwell, so that no swarms of flies shall be there, that you may know that I am the Lord in the midst of the earth.”* (Exodus 8:22) 
+Thus the Book of Job even spells out from how many plagues against Egypt the Hebrew people would be spared.
 
 If there be any hesitation to believe that this is a cryptic reference to the liberation of the
 Hebrew slaves from Egypt, there is this promise of being freed from fearing the lash:
 
-You shall be hidden from the lash of the tongue,
-and shall not fear destruction when it comes. (Job 5:21)
+#### You shall be hidden from the **lash** of the tongue,
+##### and shall not fear destruction when it comes.
+###### - Job 5:21
 
 Finally, lest there be any doubt that the book of Job offers systematic advice regarding all
 the beastly empires to arise throughout history, Eliphaz has this to say:
 
-At destruction and famine you shall laugh,
-and shall not fear the beasts of the earth. (Job 5:22)
+#### At destruction and famine you shall laugh,
+##### and shall not fear the beasts of the earth.
+###### - Job 5:22
 
 ## Israel / Judah
 
@@ -597,41 +616,42 @@ Advancing to Bildad’s speech in Job 8, what can we learn about Israel’s desc
 beast-hood? The most direct word concerns Israel enduring times of oppression and
 restoration:
 
-If your children have sinned against him,
-he has delivered them
-into the hand of their transgression.
-If you will seek God
-and plead with the Almighty for mercy,
-if you are pure and upright,
-surely then he will rouse himself for you
-and restore your rightful habitation. (Job 8:4-6)
+#### If your children have sinned against him,
+##### he has delivered them
+###### into the hand of their transgression.
+#### If you will seek God
+##### and plead with the Almighty for mercy,
+#### if you are pure and upright,
+##### surely then he will rouse himself for you
+###### and **restore your rightful habitation**.
+###### - Job 8:4-6
 
 The previous verses could refer to periods of oppression either during the time of the
 Judges or the later Assyrian Captivity and Babylonian Exile. What sets them in context is
 the next verse:
 
-And though your beginning was small,
-your latter days will be very great. (Job 8:7)
+#### And though your beginning was small,
+##### your latter days will be very great.
+###### - Job 8:7
 
 Verse 7 most directly refers to the reigns of David and Solomon, the days of Israel’s
 greatness. If so, that sits this section during the time of the Judges. However, it may also
 speak of the future, when modern Israel attains a greatness that exceeds what it enjoyed
 during the days of Solomon.
 
-Another verse that establishes the time is here: “Can papyrus grow where there is no marsh?
-Can reeds flourish where there is no water?” (Job 8:11, ESV) The days when Ruth lived fell in
-the middle of the Great Drought, which ended the Bronze Age and shattered many
-empires. According to climatologists, that fifty-year drought was the worst in recorded
-history.
+Another verse that establishes the time is here:
+*“Can papyrus grow where there is no marsh? Can reeds flourish where there is no water?”* (Job 8:11, ESV) 
+The days when Ruth lived fell in the middle of the Great Drought, which ended the Bronze Age and shattered many
+empires. According to climatologists, that fifty-year drought was the worst in recorded history.
 
 Bildad’s words seem consoling, but really he is rubbing salt in Job’s wounds, implying
 that not only did Job’s children get what they deserved, but Job didn’t teach them properly
 as a father. The opening of the chapter says,
 
-Then Bildad the Shuhite answered and said:
-“How long will you say these things,
-and the words of your mouth be a **great wind**?
-(Job 8:1-2)
+#### Then Bildad the Shuhite answered and said:
+##### “How long will you say these things,
+##### and the words of your mouth be a **great wind**?
+###### - Job 8:1-2
 
 It was a great wind that collapsed a house on his children. If Job’s words are like a great
 wind, then Job is culpable. What is a Shuhite anyway? Bildad is likely a descendant of
@@ -643,23 +663,24 @@ cattle from a wise, righteous prophet to giving gifts to another wise man is qui
 
 The following verses connect Job to Isaiah:
 
-His confidence is severed,
-and his trust is a **spider's web**.
-He leans against his house, but it does not stand;
-he lays hold of it, but it does not endure. (Job 8:14-15)
+#### His confidence is severed,
+##### and his trust is a **spider's web**.
+#### He leans against his house, but it does not stand;
+##### he lays hold of it, but it does not endure.
+###### - Job 8:14-15
 
 Trusting in your own devices and not God is a recipe for disaster, for the products of
 human strength are as fragile as cobwebs:
 
-They hatch adders' eggs;
-they weave the **spider's web**;
-he who eats their eggs dies,
-and from one that is crushed a viper is hatched.
-Their **webs** will not serve as clothing;
-men will not cover themselves with what they make.
-Their works are works of iniquity,
-and deeds of violence are in their hands.
-(Isaiah 59:5-6)
+#### They hatch adders' eggs;
+##### they weave the **spider's web**;
+#### he who eats their eggs dies,
+##### and from one that is crushed a viper is hatched.
+#### Their **webs** will not serve as clothing;
+##### men will not cover themselves with what they make.
+#### Their works are works of iniquity,
+##### and deeds of violence are in their hands.
+###### - Isaiah 59:5-6
 
 Returning one last time to the mighty wind, we have another connection to the days of
 Israel’s power. Normally, wind is consequential. Strong winds blew the locusts in and out
@@ -667,13 +688,20 @@ in Exodus, parted the Red Sea, or surrounded God when He spoke to Job from the
 whirlwind. Bildad is talking of hot air, mere talk that is bluster. Elijah faced such a wind.
 He sought an audience with the Lord, but the howling gale was not Him:
 
-The Lord said, “Go out and stand on the mountain in the presence of the Lord,
-for the Lord is about to pass by.”
-Then a great and powerful wind tore the mountains apart and shattered the rocks before the
-Lord, but the Lord was not in the wind. After the wind there was an earthquake, but the Lord was
-not in the earthquake. After the earthquake came a fire, but the Lord was not in the fire. And after the
-fire came a gentle whisper.
-(1 Kings 19:11-12)
+#### The Lord said,
+##### “Go out and stand on the mountain
+##### in the presence of the Lord,
+##### for the Lord is about to pass by.”
+#### **Then a great and powerful wind tore**
+#### **the mountains apart and shattered**
+#### **the rocks before the Lord, but**
+##### **the Lord was not in the wind**.
+#### After the wind there was an earthquake,
+##### but the Lord was not in the earthquake.
+#### After the earthquake came a fire,
+##### but the Lord was not in the fire.
+#### And after the fire came a gentle whisper.
+###### - 1 Kings 19:11-12
 
 As Job’s friends howled their empty wind of words about Job, he somehow heard the
 gentle whisper of the Holy Spirit giving him the truths he needed to sustain him.
@@ -684,36 +712,36 @@ It is difficult to tie the words of Zophar in chapter 11 to Assyria. The closest
 seems to be to Jonah, sent to Nineveh, an Assyrian city, to warn of God’s impending
 judgment. Consider these words:
 
-But oh, that God would speak
-and open his lips to you,
-and that he would tell you the secrets of wisdom!
-For he is manifold in understanding.
-Know then that God exacts of you
-less than your guilt deserves.
-Can you find out the deep things of God?
-Can you find out the limit of the Almighty?
-It is higher than heaven—what can you do?
-Deeper than Sheol—what can you know?
-Its measure is longer than the earth
-and broader than the sea.
-If he passes through and imprisons
-and summons the court, who can turn him back?
-(Job 11:5-10)
+#### But oh, that God would speak
+##### and open his lips to you,
+#### and that he would tell you the secrets of wisdom!
+##### For he is manifold in understanding.
+#### Know then that **God exacts of you**
+##### **less than your guilt deserves**.
+#### Can you find out the **deep things of God**?
+##### Can you find out the limit of the Almighty?
+#### It is higher than heaven—what can you do?
+##### Deeper than **Sheol**- what can you know?
+#### Its measure is longer than the earth
+##### and **broader than the sea**.
+#### **If he passes through and imprisons**
+##### and summons the court, who can turn him back?
+###### - Job 11:5-10
 
 The people of Nineveh deserved destruction and certainly received less than they
 deserved; they repented and God relented. In fact, the one to suffer most was Jonah,
 saying,
 
-“I called out to the Lord, out of my distress,
-and he answered me;
-out of the belly of Sheol I cried,
-and you heard my voice.
-For you cast me into the deep,
-into the heart of the seas,
-and the flood surrounded me;
-all your waves and your billows
-passed over me.”
-(Jonah 2:2-3)
+#### “I called out to the Lord, out of my distress,
+##### and he answered me;
+#### out of the belly of **Sheol** I cried,
+##### and you heard my voice.
+#### For you cast me **into the deep**,
+##### into the heart of the **seas**,
+##### and the flood surrounded me;
+#### all your waves and your billows
+##### passed over me.”
+###### - Jonah 2:2-3
 
 The reference to Sheol, to “deep things” and to being imprisoned in the sea, to
 summoning a court to judge, all match Jonah’s experience. The court was made of sailors
@@ -722,20 +750,20 @@ into the sea. These sailors feared God more than the prophet did!
 
 Another subtler connection to Assyria is via Hezekiah.
 
-Surely then you will lift up your face without blemish;
-you will be secure and will not fear.
-You will forget your misery;
-you will remember it as waters that have passed away.
-And your life will be brighter than the noonday;
-its darkness will be like the morning.
-And you will feel secure, because there is hope;
-you will look around and take your rest in security.
-You will lie down, and none will make you afraid;
-many will court your favor.
-But the eyes of the wicked will fail;
-all way of escape will be lost to them,
-and their hope is to breathe their last.”
-(Job 11:15-20)
+#### Surely then you will lift up your face **without blemish**;
+##### you will be secure and will not fear.
+#### You will forget your misery;
+##### you will remember it as waters that have passed away.
+#### And your life will be **brighter than the noonday**;
+##### **its darkness will be like the morning**.
+#### And you will feel secure, because there is hope;
+##### you will look around and take your rest in security.
+#### You will lie down, and none will make you afraid;
+##### many will court your favor.
+#### But the eyes of the wicked will fail;
+##### **all way of escape will be lost to them**,
+#### and their hope is to breathe their last.”
+###### - Job 11:15-20
 
 Hezekiah suffered an infected boil, a “blemish”, that Isaiah said would claim his life. He
 prayed and was healed. The sign to Hezekiah that he would recover was causing the sun to
@@ -749,20 +777,21 @@ We must not forget the mercies of the Lord or ingratitude will also be our downf
 
 ## Babylonian Empire
 
-Eliphaz in Job 15 begins with more talk of wind. “Should a wise man answer with windy
-knowledge, and fill his belly with the east wind? (Job 15:2) The “east wind” is associated with
-calamity and judgment throughout the Bible. Babylon is but one such calamity and it did
-invade from the east, so this is not very specific. A verse that comes closer is “He wanders
-abroad for bread, saying, ‘Where is it?’ He knows that a day of darkness is ready at his hand;” (Job
-15:23) The siege caused famine and some turned to cannibalism to survive.
+Eliphaz in Job 15 begins with more talk of wind. 
+*“Should a wise man answer with windy knowledge, and fill his belly with the east wind?"* (Job 15:2) 
+The “east wind” is associated with calamity and judgment throughout the Bible. 
+Babylon is but one such calamity and it did invade from the east, so this is not very specific. A verse that comes closer is 
+*“He wanders abroad for bread, saying, ‘Where is it?’ He knows that a day of darkness is ready at his hand;”* (Job 15:23) 
+The siege caused famine and some turned to cannibalism to survive.
 
 Eliphaz accuses Job of pridefully asserting more knowledge of God’s counsel than all the
 other people then living:
-Have you listened in the council of God?
-And do you limit wisdom to yourself?
-What do you know that we do not know?
-What do you understand that is not clear to us?
-(Job 15:8-9)
+
+#### Have you listened in the council of God?
+##### And do you limit wisdom to yourself?
+#### What do you know that we do not know?
+##### What do you understand that is not clear to us?
+###### - Job 15:8-9
 
 The irony is that God later vindicated Job. Job had been hearing words from God,
 though he knew it not. God had been sharing, through the agent of suffering, His secret
@@ -796,10 +825,11 @@ Nabodinus returned to his place as king.
 One possible solution to this difficulty is that the dream was given to Nebuchadnezzar,
 but part of the execution of the judgment was against Nabodinus. By this logic, the
 dynasty is the tree, not Nebuchadnezzar alone. An interval of time was given between the
-dream and the fulfillment. “At the end of twelve months he was walking on the roof of the royal
-palace of Babylon…” (Daniel 4:29, ESV) If the dream came to king Nebuchadnezzar in
+dream and the fulfillment.
+*“At the end of twelve months he was walking on the roof of the royal palace of Babylon…”* (Daniel 4:29, ESV) 
+If the dream came to king Nebuchadnezzar in
 564-563 BC, that would be about a year before he died in 562 BC, which would be the
-cutting down of the tree, which gives the first meaning of twelve months. Twelve years
+cutting down of the tree, which gives the first meaning of twelve months. **Twelve years**
 later would be 552 BC, when Nabodinus exiled himself to Tayma, Arabia. Thus the
 madness was inflicted upon a branch (Nabodinus) that sprouted from the stump of the
 felled tree (Nebuchadnezzar). And Nabodinus would be the last king of that dynasty, as
@@ -809,43 +839,45 @@ Thus there is a truth to be told if we are patient to unravel difficult riddles.
 account, after a grace period of a year during which the king behaved, he slipped up and
 savored his own glory at having built such a marvelous city.
 
-At the end of twelve months he was walking on the roof of the royal palace of Babylon, and the king
+<em>
+<strong>At the end of twelve months</strong> he was walking on the roof of the royal palace of Babylon, and the king
 answered and said, “Is not this great Babylon, which I have built by my mighty power as a royal
-residence and for the glory of my majesty?” While the words were still in the king's mouth, there fell a
-voice from heaven, “O King Nebuchadnezzar, to you it is spoken: The kingdom has departed from you,
+residence and for the glory of my majesty?” While the words were still in the king's mouth,
+<strong>there fell a voice from heaven</strong>, “O King Nebuchadnezzar, to you it is spoken: The kingdom has departed from you,
 and you shall be driven from among men, and your dwelling shall be with the beasts of the field. And you
 shall be made to eat grass like an ox, and seven periods of time shall pass over you, until you know that
 the Most High rules the kingdom of men and gives it to whom he will. Immediately the word was
 fulfilled against Nebuchadnezzar. He was driven from among men and ate grass like an ox, and his body
 was wet with the dew of heaven till his hair grew as long as eagles' feathers, and his nails were like birds'
-claws.”
-(Daniel 4:29-33)
+claws.” - Daniel 4:29-33
+</em>
 
 Surely the king to whom this happened, whether Nebuchadnezzar, Nabodinus, or some
-other, experienced the fate spoken of by Eliphaz: “Dreadful sounds are in his ears; in prosperity
-the destroyer will come upon him... It will be paid in full before his time, and his branch will not
-be green.” (Job 15:21,32, ESV) A tree cut down has no branches at all.
+other, experienced the fate spoken of by Eliphaz:
+*“Dreadful sounds are in his ears; in prosperity the destroyer will come upon him... It will be paid in full before his time, and **his branch will not be green**.”* (Job 15:21,32, ESV) 
+A tree cut down has no branches at all.
 
 ## Medo-Persian Empire
 
 Bildad in Job 18 declares the death of another tyrant. The likeliest match is Cambyses II,
 son of Cyrus the Great, of the Achaemenid dynasty. Here is what Bildad said:
 
-Indeed, the light of the wicked is put out,
-and the flame of his fire does not shine.
-The light is dark in his tent,
-and his lamp above him is put out.
-His strong steps are shortened,
-and his own schemes throw him down.
-(Job 18:5-7)
+#### Indeed, the **light of the wicked is put out**,
+##### and **the flame of his fire** does not shine.
+#### The **light is dark** in his tent,
+##### and **his lamp above him is put out**.
+#### **His strong steps are shortened**,
+##### and his own schemes throw him down.
+###### - Job 18:5-7
 
 After Cambyses conquered Egypt, this schemer set his sights on Nubia (Ethiopia). In
 that he failed. Rumors of rebellion back home forced him to return to Persia. That is one
-way “his strong steps [were] shortened”. Another was a wound to his thigh which turned
+way *“his strong steps \[were\] shortened”*. Another was a wound to his thigh which turned
 gangrenous. A fatally infected leg would certainly shorten one’s steps! Weeks later
 Cambyses died from that wound, in 522 BC. What, you don’t think that was specific
-enough a prophecy? It gets grosser… “It consumes the parts of his skin; the firstborn of death
-consumes his limbs.” (Job 18:13) Now can you smell the gangrene?
+enough a prophecy? It gets grosser…
+*“It consumes the parts of his skin; the firstborn of death consumes his limbs.”* (Job 18:13) 
+Now can you smell the gangrene?
 
 A flame extinguished and a lamp put out is an apt analogy for death. It is even more
 appropriate when you consider that his religion was Zoroastrianism. His god was Ahura
@@ -857,13 +889,13 @@ burning for at least four thousand years. And what do you think this holy place 
 after 4,000 years of continuous conflagration? Sulphur. And that is how we leave our
 ancient king, with a smelly grave and childless to boot.
 
-In his tent dwells that which is none of his;
-sulfur is scattered over his habitation.
-(Job 18:15, ESV)
+#### In his tent dwells that which is none of his;
+##### **sulfur** is scattered over his habitation.
+###### - Job 18:15, ESV
 
-He has no posterity or progeny among his people,
-and no survivor where he used to live.
-(Job 18:19, ESV)
+#### He has **no posterity or progeny** among his people,
+##### and no survivor where he used to live.
+###### - Job 18:19, ESV
 
 May our love for Jesus burn even longer than the fires of Yanar Dağ, but smell sweeter
 than sulphur. And may we by faith be named his children, that he may have a posterity
@@ -884,66 +916,61 @@ Great. Thanks to those secular scholars, we can match the poetic analogies of Jo
 exactly. Here is an excerpt from *Peace, like Solomon Never Knew*. (The full chapter that analyzes
 Job 20 is called [CSI Babylon: Job 20](./alexander-the-great.html) and found in the linked article elsewhere on this website.)
 
-Verse 5. “... the mirth of the wicked is brief, the joy of the godless lasts but a moment.” Alexander
+Verse 5. *“... the mirth of the wicked is brief, the joy of the godless lasts but a moment.”* Alexander
 fell ill during the merriment of a banquet.
 
-Verse 6. “Though the pride of the godless person reaches to the heavens and his head touches the
-clouds...” Though a man, he pursued and accepted divine honors and titles, just as Satan
+Verse 6. *“Though the pride of the godless person reaches to the heavens and his head touches the clouds...”*
+Though a man, he pursued and accepted divine honors and titles, just as Satan
 sought the throne of heaven.
 
-Verse 7. “he will perish forever, like his own dung; those who have seen him will say, ‘Where is
-he?’” The word dung brings to mind the diarrhea that beset him.
+Verse 7. *“he will perish forever, like his own dung; those who have seen him will say, ‘Where is he?’”*
+The word dung brings to mind the diarrhea that beset him.
 
-Verse 8. “Like a dream he flies away, no more to be found, banished like a vision of the night.”
+Verse 8. *“Like a dream he flies away, no more to be found, banished like a vision of the night.”*
 Delirium and hallucinations seized him.
 
-Verses 9-10. “The eye that saw him will not see him again; his place will look on him no more.
-His children must make amends to the poor; his own hands must give back his wealth.” After
-Alexander died, his generals, called the Diadochi, fought each other to seize his title and
+Verses 9-10. *“The eye that saw him will not see him again; his place will look on him no more. His children must make amends to the poor; his own hands must give back his wealth.”* 
+After Alexander died, his generals, called the Diadochi, fought each other to seize his title and
 kingdom. One was Cassander, who ordered the execution of Alexander’s wife Roxane and
 his sons Heracles and Alexander IV and usurped the throne of Macedon. Wikipedia says
-this of Cassander. “It was later even said that he could not pass a statue of Alexander without
-feeling faint.” Truly the one who took his place did not want to look on him any more.
+this of Cassander. *“It was later even said that he could not pass a statue of Alexander without feeling faint.”* 
+Truly the one who took his place did not want to look on him any more.
 Among those who contend that Alexander was poisoned, Cassander is their prime suspect.
 
-Verse 11. “The youthful vigor that fills his bones will lie with him in the dust.” Alexander died
-young.
+Verse 11. *“The youthful vigor that fills his bones will lie with him in the dust.”*
+Alexander died young.
 
-Verses 12-14. “Though evil is sweet in his mouth and he hides it under his tongue, though he
-cannot bear to let it go and lets it linger in his mouth, yet his food will turn sour in his stomach; it
-will become the venom of serpents within him.” The first symptoms were excruciating stomach
+Verses 12-14. *“Though evil is sweet in his mouth and he hides it under his tongue, though he cannot bear to let it go and lets it linger in his mouth, yet his food will turn sour in his stomach; it will become the venom of serpents within him.”* 
+The first symptoms were excruciating stomach
 pain. Yet despite the travails of the first day of his illness, Alexander attended another
 banquet the next day. He could not bear to let his pleasures go.
 
-Verse 15. “He will spit out the riches he swallowed; God will make his stomach vomit them up.”
+Verse 15. *“He will spit out the riches he swallowed; God will make his stomach vomit them up.”*
 His doctors induced vomiting.
 
-Verse 16. “He will suck the poison of serpents; the fangs of an adder will kill him.” There is no
-mention of real snakes in the historical record. This may refer to medicines that his
+Verse 16. *“He will suck the poison of serpents; the fangs of an adder will kill him.”* 
+There is no mention of real snakes in the historical record. This may refer to medicines that his
 doctors gave him that worsened his condition, or metaphorically to the supernatural agent
 contributing to his death: Satan.
 
-Verse 17. “He will not enjoy the streams, the rivers flowing with honey and cream.” His corpse
-was encased in a sarcophagus filled with honey! (Honey deters the decomposition of dead
+Verse 17. *“He will not enjoy the streams, the rivers flowing with **honey** and cream.”* 
+His corpse was encased in a sarcophagus filled with honey! (Honey deters the decomposition of dead
 bodies.)
 
-Verse 18. “What he toiled for he must give back uneaten; he will not enjoy the profit from his
-trading.” Alexander eventually lost his appetite. Metaphorically, it means he never enjoyed
+Verse 18. *“What he toiled for he must give back uneaten; he will not enjoy the profit from his trading.”* 
+Alexander eventually lost his appetite. Metaphorically, it means he never enjoyed
 ruling over the empire he conquered.
 
-Verse 20. “Surely he will have no respite from his craving; he cannot save himself by his treasure.”
+Verse 20. *“Surely he will have no respite from his craving; he cannot save himself by his treasure.”*
 Alexander suffered an unquenchable thirst.
 
-Verses 22-23. “In the midst of his plenty, distress will overtake him; the full force of misery will
-come upon him. When he has filled his belly, God will vent his burning anger against him and rain
-down his blows on him.” This describes the start of his anguish, when he filled his belly with
+Verses 22-23. *“In the midst of his plenty, distress will overtake him; the full force of misery will come upon him. When he has filled his belly, God will vent his burning anger against him and rain down his blows on him.”*
+This describes the start of his anguish, when he filled his belly with
 food and wine. The full force of misery struck his belly first. Reports indicated that if
 anyone touched his midsection gently, it caused sharp pain. This also identifies the
 second, more substantial spiritual agent of Alexander’s destruction: God.
 
-Verses 24-26. “Though he flees from an iron weapon, a bronze-tipped arrow pierces him. He pulls
-it out of his back, the gleaming point out of his liver. Terrors will come over him; total darkness lies
-in wait for his treasures. A fire unfanned will consume him and devour what is left in his tent.”
+Verses 24-26. *“Though he flees from an iron weapon, a bronze-tipped arrow pierces him. He pulls it out of his back, the gleaming point out of his liver. Terrors will come over him; total darkness lies in wait for his treasures. A fire unfanned will consume him and devour what is left in his tent.”*
 Though doctors say his symptoms do not indicate cirrhosis as the cause of death,
 Alexander was a heavy drinker, and drank to excess the first two days of his illness, which
 may have injured his liver and weakened his body’s ability to fight off disease. Reports of
@@ -960,8 +987,8 @@ The kingdoms that sprang from his empire, the Ptolemaic and Seleucid empires, wo
 eventually be conquered by Rome, the iron weapon from which his successors could not
 flee.
 
-Verses 27-28. “The heavens will expose his guilt; the earth will rise up against him. A flood will
-carry off his house, rushing waters on the day of God’s wrath.” The flood could be a poetic
+Verses 27-28. *“The heavens will expose his guilt; the earth will rise up against him. A flood will carry off his house, rushing waters on the day of God’s wrath.”* 
+The flood could be a poetic
 description of the ailing man’s diarrhea, but there is no mistaking the wrath of both
 heaven and earth. Both God and Satan had their hand in Alexander’s destruction,
 including his house: the murder of his wife and children.
@@ -980,21 +1007,21 @@ it for your piety that he rebukes you and brings charges against you?” (Job 22
 Jesus was charged with a crime because he was blameless and pious. Only by being a
 spotless lamb could Jesus be a fitting sacrifice.
 
-You demanded security from your relatives for no reason;
-you stripped people of their clothing, leaving them naked.
-(Job 22:6, NIV)
+#### You demanded security from your relatives for no reason;
+##### you **stripped** people of their **clothing**, leaving them **naked**.
+###### - Job 22:6, NIV
 
 Jesus was stripped naked and his clothes bartered away.
-You gave no water to the weary
-and you withheld food from the hungry...
-(Job 22:7, NIV)
 
-They offered Jesus a vile mix of wine mixed with gall, not water, while he hung on the
-cross.
+#### You gave no water to the weary
+##### and you withheld food from the hungry...
+###### - Job 22:7, NIV
 
-And you sent widows away empty-handed
-and broke the strength of the fatherless.
-(Job 22:9, NIV)
+They offered Jesus a vile mix of wine mixed with gall, not water, while he hung on the cross.
+
+#### And you sent widows away empty-handed
+##### and broke the strength of the fatherless.
+###### - Job 22:9, NIV
 
 Mary was a widow and left Golgotha empty-handed, while Jesus, with his earthly father
 dead and his Heavenly Father turning his face away, was fatherless, his strength broken.
@@ -1002,40 +1029,41 @@ The supernatural darkness of that event also received mention, telling “why it
 cannot see, and why a flood of water covers you.” (Job 22:11, NIV) The flood of water was the
 bursting of Jesus’ pericardium when the soldier pierced his side with a spear.
 
-They were carried off before their time,
-their foundations washed away by a flood.
-(Job 22:16, NIV)
+#### They were carried off before their time,
+##### their foundations washed away by a flood.
+###### - Job 22:16, NIV
 
-Yes, Jesus was carried away before his time. But the evil they intended could not keep
-him down.
+Yes, Jesus was carried away before his time. But the evil they intended could not keep him down.
 
-"Surely then you will find delight in the Almighty
-and will lift up your face to God.
-You will pray to him, and he will hear you,
-and you will fulfill your vows.
-What you decide on will be done,
-and light will shine on your ways.
-When people are brought low and you say, ‘Lift them up!’
-then he will save the downcast.
-He will deliver even one who is not innocent,
-who will be delivered through the cleanness of your hands.”
-(Job 22:26-30, NIV)
+#### "Surely then you will find delight in the Almighty
+##### and will lift up your face to God.
+#### You will pray to him, and he will hear you,
+##### and you will fulfill your vows.
+#### What you decide on will be done,
+##### and **light will shine on your ways**.
+#### When people are brought low and you say,
+##### **‘Lift them up!’**
+#### then he will save the downcast.
+#### **He will deliver even one who is not innocent**,
+##### **who will be delivered through**
+###### **the cleanness of your hands**.”
+###### - Job 22:26-30, NIV
 
 Yes, he delivers all of us who are not innocent because of the cleanness of his hands. It is
-as Jesus promised: “And I, when I am lifted up from the earth, will draw all people to myself.”
+as Jesus promised: *“And I, when I am **lifted up** from the earth, will draw all people to myself.”*
 (John 12:32, NIV) The light blazed from the tomb and darkness was no more.
 
 ## Islamic Empires
 
 Bildad in Job 25 delivers the last of the friend’s speeches. The final words say it all.
 
-How then can man be in the right before God?
-How can he who is born of woman be pure?
-Behold, even the moon is not bright,
-and the stars are not pure in his eyes;
-how much less man, who is a maggot,
-and the son of man, who is a worm!”
-(Job 25:4-6, ESV)
+#### How then can man be in the right before God?
+##### **How can he who is born of woman be pure**?
+#### Behold, even the **moon** is not bright,
+##### and the **stars** are not pure in his eyes;
+#### how much less man, who is a maggot,
+##### and the **son of man**, who is a worm!”
+###### - Job 25:4-6, ESV
 
 The ESV translation is essential, because the Hebrew is clearly “son of man”, not
 “human being” as in the NIV. This conclusion to the arguments against Job directly denies
@@ -1043,10 +1071,14 @@ the possibility of the incarnation. No man can be relied upon for utter purity. 
 Dome of the Rock, a prominent Islamic shrine in Jerusalem built upon the old Jewish
 Temple Mount, is an inscription, a translation of which includes these words:
 
-Oh God, bless Your Messenger and Your servant Jesus, son of Mary. Peace be on him the day he was born,
-and the day he dies, and the day he shall be raised alive! Such was Jesus, son of Mary, (this is) a statement
-of the truth concerning which they doubt. It befitteth not (the Majesty of) God that He should take
-unto Himself a son.
+#### Oh God, bless Your Messenger and Your servant
+#### Jesus, son of Mary. Peace be on him
+#### the day he was born, and the day he dies,
+#### and the day he shall be raised alive!
+#### Such was Jesus, son of Mary, (this is) 
+#### a statement of the truth concerning which
+#### they doubt. It befitteth not (the Majesty of) God
+#### that He should take unto Himself a son.
 
 Islam is thus first among the major world religions to explicitly deny as doctrine the
 divinity of Jesus and the ability of God to become incarnated as a man. The connection to
