@@ -29,8 +29,8 @@ In some cases, such essays have been expanded to include new insights.
   - [Architecture of Lady Wisdom’s House](./blueprint.html)
   - Ecclesiastes 1: Taking Inventory 
   - Ecclesiastes 3: Knowing the Acceptable Time 
-  - Job: The Course of Empires 
-  - The Meaning of the Beasts of Job 
+  - [Job: The Course of Empires](./job-course-of-empires.html) 
+  - [The Meaning of the Beasts of Job](./the-meaning-of-the-beasts-of-job.html)
   - Exodus: How Long did the Plagues last? 
   - Exodus: Called & Summoned to Grow 
   - Exodus: Clocks of Judgment for Israel & the Church 
