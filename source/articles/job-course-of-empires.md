@@ -107,7 +107,7 @@ Jerusalem at one point in history, representing divine completeness. Three is th
 of the kingdoms into those three categories. Ten is the total number of kingdoms, a
 number representing human completeness.
 
-<img class="center" src="images/emp[ires-in-job.png" alt="Table of Empires prophesied in Job"/>
+<img class="center" src="images/empires-in-job.png" alt="Table of Empires prophesied in Job"/>
 
 Thus we can ask, “Why thirteen kingdoms here in Job?” If you exclude the heavenly
 kingdom, you have twelve human kingdoms, another measure of completeness. Or you
