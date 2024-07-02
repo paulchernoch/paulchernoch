@@ -449,6 +449,7 @@ day, the day Eve offered Adam the fateful fruit. In Peace, it was shown how the 
 Adam and Eve in the garden was an example of a reverse harvest, going from peace and
 plenty to untilled, thorny soil. In that single event we can discern the breaking of all Ten
 Commandments.
+
   - 10. **Covetousness**. Eve coveted what was not hers, a forbidden fruit and equality with God.
   - 9. **Lying**. The serpent lied to Eve about what God commanded, about God’s intentions and what would happened to her if she ate the fruit. Eve blamed the snake for her actions and Adam tried to blame God for giving him Eve as a wife.
   - 8. **Theft**. Eve took a fruit that was not hers.
