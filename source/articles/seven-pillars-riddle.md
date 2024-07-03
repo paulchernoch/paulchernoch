@@ -24,6 +24,8 @@ This website has many articles that build upon an answer to that question that I
 [The Seven Pillars of Wisdom](./seven-pillars-of-wisdom.html). It goes into many of the clues that
 I found which either led me to my conclusion or supplied additional evidence after I found what the pillars are.
 
+## Names of the Pillars
+
 The simple answer is that the Seven Pillars are seven books of the Bible:
 
   - Psalms
@@ -44,6 +46,8 @@ and make you strong like a pillar, unshakeable. Together they frame God's framew
 
 The first to prophesy the existence of the seven pillars was Hannah, the mother of the Prophet Samuel, as explained
 in [Hannah's Song](./hannah-s-song.html).
+
+## Message of the Pillars
 
 The real riddle is not naming a collection of books, it is absorbing the wisdom that is in them and putting it
 into practice. 
@@ -93,4 +97,55 @@ From these books you must also learn that God directs history according to the s
 and he has planned it out every bit as much as he planned out our lives. With that understanding,
 you can learn how to fit into God's plan for the era into which you were born.
 
-The last thing is simple. Pillars point up, so look up.
+## Promise of the Pillars
+
+The blessings and wisdom of these seven books no CHristian will deny, but is their "pillar-ness" really that important?
+Somebody thought so:
+
+#### Because you have kept my word about patient endurance, 
+#### I will keep you from the hour of trial that is coming 
+#### on the whole world, to try those who dwell on the earth. 
+#### I am coming soon. 
+#### Hold fast what you have, so that no one may seize your crown.
+#### **The one who conquers, I will make him a pillar in the temple of my God.** 
+#### Never shall he go out of it, and I will write on him 
+#### the name of my God, and the name of the city of my God, 
+#### the new Jerusalem, which comes down from my God out of heaven, 
+#### **and my own new name**. He who has an ear, let him hear what 
+#### the Spirit says to the churches.
+#### - Revelation 3:10-13
+
+To the faithful church, to the faithful Christian who endures to the end, Jesus reserves
+the greatest rewards, to be bestowed in the age to come. Among those most precious of 
+gifts is the promise by Jesus to make you a pillar in the house of God. Strong. Majestic. 
+Useful. Eternal.
+
+I don't know about you, but that makes me want to know as much as I can about God's pillars.
+I do not know if such a blessing is in store for me, but Jesus tells us to store up
+treasures in heaven. To do that, we need to know what they are and begin to set our hearts
+on obtaining them.
+
+## Voice of the Pillars
+
+How do we become pillars? We become pillars by listening to them and being reshaped into them.
+There are many ways to communicate with God. (See [Job and the Ways to Talk to God](./talk-to-god.html) for a list.)
+Each of the seven pillars has an affinity to some of those ways. 
+
+  - Psalms helps us pray, encourages us to meditate on God's Word and enter into the wonder of God's creation.
+  - Job helps us hear God's voice through our suffering, satisfies our hunger in fasting, helps us interpret the warnings of dreams, hear the words of the prophets and allows us to enter into Job's theophany so we may see the Father more clearly.
+  - Proverbs helps us discern what things are of value - more precious than rubies, and so find better dreams. It also puts a premium on the value of advice from wise elders.
+  - Song of Songs supplies the passionate counsel of a lover and friend, the overflowing baptism of the Holy Spirit. It also guides us into the sabbath rest alongside the ones we love.
+  - Ecclesiastes helps us put our hands to good use and works miracles of strength through us. Through this book, God's drums set the tempo for life, telling us to speed up or slow down.
+  - Matthew inspires us to willingly sacrifice our time and talents with Jesus as our model. When we linger long in this gospel, it becomes a true Christophany as the form of our savior becomes so clear we feel he is in the room with us.
+  - Revelation is our source of vision. The whole panoply of God's wonders in history are brought into focus and shine a path for us to follow. When we read this book, we walk with the angels.
+
+Yes, these pillars speak to us in diverse ways. When we attune our ears to each mode of communication, we can hear from the Lord
+how to become a pillar of strength.
+
+<div class="pullquote-centered">
+  <p>One lesson is simple.</p>
+  <p>Pillars point up,</p>
+  <p>so look up!</p>
+</div>
+
+ 

@@ -138,8 +138,6 @@ This passage from 1 Timothy is also analyzed extensively in:
 
 <hr/>
 
-Other articles in this section:
-
 <div class="sections">
 
 Other articles in this section:
