@@ -143,7 +143,9 @@ Each of the seven pillars has an affinity to some of those ways.
 Some of the above associations may be perplexing. How is reading Job like a theophany? How is reading Matthew like a Christophany?
 Satan can send counterfeits; so can human scoundrels. From Job we learn what a meeting with the Father is like.
 From Matthew we learn what Jesus is like. With that wisdom, we can distinguish between a true and a false appearance.
-These words of wisdom make it possible to integrate the supernatural into our lives safely.
+These words of wisdom make it possible to integrate the supernatural into our lives safely. The pillars of wisdom
+reduce the doubt and uncertainty that adhere to our many attempts to communicate with God. They sharpen our questions
+and both clarify and certify God's response.
 
 One more association is worth explaining: Proverbs with dreams. The word dream appears nowhere in Proverbs, but it is the best place to go for one reason.
 Dreams of warning are mentioned in Job and illustrated in Matthew. Those dreams send you away from danger, but what what of the dreams that guide you

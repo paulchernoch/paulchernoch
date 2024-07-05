@@ -1,6 +1,47 @@
 ---
 title: The End Times
+quote: "eschatology: <br/> a branch of theology concerned with the <br/> final events in the history of the world <br/> or of humankind <br/> - Merriam-Webster Dictionary"
 ---
+<img class="center" src="images/end-time-systems.png" alt="Comparison of End Times Systems"/>
+
+## Fractal Historicism
+
+This article introduces **Fractal Historicism**, the system of eschatology described and developed on this website. 
+The above diagram compares it to a few alternate systems. The system is similar to classical [Historicism](/https://en.wikipedia.org/wiki/Historicist_interpretations_of_the_Book_of_Revelation), which Wikipedia describes with these words:
+
+<em>
+Historicism is a method of interpretation in Christian eschatology which associates biblical prophecies with 
+actual historical events and identifies symbolic beings with historical persons or societies; 
+it has been applied to the Book of Revelation by many writers. The Historicist view follows a straight line of continuous fulfillment 
+of prophecy which starts in Daniel's time and goes through John of Patmos' writing of the Book of Revelation 
+all the way to the Second Coming of Jesus Christ.
+</em>
+
+Many in the early church proposed Historicist ideas, including Justin Martyr, Josephus, Irenaeus, Tertullian, Clement of Alexandria, Jerome and Athanasius.
+The Protestant Reformation revived interest in that approach to understanding Bible prophecy. Among those who advocated Historicism were
+John Wycliffe, Martin Luther, John Calvin, Thomas Cranmer, John Thomas, John Knox, Roger Williams, Cotton Mather, Jonathan Edwards, and John Wesley.
+I depart from those esteemed reformers in not identifying the Roman Catholic Pope as the anti-Christ. In fact, I make no attempt
+to identify the Antichrist, as I believe his identity still remains hidden.
+
+In an important regard, my system adopts ideas from the Puritan Thomas Brightman, who was the first to propose a historicist interpretation 
+of the Seven Churches of Revelation. He taught that each church corresponds to a different era of church history. However, I attribute
+start and end years for the eras of the more recent churches that differ from his and those of his successors.
+(For a detailed analysis, see the chapter "Seven Churches for Seven Eras" in *Peace, like Solomon Never Knew*.)
+
+The Seventh Day Adventists hold to a form of Historicism. Their traditional belief is that the first six seals of Revelation were opened
+prior to 1844 AD. In Fractal Historicism, only three seals had been opened by that time and a fourth was opened in the Twentieth Century.
+The fifth seal is set to open later in this century.
+
+**Fractal Historicism** further deviates from earlier forms of Historicism by applying the patterns of prophecy like fractals. 
+The same patterns may repeat at shorter and longer timescales.
+
+From the above diagram you can see one of the starkest differences between it and most others. **Fractal Historicism** assumes that the 
+Millennial Kingdom when Christ rules over the nations refers to a literal 1,000 year period unlike the amillennial systems. 
+Then, in contrast to the remaining systems, it assumes that the millennium has already come and gone and the tribulation already begun.
+
+Systems not shown on the diagram include Futurism and Preterism.
+
+<hr/>
 
 ## Time is Essential to Wisdom
 
@@ -36,7 +77,9 @@ After revealing a little, Solomon tells us what we do not know:
 #### from the beginning to the end.
 ###### - Ecclesiastes 3:11
 
-We do not know the works of God from beginning to end. We have forgotten most of what came before and cannot see what lies ahead.
+When God set eternity in the heart of man, He instilled an irresistible longing to know what lies ahead.
+This can be maddening, because like Solomon said, we do not know the works of God from beginning to end. 
+We have forgotten most of what came before and cannot see what lies ahead.
 Isaiah tells us what this means:
 
 #### Remember this and stand firm,
@@ -60,12 +103,12 @@ It lies at the core of God's wisdom. In Proverbs, this is what Lady Wisdom has t
 ##### at the first, before the beginning of the earth.
 ###### - Proverbs 8:22-23
 
-In place of "possessed", some use fathered or created. This tells us that an essential characteristic of wisdom
+In place of "possessed", some use "fathered" or "created". This tells us that an essential characteristic of wisdom
 is that nothing precedes it, save God himself. It arrived first in time so can comprehend all time.
 
 No account that seeks to explore wisdom can avoid time.
 
-No account that seeks to explore time can avoid thetime of the end.
+No account that seeks to explore time can avoid the time of the end.
 
 ## My Struggles with Time
 
@@ -75,6 +118,99 @@ As a teen, I was fascinated by time. I loved time travel stories and fantasy sto
 Isaac Asimov's idea of using mathematics to predict the future as explored in his Foundation series gripped me.
 Alexis de Tocqueville's book *Democracy in America* astonished me. Around 1840, he predicted that the two great world powers
 in the twentieth century would be the United States and Russia. How I longed to understand history and politics so well
-that I could have such a keen vision of things. 
+that I could have such a keen vision of the future.
+
+My view turned dark in college. I entered a decade of depression. A few years before I was saved, I only picked up the Bible
+twice. The first time was to read Revelation. It disturbed me. Then after I found the Lord, I read
+*The Late Great Planet Earth* by Hal Lindsey's, *Gorbachev: Is He the Antichrist?* and other books. To work things out
+for myself, I started a journal and began to study world history, looking for connections between the Bible and human events
+and so accept or reject the ideas in those books. The devastating meltdown at Chernobyl in 1986 didn't help.
+I was told that Chernobyl is the Russian word for wormwood, making that meltdown a sign of the plague of wormwood of Revelation 8:11.
+
+A man spoke at our church about Revelation during this time. He had ideas about the future course of world events and when they might occur.
+Were his ideas well supported? I wasn't sure, so I asked him, "What is purpose of the plagues named in Revelation? Why those particular plagues?"
+He said he didn't know. I concluded that if he didn't know why, he couldn't know when. I disregarded everything he had said.
+This was an early sign that I was learning discernment. I began to question what other Christians were saying and gained a critical eye.
+
+If you fill your mind with questionable ideas, what happens? In my case, years of nightmares. Dreams of the end of the world wrecked my
+sleep and destabilized my life. How can you plan your future if you fear you might not have one?
+By God's grace, through prayer and meditation on the Psalms and Isaiah I found release from the nightmares, as
+described in the article [Dreams](./dreams.html).
+
+One reason the nightmares stuck around so long was that I didn't want to let go of them. As terrifying and debilitating as they were,
+they made me feel powerful. I began to advise other Christians based on my dreams, fancying myself a prophet.
+The only kind of prophet that I was was a false prophet. To admit that and repent of it was hard.
+The first consequence was that the dreams stopped. THe second was that I lost a part of my identity that I cherished and gave me a sense of importance.
+
+Almost two decades passed during which I gave little thought to the end times. Then in the mid 2000's I heard Johnny Cash's song "The Man Comes Around".
+My interest in the end times stirred once more. On the internet I came across several books and teaching notes about Daniel and Revelation by
+Bible scholar Ellis Skolfield. Skolfield attempted two things in his writings. First, he proposed his own ideas about what those books mean
+and how many events that they prophesied have already occurred, contradicting Premillennial Dispensationalism and other competing theories
+that claim those events remain in our future. Second, he uncovered many contradictions within the competing theories. The most striking
+was that the blowing of "the last trumpet" in 1 Corinthians 15:52 and "the seventh trumpet" in Revelation 11:15 refer to the same event. 
+If the events that will occur when one is blown happen simultaneous with those slated to unfold when the other is blown, the timelines for those
+other theories are wrecked. For one, it makes the return of Christ, the raising of the dead and the rapture into one event.
+There will be no rapture before the millennial reign of Christ. There will be no release of Satan after Christ descends.
+
+After reading his work several times and corresponding with the author by email, this is what I concluded.
+
+  - Skolfield's criticism of all other theories of Eschatology (i.e. the study of the end times) was devastating and correct.
+  - His ideas for a more accurate replacement for those theories had merit.
+  - His theory was incomplete.
+  - Some of his ways of handling Bible chronology and prophetic timelines were novel and consistent but lacking in support.
+
+By the mid 2010's, where did this leave me? I had nothing. Neither my ideas nor the ideas of the most popular and respected scholars
+held water. I knew that believing and receiving guidance and comfort from the prophets concerning God's future plans
+is indispensable for a sane and productive faith. Wrong and inconsistent ideas do damage. If nature abhors a vacuum, so does my soul.
+I needed to find the truth. I also knew that to find the truth, I would have to research it for myself. I would have to study, compare and work out a consistent
+framework for history and eschatology. Skolfield said that he had studied the topic for thirty years. To accomplish this task
+would require time and discipline that I knew I didn't have. It would require knowledge of the Bible and history that I did not possess.
+The breadth of study would be huge. Taking all this in, I despaired of ever getting the answers that I craved. I surrendered. I again gave up trying.
+After thirty years of walking as a Christian, I felt no closer to finding an answer than when I started.
+
+Soon after, my mother died. I turned to Job for comfort and threw myself into understanding the first book of the Bible to be written, instead of the last.
+Like Frost's "road not taken", that has made all the difference. By turning to the past, to the beginning, by coming to grips with mourning,
+I began to walk down another path. Instead of finding prophecies of the distant future, I found Job's prophecies of the coming of Christ.
+I saw salvation. I saw healing and growth and forgiveness and comfort. When I eventually turned my eyes to the end, I saw everything through 
+a different lens. I saw discipleship, growth, and metamorphosis, not mere destruction. God has hidden the beauty and wonder of a message of glorious hope inside
+a tale of calamities. He constructed Revelation as an [emotional riddle](./riddles.html). The sheer horror blinds us to the meaning,
+making it nearly impossible to fit prophecy to history. However, once you see those latter days not as an aberration but as a logical extension of God's
+plans for all of time, the sharp discontinuity becomes a continuum and the irreconcilable can be reconciled.
+
+That is a taste of the struggle that I passed through on the way to my current understanding. I have been humbled not once but several times
+along the way. To confess misusing God's gifts and His Word, to admit ignorance, weakness and inability and to accept my emptiness
+was torment. None of that makes my words useful. None of that proves my ideas true. However, if you seek knowledge about these matters
+from anyone else, make sure that they also have struggled and striven and surrendered. No one can swallow the scroll
+without absorbing its bitterness, not even the Apostle John:
+
+#### And I took the little scroll
+#### from the hand of the angel and ate it.
+#### It was sweet as honey in my mouth,
+#### but when I had eaten it my stomach was made bitter.
+###### - Revelation 10:10
+
+About thirty-five years ago I asked that man my question. He didn't know the purpose of the plagues of Revelation.
+I do - at least some of them. Did they judge? Yes. Did they destroy? Yes. But they also built. They also created and reformed the world.
+Most people who read Revelation see the death and destruction. They can't conceive that much of it describes events that 
+have already occurred. Why? It is because history shows humanity progressing despite all the turmoil, wars, revolutions, famines and plagues.
+History just doesn't look bad enough to match up to what we think Revelation means. The final plagues will, but the early ones
+are concealed by acts of grace. When the final plagues which do match up arrive, the world will be taken by surprise. The precursors
+and early warnings that the inhabitants of the earth will assume have yet to arrive will have passed long before. 
+Concertgoers awaiting the first trumpet blast will be met by the last.
+
+## Cross Section of Time
+
+My books and the articles on this website about prophetic clocks marshal evidence to support the eschatological system I have discovered.
+The articles in this section will sketch that system's outline. They will cut a cross section across many clocks to shine a light
+on key events in history. Each clock covers many eras - often thousands of years - hence many events, but with little detail. 
+This section will show a few events but see what is said about each across many clocks, to emphasize how firmly God settled the date
+of each event. The interlocking passages are like transparencies overlaid to present a complete image. It is like the book I had as a child
+that showed the human body. One transparency showed bones, another the major organs, another blood vessels, and the last showed skin and hair.
+The superposition of all the layers showed what a person looks like.
+
+Many other eschatological systems rely upon a few passages to establish the order and timing of key events. The timing in them is usually
+qualitative. In this system, there are over forty prophetic clocks. Key events show up in dozens of clocks. The timing is
+much more precise, with events slotted to within a century in most cases, and within decades in many.
+
 
 In progress...
