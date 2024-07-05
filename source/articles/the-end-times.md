@@ -44,7 +44,7 @@ After the Reformation, other theories of eschatology displaced it in many church
 
 Approaches not shown on the diagram include Futurism, Preterism and Idealism, which are not single systems but instead categories of systems.
 
-  - **Idealism** goes by many names, like the spiritual approach, allegorical approach, and nonliteral approach. It sees all or most of Revelation's imagery as symbolic instead of describing real events. It is a feature of amillennialism. Adherents include Karl Barth and Jacques Ellul (whom I much enjoyed reading years ago).
+  - **Idealism** goes by many names, like the spiritual approach, allegorical approach, and nonliteral approach. It sees all or most of Revelation's imagery as symbolic instead of describing real events. It is a feature of amillennialism. Adherents include Karl Barth and Jacques Ellul (whom I much enjoyed reading years ago). Concerning **Amillennialism** in particular, one of the earliest and most influential advocates was Augustine of Hippo, who communicated his ideas in *City of God*.
   - **Preterism** holds that most or all of the events prophesied in Daniel, the Olivet Discourse and Revelation were fulfilled by AD 70 and the close of the Apostolic Age. A Jesuit, Luis de Alcasar (1554–1613), wrote the first systematic preterist exposition of prophecy *Vestigatio arcani sensus in Apocalypsi*. It was published during the Counter-Reformation to defend the Catholic Church against Protestant attacks that relied upon the Historicist interpretation.
   - **Futurism** treats Revelation, Ezekiel, and Daniel as addressing future events in multiple senses: literal, physical, apocalyptic, and global. This category of belief includes premillennialism and dispensationalism. Irenaeus in the early church held views in this category. The most influential early modern proponents were the Catholic Jesuits Manuel Lacunza (1731–1801) and Francisco Ribera (1537–1591). Their motive was to take a different tack to defend the Catholic Church against Historicism. The futurist view assigns all or most prophecy to the future, shortly before the Second Coming. Some parts of the Bible that this interpretation addresses are Daniel, Isaiah 2:11–22, and 1 Thessalonians 4:15–5:11.
 
@@ -88,6 +88,16 @@ The problem with such prophecies is that if you interpret them wrongly, unbeliev
 Allegorical, idealistic views are safer. You can't prove or disprove them.
 Getting a Historicist scheme right requires wisdom of a level that no one in the church has ever possessed, else we would see the proof in the accuracy
 by which their theology matches world history. Naturally, I will be arguing that such a system is what I have discovered, led by a wisdom not my own.
+
+I alluded to motives above, but let's bring them front and center.
+
+ - Protestant Reformers developed their brand of Historicism to attack the Roman Catholic Church and label it the Antichrist.
+ - Roman Catholics developed both Futurism and Preterism to defend their church against the attacks of Historicism.
+ - Amillennialism's slow development over a millennia from Augustine to Aquinas reflected a growing pessimism inside the church. Hope that the church could make much headway toward reforming the world grew dim. This process is outlined in [Traces of Defeatism: A Critique Of Amillennialism](https://www.theshepherds.church/blog/traces-of-defeatism) by Kendall Lankford.
+
+A mix of defeatism, fear, hatred, judgment, and defensiveness fueled the development of at least four of these systems of eschatology.
+Such feelings also attended the first few decades of my personal search for the truth about the end times. Only as God turned me from despair to hope and from anger to forgiveness
+was I able to come to a new understanding. That journey is essential if you are to understand God's ways.
 
 The rest of this article will focus on what Fractal Historicism is, not on comparing it to the other systems.
 
