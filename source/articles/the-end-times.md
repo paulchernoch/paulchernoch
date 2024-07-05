@@ -35,11 +35,14 @@ The fifth seal is set to open later in this century.
 **Fractal Historicism** further deviates from earlier forms of Historicism by applying the patterns of prophecy like fractals. 
 The same patterns may repeat at shorter and longer timescales.
 
-From the above diagram you can see one of the starkest differences between it and most others. **Fractal Historicism** assumes that the 
-Millennial Kingdom when Christ rules over the nations refers to a literal 1,000 year period unlike the amillennial systems. 
-Then, in contrast to the remaining systems, it assumes that the millennium has already come and gone and the tribulation already begun.
+In the above diagram, the white triangle indicates "now", the present day. From the diagram you can see one of the starkest differences 
+between it and most others. **Fractal Historicism** assumes that the Millennial Kingdom when Christ rules over the nations refers to a 
+literal 1,000 year period unlike the amillennial systems. Then, in contrast to the remaining systems, it assumes that the millennium 
+has already come and gone and the tribulation already begun.
 
 Systems not shown on the diagram include Futurism and Preterism.
+
+The rest of this article will focus on what Fractal Historicism is, not on comparing it to the other systems.
 
 <hr/>
 
