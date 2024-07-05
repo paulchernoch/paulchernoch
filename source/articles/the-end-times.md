@@ -24,8 +24,8 @@ I depart from those esteemed reformers in not identifying the Roman Catholic Pop
 to identify the Antichrist, as I believe his identity still remains hidden.
 
 In an important regard, my system adopts ideas from the Puritan Thomas Brightman, who was the first to propose a historicist interpretation 
-of the Seven Churches of Revelation. He taught that each church corresponds to a different era of church history. However, I attribute
-start and end years for the eras of the more recent churches that differ from his and those of his successors.
+of the Seven Churches of Revelation. He taught that each church corresponds to a different era of church history. However, I propose
+start and end years for the eras of the more recent churches that differ from his dates and those of his successors.
 (For a detailed analysis, see the chapter "Seven Churches for Seven Eras" in *Peace, like Solomon Never Knew*.)
 
 The Seventh Day Adventists hold to a form of Historicism. Their traditional belief is that the first six seals of Revelation were opened
@@ -36,11 +36,58 @@ The fifth seal is set to open later in this century.
 The same patterns may repeat at shorter and longer timescales.
 
 In the above diagram, the white triangle indicates "now", the present day. From the diagram you can see one of the starkest differences 
-between it and most others. **Fractal Historicism** assumes that the Millennial Kingdom when Christ rules over the nations refers to a 
+between this system and most others. **Fractal Historicism** assumes that the Millennial Kingdom when Christ rules over the nations refers to a 
 literal 1,000 year period unlike the amillennial systems. Then, in contrast to the remaining systems, it assumes that the millennium 
 has already come and gone and the tribulation already begun.
 
-Systems not shown on the diagram include Futurism and Preterism.
+After the Reformation, other theories of eschatology displaced it in many churches. Premillennial Dispensationalism is one popular system.
+
+Approaches not shown on the diagram include Futurism, Preterism and Idealism, which are not single systems but instead categories of systems.
+
+  - **Idealism** goes by many names, like the spiritual approach, allegorical approach, and nonliteral approach. It sees all or most of Revelation's imagery as symbolic instead of describing real events. It is a feature of amillennialism. Adherents include Karl Barth and Jacques Ellul (whom I much enjoyed reading years ago).
+  - **Preterism** holds that most or all of the events prophesied in Daniel, the Olivet Discourse and Revelation were fulfilled by AD 70 and the close of the Apostolic Age. A Jesuit, Luis de Alcasar (1554–1613), wrote the first systematic preterist exposition of prophecy *Vestigatio arcani sensus in Apocalypsi*. It was published during the Counter-Reformation to defend the Catholic Church against Protestant attacks that relied upon the Historicist interpretation.
+  - **Futurism** treats Revelation, Ezekiel, and Daniel as addressing future events in multiple senses: literal, physical, apocalyptic, and global. This category of belief includes premillennialism and dispensationalism. Irenaeus in the early church held views in this category. The most influential early modern proponents were the Catholic Jesuits Manuel Lacunza (1731–1801) and Francisco Ribera (1537–1591). Their motive was to take a different tack to defend the Catholic Church against Historicism. The futurist view assigns all or most prophecy to the future, shortly before the Second Coming. Some parts of the Bible that this interpretation addresses are Daniel, Isaiah 2:11–22, and 1 Thessalonians 4:15–5:11.
+
+If you take in all of these systems, you see these poles of interpretation:
+
+**Timing:**
+
+  - All or most prophesied events occurred in the past
+  - All or most prophesied events still lie in the future, bunched up into a short period before the end
+  - Events are distributed throughout history, with many having already occurred, some happening now, and others remaining for a future fulfillment 
+
+**Historicity:**
+
+  - Events are figurative and spiritual, not corresponding to definite events and persons
+  - Events are literal (though coded)
+
+**Millennium:**
+
+  - The millennial reign of Christ describes the slow improvement of the world under the influence of the church, not a literal thousand years
+  - The millennial reign of Christ occurs as "a parallel and contemporaneous development of good and evil — God’s kingdom and Satan’s kingdom — in this world, which will continue until the second coming of Christ" (to quote [Loraine Boettner](https://graceonlinelibrary.org/eschatology/postmillennialism/postmillennialism-introduction-by-loraine-boettner/) in describing Amillennialism)
+  - The millennial reign of Christ will be a literal future kingdom lasting a literal thousand years that begins when Jesus Christ returns in his body visibly 
+  - The millennial reign of Christ was a literal kingdom lasting a literal thousand years, but it did not include Christ returning visibly. He reigned through the church as his agents. 
+
+Fractal Historicism assumes the last choice of possibilities in each of the three above categories. To my knowledge, no other system besides that of Ellis Skolfield
+makes an identical set of choices. The crux of the matter is our understanding of the millennium. It is essential if one is to preserve the vital character of Historicism.
+In the early church, Historicism was an attractive possibility because the major events all lay in the future. There was not yet a series of historical events that might match one
+version of Historicism but contradict another. During the Reformation, conditions were again favorable
+to hold a Historicist view. But in the centuries since then, the original Historicist view slowly crumbled. The reason is that one cannot easily believe in a literal millennium
+ruled by a visible Christ after the great apostasy begins. For a brief time, a great proportion of the world was ruled by Christian nations. No more. One by one, countries formerly
+Christian have abandoned their faith. That is consistent with Satan going out to deceive the nations (Revelation 20:8), an event that commences AFTER the millennium, after Satan is unbound.
+Only by placing the millennial kingdom in the past can we establish a theology consistent with history and so rescue Historicism. To do that, however we have to agree with the Idealists
+that the reign of Christ was symbolic but with the Millennialists that the time period and political existence was literal. Jesus said that he would be with us, even to the end of the age.
+It is only in that spiritual sense that Jesus returned to rule his kingdom; his bodily return will happen only once, at the very end. There is no need for a "secret rapture" when Christ comes 
+halfway to meet the church but doesn't actually return. (A "secret rapture" is not ruled out, though. However, the only reason this idea occurred to theologians was as a means of
+rescuing their system from a contradiction. You can't have Jesus showing up for the rapture before the Great Tribulation if Christ is not supposed to return until after it is over!)
+
+If God intended to offer the church the most guidance, He would supply information rich prophecies that could be verified against real history. 
+Such prophecies could then be used as an apologetic tool that proves the miraculous accuracy of the Bible as well as to prepare believers for the trials and opportunities to come.
+Such prophecies could bolster our faith as we see them unfold over time. Such prophecies would shout that God has a plan and it is on schedule. 
+The problem with such prophecies is that if you interpret them wrongly, unbelievers ridicule the church and the faith of many is threatened. 
+Allegorical, idealistic views are safer. You can't prove or disprove them.
+Getting a Historicist scheme right requires wisdom of a level that no one in the church has ever possessed, else we would see the proof in the accuracy
+by which their theology matches world history. Naturally, I will be arguing that such a system is what I have discovered, led by a wisdom not my own.
 
 The rest of this article will focus on what Fractal Historicism is, not on comparing it to the other systems.
 
