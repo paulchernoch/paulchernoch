@@ -204,7 +204,7 @@ described in the article [Dreams](./dreams.html).
 One reason the nightmares stuck around so long was that I didn't want to let go of them. As terrifying and debilitating as they were,
 they made me feel powerful. I began to advise other Christians based on my dreams, fancying myself a prophet.
 The only kind of prophet that I was was a false prophet. To admit that and repent of it was hard.
-The first consequence was that the dreams stopped. THe second was that I lost a part of my identity that I cherished and gave me a sense of importance.
+The first consequence was that the dreams stopped. The second was that I lost a part of my identity that I cherished and gave me a sense of importance.
 
 Almost two decades passed during which I gave little thought to the end times. Then in the mid 2000's I heard Johnny Cash's song "The Man Comes Around".
 My interest in the end times stirred once more. On the internet I came across several books and teaching notes about Daniel and Revelation by
@@ -273,8 +273,21 @@ that showed the human body. One transparency showed bones, another the major org
 The superposition of all the layers showed what a person looks like.
 
 Many other eschatological systems rely upon a few passages to establish the order and timing of key events. The timing in them is usually
-qualitative. In this system, there are over forty prophetic clocks. Key events show up in dozens of clocks. The timing is
+qualitative. In Fractal Historicism, there are over forty prophetic clocks. Key events show up in dozens of clocks. The timing is
 much more precise, with events slotted to within a century in most cases, and within decades in many.
+
+This cross-sectional consistency of the system across large sections of the Bible is a significant factor that favors the 
+accuracy of Fractal Historicism and challenges the accuracy of the other systems. This system makes extensive use of Job, Ecclesiastes and Proverbs to
+form its scaffolding, then fits the prophetic books commonly treated by the other eschatological systems into it, like Daniel, Matthew and Job. 
+Fractal Historicism has a consistent interpretation of those Bible books. The other systems make little or no reference to Job, Ecclesiastes and Proverbs.
+They fail to incorporate important data into their theories. As in science, the theory that provides a coherent interpretation of the greatest range of
+data is the strongest.
+
+Now it is time to introduce the key events of the End Times. We shall see how they are sequenced and assigned to the proper time in history according
+to Fractal Historicism.
+
+## Events leading up to the End
+
 
 
 In progress...
