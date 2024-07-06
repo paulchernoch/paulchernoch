@@ -2,6 +2,8 @@
 title: Lady Wisdom's House
 quote: Everyone then who hears these words of mine <br/> and does them will be like a wise man <br/> who built his house on the rock. <br/> - Jesus
 ---
+<img class="center" src="images/house-on-sand.png" alt="Collapsed house built on sand"/>
+
 ## When is a House not a House?
 
 I learned a riddle as a child.
