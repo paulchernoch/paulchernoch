@@ -124,7 +124,7 @@ That journey is essential if you are to understand God's ways.
   <h4>For the Lord God does nothing</h4>
   <h5>  without revealing his secret</h5>
   <h6>    to his servants the prophets.</h6>
-  <h6> - Amos 3:6-7
+  <h6> - Amos 3:6-7</h6>
   
   <ol>
 
