@@ -416,6 +416,15 @@ div.sections {
   background-color: var(--section-interior);
 }
 
+/* A summary box */
+
+div.summary {
+  margin: 10px;
+  border: 2px dashed var(--section-box);
+  padding: 10px;
+  background-color: var(--summary-interior);
+}
+
 /* Era Description Box */
 
 div.era {

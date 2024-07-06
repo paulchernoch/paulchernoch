@@ -69,19 +69,27 @@ If you take in all of these systems, you see these poles of interpretation:
   - The millennial reign of Christ was a literal kingdom lasting a literal thousand years, but it did not include Christ returning visibly. He reigned through the church as his agents. 
 
 Fractal Historicism assumes the last choice of possibilities in each of the three above categories. To my knowledge, no other system besides that of Ellis Skolfield
-makes an identical set of choices. The crux of the matter is our understanding of the millennium. It is essential if one is to preserve the vital character of Historicism.
-In the early church, Historicism was an attractive possibility because the major events all lay in the future. There was not yet a series of historical events that might match one
+makes an identical set of choices. The crux of the matter is our understanding of the millennium. 
+It is essential if one is to preserve the vital character of Historicism.
+In the early church, Historicism was an attractive possibility because the major events all lay in the future. 
+There was not yet a series of historical events that might match one
 version of Historicism but contradict another. During the Reformation, conditions were again favorable
-to hold a Historicist view. But in the centuries since then, the original Historicist view slowly crumbled. The reason is that one cannot easily believe in a literal millennium
-ruled by a visible Christ after the great apostasy begins. For a brief time, a great proportion of the world was ruled by Christian nations. No more. One by one, countries formerly
-Christian have abandoned their faith. That is consistent with Satan going out to deceive the nations (Revelation 20:8), an event that commences AFTER the millennium, after Satan is unbound.
-Only by placing the millennial kingdom in the past can we establish a theology consistent with history and so rescue Historicism. To do that, however we have to agree with the Idealists
-that the reign of Christ was symbolic but with the Millennialists that the time period and political existence was literal. Jesus said that he would be with us, even to the end of the age.
-It is only in that spiritual sense that Jesus returned to rule his kingdom; his bodily return will happen only once, at the very end. There is no need for a "secret rapture" when Christ comes 
-halfway to meet the church but doesn't actually return. (A "secret rapture" is not ruled out, though. However, the only reason this idea occurred to theologians was as a means of
-rescuing their system from a contradiction. You can't have Jesus showing up for the rapture before the Great Tribulation if Christ is not supposed to return until after it is over!)
+to hold a Historicist view. But in the centuries since then, the original Historicist view slowly crumbled. 
+The reason is that one cannot easily believe in a literal millennium
+ruled by a visible Christ after the great apostasy begins. For a brief time, a great proportion of the world was ruled by Christian nations. 
+No more. One by one, countries formerly Christian have abandoned their faith. That is consistent with Satan going out to deceive the nations (Revelation 20:8), 
+an event that commences AFTER the millennium, after Satan is unbound.
+Only by placing the millennial kingdom in the past can we establish a theology consistent with history and so rescue Historicism. 
+To do that, however we have to agree with the Idealists that the reign of Christ was symbolic but with the Millennialists that the time period 
+and political existence was literal. Jesus said that he would be with us, even to the end of the age.
+It is only in that spiritual sense that Jesus returned to rule his kingdom; his bodily return will happen only once, at the very end. 
+There is no need for a "secret rapture" when Christ comes halfway to meet the church but doesn't actually return. 
+(A "secret rapture" is not ruled out. However, the only reason this idea occurred to theologians was as a means of
+rescuing their system from a contradiction. You can't have Jesus showing up for the rapture before the Great Tribulation 
+if Christ is not supposed to return until after it is over!)
 
-On another pole I have done less research. That is the binding and loosing of Satan. Amillennialists believe that Satan has been bound and cannot stop the advance of Christ's kingdom.
+On another pole I have done less research. That is the binding and loosing of Satan. 
+Amillennialists believe that Satan has been bound and cannot stop the advance of Christ's kingdom.
 Other systems may believe that Satan has been bound already or that it may await the supposed future coming of the Millennium.
 In Fractal Historicism, Satan was bound for a thousand years, but has since been loosed. This is a critical difference.
 
@@ -100,8 +108,22 @@ I alluded to motives above, but let's bring them front and center.
  - Amillennialism's slow development over a millennia from Augustine to Aquinas reflected a growing pessimism inside the church. Hope that the church could make much headway toward reforming the world grew dim. This process is outlined in [Traces of Defeatism: A Critique Of Amillennialism](https://www.theshepherds.church/blog/traces-of-defeatism) by Kendall Lankford.
 
 A mix of defeatism, fear, hatred, judgment, and defensiveness fueled the development of at least four of these systems of eschatology.
-Such feelings also attended the first few decades of my personal search for the truth about the end times. Only as God turned me from despair to hope and from anger to forgiveness
-was I able to come to a new understanding. That journey is essential if you are to understand God's ways.
+Such feelings also attended the first few decades of my personal search for the truth about the end times. 
+Only as God turned me from despair to hope and from anger to forgiveness was I able to come to a new understanding. 
+That journey is essential if you are to understand God's ways.
+
+## Summary of Advantages
+
+<div class="summary">
+
+  <h3>Summary of Advantages</h3>
+
+  <p>Yada yada yada</p>
+  <p>Yada yada yada</p>
+  <p>Yada yada yada</p>
+  <p>Yada yada yada</p>
+
+</div>
 
 The rest of this article will focus on what Fractal Historicism is, not on comparing it to the other systems.
 
