@@ -116,11 +116,34 @@ That journey is essential if you are to understand God's ways.
 
   <h3>Summary of Advantages of Fractal Historicism</h3>
 
-  <p><strong>Gapless</strong>. Other systems clump most prophesied events either at the beginning (during the age of the apostles) or end (in the last few years before Christ returns). This sytem has no gaps. Every century of history since Solomon is targeted by multiple prophecies.</p>
-  <p><strong>More Biblically Comprehensive</strong>. Incorporates prophecies and constraints from parts of the Bible not included in any of the other eschatological systems. Among the books included in the structure are Job, Ecclesiastes, Proverbs and Song of Songs. Also, greater use is made of the Ten Commandments and other parts of the Law. Hundreds of prophecies that were never noticed before have been discovered and included.</p>
-  <p><strong>Literal</strong>. The prophecies are tied to literal events, persons, organizations and nations, unlike the Idealist systems.</p>
-  <p><strong>A Coherent and Constructive Schema of History</strong>. The historical progression of events tells a story of progress. God is doing more than judge; He is reforming and teaching the world. The plagues both afflict the wicked and promote justice and human progress.</p>
+  <h4>Is a trumpet blown in a city,</h4>
+  <h5>  and the people are not afraid?</h5>
+  <h4>Does disaster come to a city,</h4>
+  <h5>  unless the Lord has done it?</h5>
+  <br/>
+  <h4>For the Lord God does nothing</h4>
+  <h5>  without revealing his secret</h5>
+  <h6>    to his servants the prophets.</h6>
+  <h6> - Amos 3:6-7
+  
+  <ol>
 
+    <li><strong>Gapless</strong>. Other systems clump most prophesied events either at the beginning (during the age of the apostles) 
+    or end (in the last few years before Christ returns). In the spirit of Amos 3, this system has no gaps. The Lord literally did NOTHING without
+    informing His servants the prophets. Thus EVERY century of history since Solomon is targeted by multiple prophecies.</li>
+
+    <li><strong>More Biblically Comprehensive</strong>. Incorporates prophecies and constraints from parts of the Bible not included in any of the other eschatological systems. Among the books included in the structure are Job, Ecclesiastes, Proverbs and Song of Songs. Also, greater use is made of the Ten Commandments and other parts of the Law. Hundreds of prophecies never before noticed have been discovered and included.</li>
+
+    <li><strong>Literal</strong>. The prophecies are tied to literal events, persons, organizations and nations, unlike the Idealist systems.</li>
+
+    <li><strong>Presents a Coherent and Constructive Schema of History</strong>. The historical progression of events tells a story of civilizational advance. 
+    God is doing more than judge; He is reforming and teaching the world. The plagues both afflict the wicked and promote justice and human progress.</li>
+
+    <li><strong>Affirms the Immanence of God's Justice</strong>. Clocks related to the Ten Commandments show that God has systematically and consistently meted
+    out justice in an ongoing basis. The Lord has been enforcing all ten in a logical, sequential order since the beginning.
+    These cycles of judgment have been rigorously applied to the antediluvian world, Egypt, Israel, the Church and ultimately, against the whole world. </li>
+
+  </ol>
 </div>
 
 The rest of this article will focus on what Fractal Historicism is, not on comparing it to the other systems.
