@@ -38,7 +38,7 @@ have to a CAD/CAM drawing is found in Proverbs:
 ###### she has also set her table. 
 ###### - Proverbs 9:1-2, ESV
 
-<img src="./images/blueprint.jpg" alt="blueprint of Lady Wisdom's house" width="800" height="795" />
+<img class="center" src="./images/blueprint.jpg" alt="blueprint of Lady Wisdom's house" />
 
 ## Foundation
 
