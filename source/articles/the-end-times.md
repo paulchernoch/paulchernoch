@@ -112,16 +112,14 @@ Such feelings also attended the first few decades of my personal search for the 
 Only as God turned me from despair to hope and from anger to forgiveness was I able to come to a new understanding. 
 That journey is essential if you are to understand God's ways.
 
-## Summary of Advantages
-
 <div class="summary">
 
-  <h3>Summary of Advantages</h3>
+  <h3>Summary of Advantages of Fractal Historicism</h3>
 
-  <p>Yada yada yada</p>
-  <p>Yada yada yada</p>
-  <p>Yada yada yada</p>
-  <p>Yada yada yada</p>
+  <p><strong>Gapless</strong>. Other systems clump most prophesied events either at the beginning (during the age of the apostles) or end (in the last few years before Christ returns). This sytem has no gaps. Every century of history since Solomon is targeted by multiple prophecies.</p>
+  <p><strong>More Biblically Comprehensive</strong>. Incorporates prophecies and constraints from parts of the Bible not included in any of the other eschatological systems. Among the books included in the structure are Job, Ecclesiastes, Proverbs and Song of Songs. Also, greater use is made of the Ten Commandments and other parts of the Law. Hundreds of prophecies that were never noticed before have been discovered and included.</p>
+  <p><strong>Literal</strong>. The prophecies are tied to literal events, persons, organizations and nations, unlike the Idealist systems.</p>
+  <p><strong>A Coherent and Constructive Schema of History</strong>. The historical progression of events tells a story of progress. God is doing more than judge; He is reforming and teaching the world. The plagues both afflict the wicked and promote justice and human progress.</p>
 
 </div>
 
