@@ -365,11 +365,11 @@ These events are not listed in Chronological order according to this or any syst
     <td><strong>The Great Apostasy</strong> <br/> (when many people abandon Christianity)</td>
   </tr>
   <tr>
-    <td><strong>The Millennial Kingdom</strong> <br/> (when Jesus rules the world for a thousand years, whether literally or figuratively)</td>
+    <td><strong>The Millennial Kingdom</strong> <br/> (when Jesus rules the world for a thousand years, <br/> whether literally or figuratively)</td>
     <td><strong>The Dragons: Behemoth and Leviathan</strong> <br/> (two empires ruled by Satan)</td>
   </tr>
   <tr>
-    <td><strong>The Rapture</strong> <br/> (when some living Christians are supernaturally taken from this world by Jesus, thus escaping further suffering)</td>
+    <td><strong>The Rapture</strong> <br/> (when some living Christians are supernaturally taken by Jesus, <br/> leaving this world and escaping further suffering)</td>
     <td><strong>The Great Tribulation</strong> <br/> (a time of suffering and persecution for Christians)</td>
   </tr>
   <tr>
@@ -385,7 +385,7 @@ These events are not listed in Chronological order according to this or any syst
     <td><strong>The Blowing of the Seven Trumpets</strong></td>
   </tr>
   <tr>
-    <td><strong>The Battle of Armageddon</strong> <br/> (the final battle between good and evil, fought when Jesus returns)</td>
+    <td><strong>The Battle of Armageddon</strong> <br/> (the final battle between good and evil, <br/> fought when Jesus returns)</td>
     <td><strong>The Riding of the Four Horsemen of the Apocalypse</strong> <br/> (symbolizing war, civil war, famine and death)</td>
   </tr>
   <tr>
