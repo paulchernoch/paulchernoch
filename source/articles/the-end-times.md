@@ -315,7 +315,7 @@ Concertgoers awaiting the first trumpet blast will be met by the last.
 
 ## Cross Section of Time
 
-My books and the articles on this website about prophetic clocks marshal evidence to support the eschatological system I have discovered.
+My books and the articles on this website about prophetic clocks marshal evidence to support this novel eschatological system.
 The articles in this section will sketch that system's outline. They will cut a cross section across many clocks to shine a light
 on key events in history. Each clock covers many eras - often thousands of years - hence many events, but with little detail. 
 This section will show a few events but see what is said about each across many clocks, to emphasize how firmly God settled the date
@@ -327,7 +327,7 @@ Many other eschatological systems rely upon a few passages to establish the orde
 qualitative. In Fractal Historicism, there are over forty prophetic clocks. Key events show up in dozens of clocks. The timing is
 much more precise, with events slotted to within a century in most cases, and within decades in many.
 
-This cross-sectional consistency of the system across large sections of the Bible is a significant factor that favors the 
+This cross-sectional consistency of the system across a large swath of the Bible is a significant factor that favors the 
 accuracy of Fractal Historicism and challenges the accuracy of the other systems. This system makes extensive use of Job, Ecclesiastes and Proverbs to
 form its scaffolding, then fits the prophetic books commonly treated by the other eschatological systems into it, like Daniel, Matthew and Job. 
 Fractal Historicism has a consistent interpretation of those Bible books. The other systems make little or no reference to Job, Ecclesiastes and Proverbs.
@@ -339,6 +339,101 @@ to Fractal Historicism.
 
 ## Events leading up to the End
 
+When Christians talk about the End Times, what events are part of the conversation? Here are some prominent ones.
+They are divided in two groups: ones reflecting victories on God's side versus those reflecting victories on Satan's side.
+An attempt has been made to match like items. The one exception is pairing "The Restoration of Israel" with "The Blowing of the Seven Trumpets".
+The latter is not a victory for Satan, but for God, but it does relate to Israel. When Joshua led Israel into the Promised Land, 
+the people marched around Jericho seven times blowing trumpets, then the walls came tumbling down.
 
+These events are not listed in Chronological order according to this or any system.
+
+<table class="end-times">
+  <tr>
+    <th>Favorable to Christians</th>
+    <th>Favorable to Satan</th>
+  </tr>
+  <tr>
+    <td><strong>The Second Coming of Jesus Christ</strong></td>
+    <td><strong>The Rise of the Antichrist</strong><br/>(an evil world leader who serves Satan)</td>
+  </tr>
+  <tr>
+    <td><strong>The Binding of Satan</strong> <br/> (when the enemy's power is curtailed)</td>
+    <td><strong>The Loosing of Satan</strong> <br/> (after being imprisoned for a thousand years)</td>
+  </tr>
+  <tr>
+    <td><strong>The Proclamation of the Gospel to the Whole World</strong></td>
+    <td><strong>The Great Apostasy</strong> <br/> (when many people abandon Christianity)</td>
+  </tr>
+  <tr>
+    <td><strong>The Millennial Kingdom</strong> <br/> (when Jesus rules the world for a thousand years, whether literally or figuratively)</td>
+    <td><strong>The Dragons: Behemoth and Leviathan</strong> <br/> (two empires ruled by Satan)</td>
+  </tr>
+  <tr>
+    <td><strong>The Rapture</strong> <br/> (when some living Christians are supernaturally taken from this world by Jesus, thus escaping further suffering)</td>
+    <td><strong>The Great Tribulation</strong> <br/> (a time of suffering and persecution for Christians)</td>
+  </tr>
+  <tr>
+    <td><strong>The Opening of the Seven Seals of the Lamb's Scroll</strong> <br/> (revealing God's wisdom)</td>
+    <td><strong>A Strong Delusion</strong> <br/> (persuasive lies of Satan that convince many to worship him)</td>
+  </tr>
+  <tr>
+    <td><strong>The Two Witnesses</strong><br/> (prophets or groups who work God's miracles in the End Times)</td>
+    <td><strong>Workers of false miracles for Satan</strong></td>
+  </tr>
+  <tr>
+    <td><strong>The Restoration of Israel</strong></td>
+    <td><strong>The Blowing of the Seven Trumpets</strong></td>
+  </tr>
+  <tr>
+    <td><strong>The Battle of Armageddon</strong> <br/> (the final battle between good and evil, fought when Jesus returns)</td>
+    <td><strong>The Riding of the Four Horsemen of the Apocalypse</strong> <br/> (symbolizing war, civil war, famine and death)</td>
+  </tr>
+  <tr>
+    <td><strong>Resurrection of the Blessed</strong></td>
+    <td><strong>Resurrection of the Damned</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Judgment Day</strong></td>
+    <td><strong>666: The Number of the Beast</strong><br/> (when the Antichrist "judges" Christians)</td>
+  </tr>
+
+</table>
+ 
+Systems of eschatology must naturally divide these lists into events that have already happened and events yet to come.
+
+  - **Idealists** claim most are ahistorical; they are allegorical of spiritual events. The undeniably literal events - at least for orthodox Christians - like Christ's second coming, the Judgment Day, and the Resurrection they place in the future, like all the systems.
+  - **Preterists** assign many events to the past.
+  - **Futurists** put most or all of these events in the future. 
+  - **Fractal Historicism** asserts that ten of the above events occurred in the past or are already underway. 
+
+If a system asserts that an event already happened, it must say when and point to the historical events that fulfilled that prophecy.
+That is true for Fractal Historicism. Below, the above prophetic events will be arranged in chronological order. If they have already 
+happened, the dates and matching historical events will be given. If they have not happened, predictions of when they might happen
+will be given, a falsifiable feature not present in most other systems.
+
+However, it is more that setting a date on a timeline. The sequence and timing of the events tell a story.
+These different systems tell different stories. One of the most important stories is the meaning of the Millennial Kingdom, the 
+time when Christ reigned or will reign over some or all of the earth.
+
+  - An optimistic system teaches that the church's influence will spread until most of the world is Christian. The Millennial Kingdom will be the outcome of the Church's success at spreading the gospel message. This kingdom will be the fruit of a great harvest of souls.
+  - A pessimistic system of eschatology will say that two worldviews will multiply. The middle ground of people who are neither hostile to Christianity nor willing to embrace it will vanish as the world becomes polarized. Thus Christ's Kingdom will grow at the same time as Satan's kingdom, the wheat growing up with the tares. The Millennial Reign of Christ will thus only be over the Church. Even so, like the optimistic view, this kingdom is a milestone near the culmination of God's plan for the world.
+  - Fractal Historicism views the Millennial Kingdom in a completely different way. That kingdom is not the culmination of God's plan for perfecting the church and maximizing its influence. On the contrary, it is a vital early stage in the gestation of the church. That kingdom does not end when the church is fully mature. It exists to allow the church to survive and thrive during an important early part of its development. After the millennium ended, the church was scheduled by God to face increasingly greater challenges on its way to full maturity. The end of the Millennial Kingdom was not the failure of the church, it was like its graduation day or a new birth.
+
+To sum up the preceding, this how many prominent views (besides amillennialism) break down history:
+
+  1. A long period of church history
+  2. The Millennial Kingdom
+  3. A brief crisis
+  4. Christ returns and the dead are resurrected
+
+This is how Fractal Historicism divides history:
+
+  1. A brief period of church history
+  2. The Millennial Kingdom
+  3. A long period of Church history with a steadily worsening crisis
+  4. An intensification of the crisis
+  5. Christ returns and the dead are resurrected
+
+Now for the details:
 
 In progress...

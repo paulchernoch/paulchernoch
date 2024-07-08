@@ -177,6 +177,27 @@ table.creation td:nth-child(1), table.creation td:nth-child(2), table.creation t
   text-align: center;
 }
 
+
+/* End Times Table */
+
+.end-times th {
+  background-color: #606080;
+  color: white;
+}
+
+.end-times tr:nth-child(even) {
+  background-color: #f0f0ff;
+}
+
+table.end-times th:nth-child(1), table.creation th:nth-child(2) {
+  text-align: left;
+}
+
+table.end-times td:nth-child(1), table.creation td:nth-child(2) {
+  text-align: left;
+}
+
+
 /* Clock Summary Table */
 
 /* Columns: generation number, start and end years, Bible verse references and prophetic interpretation */
