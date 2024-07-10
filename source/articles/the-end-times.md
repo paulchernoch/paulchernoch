@@ -484,6 +484,6 @@ To give additional context:
   - Resurrection of the Damned
   - Judgment Day
 
-
+<img class="center" src="images/pale-horse.jpg" alt="Rider on a pale horse"/>
 
 In progress...
