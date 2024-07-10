@@ -2,7 +2,7 @@
 title: The End Times
 quote: "eschatology: <br/> a branch of theology concerned with the <br/> final events in the history of the world <br/> or of humankind <br/> - Merriam-Webster Dictionary"
 ---
-<img class="center" src="images/end-time-systems.png" alt="Comparison of End Times Systems"/>
+<img class="center" src="images/white-horse.png" alt="Comparison of End Times Systems"/>
 
 ## Fractal Historicism
 
@@ -17,9 +17,9 @@ of prophecy which starts in Daniel's time and goes through John of Patmos' writi
 all the way to the Second Coming of Jesus Christ.
 </em>
 
-Many in the early church proposed Historicist ideas, including Justin Martyr, Josephus, Irenaeus, Tertullian, Clement of Alexandria, Jerome and Athanasius.
-The Protestant Reformation revived interest in that approach to understanding Bible prophecy. Among those who advocated Historicism were
-John Wycliffe, Martin Luther, John Calvin, Thomas Cranmer, John Thomas, John Knox, Roger Williams, Cotton Mather, Jonathan Edwards, and John Wesley.
+Many in the early church proposed Historicist ideas, including Justin Martyr, Josephus, Irenaeus, Tertullian, Clement of Alexandria, 
+Jerome and Athanasius. The Protestant Reformation revived interest in that approach to understanding Bible prophecy. 
+Among those who advocated Historicism were John Wycliffe, Martin Luther, John Calvin, Thomas Cranmer, John Thomas, John Knox, Roger Williams, Cotton Mather, Jonathan Edwards, and John Wesley.
 I depart from those esteemed reformers in not identifying the Roman Catholic Pope as the anti-Christ. In fact, I make no attempt
 to identify the Antichrist, as I believe his identity still remains hidden.
 
@@ -34,6 +34,8 @@ The fifth seal is set to open later in this century.
 
 **Fractal Historicism** further deviates from earlier forms of Historicism by applying the patterns of prophecy like fractals. 
 The same patterns may repeat at shorter and longer timescales.
+
+<img class="center" src="images/end-time-systems.png" alt="Comparison of End Times Systems"/>
 
 In the above diagram, the white triangle indicates "now", the present day. From the diagram you can see one of the starkest differences 
 between this system and most others. **Fractal Historicism** assumes that the Millennial Kingdom when Christ rules over the nations refers to a 
@@ -315,37 +317,48 @@ Concertgoers awaiting the first trumpet blast will be met by the last.
 
 ## Cross Section of Time
 
-My books and the articles on this website about prophetic clocks marshal evidence to support this novel eschatological system.
-The articles in this section will sketch that system's outline. They will cut a cross section across many clocks to shine a light
+When I was a child, I had a book of colored transparencies that showed the human body. 
+One transparency showed bones, another the muscles, another the major organs, another blood vessels, 
+and the last showed skin and hair. The superposition of all the layers showed what a person looks like.
+
+My books and the articles on this website detail many prophetic clocks. Those clocks are like the transparencies in 
+that anatomy book. The articles will marshal evidence to support this novel eschatological system by
+sketching out that system's outline. They will cut a cross section across many clocks to shine a light
 on key events in history. Each clock covers many eras - often thousands of years - hence many events, but with little detail. 
 This section will show a few events but see what is said about each across many clocks, to emphasize how firmly God settled the date
-of each event. The interlocking passages are like transparencies overlaid to present a complete image. It is like the book I had as a child
-that showed the human body. One transparency showed bones, another the major organs, another blood vessels, and the last showed skin and hair.
-The superposition of all the layers showed what a person looks like.
+of each event. The interlocking passages are like transparencies overlaid to present a complete image. 
 
-Many other eschatological systems rely upon a few passages to establish the order and timing of key events. The timing in them is usually
-qualitative. In Fractal Historicism, there are over forty prophetic clocks. Key events show up in dozens of clocks. The timing is
-much more precise, with events slotted to within a century in most cases, and within decades in many.
+**Precise**. Many other eschatological systems rely upon a few passages to establish the order and timing of key events. 
+The timing in them is usually qualitative. In Fractal Historicism, there are over forty prophetic clocks. 
+Key events show up in dozens of clocks. The timing is much more precise, with events slotted to within a 
+century in most cases, and within decades in many.
 
-This cross-sectional consistency of the system across a large swath of the Bible is a significant factor that favors the 
-accuracy of Fractal Historicism and challenges the accuracy of the other systems. This system makes extensive use of Job, Ecclesiastes and Proverbs to
-form its scaffolding, then fits the prophetic books commonly treated by the other eschatological systems into it, like Daniel, Matthew and Job. 
-Fractal Historicism has a consistent interpretation of those Bible books. The other systems make little or no reference to Job, Ecclesiastes and Proverbs.
-They fail to incorporate important data into their theories. As in science, the theory that provides a coherent interpretation of the greatest range of
-data is the strongest.
+**Comprehensive**. This cross-sectional consistency of the system across a large swath of the Bible is a significant factor 
+that favors the accuracy of Fractal Historicism and challenges the accuracy of the other systems.
+This system makes extensive use of Job, Ecclesiastes and Proverbs to form its scaffolding, then fits the prophetic books 
+commonly treated by the other eschatological systems into it, like Daniel, Matthew and Job. Fractal Historicism 
+has a consistent interpretation of those Bible books. The other systems make little or no reference to Job, 
+Ecclesiastes and Proverbs. They fail to incorporate important data into their theories. 
+How important? Revelation speaks almost entirely of the end times but Ecclesiastes speaks of ALL times. 
+You cannot fit all prophecy into a framework that covers only part of God's plan for history; you need the whole plan. 
+Ecclesiastes sketches out that plan and Job, Proverbs and Psalms flesh it out. As in science, the theory that provides 
+a coherent interpretation of the greatest range of data is the strongest.
 
-Now it is time to introduce the key events of the End Times. We shall see how they are sequenced and assigned to the proper time in history according
-to Fractal Historicism.
+Now it is time to introduce the key events of the End Times. We shall see how they are sequenced and assigned to 
+the proper time in history according to Fractal Historicism.
 
 ## Events leading up to the End
 
 When Christians talk about the End Times, what events are part of the conversation? Here are some prominent ones.
 They are divided in two groups: ones reflecting victories on God's side versus those reflecting victories on Satan's side.
-An attempt has been made to match like items. The one exception is pairing "The Restoration of Israel" with "The Blowing of the Seven Trumpets".
-The latter is not a victory for Satan, but for God, but it does relate to Israel. When Joshua led Israel into the Promised Land, 
+An attempt has been made to match like items. There are two exceptions. First is pairing "The Restoration of Israel" with 
+"The Blowing of the Seven Trumpets". The latter is not a victory for Satan, but for God, but it does relate to Israel
+and is accompanied by great suffering. When Joshua led Israel into the Promised Land, 
 the people marched around Jericho seven times blowing trumpets, then the walls came tumbling down.
 
-These events are not listed in Chronological order according to this or any system.
+The second is the Resurrection of the Damned. Satan gets no benefit; this seals the fate of his allies.
+
+This first listing of events does not give them in Chronological order according to this or any system.
 
 <table class="end-times">
   <tr>
@@ -369,15 +382,15 @@ These events are not listed in Chronological order according to this or any syst
     <td><strong>The Dragons: Behemoth and Leviathan</strong> <br/> (two empires ruled by Satan)</td>
   </tr>
   <tr>
-    <td><strong>The Rapture</strong> <br/> (when some living Christians are supernaturally taken by Jesus, <br/> leaving this world and escaping further suffering)</td>
+    <td><strong>The Rapture</strong> <br/> (when some living Christians are supernaturally <br/> taken by Jesus, leaving this world <br/> and escaping further suffering)</td>
     <td><strong>The Great Tribulation</strong> <br/> (a time of suffering and persecution for Christians)</td>
   </tr>
   <tr>
     <td><strong>The Opening of the Seven Seals of the Lamb's Scroll</strong> <br/> (revealing God's wisdom)</td>
-    <td><strong>A Strong Delusion</strong> <br/> (persuasive lies of Satan that convince many to worship him)</td>
+    <td><strong>A Strong Delusion</strong> <br/> (persuasive lies of Satan that <br/> convince many to worship him)</td>
   </tr>
   <tr>
-    <td><strong>The Two Witnesses</strong><br/> (prophets or groups who work God's miracles in the End Times)</td>
+    <td><strong>The Two Witnesses</strong><br/> (prophets or groups who work <br/> God's miracles in the End Times)</td>
     <td><strong>Workers of false miracles for Satan</strong></td>
   </tr>
   <tr>
@@ -399,25 +412,26 @@ These events are not listed in Chronological order according to this or any syst
 
 </table>
  
-Systems of eschatology must naturally divide these lists into events that have already happened and events yet to come.
+Systems of eschatology must naturally divide this list into events that have already happened and events yet to come.
 
   - **Idealists** claim most are ahistorical; they are allegorical of spiritual events. The undeniably literal events - at least for orthodox Christians - like Christ's second coming, the Judgment Day, and the Resurrection they place in the future, like all the systems.
-  - **Preterists** assign many events to the past.
+  - **Preterists** assign many events to the past, during the Apostolic age.
   - **Futurists** put most or all of these events in the future. 
-  - **Fractal Historicism** asserts that ten of the above events occurred in the past or are already underway. 
+  - **Fractal Historicism** asserts that eleven of the above events occurred in the past or are already underway. 
 
-If a system asserts that an event already happened, it must say when and point to the historical events that fulfilled that prophecy.
-That is true for Fractal Historicism. Below, the above prophetic events will be arranged in chronological order. If they have already 
-happened, the dates and matching historical events will be given. If they have not happened, predictions of when they might happen
-will be given, a falsifiable feature not present in most other systems.
+If a system asserts that an event already happened, it must say when and point to the historical events that fulfilled 
+that prophecy. That is true for Fractal Historicism. Below, the above prophetic events will be arranged in chronological order. 
+If they have already happened, the dates and matching historical events will be given. 
+If they have not happened, predictions of when they might happen will be given, a falsifiable feature not present in 
+most other systems.
 
 However, it is more that setting a date on a timeline. The sequence and timing of the events tell a story.
 These different systems tell different stories. One of the most important stories is the meaning of the Millennial Kingdom, the 
 time when Christ reigned or will reign over some or all of the earth.
 
   - An optimistic system teaches that the church's influence will spread until most of the world is Christian. The Millennial Kingdom will be the outcome of the Church's success at spreading the gospel message. This kingdom will be the fruit of a great harvest of souls.
-  - A pessimistic system of eschatology will say that two worldviews will multiply. The middle ground of people who are neither hostile to Christianity nor willing to embrace it will vanish as the world becomes polarized. Thus Christ's Kingdom will grow at the same time as Satan's kingdom, the wheat growing up with the tares. The Millennial Reign of Christ will thus only be over the Church. Even so, like the optimistic view, this kingdom is a milestone near the culmination of God's plan for the world.
-  - Fractal Historicism views the Millennial Kingdom in a completely different way. That kingdom is not the culmination of God's plan for perfecting the church and maximizing its influence. On the contrary, it is a vital early stage in the gestation of the church. That kingdom does not end when the church is fully mature. It exists to allow the church to survive and thrive during an important early part of its development. After the millennium ended, the church was scheduled by God to face increasingly greater challenges on its way to full maturity. The end of the Millennial Kingdom was not the failure of the church, it was like its graduation day or a new birth.
+  - A pessimistic system of eschatology will say that two worldviews will multiply. The middle ground of people who are neither hostile to Christianity nor willing to embrace it will vanish as the world becomes polarized. Thus Christ's Kingdom will grow at the same time as Satan's kingdom, the wheat growing up with the tares. The scope of the Millennial Reign of Christ will thus be limited; it will only be over the Church. Even so, like the optimistic view, this kingdom is a milestone near the culmination of God's plan for the world.
+  - Fractal Historicism views the Millennial Kingdom in a completely different way. That kingdom is not the culmination of God's plan for perfecting the church and maximizing its influence. On the contrary, it is a vital early stage in the gestation of the church. That kingdom does not end when the church is fully mature. It exists to allow the church to survive and thrive during an important early part of its development. After the millennium ends, the church is scheduled by God to face increasingly greater challenges on its way to full maturity. The end of the Millennial Kingdom is not the failure of the church, it is its graduation day or new birth.
 
 To sum up the preceding, this how many prominent views (besides amillennialism) break down history:
 
@@ -434,6 +448,40 @@ This is how Fractal Historicism divides history:
   4. An intensification of the crisis
   5. Christ returns and the dead are resurrected
 
-Now for the details:
+Now for the details. First to be shown is a timetable with all the preceding events listed in chronological order. 
+It gives dates for those events that have already occurred, start dates for events that are underway, 
+and predictions for those future events which the clocks provide date ranges. Since the opening of the seals 
+and the blowing of the trumpets constitute multiple events, each is split into seven parts.
+Next, since the first four seals match the horsemen of the Apocalypse, they are grouped together.
+
+To give additional context:
+
+  - Seven ages of church history derived from the letters to the churches in Revelation 2 and 3 are also given. Do note that the end of one church era overlaps the beginning of the next. Thus the age of Laodicea (the complacent, lazy church) has already come upon the Western Church (e.g. Europe, USA, Canada, Australia), but other parts of the church are still in the age of Philadelphia, the faithful missionary church.
+  - Twenty of Solomon's times from Ecclesiastes 3 are lined up with history. This clock begins with the dedication of Solomon's Temple in 960 BC, so the first eight times are not shown (the times to be born, die, plant, uproot, kill, heal, tear down and build up).
+
+  - The Binding of Satan
+  - The Millennial Kingdom
+  - The Loosing of Satan
+  - The Great Tribulation
+  - The Opening of the Seven Seals of the Lamb's Scroll
+  - The Riding of the Four Horsemen of the Apocalypse
+  - The Blowing of the Seven Trumpets
+  - The Proclamation of the Gospel to the Whole World
+  - The Great Apostasy
+  - A Strong Delusion
+  - The Dragons: Behemoth and Leviathan
+  - Workers of false miracles for Satan
+  - 666: The Number of the Beast
+  - The Two Witnesses
+  - The Restoration of Israel
+  - The Rise of the Antichrist
+  - The Second Coming of Jesus Christ
+  - The Rapture
+  - The Battle of Armageddon
+  - Resurrection of the Blessed
+  - Resurrection of the Damned
+  - Judgment Day
+
+
 
 In progress...
