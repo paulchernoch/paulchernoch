@@ -461,28 +461,7 @@ To give additional context:
   - Seven ages of church history derived from the letters to the churches in Revelation 2 and 3 are also given. Do note that the end of one church era overlaps the beginning of the next. Thus the age of Laodicea (the complacent, lazy church) has already come upon the Western Church (e.g. Europe, USA, Canada, Australia), but other parts of the church are still in the age of Philadelphia, the faithful missionary church.
   - Twenty of Solomon's times from Ecclesiastes 3 are lined up with history. This clock begins with the dedication of Solomon's Temple in 960 BC, so the first eight times are not shown (the times to be born, die, plant, uproot, kill, heal, tear down and build up).
 
-  - The Binding of Satan
-  - The Millennial Kingdom
-  - The Loosing of Satan
-  - The Great Tribulation
-  - The Opening of the Seven Seals of the Lamb's Scroll
-  - The Riding of the Four Horsemen of the Apocalypse
-  - The Blowing of the Seven Trumpets
-  - The Proclamation of the Gospel to the Whole World
-  - The Great Apostasy
-  - A Strong Delusion
-  - The Dragons: Behemoth and Leviathan
-  - Workers of false miracles for Satan
-  - 666: The Number of the Beast
-  - The Two Witnesses
-  - The Restoration of Israel
-  - The Rise of the Antichrist
-  - The Second Coming of Jesus Christ
-  - The Rapture
-  - The Battle of Armageddon
-  - Resurrection of the Blessed
-  - Resurrection of the Damned
-  - Judgment Day
+<img class="center" src="images/end-times-chronolgy.png" alt="Rider on a pale horse"/>
 
 <img class="center" src="images/pale-horse.jpg" alt="Rider on a pale horse"/>
 
