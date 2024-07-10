@@ -349,7 +349,7 @@ the proper time in history according to Fractal Historicism.
 
 ## Events leading up to the End
 
-<img class="center" src="images/black-horse.png" alt="Rider on black horse with pair of scales"/>
+<img class="center" src="images/black-horse.jpg" alt="Rider on black horse with pair of scales"/>
 
 When Christians talk about the End Times, what events are part of the conversation? Here are some prominent ones.
 They are divided in two groups: ones reflecting victories on God's side versus those reflecting victories on Satan's side.
