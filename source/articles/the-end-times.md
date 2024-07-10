@@ -2,7 +2,7 @@
 title: The End Times
 quote: "eschatology: <br/> a branch of theology concerned with the <br/> final events in the history of the world <br/> or of humankind <br/> - Merriam-Webster Dictionary"
 ---
-<img class="center" src="images/white-horse.png" alt="Comparison of End Times Systems"/>
+<img class="center" src="images/white-horse.png" alt="Archer on a white horse"/>
 
 ## Fractal Historicism
 
@@ -348,6 +348,8 @@ Now it is time to introduce the key events of the End Times. We shall see how th
 the proper time in history according to Fractal Historicism.
 
 ## Events leading up to the End
+
+<img class="center" src="images/black-horse.png" alt="Rider on black horse with pair of scales"/>
 
 When Christians talk about the End Times, what events are part of the conversation? Here are some prominent ones.
 They are divided in two groups: ones reflecting victories on God's side versus those reflecting victories on Satan's side.
