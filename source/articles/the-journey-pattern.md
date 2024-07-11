@@ -263,9 +263,9 @@ In Genesis, the flood of Noah ended on the seventeenth day of the seventh month:
 
 **119 = 17 x 7**
 
-Seventeen symbolizes victory, for God was victorious over man's sin, as noted in [17 is for Victory](./17-is-for-victory.md).
+Seventeen symbolizes victory, for God was victorious over man's sin, as noted in [17 is for Victory](./17-is-for-victory.html).
 Seven symbolizes completeness but also the purity of the Holy Spirit, as evidenced by the washing of the polluted 
-earth by the waters of the flood and explored in [7 is for the Holy Spirit](./7-is-for-the-holy-spirit.md)
+earth by the waters of the flood and explored in [7 is for the Holy Spirit](./7-is-for-the-holy-spirit.html)
 
 **A Prophetic Sequence**. I have found three extensive examples of the Journey Pattern in the Bible:
 
@@ -288,7 +288,7 @@ clocks begin by recalling past events before moving on to future ones.) Of the f
 most detailed prophecy is "CSI Babylon: Job 20". Dozens of prophetic details render an accurate and comprehensive
 account of the death of **Alexander the Great** over a thousand years before he was born. As near as I can tell, 
 no one else has ever made this connection before. Some of the marvelous details of this prophecy
-and its fulfillment are repeated in [Quantification](./quantification.md).
+and its fulfillment are repeated in [Quantification](./quantification.html).
 
 A normal person, having found something so startling and detailed as scores of previously undiscovered 
 prophecies in a single book of the Bible, would move on. They would never return to Job in search of more.

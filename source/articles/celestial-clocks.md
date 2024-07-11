@@ -180,7 +180,7 @@ Here are the key events that occurred in half the twenty-eight times:
 The power of this clock is that it operates at different scales of time and on different levels of being.
 It structures the history of...
 
-  - a single person via the [Growth Pattern](./growth-pattern.md).
+  - a single person via the [Growth Pattern](./growth-pattern.html).
   - ancient Israel and the church as a unity via this clock
   - the secular world from the Creation until the end (via another clock)
   - modern Israel (via a clock in "Appendix C: A Time for Israel" in *Peace, like Solomon Never Knew*)
@@ -202,7 +202,7 @@ prophecy is also deeply personal. Neglecting its study is unwise.
 
 You can find more information about this clock in the article [Twice a Thousand Years](./twice-a-thousand-years.html).
 
-You can find more information about the spiritual analogs of the twenty-eight times in [The Righteous Fall Seven Times](./the-righteous-fall-seven-times.html) and [The Apostle Paul's Discipleship Program](./pauls-discipleship-program.md).
+You can find more information about the spiritual analogs of the twenty-eight times in [The Righteous Fall Seven Times](./the-righteous-fall-seven-times.html) and [The Apostle Paul's Discipleship Program](./pauls-discipleship-program.html).
 
 <hr/>
 
@@ -587,7 +587,7 @@ For a detailed article about this clock, see [A Grand Father Clock & a Silver Co
     - Psalm 78: Preparation of a Nation
     - Psalm 105: Seasons of Suffering
     - Psalm 106: Planted in our Memory
-    - [Psalm 107: Where is the Love](./psalm-107.md)
+    - [Psalm 107: Where is the Love](./psalm-107.html)
     - Psalm 114: Why?
     - Psalm 135: Four Harvests
     - Psalm 136: Requiem Aeternam
@@ -1654,7 +1654,7 @@ Before diving into the prophecies, it is important to first be introduced to Lad
 Solomon's muse and one of the main characters of Proverbs. If you haven't already do so, 
 it may be helpful to start by reading this article about her:
 
-[Lady Wisdom](./lady-wisdom.md)
+[Lady Wisdom](./lady-wisdom.html)
 
 For an excerpt that analyzes my favorite chapter, Proverbs 30, see [Riddles of War](./riddles-of-war.html).
 Otherwise, to read up on the entire book, follow the links below. They contain the entire contents
@@ -1711,7 +1711,7 @@ the quarrelsome, and the malicious.
 
 The details of the Fool's Clock are found in this article:
 
-[Proverbs 20 to 29](./proverbs-20-to-29.md)
+[Proverbs 20 to 29](./proverbs-20-to-29.html)
 
 <hr/>
 

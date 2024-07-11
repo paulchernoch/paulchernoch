@@ -48,7 +48,7 @@ In some cases, such essays have been expanded to include new insights.
   - The Final Ascent: Psalms 113-150 
   - Psalms of Growth: Psalms 1–28 
   - Psalm 19: The Glory of God’s Law 
-  - [Matthew and the Law of Christ](./matthew-and-the-law-of-christ.md)
+  - [Matthew and the Law of Christ](./matthew-and-the-law-of-christ.html)
   - A God-shaped Hole 
   - What did we miss? 
   - Epilogue: The Fifth Commandment 

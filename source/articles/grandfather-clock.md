@@ -184,7 +184,7 @@ Ecclesiastes has more to tell us.
 <span id="4"/>
 ## A Tripartite Book
 
-When speaking about the seven pieces of peace (the [Harvest Pattern](./harvest-pattern.md) ), 
+When speaking about the seven pieces of peace (the [Harvest Pattern](./harvest-pattern.html) ), 
 six years were assigned to each set of four times, which brings us to
 maturity at age 42, not 49. This agreed well with the
 number forty-two that popped up throughout the book.
@@ -283,8 +283,8 @@ divided by 28, or 175 years. How does that factor?
   <p>175 = 5 x 5 x 7 </p>
 </div>
 
-With [five](./5-is-for-grace.md) representing the harvest, repeating it twice
-means a complete harvest, and multiplying that by [seven](./7-is-for-the-holy-spirit.md)
+With [five](./5-is-for-grace.html) representing the harvest, repeating it twice
+means a complete harvest, and multiplying that by [seven](./7-is-for-the-holy-spirit.html)
 (divine completeness) conveys the idea of all the harvests
 coming in. The only appearance of the number 175 in
 scripture is as the length of Abraham’s life. The main

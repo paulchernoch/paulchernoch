@@ -1009,7 +1009,7 @@ It does this through negative philosophy, telling us all the good things that an
 Those are the very things that are Lord DID do for us.
 This prophecy is described in the following article on this website:
 
-[The Journey Pattern](./the-journey-pattern.md)
+[The Journey Pattern](./the-journey-pattern.html)
 
 That is all for Job's Anti-Jubilee Clock. It ended with the greatest Jubilee, the coming of Christ who forgives all out debts.
 
@@ -2355,7 +2355,7 @@ People were saying that Chernobyl was the Russian word for wormwood which made i
 
 In my journals, I tried to compare events in my world history text to the Bible and to the different 
 eschatological theories. Nightmares about being savaged by wild animals, or being persecuted and in hiding, or
-drowned in a flood tormented me for over a year, as related in [Dreams](./dreams.md). A speaker came to our
+drowned in a flood tormented me for over a year, as related in [Dreams](./dreams.html). A speaker came to our
 church to talk about his interpretation of Revelation. I asked him some pointed questions and concluded that he didn't know
 what he was talking about.
 
@@ -2451,7 +2451,7 @@ that describe the single idea that changed how I look at all End Times prophecy.
 
 Psalms 111 and 112 are both acrostics. Each phrase (not verse) begins with a different letter of the Hebrew alphabet,
 in alphabetical order. This device suggests a sequence running to completion, which is perfect for a prophetic clock.
-[Psalm 119](./psalm-119.md) has a prophetic clock, so why not these two?
+[Psalm 119](./psalm-119.html) has a prophetic clock, so why not these two?
 
 These two psalms fit together like peas in a pod, with Psalm 111 spanning the history from Creation until the coming of Christ
 and Psalm 112 continuing from there to Christ's second coming, with a small overlap in the middle.

@@ -431,9 +431,9 @@ However, it is more that setting a date on a timeline. The sequence and timing o
 These different systems tell different stories. One of the most important stories is the meaning of the Millennial Kingdom, the 
 time when Christ reigned or will reign over some or all of the earth.
 
-  - An optimistic system teaches that the church's influence will spread until most of the world is Christian. The Millennial Kingdom will be the outcome of the Church's success at spreading the gospel message. This kingdom will be the fruit of a great harvest of souls.
-  - A pessimistic system of eschatology will say that two worldviews will multiply. The middle ground of people who are neither hostile to Christianity nor willing to embrace it will vanish as the world becomes polarized. Thus Christ's Kingdom will grow at the same time as Satan's kingdom, the wheat growing up with the tares. The scope of the Millennial Reign of Christ will thus be limited; it will only be over the Church. Even so, like the optimistic view, this kingdom is a milestone near the culmination of God's plan for the world.
-  - Fractal Historicism views the Millennial Kingdom in a completely different way. That kingdom is not the culmination of God's plan for perfecting the church and maximizing its influence. On the contrary, it is a vital early stage in the gestation of the church. That kingdom does not end when the church is fully mature. It exists to allow the church to survive and thrive during an important early part of its development. After the millennium ends, the church is scheduled by God to face increasingly greater challenges on its way to full maturity. The end of the Millennial Kingdom is not the failure of the church, it is its graduation day or new birth.
+  - **An optimistic system** teaches that the church's influence will spread until most of the world is Christian. The Millennial Kingdom will be the outcome of the Church's success at spreading the gospel message. This kingdom arriving late in history will be the fruit of a great harvest of souls.
+  - **A pessimistic system** of eschatology will say that two worldviews will multiply. The middle ground of people who are neither hostile to Christianity nor willing to embrace it will vanish as the world becomes polarized. Thus Christ's Kingdom will grow at the same time as Satan's kingdom, the wheat growing up with the tares. The scope of the Millennial Reign of Christ will thus be limited; it will only be over the Church. Even so, like the optimistic view, this kingdom is a milestone near the culmination of God's plan for the world.
+  - **Fractal Historicism** views the Millennial Kingdom in a completely different way. That kingdom is not the culmination of God's plan for perfecting the church and maximizing its influence. On the contrary, it is a vital early stage in the gestation of the church. That kingdom does not end when the church is fully mature. It exists to allow the church to survive and thrive during an important early part of its development. After the millennium ends, the church is scheduled by God to face increasingly greater challenges on its way to full maturity. The end of the Millennial Kingdom is not the failure of the church, it is its graduation day or new birth.
 
 To sum up the preceding, this how many prominent views (besides amillennialism) break down history:
 
@@ -453,7 +453,7 @@ This is how Fractal Historicism divides history:
 Now for the details. First to be shown is a timetable with all the preceding events listed in chronological order. 
 It gives dates for those events that have already occurred, start dates for events that are underway, 
 and predictions for those future events which the clocks provide date ranges. Since the opening of the seals 
-and the blowing of the trumpets constitute multiple events, each is split into seven parts.
+and the blowing of the trumpets constitute multiple events, each is split into multiple parts.
 Next, since the first four seals match the horsemen of the Apocalypse, they are grouped together.
 
 To give additional context:
@@ -463,6 +463,53 @@ To give additional context:
 
 <img class="center" src="images/end-times-chronology.png" alt="Chronology of the End Times"/>
 
+## Accuracy of the Dates
+
+I am confident about some of the dates. Others are approximate. The themes behind the historical trends can be discerned from
+the prophecies, but the triggering events are not always clear. Thus the general era of some events is clearer than when it begins and ends. 
+Here are the most certain dates:
+
+  - **Binding of Satan in 380 AD**. Satan's throne, the mightiest and longest lasting empire in ancient history, became a Christian empire when Theodosius I issued the Edict of Thessalonica. Jesus told us that before you can plunder a man's house, you must bind the strong man. Since control over Rome allowed the church to plunder Satan's house, this event must be the event that bound him.
+  - **Millennial Kingdom of Christ from 380 to 1380 AD**. Most Christians who believe in a literal millennium expect that Jesus must return bodily to rule over it. However, Jesus told his disciples, "I will never leave you nor forsake you" and "And behold, I am with you always, to the end of the age". If he is with us, then he is ready to rule a kingdom at any time. Many prophesies tell us how he will rule the nations. "You shall break them with a **rod of iron** and dash them in pieces like a potter's vessel." (Psalm 2:9) Iron means Rome, as Daniel's prophecy makes clear. It was through Rome and the European empires that sprang from it (the ten toes) that Christianity dominated the world for a time. A similar note is taken in Revelation 2:26-27, which says, "The one who conquers and who keeps my works until the end, to him I will give **authority over the nations**, and he will **rule them with a rod of iron**, as when earthen pots are broken in pieces, even as I myself have received authority from my Father. This makes it clear that this kingdom is one of delegated authority. Revelation 12:5 and 19:15 repeat this phrase. As for the end of the main millennial kingdom, that occurred when a claimant to the throne of Byzantium allied with an Ottoman faction to win a civil war. Ottoman troops entered Constantinople in 1376 AD in support of the coup, symbolically freeing Satan. Sixty-seven years years later, the Ottoman Empire besieged and captured Constantinople, ending the Eastern Roman Empire. During those intervening years, the Ottomans besieged the capital five times. Satan's was unbound and his fury drove him to recapture his former throne.
+  - **Unbinding of Satan in 1380 AD**. Since Christ was to rule for a thousand years, if the start year for the millennium is certain, so is the end. The time that Satan was bound is coterminous with the age of the Millennial Kingdom.
+  - **Opening of First Seal in 1380 AD.** The first Horseman of the Apocalypse rides a white horse and carries a bow. The original Muslims were Arab, descended from Ishmael, called in Genesis 21:20 "an expert with the bow". Muslim legends claim that Mohammed rode a magical, flying white horse on his Night Journey to the farthest mosque (in Jerusalem). Thus the Ottoman Empire was the first horseman and its conquest of Byzantium, the Balkans and near victory at Vienna nearly destroyed Christendom.
+  - **Blowing of the First Trumpet in 1453 AD**. In Joshua, the Israelites marched round Jericho for seven days blowing trumpets and then the walls came tumbling down. They did this on the orders of an angel with a drawn sword. Revelation intentionally invokes this memory when speaking of God's actions as being like the blowing of trumpets. The seven trumpets of Revelation each accomplish different objectives, but to get our attention, the first involves the capture of an important city: Constantinople, by an army that blew trumpets relentlessly during the siege. God did not blow His trumpet against non-Christians. He blew it against a part of His church. This occurred during "a time to throw away". God threw away one third of Christendom.
+  - **Opening of the Second Seal in 1517 AD**. The second rider rode a red horse, wielded a sword and triggered civil war. What was the worst time of civil war that the Church ever endured? That would be the General Crisis of the 17th centuryn when half the population of Germany died and about forty million people total worldwide. This in turn built upon the fractures caused by the Protestant Reformation of the 16th century. The civil war had two causes: religious and political. Religious calamities are related to seals upon the scroll, whereas political calamities are attached to trumpets. In 1517, Martin Luther tacked his ninety-five theses upon the door of the Wittenberg Church. This was the religious cause of the conflict.
+  - **Blowing of the Second Trumpet in 1520 AD**. The same man, Martin Luther, triggered the blowing of this trumpet. In 1520, he wrote "To the Christian Nobility of the German Nation". This circular letter urged the German princes to take up arms to defend Protestant beliefs. In his letter, Luther said, "Josh. 6:20 Now God help us, and give us one of the trumpets with which the walls of Jericho were overthrown." The princes acted. The ultimate fate of Germany was to endure the Thirty Years war from 1618-1648.
+  - **Blowing of the Fifth Trumpet in 1765 AD**. The first and second trumpets overthrew the idea of a unified empire (political sphere) and a unified church (religious). This trumpet overthrew the world economic order. The four major developments were the abolition of slavery, the development of the capitalist economic system, the scientific revolution built on steam power, and the advent of a new democratic form of government to foster the unhindered progress of the first three. The era of this trumpet begins with James Watt's invention of a better steam engine in 1765 and concludes with the end of World War I, which introduced communism and totalitarianism. To establish this required solving many riddles, as reported in [153 and the Fifth Trumpet](./153-and-the-fifth-trumpet.html) and the other articles in that series. The locusts with women's hair are there identified with the Christian queens, especially Queen Victoria of England, whose emblem was a lion.
+  - **Opening of the Fourth Seal in 1918**. The Pale Horse of Death is Communism and Fascism, the two rival totalitarian systems that brought misery and death to hundreds of millions of people. The Russian Revolution occurred in 1918, the seminal event that triggered the rest.
+  - **Blowing of the Third Trumpet in 1922**. About this trumpet it says in Revelation, "**a great star** fell from heaven, blazing like a torch, and it fell on a third of the rivers and on the springs of water. The name of the star is **Wormwood**. A third of the waters became wormwood, and many people died from the water, because it had been made bitter." That star was the star of Communism. The Soviet Union was formed in December 1922. That year it adopted as its banner a flag with hammer and sickle and gold-bordered red star in 1922. Communist China would later adopt a flag with a start as well. Collectively, at its peak, a third of the earth's population were subject to Communist rule, as declared in the prophecy. The poisoning of the waters was a corruption of the truth ad the suppression of Christianity. Symbolically, the poisoning was heralded in 1986 with the Chernobyl Nuclear reactor meltdown, which poisoned the region literally. Many Christians at the time claimed that Chernobyl is the Russian word for Wormwood, also named in the prophecy. It turns out that a plant spelled “chornobyl” in Ukrainian is what we call mugwort, or *Artemisia vulgaris*. It is not wormwood. Wormwood is *Artemisia absinthium*. If you look at pictures of each, you can see a resemblance, but they are not difficult to distinguish. Yet God makes parables even out of our misunderstandings. Perhaps God caused that chance similarity of two plants and a spelling close to the name of a Soviet reactor to spark enough interest to warn the world. (This draws on analysis from the chapter "Aftertaste: Donner & Blitzen" in *Peace, like Solomon Never Knew*.)
+
+An obvious objection to the above is that this system places the blowing of the Fifth Trumpet before the blowing of the Third and Fourth Trumpets.
+Revelation says this:
+
+#### Then I looked, and I heard an eagle crying 
+#### with a loud voice as it flew directly overhead,
+##### “Woe, woe, woe to those who dwell on the earth,
+##### at the blasts of the other trumpets that the 
+##### three angels are about to blow!”
+###### - Revelation 8:13
+
+The Book of Revelation has a number of transitions where the narrative jumps back in time to add additional details. 
+The final three trumpets are called the three woes. They are in a special category. Thus after the fourth trumpet is blown, we jump back to the
+start of the Industrial Revolution. There is additional warrant for doing this. As discovered in *Job Rises* and reiterated in the chapter
+"Aftertaste: Donner & Blitzen" in *Peace, like Solomon Never Knew*, Job swaps the fourth and fifth day of creation to symbolically 
+declare his fear that the savior will arrive too late. The fifth day saw the creation of the sea creatures - including Leviathan. 
+The fourth day was when the Morning Star was created. Jesus is called the bright morning star. Thus Leviathan (Satan's minion) of Day 5 will arrive before
+Jesus' star of Day 4.
+
 <img class="center" src="images/pale-horse.jpg" alt="Rider on a pale horse"/>
+
+## Cross Sections for Key Events
+
+Now it is time to show how many clocks reinforce the time periods for key events.
+The following articles will each take up a few prophetic events. They will walk through several books of the Bible, showing how different clocks, 
+with different start and end dates, periods and phrasing, all point to that event occurring in the same era. It is like having 
+multiple lines on a planar graph intersect at the same point. With many prophetic pointers to the same event, we can often improve the accuracy of
+our prophecies and narrow down the event to within a decade or two.
+
+  - [The Millennial Kingdom](./the-millennial-kingdom.html). Reveals how we know when the binding and loosing of Satan and the Millennial reign of Christ occurred.
+
+
 
 In progress...

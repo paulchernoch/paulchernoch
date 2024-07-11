@@ -39,7 +39,7 @@ The simple answer is that the Seven Pillars are seven books of the Bible:
 A deeper answer is that the pillars are seven spiritual principles, with each principle
 forming the focus of one of the seven books. Those seven principles of wisdom are
 not absent in the rest of the Bible. What distinguishes these seven books is that all of them
-conform both to Jesus' [Harvest Pattern](./harvest-pattern.html) and Solomon's [Growth Pattern](./growth-pattern.md),
+conform both to Jesus' [Harvest Pattern](./harvest-pattern.html) and Solomon's [Growth Pattern](./growth-pattern.html),
 which other Bible books do not. The first is a tactical pattern for progressing in your faith and finding victory 
 in spiritual battle. The second is a strategic pattern to govern your life. They each define processes that lead to peace
 and make you strong like a pillar, unshakeable. Together they frame God's framework for time and his plan for all of history.

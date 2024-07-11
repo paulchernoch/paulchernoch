@@ -91,7 +91,7 @@ Revelation, the two-edged sword makes a rare appearance.
 The remaining three mentions of swords use them as
 metaphors for rash words (12:18), false witness (25:18), and
 oppression against the poor (30:14). As the appendix on
-Proverbs made clear, [Proverbs 30 is the battle plan](./riddles-of-war.md) for the
+Proverbs made clear, [Proverbs 30 is the battle plan](./riddles-of-war.html) for the
 final war between good and evil. This imagery of swords
 makes the unity of these books clearer.
 
