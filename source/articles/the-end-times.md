@@ -7,7 +7,7 @@ quote: "eschatology: <br/> a branch of theology concerned with the <br/> final e
 ## Fractal Historicism
 
 This article introduces **Fractal Historicism**, the system of eschatology described and developed on this website. 
-The above diagram compares it to a few alternate systems. The system is similar to classical [Historicism](/https://en.wikipedia.org/wiki/Historicist_interpretations_of_the_Book_of_Revelation), which Wikipedia describes with these words:
+A diagram in this article compares it to a few alternate systems. The system is similar to classical [Historicism](/https://en.wikipedia.org/wiki/Historicist_interpretations_of_the_Book_of_Revelation), which Wikipedia describes with these words:
 
 <em>
 Historicism is a method of interpretation in Christian eschatology which associates biblical prophecies with 
