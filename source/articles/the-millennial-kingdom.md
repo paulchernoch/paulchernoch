@@ -13,14 +13,14 @@ that are offered conform to a system called **Fractal Historicism** and defined 
 
 There is no theory of eschatology that can explain Revelation 20 without difficulty. 
 
-<div class="quote">
+<em>
   <p>Then I saw an angel coming down from heaven, holding in his hand the key to the bottomless pit and a great chain. And he seized the dragon, that ancient serpent, who is the devil and Satan, and bound him for a thousand years,and threw him into the pit, and shut it and sealed it over him, so that he might not deceive the nations any longer, until the thousand years were ended. After that he must be released for a little while.</p>
 
   <p>Then I saw thrones, and seated on them were those to whom the authority to judge was committed. Also I saw the souls of those who had been beheaded for the testimony of Jesus and for the word of God, and those who had not worshiped the beast or its image and had not received its mark on their foreheads or their hands. They came to life and reigned with Christ for a thousand years. The rest of the dead did not come to life until the thousand years were ended. This is the first resurrection. Blessed and holy is the one who shares in the first resurrection! Over such the second death has no power, but they will be priests of God and of Christ, and they will reign with him for a thousand years.</p>
 
   <p>And when the thousand years are ended, Satan will be released from his prison and will come out to deceive the nations that are at the four corners of the earth, Gog and Magog, to gather them for battle; their number is like the sand of the sea.</p>
   <p>- Revelation 20:1-8</p>
-</div>
+</em>
 
 Some end times theories argue that there will be two physical resurrections for believers, the first at the 
 start of the millennium and second after the final battle with Satan. In **Fractal Historicism**, 
