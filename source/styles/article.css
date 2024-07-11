@@ -70,6 +70,12 @@
   color: var(--light-blue-grey)
 }
 
+/* Indent and italicize quoted text */
+.quote p {
+  text-indent: 2em;
+  font-style: italic;
+}
+
 /* Table cells */
 .article td {
   vertical-align: top;
