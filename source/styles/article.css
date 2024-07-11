@@ -71,8 +71,8 @@
 }
 
 /* Indent and italicize quoted text */
-.quote p {
-  text-indent: 2em;
+div.quote {
+  text-indent: 10px;
   font-style: italic;
 }
 
