@@ -500,15 +500,40 @@ Jesus' star of Day 4.
 
 <img class="center" src="images/pale-horse.jpg" alt="Rider on a pale horse"/>
 
+## The Seven Cycles of Judgment
+
+Revelation enumerates many wars, plagues, and calamities of all sorts. Some of them are grouped into sevens.
+Each End Times system has something to say about how these events are organized and what that means.
+Some have divided Revelation into seven parts, each dominated by a different seven. 
+One example of this that I found on the Internet is:
+
+  1. 7 Letters to the churches - Rev 1-3
+  2. 7 Seals - Rev 4-7
+  3. 7 Trumpets - Rev 8-11
+  4. 7 Histories - Rev 12-14
+  5. 7 Bowls - Rev 15-16
+  6. 7 Messages to Babylon - Rev 17-19
+  7. The Great Consummation - Rev 20-22
+
+Fractal Historicism is no exception. This system also breaks things into seven sevens, but instead of focusing
+of the visible effects, it shines a light on the underlying cause, the distinct animating spirit behind each series.
+Each phase of God's plan judgment is instigated by a different one of the Seven Spirits of God.
+See how that is so in this article:
+
+[Seven Cycles of Judgment](./seven-cycles-of-judgment.html)
+
+
 ## Cross Sections for Key Events
 
-Now it is time to show how many clocks reinforce the time periods for key events.
-The following articles will each take up a few prophetic events. They will walk through several books of the Bible, showing how different clocks, 
-with different start and end dates, periods and phrasing, all point to that event occurring in the same era. It is like having 
-multiple lines on a planar graph intersect at the same point. With many prophetic pointers to the same event, we can often improve the accuracy of
-our prophecies and narrow down the event to within a decade or two.
+It is time to show how many clocks reinforce the time periods for key events.
+The following article will take up a few prophetic events: the Millennial Kingdom and the binding and loosing of Satan. 
+It will walk through several books of the Bible, showing how different clocks, 
+with different start and end dates, periods and phrasing, all point to that event occurring in the same era. 
+It is like having multiple lines on a planar graph intersect at the same point. With many prophetic pointers 
+to the same event, we can often improve the accuracy of our prophecies and narrow down the event to within 
+a decade or two.
 
-  - [The Millennial Kingdom](./the-millennial-kingdom.html). Reveals how we know when the binding and loosing of Satan and the Millennial reign of Christ occurred.
+[The Millennial Kingdom](./the-millennial-kingdom.html)
 
 
 
