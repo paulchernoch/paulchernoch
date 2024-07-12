@@ -567,3 +567,53 @@ can combine the ranges for the start and end of the millennium to get this range
 
 That reduced the uncertainty to only ten years! That is how combining many inexact clocks can yield exact answers.
 That is where Fractal Historicism shines.
+
+## How long is "A Little While"?
+
+In Revelation 20:3, it says about the time after Satan is unbound, *"After that he must be released for a little while."*
+How long is "a little while"? This phrase is found elsewhere in Revelation. Perhaps looking at that will help.
+
+#### This calls for a mind with wisdom:
+#### the seven heads are seven mountains 
+#### on which the woman is seated; 
+#### they are also seven kings, five of whom have fallen,
+#### one is, the other has not yet come, 
+#### and when he does come he must 
+#### remain only **a little while**.
+###### - Revelation 17:9-10
+
+The seventh king who was to remain "a little while" was a series of Islamic Caliphates. 
+In [Timeless?](./timeless.html), the length of time that Islamic peoples controlled Jerusalem
+was 1,248 years, ending in 1967. This excludes the two times that Christian Crusaders controlled it. 
+It includes the time of the British mandate, because Britain permitted the Arabs to rule Jerusalem.
+If you add to this period the years until the peace treaty Between Israel, Jordan and Egypt was 
+signed in 1979, you get 1,260 years, which is significant in prophecy. 
+1,260 years equals 42 months (42 x 30 = 1,260). So in Revelation 17, "a little while" equals 1,260 years.
+However, "a little while" is a relative term. To what is it being compared? It is being compared to Rome.
+In its various forms, the Roman Empire lasted 1,480 years, from 28 BC until 1453 AD.
+(If you count its existence as a republic or kingdom, then even longer than that.)
+So the seventh empire in John's list is being compared to the sixth empire, Rome, which lasted the longest.
+
+In Revelation 20:3, do we have a time frame to which "a little while" is being compared? Yes, and the author
+tells it to us bluntly. The time frame for comparison is "a thousand years". That period is repeated six times
+in the chapter and no other length of time is given. You could say that this chapter also represents 
+all of history. Only seven time periods are given. Six times you hear of the thousand years and once of 
+"a little while". This suggests that the full length of human history will be six full millennia 
+plus one partial millennium, for a total between 6,000 and 7,000 years.
+
+However, in the immediate context, all we know is that after he is released, Satan will have less than 
+a thousand years to prepare for and launch his final attack. According to the clocks of the 
+Fractal Historicist framework, Satan was unbound in 1380 AD. That means that he will be defeated 
+before 2380 AD. Based on Satan's Countdown Timer and other clocks, the year 2280 AD is offered as being as
+close to that date as the precision of the clocks and our knowledge of the past
+(especially the date of Creation) permits. For that date, "a little while" is 900 years.
+That is a mere 256 years from now.
+
+When King Hezekiah took ill, he humbled himself and pleaded with God for mercy, and his life was extended.
+God had a plan which Isaiah told to the king. In that plan, Hezekiah would die that very year. 
+After his prayer, Isaiah told him of God's revised plan: Hezekiah would be given fifteen more years.
+I have shown you a plan. That plan is in the Bible and it tells us that the human race is in a race against time.
+Will we humble ourselves like Hezekiah? I can see the current plan but I can't know how the world will respond.
+If most people reject God's mercy and refuse his offer of salvation, the plan will go forward as is.
+Pray for the people you know and pray for your own soul. The words of Revelation were not given to cause despair,
+but to wake us up and tell us how we need to change. Even so, we only have "a little while" to make that change.

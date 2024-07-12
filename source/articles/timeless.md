@@ -4,7 +4,7 @@ quote: But about that day or hour no one knows, <br/> not even the angels in hea
 ---
 <img class="center" src="images/leopard-bear-lion.png" />
 
-This article originally appeared as a chapter in my book *Peace, like Solomon Never Knew*. 
+This article originally appeared as "Timeless?", a chapter in my book *Peace, like Solomon Never Knew*. 
 
 <hr/>
 
