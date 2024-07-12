@@ -198,6 +198,13 @@ of the website: [Prophetic Clocks](./prophetic-clocks.html). We will not define 
 Instead the clock will be named, the passage with the prophecy identified, and the year range that the clock
 assigns to that event given.
 
+### Ecclesiastes 3, from Solomon's Celestial Clock
+
+When Jesus was crucified, that was "a time to weep", according to Solomon's list of times.
+When the church was persecuted by Rome, especially under Diocletian, that was "a time to mourn".
+The tears and mourning turned to the joy of "a time to dance" when Rome became Christian.
+The era for that time was **360-480 AD**.
+
 ### Psalm 105, from The Master Psalm Clock.
 
 This section is quoted from "Songs in the Night: Psalms 1-110" of *Plague, Precept, Prophet, Peace*.
@@ -242,5 +249,321 @@ Jesus Christ:
 
 Rome had been the devil’s strong man. Now all the goods in that house were the Lord’s.
 
+### Psalm 91
 
-In progress...
+For another prophetic psalm that speaks of this era, see **Psalm 91**. The analysis is so complicated
+that it deserves a whole article: [Satan's Taunt](./satan-s-taunt.html)
+
+Psalm 91 not only identifies the beginning of the Millennium, but also its end and the year of the siege of Constantinople.
+
+### Psalm 112:3, from The Acrostic Clock
+
+Psalm 112:3 corresponds to the era **257-495 AD**.
+
+It has the words *"Wealth and riches are in his house, and his righteousness endures forever."*
+
+This is another account of the plundering of Rome by the church.
+
+### Job 26:2-3 from Job's Chapter Clock
+
+This chapter of Job corresponds to the 26th generation, **376-495 AD**.
+
+#### “How you have **helped him who has no power**!
+##### How you have **saved the arm that has no strength**!
+#### How you have counseled him who has no wisdom,
+##### and plentifully declared sound knowledge!
+###### - Job 26:2-3
+
+The once powerless church was not just strengthened, it was placed in charge of the most powerful empire on the planet.
+God does help. God does strengthen. As for plentifully declaring sound knowledge, this era included 
+Saint Jerome completing the Vulgate and Saint Augustine writing *City of God*.
+
+But wait - there is more!
+
+#### By his power he stilled the sea;
+##### by his understanding he shattered Rahab.
+#### By his wind the heavens were made fair;
+##### his hand **pierced the fleeing serpent**.
+###### - Job 26:11-13
+
+Piercing the fleeing serpent means that God caught the serpent on His fishhook.
+That was the binding of Satan.
+
+### Job 34 from Job's Chapter Clock
+
+If Job 26 described the binding of Satan, chapter 34 announces his unbinding. Here is part of the analysis from "The Second Half: Job 21-37".
+
+The 34th generation lasted from **1328-1447 AD**.
+
+In chapter 34 of Job, the theme is “God is not unjust.”
+The Almighty does not show partiality. He previously
+executed judgment against Israel and succeeding empires.
+We await the day the Lord will judge the world, but the
+fourteenth and early fifteenth centuries were frightful
+times. God judged the church. This was the end of the five
+hundred year era of the church of Sardis, the “Dead Church”.
+
+#### Although I am right,
+##### I am considered a liar;
+#### although I am guiltless,
+##### his arrow inflicts an incurable wound.’
+###### - Job 34:6
+
+Two incurable wounds afflicted the church during these
+years: the Black Plague and the precipitous decline (wound)
+of the Byzantine Empire, which would fall (die) six years
+after the close of the era. One claimed individuals, the other an empire.
+
+#### Is there anyone like Job,
+##### who drinks scorn like water?
+###### - Job 34:7, NIV
+
+#### They die in an instant, in the middle of the night;
+#### the people are shaken and they pass away;
+#### the mighty are removed without human hand.
+###### - Job 34:20-21, NIV
+
+Among the many symptoms that people suffering from Bubonic Plague presented were high fever, chills (verse 20)
+and unquenchable thirst (verse 7). Accounts of the Black Plaque tell of people going to bed healthy but 
+dead by dawn (verse 20).
+
+#### Without inquiry he shatters the mighty
+##### and sets up others in their place.
+#### Because he takes note of their deeds,
+##### he overthrows them in the night and they are crushed.
+###### - Job 34:24-25, NIV
+
+As for the Byzantine Empire, it was shattered and the
+Ottoman Empire set up it its place. Its overthrow came in
+the night, which means near the end of one era or
+beginning of the next.
+
+The phrase *“His arrow inflicts an incurable wound”* supplies another clue. 
+The first horseman of the Apocalypse in Revelation carries a bow. 
+Ishmael was an archer and father to the Arabs, from whom was descended
+Mohammed. Thus it was the armies of Islam that delivered the incurable wound, 
+acting as the first horseman.
+
+### Revelation 2:13 from the Seven Letters Clock
+
+This is from the letter to the church of Pergamum, for the era 313-550 AD. 
+The analysis was originally given in "Seven Churches for Seven Eras" in *Peace, like Solomon Never Knew*. 
+
+The name Pergamum means “united in marriage”. This is the era of
+the state church, the compromising church. In 380 AD, the
+Edict of Thessalonica made Christianity the state religion of
+the Roman Empire. This “marriage” of government and
+religion completed the process begun under Constantine.
+The scriptural evidence for this is:
+
+#### I know where you live—where Satan has his throne. 
+#### Yet you remain true to my name. You did not renounce
+#### your faith in me, not even in the days of Antipas, 
+#### my faithful witness, who was put to death in
+#### your city—where Satan lives. 
+###### - Revelation 2:13, NIV
+
+The real city of Pergamum (or Pergamon) was famous for
+its temples of Athena and Trajan, which symbolize Satan’s
+throne. The era of Pergamum, on the other hand, was
+centered in Rome, which as the greatest pagan empire in
+the world could be considered Satan’s true throne.
+
+### Psalm 102:12 of the Holy Spirit Clock
+
+Each verse of this psalm corresponds to one of Solomon's times.
+For "a time to dance" the era is **360–480 AD**. The verse is:
+
+#### But you, O Lord, are enthroned forever;
+##### you are remembered throughout all generations.
+###### - Psalm 102:12
+
+This is the era in which the church truly was enthroned,
+as Christianity became the state religion of the Roman
+Empire following the Edict of Thessalonica in 380 AD.
+
+### Psalm 110: Christ the Conqueror
+
+Psalm i110 is not a clock with multiple prophecies for successive eras.
+Instead it represents a single time and a single prophecy.
+The following was originally published in "Appendix D: To Number our Psalms" from
+*Peace, like Solomon Never Knew*. 
+
+Psalm 110: Christ the Conqueror, for the era 4020 BC–380 AD.
+
+This psalm declares one thing eloquently. It predicts the
+year when the Lord’s political influence would extend to
+capture control of an empire!
+
+#### The LORD says to my lord:
+##### “Sit at my right hand
+##### **until I make your enemies**
+##### **a footstool for your feet**.”
+#### The LORD will **extend your mighty scepter** from Zion, saying,
+##### **“Rule in the midst of your enemies**!”
+###### - Psalm 110:1-2
+
+Jesus quoted this passage in Mark 12:35-37 and in
+Matthew and Luke to confound his enemies as to the
+identity of the messiah. How could David call the messiah
+lord if he was his son? Father’s do not call their children or
+later descendants “lord”! The answer is that the messiah
+existed before David; the messiah is eternal and divine, yet
+also David’s son through the incarnation. Thus the
+prophecy of this psalm has its starting point at the
+beginning of creation, signifying the ancient origin of the
+Son of God.
+
+The Lord was pointing us to this psalm to show us that it
+not only promised victory for the Lord and his people, it
+also told us when! The number [forty is for suffering](./40-is-for-suffering.html).
+It signifies a time of testing. After Jesus had fasted forty days, Satan tempted
+him with an offer of dominion over all the kingdoms of the
+earth, which Christ refused. This also reveals a connection
+between forty and dominion. After all, David and Solomon
+each ruled Israel for forty years. What happened after the
+world endured 110 forties?
+
+<div class="pullquote-centered">
+  <p>4020 BC + (110 x 40) years = 380 AD</p>
+</div>
+
+It was 110 x 40 or 4,400 years from the creation until the
+Edict of Thessalonica officially made the Roman Empire a
+Christian empire. Christ received his scepter. It did not start
+with all the kingdoms of the earth, just one, surrounded by
+enemies as promised.
+
+#### The Lord is at your right hand;
+##### he will crush kings on the day of his wrath.
+#### He will judge the nations, heaping up the dead
+##### and crushing the rulers of the whole earth.
+###### - Psalm 110:5-6
+
+The preceding verses announced that the Lord would
+crush the rulers of the whole earth. It was through Rome
+and its offshoots, the European Colonial Empires, that all
+the rulers of the earth were crushed. There remains a
+second day when he shall do it again, upon his return.
+From the two meanings of forty comes a lesson. Submit
+to the dominion of God and you shall enjoy forty years of
+peace. Reject the dominion of God and you shall endure
+forty years of suffering.
+
+### Ecclesiastes 10:11 : The Grand Father Clock
+
+In keeping with the fractal nature of this system, Ecclesiastes has at least three clocks:
+
+  - Solomon's Celestial Clock runs from the dedication of the temple in 960 BC to the end.
+  - Rebirth of Israel Clock runs from the Holocaust to the end.
+  - The Grand Father Clock runs from the Creation to the end.
+
+In the chapter "A Grand Father Clock & a Silver Cord", the third of these clocks is explained.
+Verse 10:11 falls in the era 1380–1480 AD:
+
+#### If a snake bites before it is charmed,
+##### the charmer receives no fee.
+###### - Ecclesiastes 10:11
+
+The snake is a reference to Satan. If it is no longer charmed, it must be free.
+This speaks of the unbinding of Satan in 1380 AD.
+
+My book also had a complicated analysis of Psalm 58, which associates it with the Islamic conquest and final overthrow.
+In that Psalm, snake imagery also refers to Satan and this time of unbinding:
+
+#### Their venom is like the venom of a snake,
+##### like that of **a cobra that has stopped its ears**,
+#### that will **not heed the tune of the charmer**,
+##### however skillful the enchanter may be.
+#### Break the teeth in their mouths, O God;
+##### LORD, tear out the **fangs of those lions**!
+#### Let them vanish like water that flows away;
+##### **when they draw the bow**, 
+###### **let their arrows fall short**.
+###### - Psalm 58:4-7
+
+### Proverbs 30:17-19 in the Sevenfold Battle Plan
+
+"Appendix E; The Plan of Proverbs" analyzed Proverbs 30. Part of the chapter
+is a parable about the five main eras of Christian missions:
+
+#### The eye that mocks a father
+##### and scorns to obey a mother
+#### will be picked out by the **ravens** of the valley
+##### and eaten by the vultures.
+#### Three things are too wonderful for me;
+##### four I do not understand:
+##### the way of an **eagle** in the sky,
+##### the way of a **serpent** on a rock,
+##### the way of a **ship on the high seas**,
+##### and the way of a **man with a virgin**.
+###### - 30:17–19
+
+The five eras of missions were:
+
+  - **The Raven era**: Apostolic and Persecuted church (before Constantine)
+  - **The Eagle Era**: Christian Rome (Rome's symbol was an eagle)
+  - **The Serpent Era**: After Satan unbound
+  - **The Ship Era**: Christian Colonial expansion by sea, to the Americas and the world
+  - **The Ere of Man and Maid**: Women gain freedoms and join men as missionaries
+
+Once again, a Scripture reference to snakes refers to Satan's unbinding.
+The analysis of Proverbs did not supply dates for these five missionary eras,
+but in Matthew are prophecies about the five missionary eras that do specify the dates.
+
+### Matthew 5:5,10 from Matthew's Monthly Planner
+
+This clock begins with Christ's resurrection and runs until the end. The era for chapter 5 is 354-434 AD.
+
+The prophecy is that the once persecuted Christians now inherit the kingdom of Rome:
+
+#### Blessed are the meek,
+##### for they will **inherit the earth**.
+###### Matthew 5:5
+
+#### Blessed are those who are persecuted because of righteousness,
+##### for theirs is the **kingdom of heaven**.
+###### - Matthew 5:10
+
+The idea that Jesus' Beatitudes hold more than a spiritual meaning, but literally promised the
+church that it would inherit an empire and told it when amazes me. This prophecy also declares 
+it to be "the kingdom of heaven". If that is not a prophecy of the coming of the Millennial Kingdom,
+nothing is!
+
+That should suffice to demonstrate that God's gift of the Roman empire to the Church caused the founding of the Millennial Kingdom.
+It should also establish when the binding and loosing of Satan and the events surrounding the ending of that kingdom occurred.
+Those events are all well attested to in the prophetic clocks.
+
+Let's gather the date ranges for the start of the Millennial Kingdom and binding of Satan from the several clocks:
+
+  - 360-480 AD
+  - 348-390 AD
+  - 257-495 AD
+  - 376-495 AD
+  - 313-550 AD
+  - 360-480 AD
+  - 354-434 AD
+
+Observe that if you form the intersection of all these ranges, you do not get the empty set.
+That means that the ranges are not contradictory. What is that intersection?
+It runs from the highest start year to the lowest end year:
+
+  - 376-390 AD
+
+This means that by combining the results from all these prophetic clocks it is possible to narrow down the year range
+to just fourteen years. Now lets take our two estimates for when Satan would be unbound:
+
+  - 1328-1447 AD
+  - 1380-1480 AD
+
+If you intersect those two ranges you get:
+
+  - 1380-1447 AD
+
+That range is sixty-seven years long. Now if you require the Millennial Kingdom to last a thousand years, you
+can combine the ranges for the start and end of the millennium to get this range for the start of the Millennium:
+
+  - 380-390 AD
+
+That reduced the uncertainty to only ten years! That is how combining many inexact clocks can yield exact answers.
+That is where Fractal Historicism shines.
