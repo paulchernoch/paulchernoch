@@ -191,8 +191,56 @@ the range of solutions proposed by others and pick ones that worked together wit
 
 With the preceding as prolog, it is time to look at several prophetic clocks from my books
 and see what they have to say about Satan being bound and about Christ's rule over the nations.
-Many of the clocks are introduced in the several articles in this section of the website: [Prophetic Clocks](./prophetic-clocks.html). We will not define those clocks or prove their existence here.
+The symmetry of the stories of Satan's temptations of Eve, Job, Jesus and the nations
+was the first clock I called **Satan's Countdown Clock**. It was so named on account of the fact that each event follows
+the previous by successively shorted amounts of time. Many of the clocks are introduced in the several articles in this section 
+of the website: [Prophetic Clocks](./prophetic-clocks.html). We will not define those clocks or prove their existence here.
 Instead the clock will be named, the passage with the prophecy identified, and the year range that the clock
 assigns to that event given.
+
+### Psalm 105, from The Master Psalm Clock.
+
+This section is quoted from "Songs in the Night: Psalms 1-110" of *Plague, Precept, Prophet, Peace*.
+Psalm 105 corresponds to the era **348-390 AD**.
+
+#### When they were few in number,
+##### of little account, and sojourners in it,
+#### wandering from nation to nation,
+##### from one kingdom to another people,
+###### he allowed no one to oppress them;
+#### **he rebuked kings on their account**,
+##### **saying, “Touch not my anointed ones**,
+##### **do my prophets no harm!**”
+#### When he summoned a famine on the land
+##### and broke all supply of bread,
+#### he had sent a man ahead of them,
+##### Joseph, who was sold as a slave.
+#### His feet were hurt with fetters;
+##### his neck was put in **a collar of iron**;
+#### until what he had said came to pass,
+##### the word of the Lord tested him.
+#### **The king sent and released him;**
+##### **the ruler of the peoples set him free;**
+#### **he made him lord of his house**
+##### **and ruler of all his possessions**,
+#### **to bind his princes at his pleasure**
+##### **and to teach his elders wisdom**. (105:12-22)
+
+This psalm retells the story of Joseph, who rose from slavery to command an empire. 
+In this era, by the Edict of Thessalonica, Rome officially became a Christian empire.
+That edict is the expression of God’s rebuke, *“Touch not my anointed ones, do my prophets no harm!”*
+The majority of Christians were drawn from the ranks of slaves and plebeians, just like
+Joseph. In prophecy, Rome is symbolized as the empire of iron (e.g. Daniel 2:33), and so
+the *“collar of iron”* was removed from God’s people. Thus was fulfilled the prophecy of
+Jesus Christ:
+
+#### Or how can someone enter a strong man's house 
+##### and plunder his goods, 
+###### unless he first binds the strong man? 
+#### Then indeed he may plunder his house.
+###### - Matthew 12:29
+
+Rome had been the devil’s strong man. Now all the goods in that house were the Lord’s.
+
 
 In progress...
