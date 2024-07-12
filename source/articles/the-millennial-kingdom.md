@@ -9,6 +9,21 @@ that are offered conform to a system called **Fractal Historicism** and defined 
 
 <hr/>
 
+<div class="sections">
+
+Sections of this article:
+
+  <ol>
+    <li> <a href="#1">The First Resurrection</a> </li>
+    <li> <a href="#2">To Deceive the Nations</a> </li>
+    <li> <a href="#3">Why expect a pattern of years?</a> </li>
+    <li> <a href="#4">Clock by Clock</a> </li>
+    <li> <a href="#5">How long is "A Little While"?</a> </li>
+  </ol>
+
+</div>
+
+<span id="1"/>
 ## The First Resurrection
 
 There is no theory of eschatology that can explain Revelation 20 without difficulty. 
@@ -36,6 +51,7 @@ All literal systems that posit a visible first resurrection and literal millenni
 history to extend beyond 7,000 years. May it be so, but I am not prepared to sacrifice an
 idea proposed by people wiser and holier than I.
 
+<span id="2"/>
 ## To Deceive the Nations
 
 In 2020, I began to tackle the problem of assigning dates for the millennium. The answer did not
@@ -101,8 +117,21 @@ to sift Peter like wheat, but that event happened near in time to when Jesus was
 Satan going out to deceive the nations as prophesied in Revelation 20 as representing a fourth tempting by Satan.
 Paul then supplies a fifth prophesied example of Satan's temptation in the accounts of the strong delusion: *"Therefore God sends them a strong delusion, so that they may believe what is false."* (2 Thessalonians 2:11)
 
-In *Peace, like Solomon Never Knew*, in the chapters "Three Appointments with Satan" and "The Final Countdown", 
-I worked my way from an approximate number series to a precise one. Here are the initial, imprecise numbers:
+Before tackling dates, do we have a reason besides the presence of Satan in the account to tie these
+stories of temptation together into a meaningful sequence? The chapter "The Final Countdown" has this to say: 
+
+*Recall the numerical sequence?*
+
+  - *Eve was tempted **once** (the fruit),*
+  - *Job was cursed **twice** (loss of property and children followed by loss of health and status),*
+  - *and Jesus was tempted **three times** (with bread, safety from harm and authority over the nations).*
+  - *In the deception of the nations above, he goes out to the “**four** corners of the earth”. We are also reminded of the **four horsemen of the apocalypse** which are sent into the world.*
+
+*Yes, we have good reason to suppose that this deception of the nations spoken of in Revelation is the next step in Satan’s plan.*
+
+Returning to dates, in *Peace, like Solomon Never Knew*, in the chapters "Three Appointments with Satan" 
+and "The Final Countdown", I worked my way from an approximate number series to a precise one. 
+Here are the initial, imprecise numbers:
 
   - **4004 BC**: Temptation of Eve (near the Creation according to Bishop Ussher)
   - **1750 BC**: Temptation of Job
@@ -155,6 +184,7 @@ If he was ubound in 1380, then he must have been bound in 380 AD. What happened 
 That was the year that Rome became a Christian empire as a result of Theodosius I's Edict of Thessalonica.
 That was the backwards way that I discovered the year when Satan was bound and the Millennial Kingdom began.
 
+<span id="3"/>
 ## Why expect a pattern of years?
 
 The entire chain of reasoning above flowed from my expectation that God structures history in a regular way
@@ -187,6 +217,7 @@ additional constraints to sharpen the result. When the numbers did not add up, I
 and if necessary changed them. There are many ways to solve some chronology problems; I had to research 
 the range of solutions proposed by others and pick ones that worked together without contradiction. 
 
+<span id="4"/>
 ## Clock by Clock
 
 With the preceding as prolog, it is time to look at several prophetic clocks from my books
@@ -568,6 +599,7 @@ can combine the ranges for the start and end of the millennium to get this range
 That reduced the uncertainty to only ten years! That is how combining many inexact clocks can yield exact answers.
 That is where Fractal Historicism shines.
 
+<span id="5"/>
 ## How long is "A Little While"?
 
 In Revelation 20:3, it says about the time after Satan is unbound, *"After that he must be released for a little while."*

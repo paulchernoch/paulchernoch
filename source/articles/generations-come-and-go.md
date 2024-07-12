@@ -9,7 +9,7 @@ quote: A generation goes, and a generation comes, <br/> but the earth remains fo
 Sections of this article:
 
   <ol>
-    <li> <a href="#1">Tbe Mystery of Matthew's Genealogy</a> </li>
+    <li> <a href="#1">The Mystery of Matthew's Genealogy</a> </li>
     <li> <a href="#2">Autocorrelation</a> </li>
     <li> <a href="#3">A Cosmic Chiasm</a> </li>
     <li> <a href="#4">The Optimal Solution</a> </li>
