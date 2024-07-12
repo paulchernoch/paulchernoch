@@ -49,7 +49,7 @@ today to find when it ended. It was the writings of Ellis Skolfield that made it
 nations that once formally acknowledged Jesus as their Lord have turned away. That means that for many years 
 Satan has been deceiving the nations and causing them to renounce their former loyalty. When did this trend begin?
 Skolfield proposed a year, but I pushed it farther back in to the past. I initially settled on 1453 AD, when
-Constantinople fell, but another line of reasoning made me push it farther back, to 380 AD. Here is
+Constantinople fell, but another line of reasoning made me push it farther back, to 1380 AD. Here is
 the logic that led me to my first guess of 1453 AD, from "The Final Countdown" in *Peace, like Solomon Never Knew*:
 
 #### When did this great deception begin? 
@@ -384,7 +384,7 @@ Empire following the Edict of Thessalonica in 380 AD.
 
 ### Psalm 110: Christ the Conqueror
 
-Psalm i110 is not a clock with multiple prophecies for successive eras.
+Psalm 110 is not a clock with multiple prophecies for successive eras.
 Instead it represents a single time and a single prophecy.
 The following was originally published in "Appendix D: To Number our Psalms" from
 *Peace, like Solomon Never Knew*. 
