@@ -95,7 +95,7 @@ This yielded an approximate time for the end of 2283 AD.
 After that, I studied Job for several years. Part of that research yielded an approximate date for the events in
 that book in the range 1800-1700 BC. When I turned my attention to Ecclesiastes, I began to develop the 
 [Growth Pattern](./growth-pattern.html). Insights from the story of the temptation of Jesus in Matthew were
-important in developing this pattern. to understand that temptation. I looked for all the places where Satan
+important in developing this pattern. To understand that temptation, I looked for all the places where Satan
 tempts people. My initial search found three: Eve, Job, and Jesus (ca 29 AD). Jesus alludes to another: Satan has asked 
 to sift Peter like wheat, but that event happened near in time to when Jesus was tempted. Later on, I added
 Satan going out to deceive the nations as prophesied in Revelation 20 as representing a fourth tempting by Satan.
@@ -117,7 +117,7 @@ keep getting less, and there is no obvious rule for how:
   <p>2254, 1778, 1424, 869</p>
 </div>
 
-I was no longer a child. I plotted the numbers and fit a curve to them. It was close to a declining
+I was no longer a child, so I didn't give up. I plotted the numbers and fit a curve to them. It was close to a declining
 quadratic sequence, in which each difference is the same as the previous difference with a 
 constant factor removed. An example of an ascending quadratic sequence would be:
 
