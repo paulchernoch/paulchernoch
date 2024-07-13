@@ -531,9 +531,53 @@ It will walk through several books of the Bible, showing how different clocks,
 with different start and end dates, periods and phrasing, all point to that event occurring in the same era. 
 It is like having multiple lines on a planar graph intersect at the same point. With many prophetic pointers 
 to the same event, we can often improve the accuracy of our prophecies and narrow down the event to within 
-a decade or two.
+a decade.
 
 [The Millennial Kingdom](./the-millennial-kingdom.html)
+
+
+## The Era of the Fifth Trumpet
+
+When the Ottomans charged Constantinople in 1453, they blew traditional trumpets but at the same time a bugle call unheard by
+human ears was sounded. That **first trumpet** was blown by an angel, as told in Revelation 8:7. 
+**Down tumbled walls of the Byzantine Empire**. Up rose smaller, independent nations, accelerating the move toward greater political freedom.
+
+When Martin Luther in 1520 published "An Open Letter to The Christian Nobility of the German Nation", 
+he called for one of Joshua's trumpets to sound so that Protestants might rally together and be victorious over the Catholic Church. 
+That was a spiritual and metaphorical trumpet. Again, in the heavenly realms a **second angel** blew his horn. 
+**Down tumbled the walls of compulsive Christian unity**. Up from the ashes grew religious freedom.
+
+#### He opened the shaft of the bottomless pit, and from
+#### the shaft rose **smoke like the smoke of a great furnace**,
+#### and the sun and the air were darkened with the **smoke from the shaft**.
+###### - Revelation 9:2
+
+The Fifth Trumpet blew in 1765 and its strains continued for the next [153](./153-is-for-total-victory.html) years.
+The final note sounded in 1918, at the close of the First World War.
+The essence of this era was the power of steam. James Watt invented a superior reciprocating steam engine in 1765.
+After that, George Stephenson patented the steam trumpet in 1833 to warn people away from oncoming locomotives.
+Adrian Stephens invented the steam whistle (never patented) at about the same time, for use at the iron works.
+Steam trumpets and steam whistles were the loud herald of a new age of industry, sounding from trains and factories around the world.
+These trumpets had a power far greater than shofars and bugles blown by human lips. That power was not metaphorical
+and those blasts of noise the opposite of unheard. Like smoke from the shaft of the bottomless pit, the burning of coal
+darkened the sun. The Apostle John perfectly captured the image of the blast furnaces of the Industrial Revolution.
+**Down tumbled the world economic system built on slavery**. Up rose free men and women and an explosion in prosperity, unevenly distributed.
+
+  - The derivation of the meaning of the number 153 is found in [Defining 153](./defining-153.html).
+  - A detailed analysis of the blowing of the fifth trumpet in Revelation 9:1-11 is found in the article [153 and the Fifth Trumpet](./153-and-the-fifth-trumpet.html). It explains why the Fifth Trumpet era lasted 153 years and who the locusts with women's hair were.
+
+The prophecies in Revelation are metaphorical. They speak in coded language. What is marvelous here is that the real events
+of the Industrial Revolution are so poetically and succinctly captured by Revelation 9. There was real smoke and a real trumpet.
+The sky was literally clouded by coal soot that blocked the light of the sun. However, there is also a spiritual meaning.
+Advances in science darkened the sun of God's glory as atheists used these new ideas to advance theories about a world created
+without a creator.
+
+What the related articles about Revelation 9 do not do is look more broadly at the time period from 1765 to 1918 AD. 
+There are many Bible prophecies fulfilled by events from that critical era in history. To learn about a few of these prophecies, read this article:
+
+[The Fifth Trumpet and the Industrial Revolution](./industrial-revolution.html)
+
+
 
 
 

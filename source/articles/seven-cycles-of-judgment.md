@@ -104,8 +104,8 @@ pour every facet of His wisdom and strength into the prosecution of the final ju
 His plagues and His precepts are one.
 
 In *Peace, like Solomon Never Knew*, it was shown that each of the Seven Spirits of God 
-has gone out multiple times, to fulfill different plans at different scales of time. T
-hus they went out into the seven millennia of history, one per millennia in Isaiah’s order, 
+has gone out multiple times, to fulfill different plans at different scales of time. 
+Thus they went out into the seven millennia of history, one per millennia in Isaiah’s order, 
 accompanying a different one of the seven swords of God. They also went to the 
 seven churches of Revelation, one per church, again in order. Each spirit was also involved 
 in the opening of a different one of the seven seals on the Lamb’s scroll, again in order. 
@@ -122,13 +122,13 @@ Revelation that one Spirit is called seven spirits of God. Consider the implicat
 
 That reference is singular. Could it mean that one of the seven spirits in particular is
 indicated? If so, it would be the Spirit of Lordship, aka the Spirit of the Lord. Jesus is
-addressing the churches as their Lord and commanding more complete obedience to his
+addressing the churches as their Lord and commanding more complete obedience from his
 faithful ones.
 
 **Seven Seals: Spirit of Wisdom**. The image of a scroll with seven seals speaks of secret
 wisdom to be revealed. Also, wisdom is associated with suffering, as in the person of Job,
 whose book corresponds to this spirit. The opening of each seal is accompanied by
-suffering, but also the importation of wisdom, as civilization progressed by these first
+suffering, but also the impartation of wisdom, as civilization progressed by these first
 judgments.
 
 **Seven Trumpets: Spirit of Understanding**. Understanding comes to us through
@@ -142,7 +142,7 @@ world will tumble down and Jesus will be victorious.
 
 **Seven Thunders: Spirit of Counsel**. The words spoken by the seven thunders were
 sealed up. We don’t know what was said. They are the secret counsel of God, thus it is
-fitting that they be paired with the Spirit of Counsel. Peace showed how the seven thunders
+fitting that they be paired with the Spirit of Counsel. *Peace* showed how the seven thunders
 have spoken before, in Psalms, Exodus and Job, as well as throughout Revelation. Not all
 those secrets are hidden, but searching out what they have told us requires patience and
 commitment.
