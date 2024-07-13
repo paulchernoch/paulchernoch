@@ -1,6 +1,6 @@
 ---
 title: The Fifth Trumpet and the Industrial Revolution
-quote: from the shaft rose smoke like the smoke <br/> of a great furnace**, and the sun and <br/> the air were darkened with the smoke <br/> from the shaft. - Revelation 9:2b
+quote: from the shaft rose smoke like the smoke <br/> of a great furnace, and the sun and <br/> the air were darkened with the smoke <br/> from the shaft. - Revelation 9:2b
 ---
 ## The Fifth Trumpet of Revelation 9 
 
@@ -25,9 +25,9 @@ The article [153 and the Fifth Trumpet](./153-and-the-fifth-trumpet.html) analyz
   - The locusts are kingdoms bent on pillage. The Old Testament often referred to invading armies as locusts.
   - The locusts had women's hair, so these pillaging kingdoms were ruled by queens.
   - The scorpions had breastplates of iron. Iron symbolizes Rome, so their kingdoms were ones that split off from the territory of ancient Rome.
-  - The locusts were told not hurt those with the seal of God on their foreheads. Thus these queens ruled over Christian nations.
+  - The locusts were told not to hurt those with the seal of God on their foreheads. Thus these queens ruled over Christian nations.
   - Since their teeth were lion's teeth, at least one of them ruled a kingdom symbolized by a lion. Great Britain's Queen Victoria ruled the greatest of the Christian empires, so she was their leader, the lioness. The remaining queens included several female Tsars of Russia (like Catherine the Great), and Maria Theresa of Austria-Hungary. (The sum of the lengths of their reigns totals about 152 years, which is also about five months long.)
-  - By the end of this period, these locusts developed wings: airplanes whose spinning propellers sound like "the noise of many chariots with horses rushing into battle".
+  - By the end of this period, these locusts developed wings: airplanes whose spinning propellers sound like "the noise of many chariots with horses rushing into battle". Of course actual horses still rushed into battle in World War I.
   - The sting of a scorpion is poison. The horrifying weapon that defined the First World War was the use of phosgene, mustard and chlorine gas to maim and kill. Many who breathed in those vile vapors lived on for years with painful and debilitating respiratory conditions, nerve damage and PTSD from the shell shock. The victims truly sought death but could not find it. 
   - The period ended in 1918 at the close of World War I. That war shattered Russia and Austro-Hungary, ending their empires. England was damaged and would lose its colonies after World War II.
 
