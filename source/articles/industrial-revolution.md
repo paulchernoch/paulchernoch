@@ -273,8 +273,25 @@ of judgment seven times in history, once per millennium.
 
 The importance of this is that the sixth sword was associated with the Protestant Reformation. It was Protestants that did the most to spread the
 gospel to the earth during this era. Each of those swords was wielded by a different one of the Seven Spirits of God.
-As usual, the spirits went out in their usual order. That means that the sixth sword for the sixth millennium was wielded by the
+As usual, the spirits went out in their Isaiah 11 order. That means that the sixth sword for the sixth millennium was wielded by the
 Spirit of Knowledge. The Renaissance, Age of Exploration, Enlightenment, Scientific Revolution, Industrial Revolution, Space Age, 
 and the dawn of the Information Age all fell within that millennium. Surely God has planned out history with precision and finesse.
+
+**The Parable of the Virgins**. The analysis of this parable showed that there are periods in church history when the church
+encourages and trains up women to serve in the church, and other periods when it suppresses them. This era was one when the virgins 
+were prepared. Protestants believed that all people must be able to read the Bible on their own in order to become faithful, well informed
+Christians. Thus they built schools to teach all people, rich and poor, male and female. This was part of preparing the virgins to serve.
+
+**The Confinement Calendar**. This prophetic clock matches Bible statements about different dimensions of the oppression of women
+to future events in which that form of oppression began to be overturned. Several ancient statements map to 
+events in this era.
+
+  - **Owning property and deserving respect**. Mary Magdalene helped support Jesus' ministry through her own means and was the first to see the risen Lord, but her testimony was not believed. She corresponds to Elizabeth Cady Stanton, who organized the Seneca Falls Convention, the first women's suffrage meting in the United States. In the same year (1848), New York passed the Married Woman's Property Act, allowing women to own property separate from their husbands.
+  - **Permission to Teach**. Paul the Apostle in 1 Timothy said that He did not permit a woman to teach. (See [Reconciliation](./reconciliation.html) for a full prophetic analysis of this passage. It does not mean what you may think it means!) The matching person is Antoinette Brown Blackwell, who in 1853 became the first ordained woman minister in America, followed in 1876 by Anna Oliver, the first to receive a bachelors of Divinity from an American Seminary (Boston University School of Theology).
+  - **The Right to Vote and Serve on a Jury**. Despite fierce opposition, Saint Jerome retained the story of Jesus freeing the woman caught in adultery in his Vulgate translation of the Bible in to Latin. That woman was judged by a jury consisting only of men. The matching events were women gaining the right to vote in 1920 and the slow move toward permitting women to serve on trial juries, such as was enacted in Louisiana's constitution of 1921.
+
+When God purposed to set the slaves free in this era, He did not exclude women.
+
+
 
 In progress...
