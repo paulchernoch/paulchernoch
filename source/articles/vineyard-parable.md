@@ -382,7 +382,7 @@ I believe they set the upper limit for how long we should expect to wait
 until the last trumpet is blown to declare: **Mission accomplished**!
 
 <a href="./images/workers-in-the-vineyard-timeline.png" target="_blank">
-  <img src="./images/workers-in-the-vineyard-timeline.png" alt="Timeline for Workers in the Vineyard" width="800" height="500">
+  <img class="center" src="./images/workers-in-the-vineyard-timeline.png" alt="Timeline for Workers in the Vineyard">
 </a>
 
 ## Confirmation

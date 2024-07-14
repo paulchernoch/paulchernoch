@@ -287,11 +287,128 @@ to future events in which that form of oppression began to be overturned. Severa
 events in this era.
 
   - **Owning property and deserving respect**. Mary Magdalene helped support Jesus' ministry through her own means and was the first to see the risen Lord, but her testimony was not believed. She corresponds to Elizabeth Cady Stanton, who organized the Seneca Falls Convention, the first women's suffrage meting in the United States. In the same year (1848), New York passed the Married Woman's Property Act, allowing women to own property separate from their husbands.
-  - **Permission to Teach**. Paul the Apostle in 1 Timothy said that He did not permit a woman to teach. (See [Reconciliation](./reconciliation.html) for a full prophetic analysis of this passage. It does not mean what you may think it means!) The matching person is Antoinette Brown Blackwell, who in 1853 became the first ordained woman minister in America, followed in 1876 by Anna Oliver, the first to receive a bachelors of Divinity from an American Seminary (Boston University School of Theology).
+  - **Permission to Teach**. Paul the Apostle in 1 Timothy said that He did not permit a woman to teach. (See [Reconciliation](./reconciliation.html) for a full prophetic analysis of this passage. It does not mean what you think it means!) The matching person is Antoinette Brown Blackwell, who in 1853 became the first ordained woman minister in America, followed in 1876 by Anna Oliver, the first to receive a bachelors of Divinity from an American Seminary (Boston University School of Theology).
   - **The Right to Vote and Serve on a Jury**. Despite fierce opposition, Saint Jerome retained the story of Jesus freeing the woman caught in adultery in his Vulgate translation of the Bible in to Latin. That woman was judged by a jury consisting only of men. The matching events were women gaining the right to vote in 1920 and the slow move toward permitting women to serve on trial juries, such as was enacted in Louisiana's constitution of 1921.
 
 When God purposed to set the slaves free in this era, He did not exclude women.
 
+**The Grand Father Clock**. "A Grand Father Clock & a Silver Cord" reveals a different prophetic clock in Ecclesiastes that runs
+from Creation until the end (instead of from the dedication of Solomon's Temple until the end). 
+A key section of that clock is found in chapter 10 of Ecclesiastes. It uses the extended metaphor of building a house
+to describe the building of modern Western Civilization. A larger section of that construction project
+is described in [Building a House](./building-a-house.md). 
+
+This verse commends the noble rulers of the era 1680-1780 AD:
+
+#### Blessed is the land whose king is of noble birth
+#### and whose princes eat at a proper time-
+#### for strength and not for drunkenness.
+###### - Ecclesiastes 10:17
+
+This verse is a prophecy for the lazy rulers of the period 1780-1880 AD:
+
+#### Through laziness, the rafters sag;
+##### because of idle hands, the house leaks.
+###### - Ecclesiastes 10:18.
+
+The contrast is stark. The earlier era included the great kings and queens of the Enlightenment. The most prominent were 
+Holy Roman Emperor Joseph II, Catherine the Great of Russia and Frederick the Great of Prussia. 
+Their reforms greatly improved the lives of their people.
+
+The latter era was the beginning of the collapse of the great monarchies, with France the first to fall in their revolution in 1789.
+(As I write this section, it is Bastille Day, 2024.) Starting in 1790, the number of monarchies began to decline first in Europe, 
+then in the whole world. During this era, the number of European monarchies fell from roughly fifty to twenty-five. 
+In the next era it plunged by half again. The raw statistics may be found in 
+[Why Monarchy? The Rise and Demise of a Regime Type](https://www.danweitzel.net/files/drafts/monarchy_draft.pdf) 
+by John Gerring et al.
+
+The tail end of the Industrial Revolution overlaps one more verse from Ecclesiastes, which spans the years 1880-1980 AD:
+
+#### A feast is made for laughter,
+##### wine makes life merry,
+###### and money is the answer for everything.
+###### - Ecclesiastes 10:19
+
+Those words hint at the massive increase in wealth that occurred during that century. One estimate of that increase
+is twenty-fold. No previous century in history ever brought such an increase to the whole world.
+Calling money "the answer for everything" describes not God's true valuation of money, but ours. 
+No more succinct description of capitalism is possible.
+
+**Psalm 135**. In "Psalm 135: Four Harvests", history from King David onward is condensed into four eras,
+representing four harvests. They demonstrate God's sovereignty over four aspects of the world:
+
+  - Sovereignty over the Human Heart (135:3-4)
+  - Sovereignty over Nature (135:5-7)
+  - Sovereignty over the Nations (135:8-12)
+  - Sovereignty over the Human Mind (135:13-18)
+
+The third passage concerns the era from 980-1980 AD. That was when Christian empires conquered most nations of the world.
+
+#### He it was who struck down the firstborn of **Egypt**,
+#####  both of man and of beast;
+#### who in your midst, O Egypt,
+##### sent signs and wonders
+##### against Pharaoh and all his servants;
+#### who struck down many nations
+##### and killed mighty kings,
+#### Sihon, king of the **Amorites**,
+##### and Og, king of **Bashan**,
+##### and all the kingdoms of **Canaan**,
+#### and gave their land as a heritage,
+##### a heritage to his people Israel.
+###### - Psalm 135:8-12
+
+Relative to Israel, the four defeated kingdoms, of Egypt, the Amorites, Bashan and Canaan, command the four points of the compass.
+Thus they symbolize the whole world.
+
+**Psalm 136: A Nation Reborn**. In "Psalm 136: Requiem Aeternam", a connection is made between King Jehoshaphat and Psalm 136. Thus the
+prophetic clock in this psalm started ticking during his lifetime. Two verses overlap the Industrial Revolution (136:22-23) 
+and one follows it (136:24). Those verses tell a single story in three parts. That story is the transformation of a people.
+Transformation comes to us in three parts: mind, heart and hand. New knowledge gives us hope, and with hope we find the emotional 
+strength to apply that knowledge to improve our situation through hard work.
+
+#### **a heritage to Israel** his servant,
+##### for his steadfast love endures forever.
+#### It is he who **remembered us in our low estate**,
+##### for his steadfast love endures forever;
+#### and **rescued us from our foes**,
+##### for his steadfast love endures forever;
+###### - Psalm 136:22-24
+
+Verse 22 runs from 1680-1800 AD. That era brought the Haskalah or Jewish Enlightenment. It was the intellectual
+reawakening of the Jewish people. 
+
+Verse 23 runs from 1800-1920 AD. God remembered the Jews and provided a safe place for them to flee, reviving their spirits.
+By the millions they left Europe for America. Then in the middle of the 19th century, the Ottoman Empire reformed their land code
+and permitted Jews to buy land in Palestine and have their names appear on the deed.
+
+Verse 24 runs from 1920-2040 AD. The foe was Adolph Hitler. God rescued a remnant from Europe and restored to them their homeland.
+In 1948, Israel was reborn and in 1967 they recovered the rest of Jerusalem as well.
+
+The Bible has many promises for Christians, but they do not negate the promises the Lord made to Israel.
+The Industrial Revolution ended with the conclusion of World War I. That war scattered the locusts but also 
+shattered the seventh empire of Revelation, the Ottoman Empire, Islam's last Caliphate. That enabled the Jews to go home.
+
+**The Laborers in the Vineyard**. In Matthew 20, Jesus tells a parable about workers recruited by a landowner to 
+labor in his vineyard. This parable is analyzed in detail in [Parable of the Workers in the Vineyard](./vineyard-parable.html).
+The owner calls for workers five times. The first are called "early in the morning", which I take to be the first hour.
+The owner recruits more at the 3rd, 6th, 9th and 11th hours. Prophetically, each hour is 175 years, so these correspond to:
+
+  - First hour: 30 AD. Apostolic Age.
+  - THird hour: 380 AD. After Rome Christianized by Theodosius I.
+  - Sixth hour: 905 AD. Northern expansion (Scandinavia, Russia, etc)
+  - Ninth hour: 1430 AD. Colonizing the New World.
+  - Eleventh hour: 1780 AD. William Carey and the modern overseas missions movement
+
+In each case, leaders were called and prepared for twenty-five years before the new wave of missions began.
+During the Industrial Revolution, the fifth and final wave began. The newfound might and wealth of the Christian empires
+enabled God to project missionaries to the whole world. That was the grand purpose behind the Fifth Trumpet.
+Oh, and the workers will be paid at dusk. That falls sometime between 2130 and 2480 AD. Precision is difficult because
+dusk comes earlier later in the season. Grapes are normally the second harvest, when dusk comes later, but every analogy
+breaks down at some point. Dusk can come anytime from the 13th to the 15th hour.
+
+<a href="./images/workers-in-the-vineyard-timeline.png" target="_blank">
+  <img class="center" src="./images/workers-in-the-vineyard-timeline.png" alt="Timeline for Workers in the Vineyard">
+</a>
 
 
-In progress...
