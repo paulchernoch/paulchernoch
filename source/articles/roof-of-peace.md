@@ -86,7 +86,7 @@ of Solomon, Jesus and Paul to discover whether your problem is material, spiritu
 The discovery that Paul's letters are tightly organized and structured in this way shall be the focus of my next book,
 *The Course of Discipleship: Paul and the Peace of Christ*, which I shall begin writing in 2025, God willing. Until then, this article
 must remain unfinished. (I consider it foolish to write about something until I understand it!)
-In the interim, I say a few more things about this Paul's Letters here:
+In the interim, I say a few more things about this aspect of Paul's Letters here:
 
   - [Blueprint for Lady Wisdom's House](./blueprint.html)
   - [The Apostle Paul's Discipleship Program](./pauls-discipleship-program.html)
