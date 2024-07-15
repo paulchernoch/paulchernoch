@@ -527,7 +527,7 @@ The most profound prophecy found there is:
 ###### - Matthew 23:4
 
 This verse is a charge to abolish slavery and lift the burden off the poor and oppressed.
-A second reference to slavery is les obvious:
+A second reference to slavery is less obvious:
 
 #### so that on you may come all the righteous blood
 #### shed on earth, from the blood of righteous Abel
@@ -574,7 +574,8 @@ The time of the Industrial Revolution matches God's judgment for the eighth comm
 That era ran from 1680-1920 AD. What was the matching plague against Egypt? It was the plague of Locusts.
 We began this article by speaking of the Fifth Trumpet and its plague of locusts. These are the same locusts, the
 European Colonial Empires. The era ended in 1920. Surely the judgment against those locusts was World War I.
-The war claimed 16 million and the influenza plague that it spread claimed 50 million more.  
+The war claimed 16 million and the influenza plague that it spread claimed 50 million more. 
+
 God's justice is real.
 
 <span id=19""/>
