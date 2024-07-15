@@ -16,7 +16,7 @@ The irony is that even as the world is plunged into darkness, God will be openin
 marvelous truths hidden in the Bible. The Lord will open more of the scroll for our inspection, first the Book of Ecclesiastes, 
 then when the sixth seal is opened, the Book of Matthew.
 
-The Book of Ecclesiastes will be illuminated for us by the Spirit of Might.
+The fifth pillar of wisdom, the Book of Ecclesiastes will be illuminated for us by the fifth Spirit of God, the Spirit of Might.
 God's Word shall be our strength.
 
 <hr/>
@@ -49,31 +49,56 @@ world.
 
 ## Relevant Scripture passages
 
-Your word is a lamp to my feet and a light to my path. (Psalm 119:105)
+The Word is light.
 
-We must work the works of him who sent me while it is day; night is coming, when no one can
-work. As long as I am in the world, I am the light of the world.”
-(John 9:4-5)
+#### Your word is a lamp to my feet 
+##### and a light to my path.
+###### - Psalm 119:105
 
-You are the light of the world.
-A city set on a hill cannot be hidden. (Matthew 5:14)
+Jesus is light.
 
-Give attention to me, my people,
-and give ear to me, my nation;
-for a law will go out from me,
-and I will set my justice for a light to the peoples.
-(Isaiah 51:4)
+#### We must work the works of him who sent me 
+#### while it is day; 
+#### night is coming, 
+##### when no one can work. 
+#### As long as I am in the world, 
+##### I am the light of the world.
+###### - John 9:4-5
 
-[Pharaoh speaks to Moses during the Plague of Darkness] Then Pharaoh said to him, “Get away
-from me; take care never to see my face again, for on the day you see my face you shall die.”
-(Exodus 10:28)
+The Church is light.
 
+#### You are the light of the world.
+##### A city set on a hill cannot be hidden.
+###### - Matthew 5:14
+
+Israel is light.
+
+#### Give attention to me, my people,
+##### and give ear to me, my nation;
+#### for a law will go out from me,
+##### and I will set my justice 
+###### for a light to the peoples.
+###### - Isaiah 51:4
+
+To turn away from the sources of light and reject them is darkness.
+
+Pharaoh speaks to Moses during the Plague of Darkness:
+
+#### Then Pharaoh said to him,
+##### “Get away from me; take care never to 
+##### see my face again, for on the day you 
+##### see my face you shall die.”
+###### - Exodus 10:28
+
+<p><em>
 When he opened the fifth seal, I saw under the altar the souls of those who had been slain for the
 word of God and for the witness they had borne. They cried out with a loud voice, “O Sovereign
 Lord, holy and true, how long before you will judge and avenge our blood on those who dwell on
 the earth?” Then they were each given a white robe and told to rest a little longer, until the
 number of their fellow servants and their brothers should be complete, who were to be killed as they
-themselves had been. (Revelation 6:9-11)
+themselves had been.
+</em></p>
+<p><em>- Revelation 6:9-11</em></p>
 
 These passages disclose three sources of light. The first source is God’s Law, the Ten
 Commandments, which promotes justice. The second light is Jesus Christ. The third light
