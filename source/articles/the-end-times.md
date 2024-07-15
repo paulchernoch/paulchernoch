@@ -4,6 +4,30 @@ quote: "eschatology: <br/> a branch of theology concerned with the <br/> final e
 ---
 <img class="center" src="images/white-horse.png" alt="Archer on a white horse"/>
 
+<div class="sections">
+
+Sections of this article:
+
+  <ol>
+    <li> <a href="#1">Fractal Historicism</a> </li>
+    <li> <a href="#2">Time is Essential to Wisdom</a> </li>
+    <li> <a href="#3">My Struggles with Time</a> </li>
+    <li> <a href="#4">Cross Section of Time</a> </li>
+    <li> <a href="#5">Events leading up to the End</a> </li>
+    <li> <a href="#6">Accuracy of the Dates</a> </li>
+    <li> <a href="#7">The Seven Cycles of Judgment</a> </li>
+    <li> <a href="#8">Cross Sections for Key Events: The Millennial Kingdom</a> </li>
+    <li> <a href="#9">The Four Horsemen of the Apocalypse</a> </li>
+    <li> <a href="#10">The Era of the Fifth Trumpet</a> </li>
+    <li> <a href="#11">The Fifth Seal</a> </li>
+    <li> <a href="#12">Voice of the Seven Thunders</a> </li>
+    <li> <a href="#13">The End</a> </li>
+  </ol>
+
+</div>
+
+<span id="1" />
+
 ## Fractal Historicism
 
 This article introduces **Fractal Historicism**, the system of eschatology described and developed on this website. 
@@ -160,6 +184,8 @@ The rest of this article will focus on what Fractal Historicism is, not on compa
 
 <hr/>
 
+<span id="2"/>
+
 ## Time is Essential to Wisdom
 
 #### “You, Lord, laid the foundation of the earth in the beginning,
@@ -226,6 +252,8 @@ is that nothing precedes it, save God himself. It arrived first in time so can c
 No account that seeks to explore wisdom can avoid time.
 
 No account that seeks to explore time can avoid the time of the end.
+
+<span id="3" />
 
 ## My Struggles with Time
 
@@ -315,6 +343,8 @@ are concealed by acts of grace. When the final plagues which do match up arrive,
 and early warnings that the inhabitants of the earth will assume have yet to arrive will have passed long before. 
 Concertgoers awaiting the first trumpet blast will be met by the last.
 
+<span id="4" />
+
 ## Cross Section of Time
 
 When I was a child, I had a book of colored transparencies that showed the human body. 
@@ -346,6 +376,8 @@ a coherent interpretation of the greatest range of data is the strongest.
 
 Now it is time to introduce the key events of the End Times. We shall see how they are sequenced and assigned to 
 the proper time in history according to Fractal Historicism.
+
+<span id="5" />
 
 ## Events leading up to the End
 
@@ -463,6 +495,8 @@ To give additional context:
 
 <img class="center" src="images/end-times-chronology.png" alt="Chronology of the End Times"/>
 
+<span id="6" />
+
 ## Accuracy of the Dates
 
 I am confident about some of the dates. Others are approximate. The themes behind the historical trends can be discerned from
@@ -500,6 +534,8 @@ Jesus' star of Day 4.
 
 <img class="center" src="images/pale-horse.jpg" alt="Rider on a pale horse"/>
 
+<span id="7" />
+
 ## The Seven Cycles of Judgment
 
 Revelation enumerates many wars, plagues, and calamities of all sorts. Some of them are grouped into sevens.
@@ -522,8 +558,9 @@ See how that is so in this article:
 
 [Seven Cycles of Judgment](./seven-cycles-of-judgment.html)
 
+<span id="8" />
 
-## Cross Sections for Key Events
+## Cross Sections for Key Events: The Millennial Kingdom
 
 It is time to show how many clocks reinforce the time periods for key events.
 The following article will take up a few prophetic events: the Millennial Kingdom and the binding and loosing of Satan. 
@@ -534,6 +571,8 @@ to the same event, we can often improve the accuracy of our prophecies and narro
 a decade.
 
 [The Millennial Kingdom](./the-millennial-kingdom.html)
+
+<span id="9" />
 
 ## The Four Horsemen of the Apocalypse
 
@@ -554,6 +593,8 @@ agriculture, medicine, communication and a general improvement in prosperity and
 
 If the four horsemen return again, it will be to do the same thing again - to build the final heavenly kingdom and usher in eternity.
 For a deeper dive into this topic, read [The Four Horsemen of the Apocalypse](./four-horsemen.html)
+
+<span id="10" />
 
 ## The Era of the Fifth Trumpet
 
@@ -597,6 +638,8 @@ To learn about a few of these prophecies, read this article, which takes another
 
 [The Fifth Trumpet and the Industrial Revolution](./industrial-revolution.html)
 
+<span id="11" />
+
 ## The Fifth Seal
 
 By my reckoning, the Fifth Seal on the Lamb's scroll has not yet been opened.
@@ -614,6 +657,8 @@ Read this article for speculation that builds upon what has been revealed about 
 
 [The Fifth Seal](./the-fifth-seal.html)
 
+<span id="12" />
+
 ## Voice of the Seven Thunders
 
 In Revelation 10, an angel speaks with the voice of seven thunders.
@@ -626,6 +671,8 @@ gave us valuable information. Knowing about this angel, we can search the Word t
 I did - and I found him. The Seven Thunders have spoken before and the Bible tells us what they said...
 
 To better understand this great mystery, read [Voice of the Seven Thunders](./seven-thunders.html).
+
+<span id="13" />
 
 ## The End
 
