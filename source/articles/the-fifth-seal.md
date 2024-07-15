@@ -102,7 +102,8 @@ themselves had been.
 
 These passages disclose three sources of light. The first source is God’s Law, the Ten
 Commandments, which promotes justice. The second light is Jesus Christ. The third light
-is the church, whose witness spreads the light of Christ.
+is the church, whose witness spreads the light of Christ. Then as the end draws near, the modern nation
+of Israel will be steadily transformed into the final remaining source of light, when all the others have gone out.
 
 ## A Fourth Light, Fading
 
