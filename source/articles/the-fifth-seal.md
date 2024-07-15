@@ -100,14 +100,14 @@ themselves had been.
 </em></p>
 <p><em>- Revelation 6:9-11</em></p>
 
-These passages disclose three sources of light. The first source is God’s Law, the Ten
+These passages disclose four sources of light. The first source is God’s Law, the Ten
 Commandments, which promotes justice. The second light is Jesus Christ. The third light
 is the church, whose witness spreads the light of Christ. Then as the end draws near, the modern nation
-of Israel will be steadily transformed into the final remaining source of light, when all the others have gone out.
+of Israel will be steadily transformed into a fourth remaining source of light, when all the others have gone out.
 
-## A Fourth Light, Fading
+## A Fifth Light, Fading
 
-There is a fourth light: human reason, as expressed in the scientific endeavor. God will
+There is a fifth light: human reason, as expressed in the scientific endeavor. God will
 judge the world by removing the fourth light for its crime of attempting to extinguish the
 other three. We can see this spiritually as well as materially. The symbolic representation of
 the divine light is – well – light. The spiritual representation of divine light is a
