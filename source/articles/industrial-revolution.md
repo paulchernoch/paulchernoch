@@ -254,6 +254,10 @@ most of her colonies. As for this generation, it ended with the horror of the Gr
 God provided food for the raven - a carrion bird - from the corpses littering the battlefields of Europe. 
 The end of Job 38 announced the end of the great kingdoms and empires of Europe.
 
+**A Concrete Example**. In "Appendix E: The Plan of Proverbs", we find that Proverbs 27 corresponds to 1800-1920 AD.
+What does Proverbs prophesy was invented then? Steel reinforced concrete! Fifty percent of the mass of everything built by humanity
+is concrete. For the details of this prophecy, see [Proverbs 20 to 29](./proverbs-20-to-29.html).
+
 **The Cosmic Chiasm**. One of my explorations showed that history is symmetric about the middle (a point just before 
 the time of Christ). This symmetry matches the periods 2123-2004 BC and 1804-1923 AD. 
 
@@ -389,7 +393,7 @@ The Bible has many promises for Christians, but they do not negate the promises 
 The Industrial Revolution ended with the conclusion of World War I. That war scattered the locusts but also 
 shattered the seventh empire of Revelation, the Ottoman Empire, Islam's last Caliphate. That enabled the Jews to go home.
 
-**The Laborers in the Vineyard**. In Matthew 20, Jesus tells a parable about workers recruited by a landowner to 
+**Matthew 20: The Laborers in the Vineyard**. In Matthew 20, Jesus tells a parable about workers recruited by a landowner to 
 labor in his vineyard. This parable is analyzed in detail in [Parable of the Workers in the Vineyard](./vineyard-parable.html).
 The owner calls for workers five times. The first are called "early in the morning", which I take to be the first hour.
 The owner recruits more at the 3rd, 6th, 9th and 11th hours. Prophetically, each hour is 175 years, so these correspond to:
@@ -400,6 +404,7 @@ The owner recruits more at the 3rd, 6th, 9th and 11th hours. Prophetically, each
   - Ninth hour: 1430 AD. Colonizing the New World.
   - Eleventh hour: 1780 AD. William Carey and the modern overseas missions movement
 
+The harvest of the parable is church evangelism. The grapes are saved souls.
 In each case, leaders were called and prepared for twenty-five years before the new wave of missions began.
 During the Industrial Revolution, the fifth and final wave began. The newfound might and wealth of the Christian empires
 enabled God to project missionaries to the whole world. That was the grand purpose behind the Fifth Trumpet.
@@ -410,5 +415,111 @@ breaks down at some point. Dusk can come anytime from the 13th to the 15th hour.
 <a href="./images/workers-in-the-vineyard-timeline.png" target="_blank">
   <img class="center" src="./images/workers-in-the-vineyard-timeline.png" alt="Timeline for Workers in the Vineyard">
 </a>
+
+**Matthew 22: The Parable of the Wedding Banquet**. In this parable, a king delegates servants to send out invitations to 
+his son's wedding. The wedding invitation is the gospel message and the invitees are sinners who need salvation. 
+The previous parable told us when each of the five great missionary expansions would occur. 
+In this parable, servants are also sent out five times. It tells us how each group of servants would be received 
+and what the king (God the Father) would do in response. A full analysis of this parable may be found in 
+[The Parable of the Wedding Feast](./wedding-parable.html).
+
+The fifth and final sending begins during the time of the Industrial Revolution and is described this way:
+
+#### Then he said to his servants,
+##### ‘The wedding feast is ready, but those invited were not worthy. 
+##### Go therefore to the main roads and invite to the wedding feast
+##### as many as you find.’
+#### And those servants went out into the roads and gathered
+#### all whom they found, both bad and good.
+#### So the wedding hall was filled with guests.
+###### - Matthew 22:8-10
+
+That matches the general invitation to the whole world that began in the 19th century.
+This final missionary push was the largest in terms of number of people saved, consistent with the
+language of the parable. It also indicates an indiscriminate growth of the church in which the sincerity 
+of many answering the call is questionable. The king notices this and acts:
+
+#### “But when the king came in to look at the guests,
+#### he saw there a man who had no wedding garment.
+#### And he said to him,
+##### ‘Friend, how did you get in here without a wedding garment?’
+#### And he was speechless. Then the king said to the attendants,
+##### ‘Bind him hand and foot and cast him into the outer darkness.
+##### In that place there will be weeping and gnashing of teeth.’
+#### For many are called, but few are chosen.”
+###### - Matthew 22:11-14.
+
+We are approaching the time when the King will cast false believers out of the church. 
+His typical means for doing so is persecution. Only true believers refuse to deny their Lord when the cost becomes great.
+
+**Matthew's Monthly Planner**. In "One Greater than Solomon", every chapter of Matthew is matched to an era of history.
+The chapter that maps to the core of the Industrial Revolution is Matthew 23, ranging from 1799-1879 AD.
+The most profound prophecy found there is:
+
+#### They tie up heavy burdens, hard to bear,
+#### and lay them on people's shoulders, 
+#### but they themselves are not willing to move them 
+#### with their finger.
+###### - Matthew 23:4
+
+This verse is a charge to abolish slavery and lift the burden off the poor and oppressed.
+A second reference to slavery is les obvious:
+
+#### so that on you may come all the righteous blood
+#### shed on earth, from the blood of righteous Abel
+#### to the blood of Zechariah the son of Berekiah,
+#### whom you murdered between the sanctuary and the altar.
+###### - Matthew 23:35
+
+If Zechariah was righteous and was killed for his message, what message was that?
+It was the message that God would set the prisoners free:
+
+#### As for you also, because of the blood of my covenant with you,
+##### **I will set your prisoners free** from the waterless pit.
+#### Return to your stronghold, **O prisoners of hope**;
+##### today I declare that I will restore to you double.
+###### - Zechariah 9:11-12
+
+How powerful those words! May we all be "prisoners of hope".
+
+Additional prophecies that touch on this industrial era are also found in Matthew 24, which covers the years 1879-1959 AD.
+
+  - *For nation will rise against nation, and kingdom against kingdom, and there will be famines and earthquakes in various places.* (Matthew 24:7) This surely matches the two World Wars, the Holodomor (Soviet engineered famine in Ukraine), and the Great Chinese Famine (1958-1962) which killed an estimated fifty million Chinese.
+  - *For as the lightning comes from the east and shines as far as the west, so will be the coming of the Son of Man.* (Matthew 24:27) While the Second Coming did not occur, this matches the development of electric lights and power transmission (1870's onward).
+  - *And this gospel of the kingdom will be proclaimed throughout the whole world as a testimony to all nations, and then the end will come.* (Matthew 24:14) It included a continuation of the great missionary era.
+
+Verse 24:27 is commonly taken to be a reference to the Second Coming of Christ. As such, it refers to an event outside the time frame
+of the chapter as given by the prophetic clock. I believe that this verse does double duty. The event anchored in time is the development
+of electric power and lighting, which did happen in this era. That is not telling us when Christ will return, but how we will see him.
+The anchored event tells us that modern telecommunication methods will broadcast the return of Christ in the future when he does return.
+It is likely that this sort of thing happens a lot in prophecy. One partial fulfillment of a prophecy earlier in history
+supplies details that help us to understand the next fulfillment.
+
+**Church Commandments Clock**. Between my two most recent books, there are multiple clocks based on the Ten Commandments and the Plagues on Egypt.
+In each, a commandment is matched with a plague.
+One starts with Babel, another Moses, and this one with the birth of Christ. These clocks are devastating.
+In this one, found in "Aftertaste: Donner & Blitzen", it is the church being judged. The sixth commandment is against murder and the sixth plague
+was of boils. When applied to the church in the era **1200-1440 AD**, the result was the **Black Plague**, which produced boils and black tumors.
+Do atheists and people of other religions find fault with how Christians have behaved through the ages? So does God!
+The Black Plague was an act of judgment by God to enforce his sixth commandment against murder. It is (so far) the worst plague in history.
+God's response to the church's sin is proof of the truth of Christianity, not its falsehood.
+
+The time of the Industrial Revolution matches God's judgment for the eighth commandment, "You shall not steal."
+That era ran from 1680-1920 AD. What was the matching plague against Egypt? It was the plague of Locusts.
+We began this article by speaking of the Fifth Trumpet and its plague of locusts. These are the same locusts, the
+European Colonial Empires. The era ended in 1920. Surely the judgment against those locusts was World War I.
+The war claimed 16 million and the influenza plague that it spread claimed 50 million more.  
+God's justice is real.
+
+## Had Enough?
+
+That was just a taste of the many prophecies that touch on this crucial era in history.
+The prophecies discussed above touched on God's love in setting slaves free and relieving the oppression suffered by women.
+It showed bits of God's plan to send missionaries to the world to spread the gospel.
+This required advancing human learning in ways alluded to by Job and the other prophets.
+It also showed God's judgment against the world for its wickedness and against the church for its pride and greed.
+Fear God. Worship him. Obey Him. Believe Him. Hearing these words, there is no way to return to the idea
+that God has not told us His plans. They are here in Scripture if we are willing to dedicate the time to study them
+and learn what they have to say to us today.
 
 
