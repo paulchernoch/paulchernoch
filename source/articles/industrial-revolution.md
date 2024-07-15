@@ -58,7 +58,8 @@ The article [153 and the Fifth Trumpet](./153-and-the-fifth-trumpet.html) analyz
   - The locusts were told not to hurt those with the seal of God on their foreheads. Thus these queens ruled over Christian nations.
   - Since their teeth were lion's teeth, at least one of them ruled a kingdom symbolized by a lion. Great Britain's Queen Victoria ruled the greatest of the Christian empires, so she was their leader, the lioness. The remaining queens included several female Tsars of Russia (like Catherine the Great), and Maria Theresa of Austria-Hungary. (The sum of the lengths of their reigns totals about 152 years, which is also about five months long.)
   - By the end of this period, these locusts developed wings: airplanes whose spinning propellers sound like "the noise of many chariots with horses rushing into battle". Of course actual horses still rushed into battle in World War I.
-  - The sting of a scorpion is poison. The horrifying weapon that defined the First World War was the use of phosgene, mustard and chlorine gas to maim and kill. Many who breathed in those vile vapors lived on for years with painful and debilitating respiratory conditions, nerve damage and PTSD from the shell shock. The victims truly sought death but could not find it. 
+  - The sting of a scorpion is poison. One horrifying weapon that defined the First World War was the use of phosgene, mustard and chlorine gas to maim and kill. Many who breathed in those vile vapors lived on for years with painful and debilitating respiratory conditions, nerve damage and PTSD from the shell shock. The victims truly sought death but could not find it. 
+  - A second candidate for the scorpion sting is the machine gun, manned by a soldier feeding it a string of bullets. To a man like John, the belt of ammo trailing out the back of the gun would look like a tail. It sure stung like one.
   - The period ended in 1918 at the close of World War I. That war shattered Russia and Austro-Hungary, ending their empires. England was damaged and would lose its colonies after World War II.
 
 The above list includes a few new connections I only noticed today. I doubt that I am the only one to posit a connection to World War I,
@@ -165,8 +166,9 @@ which spilled over into the early 18th. Over fifty million died by war and its e
   - Africa (all large African empires fractured or conquered by Muslims and enslaved)
   - England, France & Allies (the Seven Years War killed over a million in Europe, Africa, North and South America, India and the Philippines)
 
-No period in history before the 20th, with its two World Wars and many smaller ones, was as savage as that time.
-When God (speaking through Elihu) said that he would send lightning to the ends of the earth, He did not exaggerate.
+No period in history before the 20th Century, with its two World Wars and many smaller ones, 
+was as savage as that time. When God (speaking through Elihu) said that he would send lightning 
+to the ends of the earth, He did not exaggerate.
 
 #### "The breath of God produces ice,
 ##### and the broad waters become frozen."
