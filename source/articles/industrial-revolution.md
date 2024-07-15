@@ -300,7 +300,7 @@ When God purposed to set the slaves free in this era, He did not exclude women.
 from Creation until the end (instead of from the dedication of Solomon's Temple until the end). 
 A key section of that clock is found in chapter 10 of Ecclesiastes. It uses the extended metaphor of building a house
 to describe the building of modern Western Civilization. A larger section of that construction project
-is described in [Building a House](./building-a-house.md). 
+is described in [Building a House](./building-a-house.html). 
 
 This verse commends the noble rulers of the era 1680-1780 AD:
 
