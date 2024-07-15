@@ -2,6 +2,36 @@
 title: The Fifth Trumpet and the Industrial Revolution
 quote: from the shaft rose smoke like the smoke <br/> of a great furnace, and the sun and <br/> the air were darkened with the smoke <br/> from the shaft. - Revelation 9:2b
 ---
+<div class="sections">
+
+Sections of this article:
+
+  <ol>
+    <li> <a href="#1">The Fifth Trumpet of Revelation 9</a> </li>
+    <li> <a href="#2">The Industrial Revolution in Prophecy</a> </li>
+    <li> <a href="#3">A time to speak</a> </li>
+    <li> <a href="#4">The Church of Philadelphia</a> </li>
+    <li> <a href="#5">Solomon's Sondial</a> </li>
+    <li> <a href="#6">Job's Chapter Clock</a> </li>
+    <li> <a href="#7">A Concrete Example</a> </li>
+    <li> <a href="#8">The Cosmic Chiasm</a> </li>
+    <li> <a href="#9">The Seven Swords of Judgment</a> </li>
+    <li> <a href="#10">The Parable of the Virgins</a> </li>
+    <li> <a href="#11">The Confinement Calendar</a> </li>
+    <li> <a href="#12">The Grand Father Clock</a> </li>
+    <li> <a href="#13">Psalm 135: Four Harvests</a> </li>
+    <li> <a href="#14">Psalm 136: A Nation Reborn</a> </li>
+    <li> <a href="#15">Matthew 20: The Laborers in the Vineyard</a> </li>
+    <li> <a href="#16">Matthew 22: The Parable of the Wedding Banquet</a> </li>
+    <li> <a href="#17">Matthew's Monthly Planner</a> </li>
+    <li> <a href="#18">Church Commandment Clock</a> </li>
+    <li> <a href="#19">Had Enough?</a> </li>
+  </ol>
+
+</div>
+
+<span id="1"/>
+
 ## The Fifth Trumpet of Revelation 9 
 
 The story of the angel blowing the Fifth Trumpet appears in Revelation 9. It is the first of the three woes.
@@ -56,6 +86,8 @@ God sent out the Christian Colonial Empires to destroy ALL the nations. By my re
 partially occupied by these empires. Then after that was finished, God executed judgment on the Christian empires, too.
 The World Wars were God's judgment against His very agents of destruction.
 
+<span id="2"/>
+
 ## The Industrial Revolution in Prophecy
 
 The baffling plans of God revealed in Revelation 9 are not the only events of this era prophesied in Scripture.
@@ -65,14 +97,20 @@ Many of them include one or two time periods that overlap the Industrial Revolut
 No attempt will be made to define the referenced prophetic clocks or defend why the given passages are assigned to
 the range of years that they are. For those details, consult my books. 
 
+<span id="3"/>
+
 **A time to speak**. In Solomon's Celestial Clock, based on Ecclesiastes 3, the period 1800-1920 AD goes with "a time to speak". 
 That covers the majority of the Industrial Revolution. What was being spoken? Missionaries left in large numbers to share the gospel with the world.
 During this era, inventions like telegraph, telephone, radio and motion pictures revolutionized communication. They enabled people to speak to listeners on the
 other side of the world almost instantly. These inventions were products of the Industrial Revolution. They helped Christians to speak to the world.
 Was anybody listening? The number of Christians tripled from 200 to 600 million.
 
+<span id="4"/>
+
 **The Church of Philadelphia**. The Seven Churches of Revelation 2-3 match seven eras of history. The Church of Philadelphia goes with
 1453-1990 AD. Part of it overlaps the Industrial Revolution. Revelation 3:8 says, *"I know your works. Behold, I have set before you **an open door**, which no one is able to shut. I know that you have but little power, and yet you have kept my word and have not denied my name."* That open door was the door of Christian missions. God enabled this generation of Christians - during a time to speak - to have nearly unhindered access to the whole world so that they might share the Christian faith. They were even given "the key of David" (3:7) and would see "the new Jerusalem" (3:12). The next to last year of the Industrial Revolution era was 1917. In that year, Great Britain captured Jerusalem and facilitated the process by which control of the Holy Land was restored to the Jewish people. The City of David would be theirs again.
+
+<span id="5"/>
 
 **Solomon's Sondial**. A second clock in Ecclesiastes makes reference to "a time to speak" and "a time to love": 
 
@@ -97,6 +135,8 @@ began to be ordained as ministers, obtained property rights and in 1920, the las
 gained the right to vote in the United States. During this time the church did mighty deeds, just as Solomon counseled.
 While the reference may be accidental, "let oil not be lacking" may refer to the discovery and exploitation of petroleum,
 the "might" of our civilization.
+
+<span id="6"/>
 
 **Job's Chapter Clock**. Numerous clocks exist in Job. One matches each chapter to a generation of history. 
 The Industrial Revolution era is touched by the prophecies from two chapters: 
@@ -254,15 +294,21 @@ most of her colonies. As for this generation, it ended with the horror of the Gr
 God provided food for the raven - a carrion bird - from the corpses littering the battlefields of Europe. 
 The end of Job 38 announced the end of the great kingdoms and empires of Europe.
 
+<span id="7"/>
+
 **A Concrete Example**. In "Appendix E: The Plan of Proverbs", we find that Proverbs 27 corresponds to 1800-1920 AD.
-What does Proverbs prophesy was invented then? Steel reinforced concrete! Fifty percent of the mass of everything built by humanity
+What did Proverbs prophesy would be invented during that time? Steel reinforced concrete! Fifty percent of the mass of everything built by humanity
 is concrete. For the details of this prophecy, see [Proverbs 20 to 29](./proverbs-20-to-29.html).
 
-**The Cosmic Chiasm**. One of my explorations showed that history is symmetric about the middle (a point just before 
-the time of Christ). This symmetry matches the periods 2123-2004 BC and 1804-1923 AD. 
+<span id="8"/>
+
+**The Cosmic Chiasm**. One of my explorations (see [Two Patterns in History](./two-patterns-in-history.html)) showed that history 
+is symmetric about the middle (a point just before the time of Christ). This symmetry matches the periods 2123-2004 BC and 1804-1923 AD. 
 
   - The former period saw the beginnings of slavery.
   - The latter period saw a major move to eradicate it.
+
+<span id="9"/>
 
 **The Seven Swords of Judgment**. The chapter "Swords, Seals & Surviving to Saturday", demonstrated that God has drawn His sword
 of judgment seven times in history, once per millennium.
@@ -281,10 +327,14 @@ As usual, the spirits went out in their Isaiah 11 order. That means that the six
 Spirit of Knowledge. The Renaissance, Age of Exploration, Enlightenment, Scientific Revolution, Industrial Revolution, Space Age, 
 and the dawn of the Information Age all fell within that millennium. Surely God has planned out history with precision and finesse.
 
+<span id="10"/>
+
 **The Parable of the Virgins**. The analysis of this parable showed that there are periods in church history when the church
 encourages and trains up women to serve in the church, and other periods when it suppresses them. This era was one when the virgins 
 were prepared. Protestants believed that all people must be able to read the Bible on their own in order to become faithful, well informed
 Christians. Thus they built schools to teach all people, rich and poor, male and female. This was part of preparing the virgins to serve.
+
+<span id="11"/>
 
 **The Confinement Calendar**. This prophetic clock matches Bible statements about different dimensions of the oppression of women
 to future events in which that form of oppression began to be overturned. Several ancient statements map to 
@@ -295,6 +345,8 @@ events in this era.
   - **The Right to Vote and Serve on a Jury**. Despite fierce opposition, Saint Jerome retained the story of Jesus freeing the woman caught in adultery in his Vulgate translation of the Bible in to Latin. That woman was judged by a jury consisting only of men. The matching events were women gaining the right to vote in 1920 and the slow move toward permitting women to serve on trial juries, such as was enacted in Louisiana's constitution of 1921.
 
 When God purposed to set the slaves free in this era, He did not exclude women.
+
+<span id="12"/>
 
 **The Grand Father Clock**. "A Grand Father Clock & a Silver Cord" reveals a different prophetic clock in Ecclesiastes that runs
 from Creation until the end (instead of from the dedication of Solomon's Temple until the end). 
@@ -338,6 +390,8 @@ is twenty-fold. No previous century in history ever brought such an increase to 
 Calling money "the answer for everything" describes not God's true valuation of money, but ours. 
 No more succinct description of capitalism is possible.
 
+<span id="13"/>
+
 **Psalm 135**. In "Psalm 135: Four Harvests", history from King David onward is condensed into four eras,
 representing four harvests. They demonstrate God's sovereignty over four aspects of the world:
 
@@ -364,6 +418,8 @@ The third passage concerns the era from 980-1980 AD. That was when Christian emp
 
 Relative to Israel, the four defeated kingdoms, of Egypt, the Amorites, Bashan and Canaan, command the four points of the compass.
 Thus they symbolize the whole world.
+
+<span id="14"/>
 
 **Psalm 136: A Nation Reborn**. In "Psalm 136: Requiem Aeternam", a connection is made between King Jehoshaphat and Psalm 136. Thus the
 prophetic clock in this psalm started ticking during his lifetime. Two verses overlap the Industrial Revolution (136:22-23) 
@@ -393,6 +449,8 @@ The Bible has many promises for Christians, but they do not negate the promises 
 The Industrial Revolution ended with the conclusion of World War I. That war scattered the locusts but also 
 shattered the seventh empire of Revelation, the Ottoman Empire, Islam's last Caliphate. That enabled the Jews to go home.
 
+<span id="15">
+
 **Matthew 20: The Laborers in the Vineyard**. In Matthew 20, Jesus tells a parable about workers recruited by a landowner to 
 labor in his vineyard. This parable is analyzed in detail in [Parable of the Workers in the Vineyard](./vineyard-parable.html).
 The owner calls for workers five times. The first are called "early in the morning", which I take to be the first hour.
@@ -415,6 +473,8 @@ breaks down at some point. Dusk can come anytime from the 13th to the 15th hour.
 <a href="./images/workers-in-the-vineyard-timeline.png" target="_blank">
   <img class="center" src="./images/workers-in-the-vineyard-timeline.png" alt="Timeline for Workers in the Vineyard">
 </a>
+
+<span id="16"/>
 
 **Matthew 22: The Parable of the Wedding Banquet**. In this parable, a king delegates servants to send out invitations to 
 his son's wedding. The wedding invitation is the gospel message and the invitees are sinners who need salvation. 
@@ -451,6 +511,8 @@ of many answering the call is questionable. The king notices this and acts:
 
 We are approaching the time when the King will cast false believers out of the church. 
 His typical means for doing so is persecution. Only true believers refuse to deny their Lord when the cost becomes great.
+
+<span id="17"/>
 
 **Matthew's Monthly Planner**. In "One Greater than Solomon", every chapter of Matthew is matched to an era of history.
 The chapter that maps to the core of the Industrial Revolution is Matthew 23, ranging from 1799-1879 AD.
@@ -495,6 +557,8 @@ The anchored event tells us that modern telecommunication methods will broadcast
 It is likely that this sort of thing happens a lot in prophecy. One partial fulfillment of a prophecy earlier in history
 supplies details that help us to understand the next fulfillment.
 
+<span id="18"/>
+
 **Church Commandments Clock**. Between my two most recent books, there are multiple clocks based on the Ten Commandments and the Plagues on Egypt.
 In each, a commandment is matched with a plague.
 One starts with Babel, another Moses, and this one with the birth of Christ. These clocks are devastating.
@@ -510,6 +574,8 @@ We began this article by speaking of the Fifth Trumpet and its plague of locusts
 European Colonial Empires. The era ended in 1920. Surely the judgment against those locusts was World War I.
 The war claimed 16 million and the influenza plague that it spread claimed 50 million more.  
 God's justice is real.
+
+<span id=19""/>
 
 ## Had Enough?
 

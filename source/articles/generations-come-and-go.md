@@ -22,6 +22,7 @@ Sections of this article:
 </div>
 
 <span id="1"/>
+
 ## The Mystery of Matthew's Genealogy
 
 In Ecclesiastes 1:4, Solomon declared, *“Generations come and generations go, but the earth remains forever."*
@@ -83,6 +84,7 @@ voice thunders, like a singer in the heavenly choir, we need
 to match His pitch.
 
 <span id="2"/>
+
 ## Autocorrelation
 
 During college, I worked briefly at General Electric.
@@ -144,6 +146,7 @@ abolition, or both generations had a big plague, that would
 be a match.
 
 <span id="3"/>
+
 ## A Cosmic Chiasm
 
 If history is cyclic, the autocorrelation function described
@@ -208,6 +211,7 @@ center. Job Rises argued for a chiasm with forty-one parts.
 Does that decision also need to be revisited?
 
 <span id="4"/>
+
 ## The Optimal Solution
 
 How do we know we have chosen the optimal starting
@@ -238,6 +242,7 @@ if we vary the length of each generation.
   - Assume that Jesus has not yet come again!
 
 <span id="5"/>
+
 ## Generation Count: In your Dreams
 
 Assuming what you hope to prove is dirty pool, or in
@@ -621,6 +626,7 @@ can move on to additional support for the generation
 length of 119 years.
 
 <span id="6"/>
+
 ## Generation length
 
 Simple arithmetic shows that if generations are 112 years
@@ -664,6 +670,7 @@ for 118 years would be fruitful. I leave that as an exercise for
 the reader.
 
 <span id="7"/>
+
 ## The Midpoint of History
 
 Having settled on 119 year long generations, what does
@@ -737,6 +744,7 @@ would set the world right? That would be the man born
 near the end of this 22nd generation: Jesus Christ.
 
 <span id="8"/>
+
 ## Choose your Ending
 
 Some authors write interactive books where the reader
