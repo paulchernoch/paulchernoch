@@ -535,6 +535,25 @@ a decade.
 
 [The Millennial Kingdom](./the-millennial-kingdom.html)
 
+## The Four Horsemen of the Apocalypse
+
+Each time that the days grow dark and wars erupt, Christians wonder, "Have the four horsemen begun their ride?"
+Making the proper assignment is complicated. Consider these factors:
+
+  1. The horsemen will not ride out once, but many times. They define a recurring historical pattern. Partial matches to the whole pattern of Revelation make it hard to tell when the primary ride of the horsemen has begun.
+  2. The signature sortie of the horsemen spanned a longer period of history than expected. It occurred in the past, but many Christians are still looking for it to happen in the future and be spread over a shorter period of time.
+  3. Though the horsemen spread their terror and delivered their judgments, the effects were not uniformly destructive.
+  4. Once they rode out, none of the horsemen were ever recalled. Thus it is hard to see the pattern of the later horsemen when war and civil war persist.
+  5. Human passions and petty rivalries cause us to assume our enemies are God's enemies and thus the proper targets of the horsemen. When that judgment is against the church, we assume it is not God but Satan at work.
+
+The third factor is the one that blinds us the most. These agents of God's wrath were sent out not for destruction, but for creative destruction.
+They were the wrecking crew that performed the site prep for the building of a new civilization - our civilization.
+Mixed in with all the evil effects were the good. Thus when people look back at the history of the last five hundred years, what do they see?
+They see the rise of political, religious and economic freedom, the end of slavery and the liberation of women. They see progress in science,
+agriculture, medicine, communication and a general improvement in prosperity and lengthening of life expectancy. We got those benefits in part BECAUSE the four horsemen rode out, not in spite of them. That is the genius of God's plan. It unfolds as predicted and most of us are blind to His miracles.
+
+If the four horsemen return again, it will be to do the same thing again - to build the final heavenly kingdom and usher in eternity.
+For a deeper dive into this topic, read [The Four Horsemen of the Apocalypse](./four-horsemen.html)
 
 ## The Era of the Fifth Trumpet
 
