@@ -389,8 +389,8 @@ The tail end of the Industrial Revolution overlaps one more verse from Ecclesias
 
 Those words hint at the massive increase in wealth that occurred during that century. One estimate of that increase
 is twenty-fold. No previous century in history ever brought such an increase to the whole world.
-Calling money "the answer for everything" describes not God's true valuation of money, but ours. 
-No more succinct description of capitalism is possible.
+Calling money "the answer for everything" describes not God's true valuation of money, but ours.
+Can you think of a more succinct description of capitalism?
 
 <span id="13"/>
 
@@ -459,7 +459,7 @@ The owner calls for workers five times. The first are called "early in the morni
 The owner recruits more at the 3rd, 6th, 9th and 11th hours. Prophetically, each hour is 175 years, so these correspond to:
 
   - First hour: 30 AD. Apostolic Age.
-  - THird hour: 380 AD. After Rome Christianized by Theodosius I.
+  - Third hour: 380 AD. After Rome Christianized by Theodosius I.
   - Sixth hour: 905 AD. Northern expansion (Scandinavia, Russia, etc)
   - Ninth hour: 1430 AD. Colonizing the New World.
   - Eleventh hour: 1780 AD. William Carey and the modern overseas missions movement
@@ -467,7 +467,7 @@ The owner recruits more at the 3rd, 6th, 9th and 11th hours. Prophetically, each
 The harvest of the parable is church evangelism. The grapes are saved souls.
 In each case, leaders were called and prepared for twenty-five years before the new wave of missions began.
 During the Industrial Revolution, the fifth and final wave began. The newfound might and wealth of the Christian empires
-enabled God to project missionaries to the whole world. That was the grand purpose behind the Fifth Trumpet.
+was a gift from God enabling the church to project missionaries to the whole world. That was the grand purpose behind the Fifth Trumpet.
 Oh, and the workers will be paid at dusk. That falls sometime between 2130 and 2480 AD. Precision is difficult because
 dusk comes earlier later in the season. Grapes are normally the second harvest, when dusk comes later, but every analogy
 breaks down at some point. Dusk can come anytime from the 13th to the 15th hour.
