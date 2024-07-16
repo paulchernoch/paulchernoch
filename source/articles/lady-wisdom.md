@@ -2,6 +2,7 @@
 title: Lady Wisdom
 quote:  She is a tree of life <br/> to those who take hold of her; <br/> those who hold her fast will be blessed**. <br/> - Proverbs 3
 ---
+<img class="center" src="images/accolade.png" alt="Lady honoring a knight"/>
 
 <div class="sections">
 
