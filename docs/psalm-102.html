@@ -10,6 +10,10 @@
   <script src="https://kit.fontawesome.com/ecadd7b212.js" crossorigin="anonymous"></script>
   <link rel="stylesheet" href="./styles/page.css" type="text/css">
 
+  <!-- Pagefind code for search bar -->
+  <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+  <script src="/pagefind/pagefind-ui.js"></script>
+
   <script>
     /* Search for a css class name in an HTML element and replace it with a second class. */
     function replace_class(element, from_class, to_class) {
@@ -1566,7 +1570,14 @@ and also concern the days of the seventh beast.</p>
     </div>
     <!-- Page Footer -->
     <div class="footer faint">
-      
+      <p>
+<div id="search"></div>
+<script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI({ element: "#search", showSubResults: true });
+    });
+</script>
+</p>
     </div>
   </div>
 </body>

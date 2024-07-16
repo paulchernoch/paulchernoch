@@ -8,9 +8,13 @@ read user_input
 
 cd source
 
+# Build the HTML files from the templates and markdown files.
 python build-website.py force
 
 cd ..
+
+# Build the search index
+npx -y pagefind --site docs
 
 git add .
 

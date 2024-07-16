@@ -40,7 +40,7 @@ Configuration files:
             If absent, the title is turned into a filename by replacing spaces and 
             punctuation to hyphens and adding ".md" as extension.
    - brief: Optional string synopsis of the article.
-   - footer: Optional footer for the article.
+   - footer: Optional footer for the article. If omitted, a search bar will be inserted instead.
    - image: Optional string with css class names from FontAwesome that indicate an icon for use in the TOC.
    - dates: List of strings which are publication and edit dates for the article, in the format yyyy-mm-dd.
    - style: Name of HTML template file to use, defaulting to default-page.html
@@ -431,7 +431,16 @@ def apply_template(template: str, sitemap: dict, title: str) -> str:
 
   footer = page_record['footer']
   if footer is None:
-    page = remove_macro("FOOTER", page)
+    # page = remove_macro("FOOTER", page)
+    searchbar = '''
+<div id="search"></div>
+<script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI({ element: "#search", showSubResults: true });
+    });
+</script>
+'''
+    page = replace_macro("FOOTER", searchbar, page)
   else:
     page = replace_macro("FOOTER", footer, page)
   
