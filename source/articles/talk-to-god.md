@@ -2,6 +2,8 @@
 title: Job and the Ways to Talk to God
 quote: on the left hand when he is working, <br/> I do not behold him; <br/> he turns to the right hand, <br/> but I do not see him. - Job 23:9
 ---
+<img class="center" src="images/talk-to-god.png" alt="Job and Family by William Blake"/>
+
 When Job's life collapsed into ruin, he wanted only one thing. He wanted to talk to God.
 
 The life of faith can appear complicated. There are many doctrines and rules to master.
