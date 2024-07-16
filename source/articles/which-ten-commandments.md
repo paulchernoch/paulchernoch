@@ -1,6 +1,8 @@
 ---
 title: Which Ten Commandments?
 ---
+<img class="center" src="images/moses-with-ten-commandments.png" alt="Moses with the Ten Commandments"/>
+
 ## Abstract
 
 The material in this article first appeared as the chapter "Which Ten Commandments?" in the book 
