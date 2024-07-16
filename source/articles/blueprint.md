@@ -2,6 +2,8 @@
 title: Blueprint for Lady Wisdom's House
 quote: Let each of you look <br/> not only to his own interests, <br/> but also to the interests of others. <br/> - Philippians 2:4
 ---
+<img class="center" src="./images/blueprint.jpg" alt="blueprint of Lady Wisdom's house" />
+
 ## Abstract
 
 In Proverbs, the wisdom of God is likened to a house. This is not for merely pedagogical reasons. 
@@ -37,8 +39,6 @@ have to a CAD/CAM drawing is found in Proverbs:
 ##### she has mixed her wine;
 ###### she has also set her table. 
 ###### - Proverbs 9:1-2, ESV
-
-<img class="center" src="./images/blueprint.jpg" alt="blueprint of Lady Wisdom's house" />
 
 ## Foundation
 
