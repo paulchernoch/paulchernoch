@@ -13,7 +13,7 @@ python build-website.py force
 
 cd ..
 
-# Build the search index
+# Build the search index.
 npx -y pagefind --site docs
 
 git add .
