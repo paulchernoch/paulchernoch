@@ -136,6 +136,9 @@ truths of Christianity: the incarnation.
 
 <hr/>
 
+
+<div class="sections">
+
 Links to the other articles in this section:
 
 [Spiritual Growth](./spiritual-growth.html) Introduction to the articles about spiritual growth.
@@ -170,3 +173,5 @@ Links to the other articles in this section:
 [Dreams](./dreams.html) Dreams can guide you, paralyze you, or lead you astray. In my case, it was all three.
 
 [Spiritual Warfare](./spiritual-warfare.html) Somebody IS out to get you.
+
+</div>
