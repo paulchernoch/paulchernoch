@@ -2,6 +2,28 @@
 title: Spiritual Warfare
 quote: For our struggle is not against flesh and blood, <br/> but against... the spiritual forces of evil <br/> in the heavenly realms. <br/> - Ephesians 6:12ac
 ---
+
+<div class="sections">
+
+Sections of this article:
+
+  <ol>
+    <li> <a href="#1">Get to Know Your Ally First</a> </li>
+    <li> <a href="#2">Dimensions to Spiritual Warfare</a> </li>
+    <li> <a href="#3">Temptation, Treasure and Lots of Threes</a> </li>
+    <li> <a href="#4">The Spiritual Disciplines</a> </li>
+    <li> <a href="#5">The Five Voices to ignore</a> </li>
+    <li> <a href="#6">The Five Battlefields</a> </li>
+    <li> <a href="#7">The Sevenfold Path to a Spiritual Harvest</a> </li>
+    <li> <a href="#8">The Seven Phases of Spiritual Growth</a> </li>
+    <li> <a href="#9">The Seven Spirits of God</a> </li>
+    <li> <a href="#10">The Seven Pillars of Wisdom</a> </li>
+    <li> <a href="#11">The Law of Christ</a> </li>
+    <li> <a href="#12">The Whole Armor of God</a> </li>
+  </ol>
+
+</div>
+
 The problem with the topic of spiritual warfare is not that it is difficult to find useful, understandable 
 guidance on the subject in the Bible. The problem is that there is so much! That is not the only problem.
 When you are under siege, logic and proportion vanish. Crises bring pain, impatience, shortcuts, and despair.
@@ -20,6 +42,8 @@ It is a matter of the right time.
 It is possible to learn new truths and put them into practice even while under fire. In [Dreams](./dreams.html) I share how I was delivered from
 persistent nightmares through prayer and meditation on the Psalms and Isaiah, guided to the verses I needed by God's grace.
 Be grateful when such things happen to you. In my experience, such victories are rare. Take your swimming lessons before you board leaky boats.
+
+<span id="1" />
 
 ## Get to Know Your Ally First
 
@@ -75,6 +99,8 @@ great things He was doing. It gave me the insight to understand that God does ju
 he promised. It helped me trust ancient prophecies about God's plans. That certainty helped me persevere through years 
 of Bible study and writing when so much didn't make sense. If the Lord can overthrow a beastly empire like Communist Russia 
 in a season, is there anything He cannot do?
+
+<span id="2" />
 
 ## Dimensions to Spiritual Warfare
 
@@ -158,8 +184,45 @@ The most important is that this warfare is permitted by God to help us grow. The
 me how to distinguish between the voice of God and the voice of the enemy. Without "a time for war", you will never be prepared
 to enter into the "time for peace".
 
-## Lots of Threes
+<span id="3" /> 
 
+## Temptation, Treasure and Lots of Threes
+
+<span id="4" />
+
+## The Spiritual Disciplines
+
+<span id="5" />
+
+## The Five Voices to ignore
+
+<span id="6" />
+
+## The Five Battlefields
+
+<span id="7" />
+
+## The Sevenfold Path to a Spiritual Harvest
+
+<span id="8" />
+
+## The Seven Phases of Spiritual Growth
+
+<span id="9" />
+
+## The Seven Spirits of God
+
+<span id="10" />
+
+## The Seven Pillars of Wisdom
+
+<span id="11" />
+
+## The Law of Christ
+
+<span id="12" />
+
+## The Whole Armor of God
 
 
 In progress...
