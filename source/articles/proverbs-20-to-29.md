@@ -562,6 +562,8 @@ Okay, maybe there is something about sluggards watching cute cat videos:
 ##### There is a lion in the streets!”
 ###### - Proverbs 26:13, ESV
 
+(There are at least five voices to ignore. To the four above you can add one from Proverbs 27:21, the flatterer.)
+
 Proverbs has a lot to say about fools and warns us not to
 be like them. This chapter spots the most fools. In telling us
 not to speak like a fool, God is telling us to listen. If you pair
@@ -701,8 +703,7 @@ preparing His church for the battle ahead: speaking the
 gospel to all the nations of the world. This chapter is filled
 with advice about how to speak wisely.
 
-The twenty-seven verses may be categorized according to
-the Trinity:
+The twenty-seven verses may be categorized according to the Trinity:
 
   - **The Son: Speaking** (12 verses). Some proverbs are prescriptive (9,11,17), some proscriptive (1,3,14,15-16), and some balanced (2,5,6,21), saying what to do and what not to do.
   - **The Spirit: Heart Attitude** (6 verses). These relate to desire (4,7,8,19,20,22) or loyalty (10,13,18). 
