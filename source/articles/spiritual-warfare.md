@@ -8,7 +8,7 @@ quote: For our struggle is not against flesh and blood, <br/> but against... the
 Sections of this article:
 
   <ol>
-    <li> <a href="#0">Get to Know Your Ally First</a> </li>
+    <li> <a href="#0">What is Spiritual Warfare?</a> </li>
     <li> <a href="#1">Get to Know Your Ally First</a> </li>
     <li> <a href="#2">Dimensions to Spiritual Warfare</a> </li>
     <li> <a href="#3">Temptation, Treasure and Lots of Threes</a> </li>
