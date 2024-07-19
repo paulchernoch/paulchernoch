@@ -8,6 +8,7 @@ quote: For our struggle is not against flesh and blood, <br/> but against... the
 Sections of this article:
 
   <ol>
+    <li> <a href="#0">Get to Know Your Ally First</a> </li>
     <li> <a href="#1">Get to Know Your Ally First</a> </li>
     <li> <a href="#2">Dimensions to Spiritual Warfare</a> </li>
     <li> <a href="#3">Temptation, Treasure and Lots of Threes</a> </li>
@@ -23,6 +24,10 @@ Sections of this article:
   </ol>
 
 </div>
+
+<span id="0" />
+
+## What is Spiritual Warfare?
 
 The problem with the topic of spiritual warfare is not that it is difficult to find useful, understandable 
 guidance on the subject in the Bible. The problem is that there is so much! That is not the only problem.
@@ -42,6 +47,79 @@ It is a matter of the right time.
 It is possible to learn new truths and put them into practice even while under fire. In [Dreams](./dreams.html) I share how I was delivered from
 persistent nightmares through prayer and meditation on the Psalms and Isaiah, guided to the verses I needed by God's grace.
 Be grateful when such things happen to you. In my experience, such victories are rare. Take your swimming lessons before you board leaky boats.
+
+The first lesson is NOT to answer the question, "What is Spiritual Warfare?" The first lesson is to define what is Spiritual Growth.
+Spiritual Growth is what the one who is warring against your soul hopes to stop. Once you know what that second thing is,
+the first will make more sense. The starting point is the Great Commandment:
+
+#### And one of the scribes came up and heard them
+#### disputing with one another, and seeing that 
+#### he answered them well, asked him,
+##### “Which commandment is the most important of all?”
+#### Jesus answered,
+##### “The most important is, ‘Hear, O Israel: The Lord our God, 
+##### the Lord is one. And you shall love the Lord your God
+##### with all your **heart** and with all your soul 
+##### and with all your **mind** and with all your **strength**.’
+##### The second is this: ‘You shall love your neighbor as yourself.’ 
+##### There is no other commandment greater than these.”
+#### And the scribe said to him,
+##### “You are right, Teacher. You have truly said that he is one,
+##### and there is no other besides him. And to love him with
+##### all the **heart** and with all the **understanding** 
+##### and with all the **strength**, and to love one's neighbor as oneself,
+##### is much more than all whole burnt offerings and sacrifices.”
+#### And when Jesus saw that he answered wisely, he said to him,
+##### “You are not far from the kingdom of God.”
+#### And after that no one dared to ask him any more questions.
+###### - Mark 12:28-34
+
+Perhaps those people did not dare to ask Jesus any more questions, but I do often.
+Yesterday I stepped back from the rough outline for this article and knew it was lacking something.
+I prayed for the wisdom to have something valuable to share with any who read these words.
+I wrote a few paragraphs more and then set it aside. This morning I had my answer. It was the law of love.
+That is what spiritual growth is.
+
+<div class="pullquote-centered">
+  <p>Spiritual Growth is growing in our love</p>
+  <p>for God and for each other</p>
+  <p>with every part of our being.</p>
+</div>
+
+It is to grow in our **mind**, in the apprehension and embracing of what is true and lovely and good 
+and the overflow of that truth into our speech.
+
+It is to grow in our **heart**, in treasuring the things that God treasures, 
+submitting our emotions to faith in God's provision, and having passion for
+justice and mercy - with humility. It is receiving wise counsel and sharing it with others.
+
+It is to grow in our **strength**, devoting our hands to good works, training them in good habits
+and focusing our time and energy on noble things, not dissipating it on foolish pursuits.
+
+(I lump the soul in with the heart because I have a hard time dividing them. Hebrews 4:12 says 
+the word of God is "Sharper than any double-edged sword" and "it penetrates even to dividing soul and spirit".
+It knows how to do that, but I do not.)
+
+Knowing what Spiritual Growth is, we can now define Spiritual Warfare:
+
+<div class="pullquote-centered">
+  <p>Spiritual Warfare is resisting every</p>
+  <p>influence directed at us to</p>
+  <p>kill, reverse or stunt our Spiritual Growth.</p>
+</div>
+
+For our soul's enemies, Spiritual Warfare includes everything that tries to make humans hate God and each other.
+These enemies attack every part of a person: heart, mind and strength.
+These enemies attack people at every phase of their life.
+They have separate tactics for each.
+
+For our soul's allies, Spiritual Warfare includes everything that tries to make humans love God and each other.
+In the words of Paul, "Love always protects."
+That protection must shield the whole person: heart, mind and strength.
+That protection must persist across the whole of a person's life.
+
+With the clarity of knowing what is at stake and what is the prize for those who win the victory,
+we can proceed to the details.
 
 <span id="1" />
 
@@ -138,7 +216,7 @@ Many are not original with me - which is a good thing!
   - The three forces of temptation: Fraud, Fear and Focus
   - The three allies of faith: Jesus, the Holy Spirit and the Father
   - The three levels of growth: Material Growth, Individual Spiritual Growth, Collective Church Growth
-  - The three kinds of Heavenly Treasures: for Establishing, Nourishing, and Flourishing
+  - [The Three Kinds of Heavenly Treasures](./heavenly-treasures.html): for Establishing, Nourishing, and Flourishing
   - [The Spiritual Disciplines](./talk-to-god.html)
   - [The Five Voices to ignore](./proverbs-20-to-29.html) : the fools, the sluggards, the quarrelsome, the malicious, the flatterers
   - [The Five Battlefields](./riddles-of-war.html): the individual, the workplace, the family, the church, the state
@@ -187,6 +265,54 @@ to enter into the "time for peace".
 <span id="3" /> 
 
 ## Temptation, Treasure and Lots of Threes
+
+Spiritual conflict often begins with a temptation. One goal that God has for our spiritual growth is to break the power of 
+temptations that once ruled over us and ruined us so that we may be free from sin and full of good fruit.
+How do you regard temptation? I grudgingly admit that it is a teacher. When we are drawn to a harmful thing it tempts us 
+because we desire it. When we are chased away from a good thing, we comply because we desire pleasure and 
+holding fast to that good has been made painful by persecution or some other form of hardship. When we fail such a test,
+our values are clarified. We discover what is important to us and what we merely give lip service to. Temptation is
+a harsh teacher.
+
+Reflecting on the stories of temptation in the Bible was the first exercise that enabled me to discover the Harvest Pattern of Jesus.
+Succumbing to temptation is the opposite of gathering a harvest. You learn useful things from negative lessons, but they are incomplete.
+
+A second exercise was meditating on the Parable of the Soils (Matthew 13:21-23). That parable describes three ways in which people fail, 
+each a different kind of temptation. I wrestled for years to understand that parable. Consider how important Jesus regarded it:
+
+#### And he said to them,
+##### 'Do you not understand this parable? 
+##### How then will you understand all the parables?'
+##### - Mark 4:13, ESV
+
+The NIV amplifies the importance by saying "understand **any** parable". I put my understanding alongside Jesus' declaration and they didn't
+line up. The meaning that I could see did not justify the extreme - even paramount - importance attached to it. That told me that I
+was missing something big.
+
+The third exercise was reflecting on the spiritual struggles in which I was victorious. These include victories over 
+the fear of death, aimlessness, nightmares, depression, and anxiety. Each time we overcome a temptation, weakness, or character flaw 
+of any kind we reap a new harvest of righteousness. By introspection and prayer, I discovered a pattern to my victories that had escaped me
+and that pattern matched one found in the Bible. This was a new proof to me of the truth of the Bible's ideas.
+
+The central stories of temptation are the three times that Satan speaks openly: to Eve (in Genesis 3), to the Father (concerning Job in Job 1-2), 
+and to Jesus (when he was tempted in the desert in Matthew 4). (A fourth story is the testing of Peter. We do not hear Satan's words directly, 
+merely that he wanted to "sift \[him\] like wheat" (Luke 22:31).) These three stories are compared and contrasted in "Three Appointments with Satan" 
+in *Peace, like Solomon Never Knew*. An early result of studying them was discovering the first three threes, which govern:
+
+  - our personality
+  - the enemy's tactics
+  - the vectors of hostility
+
+**Personality**. Models for describing human personality abound. The one Jesus employed was simple; it has just three parts:
+
+  - the mind (including speech and intellect)
+  - the heart (including emotions and desires)
+  - the hand (including habits, plans, goals and actions in the physical realm)
+
+These are the three areas we need to grow, consequently these are the areas that Satan attacks. Satan attacked Eve in all three, and Job, and Jesus.
+
+
+
 
 <span id="4" />
 
