@@ -309,8 +309,124 @@ in *Peace, like Solomon Never Knew*. An early result of studying them was discov
   - the heart (including emotions and desires)
   - the hand (including habits, plans, goals and actions in the physical realm)
 
-These are the three areas we need to grow, consequently these are the areas that Satan attacks. Satan attacked Eve in all three, and Job, and Jesus.
+These are the three areas we need to grow, consequently these are the areas that Satan attacks. 
+Satan attacked Eve in all three, and Job, and Jesus. Let's start by looking at Eve:
 
+#### “You will not certainly die,” the serpent said to the woman. 
+#### “For God knows that when you eat from it
+#### your eyes will be opened, and you
+#### will be like God, knowing good and evil.”
+#### When the woman saw that the fruit of the tree
+##### was **good for food** and
+##### **pleasing to the eye**, 
+##### and also **desirable for gaining wisdom**, 
+#### she took some and ate it.
+#### She also gave some to her husband, 
+#### who was with her, and he ate it.
+###### - Genesis 3:4-6, NIV
+
+Satan tempted Eve with three lies, each directed at a different part of her person.
+She then accepted each of the three lies and all three parts of her person
+(and her husband's) were harmed.
+
+  1. “You will not certainly die" is a lie about the effect on her physical body, saying it won't harm her strength. Eve's response is to accept that it was "good for food", meaning it will strengthen her body.
+  2. "Your eyes will be opened" is a lie about the effect on her heart. Her spiritual eyes were darkened and unholy desires entered her heart. Eve's response was to admire the fruit as "pleasing to the eye". Our heart's desires are a fertile battleground for Satan.
+  3. "You will be like God, knowing good and evil" is a lie about what true wisdom is and how we are to pursue it. Eve then trusted Satan's evaluation that the fruit was "desirable for gaining wisdom". This final assault was against her mind, to believe a lie.
+
+With Job, Satan did not speak to Job directly, because Job was wise about God's words. Instead of leading with lies (the realm of the mind), Satan
+softened him up with attacks on his strength (in chapter 1 by killing his beloved children, his servants and stealing his wealth) and his heart 
+(in chapter 2 by afflicting him with disease, nightmares and rejection by wife, friends and family). Only then did he invade the dreams of one of his friends to 
+introduce religious lies to attack Job's character and faith. Thus the order of attack was: Job's strength (his hand), his heart and then his mind.
+This is the same order that showed up in the story of Eve.
+
+Unlike Eve, Job was victorious. God withdrew his hedge of protection from Job temporarily to allow Satan's attacks, then 
+restored it piece by piece. The protection was restored in three phases, one for each facet of Job's being.
+
+  1. During the speeches in which Job argued with his friends, God poured wisdom into the man's mind. We know this, because at the end of the book, God endorses the things that Job said.
+  2. When Elihu enters the scene, he offers Job emotional support, sides with Job against the words of his three friends, and gives wise counsel and promises that God loves him.
+  3. When God arrives in the Whirlwind, He speaks about how he provides physical assistance to the animals, like food, freedom and assistance with bearing young. Then he restores Job's health, fortune and relationships.
+
+Thus the victory was won in reverse order: the mind, the heart, and the body. This order is critical. 
+It matches the order given in the Parable of the Soils. Temptation and destruction are a harvest in reverse.
+
+Jesus faced the same categories of temptation in the same order, but did not respond in kind.
+
+#### Then Jesus was led up by the Spirit into the wilderness 
+#### to be tempted by the devil. And after fasting forty days 
+#### and forty nights, **he was hungry**. And the tempter came 
+#### and said to him, 
+##### “If you are the Son of God, **command these stones** 
+##### to become loaves of bread.”
+#### But he answered, 
+##### “It is written,
+##### “‘Man shall not live by bread alone,
+##### but by **every word** that comes from the mouth of God.’”
+#### Then the devil took him to the holy city and set him 
+#### on the pinnacle of the temple and said to him, 
+##### **“If you are the Son of God, throw yourself down**, 
+##### for it is written,
+###### “‘He will command his angels concerning you,’
+##### and
+###### “‘On their hands they will bear you up,
+###### lest you strike your foot against a stone.’”
+#### Jesus said to him, 
+##### “Again it is written, 
+###### **‘You shall not put the Lord your God to the test**.’”
+#### Again, the devil took him to a very high mountain 
+#### and showed him all the kingdoms of the world and their glory.
+#### And he said to him, 
+##### “All these I will give you, 
+##### if you will **fall down and worship me**.”
+#### Then Jesus said to him, 
+##### “Be gone, Satan! For it is written,
+###### “‘You shall worship the Lord your God
+###### and **him only shall you serve**.’”
+#### Then the devil left him, and behold, 
+#### angels came and were ministering to him.
+###### - Matthew 4:1-11
+
+**Tactics: The Three Forces of Temptation**. The devil's attack was standard:
+
+  - Against the body: hunger to tempt Jesus to pursue bread for strength
+  - Against the heart: accusation to get Jesus to doubt God is his Father and can protect him
+  - Against the mind: bribe to get Jesus to reject the central truth that only the Lord God is to be worshiped
+
+This brings out Satan's tactics, the three forces that he applies to destroy us:
+
+  - **Fraud**: Satan lies to us
+  - **Fear**: Satan bullies us with persecution or hardship
+  - **Focus**: Satan distracts us with shiny things that make us leave the path and focus our strength on everything but what we should be doing
+
+Jesus' response was not standard. On every point he responded with an appeal to the Word.
+On every point he followed the path of growth.
+
+  - Instead of feeding his bodily appetite, Jesus feeds his **mind** on "every word that comes from the mouth of God"
+  - Instead of succumbing to fear, Jesus derives his confidence and maintains a steady **heart** by trusting in the Word
+  - Instead of being distracted by a bribe from his course, he sets his **hand** on worshiping God and living by God's timetable
+
+Note that by his temptations, Satan tries to get us to prioritize our bodily needs first, then our feelings, 
+and only last worry about the truth. Jesus' responds first with truth, then steadies his heart with that truth,
+then obeys that truth by committing his actions - his hands - to working for and worshiping God.
+Make your appetites serve the truth instead of bending the truth to satisfy your appetites.
+
+**The Three Spheres of Hostility**. Our enemies may be divided into three camps:
+
+  - The devil (and all malicious spiritual entities)
+  - The world (all individuals and groups of people hostile to God)
+  - The flesh (our sinful nature, the enemy within)
+
+We already dealt with Satan's role in temptation, here is the world's:
+
+#### For everything in the world—the lust of the flesh, 
+#### the lust of the eyes, and the pride of life—
+#### comes not from the Father but from the **world**.
+###### - 1 John 2:16
+
+Much of the Bible is devoted to the world system and its evils. Space does not permit us to 
+repeat it. We mention it here because we must recognize our enemies if we are to at last
+understand Jesus' Parable of the Soils.
+
+**The Three Bad Soils**.
 
 
 
