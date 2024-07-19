@@ -426,9 +426,33 @@ Much of the Bible is devoted to the world system and its evils. Space does not p
 repeat it. We mention it here because we must recognize our enemies if we are to at last
 understand Jesus' Parable of the Soils.
 
-**The Three Bad Soils**.
+**The Three Bad Soils (and one good one!)**.
 
+After I published *Job Rises*, I sat down and tried to simplify what I had discovered into a plan for life.
+I observed that the structure of Job, the unfolding of Jesus' temptation and the Parable of the Sower showed
+different angles of the same underlying truth. That was the genesis of the [Harvest Pattern](./harvest-pattern.html). 
+Since Job is a type of the suffering servant, his suffering was like Christ's suffering. Thus that much longer book amplified 
+the brief tale of Jesus' temptation until even this deaf person could hear it. The parable warns of failure
+but in doing so gives us the keys to success. Job is filled with negative theology and so is the parable.
+By studying what can go wrong, we can find the help to ensure that it goes right.
 
+#### That same day Jesus went out of the house and sat
+#### beside the sea. And great crowds gathered about him,
+#### so that he got into a boat and sat down. And the 
+#### whole crowd stood on the beach. And he told them 
+#### many things in parables, saying:
+##### “A sower went out to sow. And as he sowed, 
+##### some seeds fell **along the path**, and the **birds** came
+##### and devoured them. Other seeds fell on **rocky ground**,
+##### where they **did not have much soil**, and immediately 
+##### they sprang up, since they had no depth of soil,
+##### but when the sun rose they were scorched. And since
+##### they had no root, they withered away. Other seeds 
+##### fell among **thorns**, and the thorns grew up and 
+##### **choked them**. Other seeds fell on good soil and
+##### **produced grain**, some a hundredfold, some sixty, 
+##### some thirty. He who has ears, let him hear.”
+###### - Matthew 13:1-9
 
 <span id="4" />
 
