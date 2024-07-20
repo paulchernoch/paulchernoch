@@ -454,9 +454,72 @@ By studying what can go wrong, we can find the help to ensure that it goes right
 ##### some thirty. He who has ears, let him hear.”
 ###### - Matthew 13:1-9
 
+When the Lord took away hearing in my left ear in January 2005, then gave it back,
+he was telling me that I was spiritually deaf. In this parable Jesus is challenging us.
+Do we have ears to hear or not? Verses later in the chapter tell us that the disciples
+came to Jesus afterwards to ask him to explain what the parable meant. That is hearing.
+The true hearer goes back to Jesus again and again pleading, "Please explain!"
+
+Jesus spoke to the crowds who left after hearing wise stories and probably thinking
+they understood the meaning. The disciples were humble and diligent. They asked for more.
+I was once lazy, like those crowds - but I thought myself like a disciple. You see,
+I passively read the report of what Jesus told his disciples and thought that qualified
+me as one who kept after Jesus for more insight. No! There is no substitute for 
+individually approaching Jesus in prayer, or in asking questions of pastors, or in reading
+books searching for a clearer understanding. No one else can do all the work for you.
+
+It is over a decade since I began to question Jesus about this very parable. Every few years
+I revisit it and each time derive new insight. Consider the agents at war against the sower
+who seeks a harvest and their tactics. Jesus told us who they are later in the chapter:
+
+  - the bird is the *devil* and his tactic is to **trick** you out of believing the gospel by attacking the mind
+  - the rocky soil is the *world* which uses suffering (like natural disasters, disease and famine) and oppression (like peer pressure and persecution) to **scare** you out of believing, attacking the heart
+  - the thorny soil is your *sinful nature* which **distracts** you with desires for pleasure and comfort, to engage your hands with useless activities
+
+The three hostile agents are paired with their three tempting techniques and each attack one of the 
+three dimensions of a person. This parable is elegant and compact. It also drives home another point: time.
+Planting occurs at the beginning of the growing season. Rapid growth amid rocky soil occurs through 
+the rainy season (which is April to June where I live) and is not interrupted until the midsummer 
+heat beats down. Lastly, the problems with thorns do not become apparent until later in the season, 
+as the harvest draws near. These three temptations do not describe static events. Instead
+of thinking of the three soils as three types of people, as I was taught, it looks like they are 
+three distinct failure modes in a single harvest process.
+
+After the parable tells us about three failures, it goes on to speak of three successes of different degree.
+What it does not tell us is how to resist the things that cause failure and obtain an abundant yield.
+
+**Three Allies for the Harvester**. That question, unasked by the disciples, was the decisive one for me.
+When I went to the Lord asking how to produce a good harvest, he told me not what to do but who to call,
+who to lean on for help in each phase of the harvest.
+
+  - **Jesus** is the Word, so he is both sower and seed. He commands the intellect and spoken communication so can protect the **mind**. He can refute the lies and trickery of the devil and prevent the seed from being snatched by the bird. 
+  - **The Holy Spirit** is the comforter of the sorrowful, the counselor of the lost. The Spirit soothes emotions and reorients desires. He dwells in the human **heart** and is the pure water that protects the plants from the heat of the sun.
+  - **The Father** is the one who disciplines and guides our **hands**, pruning the thorny weeds from our lives, teaching us new habits of action. The Father helps us make good plans and is the master of time, the one who is and was and is to come.
+
+I was pleased to see how the Trinity is intimately involved with the process of producing a harvest.
+This deepened my understanding of the "economic Trinity", how the three equal persons serve different roles
+in how they act in our world. It also shone a light on how our sanctification proceeds. First our mind must
+be transformed, then our heart and its desires realigned, before finally we are able to reform our behavior.
+"Just do it" just doesn't work.
+
+This realization also made it clear that Spiritual Warfare is the impetus that drives the the whole of 
+a faithful person closer to God so that they may be fruitful. When your mind is under assault, you turn to 
+the Word. When your emotions are tattered of your desires frustrated, you turn to the Holy Spirit.
+And when bad habits threaten to undo you, the Father is there to direct you back to the right path.
+
+How? Each part of us has different ways to communicate with God.
+
 <span id="4" />
 
 ## The Spiritual Disciplines
+
+Spiritual Disciplines is fancy way of saying "Ways to talk to God". Almost all of them are mentioned in Job,
+as I noted in *Job Rises* and repeat in [Job and the Ways to Talk to God](./talk-to-god.html).
+People have written whole books, each on a single one of those means of communication.
+In regards to Spiritual Warfare, talking to God regularly is one of the best things you can
+do to protect yourself and be prepared and guided in how to protect others.
+
+
 
 <span id="5" />
 
