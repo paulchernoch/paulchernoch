@@ -12,7 +12,8 @@ Sections of this article:
     <li> <a href="#1">Get to Know Your Ally First</a> </li>
     <li> <a href="#2">Dimensions to Spiritual Warfare</a> </li>
     <li> <a href="#3">Temptation, Treasure and Lots of Threes</a> </li>
-    <li> <a href="#4">The Spiritual Disciplines</a> </li>
+    <li> <a href="#4a">The Spiritual Disciplines</a> </li>
+    <li> <a href="#4b">Sacrifice</a> </li>
     <li> <a href="#5">The Five Voices to ignore</a> </li>
     <li> <a href="#6">The Five Battlefields</a> </li>
     <li> <a href="#7">The Sevenfold Path to a Spiritual Harvest</a> </li>
@@ -509,17 +510,156 @@ And when bad habits threaten to undo you, the Father is there to direct you back
 
 How? Each part of us has different ways to communicate with God.
 
-<span id="4" />
+<span id="4a" />
 
 ## The Spiritual Disciplines
 
-Spiritual Disciplines is fancy way of saying "Ways to talk to God". Almost all of them are mentioned in Job,
+*Spiritual Disciplines* is fancy way of saying "Ways to talk to God". Almost all of them are mentioned in Job,
 as I noted in *Job Rises* and repeat in [Job and the Ways to Talk to God](./talk-to-god.html).
 People have written whole books, each on a single one of those means of communication.
 In regards to Spiritual Warfare, talking to God regularly is one of the best things you can
 do to protect yourself and be prepared and guided in how to protect others.
 
+The article cited above treats each means of communication separately, but they can't really be separated
+any more than one God can be split in three. These means can sometimes be associated each with a different
+member of the Trinity, then strung together in a chain that accomplishes a complete work. One example is
+repentance.
 
+  - Reading the Bible is associated with the Divine Word, which is Jesus. A believer who is reading the Bible often finds words that tell them they have done wrong. As Paul said, *"Wherefore the law was our schoolmaster to bring us unto Christ, that we might be justified by faith."* (Galatians 3:24, KJV)
+  - The Holy Spirit cuts us to the heart. With deep emotion, we regret their actions, even weep over our sin. Moved by the Spirit, we confess our sin and pray to God for forgiveness.
+  - With the direction of the Word and the conviction of the Holy Spirit, we may seek a means to do penance and with our hands make some restitution for what we have done. Additionally, we may resolve to change our behavior and form new and better habits. This work of the hands satisfies the Father.
+
+In the example above, a series of actions drawn from different spiritual disciplines connected to one another to engage all 
+three members of the Trinity. However, sometimes the same type of action is expressed differently by the three dimensions
+of a human, each oriented towards a different person of the Trinity. Prayer can be like that.
+
+  - You pray to God to make a petition, [plead the promises](https://www.leaderu.com/orgs/bpf/pathways/plead.html), or ask for wisdom. You are specially guided by the Bible in how and what you pray. It is the Son whom you address and the prayer engages your **mind**.
+  - Next, you pray in the Spirit. *"Likewise the Spirit helps us in our weakness. For we do not know what to pray for as we ought, but the Spirit himself intercedes for us with groanings too deep for words."* (Romans 8:26) Such pray occurs in **the deep places of your heart**.
+  - Finally, you pray to the Father, either the exact words of the Lord's prayer or another prayer in the same spirit. Instead of seeking your will, you seek to know the Father's will. This prayer ends in the obedient actions of your **hands**.
+
+Through prayer, your will and God's will begin to converge.
+
+In the strategy game of Go, there is a concept called "light and heavy". If you defend a territory too heavily, your
+opponent can expand fast into the territory where you have no presence. If you spread yourself too thin to capture
+extra territory, your lightly defended territories will fall to your enemy's attack. It is the same way with your 
+spiritual life. Is your faith unbalanced, directed more at one member of the Trinity than the others? 
+This wold turn up in which categories of spiritual disciplines you favor and which you neglect.
+
+Does this concept of having a diversified faith vis-a-vis the Trinity appear strange? A simpler way to look at is
+like so:
+
+  - Are you an intellectual Christian? Is the main focus of your faith reading the Bible, commentaries and books of philosophy, hearing sermons and talking about the ideas of the faith? If so, your faith dwells mostly in your mind, in the realm of the Son.
+  - Are you an emotional Christian? Do religious passions, ecstatic experiences, and deep sympathy for others define your faith? When you read your favorite Bible stories for the hundredth time, do they still make you weep or rejoice? Are you keenly aware of your own sin, often guided by dreams and visions, or one who frequently speaks in tongues? Do you make yourself available to sit with the suffering or a distraught friend to offer emotional support? If so, your faith dwells mostly in your heart, in the realm of the Holy Spirit.
+  - Are you a deliberate, active Christian, volunteering at church everywhere that you can? Do you swiftly take action to make amends when you offend? Do you frequently fast or give generously to the church or friends in need? If so, your faith dwells mostly in your hands, in the realm of the Father.
+
+Many of the actions of our faith do not fall entirely under the purview of one member of the Trinity, but a strong enough connection may be inferred to be useful for diagnosing how balanced your is your faith. What follows is my attempt to 
+make such an assignment. Feel free to disagree; the point is not to slice the godhead in pieces but to search your heart
+and see if you need to make adjustments.
+
+I know which part of my faith life is strongest: the mind. 
+I read and study the Word, seek patterns in it and scour church history and works of theology for answers. 
+Then I structure and write about what I found.
+
+I know which part of my faith life is weakest: the hand. The Father is in charge of time and planning. I am terrible
+at planning. He is also in charge of pruning us to help us find focus. I am unfocused in many areas of life.
+
+So where are you strongest and weakest? Here are some Spiritual Disciplines (or subcategories of them), broken
+by the member of the Trinity with the closest affinity to that means of communication. This list is illustrative, not exhaustive.
+
+- The Mind: Jesus, God the Son
+  - Prayers of the Mind:
+    - Petition
+    - Pleading the promises
+    - Asking for Wisdom
+  - Bible focused activities like:
+    - Reading the Bible
+    - Memorizing the Bible
+    - Reading commentaries, theology books
+    - Listening to sermons, attending conferences
+    - Learning what God values
+    - Recalling a guiding verse in time of need
+  - Journaling
+  - Pursuing a Godly conversation with a friend
+  - Receiving a word of knowledge
+  - Listening to a living prophet
+  - Receiving an informational message from an angel
+  - Hearing audible words from God
+- The Heart: God the Holy Spirit
+  - Prayers of the Heart
+    - Praying in the Spirit. "In the same way, the Spirit helps us in our weakness. We do not know what we ought to pray for, but the Spirit himself intercedes for us through wordless groans." (Romans 8:26)
+    - Supernatural burdens: When the Spirit tells you to pray for someone in deep need and you didn't even know they were in trouble. 
+  - [Practicing the presence of God](https://ccel.org/ccel/lawrence/practice/practice).
+  - Receiving words of counsel from the Spirit
+  - Offering words of counsel to others, prayerfully
+  - Receiving words of comfort and strength from an angel
+  - Meditating on the Psalms
+  - Singing praise to God
+  - Having dreams and visions
+  - Treasuring the things of God in your heart (like the Virgin Mary did in Luke 2)
+  - Inexplicable and inexpressible things
+- The Hand: God the Father
+  - Marveling at God's works in nature 
+  - Suffering in faith
+    - Normal human suffering
+    - Persecution for the Name 
+  - Observing the Sabbath
+  - Praying the Lord's Prayer
+  - Fasting
+  - Offering sacrifices:
+    - as penance for your sin
+    - as charity, for others
+  - Entering full time Christian service in the role of pastor, missionary or something else
+  - Receiving miracles of healing
+  - Being assisted materially and physically by an angel
+  - Seeing God via a Theophany
+  - Casting lots (which is a weird one) 
+
+Explaining all these associations would make this article unnecessarily long, but a few are worth noting.
+The assignment of verbal, intellectual practices to the Son should make sense.
+Concerning the second category of the Spirit, a Pentecostal could probably add a lot of additional interactions. 
+Indeed, I have a hard time defining some of my own experiences in the Spirit. That leaves the Father, whose
+domain of the hand is the realm of physical actions, plans and time management. His ways are the most mysterious.
+To many new Christians, fasting makes no sense, even though it is a common practice in many religions.
+By depriving the body of food, you are taking a physical action. You are saying that the sustenance you most need
+is not of your body but of your spirit.
+
+Fasting is a voluntary form of suffering. You pursue it because Jesus and others have told you that it is a 
+meaningful activity that God honors. It is the involuntary suffering that torments and perplexes us. 
+Yes, it is obviously related to the physical realm of body and hand, but it seems far from spiritual. 
+Much suffering seems meaningless. Most of us are not equipped like Job to get to the bottom of it. 
+Suffering IS a means whereby God communicates to us. That was one of the most important things that I 
+learned while doing research for *Job Rises*. God has used it to speak to me many times, but sometimes 
+it takes years for me to figure out what that message is. However, suffering fails in its mission if you 
+lack faith. The person who suffers yet retains their faith in God receives a blessing, just as Job did. 
+My experience with Janet Sullivan, as expressed in [Hannah's Song](./hannah-s-song.md), underscores this.
+From Janet I learned that the benefit for suffering in faith does not always accrue to us.
+The blessing is received by the people around us who are moved by our example. When I witnessed Janet's 
+faith in the midst of a terminal illness, it changed me. The message carried by her suffering came from God 
+through her to me (and to others who knew her). I was filled with tears of compassion and then a powerful joy 
+that delivered me from a decade of depression.
+
+This truth about suffering is of consolation only to those who love God and their neighbor in fulfillment of
+the commandment. Only such a person can understand Paul's words:
+
+#### Do nothing from selfish ambition or conceit,
+#### but in humility count others more significant 
+#### than yourselves. Let each of you look not only
+#### to his own interests, but also to the interests of others.
+###### - Philippians 2:3-4
+
+To love others so much that you are willing to suffer for them is only possible if the Holy Spirit
+dwells in your heart. Reflecting on this as well as on a significant challenge I faced early 
+in my Christian life, I concluded that one of these means of communicating with God deserves special 
+attention: **sacrifice**.
+
+<span id="4b" />
+
+## Sacrifice
+
+When I became a Protestant, I formed an impression that sacrifice was downplayed. The Jews had an elaborate 
+sacrificial system, the Catholics (whose beliefs I once held) a penitential system, but we had Jesus offering
+the only sacrifice for sin that would ever be needed. This is not based on Baptist dogmatics but on my gut
+reaction. We might talk of commitment, of perseverance, 
 
 <span id="5" />
 
