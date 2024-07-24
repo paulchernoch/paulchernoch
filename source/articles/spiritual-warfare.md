@@ -669,7 +669,7 @@ much of our freedom in search of a greater freedom. Like many, I refuse to work 
 can create friction with employers. We are asked to sacrifice our pride. By professing
 belief in ideas that the world rejects, this may cause us to sacrifice our reputation.
 
-This strange ambivalence incited a conflict in me. Someone told me something that became a first step
+This strange ambivalence incited a conflict in me. Someone shared with me an idea that became a first step
 toward harmony. They explained what Jesus meant by these words, delivered to people who complained
 that Jesus consorted with tax collectors and sinners:
 
@@ -710,6 +710,29 @@ then sold all he had to buy that field? That is a steep cost. I am proud to say 
 how great the cost of following Jesus was. I accepted Bonhoeffer's words, attempted to put them into practice 
 **and failed**. The sacrifices he said that Jesus called upon us to offer were more than I could bear.
 
+I no longer feel that way. My change in perspective required decades of struggle and 
+the learning of more than one lesson. Before I share a few of the stories of experiences that changed me, 
+it is important to clear up what sacrifice is. 
+
+**Definitions**. Sacrifice is a way to say to God or your neighbor, "I love you. You matter to me. 
+You are more important to me than the things I am giving up." That may seem obvious to you, 
+but it wasn't to me. Sacrifice is a form of communication. The old proverb that comes to mind is 
+"Actions speak louder than words."
+
+Life and the Holy Spirit's whispering periodically set before you an opportunity to offer a sacrifice 
+or not. What makes "the cost" that Bonhoeffer wrote about high or low? What motivates a person 
+to pay that cost? My failures sprang from placing too great a focus on one side of the equation.
+Sheer will mixed with gratitude for Christ's sacrifice on the cross could only carry me so far.
+One by one, I identified a series of truths that liberated me from this situation of despair and failure in
+following Christ. Once you understand and accept these truths, a marvelous change will come over you.
+It begins with the Golden Rule, to do unto other as you would have them do unto you.
+
+  1. The Cost to love my neighbor and my God and so fulfill the Golden Rule is high but worth paying.
+  2. I am poor; I do not have the resources to meet my neighbor's needs.
+  3. By faith, if I ask, seek, and knock, God will supply me with the resources I need.
+  4. Jesus tells us to pursue heavenly treasures, but I do not know what they are.
+  5. By searching for wisdom as instructed by Proverbs, I can discover what those true treasures are.
+  6. By offering sacrifices, I can replace my old, materialistic values with a desire for heavenly treasures.
 
 
 <span id="5" />
