@@ -658,8 +658,59 @@ attention: **sacrifice**.
 
 When I became a Protestant, I formed an impression that sacrifice was downplayed. The Jews had an elaborate 
 sacrificial system, the Catholics (whose beliefs I once held) a penitential system, but we had Jesus offering
-the only sacrifice for sin that would ever be needed. This is not based on Baptist dogmatics but on my gut
-reaction. We might talk of commitment, of perseverance, 
+the only sacrifice for sin that would ever be needed. This minimization of sacrifice is not based on 
+Baptist dogmatics but on my gut reaction to what I was taking in at church, in small group fellowship, or in
+my reading. We might talk of commitment or of perseverance, of "the sacrifice of praise" or tithing, but 
+not sacrifice in a direct and vivid way.
+
+This is not to say that all talk of sacrifice was absent. It attaches itself to many facets of my 
+Baptist faith. We sacrifice our time. We forgo activities in which the world indulges. We sacrifice 
+much of our freedom in search of a greater freedom. Like many, I refuse to work on the Sabbath, which
+can create friction with employers. We are asked to sacrifice our pride. By professing
+belief in ideas that the world rejects, this may cause us to sacrifice our reputation.
+
+This strange ambivalence incited a conflict in me. Someone told me something that became a first step
+toward harmony. They explained what Jesus meant by these words, delivered to people who complained
+that Jesus consorted with tax collectors and sinners:
+
+#### Go and learn what this means: 
+##### ‘I desire mercy, and not sacrifice.’ 
+#### For I came not to call the righteous, but sinners.
+###### - Matthew 9:13
+
+As a person prone to taking things literally, this had been my core verse on the place of sacrifice
+in the Protestant faith. I took it to mean that God didn't want sacrifice any more. Alas, those words 
+mean the opposite! No, more than the opposite. They call us to lives of even greater sacrifice
+than we could imagine. Jesus was telling us to sacrifice "sacrifice". My friends' insight into
+what Jesus meant was this:
+
+<div class="pullquote-centered">
+  <p>The sacrifice-minded person looks mostly on what they are giving up.</p>
+  <p>The mercy-minded person looks mostly on whom they are giving to.</p>
+</div>
+
+Jesus is telling us to love mercy, not the things we must sacrifice to show it. 
+We must be happier about blessing our friend than we are mournful over what we had to give up in the process.
+Otherwise, we are like the host of one of Solomon's proverbs:
+
+#### Do not eat the food of a begrudging host,
+##### do not crave his delicacies;
+#### for he is the kind of person
+##### who is always thinking about the cost.
+#### “Eat and drink,” he says to you,
+##### but his heart is not with you.
+#### You will vomit up the little you have eaten
+##### and will have wasted your compliments.
+###### - Proverbs 23:6-8, NIV
+
+In those days, I was reading *The Cost of Discipleship* by Dietrich Bonhoeffer. In that book
+he harangued against "cheap grace". He believed that God's grace was both free and costly.
+Recall the man in Jesus' parable who found the treasure in the field (in Matthew 13:44), 
+then sold all he had to buy that field? That is a steep cost. I am proud to say that I recognized 
+how great the cost of following Jesus was. I accepted Bonhoeffer's words, attempted to put them into practice 
+**and failed**. The sacrifices he said that Jesus called upon us to offer were more than I could bear.
+
+
 
 <span id="5" />
 
