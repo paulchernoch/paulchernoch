@@ -725,14 +725,55 @@ to pay that cost? My failures sprang from placing too great a focus on one side 
 Sheer will mixed with gratitude for Christ's sacrifice on the cross could only carry me so far.
 One by one, I identified a series of truths that liberated me from this situation of despair and failure in
 following Christ. Once you understand and accept these truths, a marvelous change will come over you.
-It begins with the Golden Rule, to do unto other as you would have them do unto you.
+It begins with the Golden Rule, to do unto others as you would have them do unto you.
 
-  1. The Cost to love my neighbor and my God and so fulfill the Golden Rule is high but worth paying.
-  2. I am poor; I do not have the resources to meet my neighbor's needs.
-  3. By faith, if I ask, seek, and knock, God will supply me with the resources I need.
-  4. Jesus tells us to pursue heavenly treasures, but I do not know what they are.
-  5. By searching for wisdom as instructed by Proverbs, I can discover what those true treasures are.
-  6. By offering sacrifices, I can replace my old, materialistic values with a desire for heavenly treasures.
+  1. The starting points are the Golden Rule (Matthew 7:12) and the Greatest Commandment (Matthew 22:36-40).
+  2. Like the lyrics from a Foreigner song, "I want to know what love is." I needed someone to show me. (John 13:34-35)
+  3. By seeing the Church model love and reading how Paul defines it (1 Corinthians 13), I learned what love is.
+  4. By trying and failing, I discovered that the Cost to love my neighbor and my God and so fulfill the Golden Rule is high. (Matthew 10:39, 16:25)
+  5. At the same time, I lamented that I am materially, emotionally and spiritually poor; I do not have the resources to meet my neighbor's needs. (Revelation 3:17-18)
+  6. I learned that by faith, if I ask, seek, and knock, God will supply me with the resources I need. (Matthew 7:7-10)
+  7. Jesus tells us to pursue heavenly treasures... (Matthew 6:19-21)
+  8. ... but I did not know what those treasures are; they are hidden. (Job 28, Proverbs 25:2, Colossians 2:3)
+  9. By searching for wisdom as instructed by Proverbs, I discovered what those true treasures are. (Proverbs 2)
+  10. By offering sacrifices, I replaced my old, materialistic values with a desire for heavenly treasures. (Romans 12:2)
+  11. With a new heart that values what God values, the sacrificial cost of loving God and neighbor did not seem so high. (Hebrews 12:1-4)
+  12. With this altered emotional appraisal of the cost, the difficulty of serving God and neighbor was diminished and I made progress toward spiritual maturity. (James 1:2-5)
+
+The critical discovery was that when your value system changes, so does the cost of discipleship.
+When you realize that the things you once treasured and which were hard to give up have little value,
+then the sacrifice of valuables metamorphoses into a trade of trash for treasure. The journey to get to that point,
+however, is paved with sacrifices made before that transformation is complete. While you are making them,
+they are painful. Here is a sampling from my life. Lest I sound like I am bragging, I know people who 
+have sacrificed far more than I in order to follow the Lord. What I sacrificed is not remarkable; what
+the Lord did for me is. The blessings we receive in response far exceed what we offer. God is gracious.
+The list I give is to meant to show how to transform a whole life, you need a burnt offering. 
+In the ancient Jewish sacrificial system, the burnt offering consumes everything, unlike some of the
+offerings which left part to be shared with priest or family. That means that sacrifices must be made in
+every area of your life, otherwise that part of you will remain unchanged. I do not know if I have
+yet made sacrifices in every area of my life, but I am getting there.
+
+### Love
+
+
+### Identity
+
+
+### Emotional Stability
+
+
+### Money
+
+
+### Time
+
+
+### Power
+
+
+### Purpose
+
+
 
 
 <span id="5" />
