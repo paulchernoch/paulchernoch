@@ -798,6 +798,7 @@ She was everything to me. She showed me what love was and now I showed it to her
 That was the first sacrifice I ever offered to God.
 
 By offering that relationship to God, I was partially delivered from the idolatrous power of romantic love.
+Fighting idols is the epitome of spiritual warfare.
 Did God reward me by quickly finding me a wife? No, marriage would have to wait another nine years. 
 What God did do was teach me the kind of selfless love that a good and strong marriage requires. Love does not
 spring from romance, a healthy romance springs from love. God gave me hope to endure the years of struggle and
@@ -808,10 +809,127 @@ By sacrificing a chance for love before I was mature enough to handle it, the Lo
 Knowing that opens up the possibility of obeying the commandments and keeping the Golden Rule, 
 but from where does the power to consistently love come? How do we obtain those material and emotional resources
 so that we have them to offer others? Those questions cannot even be asked so long as you believe
-that deep down inside, there is nothing in you that anyone would ever want to love.
+that deep down inside, there is nothing in you that anyone would ever want to love. Finding a source
+of inner worth is the challenge of forming a Christian identity.
 
 ### Identity
 
+"Who are you?" When my Christian counselor asked me this question, it made me angry and afraid. 
+Why such a strange response? If the answer was that I was a hypocrite hiding deep sin, even criminal behavior, 
+my response would have been to feel shame or guilt and become evasive. If I suffered amnesia or dementia, 
+I would have felt sorrow over losing myself. It was none of those things. I didn't even know what an answer to that 
+question would be like. How do you define your identity?
+
+There are people who are comfortable with who they are. They see little need to change.
+Then there are people who are trying to reinvent themselves to get past a failure.
+Some people try to define their identity by their own efforts while others allow themselves
+to be reshaped by the pressures of the strong-willed people around them. None of these approaches
+is the correct one. We must cooperate with God in our metamorphosis. He knows what the best version
+of me is and how to get there. Only the Lord knows what it is to be a perfect human. Only Jesus
+can be our guide and surgeon.
+
+Which is more foundational, being or doing? When you meet people, what do they talk about first?
+
+  - If doing is more important to them, they talk about work and accomplishments.
+  - If being is more important to them, they talk about family and status.
+  - If they have no pride in either, they talk about the weather or who won last night's game.
+
+I was raised to pursue excellence and accomplish great things. My father patented the face-pumped laser,
+my mother programmed nuclear submarines, and my uncle designed the rendezvous radar for the first lunar 
+landing in 1969. In my family we defined our identity by our work and its results - and I had none.
+That left me with nothing to talk about. My life was barren.
+
+The pervasive feeling of barren purposelessness nearly got me expelled from college for poor academic
+performance. I came to faith four-and-a-half years into my studies at MIT. A few months later, the Lord
+directed me to read Habakkuk. In chapter three I found my mantra, the prophet's psalm of barrenness.
+
+#### Though the fig tree may not blossom,
+##### Nor fruit be on the vines;
+#### Though the labor of the olive may fail,
+##### And the fields yield no food;
+#### Though the flock may be cut off from the fold,
+##### And there be no herd in the stalls—
+#### Yet I will rejoice in the Lord,
+##### I will joy in the God of my salvation.
+
+#### The Lord God is my strength;
+##### He will make my feet like deer’s feet,
+###### And He will make me walk on my high hills.
+
+#### To the Chief Musician. With my stringed instruments.
+###### - Habakkuk 3:17-19, NKJV
+
+I programmed my computer to print Habakkuk 3:17-19 out every time I logged in.
+For eighteen months I meditated on those words every day. I learned to imitate the prophet
+and praise God from a barren heart. In August 1985, I prayed, "God, I still don't know if you exist,
+but if you don't, there is no hope for my life." I chose to place all my hope in Jesus.
+
+That was the first part of my next sacrifice, the sacrifice of praise. It is no small thing to
+praise God when you see no evidence of His benefits in your life. To sustain that praise daily for the better
+part of two years was an impossibility. Only by God's grace had I the faith to do that.
+I prayed for a blessing, and when I finally got my diploma in 1987 I received it, but which blessing 
+is of greater worth, the diploma or the faith that got me there? I had my blessing all along but I did not 
+know the value of the thing that I had.
+
+So is the cure for a barren heart to fill it with accomplishments? Consider the conundrum facing God.
+He promises fruitful harvests to those who love and obey Him. He must keep His promises. 
+However, He also opposes the proud. When a person builds their sense of self worth upon their 
+own accomplishments, the pride of doing becomes an idol. Our identity must not be built upon what we do. 
+Must God's blessing bring a curse?
+
+That prayer of hope in August and the beginning of my meditation upon Habakkuk in Autumn 1985 was the start
+of a harvest season. The end was the day I graduated from MIT in June 1987. In between came a miracle.
+Like many miracles, it started small. I was alone and knew I needed help, so I decided to search for a Bible
+study. A Christian named Chavonne had once shown me a small kindness, so I sought her advice.
+Independently, another group also invited me to a Bible study, but I didn't know them. My friend
+recommended the United Christian Fellowship, affiliated with Intervarsity (IVCF), so I joined theirs.
+Had I not, I would have joined a pseudo-Christian cult instead.
+
+At my first Bible study meeting (likely in October 1985) the leader, Paul Anderson, asked us all to memorize 
+a passage from Galatians:
+
+#### I have been crucified with Christ and I no longer live, 
+#### but Christ lives in me. The life I now live in the body, 
+#### I live by faith in the Son of God, who loved me and 
+#### gave himself for me. I do not set aside the grace of God, 
+#### for if righteousness could be gained through the law,
+#### Christ died for nothing!
+###### - Galatians 2:20-21
+
+The words made no sense to me, but I dutifully memorized them. I even wrote a song based on them,
+with words long forgotten. This is the power of God's Word. Even though you do not understand the words,
+they begin to change you. How do they change you? They make you into the kind of person who can understand them
+and follow them and be blessed by them.
+
+What are those words about? They are about identity. They are about your old identity dying and a new one
+taking its place, an identity built upon the crucified Christ. A few weeks after I memorized those words,
+a change overtook me. I would be walking down the street, thinking about my plans for this or that.
+All of a sudden, a thought would intrude that rejected that plan and suggested another, better plan.
+Back and forth I would wrestle with what course of action to take.
+This strange sensation recurred several times during that month. Eventually I stopped wrestling.
+
+It would be a long time before I learned what was going on. I had a new counselor inside of me, guiding me.
+With a new identity came a new spirit, the Holy Spirit. That was the whispering voice. A the end of the month
+I would hear a shout.
+
+A recurring [dream](./dreams.md) took over my sleep. The imagery and outcome might make it seem a nightmare, 
+but I call it one of the greatest blessings of my life. In the dreams, I was sitting in bed, running an 
+electric razor over my face. Suddenly, the razor shorted and electricity coursed through my body. 
+I was being electrocuted! In the instant of my death in the dream, what final thought passed through my head? 
+Was I sad about the people I would never see again? Disappointed over not having accomplished anything 
+with my life? Angry at God because I was leaving behind an unfinished life?
+
+No! My final thought before I woke from my dream was that I was going to be with Jesus. I was at complete peace.
+
+This struggle of trusting myself to other believers for added strength, of memorizing unintelligible words, 
+listening to the Spirit, and joyfully accepting death if it meant I would be with Jesus was a spiritual battle.
+That battle was against the idol of success and accomplishment. I had come to believe that even if I 
+did nothing more with my life, I was accepted. Jesus would take me just as I am.
+
+Graduating from college did not bring me peace. Accomplishments did not bring me acceptance.
+Acceptance by God and peace with God are what led me forth to victory. That is how God solved the paradox.
+We can reap a harvest and be humble, knowing that our accomplishments are a gift, not the coin
+we use to buy peace from God.
 
 
 ### Emotional Stability
