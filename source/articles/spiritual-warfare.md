@@ -631,7 +631,7 @@ Suffering IS a means whereby God communicates to us. That was one of the most im
 learned while doing research for *Job Rises*. God has used it to speak to me many times, but sometimes 
 it takes years for me to figure out what that message is. However, suffering fails in its mission if you 
 lack faith. The person who suffers yet retains their faith in God receives a blessing, just as Job did. 
-My experience with Janet Sullivan, as expressed in [Hannah's Song](./hannah-s-song.md), underscores this.
+My experience with Janet Sullivan, as expressed in [Hannah's Song](./hannah-s-song.html), underscores this.
 From Janet I learned that the benefit for suffering in faith does not always accrue to us.
 The blessing is received by the people around us who are moved by our example. When I witnessed Janet's 
 faith in the midst of a terminal illness, it changed me. The message carried by her suffering came from God 
@@ -909,10 +909,10 @@ Back and forth I would wrestle with what course of action to take.
 This strange sensation recurred several times during that month. Eventually I stopped wrestling.
 
 It would be a long time before I learned what was going on. I had a new counselor inside of me, guiding me.
-With a new identity came a new spirit, the Holy Spirit. That was the whispering voice. A the end of the month
+With a new identity came a new spirit, the Holy Spirit. That was the whispering voice. At the end of the month
 I would hear a shout.
 
-A recurring [dream](./dreams.md) took over my sleep. The imagery and outcome might make it seem a nightmare, 
+A recurring [dream](./dreams.html) took over my sleep. The imagery and outcome might make it seem a nightmare, 
 but I call it one of the greatest blessings of my life. In the dreams, I was sitting in bed, running an 
 electric razor over my face. Suddenly, the razor shorted and electricity coursed through my body. 
 I was being electrocuted! In the instant of my death in the dream, what final thought passed through my head? 
@@ -954,7 +954,88 @@ We do know that they will remake who we are and give us a new identity.
 
 ### Emotional Stability
 
+To love your neighbor, what do you need? You need wisdom to know how to help. You need emotional
+strength and stability, so that you can bear your own burdens AND theirs, for as Paul said,
+*"Carry each other’s burdens, and in this way you will fulfill the law of Christ."* (Galatians 6:2, NIV)
+Lastly, you often need material resources like money, medicine, or food. Collectively, those three 
+require that your mind, heart and hands be full. Part of the spiritual battle against your soul
+is to convince you that your mind, heart and hands are empty. The enemy blinds you to the riches
+you have in Christ.
 
+By late 1988, despite progress in my faith, I still suffered from depression, anxiety and general emotional 
+instability. Earlier I referred to Janet Sullivan with reference to the article [Hannah's Song](./hannah-s-song.html).
+Despite an appeal from the pulpit at church, I refused to visit Janet, who suffered from a 
+terminal illness and lived in in a nursing facility a block from my apartment. I was depressed and convinced that 
+visiting a sick person would make me more depressed. I lacked the emotional strength to help. I was empty.
+
+I am convinced that the Lord orchestrated the whole situation. Only when I learned that she lived a block from 
+my apartment along the forty-five minute route I walked to church did my heart soften. Of everyone
+in my church, I was literally her only neighbor. Now when I said that I was adverse to visiting the sick,
+it was not for a trifling cause. A few years before I helped throw an Easter party for children
+in the burn unit at the Shriner's Hospital for Children. Seeing all those deformed children was
+traumatic. It was more than I cold handle. That experience was what was keeping me from visiting the sick.
+
+To visit Janet, I had to sacrifice my emotional comfort. I had to risk being traumatized all over again.
+What did I find? Was it as bad as I feared? I found a woman in more physical pain than I had ever seen before. 
+Nor have I seen anyone in such pain since. After I left her room following my visit, I wept harder for Janet 
+than I had ever wept for another person. I feared a heartbreaking visit and I was not wrong to fear it.
+What I was wrong about was the after effect. When I visited the children at Shriner's, I was not a Christian.
+When I visited Janet, I was. The visit did not destroy me, it healed me. The Holy Spirit entered my 
+heart in a new way and after the tears stopped, joy flooded my soul. The joy remained for a week.
+During that time, part of the meaning of Philippians was opened to me. Because of that time, I was delivered
+from a decade of depression. In the rarest event of my life, my sacrifice was instantly accepted
+and I was instantly blessed. It was like the fire coming down on Mount Carmel to consume Elijah's sacrifice.
+
+Emotional safety is not something a Christian is called upon to sacrifice once. For me, Janet was just the
+beginning. A few weeks after I visited Janet, a man named Craig visited my church. He was a homeless
+Vietnam vet, a recovering alcoholic and drug user, and a habitual gambler with a temper.
+Fresh out of experiencing the miraculous power of God to heal, I invited Craig to live with me.
+For six months I befriended Craig. I prayed with him, brought him to church meetings, and got
+my friends to gather round him for support. The emotional toll on me was immense. A mature, healthy,
+well-rounded person with experience in social work would have been taxed to their limits by such a man.
+I had none of those things. At one prayer meeting, he began speaking in a different, frightening voice.
+Either he was possessed by a demon or was suffering multiple personality disorder. I was drowning.
+
+To get away, I visited my family in New York. Then I rode a Greyhound bus back to Boston.
+I knew I had to make a decision. To survive emotionally, I needed to tell Craig to leave.
+To help my friend whom Christ died for, I needed to let Craig stay.
+The spectre of the guilt I would feel if I turned him away was unbearable.
+Emotional turmoil threatened to rip me apart. The sacrifice of my comfort and emotional safety
+was far greater than what I had made when I visited Janet, and in the middle of this crisis with 
+Craig, Janet had died.
+
+What would God do? Did He have any regard for the pain I was in? Did he have any advice on what 
+decision I should make? Was my sacrifice in vain?
+
+God did not abandon me. In fact, the Lord did something while I was riding that bus back to Boston.
+The bus was crowded and noisy. Then it was like someone slowly turned down the volume knob on a stereo.
+My fellow riders were all still chattering, but now they sounded far away. Then I heard a voice:
+
+<div class="pullquote-centered">
+  <p>True love and not emotion.</p>
+</div>
+
+I knew what to do. I put aside my emotions and made a clear headed decision. I asked Craig to leave 
+my apartment, but I helped him find a new place, and continued to visit and befriend him. 
+I found a way to preserve my mental health by setting sane boundaries without giving up on a friend.
+
+That is the only time in my life that God has spoken to me audibly. He uttered five little words.
+They helped me get through that crisis but also have helped me navigate others. That day I
+began to learn that our emotions are good at telling us that a decision is urgently needed,
+but bad at telling us what decision to make.
+
+I know that what I heard was God's voice because the wisdom was far beyond me. He didn't
+tell me what to do, He taught me how to be. Those words went deep.
+
+An actual soldier, possibly demon-possessed. If anything in my life qualifies as "spiritual warfare",
+that would be it. Sacrificing my time, emotional health, and a spot in my apartment was not a trivial
+affair. If anything from my life can convince a person that offering sacrifices to God is still important
+and can yield an unexpected boon, my time with Craig would be it. I did not by my sacrifice earn an 
+audience with God. It was all grace. It was probably the Holy Spirit that gave me the compassion
+to help in the first place. That means that the inclination and ability to make the sacrifice itself 
+was a gift, too. What is certain is that if you find yourself making a great sacrifice for God,
+whatever the source of motivation, you can expect a response from God. The nature of the response
+may be a surprise, but it will be good, for the Father gives good fits to His children.
 
 ### Money
 
