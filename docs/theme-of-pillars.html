@@ -47,9 +47,9 @@
 
   </script>
   <script>
-    // Ctrl-F will scroll the document so that the user can see the search bar, which is in the footer.
+    // Ctrl-F, Cmd-F or Option-F will scroll the document so that the user can see the search bar, which is in the footer.
     document.addEventListener("keydown", function(event) {
-    if (event.ctrlKey && event.key === "f") {
+    if ((event.ctrlKey || event.altKey || event.metaKey) && event.key === "f") {
         const searchParagraph = document.getElementById("searchbar");
         if (searchParagraph) {
             searchParagraph.scrollIntoView({ behavior: "smooth" });
