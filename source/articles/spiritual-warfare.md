@@ -749,7 +749,7 @@ however, is paved with sacrifices made before that transformation is complete. W
 ones, they are painful. Here is a sampling from my life. Lest I sound like I am bragging, I know people who 
 have sacrificed far more than I in order to follow the Lord. What I sacrificed is not remarkable; what
 the Lord did for me is. The blessings we receive in response far exceed what we offer. God is gracious.
-The list I give is to meant to show that to transform a whole life, you need a burnt offering. 
+The list I give is meant to show that to transform a whole life, you need a burnt offering. 
 In the ancient Jewish sacrificial system, the burnt offering consumes everything, unlike some of the
 offerings which left part of the food to be shared with priest or family. That means that sacrifices 
 must be made in every area of your life, otherwise that part of you will remain unchanged. 
@@ -1039,7 +1039,118 @@ may be a surprise, but it will be good, for the Father gives good gifts to His c
 
 ### Money
 
+When I was a teen, I was also a thief. I stole a comic book from one friend and a few sci-fi books from another. 
+I even shoplifted comics from a newsstand, then got caught by my father. He marched me up to the clerk and said,
+"Should we call the police?" I am grateful to my father for teaching me that lesson. After that day,
+I never stole again. However, that was not the worst part. All that time I believed I was not materialistic.
+I didn't want nice clothes or a fancy car or a new motorcycle. All I wanted to do was read, which is intellectual, 
+not materialistic, right? How much emotional energy does it take to power the self-deception of a thief that 
+believes he is not a selfish, shallow materialist? Then after I was reformed, how low did I have to set my sights
+to believe that not stealing is worthy of merit? The opposite of stealing isn't not stealing, it is giving.
+Proverbs 30:15a says, *"The leech has two daughters: Give and Give."* Even after I stopped being a thief, 
+I remained a leech. Becoming a Christian changed that, but progress was slow.
 
+A few years after college, I had a good job and had saved a little money. I got an invitation to view
+a time share resort in New Hampshire with the lure of a free weekend and no obligation. I had
+zero interest in buying real estate, so I went up there with a friend to enjoy a free vacation. 
+The salesperson was good. He didn't try to sell me real estate, he tried to sell me a lifestyle of 
+luxurious travel. I fell for it and signed a contract. That night or the next I had a nightmare.
+I was trapped inside an electrified cage. Inside the cage was a fire breathing demon from hell.
+(It looked like a dragon from a video game I played too much of.) This was the biggest case of 
+buyer's remorse in history. Thanks to a state law that gives buyers a three-day right of rescission,
+I canceled the contract.
+
+God sent me that dream as a warning, to save me from becoming financially ensnared in the 
+ways of the world. As Jesus said, *"the cares of the world and the deceitfulness of riches and the* 
+*desires for other things enter in and choke the word, and it proves unfruitful."* (Mark 4:19)
+My pride at being a faithful Christian free from greed with no desire to become wealthy had blinded me to
+just how deceitful riches can be. What did I do next?
+
+Due to a merger and layoff, I was now at a new company. I received a payout from my retirement account
+with the previous firm. With my recent folly still fresh, I prayed to the Lord and asked what I should 
+do with the money. I named the exact and full amount of the check I had received in my prayer: $8,000.
+Then I waited. A few days later I attended a prayer meeting. A person at the meeting said that a place
+where they volunteered, Daybreak Crisis Pregnancy Center, had an urgent need. She said that they 
+needed $8,000.
+
+I had my answer to prayer. That is when the spiritual battle began. Remember the rich young ruler?
+
+#### And as he was setting out on his journey, 
+#### a man ran up and knelt before him and asked him,
+##### “Good Teacher, what must I do to inherit eternal life?”
+#### And Jesus said to him,
+##### “Why do you call me good? No one is good except God alone.
+##### You know the commandments: ‘Do not murder, 
+##### Do not commit adultery, Do not steal, Do not bear false witness,
+##### Do not defraud, Honor your father and mother.’”
+#### And he said to him,
+##### “Teacher, all these I have kept from my youth.”
+#### And Jesus, looking at him, loved him, and said to him,
+##### “You lack one thing: go, sell all that you have
+##### and give to the poor, and you will have treasure in heaven; 
+##### and come, follow me.” 
+#### Disheartened by the saying, he went away sorrowful, 
+#### for he had great possessions.
+###### - Mark 10:17-22
+
+The Lord had answered my prayer. He had told me what I lacked. 
+He was not asking me to sell all that I owned, just hand over one check
+to a worthy charity. That amount was a little over half of what I owned.
+Months before I was ready to foolishly spend a similar amount on a timeshare.
+I was not blind. The selfish disposition of my heart was laid bare.
+You know that I was trying to find a way out of it, but I knew the scriptures.
+As Solomon said:
+
+#### Be not rash with your mouth, 
+#### nor let your heart be hasty to utter 
+#### a word before God, for God is in heaven 
+#### and you are on earth. 
+#### Therefore let your words be few.
+###### - Ecclesiastes 5:2
+
+I went to my pastor, told him what was going on, and asked him to pray for help in making the right decision.
+Then I gave the money to the pregnancy center anonymously, because I also felt convicted that my pride
+would try to salvage some personal benefit out of it.
+
+In the Bible, people who made sacrifices often went to God with an urgent request. 
+It might be to have a child, as with Hannah, or to gain wisdom, as with Solomon.
+Some preachers of the health and wealth gospel tell you that if you give to God
+it is like sowing seed; you will reap an even greater material reward. 
+I at least had the sense not to pray for money. Given the battle inside my heart,
+I knew exactly what to pray for. I asked, "Lord, please give me a generous heart."
+
+In the thirty plus years since that prayer, did God shower me with money so that I could
+be generous to others? No. I have twice been to the brink of bankruptcy. My family
+has had our utilities shut off, been without phone service, had to get assistance 
+from our church just to buy groceries, delayed home repairs and medical procedures,
+pulled our kids from private school, and more. The last few years have been prosperous,
+not so most of the years before that. Through it all, the Lord has made me generous.
+When we had no money, we volunteered our time at the church. When we had a little, we 
+gave what we could and more.
+
+Giving does not make you generous. Generosity makes you give. Trying to give showed
+me who I was and who I wanted to become. That sacrifice was not proof that I was a good
+person, it was a prayer to become one.
+
+#### Whoever is generous to the poor lends to the Lord, 
+##### and he will repay him for his deed.
+###### - Proverbs 19:17
+
+Here is the thing about God. He gives us more than we ask for or can imagine.
+More than thirty years after I made that gift, God gave me something unexpected in return.
+My gift of money was intended to help free women whom I would never meet from an oppressive burden, 
+enduring a pregnancy without financial or family support. In December 2020, I prayed to God asking, 
+"Lord, what is your plan for liberating women from oppression?"
+Over the next week, the Lord answered my prayer by opening up my eyes to mysteries hidden in His Word.
+Then during the years since, he has shown me more. Much of what I learned is in 
+*Peace, like Solomon Never Knew* and *Plague, Precept, Prophet, Peace*. It includes
+the [The Motherhood Pattern](./the-motherhood-pattern.html) and my ideas
+on women serving in church leadership, summarized in [Against Complementarianism](./against-complementarianism.html).
+
+The lesson here is that we can never be sure what the long range effects of the things we do will be.
+What the Lord freely gave me in return far surpassed my expectations.
+He changed me. He gave me a concern for helping women that I never had before.
+God changed my money which will perish into generosity, a treasure which will never spoil or fade.
 
 ### Time
 
@@ -1064,7 +1175,7 @@ Then what did Isaiah mean by this?
 #### Come, buy wine and milk without money and without cost.
 ###### - Isaiah 55:1
 
-When I gave money to charity, what was my prayer? "Lord, make me a generous man."
+When I gave money to charity, what was my prayer? "Lord, please give me a generous heart."
 When we give from the heart and not begrudgingly, that is generosity. That is how money and possessions,
 which are material, are transformed into something that is spiritual. Like the philosopher's stone,
 the Holy Spirit takes our material sacrifices and transmutes them into spiritual gold.
@@ -1113,11 +1224,11 @@ I catalogued twelve. Today I will add a thirteenth. I doubt that I have found th
     - peace
     - joy
 
-My late addition is peace; it is more thn rest. I just wrote two books about peace. It grows on you.
+My late addition is peace; it is more than rest. I just wrote two books about peace. It grows on you.
 
 To make this list took twenty years of searching. That means that I spent a few months searching, gave up for 
 a decade, then spent another decade looking intently. I am not an idiot. Making lists of words that sound good
-is easy. Finding the things that matter most to God is:
+is easy. Finding the things that matter most to God is not:
 
 #### He said to them,
 ##### “You are the ones who justify yourselves in the eyes of others, 
