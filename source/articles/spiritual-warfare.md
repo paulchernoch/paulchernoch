@@ -973,7 +973,7 @@ my apartment along the forty-five minute route I walked to church did my heart s
 in my church, I was literally her only neighbor. Now when I said that I was adverse to visiting the sick,
 it was not for a trifling cause. A few years before I helped throw an Easter party for children
 in the burn unit at the Shriner's Hospital for Children. Seeing all those deformed children was
-traumatic. It was more than I cold handle. That experience was what was keeping me from visiting the sick.
+traumatic. It was more than I cold handle. Effects of that experience were keeping me from visiting the sick.
 
 To visit Janet, I had to sacrifice my emotional comfort. I had to risk being traumatized all over again.
 What did I find? Was it as bad as I feared? I found a woman in more physical pain than I had ever seen before. 
@@ -998,7 +998,7 @@ Either he was possessed by a demon or was suffering multiple personality disorde
 
 To get away, I visited my family in New York. Then I rode a Greyhound bus back to Boston.
 I knew I had to make a decision. To survive emotionally, I needed to tell Craig to leave.
-To help my friend whom Christ died for, I needed to let Craig stay.
+To help my friend for whom Christ died, I needed to let Craig stay.
 The spectre of the guilt I would feel if I turned him away was unbearable.
 Emotional turmoil threatened to rip me apart. The sacrifice of my comfort and emotional safety
 was far greater than what I had made when I visited Janet, and in the middle of this crisis with 
@@ -1016,7 +1016,7 @@ My fellow riders were all still chattering, but now they sounded far away. Then 
 </div>
 
 I knew what to do. I put aside my emotions and made a clear headed decision. I asked Craig to leave 
-my apartment, but I helped him find a new place, and continued to visit and befriend him. 
+my apartment, but I helped him find a new place and continued to visit and befriend him. 
 I found a way to preserve my mental health by setting sane boundaries without giving up on a friend.
 
 That is the only time in my life that God has spoken to me audibly. He uttered five little words.
@@ -1032,12 +1032,13 @@ that would be it. Sacrificing my time, emotional health, and a spot in my apartm
 affair. If anything from my life can convince a person that offering sacrifices to God is still important
 and can yield an unexpected boon, my time with Craig would be it. I did not by my sacrifice earn an 
 audience with God. It was all grace. It was probably the Holy Spirit that gave me the compassion
-to help in the first place. That means that the inclination and ability to make the sacrifice itself 
-was a gift, too. What is certain is that if you find yourself making a great sacrifice for God,
+to help in the first place. That means that the inclination and ability to make the sacrifice 
+was itself a gift. What is certain is that if you find yourself making a great sacrifice for God,
 whatever the source of motivation, you can expect a response from God. The nature of the response
-may be a surprise, but it will be good, for the Father gives good fits to His children.
+may be a surprise, but it will be good, for the Father gives good gifts to His children. (Matthew 7:11)
 
 ### Money
+
 
 
 ### Time
@@ -1049,7 +1050,173 @@ may be a surprise, but it will be good, for the Father gives good fits to His ch
 ### Purpose
 
 
+### The Heavenly Treasures
 
+<img src="./images/treasures.png">
+
+Remember the old Led Zeppelin song? The words "She is buying a stairway to heaven" are as antithetical
+to the Protestant doctrine of salvation by faith alone through grace alone as you can get.
+You can't buy your way into heaven, but you can buy spiritual treasures. You don't believe me?
+Then what did Isaiah mean by this?
+
+#### Come, all you who are thirsty, come to the waters; 
+#### and you who have no money, come, buy and eat! 
+#### Come, buy wine and milk without money and without cost.
+###### - Isaiah 55:1
+
+When I gave money to charity, what was my prayer? "Lord, make me a generous man."
+When we give from the heart and not begrudgingly, that is generosity. That is how money and possessions,
+which are material, are transformed into something that is spiritual. Like the philosopher's stone,
+the Holy Spirit takes our material sacrifices and transmutes them into spiritual gold.
+
+Following my first visit to Ruggles Baptist Church in March 1986, I was filled with joy for a month.
+The joy was not as intense as when I visited Janet Sullivan and it diminished but did not end 
+my depression, but it sprang from a related cause: being grafted into the vine of the church.
+When I visited Janet, it was because my pastor asked for people to visit her. When I went to comfort 
+a dying woman, I did not go alone. I went as part of the church. That is the message of Philippians.
+After speaking about how Christ emptied himself to serve others, Paul speaks of himself:
+
+#### Do all things without grumbling or disputing, that you may be 
+#### blameless and innocent, children of God without blemish 
+#### in the midst of a crooked and twisted generation, among whom 
+#### you shine as lights in the world, holding fast to the 
+#### word of life, so that in the day of Christ I may be proud 
+#### that I did not run in vain or labor in vain. Even if I am
+#### to be poured out as a drink offering upon the sacrificial 
+#### offering of your faith, **I am glad and rejoice with you all**.
+#### Likewise you also should be glad and **rejoice with me**.
+###### - Philippians 2:14-18
+
+Paul shows us the path to joy. That path leads through suffering voluntarily accepted and intent
+on showing sacrificial love to people in need. It is both individual and corporate. 
+The Holy Spirit then transmutes selfless suffering into joy, an impossible miracle that I could 
+neither comprehend nor believe until after the Lord led me through it.
+
+Let us step back from stories to look at the Heavenly Treasures as a whole. In *The Endless Hunt* 
+I catalogued twelve. Today I will add a thirteenth. I doubt that I have found them all, but most of the ones I found fit into four categories (one of them forced). These categories are for being, establishing, nourishing and flourishing.
+
+  - The treasures that define the beginning and end of our **being** are:
+    - life, for we are made in the image of God
+    - the Fear of the Lord, which is the beginning of all good things
+    - the Glory of God, for to reflect it is the sole end of man
+  - The treasures that **establish** us are relationships. To thrive we must be planted into a matrix of relationships so we can be fruitful together. They include:
+    - family
+    - work & rest
+    - authority & purpose (like the church or the secular government)
+  - The treasures that **nourish** us make us grow strong character and guide us through life. These treasures include:
+    - love
+    - courage & protection
+    - wisdom, justice & truth
+  - The treasures that make us **flourish** are:
+    - happiness & generosity
+    - freedom
+    - peace
+    - joy
+
+My late addition is peace; it is more thn rest. I just wrote two books about peace. It grows on you.
+
+To make this list took twenty years of searching. That means that I spent a few months searching, gave up for 
+a decade, then spent another decade looking intently. I am not an idiot. Making lists of words that sound good
+is easy. Finding the things that matter most to God is:
+
+#### He said to them,
+##### “You are the ones who justify yourselves in the eyes of others, 
+##### but God knows your hearts. What people value highly 
+##### is **detestable** in God’s sight."
+###### - Luke 16:15, NIV
+
+Last I checked, I am people. I must assume that if I value anything highly, it is suspect.
+Words only made my list of treasures if I could find a place in the Bible where Jesus or a prophet or
+apostle attributed ultimate value to the thing. After that, I had to understand what was detestable
+and destined to pass away about that thing as humanly understood and what was the eternal and godly
+way to understand it. That is why happiness is paired with generosity. Selfish happiness is the
+happiness of having everything that you want and being satisfied. Godly happiness is the happiness
+of giving to others and delighting in the happiness that produces. Godly happiness shares.
+
+The guiding light for me as I searched came from Paul's words about love:
+
+<div class="pullquote-centered">
+  <p>Love always protects.</p>
+</div>
+
+The chain of thought that led me to my conclusion astonishes me because I am not clever enough
+to have come up with it. I began by trying to understand law.
+
+ - Laws are created to uphold a moral code.
+ - The moral code was created to protect things.
+ - The things they protect are the things of ultimate value.
+
+If you look at my list of treasures, what do you see?
+
+  - First & Second Commandments: One God and no idols (authority, purpose, wisdom, truth, glory)
+  - Third Commandment: No vain oaths (truth)
+  - Fourth Commandment: Work six days (work) but not on the seventh day (rest, freedom).
+  - Fifth Commandment: Honor father and mother (family)
+  - Sixth Commandment: No murder (life, courage, protection)
+  - Seventh Commandment: No adultery (family)
+  - Eighth Commandment: No stealing (happiness, generosity, joy)
+  - Ninth Commandment: No lying (fear, wisdom, truth, justice)
+  - Tenth Commandment: No coveting (happiness, peace)
+  - All Ten Commandments: justice and love for God and neighbor
+
+One way or another, the Ten Commandments were given to protect these heavenly treasures.
+What is the role of these treasures in spiritual warfare? Our adversaries seek to trick us
+into believing that what is valuable is not and substitute trash for treasure at the center
+of our heart's affections. The proper place of these treasures is as objects of worship.
+True worship is the valuing of the things valued by God.
+The life we worship is not our own, it is the life of Christ that was sacrificed for us.
+The peace we cherish is peace with God. The rest we relish is the sabbath rest of God.
+The government whose authority we promote is the kingdom of God.
+
+The seven representative sacrifices gathered in this article correlate strongly with these
+heavenly treasures.
+
+  - love matches love
+  - identity matches life
+  - emotional stability matches family, happiness, freedom, joy and peace
+  - money matches happiness and generosity
+  - time matches work and rest
+  - power matches the authority of government, work and family
+  - purpose matches work and the glory of God
+
+God has given us His law to protect these heavenly treasures. We must learn with our mind what they are and are not
+by meditating on the Word. We must cherish in our heart and worship the one who provides these treasures
+and in whom are hidden all these treasures, the Lord Jesus Christ. When the battle for our mind and heart is won, 
+we must carry it forward with our hands. By sacrifice we declare with our hands and habits what we value.
+Sacrifice is how we draw our sword and plunge it into the heart of the enemy.
+
+Psalm 27 is a song about spiritual battle. According to my analysis in the chapter "Psalms of Growth: Psalms 1–28"
+from *Plague, Precept, Prophet, Peace*, this 27th Psalm matches the 27th time in Solomon's list: a time for war.
+In this war, David knows what His God is:
+
+#### The Lord is my **light** and my **salvation**;
+##### whom shall I fear?
+#### The Lord is the **stronghold** of my life;
+##### of whom shall I be afraid?
+###### - Psalm 27:1
+
+His God is light, salvation and a stronghold. Imagine you are cut off from your army, running in the dark,
+pursued by enemies. Suddenly, you see a **light**, the beacons lighting the fortress walls.
+Now you know which way to run. As you near safety, the enemy overtakes you. A flight of arrows and a cavalry
+charge bring **salvation**! They give you cover and you sprint for the now open gates. Just in time you cross 
+the threshold and the city gate slams shut. You have entered the **stronghold** and are safe.
+
+The light is the wisdom of God that lights our path. The salvation is the inner confidence that 
+conquers our fears. And the stronghold? It is the the open arms of God, our refuge, the tangible,
+material aid that helps us when we are in need. So when David reaches that stronghold, the tent of God,
+what does he do?
+
+#### And now my head shall be lifted up
+##### above my enemies all around me,
+#### and I will offer in his tent
+##### sacrifices with shouts of joy;
+#### I will sing and make melody to the Lord.
+##### - Psalm 27:6
+
+David offers sacrifices with shouts of joy. There was a time when I knew nothing of the joy
+of sacrifice. To sacrifice is to give something up. The logical response to loss is mourning, not rejoicing.
+Only eyes of faith see the light, the glitter of gold in Heaven's coffers, the treasures that never 
+rust, spoil or fade.
 
 <span id="5" />
 
