@@ -46,6 +46,17 @@
    }
 
   </script>
+  <script>
+    // Ctrl-F will scroll the document so that the user can see the search bar, which is in the footer.
+    document.addEventListener("keydown", function(event) {
+    if (event.ctrlKey && event.key === "f") {
+        const searchParagraph = document.getElementById("searchbar");
+        if (searchParagraph) {
+            searchParagraph.scrollIntoView({ behavior: "smooth" });
+        }
+    }
+});
+  </script>
 </head>
 <html>
 
@@ -954,7 +965,7 @@ miraculous pain relief in answer to my prayer, she became Lady Wisdom to me.</p>
     </div>
     <!-- Page Footer -->
     <div class="footer faint">
-      <p>
+      <p id="searchbar">
 <div id="search"></div>
 <script>
     window.addEventListener('DOMContentLoaded', (event) => {
