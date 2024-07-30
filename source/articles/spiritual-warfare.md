@@ -1154,12 +1154,67 @@ God changed my money which will perish into generosity, a treasure which will ne
 
 ### Time
 
+One of the rare statements that is found in all four gospels (with only small differences in wording)
+is this:
+
+#### For whoever would save his life will lose it, 
+#### but whoever loses his life for my sake will find it.
+###### - Matthew 16:25
+
+Life is many things, but it is measured by time. The one who loses his life is the one who devotes
+time in service to the Lord. They may even make choices that cut their life short.
+The sacrifice of time is tied up in all the other sacrifices.
+Rather than dig for a powerful, insightful example from my life, I will offer a prosaic one.
+Only one of the Ten Commandments makes reference to time: the fourth commandment to honor the sabbath.
+The other sacrifices may be offered in an instant, or span a few days, months or years.
+Observing the sabbath is a life long sacrifice. One day in seven, week after week, year after year, 
+devoted to attending church, prayer or simply time with family. The Lord calls upon us to regard his sabbath
+with delight. This is the backbone sacrifice. Its regularity forms the structure of a life obedient to God.
+
+What heavenly treasure does God shape from the time we offer him? Eternity, the sabbath rest of God.
 
 ### Power
 
+Depending upon our talents and ambitions, power takes many forms. For me, I believed that my dreams
+held messages from God that I was to use to advise other people. I have had dreams from God.
+They are mostly warnings. Some are words of comfort. They are usually only for me and my family.
+When I was younger, I thought otherwise. I craved the power to influence other people - 
+for their own good, of course. The trouble this caused I describe in [Dreams](./dreams.html).
+I had to repent of this lust for power and misuse of the gifts God had given me.
+I had to sacrifice something that I considered part of my identity, something that made me feel powerful
+and important.
+
+When you sacrifice power, you receive meekness. Most people have no use for meekness.
+Many have it unwillingly but would like to be rid of it. Jesus said that the meek will inherit the
+earth. I believe it now.
 
 ### Purpose
 
+How do you find a noble purpose for which you are suited and gifted by God?
+Ecclesiastes has a lot to say about what is futile and vain, a chasing after the wind.
+So do the people around me. When do you listen to people who tell you what you can and can't do?
+When do you ignore them?
+
+  - My first semester physics professor at MIT told me I would never make a good physicist.
+  - The mission agency and my pastor told me I was not cut out for missionary service.
+  - Then while enrolled in seminary, I came to the tearful realization that I was not called to be a pastor.
+  - Concerning writing, many people - including a best friend and a pastor - told me I would never succeed at writing.
+
+Sometimes we have to sacrifice one dream and trust in God to give us another.
+
+Sometimes we have to pursue a dream with no guarantee and follow it far with little to show for it.
+
+I have done both. On this subject, I do not know how it will turn out. The real sacrifice is not
+the dream, it is the anger. I have to forgive the people who do not believe in me.
+They may be right. I have to sacrifice the "I'll show them!" The Lord is the only audience that matters.
+
+Moses thought that his purpose was to lead the Hebrew people into the Promised Land.
+He messed up and that purpose was handed to Joshua. David wanted to build the temple,
+but he messed up. That purpose was handed to Solomon. Those men did not give up.
+They were faithful to complete what they were permitted to do. Sacrificing our expectations
+of the things we thought we would get to do is one of the most painful sacrifices a person can make.
+What will the outcome be when we do this? What will the Lord make of it? I am still
+trying to figure that one out.
 
 ### The Heavenly Treasures
 
