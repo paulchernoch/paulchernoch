@@ -1192,8 +1192,23 @@ earth. I believe it now.
 
 How do you find a noble purpose for which you are suited and gifted by God?
 Ecclesiastes has a lot to say about what is futile and vain, a chasing after the wind.
-So do the people around me. When do you listen to people who tell you what you can and can't do?
-When do you ignore them?
+*Peace, like Solomon Never Knew* devotes eight chapters to the things that Solomon calls futile:
+
+  - Workaholism
+  - Intellectualism
+  - Altruism (Noble causes)
+  - Religious formalism
+  - Vainglory-ism (Fame)
+  - Absolutism (power)
+  - Revolutionary extremism
+  - Materialism (wealth)
+  - Hedonism
+  - Adventurism (mad thrill-seeking)
+  - Nihilism
+  - Self-determinism
+
+People around me have often told me what I was trying is futile. When do you listen to people 
+who tell you what you can and can't do? When do you ignore them?
 
   - My first semester physics professor at MIT told me I would never make a good physicist.
   - The mission agency and my pastor told me I was not cut out for missionary service.
@@ -1206,7 +1221,9 @@ Sometimes we have to pursue a dream with no guarantee and follow it far with lit
 
 I have done both. On this subject, I do not know how it will turn out. The real sacrifice is not
 the dream, it is the anger. I have to forgive the people who do not believe in me.
-They may be right. I have to sacrifice the "I'll show them!" The Lord is the only audience that matters.
+They may be right. I may have a strong will to succeed and I may run a Hollywood strive-and-succeed montage 
+through my mind on a continuous loop, but that does not mean God will smile upon my plans.
+I have to sacrifice the "I'll show them!" speech. The Lord is the only audience that matters.
 
 Moses thought that his purpose was to lead the Hebrew people into the Promised Land.
 He messed up and that purpose was handed to Joshua. David wanted to build the temple,
@@ -1215,6 +1232,25 @@ They were faithful to complete what they were permitted to do. Sacrificing our e
 of the things we thought we would get to do is one of the most painful sacrifices a person can make.
 What will the outcome be when we do this? What will the Lord make of it? I am still
 trying to figure that one out.
+
+What I have figured out is that God takes the futile, temporary, small and insignificant things we do and shapes
+them into eternal wonders. We must live our lives doing things we are convinced are pointless with the faith
+that they are not. A few months before I became a Christian, a classmate named Chavonne, hearing that 
+I would soon graduate, said, "I'll miss you." She said it with kindness and sincerity.
+About ten months later, when I was a new Christian and needed a recommendation for a good Bible study, 
+to whom did I turn? I went to Chavonne. I went because of that one kind thing she said to me.
+When I mentioned this to her years later, she had completely forgotten that conversation.
+It was a meaningless, friendly gesture, the kind we toss off all the time. No big deal.
+Except I was the kind of person who seldom heard such words of kindness and it meant something to me.
+Because of that, I trusted her recommendation. Because of that, I did not end up in the damaging cult
+that invited me to their Bible study at the same time. Because of that, after one month in 
+my new Bible study I was delivered from the fear of death. Because of that, I followed my new Bible Study
+leader, Paul Anderson, to visit churches and we ended up at Ruggles Baptist Church, where I still worship 
+thirty-eight years later. At that church I was baptized, married, and had my children baptized.
+
+"I'll miss you." Three little words changed my whole life. God takes the purposeless things that we
+do and changes them into something beautiful. Believe that and live each day hoping that something you do
+that day will have eternal significance.
 
 ### The Heavenly Treasures
 
@@ -1418,6 +1454,19 @@ Each type of person must be faced in a different way.
 <span id="6" />
 
 ## The Five Battlefields
+
+In His kindness, God shared with us His battle plan for opposing Satan and his allies.
+If we are wise, we will study it and pray how to recognize and repel the attacks of the enemy.
+That battle plan is found in [Proverbs 30](./riddles-of-war.html).
+To summarize the linked article, the main battlefields on which the spiritual war is fought are:
+
+  - the individual (Proverbs 30:5-6)
+  - the workplace (Proverbs 30:10)
+  - the family (Proverbs 30:17)
+  - the church (Proverbs 30:20)
+  - the state (Proverbs 30:32-33)
+
+Reflect on this list and pray that the Father's will be done in all of them.
 
 <span id="7" />
 
