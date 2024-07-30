@@ -1388,6 +1388,33 @@ rust, spoil or fade.
 
 ## The Five Voices to ignore
 
+In Proverbs 26 and 27, we learn of five voices that we are to ignore. These voices may
+be of Satan, of the people around us, or arise from our own heart. Four of these voices
+are addressed in the section on Proverbs 26 in the article [Proverbs 20 to 29](./proverbs-20-to-29.html), 
+namely the fools, the sluggards, the quarrelsome, and the malicious. The flatterers are covered in the 
+section on Proverbs 27.
+
+According to the [Growth Pattern](./growth-pattern.html), Proverbs 4-31 match the twenty-eight times
+of Solomon in sequence. That means that Proverbs 26 matches "a time to be silent" and Proverbs 27, "a time to speak".
+When we are silent, we are supposed to listen to what other people are saying. The irony of Proverbs 26 is that
+it uses negative philosophy. It gives examples of the four types of people you should not listen to!
+You should not listen to them or else you will become like them.
+
+In Proverbs 27, we are warned about flatterers. They stand apart from the other four. The first four
+are easier to spot. Their words often hurt or discourage us. Flatterers, on the other hand, win our favor
+because their words make you think they are on your side. They offer false encouragement and try 
+to seduce us into being loyal to them.
+
+All five act in the verbal dimension of spiritual warfare but also attack the heart.
+Fools offer counsel that leads you toward failure. Sluggards rob you of energy and motivation.
+The quarrelsome exhaust you and drag you into conflict which can become dangerous. The malicious
+form coalitions against you and rob you of your influence. All of this is spiritual warfare.
+All these voices interfere with hearing the counsel of the Holy Spirit. Our link to God is through
+clear lines of communication and these five get in the way.
+
+Whenever someone speaks into your life, try to determine if they fall into one of these categories.
+Each type of person must be faced in a different way.
+
 <span id="6" />
 
 ## The Five Battlefields
