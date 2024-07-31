@@ -1472,6 +1472,120 @@ Reflect on this list and pray that the Father's will be done in all of them.
 
 ## The Sevenfold Path to a Spiritual Harvest
 
+In the version of the explanation for the Parable of the Sower in Mark 4:13-20, Jesus names six causes 
+for a person to not grow spiritually:
+
+  - Satan 
+  - tribulation (literally constriction)
+  - persecution on account of the word (literally chasing)
+  - cares of the world
+  - the deceitfulness of riches
+  - the desires for other things
+
+The first is symbolized by the bird, the second and third by the sun beating on rocky soil, and the last three
+by thorns. The progression of the number of causes from one to two to three might not be significant,
+as the version in Matthew gives the count as one-two-two and in Luke 8, one-one-three, with the three being
+"cares and riches and pleasures of life". If the increasing count is meaningful, then it may symbolize
+a commander sending out more troops with each attack. Certainly it speaks of a deepening conflict.
+Satan is a lofty spiritual being, remote. Hardship and persecution are material but external to us.
+Finally, the cares and riches and pleasures are related to material things but experienced within a person.
+If a person/s faith survives to produce a harvest, it comes from the deepest part of the spirit.
+
+In the article on the [Harvest Pattern](./harvest-pattern.html), the focus is not on the spiritual war
+that causes failure but on the sphere of your person where growth is needed if you are to succeed:
+
+  - The gospel seed must survive to enter and transform your mind
+  - The water of life must protect the young plant from the sun and transform your heart
+  - The pruning of discipline must produce new habits of action in your hands  
+
+Also, in the Growth Pattern the focus is on your allies, not your enemies:
+
+  - The ally to combat Satan is Jesus, the seed
+  - The ally to combat the world's persecution is the Holy Spirit, the Comforter
+  - The ally to combat life's thorny distractions is the Father who disciplines us
+
+Every spiritual battle that you win produces a harvest. When you are in the midst of the battle,
+set your eyes upon the harvest so that you do not lose heart. Think about the spoils of victory.
+
+The parable does not talk about three important steps of the Harvest Pattern. They show up in the
+temptation stories (of Eve, Job and Jesus). The parable forces us to ask:
+
+  - What kind of soil is my heart?
+  - Can I improve the condition of that soil? 
+
+You see, Jesus tells us what happens to the different types of soil but in the parable he doesn't 
+tell us how that soil was made. For the first two critical steps, the best guide is Job.
+The full pattern is:
+
+  1. Preparation
+  2. Plowing
+  3. Planting
+  4. Pouring
+  5. Plucking
+  6. Producing
+  7. Peace
+
+**The preparation phase** is learning the Law and basic morality and submitting to God as your Lord. It involves
+offering sacrifices to God. The prologue in Job 1 describes a man who lived that way.
+It says that Job feared God and regularly offered sacrifices to God on behalf of his children.
+This preparation is possible in people who are not saved. They do not have a personal, saving
+relationship with God and may be trying to please God in their own strength. 
+
+A person may be saved with little obvious preparation or religious background; God is gracious. 
+However, in harvest seasons after a person is saved, preparation is essential. 
+Meditating on the Psalms is a good way to prepare for a new season of growth.
+Depending upon God's goal for a given season of growth, other Bible books will be useful,
+especially Paul's first seven letters, as explained in [Paul's Discipleship Program](./pauls-discipleship-program.md)
+
+**The Plowing Phase** is suffering. For some seasons the suffering is involuntary, like Job's trials.
+For other seasons, it is voluntary, like Moses and Jesus fasting for forty days. God speaks to us through 
+our suffering, if we are willing to listen. Plowing does three things:
+
+  - It softens the soil, so that it is not like the beaten path that will not receive the seed.
+  - It exposes the rocks, enabling them to be removed from the field.
+  - It turns the soil so that weeds dry out and die, making the field proof against thorns.
+
+Suffering in faith is the most important preparation for a harvest. The faith won't be there without
+the earlier preparation phase. No faith and the sufferer will surrender to despair and bitterness.
+Plowing in Israel occurs following a light rain. The light rain softens the soil so the plowing
+is easier. That rain symbolizes God's grace, which permits a measure of relief in the midst of that suffering.
+
+Note that there are three places in the Harvest Pattern where the greatest suffering occurs:
+
+  - During the Plowing Phase, by the hand of God, for our good
+  - During the Pouring Phase, by the hand of Satan (as ruler of the world), for our harm
+  - During the Producing Phase, by the hand of Satan, to sift the wheat and separate it from the chaff
+
+This third bout of suffering was revealed by Jesus to Peter, who said that Satan had asked to sift him like wheat.
+It may be that such sifting is only for leaders; I am uncertain.
+
+The other two are the cause of much distress. We can accept that Satan inflicts suffering to harm us and 
+make us fail, but not God to ready us for planting. In Job, the plowing phase is found in the two dialogues 
+with Satan in chapters 1 and 2. A cursory reading would make you believe that the governing motive in 
+chapters 1 and 2 is Satan's wrath while the agent in Elihu's speech (chapters 32-37) is God, since Elihu 
+offers comfort to Job and Satan is nowhere to be seen. That is the paradox. Satan intends Job harm
+and that is his motive for attacking Job and his family. At the same time, God has put a hedge around Job
+so that Satan is prevented from going too far. The end result is that the trials inflicted upon Job 
+in those first two chapters are God's loving, preparatory communication to Job. They precisely
+serve God's purposes and advance Job's spiritual development.
+
+In Elihu's speech, we see a man trying to help Job. Where is the infliction of more suffering? 
+Where is Satan? Elihu talks about the weather. If you read his statements related to meteorology,
+you will see evidence of a titanic struggle between a warm front and a cold front that are colliding. 
+The oppressive, hot, dry desert air represents Satan, who brings no soothing rain to cause growth
+and protect the plants from the sun. The air mass with the cool, moist air represents God.
+He sends forth lightning, terrifies with thunder and issues a mighty downpour but it revives the parched land
+and delivers it from the sun's cruel heat. The collision of those two air masses creates the whirlwind
+from which the voice of God issues.
+
+Due to that paradox, we find that times of evil and suffering which we are convinced are from the enemy
+may be explicitly serving the interests of God, while other times of suffering that occur in a religious 
+context may be from Satan. How do you tell them apart? How do you survive this terrible conundrum?
+Get to know this pattern. It is woven into the structures of Psalms, Job, Proverbs, Song of Songs,
+Ecclesiastes, Matthew and Revelation. By reflecting on the order of events in your life 
+and matching them to the pattern, you can discern what kind of challenge may arise next and where to turn
+for help.
+
 <span id="8" />
 
 ## The Seven Phases of Spiritual Growth
