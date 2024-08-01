@@ -1590,9 +1590,88 @@ for help.
 
 ## The Seven Phases of Spiritual Growth
 
+
+
 <span id="9" />
 
 ## The Seven Spirits of God
+
+Revelation tells us (in Revelation 1:4,3:1,4:5,5:6) that there are [Seven Spirits of God](./seven-spirits.html) which are listed in Isaiah 11:2.
+These Seven Spirits are woven into many of the patterns of Scripture.
+Each Spirit goes with:
+
+  - one of the seven steps of the [Harvest Pattern](./harvest-pattern.html)
+  - one of the seven phases of the [Growth Pattern](./growth-pattern.html)
+  - one of the seven Bible books that constitute the [Seven Pillars of Wisdom](./seven-pillars-of-wisdom.html)
+  - one of the seven times when God drew His mighty sword (as mentioned in [The Fifth Trumpet and the Industrial Revolution](./industrial-revolution.html))
+
+In Matthew 12:45, Jesus speaks of a person possessed by seven evil spirits. 
+In Luke 8:2, we learn about Mary Magdalene, from whom Jesus drove out seven demons.
+These mentions of groups of seven evil spirits give us a window into a vital aspect of spiritual warfare.
+The Revelation references to the Seven Spirits of God going into the world and their association with God's sword
+tell us that God has countered the evil spirits with spirits of His own.
+When you are assailed, ponder which aspect of spiritual strength you are lacking so that you may seek assistance,
+focus your prayers and Bible study, and consider what changes you need to make in your life.
+From Isaiah, the spirits are:
+
+  - Lordship
+  - Wisdom
+  - Understanding
+  - Counsel
+  - Might
+  - Knowledge
+  - The Fear of the Lord
+
+The cited articles talk about these spirits and how they can assist you.
+For a change, consider how these spirits can guide you in how to assist a friend or stranger in need.
+
+ - Share stories about how following the Lord got you out of trouble and into a healthier place, like a good church or a better set of friends.
+ - Since wisdom is gained through suffering, walk alongside a suffering person so that loneliness, despair and bitterness do not derail the work that God is trying to accomplish in them until it is complete and their season of suffering has ended.
+ - Understanding is connected to worship. Help a new believer understand that worship is a means to so focus your attention on God's excellencies that they shine into your soul and transform you to be like Him. Share stories about times of worship when you received guidance that helped you with a problem.
+ - Counsel friends with ideas that you have learned fro the Bible or from other believers. Be vulnerable and share your struggles.
+ - On my playlist is a song that says, "The Joy of the Lord is my strength". When a friend is in despair, let your joy be that strength for them. Help them over the line with a difficult task by your might so that they may reap a harvest and endure until that joy manifests in them.
+ - The Scriptures and the collective memory of the church are a rich source of knowledge. Carry it ito your conversations so that that knowledge is spread.
+ - To those living in fear of man, of their circumstances (like their health or job), the Fear of the Lord holds no appeal. Proverbs 2 tells how long a journey it is to get to the place where the Fear of the Lord is desirable. Be be gentle. Consider this instance where Jesus quoted Isaiah:
+
+#### “Behold, my servant whom I have chosen,
+##### my beloved with whom my soul is well pleased.
+#### I will put my Spirit upon him,
+##### and he will proclaim justice to the Gentiles.
+#### He will not quarrel or cry aloud,
+##### nor will anyone hear his voice in the streets;
+#### **a bruised reed he will not break,**
+##### **and a smoldering wick he will not quench,**
+#### until he brings justice to victory;
+##### and in his name the Gentiles will hope.”
+###### - Matthew 12:18-21
+
+When your friend cannot fear the Lord because they are bruised and their spark is smoldering,
+you must be the one to Fear the Lord in their sight. When they see that this holy fear 
+makes you strong and not weak and makes you shine and not wink out, then they will
+finally know the Fear of the Lord.
+
+By reflecting on the [Harvest Pattern](./harvest-pattern.html), you can discern which step your friend is at in their current phase of growth.
+Pray for guidance in that area from the guiding spirit that goes with that phase.
+
+By reflecting on your friend's age and level of maturity as it corresponds to the [Growth Pattern](./growth-pattern.html), you
+may discover that a different one of the spirits must be engaged. To further complicate things, 
+our maturity is on two levels, material and spiritual. Our physical age is a good guide for
+dealing with material needs, but our spiritual age is trickier. All people proceed at very different speeds.
+The best diagnostic is to consult Paul's first seven letters, as in [Paul's Discipleship Program](./pauls-discipleship-program.html).
+One of the letters should deal with the spiritual crisis faced by your friend.
+
+When you think of the Seven Spirits of God, think of the Holy Spirit. There are only three persons in the Trinity, not nine.
+Due to the accepted ideas of [divine simplicity](https://iep.utm.edu/divine-simplicity/) and the 
+[economic Trinity](https://iep.utm.edu/trinity/) which are, it is hard to say how this sevenfold division
+relates to the essence and activities of God. All we need to know is that they wield God's sword to fight 
+against evil and deliver His people from danger, and after those spirits train us,
+we can wield the same sword and fight alongside them: 
+
+#### In all circumstances take up the shield of faith,
+#### with which you can extinguish all the flaming darts
+#### of the evil one; and take the helmet of salvation, 
+#### **and the sword of the Spirit, which is the word of God**...
+###### - Ephesians 6:16-17
 
 <span id="10" />
 
