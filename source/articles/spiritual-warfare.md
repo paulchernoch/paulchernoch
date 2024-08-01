@@ -1628,10 +1628,10 @@ For a change, consider how these spirits can guide you in how to assist a friend
  - Share stories about how following the Lord got you out of trouble and into a healthier place, like a good church or a better set of friends.
  - Since wisdom is gained through suffering, walk alongside a suffering person so that loneliness, despair and bitterness do not derail the work that God is trying to accomplish in them until it is complete and their season of suffering has ended.
  - Understanding is connected to worship. Help a new believer understand that worship is a means to so focus your attention on God's excellencies that they shine into your soul and transform you to be like Him. Share stories about times of worship when you received guidance that helped you with a problem.
- - Counsel friends with ideas that you have learned fro the Bible or from other believers. Be vulnerable and share your struggles.
+ - Counsel friends with ideas that you have learned from the Bible or from other believers. Be vulnerable and share your struggles.
  - On my playlist is a song that says, "The Joy of the Lord is my strength". When a friend is in despair, let your joy be that strength for them. Help them over the line with a difficult task by your might so that they may reap a harvest and endure until that joy manifests in them.
- - The Scriptures and the collective memory of the church are a rich source of knowledge. Carry it ito your conversations so that that knowledge is spread.
- - To those living in fear of man, of their circumstances (like their health or job), the Fear of the Lord holds no appeal. Proverbs 2 tells how long a journey it is to get to the place where the Fear of the Lord is desirable. Be be gentle. Consider this instance where Jesus quoted Isaiah:
+ - The Scriptures and the collective memory of the church are a rich source of knowledge. Carry it into your conversations so that that knowledge is spread.
+ - To those living in fear of man or of their circumstances (like their health or job), the Fear of the Lord holds no appeal. Proverbs 2 tells how long a journey it is to get to the place where the Fear of the Lord is desirable. Be be gentle. Consider this instance where Jesus quoted Isaiah:
 
 #### “Behold, my servant whom I have chosen,
 ##### my beloved with whom my soul is well pleased.
@@ -1662,7 +1662,7 @@ One of the letters should deal with the spiritual crisis faced by your friend.
 
 When you think of the Seven Spirits of God, think of the Holy Spirit. There are only three persons in the Trinity, not nine.
 Due to the accepted ideas of [divine simplicity](https://iep.utm.edu/divine-simplicity/) and the 
-[economic Trinity](https://iep.utm.edu/trinity/) which are, it is hard to say how this sevenfold division
+[economic Trinity](https://iep.utm.edu/trinity/) which I find exceedingly complex, it is hard to say how this sevenfold division
 relates to the essence and activities of God. All we need to know is that they wield God's sword to fight 
 against evil and deliver His people from danger, and after those spirits train us,
 we can wield the same sword and fight alongside them: 
