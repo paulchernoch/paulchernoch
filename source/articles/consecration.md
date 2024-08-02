@@ -74,8 +74,11 @@ Here is part of Job's story:
 #### shall pray for you, for **I will accept his prayer**
 #### **not to deal with you according to your folly**. 
 #### For you have not spoken of me what is right, as my servant Job has.” 
-#### So Eliphaz the Temanite and Bildad the Shuhite and Zophar the Naamathite 
-#### went and did what the Lord had told them, and **the Lord accepted Job's prayer.**
+#### So Eliphaz the Temanite 
+#### and Bildad the Shuhite 
+#### and Zophar the Naamathite 
+#### went and did what the Lord had told them, 
+#### and **the Lord accepted Job's prayer.**
 ###### - Job 42:7-9
 
 Chronologically, Job is the first person in the Bible explicitly authorized to forgive the sins of others. (The remit of Melchizedek is fuzzy.)
