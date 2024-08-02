@@ -1828,14 +1828,58 @@ is to fight against the forces of evil and defeat them so as to rescue people
 from Satan's grasp. That victory has already been won. Believing that the victory has 
 already been won is hard, given the warfare afflicting our world. If you win
 the battle of trusting in Christ's victory, all subsequent battles will be easier to win.
+Jesus Christ died on the cross for your sins and he rose from the dead to prove
+his victory. That is the gospel that will save you and carry you to victory.
 
 <span id="12" />
 
 ## The Whole Armor of God
 
+One of the most beloved and encouraging passages in the Bible describes putting
+on the armour of God so that you can be protected from harm and hold your ground 
+in the contest against Satan and his forces.
 
-In progress...
+#### Finally, be strong in the Lord and in the strength of his might.
+#### Put on the whole armor of God, that you may be able to stand
+#### against the schemes of the devil. For we do not wrestle 
+#### against flesh and blood, but against the rulers, 
+#### against the authorities, against the cosmic powers 
+#### over this present darkness, against the spiritual forces of evil
+#### in the heavenly places.
+#### Therefore take up the whole armor of God, that you may 
+#### be able to withstand in the evil day, and having done all, 
+#### to stand firm. Stand therefore,
+##### having fastened on the belt of truth,
+##### and having put on the breastplate of righteousness,
+##### and, as shoes for your feet, having put on 
+###### the readiness given by the gospel of peace.
+##### In all circumstances take up the shield of faith, 
+###### with which you can extinguish all the flaming darts
+###### of the evil one;
+##### and take the helmet of salvation,
+##### and the sword of the Spirit, which is the word of God,
+##### praying at all times in the Spirit, 
+###### with all prayer and supplication.
+#### To that end, keep alert with all perseverance,
+#### making supplication for all the saints, and also for me,
+#### that words may be given to me in opening my mouth boldly
+#### to proclaim the mystery of the gospel, for which I am 
+#### an ambassador in chains, that I may declare it boldly, 
+#### as I ought to speak.
+###### - Ephesians 6:10-20
 
+Whole books have been written on this passage. Already in this article we
+have talked of the truth of the Word, of the salvation won by *Christus Victor*,
+of prayer and other means to talk to God, of the sword wielded by the Holy Spirit,
+and of the gospel message. To be complete, this article would need to
+address every piece of armor and its use, but it is already three times as long 
+as I planned for. There is one blatant truth staring us in the face in this passage
+which I have never heard anyone comment on. The Apostle Paul asked his friends to
+pray for him. He prayed for boldness and the words to speak. When you hold the Bible
+in your hands, you have the proof that Paul's prayer was answered. God did give him the words.
+Paul did preach them boldly, even to the point of death. This passage is the prayer
+of a soldier who won the victory. The truths he taught spread throughout the world and throughout
+time, reaching even as far as you and me. There is no stronger armor. Put it on.
 
 <hr>
 
