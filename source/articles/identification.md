@@ -46,10 +46,11 @@ The seven pillars which are named by Solomon were first hinted at in the prayer 
 Hannah dedicated her firstborn son, Samuel, to serve the Lord.
 To Honor her sacrifice, God put a prophecy on her lips.
 Her prayer prophesies the existence of the seven pillars of wisdom a century before Solomon wrote of them.
-Hannah's prayer includes seven reversals of fortune, some of which concern women.
-These seven reversals conform to seven themes expressed by Solomon in Ecclesiastes 3 in his poem of the twenty-eight times of life.
-Each quartet of times in the poem describes one phase of life.
+[Hannah's prayer](./hannah-s-song.html) includes seven reversals of fortune, some of which concern women.
+These seven reversals conform to seven themes expressed by Solomon in Ecclesiastes 3 in his poem of the 
+twenty-eight times of life. Each quartet of times in the poem describes one phase of life.
 The seven themes are the seven phases of life that a person goes through to get from birth to full maturity.
+(See the article on the [Growth Pattern](./growth-pattern.html) for details.)
 In the quoted passage, I have added those themes.
 
 #### **SECURITY** (Birth to Age 7):
