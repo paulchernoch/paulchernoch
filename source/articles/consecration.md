@@ -101,7 +101,8 @@ How important is the ordination of Job to be a priest?
 #### And he called the name of the first daughter Jemimah, 
 #### and the name of the second Keziah, 
 #### and the name of the third Keren-happuch. 
-#### And in all the land there were no women so beautiful as Job's daughters. 
+#### And in all the land there were no women 
+##### so beautiful as Job's daughters. 
 #### And **their father gave them an inheritance among their brothers**. 
 ###### - Job 42:14-15, ESV
 

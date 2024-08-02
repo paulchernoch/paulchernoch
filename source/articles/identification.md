@@ -6,7 +6,8 @@ quote: The Lord announces the word,<br/> and the women who proclaim it <br/> are
 
 ## How do we connect the Book of Job to women? 
 
-First, Job is part of a larger group of seven books, the Seven Pillars of Wisdom. The names of the books are: 
+First, Job is part of a larger group of seven books, the Seven Pillars of Wisdom. The names of the books are:
+
   - Psalms
   - Job
   - Proverbs
