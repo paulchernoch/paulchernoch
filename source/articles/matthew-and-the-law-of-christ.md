@@ -100,16 +100,15 @@ and trends of thought clear that are easily overlooked.
 
 In the sections below, the commandments are divided into fourteen parts, corresponding to the 
 fourteen imperative statements. Each imperative statement is addressed by Jesus in two chapters
-of Matthew. By this logic, Matthew will devote six chapters to the sabbath, as it comprises three parts.
-This is significant.
+of Matthew. By this logic, Matthew will devote six chapters to the sabbath, as it comprises three parts. This is significant.
 
-  - 1: Np other Gods
+  - 1: No other Gods
   - 2a: No Making idols
   - 2b: No worshiping idols
   - 3: No vain speech
   - 4a: Keep the Sabbath holy
   - 4b: Work six days
-  - 4c: Don't work on the sevenh day
+  - 4c: Don't work on the seventh day
   - 5: Honor father & mother
   - 6: No murder
   - 7: No adultery

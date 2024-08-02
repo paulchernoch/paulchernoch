@@ -1786,6 +1786,49 @@ it can be discovered and exploited to guide you with clarity through life's batt
 
 ## The Law of Christ
 
+[Matthew and the Law of Christ](./matthew-and-the-law-of-christ.html) shows how each pair 
+of chapters in Matthew explores one of the fourteen imperative statements that make up 
+the Ten Commandments. Thus Matthew is a commentary on the Law. It reinterprets that law
+in the context of the Christian faith. Matthew also conforms to the 
+[Growth Pattern](./growth-pattern.html). Importantly, it not only conforms to the 
+[Harvest Pattern](./harvest-pattern.html), it defines it. Taken together, we see that the
+law is not a set of rules to restrict us, it is a guide to help us grow and reap an
+abundant harvest. That means that the Law of Christ has something to say about spiritual warfare.
+
+There is one important thing about the Law of Christ to know, and it 
+is found in Galatians 5:23. After listing the fruits of the Spirit, Paul says,
+*"against such things there is no law."* Do not let religious rules and customs 
+keep you from helping people, even today's lepers and outcasts. When you fight against Satan,
+everyone is a hostage. You do not know whom you can succeed at rescuing, so nobody is
+unworthy of your prayers.
+
+Jesus compared his wisdom to Solomon's:
+
+#### The queen of the South will rise up at the judgment 
+#### with this generation and condemn it, for she came
+#### from the ends of the earth to hear the wisdom of Solomon, 
+#### and behold, **something greater than Solomon is here**.
+###### - Matthew 12:42
+
+It took years of study before I could see the depth of wisdom in Solomon's words.
+I saw small bits of wisdom at the verse level, but the organization of his sayings baffled me.
+Where the plan and pattern of an argument cannot be seen, neither can its brilliance
+and profundity. If that is true of Solomon's words, how much more the words of Jesus?
+The meaning of individual parables, the arrangement of the whole of Matthew's gospel by the
+patterns I have found and likely others that I have overlooked, the prophetic content, 
+and other mysteries are all hidden there. And that is just one Gospel!
+You must devote serious time to reading the gospels. Your spiritual life depends upon it.
+
+It is easy to get lost in the weeds (or flowerbeds, as there are no weeds in the Bible!).
+When facing a spiritual battle, you need to know who Jesus Christ is and what he does.
+The work of the atonement is complicated and people argue over the process.
+One ancient theory that is true but incomplete is called *Christus Victor*, or 
+Christ the Victor. It means that one dimension of the work that Jesus did
+is to fight against the forces of evil and defeat them so as to rescue people
+from Satan's grasp. That victory has already been won. Believing that the victory has 
+already been won is hard, given the warfare afflicting our world. If you win
+the battle of trusting in Christ's victory, all subsequent battles will be easier to win.
+
 <span id="12" />
 
 ## The Whole Armor of God
