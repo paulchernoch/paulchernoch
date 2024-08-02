@@ -22,7 +22,8 @@ Solomon in Ecclesiastes divides a life into three parts in a way that is identic
   2. Productive Years (age 50 to 61) Ecclesiastes 10:6-11:6
   3. Declining Years (age 62 to death) Ecclesiastes 11:7-12:14
    
-For the ascending years, there is a seven-phase pattern for men which I call the **Growth Pattern**. Each phase of life covers four times and lasts seven years:
+For the ascending years, there is a seven-phase pattern for men which I call the [Growth Pattern](./growth-pattern.html). 
+Each phase of life covers four times and lasts seven years:
 
   1. **Security** (birth to age 7). A time to be born & die, to plant & uproot. The needs are for food, shelter, health and parental love.
   2. **Ability** (age 7 to 14). A time to kill & heal, to break down & build. The needs are to be trained to use mind and hand productively.

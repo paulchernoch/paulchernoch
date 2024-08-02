@@ -298,7 +298,7 @@ The words and phrases paint a **qualitative** picture of a pregnant woman. The s
 
 To begin, how long does an average pregnancy last? Today it ranges from 276 to 285 days, depending on measurement method. 
 Forty (40) weeks is thus an accurate definition for the length of a pregnancy.
-Hmmm. In the Bible, forty is a number that signifies suffering, like:
+Hmmm. In the Bible, [forty](./40-is-for-suffering.html) is a number that signifies suffering, like:
 
   - the forty days and nights of rain in the flood
   - Jesus being tempted in the desert by Satan for forty days
