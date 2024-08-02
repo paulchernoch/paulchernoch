@@ -1657,6 +1657,8 @@ have clarified the nature of the attack and the proper spiritual goal for that p
 It would have enabled me to counter the attack more effectively and make plans to foster growth in that area. 
 I plan to work out a detailed diagnostic tool based on these ideas in a future book on discipleship
 planned for 2025. For a few ideas along these lines, see [Paul's Discipleship Program](./pauls-discipleship-program.html).
+For details of how the twenty-eight times have unfolded in my life, sometimes regularly and sometimes not,
+see [The Righteous Fall Seven Times](./the-righteous-fall-seven-times.html).
 
 One important result falls out of the structure of our spiritual growth.
 I have heard other Christians lament the friendships they lost as a result of becoming a Christian.

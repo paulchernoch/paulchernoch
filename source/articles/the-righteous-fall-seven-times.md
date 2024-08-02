@@ -250,7 +250,7 @@ average.
   - **a time to tear**: Left Ruggles Baptist Church over the Toronto Blessing Movement, **1997-2004**
   - **a time to mend**: Returned to Ruggles Baptist church, extended forgiveness, attended men's Bible study, **2004-2011**
   - **a time to be silent**: Prayed and fasted three years, asking God to show me His glory, then mourned my mother's death, **2011-2018**
-  - **a time to speak**: Writing Job Rises, Peace & Plague, ths website, **2018-Present**
+  - **a time to speak**: Writing Job Rises, Peace & Plague, this website, **2018-Present**
   - **a time to love**: Disciple and teach others what I have learned, Perhaps **2025-2032**?
 
 My life is by no means a pattern to follow, but several interesting things pop out.
@@ -271,7 +271,7 @@ speaking parts corresponds to one of the times. However, for fifteen of the sect
 the time exactly opposite the expected time appears. This shows how young people are impatient
 and impulsive, having a terrible sense of time. That is why the Bride counsels her friends 
 to "not arouse or awaken love until it is time". In my case, I tried to live out "a time to seek"
-before I completed "a time to dance". That means that I tried to seek Christian ministry
+before I completed "a time to dance". That means that I tried to pursue full-time work in Christian ministry
 before I had dealt with crushing loss, mastered my emotions and matured enough to handle
 such responsibility.
 
@@ -298,7 +298,7 @@ until he reaches "a time for peace" and his troubles end.
 
 What is God telling me? Since I am six years into "a time to speak", it should end in 2025.
 That means I should expect to complete my website, perhaps write a few articles or one more book, then
-shift gears. Starting in late 2025, I should focus on teaching others, discipling them in whatI have learned.
+shift gears. Starting in late 2025, I should focus on teaching others, discipling them in what I have learned.
 After seven years of that, ending in 2032, I shall be near retirement age (I do not expect to retire at 65!). 
 When I retire, my next phase will be "a time to hate", from 2032-2039. I believe that that the
 world will enter history's "time to hate" in 2040 AD, according to Solomon's Clock.
