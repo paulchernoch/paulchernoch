@@ -1535,7 +1535,7 @@ A person may be saved with little obvious preparation or religious background; G
 However, in harvest seasons after a person is saved, preparation is essential. 
 Meditating on the Psalms is a good way to prepare for a new season of growth.
 Depending upon God's goal for a given season of growth, other Bible books will be useful,
-especially Paul's first seven letters, as explained in [Paul's Discipleship Program](./pauls-discipleship-program.md)
+especially Paul's first seven letters, as explained in [Paul's Discipleship Program](./pauls-discipleship-program.html)
 
 **The Plowing Phase** is suffering. For some seasons the suffering is involuntary, like Job's trials.
 For other seasons, it is voluntary, like Moses and Jesus fasting for forty days. God speaks to us through 
@@ -1766,6 +1766,21 @@ we can wield the same sword and fight alongside them:
 <span id="10" />
 
 ## The Seven Pillars of Wisdom
+
+Let's say that you have figured out which phase of the Harvest Pattern you are currently in.
+Also assume that you know which phases of the Growth Pattern you are in, one in the material tier
+and two in the spiritual tiers (individual and collective). You can then use those markers
+to search the Scriptures for passages relevant to your current condition. The seven books of the
+Bible that constitute the [Seven Pillars of Wisdom](./seven-pillars-of-wisdom.html) are
+structured according to those patterns. In addition, the first seven letters of Paul each match
+one phase of the Growth Pattern, as explored in [Paul's Discipleship Program](./pauls-discipleship-program.html).
+
+This is not to say that other parts of the Bible are not relevant. A partial guide would be to lookup the 
+relevant passages in Matthew or one of Paul's letters, then use the cross-referencing features of a study Bible
+or online Bible to find prophets quoted or alluded to by Jesus or Paul.
+
+God's wisdom is more orderly than you can imagine. This order is not evident to new believers but
+it can be discovered and exploited to guide you with clarity through life's battles as they arrive.
 
 <span id="11" />
 
