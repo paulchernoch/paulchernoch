@@ -335,7 +335,7 @@ Links to the other articles in this section:
 
 [The Journey Pattern](./the-journey-pattern.html) It is a long journey back to Eden.
 
-[Emotional Prophecies of the Psalms](./emotional-properties-of-the-psalms.html)
+[Emotional Prophecies of the Psalms](./emotional-prophecies-of-the-psalms.html)
 
 [Job and the Ways to Talk to God](./talk-to-god.html)
 
