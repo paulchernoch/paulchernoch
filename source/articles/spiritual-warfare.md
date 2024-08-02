@@ -1590,14 +1590,102 @@ for help.
 
 ## The Seven Phases of Spiritual Growth
 
+If you are under spiritual attack, how do you know? You can't see demons or any other spiritual forces.
+The Exorcist and Omen and such movies are not a good model. One approach is to assess 
+your material and spiritual progress along the seven dimensions of the [Growth Pattern](./growth-pattern.html).
+If you are falling behind schedule or see a regression in an area where you once were strong, that
+could be an indicator.
 
+Solomon gave us twenty-eight times which can be divided into seven phases. Each phase operates on three tiers:
+
+  - material
+  - individual spiritual
+  - corporate spiritual
+
+**The first tier** is life "under the sun". Each phase lasts about seven years and is straightforward to understand.
+Though religions have laws and customs that govern these times of life, these categories and this schedule
+can be deduced from observing human behavior without reference to any particular religion.
+There is no supernatural component to them on this tier.
+
+  1. **Security**: Food, shelter and parental love
+  2. **Ability**: Being taught basic life skills, how to use your mind and hands
+  3. **Stability**: Mastering verbal and physical self control over emotions
+  4. **Amity**: Forming friendships, cooperating in work and romance
+  5. **Opportunity**: Acquiring and managing money and property, deciding where to live and choosing an occupation
+  6. **Community**: Rise to a position of responsibility in the community, handle conflict
+  7. **Loyalty**: Choose which side to fight for in times of conflict
+
+When Satan struck Job, his power may have been spiritual, but most of the effects of the attack were material.
+Cattle stolen. Children and servants killed. Body afflicted with disease. The deceiving spirit that spoke
+to Eliphaz in a dream was the exception. Consequently, attacks on the material aspects of your life
+can be symptoms of a spiritual attack.
+
+**The second tier** relates to a person's individual relationship to Christ. 
+
+**The third tier** relates to a person's integration into the Body of Christ, the church.
+
+These two tiers are interwoven. The Gospel of Matthew has twenty-eight chapters and is structured 
+according to the Growth Pattern. Jesus speaks in parables that are often aimed at individuals, thus
+Matthew tends to speak more about our individual relationship with God. Luke is explicitly addressed
+to an individual, Theophilus, though he may be a literary fiction used to personalize the gospel.
+With the Apostle Paul, his first seven letters are addressed to churches. His advice is generally
+to whole churches and much of it is about how to create and maintain a healthy church.
+Individuals are advised how to grow and flourish in the context of a church community and
+how to share their talents with the church.
+
+Here are a few examples of how the times from Ecclesiastes 3 map to the life of a Christian:
+
+  - a time to be born: being born again
+  - a time to die: dying to self and getting a new identity in Christ
+  - a time to plant: being baptized and joining a church
+  - a time to uproot: breaking off some relationships with unbelievers
+
+The first four times listed above constitute progress towards experiencing the assurance of 
+"eternal security" as taught in Romans.
+
+When I matched the times of Ecclesiastes 3 to my spiritual life, I found that I progressed through
+the first dozen or so times rapidly; each step took a year or less and I hit them in the order given.
+Then my life entered a period of chaos. I got married, had kids, left my church for another due to a crisis, 
+then seven years later returned to the first. The lack of stability caused me to pass through some of the
+times out of order. After the decade plus of chaos ended, my progress resumed in the normal order,
+but slower. Instead of one year per "time", it took seven to pass each milestone.
+
+After applying this analysis to my own life, it was clear that it accurately reflected the state of my
+spiritual life. It revealed the times when I was under the heaviest spiritual attack.
+If only I had known what "time" I was struggling with at the time I was living through it! It would
+have clarified the nature of the attack and the proper spiritual goal for that period of my life.
+It would have enabled me to counter the attack more effectively and make plans to foster growth in that area. 
+I plan to work out a detailed diagnostic tool based on these ideas in a future book on discipleship
+planned for 2025. For a few ideas along these lines, see [Paul's Discipleship Program](./pauls-discipleship-program.html).
+
+One important result falls out of the structure of our spiritual growth.
+I have heard other Christians lament the friendships they lost as a result of becoming a Christian.
+I hold the same feelings. Do we have to cut so many ties to people we knew before?
+Isn't there another way? Yes and no. The choice is not between dropping our non-Christian friends or not.
+The choice is between recognizing whether you are in a time of engaging or disengaging with the world.
+Some times are heavy on disengagement. Others are times when re-engagement is advised.
+
+  - a time to plant: engage with the church
+  - a time to uproot: disengage from the world
+  - a time to embrace: re-engage
+  - a time to refrain from embracing: disengage
+  - a time to tear: disengage (often from people in the church due to doctrinal differences or hypocrisy)
+  - a time to mend: re-engage (often with church people)
+  - a time to love: re-engage
+  - a time to hate: disengage
+  - a time for war: disengage
+  - a time for peace: engage (mostly with the church)
+
+The problem new believers face is when to reverse course and establish new ties or reestablish old ties with
+unbelievers. It is a matter for reflection and wisdom. The shifting of relationships and alliances
+is one of the most tangible consequences of the spiritual battle in which we are engaged.
 
 <span id="9" />
 
 ## The Seven Spirits of God
 
-Revelation tells us (in Revelation 1:4,3:1,4:5,5:6) that there are [Seven Spirits of God](./seven-spirits.html) which are listed in Isaiah 11:2.
-These Seven Spirits are woven into many of the patterns of Scripture.
+Revelation tells us (in Revelation 1:4,3:1,4:5,5:6) that there are [Seven Spirits of God](./seven-spirits.html) 
+which are listed in Isaiah 11:2. These Seven Spirits are woven into many of the patterns of Scripture.
 Each Spirit goes with:
 
   - one of the seven steps of the [Harvest Pattern](./harvest-pattern.html)
