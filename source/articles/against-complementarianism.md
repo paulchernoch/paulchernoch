@@ -104,7 +104,7 @@ There are two ways to read this: as a fact or as an attitude. As a fact, it is a
 the Lord has not revealed this information. As an attitude, it is a resistance to looking for that 
 answer, persevering until you have it, and then forming your conclusions.
 
-#### **Q:** Has God has revealed to us this information about why women are suffering? 
+#### **Q:** Has God has revealed to us why women are suffering? 
 #### **A:** Yes. 
 
 #### **Q:** How do we know? 
