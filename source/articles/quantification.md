@@ -33,7 +33,8 @@ Each phase of life covers four times and lasts seven years:
   6. **Community** (age 35 to 42). A time to tear & mend, to be silent & speak. The needs are to handle conflict, dissolve partnerships, forgive & restore them, and maintain open, two-way lines of communication.
   7. **Loyalty** (age 42 to 49). A time to love & hate, for war & peace. The need is to develop loyalty and express it. Love & hate are about defining our loyalties and forming loyal attitudes: who is on my side and who is on the other side. War & peace are about expressing our loyalties by our actions.
    
-There is a second pattern for women, which I call the **Motherhood Pattern**. It matches the pattern for men, except for the times from dancing to mending, the years of bearing children:
+There is a second pattern for women, which I call [The Motherhood Pattern](./the-motherhood-pattern.html). 
+It matches the pattern for men, except for the times from dancing to mending, the years of bearing children:
 
   - The time to mourn is marriage.
   - The time to dance is getting pregnant.
@@ -129,7 +130,7 @@ understand God's will and find weapons to use against the enemy.
 
   - Jewish scholars added back the verse boundaries to the Old Testament.
   - Christian scholars added back the verse boundaries to the New Testament.
-  - A Christian scholar added back the chapter divisions. (Called by most scholars "uninspired", but the evidence is mounting that they were sovereignly determined and prophetically significant.)
+  - A Christian scholar named Stephen Langton added back the chapter divisions. (Called by most scholars "uninspired", but the evidence is mounting that they were sovereignly determined and prophetically significant.)
   - Many Jewish and Christian scholars have labored long to deduce the meaning of the code words.
 
 In this process, I have been doing this:
@@ -143,16 +144,17 @@ In this process, I have been doing this:
   - discovering the larger trends and so clarifying and constraining the meaning of each prophecy
   - applying the time grid to other books of the Bible where warranted
 
-In high school, the first thing I did every morning when I arrived was to go to the school library, get the latest Schenectady Gazette,
-and solve the Daily Cryptoquote puzzle. It was a single substitution cypher. If you cracked the code you were rewarded with a clever quote
-from a poet, philosopher or public figure. In my work, I developed a high speed computer algorithm for the unassisted classification of data
+In high school, the first thing I did every morning when I arrived was to go to the school library, 
+get the latest Schenectady Gazette, and solve the Daily Cryptoquote puzzle. It was a single substitution cypher. 
+If you cracked the code you were rewarded with a clever quote from a poet, philosopher or public figure. 
+In my work, I developed a high speed computer algorithm for the unassisted classification of data
 with thousands of attributes per record. This is the kind of problem I was made for.
 
 ## Back to the Clock
 
 The main clock in Ecclesiastes starts with the dedication of Solomon’s temple in 960 BC.
-It follows the history of Israel and the Church. In my two most recent books, I work out a complex riddle
-in Ecclesiastes which gives us the duration of each era as 120 years. 
+It follows the history of Israel and the Church. In my two most recent books, I work out a 
+[complex riddle](./twice-a-thousand-years.html) in Ecclesiastes which gives us the duration of each era as 120 years. 
 Here then is how we can match Solomon's words to history:
 
   1. 960 BC. A time to **be born**. Northern kingdom of Israel born by civil war.
