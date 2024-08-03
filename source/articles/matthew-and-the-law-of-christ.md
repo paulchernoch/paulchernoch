@@ -392,7 +392,7 @@ Chapter 15 gives precept and example. Jesus rebukes people for using religious r
 allow them to wiggle out of fulfilling responsibilities that they had toward their parents
 under this commandment (15:1-9). When I was a new believer, I was guilty of this. It is
 easy for a son or daughter to clothe ordinary resentments in the religious garb of perceived
-persecution and justify isolating themself from family gatherings and chores.
+persecution and justify isolating from family gatherings and chores.
 
 Backing up a chapter, we have the example of Salome “honoring” her mother by
 demanding of her father the death of John the Baptist (14:1-12). Yes, Herod was a great

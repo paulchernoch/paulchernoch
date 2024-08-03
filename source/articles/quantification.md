@@ -480,13 +480,14 @@ In this era, God changed the whole world:
 
 How did God mold the world into new image?
 
-  - Slavery forcefully outlawed in most of the world Serfs freed in Russia
+  - Slavery forcefully outlawed in most of the world
+  - Serfs freed in Russia
   - Dalits (untouchables) & other low caste peoples in British India enjoyed modest improvements in status and rights
   - Women gained the right to vote and hold office in dozens of nations
   - Democratic institutions matured
   - Prisons reformed
   - Public education expanded, 
-  - literacy increased 
+  - Literacy increased 
   - Mentally ill treated more humanely
   - Old age pensions instituted
   - Science, Medicine & public health advanced 
@@ -501,8 +502,9 @@ How did people rise to meet God’s challenges? By our science we began to find 
 ##### for the day of battle and war? (Job 38:22-23, ESV)
 
 Roald Amundsen in 1911 reached the South Pole, the heart of earth’s greatest “storehouse of snow”.
-Those storehouses proved decisive against Napoleon in 1812. First, the Russian Winter, worsened by the continuing Little Ice Age, 
-killed, crippled or captured hundreds of thousands of Napoleon’s soldiers, humbling the largest army ever assembled in Europe up to that time.
+Those storehouses proved decisive against Napoleon in 1812. First, the Russian Winter, worsened by the continuing 
+Little Ice Age, killed, crippled or captured hundreds of thousands of Napoleon’s soldiers, humbling the 
+largest army assembled in Europe up to that time.
 
 How did God speak to the world in a new way?
 
@@ -512,15 +514,17 @@ How did God speak to the world in a new way?
 ##### **Do they report to you, ‘Here we are’?**
 ###### - Job 38:33,35, NIV
 
-Christian missions were amplified by new technologies, all dependent upon mankind being able to “send the lightning bolts on their way” 
-through power lines and report “Here we are!” by sending human voices over the wires. All these marvels were invented in this era:
+Christian missions were amplified by new technologies, all dependent upon mankind being able to 
+“send the lightning bolts on their way” through power lines and report “Here we are!” by sending human 
+voices over the wires. All these marvels were invented in this era:
 
   - telegraph
   - telephone
   - radio
+  - motion pictures
   
-On top of this, an early prototype of the television was demonstrated in 1911 by Boris Lvovich Rosing of Russia, though television would
-not have an impact on the world until the next era.
+On top of this, an early prototype of the television was demonstrated in 1911 by Boris Lvovich Rosing of Russia, 
+though television would not have an impact on the world until the next era.
     
 The first telegraph message sent by Samuel Morse was, “What hath God wrought?”
 
@@ -530,10 +534,12 @@ And it happened exactly when the Bible predicted it would.
 
 ## Matthew 21
 
-While Job defines a model for ordination, applies it to women, and by connection to Ecclesiastes tells us when it would happen,
-the Gospel of Matthew has important contributions to offer. According to the calendar given to us by Solomon,
-Matthew 21 matches the twenty-first time, "a time to tear", the Protestant Reformation, which accelerated the liberation of women.
-The story of Palm Sunday, when Jesus entered Jerusalem, includes these words:
+While Job defines a model for ordination, applies it to women, and by connection to Ecclesiastes tells us 
+when it would happen, the Gospel of Matthew has important contributions to offer. According to the calendar 
+given to us by Solomon, Matthew 21 matches the twenty-first time, "a time to tear", the Protestant Reformation, 
+which accelerated the liberation of women. (This clock, called "Matthew's Monthly Planner", is defined in 
+[Celestial Clocks](./celestial-clocks.html).) The story of Palm Sunday, when Jesus entered Jerusalem, 
+includes these words:
 
 #### “Go into the village in front of you, and immediately 
 #### you will find **a donkey tied, and a colt with her.** 
