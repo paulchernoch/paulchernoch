@@ -224,8 +224,8 @@ the death of Alexander:
 #### **the joy of the godless lasts but a moment.”** 
 Alexander fell ill during the merriment of a banquet.
 
-#### Verse 6. “**Though the pride of the godless person 
-#### reaches to the heavens and his head touches the clouds...**” 
+#### Verse 6. “**Though the pride of the godless person**
+#### **reaches to the heavens and his head touches the clouds...**” 
 Though a man, he pursued and accepted divine honors and titles, just as Satan sought the throne of heaven.
 
 #### Verse 7. “**he will perish forever, like his own dung;**
@@ -274,8 +274,9 @@ Alexander eventually lost his appetite. Metaphorically, it means he never enjoye
 ##### **he cannot save himself by his treasure.**” 
 Alexander suffered an unquenchable thirst.
 
-#### Verses 22-23. “**In the midst of his plenty, distress will overtake him;**
-##### **the full force of misery will come upon him.** 
+#### Verses 22-23. “**In the midst of his plenty,**
+##### **distress will overtake him;**
+###### **the full force of misery will come upon him.** 
 #### **When he has filled his belly,** 
 ##### **God will vent his burning anger against him** 
 ###### **and rain down his blows on him.**” 
