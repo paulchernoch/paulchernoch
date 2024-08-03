@@ -110,6 +110,8 @@ This is the earliest and one of the strongest declarations of equality between t
 
 Can we apply Job’s model of Ordination to Women? Yes!
 
+NEXT: [Identification: The Metaphor of Childbirth](./identification.html)
+
 <hr>
 
 Other articles in this Series:

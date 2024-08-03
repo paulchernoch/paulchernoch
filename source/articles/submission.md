@@ -63,6 +63,8 @@ Where in the Bible is it hidden?
 
 Let’s back up and consider the varieties of ordination for service...
 
+NEXT: [Consecration: Models of Ordination](./consecration.html)
+
 <hr>
 
 Other articles in this Series:

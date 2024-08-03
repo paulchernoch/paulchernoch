@@ -628,6 +628,8 @@ After that, women needed to:
   
 With this result, we can tackle some thorny passages in the New Testament.
 
+NEXT: [Reconciliation: The Childbearing in 1 Timothy 2](./reconciliation.html)
+
 <hr>
 
 Other articles in this Series:

@@ -400,6 +400,8 @@ was also promised to them. But when?
 
 It is time to tie Job's prophecy of the Childbearing down to history.
 
+NEXT: [Quantification: When did the Ordination Occur?](./quantification.html)
+
 <hr>
 
 Other articles in this Series:

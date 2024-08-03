@@ -33,6 +33,8 @@ Here is what we must find:
 I have already partly addressed the seventh point, so the rest of this article will tackle the first six.
 It is time to find a Biblical model for the ordination of women.
 
+NEXT: [Submission: The Sacrifice of Long-suffering Christian Women](./submission.html)
+
 <hr>
 
 Other articles in this Series:
