@@ -449,14 +449,17 @@ Australia and many island peoples. Combining the lightning imagery of both chapt
 climate disruption, war, and famine. No other period in history saw so many wars flare up across so great an area until we reach the 
 Twentieth Century with its two World Wars and communist revolutions. Here is a summary of the strife:
 
-  - **India.** The Mughal-Maratha wars lasted half a century and left five million dead, adding to the earlier misery of the Deccan famine which killed seven million more. China. The Ming-Qing dynasty transition killed 25 million.
+  - **India.** The Mughal-Maratha wars lasted half a century and left five million dead, adding to the earlier misery of the Deccan famine which killed seven million more. 
+  - **China**. The Ming-Qing dynasty transition killed 25 million.
   - **Japan.** The Sengoku period of constant civil war lasted 150 years.
-  - **Germany.** The Thirty Years War killed up to 12 million. England. The Wars of the Three Kingdoms killed almost a million.
+  - **Germany.** The Thirty Years War killed up to 12 million. 
+  - **England**. The Wars of the Three Kingdoms killed almost a million.
   - **Spain.** The War of the Spanish Succession claimed over a million lives.
   - **Other European nations**. The French, Dutch, Swedes, Russians, Ottomans and others became embroiled in deadly wars of their own. Poland collapsed completely. 
   - **Burma.** Invaded by China.
   - **Southeast Asia**. Ports and islands were captured by the Spanish, Dutch, Portuguese, British and French, including the Philippines.
-  - **The Americas**. All indigenous empires had already been overthrown by Spain, Portugal and other European colonial empires. Now disease, climate change and war killed a majority of the survivors. **Africa.** The largest Central African empires either fractured or were absorbed into the Muslim world. Many of their subjects wound up in Muslim slave markets or New World plantations.
+  - **The Americas**. All indigenous empires had already been overthrown by Spain, Portugal and other European colonial empires. Now disease, climate change and war killed a majority of the survivors. 
+  - **Africa.** The largest Central African empires either fractured or were absorbed into the Muslim world. Many of their subjects wound up in Muslim slave markets or New World plantations.
   - **England, France & Allies**. The Seven Years War was the final blow to exhaust the European powers. Snuffing out over a million lives in Europe, Africa, North and South America, India and the Philippines, it was a precursor of the world wars.
 
 Yes, God’s lightning struck the whole world. Why? Verses 7 and 8 give us a clue. 
