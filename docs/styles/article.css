@@ -470,3 +470,12 @@ div.era {
   margin-bottom: -0.1em;  
   margin-top: 0.1em;
 }
+
+/* Pagefind searchable area */
+
+main.searchable{
+  margin: 0px;
+  padding-bottom : 0rem;
+  color: var(--dark-cerulean);
+  background: var(--wispy-blue);
+}
