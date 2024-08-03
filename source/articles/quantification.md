@@ -341,8 +341,10 @@ The Black Plague and sieges against Constantinople are prophesied in Job 34.
   - Those who are “shaken” have fever and chills.
   - When it says “they die in an instant”, people who often seemed well when they went to bed died during the night. 
   
-#### Although I am right, I am considered a liar; 
-##### although I am guiltless, his **arrow** inflicts an **incurable wound**.’ (34:6)
+#### Although I am right,
+##### I am considered a liar; 
+#### although I am guiltless, 
+##### his **arrow** inflicts an **incurable wound**.’ (34:6)
 #### Is there anyone like Job, who drinks scorn like **water?** (34:7, NIV)
 #### They die in an instant, **in the middle of the night**; 
 ##### the people are **shaken** and they pass away; 
@@ -350,7 +352,8 @@ The Black Plague and sieges against Constantinople are prophesied in Job 34.
 #### Without inquiry he shatters the mighty and 
 ##### sets up others in their place. 
 #### Because he takes note of their deeds, 
-##### he **overthrows them in the night** and they are crushed. (34:24-25, NIV)
+##### he **overthrows them in the night**
+###### and they are crushed. (34:24-25, NIV)
 
 *Job 35, 1440-1560 AD, a time to tear.*
 
