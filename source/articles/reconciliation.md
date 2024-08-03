@@ -317,6 +317,9 @@ Thus we see that Paul’s prophecy truly addresses the last generation where acc
 
 If the letters to Timothy spell out God's timetable for the abolition of slavery, then why not also the liberation of women?
 
+For the conclusion of the argument, return to the main article here: 
+<a href="./against-complementarianism.html#impartation">Impartation: The Unsealing of the Scroll of Wisdom</a>
+
 <hr>
 
 <div class="sections">

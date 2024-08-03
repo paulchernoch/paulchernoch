@@ -342,6 +342,7 @@ This article says that Paul's words do not describe a static role for women, but
 instead a prophetic timetable for their deliverance from bondage and acquisition of full equality with men,'
 even in matters of church leadership.
 
+<span id="impartation">
 
 ## Impartation: The Unsealing of the Scroll of Wisdom
 
