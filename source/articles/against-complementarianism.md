@@ -381,3 +381,21 @@ it is evident that He has been communicating a special wisdom to them. This spec
 If the virgins of the church are not prepared, the church will fall. This is not a fairness issue or a justice issue. 
 
 This is a survival issue.
+
+<hr/>
+
+<div class="sections">
+
+Other articles in this Series:
+
+  <ol>
+    <li> <a href="./against-complementarianism.html">Against Complementarianism</a> </li>
+    <li> <a href="./a-model-for-the-ordination-of-women.html">A Model for the Ordination of Women</a> </li>
+    <li> <a href="./submission.html">Submission: The Sacrifice of Long-suffering Christian Women</a> </li>
+    <li> <a href="./consecration.html">Consecration: Models of Ordination</a> </li>
+    <li> <a href="./identification.html">Identification: The Metaphor of Childbirth</a> </li>
+    <li> <a href="./quantification.html">Quantification: When did the Ordination Occur?</a> </li>
+    <li> <a href="./reconciliation.html">Reconciliation: The Childbearing in 1 Timothy 2</a> </li>
+  </ol>
+
+</div>

@@ -353,7 +353,7 @@ The Black Plague and sieges against Constantinople are prophesied in Job 34.
 ##### sets up others in their place. 
 #### Because he takes note of their deeds, 
 ##### he **overthrows them in the night**
-###### and they are crushed. (34:24-25, NIV)
+###### and they are crushed. (Job 34:24-25, NIV)
 
 *Job 35, 1440-1560 AD, a time to tear.*
 
@@ -365,7 +365,8 @@ This is the time when greater wisdom began to arrive, the Childbearing, when a w
 ##### ‘Where is God my Maker,
 ###### who gives **songs in the night**,
 ##### **who teaches us more than the beasts of the earth**
-###### and makes us wiser than the birds of the heavens?’ (Job 35:9-11, ESV)
+#### and makes us wiser than
+##### the birds of the heavens?’ (Job 35:9-11, ESV)
 This points us to the heavens, when Copernicus wrote *De Revolutionibus orbium coelestium* and began the Copernican revolution in astronomy.
 
 #### Look up at the heavens and see;
@@ -376,7 +377,7 @@ This points us to the heavens, when Copernicus wrote *De Revolutionibus orbium c
 The new Protestant churches believed that all people must be taught to read, so that they may read the Bible for themselves:
 
 #### “God is exalted in his power. 
-##### **Who is a teacher like him?** (36:22, NIV)
+##### **Who is a teacher like him?** (Job 36:22, NIV)
 Lawrence Stone, in “The Educational Revolution in England 1500-1640”, revealed something remarkable. Between the Reformation and the mid-seventeenth century, England built schools. Lots of schools! In fact, the number of schools increased more than tenfold. Puritans especially were keen to teach everyone how to read so that they could read the Bible. England devoted one quarter of all charitable funds to the construction of schools and their endowment, so that the poor could be educated. By the end of this period, over half of all people in England could read and 2.5% of men had a college degree.
 
 Job 36 even prophesies the first Thanksgiving of the Pilgrims in America:
@@ -386,8 +387,8 @@ Job 36 even prophesies the first Thanksgiving of the Pilgrims in America:
 #### to the comfort of your **table laden with choice food**. (Job 36:16)
 
 It also predicts the explosion in the writing of Christian hymns during that era:
-#### **Remember to extol his work, 
-##### which people have praised in song.** (36:24, NIV)
+#### **Remember to extol his work,** 
+##### **which people have praised in song.** (36:24, NIV)
 
 *Job 37: 1680-1800 AD, a time to be silent.*
 
@@ -632,12 +633,18 @@ NEXT: [Reconciliation: The Childbearing in 1 Timothy 2](./reconciliation.html)
 
 <hr>
 
+<div class="sections">
+
 Other articles in this Series:
 
-1. [Against Complementarianism](./against-complementarianism.html)
-2. [A Model for the Ordination of Women](./a-model-for-the-ordination-of-women.html)
-3. [Submission: The Sacrifice of Long-suffering Christian Women](./submission.html)
-4. [Consecration: Models of Ordination](./consecration.html)
-5. [Identification: The Metaphor of Childbirth](./identification.html)
-6. [Quantification: When did the Ordination Occur?](./quantification.html)
-7. [Reconciliation: The Childbearing in 1 Timothy 2](./reconciliation.html)
+  <ol>
+    <li> <a href="./against-complementarianism.html">Against Complementarianism</a> </li>
+    <li> <a href="./a-model-for-the-ordination-of-women.html">A Model for the Ordination of Women</a> </li>
+    <li> <a href="./submission.html">Submission: The Sacrifice of Long-suffering Christian Women</a> </li>
+    <li> <a href="./consecration.html">Consecration: Models of Ordination</a> </li>
+    <li> <a href="./identification.html">Identification: The Metaphor of Childbirth</a> </li>
+    <li> <a href="./quantification.html">Quantification: When did the Ordination Occur?</a> </li>
+    <li> <a href="./reconciliation.html">Reconciliation: The Childbearing in 1 Timothy 2</a> </li>
+  </ol>
+
+</div>
