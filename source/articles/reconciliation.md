@@ -51,7 +51,7 @@ The two signs are two different meanings of the same passage, Paul's verse in 1 
 Summarizing what was said previously, the transition period for the liberation of women spanned five of Solomon's times:
 
   - **a time to tear** (1440-1560 AD). The Childbearing of the Reformation, where the baby is the Protestant Church.
-  - **a time time mend** (1560-1680 AD). The Wars of religion, when the patient suffered hemorrhaging, until the beginnings of religious freedom stopped the bleed.
+  - **a time to mend** (1560-1680 AD). The Wars of religion, when the patient suffered hemorrhaging, until the beginnings of religious freedom stopped the bleed.
   - **a time to be silent** (1680-1800 AD). Women (and men) are **silent** and listen to God during the Pietism movement, Methodist Revival and Great Awakening.
   - **a time to speak** (1800-1920 AD). Women and men go forth as missionaries to **speak** the gospel to the whole world and the first women become ordained ministers in the US.
   - **a time to love** (1920-2040 AD). Begins with women getting the vote in 1920 and results in women gaining equal rights in most spheres of life.
@@ -135,7 +135,7 @@ It is time to apply the vocabulary for time to 1 Timothy 2. The times of Solomon
   - The chapter divisions are significant. Each chapter matches a commandment, in sequence.
   - The table of contents to the letters is in 1 Timothy 1:9-10. The fourteen examples of ungodly behavior there include violations of all Ten Commandments, with an intentional swap of commands one and two and another swap of three and four. These swaps are mirrored in the content of the corresponding chapters. 
   - Nine of the ten chapters, five from 1 Timothy and four from 2 Timothy, contain references to some of the times from Ecclesiastes 3, in order. 
-  - Only 1 Timothy 1 lacks reference to Solomon’s times. (2 Timothy 1 has its pair of times from the sequence, plus the times “missing” from 1 Timothy 1, the times to weep and laugh, as well.) Just as Solomon’s poem of the times ends with a word about eternity, Paul’s letter begins with words about eternity: Now to the King eternal, immortal, invisible, the only God, be honor and glory for ever and ever. Amen. (1 Timothy 1:17, NIV)
+  - Only 1 Timothy 1 lacks reference to Solomon’s times. (2 Timothy 1 has its pair of times from the sequence, plus the times “missing” from 1 Timothy 1, the times to weep and laugh, as well.) Just as Solomon’s poem of the times ends with a word about eternity, Paul’s letter begins with words about eternity: *Now to the King eternal, immortal, invisible, the only God, be honor and glory for ever and ever. Amen.* (1 Timothy 1:17, NIV)
   - All ten chapters are prophetic. Each corresponds to a distinct era of history 240 years in duration, in chronological order. These eras are tied to both the commandment for that chapter and Solomon’s times. The first chapter begins the clock near Christ’s birth. We are living through the era of the ninth chapter.
   - Some chapters contain sections that hold additional prophecies spanning longer periods of time than the era governed by the bulk of the chapter. The most striking are 1 Timothy 2:11-15, 1 Timothy 3:2-3, 2 Timothy 3:10-11, and 2 Timothy 4:9-18. Let us call these four “encapsulated clocks”.
 
@@ -174,7 +174,8 @@ The crops come in at the end of the season, which causes us to look in 2 Timothy
 ##### and above all the **parchments**. 
 #### \[8: 1680-1920 AD\] Alexander the coppersmith did me great harm; 
 ##### the Lord will repay him according to his deeds. 
-##### Beware of him yourself, for he strongly opposed our message. 
+##### Beware of him yourself, 
+##### for he strongly opposed our message. 
 #### \[9: 1920-2160 AD\] At my first defense no one came 
 ##### to stand by me, but all deserted me. 
 ##### May it not be charged against them! 
