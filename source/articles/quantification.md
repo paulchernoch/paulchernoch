@@ -210,92 +210,94 @@ of Old Testament prophecies to describe the coming exile.
 
 *Job 20, 360-240 BC, A time to Heal, Death of Alexander the Great*
 
-As Revelation 13 reveals, Satan controls the beasts of the world, its evil empires. That means that Satan controlled the empire of Alexander, 
-one of the beasts and one of the heads of Daniel’s visions. The devil is full of hatred, even for his servants. 
+As Revelation 13 reveals, Satan controls the beasts of the world, its evil empires. That means that 
+Satan controlled the empire of Alexander, one of the beasts and one of the heads of Daniel’s visions. 
+The devil is full of hatred, even for his servants. 
 Job 20 is Satan’s *epitaphios logos*, his funeral oration, for the fallen “Lord of Asia”, the “Great King” and “Son of Zeus”. 
-In the case of Alexander the Great, we have the unusual situation that he was attended by doctors and their notes
-about his medical condition were preserved by secular historians down through the ages, such as Flavius Arrianus, 
-Ptolemy, Plutarch, and Quintus Curtius. Because of that, we can match his known symptoms to the prophecy of Job with precision.
-Here then are the profound connections between Job 20 (from the NIV) and the death of Alexander:
+In the case of [Alexander the Great](./alexander-the-great.md), we have the unusual situation that he was attended 
+by doctors and their notes about his medical condition were preserved by secular historians down through the ages, 
+such as Flavius Arrianus, Ptolemy, Plutarch, and Quintus Curtius. Because of that, we can match his known symptoms 
+to the prophecy of Job with precision. Here then are the profound connections between Job 20 (from the NIV) and 
+the death of Alexander:
 
-#### Verse 5. **“... the mirth of the wicked is brief, 
-#### the joy of the godless lasts but a moment.”** 
+#### Verse 5. **“... the mirth of the wicked is brief,**
+#### **the joy of the godless lasts but a moment.”** 
 Alexander fell ill during the merriment of a banquet.
 
 #### Verse 6. “**Though the pride of the godless person 
 #### reaches to the heavens and his head touches the clouds...**” 
 Though a man, he pursued and accepted divine honors and titles, just as Satan sought the throne of heaven.
 
-#### Verse 7. “**he will perish forever, like his own dung; 
-#### those who have seen him will say, ‘Where is he?’**” 
+#### Verse 7. “**he will perish forever, like his own dung;**
+#### **those who have seen him will say, ‘Where is he?’**” 
 The word dung brings to mind the diarrhea that beset him.
 
-#### Verse 8. “**Like a dream he flies away, no more to be found, 
-#### banished like a vision of the night.**” 
+#### Verse 8. “**Like a dream he flies away, no more to be found,**
+#### **banished like a vision of the night.**” 
 Delirium and hallucinations seized him.
 
-#### Verses 9-10. “**The eye that saw him will not see him again; 
-##### his place will look on him no more. 
-#### His children must make amends to the poor; 
-##### his own hands must give back his wealth.**” 
+#### Verses 9-10. “**The eye that saw him will not see him again;**
+##### **his place will look on him no more.** 
+#### **His children must make amends to the poor;** 
+##### **his own hands must give back his wealth.**”
 After Alexander died, his generals, called the Diadochi, fought each other to seize his title and kingdom. One was Cassander, who ordered the execution of Alexander’s wife Roxane and his sons Heracles and Alexander IV and usurped the throne of Macedon. Wikipedia says this of Cassander. “It was later even said that he could not pass a statue of Alexander without feeling faint.” Truly the one who took his place did not want look on him any more. Among those who contend that Alexander was poisoned, Cassander is their prime suspect.
 
-#### Verse 11. “**The youthful vigor that fills his bones 
-#### will lie with him in the dust.**” 
+#### Verse 11. “**The youthful vigor that fills his bones**
+#### **will lie with him in the dust.**” 
 Alexander died young.
 
-#### Verses 12-14. “**Though evil is sweet in his mouth and 
-##### he hides it under his tongue, 
-#### though he cannot bear to let it go and 
-##### lets it linger in his mouth, 
-#### yet his food will turn sour in his stomach; 
-##### it will become the venom of serpents within him.**” 
+#### Verses 12-14. “**Though evil is sweet in his mouth and**
+##### **he hides it under his tongue,** 
+#### **though he cannot bear to let it go and** 
+##### **lets it linger in his mouth,** 
+#### **yet his food will turn sour in his stomach;** 
+##### **it will become the venom of serpents within him.**” 
 The first symptoms were excruciating stomach pain. Yet despite the travails of the first day of his illness, Alexander attended another banquet the next day. He could not bear to let his pleasures go.
 
-#### Verse 15. “**He will spit out the riches he swallowed; 
-##### God will make his stomach vomit them up.**” 
+#### Verse 15. “**He will spit out the riches he swallowed;**
+##### **God will make his stomach vomit them up.**” 
 His doctors induced vomiting.
 
-#### Verse 16. “**He will suck the poison of serpents; 
-##### the fangs of an adder will kill him**.” 
+#### Verse 16. “**He will suck the poison of serpents;**
+##### **the fangs of an adder will kill him**.” 
 There is no mention of real snakes in the historical record. This may refer to medicines that his doctors gave him that worsened his condition, or metaphorically to the supernatural agent contributing to his death: Satan.
 
-#### Verse 17. “**He will not enjoy the streams, 
-##### the rivers flowing with honey and cream.**” 
+#### Verse 17. “**He will not enjoy the streams,**
+##### **the rivers flowing with honey and cream.**” 
 His corpse was encased in a sarcophagus filled with honey! (Honey deters the decomposition of dead bodies.)
 
-#### Verse 18. “**What he toiled for he must give back uneaten; 
-##### he will not enjoy the profit from his trading.**” 
+#### Verse 18. “**What he toiled for he must give back uneaten;**
+##### **he will not enjoy the profit from his trading.**” 
 Alexander eventually lost his appetite. Metaphorically, it means he never enjoyed ruling over the empire he conquered.
 
-#### Verse 20. “**Surely he will have no respite from his craving; 
-##### he cannot save himself by his treasure.**” 
+#### Verse 20. “**Surely he will have no respite from his craving;**
+##### **he cannot save himself by his treasure.**” 
 Alexander suffered an unquenchable thirst.
 
-#### Verses 22-23. “**In the midst of his plenty, distress will overtake him; 
-##### the full force of misery will come upon him. 
-#### When he has filled his belly, 
-##### God will vent his burning anger against him 
-###### and rain down his blows on him.**” 
+#### Verses 22-23. “**In the midst of his plenty, distress will overtake him;**
+##### **the full force of misery will come upon him.** 
+#### **When he has filled his belly,** 
+##### **God will vent his burning anger against him** 
+###### **and rain down his blows on him.**” 
 This describes the start of his anguish, when he filled his belly with food and wine. The full force of misery struck his belly first. Reports indicated that if anyone touched his midsection gently it caused sharp pain. This also identifies the second, more substantial spiritual agent of Alexander’s destruction: God.
 
-#### Verses 24-26. “**Though he flees from an iron weapon, 
-##### a bronze-tipped arrow pierces him. 
-#### He pulls it out of his back, 
-##### the gleaming point out of his liver. 
-#### Terrors will come over him; 
-##### total darkness lies in wait for his treasures. 
-#### A fire unfanned will consume him and 
-##### devour what is left in his tent.**” 
+#### Verses 24-26. “**Though he flees from an iron weapon,**
+##### **a bronze-tipped arrow pierces him.** 
+#### **He pulls it out of his back**, 
+##### **the gleaming point out of his liver.** 
+#### **Terrors will come over him;** 
+##### **total darkness lies in wait for his treasures.** 
+#### **A fire unfanned will consume him and** 
+##### **devour what is left in his tent.**” 
 Though doctors say his symptoms do not indicate cirrhosis as the cause of death, Alexander was a heavy drinker, and drank to excess the first two days of his illness, which may have injured his liver and weakened his body’s ability to fight off disease. Reports of his symptoms include jaundice, indicating liver failure.
 
 There is no mistaking the “fire unfanned”; persistent high fever plagued him until he met his end. Also, recall how Plutarch described the initial pain as feeling like being stuck in the back with a spear, an almost identical analogy to being pierced by an arrowhead.
 A skeptic might argue that these symptoms could apply to someone other than Alexander the Great. Iron and bronze connect this passage to Nebuchadnezzar’s vision of the statue in Daniel 2. Bronze refers to Alexander’s own empire. This suggests treachery: the king of the bronze empire laid low by bronze. Iron represents the next empire: Rome. The kingdoms that sprang from his empire, the Ptolemaic and Seleucid empires, would eventually be conquered by Rome, the iron weapon from which his successors could not flee.
 
-#### Verses 27-28. “**The heavens will expose his guilt; 
-##### the earth will rise up against him. 
-#### A flood will carry off his house, 
-##### rushing waters on the day of God’s wrath.**” 
+#### Verses 27-28. “**The heavens will expose his guilt;**
+##### **the earth will rise up against him.** 
+#### **A flood will carry off his house,** 
+##### **rushing waters on the day of God’s wrath.**” 
 The flood could be a poetic description of the ailing man’s diarrhea, but there is no mistaking the wrath of both heaven and earth. Both God and Satan had their hand in Alexander’s destruction, including his house: the murder of his wife and children.
 
 *Job 23, 1 BC-120 AD, A time to weep: Jesus endures the Cross*
