@@ -92,20 +92,22 @@
 $TOC$
         </ul>
     </div>
-    <!-- data-pagefind-body defines which content pagefind indexes -->
-    <main data-pagefind-body>
+
     <!-- Article Text -->
     <div id="articlebody" class="body-narrow" tabindex="3">
       <div class="article">
-        <h1>$ARTICLE_TITLE$</h1>
-        <h2>$ARTICLE_SUBTITLE$</h2>
-        <p class="date">$ARTICLE_DATE$</p>
-        <div class="synopsis">$ARTICLE_SYNOPSIS$</div>
-        $ARTICLE_BODY$
+        <!-- data-pagefind-body defines which content pagefind indexes -->
+        <main data-pagefind-body>
+          <h1>$ARTICLE_TITLE$</h1>
+          <h2>$ARTICLE_SUBTITLE$</h2>
+          <p class="date">$ARTICLE_DATE$</p>
+          <div class="synopsis">$ARTICLE_SYNOPSIS$</div>
+          $ARTICLE_BODY$
+        </main>
       </div>
 
     </div>
-    </main>
+
     <!-- Page Footer -->
     <div class="footer faint">
       <p id="searchbar">$FOOTER$</p>
