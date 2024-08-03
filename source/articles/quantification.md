@@ -600,6 +600,9 @@ filling the temple with praise in a way that broke their ancient rules.
 
 ## Psalm 22 
 
+The first twenty-eight psalms match the twenty-eight times of Solomon, with the first two
+swapped in order. (This structure is described in the chapter "Psalms of Growth: Psalms 1-28" 
+in my book *Plague, Precept, Prophet, Peace*.)
 Psalm 22 matches the twenty-second time, a time to mend. It too has feminine analogies that
 tie it to the matter at hand:
 

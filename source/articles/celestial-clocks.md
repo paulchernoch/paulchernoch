@@ -1883,8 +1883,9 @@ Great Schism, the Crusaders’ sack of Constantinople and the Black Plague.
 
 **Notable facts**:
 
-The Book of Psalms has numerous clocks of various sizes, from a single psalm (Psalm 119) to a pair (Psalms 111 and 112) to seven psalms (the Historical Psalms) to twenty-eight psalms (the Psalms of Growth, that match the Growth Pattern) to this largest clock, which spans the whole
-of the Psalter. It is possible that all 150 psalms contain prophecies, but it appears that not all psalms have prophecies that are part
+The Book of Psalms has numerous clocks of various sizes, from a single psalm (Psalm 119) to a pair (Psalms 111 and 112) to seven psalms (the Historical Psalms) to twenty-eight psalms (the Psalms of Growth, that match the Growth Pattern) 
+to this largest clock, which spans the whole of the Psalter. It is possible that all 150 psalms contain prophecies, 
+but it appears that not all psalms have prophecies that are part
 of this clock, the Master Psalm Clock. I have found fifty psalms that contain prophecies belonging to this clock. 
 
 For a psalm to belong to this clock it must have a prophecy that is fulfilled in the era that goes with that psalm.

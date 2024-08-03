@@ -46,7 +46,7 @@ then in a fourth I summarized my conclusion:
   - The Final Ascent: Psalms 113-150
   - Psalms of Growth: Psalms 1-28
 
-Here is a short section from the fourth of those chapter, summarizing my conclusions:
+Here is a short section from the fourth of those chapters, summarizing my conclusions:
 
 ## The Prophetic Empathy of God
 
