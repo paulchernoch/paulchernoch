@@ -1,5 +1,6 @@
 ---
 title: The Meaning of the Beasts of Job
+quote: He is thrust from light into darkness, <br/> and driven out of the world. <br/> - Job 18:17-18
 ---
 <img class="center" src="images/nine-empires.png" />
 

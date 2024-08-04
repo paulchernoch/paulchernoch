@@ -1,5 +1,6 @@
 ---
 title: Psalm 102
+quote: For my days pass away like smoke, <br/> and my bones burn like a furnace. <br/> - Psalm 102:3
 ---
 <img class="center" src="images/psalm-102-chart.png" />
 

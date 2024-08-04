@@ -1,6 +1,6 @@
 ---
 title: Timeless?
-quote: But about that day or hour no one knows, <br/> not even the angels in heaven, <br/> nor the Son, <br/> but only the Father. - Mark 13:32
+quote: But about that day or hour <br/> no one knows, <br/> not even the angels in heaven, <br/> nor the Son, <br/> but only the Father. - Mark 13:32
 ---
 <img class="center" src="images/leopard-bear-lion.png" />
 

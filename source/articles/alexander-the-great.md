@@ -1,6 +1,6 @@
 ---
 title: The Death of Alexander the Great
-quote: He will not look upon the rivers, <br/> the streams flowing with honey and curds. <br/> - Job 20:17
+quote: He will not look upon the rivers, <br/> the streams flowing <br/> with honey and curds. <br/> - Job 20:17
 ---
 
 <hr/>
