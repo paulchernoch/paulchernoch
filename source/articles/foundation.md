@@ -1,6 +1,6 @@
 ---
 title: "Foundation: The Commandments"
-quote: Afflicted city, lashed by storms and not comforted, <br/> I will rebuild you with stones of turquoise, <br/> your foundations with lapis lazuli. <br/> - Isaiah 54:11
+quote: Afflicted city, lashed by storms and <br/> not comforted, I will rebuild you with <br/> stones of turquoise, your foundations <br/> with lapis lazuli. - Isaiah 54:11
 ---
 
 The Law is the foundation of Lady Wisdom's house. In the Bible, that law is symbolized
