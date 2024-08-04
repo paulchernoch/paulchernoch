@@ -1,6 +1,6 @@
 ---
 title: The Theme of Treasure in the Pillars of Wisdom
-quote: but lay up for yourselves treasures in heaven, <br/> where neither moth nor rust destroys <br/> and where thieves do not break in and steal. <br/> - Matthew 6:20
+quote: but lay up for yourselves <br/> treasures in heaven, where neither <br/> moth nor rust destroys and where <br/> thieves do not break in and steal. <br/> - Matthew 6:20
 ---
 
 <img class="center" src="images/treasure-or-trash.png" />

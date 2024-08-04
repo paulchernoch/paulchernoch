@@ -1,6 +1,6 @@
 ---
 title: The Theme of Spirits in the Pillars of Wisdom
-quote: There shall come forth a shoot <br/> from the stump of Jesse, <br/> and a branch from his roots shall bear fruit. <br/> - Isaiah 11:1
+quote: There shall come forth a shoot <br/> from the stump of Jesse, <br/> and a branch from his roots <br/> shall bear fruit. - Isaiah 11:1
 ---
 
 <img class="center" src="images/seven-spirits-branch.png" />

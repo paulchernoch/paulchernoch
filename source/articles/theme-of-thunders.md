@@ -1,6 +1,6 @@
 ---
 title: The Theme of Thunders in the Pillars of Wisdom
-quote: Seal up what the <b>seven thunders</b> have said, <br/> and do not write it down. <br/> - Revelation 10:4b
+quote: Seal up what the <b>seven thunders</b> <br/> have said, and do not <br/> write it down. <br/> - Revelation 10:4b
 ---
 
 <img class="center" src="images/lightning-scroll.png" />
