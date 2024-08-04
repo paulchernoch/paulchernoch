@@ -1,6 +1,6 @@
 ---
 title: The End Times
-quote: "eschatology: <br/> a branch of theology concerned with the <br/> final events in the history of the world <br/> or of humankind <br/> - Merriam-Webster Dictionary"
+quote: <strong>eschatology:</strong> <br/> a branch of theology concerned with <br/> the final events in the history of <br/> the world or of humankind <br/> - Merriam-Webster Dictionary
 ---
 <img class="center" src="images/white-horse.png" alt="Archer on a white horse"/>
 

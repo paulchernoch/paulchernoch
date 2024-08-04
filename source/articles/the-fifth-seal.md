@@ -1,5 +1,6 @@
 ---
 title: The Fifth Seal
+quote: They called out in a loud voice, <br/> 'How long, Sovereign Lord, <br/> holy and true... ?' <br/> - Revelation 6:10a
 ---
 The bulk of this article first appeared as "Postscript: Because I promised" in *Plague, Precept, Prophet, Peace*. 
 It focuses on the plague of darkness, the ninth of the plagues against Egypt.
