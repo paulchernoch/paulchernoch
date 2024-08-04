@@ -1,6 +1,7 @@
 ---
 title: Submission
 sub: The Sacrifice of Long-suffering Christian Women
+quote: When you were with Janet <br/> it was like the Holy Spirit <br/> was pouring out of her.
 ---
 When a Christian suffers but holds onto their faith, God endows them with spiritual power. So it has been with women.
 
@@ -31,8 +32,8 @@ How many women down the centuries have held onto their faith in Jesus, suffered 
 Shall their collective suffering not eventually complete the sacrifice for their daughter's ceremony of ordination?
 Has it not been reached already?
 
-Before modern times, few things terrified women more than childbirth. As noted earlier, one in eight women died bearing children.
-It is with good reason that Paul used that allusion in his letter to Timothy. 
+Before modern times, few things terrified women more than childbirth. As noted earlier, one in eight women 
+died bearing children. It is with good reason that Paul used that allusion in his letter to Timothy. 
 
 #### But **she** will be saved by **The Childbearing**, 
 #### if **they** continue in faith 

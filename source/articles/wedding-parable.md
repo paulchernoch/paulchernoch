@@ -1,7 +1,7 @@
 ---
 title: The Parable of the Wedding Feast
 sub: Matthew 22:1-10
-quote: The kingdom of heaven may be compared <br/> to a king who gave a wedding feast <br/> for his son... - Matthew 22:2
+quote: The kingdom of heaven may <br/> be compared to a king <br/> who gave a wedding feast <br/> for his son... <br/> - Matthew 22:2
 ---
 This analysis of the Parable of the Wedding Feast was published originally as part of 
 the chapter "A Minute Look at Matthew" from *Peace, like Solomon Never Knew*.

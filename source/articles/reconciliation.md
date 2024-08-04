@@ -1,7 +1,7 @@
 ---
 title: Reconciliation
 sub: The Childbearing in 1 Timothy 2
-quote: Yet she will be saved through childbearing-<br/>if they continue in faith and love <br/> and holiness, with self-control. <br/> - 1 Timothy 2:15
+quote: Yet she will be saved <br/> through childbearing-<br/>if they continue in faith and love <br/> and holiness, with self-control. <br/> - 1 Timothy 2:15
 ---
 <div class="sections">
 

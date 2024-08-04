@@ -1,7 +1,7 @@
 ---
 title: Satan's Taunt
 sub: Psalm 91
-quote: You will tread on the lion and the cobra; <br/> you will trample the great lion and the serpent. <br/> - Psalm 91:13
+quote: You will tread on the lion <br/> and the cobra; <br/> you will trample the great lion <br/> and the serpent. <br/> - Psalm 91:13
 ---
 ## On Numbers 
 

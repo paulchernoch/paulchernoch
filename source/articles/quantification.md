@@ -1,6 +1,7 @@
 ---
 title: Quantification
 sub: When did the Ordination Occur?
+quote: But none says, <br/> ‘Where is God my Maker, </br> who gives songs in the night...' <br/> - Job 35:10
 ---
 Timing is everything. Say that God does have a plan to permit women to become pastors and elders. 
 What difference does it make to today's women if that planned event remains in the future?

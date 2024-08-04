@@ -1,6 +1,6 @@
 ---
 title: The Childbearing
-quote: But she will be saved by The Childbearing, <br/> if they continue in faith and love <br/> and holiness with sound-mindedness. <br/> - 1 Timothy 2:15, DLNT
+quote: But she will be saved <br/> by The Childbearing, <br/> if they continue in faith and love <br/> and holiness with sound-mindedness. <br/> - 1 Timothy 2:15, DLNT
 ---
 ## Lost in Translation?
 
