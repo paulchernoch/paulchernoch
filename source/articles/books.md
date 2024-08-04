@@ -1,6 +1,6 @@
 ---
 title: Books by Paul Anton Chernoch
-quote: "Of making many books there is no end,<br/>and much study is a weariness of the flesh."<br/> - King Solomon
+quote: Of making many books there is no end,<br/>and much study is <br/> a weariness of the flesh.<br/> - King Solomon
 ---
 I wrote a bunch of books. Here is what they are about and where you can buy them. All are available as e-books. Most are also available in paperback.
 

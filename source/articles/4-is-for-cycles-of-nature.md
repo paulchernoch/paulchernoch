@@ -1,6 +1,6 @@
 ---
 title: 4 is for Cycles of Nature
-quote: “As long as the earth endures,<br/>seedtime and harvest, cold and heat,<br/>summer and winter, day and night<br/>will never cease.” - Genesis 8:22
+quote: As long as the earth endures,<br/>seedtime and harvest, cold and heat,<br/>summer and winter, day and night<br/>will never cease. - Genesis 8:22
 ---
 The number four occurs often in the Bible, just like three and seven. There are:
 

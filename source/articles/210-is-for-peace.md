@@ -1,6 +1,6 @@
 ---
 title: 210 is for Peace
-quote: And after this Job lived 140 years, and saw <br/> his sons, and his sons' sons, four generations. <br/> And Job died, an old man, and full of days. <br/> - Job 42:16-17
+quote: And after this Job lived 140 years, <br/>  and saw his sons, and his sons' sons, <br/> four generations. And Job died, <br/> an old man, and full of days. - Job 42:16-17
 ---
 Job lived to be **two hundred ten (210)** years old. Extra-biblical sources affirm this, but we can infer it from Scripture. After Job’s trials ended, God gave him twice as much as he lost. Since the Lord extended his life by one hundred forty years, he must have been seventy at the time when God appeared to him. Adding a hundred forty to seventy yields two hundred ten.
 

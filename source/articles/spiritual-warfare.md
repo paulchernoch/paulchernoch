@@ -1,6 +1,6 @@
 ---
 title: Spiritual Warfare
-quote: For our struggle is not against <br/> flesh and blood, but against... <br/> the spiritual forces of evil in <br/> the heavenly realms. - Ephesians 6:12ac
+quote: For our struggle is not against <br/> flesh and blood, but against... <br/> the spiritual forces of evil <br/> in the heavenly realms. - Ephesians 6:12ac
 ---
 
 <div class="sections">

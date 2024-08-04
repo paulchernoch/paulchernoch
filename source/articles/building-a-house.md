@@ -1,6 +1,6 @@
 ---
 title: Building a House
-quote: If the serpent bites before it is charmed, <br/> there is no advantage to the charmer. <br/> - Ecclesiastes 10:11
+quote: If the serpent bites <br/> before it is charmed, <br/> there is no advantage to the charmer. <br/> - Ecclesiastes 10:11
 ---
 How many times can a person read Ecclesiastes 10 and not notice what metaphor the author is using?
 In my case, many! The following passage has two riddles:

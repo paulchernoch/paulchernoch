@@ -1,6 +1,6 @@
 ---
 title: Empire Clocks
-quote: The kingdom of the world has become <br/> the kingdom of our Lord and of his Christ <br/> and he shall reign forever and ever. <br/> Revelation 11:15b
+quote: The kingdom of the world has become <br/> the kingdom of our Lord <br/> and of his Christ <br/> and he shall reign forever and ever. <br/> - Revelation 11:15b
 ---
 <img class="center" src="images/nine-empires.png" />
 

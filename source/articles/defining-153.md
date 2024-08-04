@@ -1,6 +1,6 @@
 ---
 title: Defining 153
-quote: and in the seventh month, <br/> on the seventeenth day of the month, <br/> the ark came to rest on the mountains of Ararat. <br/> - Genesis 8:4
+quote: and in the seventh month, <br/> on the seventeenth day of the month, <br/> the ark came to rest <br/> on the mountains of Ararat. <br/> - Genesis 8:4
 ---
 <img class="center" src="images/153-triangular.png" />
 

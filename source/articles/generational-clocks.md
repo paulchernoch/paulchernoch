@@ -1,6 +1,6 @@
 ---
 title: Generational Clocks
-quote: The counsel of the Lord stands forever, <br/> the plans of his heart to all generations. <br/> - Psalm 33:11
+quote: The counsel of the Lord stands forever, <br/> the plans of his heart <br/> to all generations. <br/> - Psalm 33:11
 ---
 <img class="center" src="images/relay-race.png" alt="Relay race with stopwatch" />
 

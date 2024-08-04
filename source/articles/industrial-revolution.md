@@ -1,6 +1,6 @@
 ---
 title: The Fifth Trumpet and the Industrial Revolution
-quote: from the shaft rose smoke like the smoke <br/> of a great furnace, and the sun and <br/> the air were darkened with the smoke <br/> from the shaft. - Revelation 9:2b
+quote: from the shaft rose smoke like <br/> the smoke of a great furnace, <br/> and the sun and the air <br/> were darkened with the smoke <br/> from the shaft. - Revelation 9:2b
 ---
 <div class="sections">
 

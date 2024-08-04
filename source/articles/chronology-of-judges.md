@@ -1,6 +1,6 @@
 ---
 title: The Chronology of Judges
-quote: In those days there was no king in Israel. <br/> Everyone did what was right in his own eyes. </br> - Judges 21:25
+quote: In those days there was <br/> no king in Israel. <br/> Everyone did what was <br/> right in his own eyes. </br> - Judges 21:25
 ---
 This article is a distillation of the reasoning set forth in two chapters of *Plague, Precept, Prophet, Peace*. 
 The chapters are titled "Job’s Anti-jubilee Clock, Defined" and "Prophecies from Abraham to David: Job 1-20".

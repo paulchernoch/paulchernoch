@@ -1,6 +1,6 @@
 ---
 title: "Psalm 107: Where is the Love?"
-quote: He brought them out of darkness and the shadow of death, <br/> and burst their bonds apart. <br/> - Psalm 107:14
+quote: He brought them out of darkness <br/> and the shadow of death, <br/> and burst their bonds apart. <br/> - Psalm 107:14
 ---
 <img class="center" src="images/clipper-ship.png" />
 
