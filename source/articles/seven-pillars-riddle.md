@@ -1,5 +1,6 @@
 ---
 title: What are the Seven Pillars of Wisdom?
+quote: She has sent out her <br/> young women to call from <br/> the highest places in the town <br/> - Proverbs 9:3
 ---
 Proverbs uses an image that has spawned debate for millennia, a house with seven pillars.
 
