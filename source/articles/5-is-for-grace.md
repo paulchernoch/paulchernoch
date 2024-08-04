@@ -1,6 +1,6 @@
 ---
 title: 5 is for Grace
-quote: "But Noah found favor in the eyes of the Lord."<br/> - Genesis 6:8
+quote: But Noah found favor <br/> in the eyes of the Lord. <br/> - Genesis 6:8
 ---
 <img class="center" src="images/grace-blocks.png" alt="Five toy blocks spelling GRACE"/>
 

@@ -1,6 +1,6 @@
 ---
 title: 40 is for Suffering
-quote: Then Jesus was led up by the Spirit into the wilderness<br/>to be tempted by the devil. And after fasting<br/>forty days and forty nights, he was hungry.<br/> - Matthew 4:1-2
+quote: Then Jesus was led up by the Spirit <br/> into the wilderness to be tempted <br/> by the devil. And after fasting<br/>forty days and forty nights, <br/> he was hungry. - Matthew 4:1-2
 ---
 Forty is an extreme number. 
 

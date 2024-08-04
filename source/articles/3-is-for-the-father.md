@@ -1,6 +1,6 @@
 ---
 title: 3 is for the Father
-quote: “ ‘Holy, holy, holy is the Lord God Almighty,’<br/>who was, and is, and is to come.”<br/> - Revelation 4:8
+quote: Holy, holy, holy is <br/> the Lord God Almighty, <br/> who was, and is, and is to come. <br/> - Revelation 4:8
 ---
 
 ## Completeness

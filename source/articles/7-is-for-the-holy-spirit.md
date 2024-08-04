@@ -1,6 +1,6 @@
 ---
 title: 7 is for the Holy Spirit
-quote: The words of the Lord are pure words,<br/>like silver refined in a furnace on the ground,<br/>purified seven times.<br/>- Psalm 12:6
+quote: The words of the Lord are pure words,<br/>like silver refined <br/> in a furnace on the ground, <br/> purified seven times. <br/> - Psalm 12:6
 ---
 ## The Fourth Most Common Number
 

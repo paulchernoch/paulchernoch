@@ -1,6 +1,6 @@
 ---
 title: 17 is for Victory
-quote: and on the seventeenth day of the seventh month<br/>the ark came to rest on the mountains of Ararat.<br/> - Genesis 8:4
+quote: and on the seventeenth day <br/> of the seventh month <br/> the ark came to rest <br/> on the mountains of Ararat. <br/> - Genesis 8:4
 ---
 This number speaks of conflict and victory. If seven is divine completeness and ten is human completeness, what is seventeen?
 

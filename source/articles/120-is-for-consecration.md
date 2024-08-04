@@ -1,6 +1,6 @@
 ---
 title: 120 is for Consecration
-quote: Then [the Queen of Sheba] gave [King Solomon] <br/> 120 talents of gold, and ... spices and precious stones. <br/> Never again came such an abundance... <br/> - 1 Kings 10:10
+quote: Then [the Queen of Sheba] gave <br/> [King Solomon] 120 talents of gold, <br/> and ... spices and precious stones. <br/> Never again came such an abundance... <br/> - 1 Kings 10:10
 ---
 The number One hundred twenty (120) is of first importance, yet presents contradictory meanings. From its obvious factoring we get:
 
