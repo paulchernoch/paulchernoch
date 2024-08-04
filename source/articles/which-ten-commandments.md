@@ -1,5 +1,6 @@
 ---
 title: Which Ten Commandments?
+quote: The end of the matter; <br/> all has been heard. <br/> Fear God and keep his commandments, <br/> for this is the whole duty of man. <br/> - Ecclesiastes 12:13
 ---
 <img class="center" src="images/moses-with-ten-commandments.png" alt="Moses with the Ten Commandments"/>
 
