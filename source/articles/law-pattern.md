@@ -1,6 +1,6 @@
 ---
 title: The Law Pattern of Moses
-quote: I am the Lord your God, <br/> who brought you out of the land of Egypt, <br/> out of the house of slavery. <br/> - Exodus 20:2
+quote: I am the Lord your God, <br/> who brought you <br/>out of the land of Egypt, <br/> out of the house of slavery. <br/> - Exodus 20:2
 ---
 <img class="center" src="images/perfect-justice.png" alt="Perfect justice"/>
 
