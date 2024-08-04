@@ -1,6 +1,6 @@
 ---
 title: Dreams
-quote: For when dreams increase and words grow many, <br/> there is vanity; <br/> but God is the one you must fear. <br/> - Ecclesiastes 5:7
+quote: For when dreams increase <br/> and words grow many, <br/> there is vanity; <br/> but God is the one you must fear. <br/> - Ecclesiastes 5:7
 ---
 
 <img class="center" src="images/tornado-dream.png" />
