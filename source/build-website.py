@@ -238,7 +238,7 @@ def load_articles(config: dict, sitemap: dict, found = {}, missing: list[str] = 
     sitemap['found'] = True
     sitemap['words'] = load_and_convert_article(source_path)
 
-  get_all_citations(sitemap['words'], sitemap['target'], sitemap['title'], CITATIONS)
+  get_all_citations(sitemap['words'], sitemap['link'], sitemap['title'], CITATIONS)
 
   add_metadata(sitemap, sitemap['words'])
 
@@ -444,6 +444,7 @@ def apply_template(template: str, sitemap: dict, title: str) -> str:
         new PagefindUI({ element: "#search", showSubResults: true });
     });
 </script>
+<p><a href="scripture-index">Scripture Index</a></p>
 '''
     page = replace_macro("FOOTER", searchbar, page)
   else:
@@ -760,7 +761,7 @@ def format_citations(citations: dict) -> str:
 
   for book in books:
     if book in citations:
-      citation_html += f'  <details class="citations">\n'
+      citation_html += f'  <details class="citations article">\n'
       citation_html += f'    <summary><h2>{book}</h2></summary>\n'
       citation_html += f'      <p><ul>\n'
       book_citations = citations[book]
