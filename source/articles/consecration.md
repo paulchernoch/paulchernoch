@@ -1,7 +1,7 @@
 ---
 title: Consecration
 sub: Models of Ordination
-quote: And in all the land there were <br/> no women so beautiful as Job's daughters. <br/> And their father gave them an <br/> inheritance among their brothers. <br/> - Job 42:15
+quote: And in all the land there were no <br/> women so beautiful as Job's daughters. <br/> And their father gave them an <br/> inheritance among their brothers. <br/> - Job 42:15
 ---
 The Bible offers several models for ordination. They confer an honor given by God, not men.
 

@@ -12,6 +12,8 @@ try:
 except ImportError:
     from yaml import Loader, Dumper
 
+CITATIONS = {}
+
 '''
 
 This program is a static website generator. It converts a source directory tree containing
@@ -219,6 +221,7 @@ def add_metadata(sitemap: dict, html: str):
 # Also set the output HTML file path as 'target' 
 # and the relative link path for hyper links fro the TOC to 'link'.
 def load_articles(config: dict, sitemap: dict, found = {}, missing: list[str] = []) -> tuple[dict,list[str]]:
+  global CITATIONS
   source_file = sitemap['named']
   target_file = re.sub("[.]md", ".html", source_file)
   source_path = join(config['articles'], sitemap['named'])
@@ -234,6 +237,8 @@ def load_articles(config: dict, sitemap: dict, found = {}, missing: list[str] = 
     found[sitemap['named']] = source_path
     sitemap['found'] = True
     sitemap['words'] = load_and_convert_article(source_path)
+
+  get_all_citations(sitemap['words'], sitemap['target'], sitemap['title'], CITATIONS)
 
   add_metadata(sitemap, sitemap['words'])
 
@@ -386,7 +391,7 @@ def build_toc_helper(page_record: dict, indent: int) -> str:
 #   - $ARTICLE_SUBTITLE$ will be replaced by the article subtitle if present, or blanked if not
 #   - $ARTICLE_SYNOPSIS$ will be replaced by the article synopsis if present, or blanked if not
 #   - $ARTICLE_DATE$ will be replaced by the publication date if present, or blanked if not
-#   - $FOOTER$ will be replaced with the article footer if present, or blanked if not
+#   - $FOOTER$ will be replaced with the article footer if present, or a searchbar if not
 #   - $QUOTE$ will be replaced by a pull quote if present, or blanked if not
 def apply_template(template: str, sitemap: dict, title: str) -> str:
   select_node(sitemap, title)
@@ -510,8 +515,269 @@ def build_action(config, sitemap) -> bool:
 
   # Create articles and write them to the build directory.
   write_articles(config, sitemap)
+
+  # Write out the Scripture index
+  index_filename = join(config['build'], f'scripture-index.html')
+  write_citations(CITATIONS, index_filename)
+
   return True
 
+#####################################
+#                                   #
+#    Index of Bible Citations       #
+#                                   #
+#####################################
+
+
+def has_citation_for(text: str, book: str, chapter) -> bool:
+  '''
+  Test if the given text contains a Bible citation for the given book and chapter.
+  This does not recognize abbreviations of Bible books.
+  '''
+  pattern = f"{book} ({chapter}|[-0-9,;: ]+[^0-9]{chapter})"
+  match = re.search(pattern, text)
+  return bool(match)
+
+def all_books() -> list[str]:
+  return [
+    'Genesis',
+    'Exodus',
+    'Leviticus',
+    'Numbers',
+    'Deuteronomy',
+    'Joshua',
+    'Judges',
+    'Ruth',
+    '1 Samuel',
+    '2 Samuel',
+    '1 Kings',
+    '2 Kings',
+    '1 Chronicles',
+    '2 Chronicles',
+    'Ezra',
+    'Nehemiah',
+    'Esther',
+    'Job',
+    'Psalms',
+    'Proverbs',
+    'Ecclesiastes',
+    'Song of Solomon',
+    'Isaiah',
+    'Jeremiah',
+    'Lamentations',
+    'Ezekiel',
+    'Daniel',
+    'Hosea',
+    'Joel',
+    'Amos',
+    'Obadiah',
+    'Jonah',
+    'Micah',
+    'Nahum',
+    'Habakkuk',
+    'Zephaniah',
+    'Haggai',
+    'Zechariah',
+    'Malachi',
+    'Matthew',
+    'Mark',
+    'Luke',
+    'John',
+    'Acts',
+    'Romans',
+    '1 Corinthians',
+    '2 Corinthians',
+    'Galatians',
+    'Ephesians',
+    'Philippians',
+    'Colossians',
+    '1 Thessalonians',
+    '2 Thessalonians',
+    '1 Timothy',
+    '2 Timothy',
+    'Titus',
+    'Philemon',
+    'Hebrews',
+    'James',
+    '1 Peter',
+    '2 Peter',
+    '1 John',
+    '2 John',
+    '3 John',
+    'Jude',
+    'Revelation'
+  ]
+
+def book_chapter_counts() -> dict:
+  return {
+    'Genesis': 50,
+    'Exodus': 40,
+    'Leviticus': 27,
+    'Numbers': 36,
+    'Deuteronomy': 34,
+    'Joshua': 24,
+    'Judges': 21,
+    'Ruth': 4,
+    '1 Samuel': 31,
+    '2 Samuel': 24,
+    '1 Kings': 22,
+    '2 Kings': 25,
+    '1 Chronicles': 29,
+    '2 Chronicles': 36,
+    'Ezra': 10,
+    'Nehemiah': 13,
+    'Esther': 10,
+    'Job': 42,
+    'Psalms': 150,
+    'Proverbs': 31,
+    'Ecclesiastes': 12,
+    'Song of Solomon': 8,
+    'Isaiah': 66,
+    'Jeremiah': 52,
+    'Lamentations': 5,
+    'Ezekiel': 48,
+    'Daniel': 12,
+    'Hosea': 14,
+    'Joel': 3,
+    'Amos': 9,
+    'Obadiah': 1,
+    'Jonah': 4,
+    'Micah': 7,
+    'Nahum': 3,
+    'Habakkuk': 3,
+    'Zephaniah': 3,
+    'Haggai': 2,
+    'Zechariah': 14,
+    'Malachi': 4,
+    'Matthew': 28,
+    'Mark': 16,
+    'Luke': 24,
+    'John': 21,
+    'Acts': 28,
+    'Romans': 16,
+    '1 Corinthians': 16,
+    '2 Corinthians': 13,
+    'Galatians': 6,
+    'Ephesians': 6,
+    'Philippians': 4,
+    'Colossians': 4,
+    '1 Thessalonians': 5,
+    '2 Thessalonians': 3,
+    '1 Timothy': 6,
+    '2 Timothy': 4,
+    'Titus': 3,
+    'Philemon': 1,
+    'Hebrews': 13,
+    'James': 5,
+    '1 Peter': 5,
+    '2 Peter': 3,
+    '1 John': 5,
+    '2 John': 1,
+    '3 John': 1,
+    'Jude': 1,
+    'Revelation': 22
+  }
+
+def get_all_citations(text: str, filename: str, title: str, citations = {}) -> dict:
+  '''
+  Find all citations to all Bible books in the given text and add them to the 
+  collection of citations collected so far.
+  The citation will include the file name and the document title for the source text.
+
+  The structure of the data is:
+    - first level dict where the key is the name of a Bible book
+    - value is a second level dict where the key is an integer chapter number
+    - value of the second level dict is a list of citations
+    - the citations are third level dicts with the keys 'filename' and 'title'
+    - the 'filename' is the name of the HTML file that has the Bible reference
+    - the 'title' is the title of the document.
+
+  The filename and title will later be used to make HTML hyperlinks.
+  '''
+  books = all_books()
+  chapters = book_chapter_counts()
+
+  for book in books:
+    if book not in citations:
+      book_citations = {}
+    else:
+      book_citations = citations[book]
+    
+    any_citations_for_book = False
+    max_chapter = chapters[book]
+    for chapter in range(1,max_chapter+1):
+      if has_citation_for(text, book, chapter):
+        any_citations_for_book = True
+        if chapter not in book_citations:
+          book_citations[chapter] = []
+        book_chapter_citations = book_citations[chapter]
+        book_chapter_citations.append({
+          'filename': filename,
+          'title': title
+        })
+    # Only add an entry for a book if there is at least one citation to that book.
+    if any_citations_for_book:
+      citations[book] = book_citations
+
+  return citations
+
+def citation_page_head():
+  template = '''
+<!DOCTYPE html>
+<head>
+  <!--from template: default-page.html -->
+  <title>Scripture Index</title>
+  <link rel="stylesheet" href="./styles/tree.css" type="text/css">
+  <link rel="stylesheet" href="./styles/toc.css" type="text/css">
+  <link rel="stylesheet" href="./styles/article.css" type="text/css">
+  <!-- Font Awesome supplies the icons used in the TOC -->
+  <script src="https://kit.fontawesome.com/ecadd7b212.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="./styles/page.css" type="text/css">
+
+</head>
+'''
+  return template
+
+def format_citations(citations: dict) -> str:
+  '''
+  Format citations that were generated by get_all_citations as HTML, with 
+  hyperlinks to every document that has a Bible citation.
+  '''
+  books = all_books()
+  chapters = book_chapter_counts()
+  citation_html = citation_page_head()
+  citation_html += '''
+<html>
+<body>
+  <div class="citations">
+    <h1>Index of Scriptures Referenced</h1>
+'''
+
+  for book in books:
+    if book in citations:
+      citation_html += f'  <h2>{book}</h2>\n'
+      citation_html += f'    <ul>\n'
+      book_citations = citations[book]
+      for chapter in range(1,chapters[book]+1):
+        if chapter in book_citations:
+          book_chapter_citations = book_citations[chapter]
+          citation_html += f'      <li>Chapter {chapter}\n        <ul>\n'
+          for citation in book_chapter_citations:
+            file = citation['filename']
+            title = citation['title']
+            citation_html += f'          <li><a href="{file}">{title}</a></li>\n'
+          citation_html += f'        </ul>\n      </li>\n'
+      citation_html += f'    </ul>\n'
+  citation_html += '</div>\n'
+  citation_html += '</body>\n</html>\n'
+  return citation_html
+
+def write_citations(citations: dict, filename: str):
+  html = format_citations(citations)
+  with open(filename, 'w') as f:
+    f.write(html)
+
+###################
 
 if __name__ == '__main__':
   action = sys.argv[1] if len(sys.argv) > 1 else "check"
