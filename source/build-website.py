@@ -753,21 +753,28 @@ def format_citations(citations: dict) -> str:
     <h1>Index of Scriptures Referenced</h1>
 '''
 
+  # <details class="scripture">
+  #     <summary><h2>Book name</h2></summary>
+  #     <p>This is the text that will show when you click on the summary text</p>
+  # </details>
+
   for book in books:
     if book in citations:
-      citation_html += f'  <h2>{book}</h2>\n'
-      citation_html += f'    <ul>\n'
+      citation_html += f'  <details class="citations">\n'
+      citation_html += f'    <summary><h2>{book}</h2></summary>\n'
+      citation_html += f'      <p><ul>\n'
       book_citations = citations[book]
       for chapter in range(1,chapters[book]+1):
         if chapter in book_citations:
           book_chapter_citations = book_citations[chapter]
-          citation_html += f'      <li>Chapter {chapter}\n        <ul>\n'
+          citation_html += f'        <li>Chapter {chapter}\n        <ul>\n'
           for citation in book_chapter_citations:
             file = citation['filename']
             title = citation['title']
-            citation_html += f'          <li><a href="{file}">{title}</a></li>\n'
-          citation_html += f'        </ul>\n      </li>\n'
-      citation_html += f'    </ul>\n'
+            citation_html += f'            <li><a href="{file}">{title}</a></li>\n'
+          citation_html += f'          </ul>\n        </li>\n'
+      citation_html += f'      </ul></p>\n'
+      citation_html += f'  </summary>\n'
   citation_html += '</div>\n'
   citation_html += '</body>\n</html>\n'
   return citation_html
