@@ -774,7 +774,8 @@ def format_citations(citations: dict) -> str:
             citation_html += f'            <li><a href="{file}">{title}</a></li>\n'
           citation_html += f'          </ul>\n        </li>\n'
       citation_html += f'      </ul></p>\n'
-      citation_html += f'  </summary>\n'
+      citation_html += f'    </summary>\n'
+      citation_html += f'  </details>\n'
   citation_html += '</div>\n'
   citation_html += '</body>\n</html>\n'
   return citation_html
