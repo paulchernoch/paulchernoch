@@ -444,7 +444,7 @@ def apply_template(template: str, sitemap: dict, title: str) -> str:
         new PagefindUI({ element: "#search", showSubResults: true });
     });
 </script>
-<p><a href="scripture-index">Scripture Index</a></p>
+<p><a href="scripture-index.html"><h2>Scripture Index</h2></a></p>
 '''
     page = replace_macro("FOOTER", searchbar, page)
   else:
