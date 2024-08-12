@@ -154,20 +154,32 @@ and asked a sincere question, the beginning of an answer came to me over the cou
 That gave me the tools and motivation to search for the rest of the answer.
 
 The core of the answer is in Job, the first book of the Bible to be written. God caused the middle chapter 
-of the Old Testament to be Job 29. That means that His daughters are close to God's heart.
-And what is the middle verse of that chapter?
+of the Old Testament to be Job 29. And what is the middle verse of that chapter?
 
 #### The one who was dying blessed me;
 ##### **I made the widow’s heart sing.**
 ###### - Job 29:13
 
-Widows were and are among the most vulnerable of people, without someone to protect them from harm.
-God sent his greatest prophets to help widows.
+That means that God's daughters are close to His heart. Widows were and are among the most vulnerable of people, 
+without someone to protect them from harm. God sent his greatest prophets to help widows.
 
 Important parts of the answer also appear at the proper place (according to the prophetic clocks in those books) 
 in Proverbs, Song of Songs, Ecclesiastes, Psalms, Matthew, and Revelation. Once you see the evidence,
-you will see that it is only because of the hardness of our hearts that we have for so long been unable to see
+you will realize that it is only because of the hardness of our hearts that we have for so long been unable to grasp
 the plain meaning of what is written.
+
+I wrestled with what is the logical order to present the information to follow.
+Then I decided that I am tired of logic. As I meditated on the subject before sitting down before my keyboard,
+one of the ideas from my books multiplied like bunnies. (There is a bunny chewing on my lawn thirty feet from 
+where I am sitting on my patio.) Before, I had found a single political entity whose progress through history
+followed the Motherhood pattern. Now I know of at least four. Seeing something new is exciting, so I am
+going with exciting instead of logical.
+
+## World History as the Literal Birth of Empires
+
+<img class="wide" src="images/six-motherhood-patterns.png" alt="Table of Six Civilizations"/>
+
+
 
 ## Spirit-Filled Women
 
@@ -188,9 +200,7 @@ the plain meaning of what is written.
 
 
 
-## World History as the Literal Birth of Empires
-
-
+## Women do not Suffer for Naught
 
 
 
