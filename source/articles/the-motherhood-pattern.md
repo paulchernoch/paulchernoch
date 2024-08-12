@@ -172,12 +172,77 @@ I wrestled with what is the logical order to present the information to follow.
 Then I decided that I am tired of logic. As I meditated on the subject before sitting down before my keyboard,
 one of the ideas from my books multiplied like bunnies. (There is a bunny chewing on my lawn thirty feet from 
 where I am sitting on my patio.) Before, I had found a single political entity whose progress through history
-followed the Motherhood pattern. Now I know of at least four. Seeing something new is exciting, so I am
+followed the Motherhood pattern: the Church. Now I know of at least six! Seeing something new is exciting, so I am
 going with exciting instead of logical.
 
 ## World History as the Literal Birth of Empires
 
 <img class="wide" src="images/six-motherhood-patterns.png" alt="Table of Six Civilizations"/>
+
+Just as a woman gives birth to a child, so does one civilization give birth to another.
+Before the last few years, that truism would have been as trite and meaningless to me as to most people.
+It tells you nothing about how to live, to plan, or to understand this world. 
+It tells you nothing but it could tell you everything *if you look close enough*.
+
+When I wrote *Peace, like Solomon Never Knew*, I discovered things that turned my view of history upside down:
+
+  1. The poem in Ecclesiastes 3 is a parable consisting of many metaphors that describe the course of a human life from birth to maturity in twenty-eight steps constituting seven phases, the [Growth Pattern](./growth-pattern.html).
+  2. The last few chapters of Ecclesiastes continue the pattern on through middle age to the times of physical and mental decline and death.
+  3. The poem is a parable for the development of spiritual Israel into the Church, then follows the church until it reaches full maturity in the faith.
+  4. The church is eternal; it will not decline and die. Only the twenty-eight times ending in "a time for peace"  affect it.
+  5. The world with its many cultures and other religions is not eternal; it will decline and die.
+  6. Thus the world's twenty-eight times must be extended to include another fourteen times (of shorter duration)  to bring it through middle age to its inevitable fall.
+
+Finding Solomon's Celestial Clock (for Israel and the Church) and the Grand Father Clock (for the whole world)
+was exciting. They interpreted the times as they apply to men. Many of the times have an alternate meaning
+when applied to women. For example, for men, "a time to tear" is a disagreement that must be resolved 
+or even a civil war. For women, "a time to tear" is the day that she delivers her child.
+
+When I later found the Motherhood pattern, I saw that it could also be applied to the Church.
+When you do this, it shows that the Protestant Reformation was a time to tear, when the 
+Roman Catholic Church gave birth to the Protestant Church. It also triggered a Civil war. 
+Both the masculine and feminine meanings apply.
+
+This past week, I discovered six examples of civilizations giving birth in this way.
+That is not the surprising part. What shocked me was that even though each of these parent 
+civilizations began at different times and lasted different numbers of years, the numerical 
+ratios between each phase of growth and the whole remains constant. God has literally stretched out the
+history of these empires or cultural entities from his template and cut them to size.
+This perfection in proportion proves that there is a divine ordering to history.
+Knowledge if this divine ordering may only be found in the Bible, in the pages of its wisest scholar and king,
+Solomon.
+
+The table heading this section maps the historical time periods to empires, to historical events,
+to Solomon's times, and by the colors in the left column, to key phases in a woman's development.
+These are the empires:
+
+  - **The World**. This encompasses all of human history.
+  - **Rome**. This follows Rome through its existence as kingdom, republic and empire.
+  - **Europe**. From the ashes of the Western Roman Empire rose a combative confederacy of nations, Catholic Christendom. This was a marriage of Church and state, neither pure empire nor pure church.
+  - **Protestantism**. Torn from Catholic Europe's belly by Reformation and revolution, a new religio-political entity arose. This was and is a different mixture of politics and religion.
+  - **Modern Israel**. The Jewish people were ripped from Europe by a Caesarian section during the Nazi Holocaust.
+  - **Spiritual Israel (including the Church)**. This is the true Kingdom of God, not identified with any human political entity and composed of all true believers down through history.
+
+Of the six entities above, five are mortal. They will come to an end. That includes the Roman Catholic Church and political Protestantism (such as what once governed the United States and many other nations). Only the true church will last for eternity. It will be fully manifested as a perfected visible and political entity only when Christ returns.
+
+To understand the table, first a word about the most dramatic phases of a woman's life:
+
+  - Birth (a time to be born)
+  - Puberty (varies, but falls during the times to weep or laugh)
+  - Marriage (often during a time to mourn)
+  - Pregnancy (often during a time to dance)
+  - Childbirth (a time to tear)
+  - Post Partum recovery (a time to mend)
+  - death
+
+Each of those life phases maps to a critical development in the history of an empire or cultural 
+entity. In the table, birth is colored green, puberty blue, marriage and pregnancy pink, 
+childbirth and recovery orange, and death red. Most cells in the table are left blank, to 
+emphasize the events that match these key phases. If you are curious about what goes in the missing cells, 
+every one of the times of Solomon is matched to a historical event for the whole of world history 
+in the chapter "A Grand Father Clock & a Silver Cord", summarized in 
+[Celestial Clocks](./celestial-clocks.html). Israel and the Church are similarly treated
+in multiple chapters and summarized in the same article.
 
 
 
