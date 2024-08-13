@@ -275,9 +275,9 @@ They are not representative, they are special. One way they are special is how t
 
 <img class="wide" src="images/birth-of-empires.png" alt="Birth of Empires"/>
 
-In the diagram above, you can see a chain of each civilization giving birth to the next.
-Broad humanity produced Rome, whose partial collapse produced a decentralized Europe. Europe in turn
-gave birth to the Protestant Church, which in turn helped pave the way for the creation of Modern Israel.
+In the diagram above, you can see a chain of civilizations, with each giving birth to the next.
+Broad humanity produced Rome, whose partial collapse in 476 AD produced a decentralized Europe. Europe in turn
+gave birth to the Protestant Church and cooperative democratic nations like the USA, which in turn helped pave the way for the creation of Modern Israel.
 
 In a second track, taking Israel and the Church as a single entity (an Olive tree with natural branches 
 and wild branches grafted in), you find a second parent to the Protestant Church.
@@ -285,10 +285,30 @@ and wild branches grafted in), you find a second parent to the Protestant Church
 No child is shown for Modern Israel. I doubt there will be one. Even if there is, it is in the future and 
 I have no clue what it might be.
 
-Now for some of the finer points of the earlier table.
+Now for some of the finer points of the earlier table. Each of the six civilizations passed through times 
+that match the key transformational events of the Motherhood Pattern. Let's explain why the historical events 
+are fitting realizations of parts of the pattern.
 
-**Exploring the Six Civilizations**.
+**Birth**. Birth is the easiest to match.
 
+  - *The World* began with the Creation and Fall of Mankind. My best estimate for that event is 4020 BC, as worked out in [Dating the Creation](./dating-the-creation.html).
+  - *Rome* began with the founding of the city of Rome, traditionally given as 753 BC.
+  - *Europe*? When did the idea of *"Europe"* begin? You will not get historians to agree on a date. I chose 476 AD, the year of the fall of Rome, because after that there would be no turning back to the Rome that was before. Many linguistic, cultural, legal and religious traditions persisted to bring a measure of unity to the region, but not the strong central government of the empire. A new and combative community of nations arose. This decentralized civilization was a new development in the history of the world.
+  - *Protestantism* as a religious idea began when Luther posted his ninety-five theses on the door of a church in 1517 AD, but that is not the date used here. Protestantism as a political force got its start with a series of events. One was Luther's "Open Letter to the Christian Nobility of the German Nation Concerning the Reform of the Christian Estate" of 1520, urging German princes to take up arms, defend Protestant truths and enable their subjects to practice them freely. Another was Sweden's adoption of Lutheranism in 1527, making it the first nation to become Protestant. Yet between public statements and political action, the true birth of the movement was when a single man stood apart from the church, calling for it to reform. In 1521, Luther was excommunicated from the Roman Catholic Church. The new church started as a church of one.
+  - *Modern Israel* was founded in 1948 AD as sanctioned by the new United Nations. The Jewish people who built this new nation did not do so in a vacuum, nor did they rely solely upon truths derived from their ancient faith. Much of how they structured their society and shaped their culture passed to them from the West, for better or for worse.
+  - *Israel and the Church* are politically distinct but the latter is the spiritual continuation of the former. I chose as its start neither the birth of Abraham, nor Isaac, nor Moses, nor David. Instead, I chose the dedication of the temple in Jerusalem by Solomon in 960 BC. I wrote a whole book about why, but that is when Solomon's Celestial clock begins. God came down and filled the temple with His glory. Unlike the other civilizations, this was not birthed from a preceding corrupt human civilization. This civilization was born of God and will never end.
+
+**Puberty**. When a man or woman reaches this time of life, big changes occur. They are emotional, intellectual and biological. When a civilization reaches this point in its development (in the times to weep and laugh), it 
+often experiences a sharp discontinuity. The changes can be violent.
+
+  - *The World*. About a century prior to the Flood of Noah (matching a time to weep), it says in Genesis 6 that the Sons of God fell for the daughters of man. Some people think fallen angels cohabited with human women to produce a race of giants, the Nephilim. A likelier explanation is that men from the godly line of Seth intermarried with daughters from the sinful line of Cain, ruining the morals of Seth's descendants. This is in keeping with the theme of puberty: uncontrollable urges in the hearts of young people that if not checked by parents and society can ruin their lives. The next era (a time to laugh) was no laughing matter. God sent the flood. The world that resulted was as complete a break from the past as is possible to imagine. It included the establishment of capital punishment for murder, the beginnings of government.
+  - *Rome*. When Rome reached the puberty stage, its lust was not for women but for territory. The Punic Wars and the Roman-Seleucid War (plus other conflicts in this era) elevated the Roman Republic, making it the undisputed ruler of the Mediterranean.
+  - *Europe*. The *Saeculum obscurum* or "Rule of the Harlots" of the Tenth Century AD was a dark period for the Catholic Church. Instigated by Marozia and Theodora, literal sexual immorality, seduction, and the sale of church offices completely corrupted the church's leadership.
+  - *Protestantism*. The Pietism Movement of the 17th and early 18th centuries took "a time to weep" literally. The Holy Spirit revived the church, causing people to weep uncontrollably as they faced the guilt of their sins and pleaded with God for salvation. This was one of the roots of Evangelicalism.
+  - *Israel*. Modern Israel is in "a time to weep" right now. They mourn the dead, disfigured, injured, and raped victims of the despicable barbarism of Hamas, committed on October 7 and 8, 2023. May God have mercy on the souls of the dead and bring the wicked to justice. Pray for the peace of Jerusalem.
+  - *Israel and the Church*. The time to weep was the crucifixion of Jesus Christ. The time to laugh was the growth of the infant church. At this time, how people understood and related to God underwent a cataclysmic change, just like a child passing through puberty to become an adult.
+
+*Marriage and Conception*. 
 
 ## Spirit-Filled Women
 
