@@ -203,13 +203,13 @@ When you do this, it shows that the Protestant Reformation was a time to tear, w
 Roman Catholic Church gave birth to the Protestant Church. It also triggered a Civil war. 
 Both the masculine and feminine meanings apply.
 
-This past week, I discovered six examples of civilizations giving birth in this way.
+**Six Civilizations**. This past week, I discovered six examples of civilizations giving birth in this way.
 That is not the surprising part. What shocked me was that even though each of these parent 
 civilizations began at different times and lasted different numbers of years, the numerical 
 ratios between each phase of growth and the whole remains constant. God has literally stretched out the
 history of these empires or cultural entities from his template and cut them to size.
 This perfection in proportion proves that there is a divine ordering to history.
-Knowledge if this divine ordering may only be found in the Bible, in the pages of its wisest scholar and king,
+Knowledge of this divine ordering may only be found in the Bible, in the pages of its wisest scholar and king,
 Solomon.
 
 The table heading this section maps the historical time periods to empires, to historical events,
@@ -225,25 +225,69 @@ These are the empires:
 
 Of the six entities above, five are mortal. They will come to an end. That includes the Roman Catholic Church and political Protestantism (such as what once governed the United States and many other nations). Only the true church will last for eternity. It will be fully manifested as a perfected visible and political entity only when Christ returns.
 
-To understand the table, first a word about the most dramatic phases of a woman's life:
+**Life Changing Events**. To understand the table, first a word about the most dramatic phases of a woman's life:
 
   - Birth (a time to be born)
   - Puberty (varies, but falls during the times to weep or laugh)
   - Marriage (often during a time to mourn)
-  - Pregnancy (often during a time to dance)
+  - Conception (often during a time to dance)
   - Childbirth (a time to tear)
   - Post Partum recovery (a time to mend)
-  - death
+  - Death
 
 Each of those life phases maps to a critical development in the history of an empire or cultural 
 entity. In the table, birth is colored green, puberty blue, marriage and pregnancy pink, 
 childbirth and recovery orange, and death red. Most cells in the table are left blank, to 
-emphasize the events that match these key phases. If you are curious about what goes in the missing cells, 
-every one of the times of Solomon is matched to a historical event for the whole of world history 
+emphasize the remaining events, those that match these key phases. If you are curious about what goes in the 
+missing cells, every one of the times of Solomon is matched to a historical event for the whole of world history 
 in the chapter "A Grand Father Clock & a Silver Cord", summarized in 
 [Celestial Clocks](./celestial-clocks.html). Israel and the Church are similarly treated
 in multiple chapters and summarized in the same article.
 
+**Time Ranges**. It is easy to pick a sequence of events in chronological order from the history of an empire
+that tell almost any story. All you have to do is break the time line into ranges at arbitrary and convenient
+places. That is why qualitative orderings of events are deceptive. Proponents of some theories of eschatology grab a set
+of prophecies and insert specious and subjectively chosen time intervals between each pair of events to prove the
+soundness of their arrangement.
+
+In the case of these six instances of the Motherhood Pattern, the time intervals follow precise mathematical formulas 
+built upon clues provided in Ecclesiastes and elsewhere. Here are the rules:
+
+  1. There are two patterns: one for eternal entities and the other for mortal ones. 
+  2. The eternal entities have twenty-eight growth steps of equal duration. They end with that kingdom achieving full maturity.
+  3. The mortal entities have twenty-eight growth steps of equal duration followed by fourteen more complete phases of a shorter duration and a thirteenth interrupted phase. They end with that kingdom entering a period of decline ending in destruction.
+  4. The basis for twelve of the remaining phases is twelve parables about the process of building a house in Ecclesiastes 10.
+  5. The basis for the next two phases is two calls to remember: one for days of darkness in Ecclesiastes 11 and one for evil days in Ecclesiastes 12. These phases are the days of mental and physical decline.
+  6. The ratio of the length of the growth years to the years of maturity and decline comes from studying human development and the life of Solomon.
+  7. Each growth phase of seven steps lasts seven years in the typical person's life, so the total period of growth is 49 years. This means that one of Solomon's times lasts 7/4 years (1.75 years)
+  8. A good estimate of Solomon's age at death is 63 years and a few months.
+  9. Thus the fourteen periods of maturity and decline sum to 63 - 49 = 14 years, or one year per period.
+  10. Taken together, each time takes up a portion of Solomon's life equal to 1.75/63 or 2.77%.
+  11. Each phase of maturity or decline lasts 1/63 of a life or 1.58%.
+  12. There is a final, short phase of unknown duration at the end of life, as a person nears death. That matches the last few months of Solomon's life; we don't know how many there were. That phase may last 1% or less of your life.
+
+The above proportions were applied to the start and end years for each empire to arrive at the ranges in the table.
+That removes the subjectivity of when in history to look for the major events concerning each empire.
+What does it show us? An important thing that this DOES NOT show us is that every civilization follows this pattern. Each of the civilizations on this chart are the subject of prophecy. 
+They are not representative, they are special. One way they are special is how they are chained together.
+
+**Six Civilizations, but only five babies delivered**. 
+
+<img class="wide" src="images/birth-of-empires.png" alt="Birth of Empires"/>
+
+In the diagram above, you can see a chain of each civilization giving birth to the next.
+Broad humanity produced Rome, whose partial collapse produced a decentralized Europe. Europe in turn
+gave birth to the Protestant Church, which in turn helped pave the way for the creation of Modern Israel.
+
+In a second track, taking Israel and the Church as a single entity (an Olive tree with natural branches 
+and wild branches grafted in), you find a second parent to the Protestant Church.
+
+No child is shown for Modern Israel. I doubt there will be one. Even if there is, it is in the future and 
+I have no clue what it might be.
+
+Now for some of the finer points of the earlier table.
+
+**Exploring the Six Civilizations**.
 
 
 ## Spirit-Filled Women
