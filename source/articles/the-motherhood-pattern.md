@@ -308,13 +308,14 @@ often experiences a sharp discontinuity. The changes can be violent.
   - *Israel*. Modern Israel is in "a time to weep" right now. They mourn the dead, disfigured, injured, and raped victims of the despicable barbarism of Hamas, committed on October 7 and 8, 2023. May God have mercy on the souls of the dead and bring the wicked to justice. Pray for the peace of Jerusalem.
   - *Israel and the Church*. The time to weep was the crucifixion of Jesus Christ. The time to laugh was the growth of the infant church. At this time, how people understood and related to God underwent a cataclysmic change, just like a child passing through puberty to become an adult.
 
-**Marriage and Conception**. Marriage is paired with "a time to mourn" and conception to "a time to dance". This reflects the reality that young women most often were married against their consent and lost most of their freedom upon marriage. 
+**Marriage and Conception**. Marriage is paired with "a time to mourn" and conception with "a time to dance". This reflects the reality that young women most often were married against their consent and lost most of their freedom upon marriage.
+Before their wedding guests, their bodies might be dancing, but within their hearts they were mourning their new servitude. 
 On the other hand, society placed great importance upon having children, so becoming pregnant was an occasion to dance.
 Nevertheless, when a couple married, they separated from their parents to form a new household. They left. How does this 
 jibe with the course of empires?
 
   - *The World*. The aspect of marriage most in view for this empire was the Tower of Babel and the dispersion of the nations. Like children leaving home after getting married, speakers of different languages left the land of Shinar and spread across the globe. The time to dance then matches Abraham receiving the news that his wife would conceive and he would be a father in his old age.
-  - *Rome*. The Roman Republic experienced a seismic change during its "time to dance". It was transformed into an empire in 27 BC.
+  - *Rome*. The Roman Republic experienced a seismic change during its "time to dance". After the murder of Julius Caesar, it was transformed into an empire in 27 BC.
   - *Europe*. In the eleventh century, a drifting Catholic Church found its mooring and launched itself in a new direction. In its "time to mourn", the Islamic Caliph destroyed the Church of the Holy Sepulcher in 1009 AD and harassed Christian pilgrims venturing to the Holy Land. At the same time, the millennial anniversary of Christ's departure came and went and yet he did not return, a great disappointment. On top of that, the Great Schism finalized the split between east and west. Problems like the Investiture Controversy and the Church's disability due to secular powers choosing its leaders rendered it powerless. Also, memories of the debauchery of the popes in the previous century and ongoing sexual immorality among the clergy were devastating to the reputation of the Church. Popes Alexander II and Gregory VII launched many reforms, including enforcing the celibacy of priests. The popes for the first time were chosen solely by the cardinals. Pope Alexander II authorized the Normans to invade England in 1066, further strengthening the church. Alexander blessed the launching of a holy war against the Moors on the Iberian peninsula, advancing the Reconquista. All these actions laid the political, military and philosophical groundwork for the First Crusade of the next era.
   - *Protestantism*. The Great Awakening and political developments in America caused the Colonists to move in a different direction from Great Britain. The American Revolution would occur in the next era, but the groundwork was laid in this time, symbolized by the Boston Tea Party of 1773 and Britain's passing of the Intolerable Acts in 1774. In keeping with a new couple's drive to leave their parent's homes and set out on their own, millions of people left Europe during the preceding century to go to the New World.
   - *Israel*. This era of Israeli history (2040-2059 AD) remains in our future. Based on the other prophetic clocks I have discovered, the likely manifestation of "a time to mourn" will be the opening of the Fifth Seal of Revelation. This will occur during "a time to hate" on the Solomon's Celestial Clock. A great persecution will break out against Jews. By the hundreds of thousands - maybe millions -  they will flee the Americas for Israel. "A time to dance" will be the safe resettling of many of them in Israel.
@@ -329,10 +330,103 @@ jibe with the course of empires?
   - *Israel*. Will modern Israel give birth to another civilization? Only time will tell...
   - *Israel and the Church*. Both Europe (as a political collective with a Christian facade) and the invisible church gave birth to the Protestant church in the 16th century.
 
- 
+Using two dates for the "birth" of Rome (753 and 509 BC) that are centuries apart bothers me. It looks wrong.
+Rome is a complex beast. Reflecting upon King Nebuchadnezzar's dream from the Book of Daniel was helpful.
+In the dream, the king saw a single statue with a head of gold, shoulders and chest of silver, belly and thighs of bronze 
+and legs of iron. Those four metals represent four empires, but the imagery is of one statue, one metal man.
+
+  - 626 BC: Founding of Neo-Babylonian Empire - *the Head of gold*
+  - 509 BC: Roman Republic founded
+  - 550 BC: Founding of Achaemenid (Medo-Persian) Empire - *the Shoulders and chest of silver*
+  - 359 BC: Founding of Macedonian Empire by King Phillip II - *the Belly and thighs of bronze*
+  - 190-64 BC: Roman Republic defeats Seleucid Empire (a remnant of Alexander's Empire), beginning with battle of Magnesia ad Sipylum in 190 BC, until full conquest in 64 BC.
+  - 27 BC: Founding of Roman Empire, where Rome finally becoming a beast - *the Legs of iron*.
+
+From the above, it is clear that the development of Rome ran in parallel with the rise and fall 
+of the three preceding empires on Daniel's sequence. A baby is normally delivered head first, 
+so the legs and feet come out last. The feet were delivered in the latter phase of 
+"a time to tear", but the head and shoulders came out earlier, in a "time to throw away", 
+which ran from 695 to 520 BC at world scale. The belly and thighs came out of the birth canal 
+with the conquests of Alexander the Great, starting with the defeat of Persia at the 
+battle of Gaugamela in 331 BC, part of "a time to mend". This was one messy delivery!
+
+From the preceding we see that two intersecting prophetic metaphors are both satisfied. 
+Rome arrived as a single kingdom or republic and as part of a collection of four empires that constituted a single statuesque entity. Only Rome's empire identity belongs to the statue, but
+its existence as a kingdom and republic are included in the other reference to Rome as distinct from those three prior empires. The tides of history are complicated, but the Bible's 
+prophets captured this complexity elegantly in the words they left for us to ponder.
+
+**Death**. One kingdom will never die: the Kingdom of God, given here as Israel and the Church,
+formed into a single olive tree (Romans 11:17-24). Most of the civilizations on the list will end 
+with the return of Christ, though some might be absorbed into Behemoth or Leviathan near the end 
+and lose their identity earlier than my analysis predicts. Only one of these civilizations has already died: Rome.
+
+ - The Western Roman Empire died in 476 AD when Rome fell to Odoacer the Ostrogoth. In poetic fashion, Odoacer was assassinated on March 15, 493 AD. This mirrored the assassination of Julius Caesar on the same date, a crucial event that triggered the formation of the Roman Empire.
+ - The Eastern Roman (Byzantine) Empire died in 1453 AD with the capture of Constantinople, falling to the Ottoman Empire.
+
+This structure of history repeats the same pattern six times at longer and shorter time scales. Each nested pattern 
+instance begins at the same place proportionally within the pattern enclosing it. This is the signature feature
+of my system of eschatology, **Fractal Historicism**, as introduced in [The End Times](./the-end-times.html).
+That these gross features of history may be so composed into a regular pattern is marvelous.
+
+However, the use of the metaphor of childbirth to describe and quantify history might make women mad.
+Has God likened the tribulations of history to the pain and sacrifice of carrying and bearing children
+in a gratuitous way? Does this not rob women of the dignity of motherhood? Are their sacrifices not minimized by comparing
+them to the monumental battles fought by men to set up empires and build civilizations?
+The Book of Job uses words and images related to a woman struggling through a difficult pregnancy as an analogy
+to the suffering that Job endured. Job was called the most righteous man alive. His unjust suffering was therefore
+the worst suffering that anyone (male or female) ever endured (prior to Christ). That makes the suffering of the man, 
+Job, greater than the suffering of women. The analogy seems to scream out which is the greater and which the 
+lesser degree of pain.
+
+Wrong. Once you understand the prophetic intent of Job and its Motherhood Pattern, you will find that the inequality symbol
+points the other way. The virtue of the suffering of many women outshines that of Job. This follows via a proof by induction. 
+With mathematical induction, first you prove a statement is true for a small number. 
+Then you prove that if it is true for any number, it is also true for some larger number. 
+If you do that, then by induction, the property is true for an infinite set of larger numbers.
+Job is the small number. Millions of women down through history are the larger numbers.
+What is the property to be proven? The property is the truth that if a person possesses and retains their faith in God
+yet endures great suffering, by that suffering God will pour His wisdom into them.
+Job refused to curse God and held onto his faith. The Lord then poured great wisdom into him.
+Women have individually and collectively suffered greatly, both for their faith and generally due to the 
+oppression that they have endured. If God remains true to His character, He will pour out a proportionally greater
+blessing of wisdom upon the women of the church through the communication channel of suffering.
+
+What does this mean? It means that the suffering of Christian women for long centuries constituted 
+a long spiritual pregnancy and the delivery of that child was the birth of the Reformation church.
+This pattern is not a mere analogy. It is a spiritual reality. This suffering by women was not for no reason.
+It had a glorious purpose and that purpose was fulfilled and continues to blossom.
+
+The suffering of women is not an unending punishment by an unforgiving God. Nor is it just the wrath of Satan.
+It is a channel by which God pours out immense blessings of wisdom upon the church and the world.
+In [Hannah's Song](./hannah-s-song.html), I recount the spiritual blessing I received by visiting a 
+dying woman of faith, Janet Sullivan. That blessing not only set me free from a decade of depression,
+it twenty-five years later delivered the insight that unlocked for me much of the meaning of the Book of Job.
+If not for Janet, I would not have understood Elihu or how this is all connected to God's 
+eternal purpose for the suffering of women.
+
+If God speaks to women through their suffering, what has he been saying? Lots! It is time to look in on
+some of the most virtuous women in the Bible. 
 
 ## Spirit-Filled Women
 
+There is a flow and a direction to the tide of the spiritual ocean on which we are adrift.
+The tide comes in, then it goes out. We shall look at seven women into whom the Holy Spirit poured wisdom, 
+then a second set of seven women from whom the Spirit's power poured out, doing great things in the world.
+This symbolizes how we are first taught the truth when the tide comes in, then we act in truth and power 
+when the tide goes out.
+
+The first seven women lived during the time of the Patriarchs. The second set lived after that, on up until the
+resurrection of Jesus Christ. These are not the only important women in the Bible. I have left out
+Elizabeth, Anna, Martha, Huldah, and Jehoshaba and the women of Acts. (And Tamar. She worries me.) 
+Because of this, I cannot decide whether the ordering of the revelations that I give is intentional 
+or accidental. Even if the order is not as tidy as what I present, the comprehensiveness of God's gifting 
+to women cannot be denied. Of this we can be sure. If God spoke quietly to women before Israel became a nation and firmly 
+while it was one, surely he has shouted to the women of the church in the days since.
+
+**Comprehensive?**. How can we evaluate whether the Holy Spirit's communication to women has been  comprehensive?
+Isaiah 11:2 names for us the Seven Spirits of God. In this section, I will show that each spirit visited at least 
+two women in the Bible, one during the time of the Patriarchs and one after that, up until the time of the resurrection.
+Like the tides, the first seven were visited by the Spirits in one order and the second seven in reverse.
 
 
 ## A Woman's Journey by the Numbers
