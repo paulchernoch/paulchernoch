@@ -447,13 +447,13 @@ of judgment, one per millennium of history, the order of the swords also matched
 Revelation 5:6 tells us that the Seven Spirits of God were sent out into the earth. All God's plans are orderly, 
 so they were sent out in order.
 
-Now let's meet the women and their spirits.
+Now let's meet the fourteen women(or groups of women) and the spirit that visited each.
 
 **The Earlier Women**.
 
  - Sarah - Lordship
  - Hagar - Wisdom
- - Rebeccah - Understanding
+ - Rebekah - Understanding
  - Leah - Counsel
  - Rachel - Might
  - Jacob's daughters (Jemimah, Keziah, Keren-Happuch) - Knowledge
@@ -473,29 +473,210 @@ For most women, the chronological order of their birth is obvious, so need not b
 That leaves a few that need explanation.
 
 First, though Jacob loved Rachel, he was tricked into marrying Leah first.
-She was the firstborn daughter anyway.
+She was Laban's firstborn daughter anyway.
 
-Second, though we do not know when Job lived for sure, the strongest evidence points to a time
-between the lives of Jacob and Moses. This allows us to place his daughters.
+Second, though we do not know for sure when Job lived, evidence points to a time
+between the lives of Jacob and Moses. This allows us to place his daughters before Miriam.
 
 Third, we are not sure when during the time of the Judges that Ruth and Naomi lived.
-The famine that Ruth's book speaks of is most likely the Great Famine of the 13th century BC, 
-a fifty-year famine that ended the Bronze Age and brought down empires. If so, the likeliest 
-sequence of events is that the famine and a time of foreign oppression in Israel forced Naomi 
-and her husband to flee to Moab. Why Moab? After Ehud the Judge subdued Moab, Israel enjoyed
-eighty years of peace with Moab (Judges 3:30). A subsequent wave of oppression by Canaan
-in given in Judges 4:1-20. Only after that oppression ceased and brought improved
-conditions in Israel would it make sense for Naomi to return. That would only happen with the
-rise of a new judge in Israel. Based on the chronologies, the closest judge is Deborah.
-Thus the trials of Ruth and Naomi began before Deborah became Judge, but were resolved after
-Deborah and Barak's victory over Sisera.
+Who came first, Ruth or Deborah? The famine that Ruth's book speaks of is most likely the 
+Great Famine of the 13th century BC, a fifty-year famine that ended the Bronze Age and 
+brought down empires. If so, the likeliest sequence of events is that the famine and a time 
+of foreign oppression in Israel forced Naomi and her husband to flee to Moab. 
 
-Finally, the Mary's can be ordered with Jesus' mother coming first since his birth happened first.
+Why Moab? After Ehud the Judge subdued Moab, Israel enjoyed eighty years of peace with Moab (Judges 3:30). 
+A subsequent wave of oppression by the Canaanites in given in Judges 4:1-20. Only after that oppression 
+ceased and brought improved conditions in Israel would it make sense for Naomi to return. 
+That would only happen with the rise of a new judge in Israel. Based on the chronologies, 
+the closest judge is Deborah. Thus the trials of Ruth and Naomi began before Deborah became Judge, 
+but were resolved after Deborah and Barak's victory over Sisera.
+
+Fourth and final, the Mary's can be ordered with Jesus' mother coming first since his birth happened first.
 Then we must put Mary Magdalene last because she was first to see the risen Christ.
 
+**Divining the Spirit**
+
+For some of these women it is easy to identify a single one of the seven spirits that flowed into or out of them.
+It is easy because so few words are used to chronicle their lives; the Bible has focused our attention on
+one. For other women in the list, because more of their story is told, the operation of more than 
+one spirit is evident. In this analysis, only the spirit that fits according to Isaiah's canonical ordering 
+will be given.
+
+In the following, a woman or group from the first list (from the days of the Patriarchs) will be paired with
+a name from the second list (between the days of the monarchy and the time of Christ). Names will be taken
+in forward chronological order from the first list and reverse order from the second, since they share the
+same spirit.
+
+*(1) The Spirit of the Lord: Sarah and the three Mary's*
+
+Though more is written about Sarah than many other women in the Bible, the New Testament writers helpfully
+focus out attention on one character trait: her faith.
+
+#### For this is how **the holy women who hoped in God**
+#### used to adorn themselves, by submitting to their 
+#### own husbands, as Sarah obeyed Abraham, **calling him lord**. 
+#### And you are her children, if you do good and 
+#### do not fear anything that is frightening.
+###### - 1 Peter 3:5-6
+
+Sarah's faith was twofold. She had her own hope in the Lord and also trusted that her husband had heard from the Lord,
+so by following him she was following the Lord. To leave her home country and do all the other courageous things
+entailed by being the wife of Abraham required great faith.
+
+#### **By faith Sarah** herself received power to conceive, 
+#### even when she was past the age, since she considered 
+#### him faithful who had promised.
+###### - Hebrews 11:11
+
+This article is about God's plans for motherhood. It all began with Sarah. The Spirit of the Lord or Lordship
+is the spirit that imparts faith. When Sarah laughed at the angel's words (Genesis 18:12), it showed that 
+she needed more faith. Sarah's place in the Bible is not that she was special because she HAD great faith.
+Her place was secured because she RECEIVED great faith. This spirit gave it to her.
+
+In the Harvest Pattern, the first step is preparation. The essential preparation for every harvest is faith in God.
+In the incarnation, that preparation was built upon the faith of Mary. She believed the words of the angel.
+Just as faith flowed into Sarah to enable her to conceive, the Spirit of the Lord - nay the very Lord himself - 
+flowed out ot Mary.
+
+God is Trinity. The virgin birth was a physical miracle so demonstrates the power of the Father.
+Mary of Bethany, sister of Lazarus and Martha, demonstrated the work of this spirit in a second way.
+She sat at the feet of Jesus, listening and learning. Hers was faith that learning the Word as more important 
+than any other responsibility (Luke 10:38-42). That leaves Mary Magdalene to represent the Holy Spirit.
+She beheld the Spirit's power like none other. Are there Seven Spirits of God? Mary Magdalene was delivered
+from seven evil spirits (Mark 16:9)! She was first in line to marvel at the risen Christ.
+
+How marvelous that God worked through these three women, all named Mary, to reveal His nature as a Trinity 
+to the world.
+
+*(2) The Spirit of Wisdom: Hagar and Esther*
+
+Wisdom is always borne of suffering. Hagar was a slave, mistreated by her mistress, who had fled into the
+wilderness (Hagar 16:1-16). What did God do? His angel called upon Hagar to return to her mistress 
+and endure more years of suffering. Only after this would she receive her boon, to become the mother of
+many nations through her son Ishmael.
+
+Just as God's wisdom flowed into Hagar, persuading her to follow a painful path to her goal, so
+it flowed out of Esther. She listened to her uncle Mordecai's wise advice and asked others to pray and fast 
+for her so that she might know what to do. After that she conceived and executed a plan that could have 
+gotten her killed or exiled but instead led to the salvation of her whole people from genocide at 
+the hands of Haman. As Solomon said, 
+
+#### Wisdom gives strength to the wise man 
+#### more than ten rulers who are in a city.
+###### - Ecclesiastes 7:19
+
+The nobleman Haman perished with his ten sons, his ten rulers in the city of Susa, the capital.
+In that case, wisdom gave strength to a wise *woman*.
+
+So we have two women, Hagar and Esther. By the spirit of wisdom one created a new nation and 
+by that same spirit the second saved hers.
+
+*(3) The Spirit of Understanding: Rebekah and Naaman's Slave Girl*
+
+Understanding is bound up with worship. Its position in the Harvest Pattern then pairs it with the seed
+of the gospel or of any incipient knowledge sent from God that has not yet grown and flowered into
+its full implications and impact. To worship is to accept, take in and treasure that which flows from God.
+In the story of Rebekah, Abraham's servant is sent on a mission to find a wife for Isaac.
+When he believes he has found the right girl, he openly praises and worships God.
+It was then up to Rebekah to decide if she believed and trusted this stranger from afar.
+It is symbolic that Rebekah proved herself by her hospitality in offering to water the servant's animals.
+It is a sign of her faith that when offered the choice to delay for ten days to say her goodbyes
+or immediately leave for a strange place to marry a strange man, she responded like this:
+
+#### And they called Rebekah and said to her, 
+##### “Will you go with this man?” 
+#### She said, 
+##### “I will go.”
+###### - Genesis 24:58
+
+Rebekah received the words of Abraham's servant into her heart and left her family. She understood them to be true.
+She and her family received gifts of gold and other precious things from Abraham, but the second
+woman of understanding received nothing. We don't even know her name. Syria warred against Israel
+and captured many slaves. The commander of the Syrian army was named Naaman. His wife's servant girl was one
+of the slaves captured by Naaman, as related in 2 Kings 5:1-19. Naaman suffered leprosy.
+His servant girl then did something that makes her a hero of the faith: she loved her enemy.
+She told her master, Naaman, about a prophet in Israel who could heal him of leprosy. That prophet was Elisha.
+In a parallel to the story of Rebekah, water again comes into play. Naaman is instructed by Eliha to wash
+himself in the Jordan seven times. (There is that number again!) Ceremonial washing is an act of worship.
+Naaman almost refuses to do this because he thinks it stupid; it is the understanding of another of his
+servants that persuades him to do it. At the end, Naaman begs Elisha for forgiveness in advance for 
+standing at his king's side in a pagan temple in false worship, a thing he would be required to do.
+How we need to be washed of so many filthy things!
+
+*(4) The Spirit of Counsel: Leah and Hannah*
+
+In the Nicene Creed, recited and believed by most Christians, Orthodox, Catholic and Protestant, we find
+these words (with the disputed Filioque clause included in italics):
+
+#### We believe in the Holy Spirit, the Lord, 
+#### the Giver of life, who proceeds from the Father 
+#### *and the Son*.
+#### With the Father and the Son He is worshipped
+#### and glorified. **He has spoken through the prophets**.
+
+The Holy Spirit is the Counselor and the voice of the prophets. The Holy Spirit is also the Giver of Life.
+Both these women, Leah and Hannah, needed their Giver of Life. Leah was unloved by her husband.
+Hannah was dearly loved by hers (but hated by her husband's other wife). Each was barren. 
+Each hoped to be vindicated by the birth of a son. Their lives were intertwined prophetically.
+
+Hannah prayed, *"The barren has borne seven, but she who has many children is forlorn."* (1 Samuel 2:5b)
+After pouring her broken heart out to the Lord, Leah bore six sons to Jacob plus one daughter. 
+Leah is she who "has borne seven". Leah was the godly example that gave Hannah the faith to plead with God and believe Eli the priest's word when he blessed her:
+
+#### Then Eli answered, 
+##### “Go in peace, and the God of Israel grant 
+##### your petition that you have made to him.”
+#### And she said, 
+##### “Let your servant find favor in your eyes.”
+#### Then the woman went her way and ate, 
+#### and her face was no longer sad.
+###### - 1 Samuel 1:17-18
+
+I read this story many times over the decades but only recently discovered the power of this verse.
+After this word from Eli, Hannah walked away from the temple at peace.
+The peace came BEFORE she got pregnant, not after. That is the proof of faith.
+I can remember three times in my life when I was praying urgently for something and then stopped praying, at peace.
+I stopped not because I got what I asked for or because I was giving up.
+I stopped because, like Hannah, in faith I believed that God had heard me and promised to give me what I needed.
+
+  - The first such time was in 1991, after praying for about thirty minutes to be accepted on a mission trip that had already turned me down. 
+  - The second time was in 2005, after praying for over three weeks for healing when I lost hearing in my left ear and being told by a doctor that I would  not get my healing back.
+  - The third time was in the mid 2010's, after praying and fasting one day a week for three years to see God's glory.
+
+In each case, the Lord gave me what I asked for: a place on the mission trip was extended by phone call minutes after I ended my prayer, the miraculous healing of my ear came two days after the doctor's discouraging word, and deeper insight into God's word arrived a year or so after my fast ended and continues to this day. This is called the prayer of faith. Many people talk about it. They have no idea what they are talking about. Hannah prayed the prayer of faith. Listen to her.
+
+The Spirit of Counsel flowed into Leah and gave her seven children.
+The Spirit of Counsel flowed out of Hannah and gave the world a great prophet, Samuel.
+It also overflowed in her prayer. As related in [Hannah's Song](./hannah-s-song.html), her prayer in 1 Samuel 2:1-10
+is an amazing prophecy of the future, structured according to the Ten Commandments and the Harvest 
+and Growth Patterns. Hannah even hints at the existence of the Seven Pillars of Wisdom a century before Solomon
+named them.
+
+Why do I respect these women of faith? What caused my estimation of their value to soar? 
+I followed the threads. I was trying to decide if I had found the seven pillars of wisdom,
+only to learn that Hannah knew of them them first. 
+*"For the pillars of the earth are the Lord's, and on them he has set the world."* (1 Samuel 2:8c)
+Surely her words were a source of inspiration even for Solomon!
+Only once I began to respect the profound power in Hannah's prayer did I note the connection to Leah.
+I had thought little of Leah, except pity. Not so Hannah! If Hannah was wise and filled with the Spirit,
+surely the woman whose example helped her hold on through years of despair is worthy of respect.
+God has used the suffering of barren women to deliver wisdom that in turn has blessed the world.
+We can trace the path further. 
+
+Sarah -> Leah -> Hannah -> Samuel -> Solomon -> Habakkuk -> Elizabeth -> Mary -> Jesus.
+
+By the Spirit of Counsel, no one has to be barren, no life be futile or vain.
+
+*(5) The Spirit of Might: Rachel and Deborah*
 
 
-**Inspired Women of the Patriarchal Period**
+
+*(6) The Spirit of Knowledge: Jacob's Daughters and Ruth and Naomi*
+
+
+
+*(7) The Spirit of the Fear of the Lord: Miriam and Rahab*
+
 
 
 ## A Woman's Journey by the Numbers
