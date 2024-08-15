@@ -417,16 +417,85 @@ when the tide goes out.
 
 The first seven women lived during the time of the Patriarchs. The second set lived after that, on up until the
 resurrection of Jesus Christ. These are not the only important women in the Bible. I have left out
-Elizabeth, Anna, Martha, Huldah, and Jehoshaba and the women of Acts. (And Tamar. She worries me.) 
+Elizabeth, Anna, Martha, Huldah, and Jehoshaba and the women of Acts. (And Tamar. She scares me.) 
 Because of this, I cannot decide whether the ordering of the revelations that I give is intentional 
 or accidental. Even if the order is not as tidy as what I present, the comprehensiveness of God's gifting 
-to women cannot be denied. Of this we can be sure. If God spoke quietly to women before Israel became a nation and firmly 
-while it was one, surely he has shouted to the women of the church in the days since.
+to women cannot be denied. Of this we can be sure. If God spoke quietly to women before Israel became a 
+nation and firmly while it was one, surely he has shouted to the women of the church in the days since.
 
-**Comprehensive?**. How can we evaluate whether the Holy Spirit's communication to women has been  comprehensive?
-Isaiah 11:2 names for us the Seven Spirits of God. In this section, I will show that each spirit visited at least 
-two women in the Bible, one during the time of the Patriarchs and one after that, up until the time of the resurrection.
-Like the tides, the first seven were visited by the Spirits in one order and the second seven in reverse.
+**Comprehensive?**. How can we evaluate whether the Holy Spirit's communication to women has been comprehensive or not?
+Isaiah 11:2 names for us the [Seven Spirits of God](./seven-spirits.html). This section will show that each 
+spirit visited at least two women in the Bible, one during the time of the Patriarchs and one after that, 
+up until the time of the resurrection. Like the tides, the first seven were visited by the Spirits in one order and the second seven in reverse. This forward and reverse listing of matching ideas forms a chiasm, a common literary device
+found in the Bible. In a chiasm, the most important idea is the one at the center. In our case, that is 
+the Spirit of the Fear of the Lord.
+
+Are the spirits through with women? No! The letters to the seven churches in Revelation 2-3
+address Christians throughout all ages. Each spirit holds in reserve the new wisdom needed by one church, 
+in Isaiah's order (the forward order). If the Seven Spirits were delegated to visit those churches down 
+through the ages, they will surely be visiting Christian women again. Among us may live another Miriam or Esther
+or Mary. Once again, the last spirit to visit will be the Fear of the Lord.
+
+The connection between the fourteen women whom we will soon study and the Seven Spirits of God is revealing. 
+*Peace, like Solomon Never Knew* provided evidence that each spirit has an affinity for one of the 
+seven Bible books that constitute the [Seven Pillars of Wisdom](./seven-pillars-of-wisdom.html). 
+Indeed the order of the spirits governs the proper order of the pillars. Likewise, each spirit has an affinity 
+for a different time in Solomon's [Growth Pattern](./growth-pattern.html) and a different phase in 
+Jesus' [Harvest Pattern](./harvest-pattern.html). Again, the order of the spirits matches the order of 
+the steps in those two patterns. Also, when studying the drawing of [seven swords](./seven-spirits.html) 
+of judgment, one per millennium of history, the order of the swords also matched the order of the spirits. 
+Revelation 5:6 tells us that the Seven Spirits of God were sent out into the earth. All God's plans are orderly, 
+so they were sent out in order.
+
+Now let's meet the women and their spirits.
+
+**The Earlier Women**.
+
+ - Sarah - Lordship
+ - Hagar - Wisdom
+ - Rebeccah - Understanding
+ - Leah - Counsel
+ - Rachel - Might
+ - Jacob's daughters (Jemimah, Keziah, Keren-Happuch) - Knowledge
+ - Miriam - The Fear of the Lord
+
+**The Latter Women**. 
+
+ - Rahab - The Fear of the Lord
+ - Ruth and Naomi - Knowledge
+ - Deborah - Might
+ - Hannah - Counsel
+ - Naaman's slave girl - Understanding
+ - Esther (Hadassah) - Wisdom
+ - A Trinity of Mary's (Mary the mother of God, Mary of Bethany and Mary Magdalene) - Lordship
+
+For most women, the chronological order of their birth is obvious, so need not be mentioned. 
+That leaves a few that need explanation.
+
+First, though Jacob loved Rachel, he was tricked into marrying Leah first.
+She was the firstborn daughter anyway.
+
+Second, though we do not know when Job lived for sure, the strongest evidence points to a time
+between the lives of Jacob and Moses. This allows us to place his daughters.
+
+Third, we are not sure when during the time of the Judges that Ruth and Naomi lived.
+The famine that Ruth's book speaks of is most likely the Great Famine of the 13th century BC, 
+a fifty-year famine that ended the Bronze Age and brought down empires. If so, the likeliest 
+sequence of events is that the famine and a time of foreign oppression in Israel forced Naomi 
+and her husband to flee to Moab. Why Moab? After Ehud the Judge subdued Moab, Israel enjoyed
+eighty years of peace with Moab (Judges 3:30). A subsequent wave of oppression by Canaan
+in given in Judges 4:1-20. Only after that oppression ceased and brought improved
+conditions in Israel would it make sense for Naomi to return. That would only happen with the
+rise of a new judge in Israel. Based on the chronologies, the closest judge is Deborah.
+Thus the trials of Ruth and Naomi began before Deborah became Judge, but were resolved after
+Deborah and Barak's victory over Sisera.
+
+Finally, the Mary's can be ordered with Jesus' mother coming first since his birth happened first.
+Then we must put Mary Magdalene last because she was first to see the risen Christ.
+
+
+
+**Inspired Women of the Patriarchal Period**
 
 
 ## A Woman's Journey by the Numbers
