@@ -2,12 +2,13 @@
 title: The Motherhood Pattern
 quote: The man called his wife's name Eve, <br/> because she was the mother of all living. <br/> - Genesis 3:20
 ---
-<img class="center" src="images/cosmic-eve.png" alt="Eve as a Constellation holding the Earth like a baby"/>
+<img class="wide" src="images/cosmic-eve.png" alt="Eve as a Constellation holding the Earth like a baby"/>
 
+<hr/>
 
 <div class="sections">
 
-To quickly jump to each clock:
+To quickly jump to each section of the article:
 
   <ol>
     <li> <a href="#1">The Mother of all Patterns</a> </li>
