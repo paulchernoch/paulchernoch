@@ -5,6 +5,51 @@ quote: The man called his wife's name Eve, <br/> because she was the mother of a
 <img class="center" src="images/cosmic-eve.png" alt="Eve as a Constellation holding the Earth like a baby"/>
 
 
+<div class="sections">
+
+To quickly jump to each clock:
+
+  <ol>
+    <li> <a href="#1">The Mother of all Patterns</a> </li>
+    <li> <a href="#2">World History as the Literal Birth of Empires</a> 
+      <ol> 
+        <li> <a href="#2.1">Six Civilizations</a> </li>
+        <li> <a href="#2.2">Life Changing Events</a> </li>
+        <li> <a href="#2.3">Time Ranges</a> </li>
+        <li> <a href="#2.4">Six Civilizations, but only five babies delivered</a> </li>
+        <li> <a href="#2.5">Birth</a> </li>
+        <li> <a href="#2.6">Puberty</a> </li>
+        <li> <a href="#2.7">Marriage and Conception</a> </li>
+        <li> <a href="#2.8">Birth and Post partum recovery</a> </li>
+        <li> <a href="#2.9">Death</a> </li>
+      </ol>
+    </li>
+    <li> <a href="#3">Spirit-Filled Women</a> 
+      <ol> 
+        <li> <a href="#3.1">Comprehensive?</a> </li>
+        <li> <a href="#3.2">The Earlier Women</a> </li>
+        <li> <a href="#3.3">The Latter Women</a> </li>
+        <li> <a href="#3.4">Divining the Spirit</a> </li>
+        <li> <a href="#3.5">The Spirit of the Lord: Sarah and the three Mary's</a> </li>
+        <li> <a href="#3.6">The Spirit of Wisdom: Hagar and Esther</a> </li>
+        <li> <a href="#3.7">The Spirit of Understanding: Rebekah and Naaman's Slave Girl</a> </li>
+        <li> <a href="#3.8">The Spirit of Counsel: Leah and Hannah</a> </li>
+        <li> <a href="#3.9">The Spirit of Might: Rachel and Deborah</a> </li>
+        <li> <a href="#3.10">The Spirit of Knowledge: Job's Daughters and Ruth and Naomi</a> </li>
+        <li> <a href="#3.11">The Spirit of the Fear of the Lord: Miriam and Rahab</a> </li>
+      </ol>
+    </li>
+    <li> <a href="#4">A Woman's Journey by the Numbers</a> </li>
+    <li> <a href="#5">The Law: A Woman's Honor</a> </li>
+    <li> <a href="#6">Ecclesiastes 3: A Time for Women</a> </li>
+    <li> <a href="#7">Job as a Parable of Women's Suffering</a> </li>
+    <li> <a href="#8">Women do not Suffer for Naught</a> </li>
+  </ol>
+
+</div>
+
+<hr/>
+
 In college, I drew a picture for an art class assignment. I had hidden in the picture imagery from a novel about a murder,
 *The Onion Field*, where the furrows in my field were shaped like onions, hid the outline of a buried corpse, 
 and a cloud was shaped like smoke blowing from a gun.
@@ -69,6 +114,8 @@ unraveling mysteries that my heart had not pursued. God gave me more that I coul
 #### church and in Christ Jesus throughout all generations,
 #### for ever and ever! Amen.
 ###### - Ephesians 3:20-21, NIV
+
+<span id="1" />
 
 ## The Mother of all Patterns
 
@@ -175,6 +222,8 @@ where I am sitting on my patio.) Before, I had found a single political entity w
 followed the Motherhood pattern: the Church. Now I know of at least six! Seeing something new is exciting, so I am
 going with exciting instead of logical.
 
+<span id="2" />
+
 ## World History as the Literal Birth of Empires
 
 <img class="wide" src="images/six-motherhood-patterns.png" alt="Table of Six Civilizations"/>
@@ -203,6 +252,8 @@ When you do this, it shows that the Protestant Reformation was a time to tear, w
 Roman Catholic Church gave birth to the Protestant Church. It also triggered a Civil war. 
 Both the masculine and feminine meanings apply.
 
+<span id="2.1" />
+
 **Six Civilizations**. This past week, I discovered six examples of civilizations giving birth in this way.
 That is not the surprising part. What shocked me was that even though each of these parent 
 civilizations began at different times and lasted different numbers of years, the numerical 
@@ -225,6 +276,8 @@ These are the empires:
 
 Of the six entities above, five are mortal. They will come to an end. That includes the Roman Catholic Church and political Protestantism (such as what once governed the United States and many other nations). Only the true church will last for eternity. It will be fully manifested as a perfected visible and political entity only when Christ returns.
 
+<span id="2.2" />
+
 **Life Changing Events**. To understand the table, first a word about the most dramatic phases of a woman's life:
 
   - Birth (a time to be born)
@@ -243,6 +296,8 @@ missing cells, every one of the times of Solomon is matched to a historical even
 in the chapter "A Grand Father Clock & a Silver Cord", summarized in 
 [Celestial Clocks](./celestial-clocks.html). Israel and the Church are similarly treated
 in multiple chapters and summarized in the same article.
+
+<span id="2.3" />
 
 **Time Ranges**. It is easy to pick a sequence of events in chronological order from the history of an empire
 that tell almost any story. All you have to do is break the time line into ranges at arbitrary and convenient
@@ -271,6 +326,8 @@ That removes the subjectivity of when in history to look for the major events co
 What does it show us? An important thing that this DOES NOT show us is that every civilization follows this pattern. Each of the civilizations on this chart are the subject of prophecy. 
 They are not representative, they are special. One way they are special is how they are chained together.
 
+<span id="2.4" />
+
 **Six Civilizations, but only five babies delivered**. 
 
 <img class="wide" src="images/birth-of-empires.png" alt="Birth of Empires"/>
@@ -289,6 +346,8 @@ Now for some of the finer points of the earlier table. Each of the six civilizat
 that match the key transformational events of the Motherhood Pattern. Let's explain why the historical events 
 are fitting realizations of parts of the pattern.
 
+<span id="2.5" />
+
 **Birth**. Birth is the easiest to match.
 
   - *The World* began with the Creation and Fall of Mankind. My best estimate for that event is 4020 BC, as worked out in [Dating the Creation](./dating-the-creation.html).
@@ -297,6 +356,8 @@ are fitting realizations of parts of the pattern.
   - *Protestantism* as a religious idea began when Luther posted his ninety-five theses on the door of a church in 1517 AD, but that is not the date used here. Protestantism as a political force got its start with a series of events. One was Luther's "Open Letter to the Christian Nobility of the German Nation Concerning the Reform of the Christian Estate" of 1520, urging German princes to take up arms, defend Protestant truths and enable their subjects to practice them freely. Another was Sweden's adoption of Lutheranism in 1527, making it the first nation to become Protestant. Yet between public statements and political action, the true birth of the movement was when a single man stood apart from the church, calling for it to reform. In 1521, Luther was excommunicated from the Roman Catholic Church. The new church started as a church of one.
   - *Modern Israel* was founded in 1948 AD as sanctioned by the new United Nations. The Jewish people who built this new nation did not do so in a vacuum, nor did they rely solely upon truths derived from their ancient faith. Much of how they structured their society and shaped their culture passed to them from the West, for better or for worse.
   - *Israel and the Church* are politically distinct but the latter is the spiritual continuation of the former. I chose as its start neither the birth of Abraham, nor Isaac, nor Moses, nor David. Instead, I chose the dedication of the temple in Jerusalem by Solomon in 960 BC. I wrote a whole book about why, but that is when Solomon's Celestial clock begins. God came down and filled the temple with His glory. Unlike the other civilizations, this was not birthed from a preceding corrupt human civilization. This civilization was born of God and will never end.
+
+<span id="2.6" />
 
 **Puberty**. When a man or woman reaches this time of life, big changes occur. They are emotional, intellectual and biological. When a civilization reaches this point in its development (in the times to weep and laugh), it 
 often experiences a sharp discontinuity. The changes can be violent.
@@ -307,6 +368,8 @@ often experiences a sharp discontinuity. The changes can be violent.
   - *Protestantism*. The Pietism Movement of the 17th and early 18th centuries took "a time to weep" literally. The Holy Spirit revived the church, causing people to weep uncontrollably as they faced the guilt of their sins and pleaded with God for salvation. This was one of the roots of Evangelicalism.
   - *Israel*. Modern Israel is in "a time to weep" right now. They mourn the dead, disfigured, injured, and raped victims of the despicable barbarism of Hamas, committed on October 7 and 8, 2023. May God have mercy on the souls of the dead and bring the wicked to justice. Pray for the peace of Jerusalem.
   - *Israel and the Church*. The time to weep was the crucifixion of Jesus Christ. The time to laugh was the growth of the infant church. At this time, how people understood and related to God underwent a cataclysmic change, just like a child passing through puberty to become an adult.
+
+<span id="2.7" />
 
 **Marriage and Conception**. Marriage is paired with "a time to mourn" and conception with "a time to dance". This reflects the reality that young women most often were married against their consent and lost most of their freedom upon marriage.
 Before their wedding guests, their bodies might be dancing, but within their hearts they were mourning their new servitude. 
@@ -320,6 +383,8 @@ jibe with the course of empires?
   - *Protestantism*. The Great Awakening and political developments in America caused the Colonists to move in a different direction from Great Britain. The American Revolution would occur in the next era, but the groundwork was laid in this time, symbolized by the Boston Tea Party of 1773 and Britain's passing of the Intolerable Acts in 1774. In keeping with a new couple's drive to leave their parent's homes and set out on their own, millions of people left Europe during the preceding century to go to the New World.
   - *Israel*. This era of Israeli history (2040-2059 AD) remains in our future. Based on the other prophetic clocks I have discovered, the likely manifestation of "a time to mourn" will be the opening of the Fifth Seal of Revelation. This will occur during "a time to hate" on the Solomon's Celestial Clock. A great persecution will break out against Jews. By the hundreds of thousands - maybe millions -  they will flee the Americas for Israel. "A time to dance" will be the safe resettling of many of them in Israel.
   - *Israel and the Church*. In the larger clock, "a time to mourn" was Diocletian's persecution of Christians in 303 AD. The mourning ended when Constantine issued the Edict of Milan, ending persecution of Christians by Rome. This was followed by "a time to dance", when Theodosius I issued the Edict of Thessalonica, making Nicene Christianity the state religion of Rome. This marriage of church and state is one of the two strongest connections between an empire and the Motherhood Pattern.
+
+<span id="2.8" />
 
 **Birth and Post partum recovery**. Most of these civilizations gave birth to another. The verdict is out on modern Israel.
 
@@ -354,6 +419,8 @@ From the preceding we see that two intersecting prophetic metaphors are both sat
 Rome arrived as a single kingdom or republic and as part of a collection of four empires that constituted a single statuesque entity. Only Rome's empire identity belongs to the statue, but
 its existence as a kingdom and republic are included in the other reference to Rome as distinct from those three prior empires. The tides of history are complicated, but the Bible's 
 prophets captured this complexity elegantly in the words they left for us to ponder.
+
+<span id="2.9" />
 
 **Death**. One kingdom will never die: the Kingdom of God, given here as Israel and the Church,
 formed into a single olive tree (Romans 11:17-24). Most of the civilizations on the list will end 
@@ -407,6 +474,8 @@ eternal purpose for the suffering of women.
 If God speaks to women through their suffering, what has he been saying? Lots! It is time to look in on
 some of the most virtuous women in the Bible. 
 
+<span id="3" />
+
 ## Spirit-Filled Women
 
 There is a flow and a direction to the tide of the spiritual ocean on which we are adrift.
@@ -422,6 +491,8 @@ Because of this, I cannot decide whether the ordering of the revelations that I 
 or accidental. Even if the order is not as tidy as what I present, the comprehensiveness of God's gifting 
 to women cannot be denied. Of this we can be sure. If God spoke quietly to women before Israel became a 
 nation and firmly while it was one, surely he has shouted to the women of the church in the days since.
+
+<span id="3.1" />
 
 **Comprehensive?**. How can we evaluate whether the Holy Spirit's communication to women has been comprehensive or not?
 Isaiah 11:2 names for us the [Seven Spirits of God](./seven-spirits.html). This section will show that each 
@@ -449,6 +520,8 @@ so they were sent out in order.
 
 Now let's meet the fourteen women(or groups of women) and the spirit that visited each.
 
+<span id="3.2" />
+
 **The Earlier Women**.
 
  - Sarah - Lordship
@@ -458,6 +531,8 @@ Now let's meet the fourteen women(or groups of women) and the spirit that visite
  - Rachel - Might
  - Job's daughters (Jemimah, Keziah, Keren-Happuch) - Knowledge
  - Miriam - The Fear of the Lord
+
+<span id="3.3" />
 
 **The Latter Women**. 
 
@@ -494,6 +569,8 @@ but were resolved after Deborah and Barak's victory over Sisera.
 Fourth and final, the Mary's can be ordered with Jesus' mother coming first since his birth happened first.
 Then we must put Mary Magdalene last because she was first to see the risen Christ.
 
+<span id="3.4" />
+
 **Divining the Spirit**
 
 For some of these women it is easy to identify a single one of the seven spirits that flowed into or out of them.
@@ -506,6 +583,8 @@ In the following, a woman or group from the first list (from the days of the Pat
 a name from the second list (between the days of the monarchy and the time of Christ). Names will be taken
 in forward chronological order from the first list and reverse order from the second, since they share the
 same spirit.
+
+<span id="3.5" />
 
 *(1) The Spirit of the Lord: Sarah and the three Mary's*
 
@@ -548,6 +627,8 @@ from seven evil spirits (Mark 16:9)! She was first in line to marvel at the rise
 How marvelous that God worked through these three women, all named Mary, to reveal His nature as a Trinity 
 to the world.
 
+<span id="3.6" />
+
 *(2) The Spirit of Wisdom: Hagar and Esther*
 
 Wisdom is always borne of suffering. Hagar was a slave, mistreated by her mistress, who had fled into the
@@ -570,6 +651,8 @@ In that case, wisdom gave strength to a wise *woman*.
 
 So we have two women, Hagar and Esther. By the spirit of wisdom one created a new nation and 
 by that same spirit the second saved hers.
+
+<span id="3.7" />
 
 *(3) The Spirit of Understanding: Rebekah and Naaman's Slave Girl*
 
@@ -602,6 +685,8 @@ Naaman almost refuses to do this because he thinks it stupid; it is the understa
 servants that persuades him to do it. At the end, Naaman begs Elisha for forgiveness in advance for 
 standing at his king's side in a pagan temple in false worship, a thing he would be required to do.
 How we need to be washed of so many filthy things!
+
+<span id="3.8" />
 
 *(4) The Spirit of Counsel: Leah and Hannah*
 
@@ -666,6 +751,8 @@ We can trace the path further.
 Sarah -> Leah -> Hannah -> Samuel -> Solomon -> Habakkuk -> Elizabeth -> Mary -> Jesus.
 
 By the Spirit of Counsel, no one has to be barren, no life be futile or vain.
+
+<span id="3.9" />
 
 *(5) The Spirit of Might: Rachel and Deborah*
 
@@ -745,6 +832,8 @@ was the courage it inspired in her people. Her faith made them mightier
 than the enemies who had oppressed them for twenty years.
 And how are Rachel and Deborah connected? Her general, Barak, was an Ephraimite,
 a descendant of Joseph, Rachel's favorite son.
+
+<span id="3.10" />
 
 *(6) The Spirit of Knowledge: Job's Daughters and Ruth and Naomi*
 
@@ -856,6 +945,8 @@ in her new land. Naomi poured her knowledge of God into Ruth and Ruth became the
 of a line of kings stretching to the savior.
 The Spirit of Knowledge of the Holy One entered Ruth and one day gave birth to the Holy One himself.
 
+<span id="3.11" />
+
 *(7) The Spirit of the Fear of the Lord: Miriam and Rahab*
 
 The story behind the last spirit is the easiest to understand but a hard one to tell.
@@ -894,27 +985,42 @@ saved her family from death. The Fear of the Lord caused Rahab to become a worsh
 and become an ancestor of King David and of Jesus Christ.
 
 With Rahab, this walk down memory lane is done. God sent His Seven Spirits to the women of the Bible and
-it changed their lives. Those spirits enabled these women to overthrow armies, stop a genocide, and direct the sick to healing.
-The women whom God blessed came from many life situations. Two were stuck in a dysfunctional polygamous family. 
-One had been a prostitute. Two were widows. One was past menopause. One was an ordinary mom called to battle. Two were slaves. 
+it changed their lives. Those spirits enabled these women to overthrow armies, stop a genocide, 
+and direct the sick to healing. The women whom God blessed came from many life situations. 
+Two were stuck in a dysfunctional polygamous family. One had been a prostitute. Two were widows. 
+One was past menopause. One was an ordinary mom called to battle. Two were slaves. 
 One became a queen after winning a beauty pageant. All of them changed the world.
 
+Earlier it was pointed out that these pairings of the earliest and latest women form a chiasm.
+Such a symmetric parallelism generally puts the most important point in the center.
+In our chiasm, that center point is the women who were imbued with the Spirit of the Fear of the Lord.
+While I was listening to Christian music on Spotify today, I heard a Kim Hill song that quotes the following
+verse and nicely sums things up:
+
+#### Charm is deceitful, and beauty is vain, 
+#### but a woman who fears the Lord is to be praised. 
+###### - Proverbs 31:30
+
 Now it is time to look at the shape of a woman's life and how that factors into God's plans for humanity.
+
+<span id="4" />
 
 ## A Woman's Journey by the Numbers
 
 
+<span id="5" />
 
 ## The Law: A Woman's Honor
 
+<span id="6" />
 
 ## Ecclesiastes 3: A Time for Women
 
-
+<span id="7" />
 
 ## Job as a Parable of Women's Suffering
 
-
+<span id="8" />
 
 ## Women do not Suffer for Naught
 
