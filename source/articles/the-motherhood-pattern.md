@@ -748,11 +748,158 @@ a descendant of Joseph, Rachel's favorite son.
 
 *(6) The Spirit of Knowledge: Job's Daughters and Ruth and Naomi*
 
+Proverbs has useful things to say about knowledge.
+In a chapter about Lady Wisdom, we hear this:
 
+#### The fear of the Lord is the beginning of wisdom, 
+##### and the knowledge of the Holy One is insight.
+###### - Proverbs 9:10
+
+In an admission of ignorance and humility from Agur son of Jakeh, we hear this:
+
+#### I have not learned wisdom, 
+##### nor have I knowledge of the Holy One.
+###### - Proverbs 30:3
+
+The parallelism might make you think that wisdom and knowledge are just synonyms.
+They are not. The Seven Pillars of Wisdom associate wisdom with the suffering of Job,
+but knowledge with the Gospel of Matthew. The gospel is literally about the Holy One, Jesus Christ.
+So there is wisdom from God that is more general and proceeds from the Fear of the Lord.
+Agur's later words call upon one to fear adding to God's words, thus show that He agrees:
+
+#### Every word of God proves true;
+##### he is a shield to those who take refuge in him.
+#### Do not add to his words,
+##### lest he rebuke you and you be found a liar.
+###### - Proverbs 30:5-6
+
+Agur also makes clearer what it is that he lacks:
+
+#### Who has ascended to heaven and come down?
+##### Who has gathered the wind in his fists?
+#### Who has wrapped up the waters in a garment?
+##### Who has established all the ends of the earth?
+#### **What is his name, and what is his son's name?**
+##### Surely you know!
+###### -  Proverbs 30:4
+
+Agur does not know the name of the Son of God! 
+That is true knowledge, knowing the savior, Jesus Christ, who has ascended to heaven and one day will come down again.
+
+In *Job Rises*, I discovered hidden in Job's words many statements that describe the nature of the coming savior.
+These words were Job's hopes. He didn't know if there was such a person but he needed there to be. They were his prayer for a savior. 
+They described his [Job Description for a Savior](./job-description-for-a-savior.md), 
+as though he were interviewing candidates who could fulfill his requirements. His friends scoffed at his ideas.
+For example, Bildad denied that any "Son of Man" could save him:
+
+#### Behold, even the moon is not bright,
+##### and the stars are not pure in his eyes;
+#### how much less man, who is a maggot,
+##### and **the son of man**, who is a worm!”
+###### - Job 25:5-6
+
+Only after the LORD showed up in the whirlwind are Job's words confirmed, as the LORD said:
+
+#### My anger burns against you and against 
+#### your two friends, for you have not spoken 
+#### of me what is right, as my servant Job has. 
+###### - Job 42:7b
+
+That was the moment when Job's wisdom became knowledge, when God told Him it was so.
+Then Job had three daughters:
+
+#### And he called the name of the first daughter Jemimah, 
+#### and the name of the second Keziah, and the name of 
+#### the third Keren-happuch. And in all the land there 
+#### were no women so beautiful as Job's daughters. 
+#### And their father gave them an inheritance among their brothers.
+###### - Job 42:14-15
+
+Surely Job taught his daughters the knowledge of God that had been given to him,
+and so the Spirit of Knowledge flowed into them.
+We know that Job's knowledge was greater at the end than at the beginning, 
+because he treated his new daughters better than the ones that had died.
+He gave them an equal inheritance with their brothers. Treating women equal to men is given 
+as the most significant change in Job's practices. What is more, the sons are not named, but
+the daughters are. This stands out as unique among the books of the Bible.
+Is it not fitting that the Lord Jesus would arrange for women to receive the honor
+of being first to see him after his resurrection? That Job and Jesus have so much in common
+is proof that Job truly did receive knowledge of the Holy One.
+
+With Ruth and Naomi, we have another story of one person of faith passing on their knowledge to
+the next generation. 
+
+#### And \[Naomi\] said,
+##### “See, your sister-in-law has gone back 
+##### to her people and to her gods; 
+##### return after your sister-in-law.”
+#### But Ruth said,
+##### “Do not urge me to leave you or to return 
+##### from following you. For where you go I will go, 
+##### and where you lodge I will lodge. 
+##### Your people shall be my people, 
+##### and your God my God. 
+##### Where you die I will die, 
+##### and there will I be buried. 
+##### May the Lord do so to me and more also 
+##### if anything but death parts me from you.”
+#### And when Naomi saw that she was determined 
+#### to go with her, she said no more.
+###### - Ruth 1:15-18
+
+Ruth knew her mother-in-law, Naomi. She knew her character, her godliness, and her wisdom.
+Knowing this, she had come to know Naomi's God and made her choice.
+In the days to follow, she followed her mother-in-law's instructions carefully,
+and so found protection in a foreign land, food and then a new and godly husband. 
+What is more, her mother-in-law's reputation and God's providence brought Ruth acceptance
+in her new land. Naomi poured her knowledge of God into Ruth and Ruth became the mother 
+of a line of kings stretching to the savior.
+The Spirit of Knowledge of the Holy One entered Ruth and one day gave birth to the Holy One himself.
 
 *(7) The Spirit of the Fear of the Lord: Miriam and Rahab*
 
+The story behind the last spirit is the easiest to understand but a hard one to tell.
+Miriam had been faithful to God, led the procession of women in song after the crossing of the Red Sea,
+and been a leader among the people of Israel. She was Moses' sister. Sadly, she became proud.
 
+<p><em>
+Miriam and Aaron spoke against Moses because of the Cushite woman whom he had married, for he had married a Cushite woman. And they said, “Has the Lord indeed spoken only through Moses? Has he not spoken through us also?” And the Lord heard it. Now the man Moses was very meek, more than all people who were on the face of the earth. And suddenly the Lord said to Moses and to Aaron and Miriam, “Come out, you three, to the tent of meeting.” And the three of them came out. And the Lord came down in a pillar of cloud and stood at the entrance of the tent and called Aaron and Miriam, and they both came forward. And he said, “Hear my words: If there is a prophet among you, I the Lord make myself known to him in a vision; I speak with him in a dream. Not so with my servant Moses. He is faithful in all my house. With him I speak mouth to mouth, clearly, and not in riddles, and he beholds the form of the Lord. <strong>Why then were you not afraid to speak against my servant Moses?</strong>” And the anger of the Lord was kindled against them, and he departed. <br/>
+- Numbers 12:1-9 
+</p></em>
+
+Miriam would be struck with leprosy and forced to leave the camp for a week. 
+That is how the Spirit of the Fear of the Lord entered Miriam.
+I have never been struck with leprosy, but I have done many foolish things and been confronted
+by my sin, sometimes by God in private and other times by friends, family or others.
+It is never easy.
+
+If the Spirit of the Fear of the Lord flowed into Miriam during one crisis, it flowed
+out of Rahab in another, delivering victory to Israel and deliverance from death for 
+Rahab and her family. As Joshua was preparing to invade the land and attack Jericho,
+he sent out spies. A woman of the city named Rahab agreed to hide the spies from detection
+in return for protection during and after the battle. This was the reason she gave for cooperating:
+
+<p><em>
+Before the men lay down, she came up to them on the roof and said to the men, “I know that the Lord has given you the land, and that <strong>the fear of you has fallen upon us, and that all the inhabitants of the land melt away before you.</strong> For we have heard how the Lord dried up the water of the Red Sea before you when you came out of Egypt, and what you did to the two kings of the Amorites who were beyond the Jordan, to Sihon and Og, whom you devoted to destruction. And as soon as we heard it, <strong>our hearts melted, and there was no spirit left in any man because of you, for the Lord your God, he is God in the heavens above and on the earth beneath.</strong> Now then, please swear to me by the Lord that, as I have dealt kindly with you, you also will deal kindly with my father's house, and give me a sure sign that you will save alive my father and mother, my brothers and sisters, and all who belong to them, and deliver our lives from death.” And the men said to her, “Our life for yours even to death! If you do not tell this business of ours, then when the Lord gives us the land we will deal kindly and faithfully with you.”
+<br/>
+- Joshua 2:8-14
+</p></em>
+
+Rahab was terrified. She was afraid of the God of Israel and so she changed her allegiance. 
+Many people are uncomfortable with the fear of the Lord. They don't like it. They try to downplay it.
+They try to make it into something more palatable like respect. True, respect is part of it, but so is real fear.
+But the Fear of the Lord is not like the fear of men. The fear of men makes you weak. The Fear of the Lord makes you strong.
+Rahab defied her city and her whole society, acted in courage and in faith that the Israelites would honor their pledge and so
+saved her family from death. The Fear of the Lord caused Rahab to become a worshiper of Yahweh, marry into the house of Israel
+and become an ancestor of King David and of Jesus Christ.
+
+With Rahab, this walk down memory lane is done. God sent His Seven Spirits to the women of the Bible and
+it changed their lives. Those spirits enabled these women to overthrow armies, stop a genocide, and direct the sick to healing.
+The women whom God blessed came from many life situations. Two were stuck in a dysfunctional polygamous family. 
+One had been a prostitute. Two were widows. One was past menopause. One was an ordinary mom called to battle. Two were slaves. 
+One became a queen after winning a beauty pageant. All of them changed the world.
+
+Now it is time to look at the shape of a woman's life and how that factors into God's plans for humanity.
 
 ## A Woman's Journey by the Numbers
 
