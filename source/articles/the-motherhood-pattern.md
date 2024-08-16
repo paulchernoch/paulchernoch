@@ -456,7 +456,7 @@ Now let's meet the fourteen women(or groups of women) and the spirit that visite
  - Rebekah - Understanding
  - Leah - Counsel
  - Rachel - Might
- - Jacob's daughters (Jemimah, Keziah, Keren-Happuch) - Knowledge
+ - Job's daughters (Jemimah, Keziah, Keren-Happuch) - Knowledge
  - Miriam - The Fear of the Lord
 
 **The Latter Women**. 
@@ -510,7 +510,7 @@ same spirit.
 *(1) The Spirit of the Lord: Sarah and the three Mary's*
 
 Though more is written about Sarah than many other women in the Bible, the New Testament writers helpfully
-focus out attention on one character trait: her faith.
+focus our attention on one character trait: her faith.
 
 #### For this is how **the holy women who hoped in God**
 #### used to adorn themselves, by submitting to their 
@@ -540,7 +540,7 @@ flowed out ot Mary.
 
 God is Trinity. The virgin birth was a physical miracle so demonstrates the power of the Father.
 Mary of Bethany, sister of Lazarus and Martha, demonstrated the work of this spirit in a second way.
-She sat at the feet of Jesus, listening and learning. Hers was faith that learning the Word as more important 
+She sat at the feet of Jesus, listening and learning. Hers was faith that learning the Word was more important 
 than any other responsibility (Luke 10:38-42). That leaves Mary Magdalene to represent the Holy Spirit.
 She beheld the Spirit's power like none other. Are there Seven Spirits of God? Mary Magdalene was delivered
 from seven evil spirits (Mark 16:9)! She was first in line to marvel at the risen Christ.
@@ -606,11 +606,11 @@ How we need to be washed of so many filthy things!
 *(4) The Spirit of Counsel: Leah and Hannah*
 
 In the Nicene Creed, recited and believed by most Christians, Orthodox, Catholic and Protestant, we find
-these words (with the disputed Filioque clause included in italics):
+these words (with the disputed Filioque clause included in parentheses):
 
 #### We believe in the Holy Spirit, the Lord, 
 #### the Giver of life, who proceeds from the Father 
-#### *and the Son*.
+#### (and the Son).
 #### With the Father and the Son He is worshipped
 #### and glorified. **He has spoken through the prophets**.
 
@@ -669,9 +669,84 @@ By the Spirit of Counsel, no one has to be barren, no life be futile or vain.
 
 *(5) The Spirit of Might: Rachel and Deborah*
 
+The bitter rivalry between sisters Rachel and Leah and the heartache each suffered should be enough to convince
+the world that polygamy is a bad idea. The heart of Rachel's pain is laid bare in Genesis 30:1-24.
+It begins with this exchange:
 
+#### When Rachel saw that she bore Jacob no children, 
+#### she envied her sister. She said to Jacob, 
+##### “Give me children, or I shall die!” 
+#### Jacob's anger was kindled against Rachel, and he said, 
+##### “Am I in the place of God, who has 
+##### withheld from you the fruit of the womb?”
+###### - Genesis 30:1-2
 
-*(6) The Spirit of Knowledge: Jacob's Daughters and Ruth and Naomi*
+Rachel discloses the evil of envy in her heart, but also the pain of feeling powerless over having no children.
+If anyone needed the Spirit of Might, it was Rachel. She was the one wronged by Laban and her sister and
+forced into this horrible soap opera of a family, sharing a husband, which no woman should ever endure.
+Did she come into that might by right and entitlement? No, she took her husband's words to heart and humbled herself.
+Later Rachel would say, *“God has judged me, and has also heard my voice and given me a son.”* (Genesis 30:6a)
+This is both confession and praise. She accepts God's plan for her life, to have children through her servant Bilhah.
+
+#### Rachel's servant Bilhah conceived again and 
+#### bore Jacob a second son. Then Rachel said, 
+##### **“With mighty wrestlings I have wrestled** with 
+##### my sister and have prevailed.”
+#### So she called his name Naphtali.
+###### - Genesis 30:7-8
+
+Rachel calls her struggle wrestling, a contest of strength.
+Two chapters later, her husband Jacob would wrestle with an angel. 
+I wonder, which had to fight the hardest?
+
+Later still, after her first child was born to her directly, not via her servant, this happens:
+
+#### Then God remembered Rachel, and God listened to her
+#### and opened her womb. She conceived and bore a son and said, 
+##### “God has taken away my reproach.”
+#### And she called his name Joseph, saying, 
+##### “May the Lord add to me another son!”
+###### - Genesis 30:22-24
+
+To carry and deliver a child at all requires all the strength a woman can muster.
+Add to that the years long struggle with her sister and you must concede that
+God gave Rachel the emotional and spiritual might to prevail in her contest.
+To keep praying, year after year, without giving up and believe that God does not hate you,
+has not abandoned you, that requires a mighty faith.
+
+Just as God poured His Spirit of Might into Rachel, so that spirit issued out of Deborah,
+the sole female Judge over Israel. She courageously accompanied Barak into battle against the Canaanites
+and won a great victory over Sisera and his 9,000 iron chariots. As Deborah prophesied,
+because Barak lacked the courage to go without her, the glory would go to another woman. 
+Jael, wife of Heber, drove a tent peg into the temple of the enemy general, a mighty blow.
+
+#### In the days of Shamgar, son of Anath,
+##### in the days of Jael, the highways were abandoned,
+##### and travelers kept to the byways.
+#### The villagers ceased in Israel;
+##### they ceased to be until I arose;
+##### I, Deborah, arose as **a mother in Israel**.
+###### - Judges 5:6-7
+
+In the Song of Deborah and Barak, Deborah is modest. She calls herself "a mother in Israel".
+She epitomizes the Motherhood Pattern. It is a life of sacrifice and pain that leads those
+women who do not abandon their faith to great victory, achievement and glory.
+
+#### Awake, awake, Deborah!
+##### Awake, awake, break out in a song!
+#### Arise, Barak, lead away your captives,
+##### O son of Abinoam.
+#### Then down marched the remnant of the noble;
+##### **the people of the Lord marched down for me against the mighty**.
+###### - Judges 5:12-13
+
+The proof that the Spirit of Might lived in the heart of Deborah
+was the courage it inspired in her people. Her faith made them mightier
+than the enemies who had oppressed them for twenty years.
+And how are Rachel and Deborah connected? Her general, Barak, was an Ephraimite,
+a descendant of Joseph, Rachel's favorite son.
+
+*(6) The Spirit of Knowledge: Job's Daughters and Ruth and Naomi*
 
 
 
