@@ -980,10 +980,10 @@ Before the men lay down, she came up to them on the roof and said to the men, â€
 Rahab was terrified. She was afraid of the God of Israel and so she changed her allegiance. 
 Many people are uncomfortable with the fear of the Lord. They don't like it. They try to downplay it.
 They try to make it into something more palatable like respect. True, respect is part of it, but so is real fear.
-But the Fear of the Lord is not like the fear of men. The fear of men makes you weak. The Fear of the Lord makes you strong.
-Rahab defied her city and her whole society, acted in courage and in faith that the Israelites would honor their pledge and so
-saved her family from death. The Fear of the Lord caused Rahab to become a worshiper of Yahweh, marry into the house of Israel
-and become an ancestor of King David and of Jesus Christ.
+But the Fear of the Lord is not like the fear of men. The fear of men makes you weak. The Fear of the Lord 
+makes you strong. Rahab defied her city and her whole society, acted in courage and in faith that the 
+Israelites would honor their pledge and so saved her family from death. The Fear of the Lord caused Rahab to 
+become a worshiper of Yahweh, marry into the house of Israel and become an ancestor of King David and of Jesus Christ.
 
 With Rahab, this walk down memory lane is done. God sent His Seven Spirits to the women of the Bible and
 it changed their lives. Those spirits enabled these women to overthrow armies, stop a genocide, 
@@ -1008,6 +1008,139 @@ Now it is time to look at the shape of a woman's life and how that factors into 
 
 ## A Woman's Journey by the Numbers
 
+This article started out big, tracing the course of empires, then narrowed down to the lives of nineteen
+special women. Now it is time to reach down to the life of the individual woman. The remaining sections
+will trace out:
+
+  - The length and climax of the journey
+  - The start of the journey, given in the Ten Commandments
+  - The milestones along the way, given in Ecclesiastes 3
+  - The purpose of the journey, given in Job and elsewhere
+
+My pursuit of wisdom has been a journey of discovery. I reached an impasse about a dozen years ago.
+I had just discovered that the greatest spiritual treasure is the Glory of God. Only that glory
+could light my way forward. That glory cannot be seized. There is no twelve step program to
+acquire it. You ask God for it. You crave it in your heart. You pray. In my case, I fasted for three years.
+After that, I waited.
+
+How does this relate to women and motherhood? During the time of fasting and then of waiting, one insight came 
+to me, just one. I read Matthew's chronology of Jesus and had a curious thought. I saw a pattern
+that suggested that history was symmetric. This meant that God had decreed how many generations of humanity
+would come and go before the end. This idea is explored in detail in the article 
+[Generations Come and Go](./generations-come-and-go.html). All this came from looking at a genealogy.
+What is a genealogy? In Matthew, it is mostly the names of men, with a few women thrown in.
+It may name the men, but it is a record of the painful labor of their wives (and in some cases concubines).
+When I had my first insight, I did not see the women. This Motherhood pattern and many other discoveries related
+to prophecy, eschatology and God's wisdom for life did not come to me and could not come to me until I saw the women.
+
+When I studied Ecclesiastes, I found in chapter one a list of the types of prophetic clocks.
+The kind I favored were Celestial Clocks. I gave them that name because they are as precise as the movements
+of the heavenly bodies. They are announced by the words, *"The sun rises, and the sun goes down, and hastens to the place where it rises."* (Ecclesiastes 1:5) In such clocks, each time period covered by the clock has a precise,
+uniform length. That is the kind of clock that we men like. Men are good at keeping time and making schedules.
+Just look at Solomon. He was adept at measuring and categorizing time. One look at his poem in Ecclesiastes 3
+confirms this. Yes, men are good at keeping time...
+
+... and women are better. Men impose time upon their world, but time is imposed upon the world of women.
+A woman's survival has long depended upon understanding the clocks burned into her biology:
+
+  - puberty
+  - menarche
+  - the menstrual cycle
+  - engagement
+  - marriage
+  - conception
+  - quickening
+  - labor pains
+  - delivery
+  - post partum recovery
+  - weaning
+  - menopause
+
+From minutes between contractions, to days between periods, to months until birth,
+to years until menopause and freedom from the cycles, women are always counting.
+Some of these clocks are regular but others vary considerably. It is from this cloth
+that the [Generational Clocks](./generational-clocks.html) are cut: 
+*"A generation goes, and a generation comes, but the earth remains forever."* (Ecclesiastes 1:4)
+Solomon lists that kind of clock first. I do not think it an accident.
+
+Generations are built upon women giving birth. If some prophetic clocks are built upon generations, 
+that means God has shaped time to reflect the rhythms and shared experiences of women. That His plan for
+time also reflects the shared experiences of men is unsurprising as centuries of theologians
+have already uncovered much of that. Why has it been so hard to see the feminine side of philosophy?
+
+In [Lady Wisdom](./lady-wisdom.html) I named nine women who were pivotal in my life, from the one who
+shared the gospel that saved me to the one who set me free from depression to the one who pulled me
+from a frozen lake and saved my life literally. In that list I did not include other inspiring figures in 
+my life, like my mother, a Duke grad in math and career software engineer, who fostered my love of 
+mathematics and is one reason that I took up programming as a career. Nor did I list my sister Katherine,
+who rose to the rank of Captain in the US Navy and headed CNATT, the Center for Naval Aviation Technical Training,
+in charge of all training in the Navy (other than combat training). I also omitted several Christian women
+who were teachers in my middle and high school. Only with such a cloud of women witnesses surrounding me
+was it possible for me to finally break free. 
+
+Did that breaking free open my eyes to the truth? No! Once I broke free, I saw my blindness.
+Then my heart was ready to pray. Then I was ready to hear whatever God might say about the place
+of women in His world. On hearing my ideas, people question why we should believe that God would hide 
+for so long the riddles I claim to have solved. All it took was one prayer from a heart that 
+had slowly been cleared of prejudice. One! Within days I had my answer. In the last few years God
+has added to it.
+
+How many men have been as blessed as I to receive so much grace by the hands of women?
+How dark must my heart have been to swallow up so much light and remain black until almost the end?
+After searching my own heart, I have no illusions about how strong is the spiritual wall
+keeping people from the truth. The mysteries do not remain mysteries because our minds are dull
+or God is cagey, but because our hearts are hard. I have an MIT degree, have worked in ten industries, 
+taken classes i seminary, am fair-minded, willing to listen to both sides, logical and conscientious 
+to find answers to all the nagging questions that challenge what I believe. I change my beliefs 
+when they are proven wrong. All that I already was before I changed my mind about what the Bible 
+has to say about women.
+
+After my heart was freed, what grabbed my attention next was the math. My mother's father was a 
+civil engineer. My mother majored in math as did my sister. My father and I studied physics. 
+My brother studied computer science. Short of an angel dictating the answers (which God can do),
+nobody without facility in math could crack these puzzles. The math needed to understand the ideas
+is small but the math skills needed to find them was not.
+
+The beautiful mystery is that God chose numbers meaningful to both men (often related to astronomy or the 
+achievements of men) and women. The very unity and equality of His analogies hides the
+feminine side because of our blindness. 
+
+[Twenty-eight (28)](./28-is-for-time.html). There are twenty-eight times in Ecclesiastes 28. This suggests the lunar cycle, a cold, mathematical quantity. The sidereal month is the time needed for the Moon to return to the same place against the background of the stars, which is 27.32 days. It is also the mean length of a woman's menstrual period. Ecclesiastes 3 says a lot about men's toil, making men the obvious subject of the poem. But it addresses "the children of men" which shows women by hiding them behind childbirth. And the central quartet ends with "a time to embrace". It is a man and the wife whom he loves who are called to embrace. Both men and women are present.
+
+[Forty-two (42)](./42-is-for-the-journey.html). Forty-two pops up all over Scripture. In Genesis, the three repetitions of Pharaoh's dream multiplies the seven healthy and seven sick cattle to a total of forty-two cattle; the cattle represent the passage of time. Then in Numbers, as the people wander the desert, they move camp often, for a total of forty-two travel legs. Again, stylistic devices break the journey into three parts. In Matthew, he makes a point of dividing the genealogy into three parts of fourteen generations each. Four women are named in the genealogy: a sly and demanding daughter-in-law, a prostitute, a foreigner (from an enemy kingdom, Moab), and the at the time unmarried mother of our Lord. Indirect mention is even made of a woman who conspired with David to cover up an affair, leading to murder of her husband (Uriah). The LORD was making a strong statement about how determined He was to include women, 
+no matter what men might think.
+
+The use of forty-two that stirs my heart the most is in Nehemiah. Jerusalem lay in ruins and Nehemiah 
+courageously rallied the people to rebuild the city walls. The wall was repaired by individuals, families, groups of merchants, and priests. It was repaired in forty-two sections. Two of the builders had the same name: Shallum.
+Shallum the son of Col-hozeh is distinguished because he worked on the middle two sections and was the only one to repair two sections. His name describes his work. Shallum means to make whole through recompense. He helped
+make the city whole.
+
+The other Shallum is even closer to my heart. *Next to him Shallum the son of Hallohesh, ruler of half the district of Jerusalem, repaired, he and his daughters.* (Nehemiah 3:12) I am a man with daughters, not sons. The city lay in ruins,
+but the daughters of only one man were deemed worthy of mention in the record of its rebuilding.
+
+From the journey in Numbers and the genealogy in Matthew I inferred a math formula:
+
+<div class="pullquote-centered">
+  <p>42 = 40 + 1 + 1</p>
+</div>
+
+In Numbers, there were forty marches, then a big battle, then marching into the Promised Land.
+
+In Matthew, there were forty-generations of sinners, then a savior in the forty-first generation who fought a big battle on the cross, then Christ's offspring, the church.
+
+For all the marvelous lessons that can be learned from these stories of forty-two, prophecies about events lasting
+forty-two months in Revelation, and others, the most important is what it means to women.
+The median length of a pregnancy is about forty weeks. Then you have the birth. Then the post partum recovery time.
+Tossing in the median recovery time, you get forty-two weeks. That is the length of a woman's birthing journey.
+
+In Genesis 3, when God cursed the serpent, his defeat was prophesied to be caused by the seed of the woman.
+That seed is Jesus, a singular man. To get to Jesus took many women. Women were the forty-two that got
+us from Abraham to Jesus to the church. If you add up the values of the Hebrew letters in one of the names
+of God, Eloah, you also get forty-two.
+
+The number forty-two was instrumental in guiding me to the Bible book containing the most detailed information 
+about God's prophetic plan for women. Only one Bible book has forty-two chapters: Job. 
+Before we get to that, let's take a short look at the Ten Commandments.
 
 <span id="5" />
 
