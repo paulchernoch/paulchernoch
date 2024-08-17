@@ -1090,7 +1090,7 @@ How dark must my heart have been to swallow up so much light and remain black un
 After searching my own heart, I have no illusions about how strong is the spiritual wall
 keeping people from the truth. The mysteries do not remain mysteries because our minds are dull
 or God is cagey, but because our hearts are hard. I have an MIT degree, have worked in ten industries, 
-taken classes i seminary, am fair-minded, willing to listen to both sides, logical and conscientious 
+taken classes in seminary, am fair-minded, willing to listen to both sides, logical and conscientious 
 to find answers to all the nagging questions that challenge what I believe. I change my beliefs 
 when they are proven wrong. All that I already was before I changed my mind about what the Bible 
 has to say about women.
@@ -1131,12 +1131,15 @@ In Matthew, there were forty-generations of sinners, then a savior in the forty-
 For all the marvelous lessons that can be learned from these stories of forty-two, prophecies about events lasting
 forty-two months in Revelation, and others, the most important is what it means to women.
 The median length of a pregnancy is about forty weeks. Then you have the birth. Then the post partum recovery time.
-Tossing in the median recovery time, you get forty-two weeks. That is the length of a woman's birthing journey.
+Another 40+1+1! Tossing in the median recovery time, you get forty-two weeks total. That is the length of a woman's birthing journey.
 
 In Genesis 3, when God cursed the serpent, his defeat was prophesied to be caused by the seed of the woman.
 That seed is Jesus, a singular man. To get to Jesus took many women. Women were the forty-two that got
 us from Abraham to Jesus to the church. If you add up the values of the Hebrew letters in one of the names
 of God, Eloah, you also get forty-two.
+
+[The Journey Pattern](./the-journey-pattern.html) article goes into more detail, but the conclusion 
+of the journey is what is important. After our savior wins the battle, he leads us into the Promised Land, Heaven.
 
 The number forty-two was instrumental in guiding me to the Bible book containing the most detailed information 
 about God's prophetic plan for women. Only one Bible book has forty-two chapters: Job. 
