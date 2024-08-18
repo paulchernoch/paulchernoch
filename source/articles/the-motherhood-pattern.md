@@ -389,7 +389,7 @@ jibe with the course of empires?
 
 **Birth and Post partum recovery**. Most of these civilizations gave birth to another. The verdict is out on modern Israel.
 
-  - *The World*. In Rome's "a time to be born" treatment above, that civilization was born in 753 BC with the founding of the city of Rome. In this treatment for the world's clock, Rome was "born" in 509 BC, when its last king was deposed and the Roman Republic was born. That seems more appropriate, as tearing can symbolize civil war and Rome had that in spades in this era. After that, the "time to mend" was Rome's acquisition of control over most of the Mediterranean as a result of the Punic Wars and the Roman -Seleucid War.
+  - *The World*. In Rome's "a time to be born" treatment above, that civilization was born in 753 BC with the founding of the city of Rome. In this treatment for the world's clock, Rome was "born" in 509 BC, when its last king was deposed and the Roman Republic was born. That seems more appropriate, as tearing can symbolize civil war and Rome had that in spades in this era. After that, the "time to mend" was Rome's acquisition of control over most of the Mediterranean as a result of the Punic Wars and the Roman-Seleucid War.
   - *Rome*. Events in both halves of the Roman Empire signify the tearing. In 476 AD, Rome fell and the Western Roman Empire ceased to exist. In 532 AD, the Nika riots and other unrest nearly shattered the Eastern Roman Empire (Byzantium). The Plague of Justinian, numerous wars and the chilling effects of volcanic activity devastated the empire. What would become Europe was carved out of the remains odf the western empire and began to grow in a new direction. The post partum recovery would be Justinian's reversal of decline in the east and Pope Gregory the Great's brilliant diplomacy, vision and leadership in the west.
   - *Europe*. None dispute that the Protestant Reformation of the 16th century was the birth of a new civilization. Many revolutions in philosophy, science and politics occurred in rapid succession, upending the world order. This includes the scientific revolution, the age of reason and eventually the industrial revolution. The wars of religion and the General Crisis of the 17 century spilled a lot of blood. This blood is the blood of post partum hemmhoraging, staunched only by the Peace of Westphalia and subsequent moves toward religious liberty and tolerance.
   - *Protestant Christendom*. This civilization gave birth to modern Israel in 1948. It also nearly killed its child. The postwar period and the Cold War were the time of recovery.
@@ -519,7 +519,7 @@ of judgment, one per millennium of history, the order of the swords also matched
 Revelation 5:6 tells us that the Seven Spirits of God were sent out into the earth. All God's plans are orderly, 
 so they were sent out in order.
 
-Now let's meet the fourteen women(or groups of women) and the spirit that visited each.
+Now let's meet the fourteen women (or groups of women) and the spirit that visited each.
 
 <span id="3.2" />
 
@@ -740,7 +740,7 @@ named them.
 
 Why do I respect these women of faith? What caused my estimation of their value to soar? 
 I followed the threads. I was trying to decide if I had found the seven pillars of wisdom,
-only to learn that Hannah knew of them them first. 
+only to learn that Hannah knew of them first. 
 *"For the pillars of the earth are the Lord's, and on them he has set the world."* (1 Samuel 2:8c)
 Surely her words were a source of inspiration even for Solomon!
 Only once I began to respect the profound power in Hannah's prayer did I note the connection to Leah.
@@ -825,7 +825,8 @@ women who do not abandon their faith to great victory, achievement and glory.
 #### Arise, Barak, lead away your captives,
 ##### O son of Abinoam.
 #### Then down marched the remnant of the noble;
-##### **the people of the Lord marched down for me against the mighty**.
+##### **the people of the Lord marched down**
+##### **for me against the mighty**.
 ###### - Judges 5:12-13
 
 The proof that the Spirit of Might lived in the heart of Deborah
@@ -1128,6 +1129,11 @@ In Numbers, there were forty marches, then a big battle, then marching into the 
 
 In Matthew, there were forty-generations of sinners, then a savior in the forty-first generation who fought a big battle on the cross, then Christ's offspring, the church.
 
+In Ecclesiastes, a cautionary tale. Take the twenty-eight times leading to maturity (Ecclesiastes 3),
+add to it the twelve years of the productive, middle years (Ecclesiastes 10) and the two years of decline 
+(Ecclesiastes 11-12) and you get forty-two stages to a human life. Those are forty-two stages along life's 
+journey to the grave.
+
 For all the marvelous lessons that can be learned from these stories of forty-two, prophecies about events lasting
 forty-two months in Revelation, and others, the most important is what it means to women.
 The median length of a pregnancy is about forty weeks. Then you have the birth. Then the post partum recovery time.
@@ -1148,6 +1154,189 @@ Before we get to that, let's take a short look at the Ten Commandments.
 <span id="5" />
 
 ## The Law: A Woman's Honor
+
+[Matthew and the Law of Christ](./matthew-and-the-law-of-christ.html) shares a remarkable discovery.
+The Ten Commandments may be divided into fourteen imperative statements.
+
+  - The first seven statements are about love for God. They nicely fit the [Harvest Pattern](./harvest-pattern.html).
+  - The second seven statements are about love for our fellow humans. They nicely fit the [Growth Pattern](./growth-pattern.html)
+
+<img class="wide" src="images/as-above-so-below.png" alt="Two levels of commandments"/>
+
+As we will see later, the Growth Pattern and the Motherhood Pattern are very similar since both are based on
+Ecclesiastes 3. That means that the Motherhood Pattern also fits the second set of imperative statements.
+This fit is important. It shows that the patterns flow from God's Law. They have roots. They have a
+foundation. This also means that the commandments are not static. They are not just a set of rules
+that proscribe certain behaviors. Since the patterns plot a direction through life and have a goal,
+so too does the Law.
+
+Does this surprise you? It surprised me. Solomon said this at the end of Ecclesiastes:
+
+#### The end of the matter; all has been heard. 
+#### Fear God and keep his commandments, 
+#### for this is the whole duty of man.
+###### - Ecclesiastes 12:13
+
+I wrestled with this verse for decades. I could neither understand nor accept it.
+Understanding came slowly. First you have to learn what it means to fear God.
+Then you have to understand what it means to keep the commandments.
+Finally, the hardest thing is to accept that this constitutes an engaging, fulfilling purpose for life.
+
+I had always heard this preached. The Ten Commandments are like safety rails. If you stay inside them,
+you have the freedom to flourish and live without suffering harm. Or it is like playing a musical
+instrument. Once you master the mechanics, how to play scales and simple compositions, you
+have the freedom make make beautiful music instead of cacophony.
+
+Those analogies made sense, but Solomon goes way beyond that. There is hidden in the Law a goal, a purpose.
+Only once I grasped both the Harvest and Growth Patterns and saw how they fit into the Law could I
+discern that purpose. Those two patterns both end in peace. One is the peace from winning a single victory.
+The other is the peace of a life well lived, reaching the climax of a mature faith lived in the context
+of a loving and supportive community of Christians who demonstrate loyalty to each other and to Christ.
+
+If you look at the commandments as solely ordered from one to ten, you don't see them as having a
+unifying goal. However, once they are split into upper and lower commandments (aimed at God and man, respectively),
+then you can see it. The end of the upper imperatives is the threefold command to keep the sabbath.
+The third part is to rest on the seventh day. That is peace with God.
+
+The last two imperatives belonging to the second half of the commandments are the ones to not
+covet your neighbor's wife or goods. The opposite of not coveting is contentment. That is peace 
+in your heart and with your fellow man.
+
+The fourth commandment is the only one that references time; it appeals to the seven days of creation.
+This is a big clue that this commandment is directing us toward the end state of the life of faith, the goal.
+
+Our problem is that we cannot follow the law by our own efforts. That is the terrible truth that Paul
+writes about in his letters. We need grace. It would seem that there is no grace in the Law.
+Not so! The Ten Commandments hide within them a channel of grace. That channel is the means by which
+we may enter into the peace of the eternal sabbath, or rather it is how the eternal sabbath rest
+may enter into us.
+
+What is that channel? It is the fifth commandment.
+
+#### Honor your father and your mother, 
+#### that your days may be long in the land 
+#### that the Lord your God is giving you.
+###### - Exodus 20:12
+
+Ephesians gives us the clue that something is hiding inside the command:
+
+#### Children, obey your parents in the Lord, 
+#### for this is right.
+##### “Honor your father and mother” 
+#### (this is the first commandment with a promise),
+##### “that it may go well with you and that 
+##### you may live long in the land.”
+###### - Ephesians 6:1-3
+
+This simple word from Paul gives us the clue that explains what Jesus had to do to save us and why.
+There are many theories of the atonement. These theories try to answer the question, "What did Jesus do for us?"
+Here are some (derived from an article by Stephen D. Morrison, [7 Theories of the Atonement Summarized](https://www.sdmorrison.org/7-theories-of-the-atonement-summarized/)):
+
+  - Jesus was a good Moral Influence for us to imitate. (**Moral Influence Theory**)
+  - Jesus gave his life to pay our ransom and set us free. (**Origen's Ransom Theory**)
+  - Jesus was victorious over evil. (**Christus Victor Theory**)
+  - Jesus satisfied God's justice, making restitution for our wrongs. (**Anselm's Satisfaction Theory**)
+  - Jesus took our place, receiving our punishment so we don't have to. (**Penal Substitution Theory of Luther & Calvin**)
+  - Jesus suffered a representative (not a proportional punishment) to show God's displeasure with sin. (**Methodist Governmental Theory**)
+  - Jesus took the place as the victim of our crimes. (**Scapegoat Theory**)
+
+It seems likely that pieces of some or all these theories are all true. 
+That truth is the price that Jesus paid (may he be forever praised) but that truth should not distract us. 
+We must not confuse the tactics with the goal. What is the goal? Jesus did it all so that we might become...
+
+Children of God...
+
+#### But to all who did receive him, who believed 
+#### in his name, **he gave the right to become children of God**,
+#### who were born, not of blood nor of the will of the flesh 
+#### nor of the will of man, but of God.
+###### - John 1:12-13
+
+With redeemed bodies...
+
+#### And not only the creation, but we ourselves, 
+#### who have the firstfruits of the Spirit, 
+#### groan inwardly as we wait eagerly for **adoption as sons**, 
+#### **the redemption of our bodies**.
+###### - Romans 8:23
+
+Predestined for adoption...
+
+#### Blessed be the God and Father of our Lord Jesus Christ, 
+#### who has blessed us in Christ with every spiritual blessing 
+#### in the heavenly places, even as he chose us in him before 
+#### the foundation of the world, that we should be holy and 
+#### blameless before him. **In love he predestined us** 
+#### **for adoption to himself as sons** through Jesus Christ, 
+#### according to the purpose of his will, to the praise 
+#### of his glorious grace, with which he has blessed us 
+#### in the Beloved.
+###### - Ephesians 1:3-6
+
+Adoption is the linchpin that connects the Fifth and Fourth commandments. Here is how:
+
+  - Jesus honored (and continues to honor) his father and mother perfectly. 
+  - By offering this honor, Jesus earned the blessing of the Fifth commandment.
+  - The blessing is *"that your days may be long in the land"*.
+  - Since his honoring of his parents was infinite, the blessings Jesus received were infinite in magnitude.
+  - Thus the blessing is infinite days in the land - Eternal life.
+  - By winning the victory over Satan and all evil, taking our place, and paying our ransom, Jesus paid the adoption fee.
+  - Now that we are part of his family, we are listed on his last will and testament as beneficiaries.
+  - Jesus died, so the terms of his last will and testament must be executed.
+  - Christ's will is simple: *Blessed are the meek, for they shall inherit the earth.* (Matthew 5:5)
+  - By the terms of the will, his adopted brothers and sisters receive his inheritance.
+
+#### And everyone who has left houses or brothers 
+#### or sisters or father or mother or children 
+#### or lands, for my name's sake, will receive 
+#### a hundredfold and will inherit eternal life.
+###### - Matthew 19:29
+
+#### Then the King will say to those on his right, 
+##### ‘Come, you who are blessed by my Father, 
+##### inherit the kingdom prepared for you from 
+##### the foundation of the world.
+###### - Matthew 25:34
+
+By what token have we confidence that Jesus will make good on these promises? 
+
+#### In him you also, when you heard the word of truth, 
+#### the gospel of your salvation, and believed in him, 
+#### were **sealed with the promised Holy Spirit**, 
+#### **who is the guarantee of our inheritance** until we 
+#### acquire possession of it, to the praise of his glory.
+###### - Ephesians 1:13-14
+
+In these promises we see words like "blessed by my Father", "for my name's sake", and "the promised Holy Spirit".
+There is no division or disagreement in the Trinity. They all back it up with the full faith and credit
+of Heaven. Instead of murder, we receive life. Instead of adultery, eternal loyalty. Instead of theft, 
+gracious gifts. Instead of lies, liberating truth. And instead of envy over this world's inequities, equality.
+
+All these blessings are made possible because of the Fifth Commandment.
+It is the channel of infinite grace, flowing from Christ to us.
+With our attention justly fixed on this command, we are ready to see its glorious implication:
+
+*Honor your father and your mother...*
+
+Only two commandments mention women: the fifth and the tenth.
+In the tenth, the command against coveting your neighbor's wife or maidservant is to restrain the 
+wickedness of men. It is a negative reference. In the fifth, the reference to women is positive.
+We are to honor our mother. This is the only commandment that speaks to the dignity of men and women,
+and it does not favor one over the other.
+
+The Ten Commandments teach the equality of men and women. This goes down to the bedrock of the whole Bible,
+the foundation of Lady Wisdom's House.
+
+Earlier it was noted that the Growth Pattern and the Motherhood patterns each fit into the foundation of 
+the Ten Commandments. This is where they fit. The honoring of mothers is expressed by the Motherhood Pattern
+and the honoring of Fathers by the Growth Pattern. When we grow up from foolish children into wise, mature, 
+respectful adults, then we best honor the sacrifices made by our parents to get us there.
+It is now time to see that pattern in detail. The mystery that it helps explain is why the
+eternal equality of men and women is expressed in time as a process, as a goal achieved slowly
+on a time frame decreed and accomplished by God. We do not arrive at equality all at once.\
+
+(Note: I explore the Fifth Commandment in detail in "Epilogue: The Fifth Commandment"
+in *Plague, Precept, Prophet, Peace*.)
 
 <span id="6" />
 
