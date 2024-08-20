@@ -25,6 +25,34 @@ a single human life using principles analogous to how he has designed all of hum
 When you see how much of history has already been predicted by the Bible, you will see the power 
 of those principles and that will bolster your faith that they can work for you.
 
+## Navigating the Website
+
+**Table of Contents**. The table of contents appears on the left side of most pages. If you click on a section entry 
+that has subtopics, it will expand to show them. In every case, clicking the main section heading always opens 
+up the main article which the subtopics elaborate upon. Don't skip the section articles!
+
+**Chevron Button**. A red chevron (>> or <<) appears over the table of contents. Click on it and it will hide
+the table of contents, making the article take up the full screen width which will make it easier to read.
+Click on the chevron again and the TOC will reappear.
+
+**Full text search**. The bottom of most pages has a search box. If you type text into it, it will
+find all articles containing those words. If many articles have the phrase, you will see a link to go to the next page
+of search results.
+
+To quickly navigate to the search bar, type the key combinations control-F or command-F.
+
+**Scripture Index**. Beside the full text search box is a button that says "Scripture Index". 
+If you click on it, you will go to a page that lists the books of the Bible that have been quoted.
+Click on a book name and a list of all chapters that are cited somewhere on this web site will appear.
+Under that heading are links to every article that cites at least one verse from that chapter.
+
+**Images**. On a touch screen, pinch-to-zoom will be handy as many tables and images are too small to read
+unless zoomed. On a computer, you can right-click and choose "Open in new tab" to open the image in a new tab 
+at full size.
+
+**Section Links**. Many articles have a dashed box around links to related articles in a series 
+or other sections on the same page.
+
 ## Doctrinal Statement
 
 I believe that Jesus Christ is the Son of God, who died on the cross for my sins, who rose from the dead
@@ -55,4 +83,7 @@ blessed event on this website if you hunt long enough...
 
 ## Acknowledgments
 
-Many of the illustrations on this website were created with the help of Microsoft Copilot.
+Many of the illustrations on this website were created with the help of generative AI from these Websites:
+
+  - Microsoft Copilot
+  - OpenArt.ai

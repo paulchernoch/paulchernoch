@@ -93,6 +93,8 @@
   - title: Author
     image: fas fa-feather-alt
     dates: [2024-02-29]
+  - title: Contact
+    image: fa-solid fa-envelope
   - title: Books
     image: fas fa-book
     dates: [2024-03-01]

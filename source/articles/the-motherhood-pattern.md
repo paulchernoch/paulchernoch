@@ -1159,7 +1159,7 @@ Before we get to that, let's take a short look at the Ten Commandments.
 The Ten Commandments may be divided into fourteen imperative statements.
 
   - The first seven statements are about love for God. They nicely fit the [Harvest Pattern](./harvest-pattern.html).
-  - The second seven statements are about love for our fellow humans. They nicely fit the [Growth Pattern](./growth-pattern.html)
+  - The second seven statements are about love for our fellow humans. They nicely fit the [Growth Pattern](./growth-pattern.html).
 
 <img class="wide" src="images/as-above-so-below.png" alt="Two levels of commandments"/>
 
@@ -1185,7 +1185,7 @@ Finally, the hardest thing is to accept that this constitutes an engaging, fulfi
 I had always heard this preached. The Ten Commandments are like safety rails. If you stay inside them,
 you have the freedom to flourish and live without suffering harm. Or it is like playing a musical
 instrument. Once you master the mechanics, how to play scales and simple compositions, you
-have the freedom make make beautiful music instead of cacophony.
+have the freedom to make beautiful music instead of cacophony.
 
 Those analogies made sense, but Solomon goes way beyond that. There is hidden in the Law a goal, a purpose.
 Only once I grasped both the Harvest and Growth Patterns and saw how they fit into the Law could I
@@ -1237,7 +1237,7 @@ Here are some (derived from an article by Stephen D. Morrison, [7 Theories of th
   - Jesus was victorious over evil. (**Christus Victor Theory**)
   - Jesus satisfied God's justice, making restitution for our wrongs. (**Anselm's Satisfaction Theory**)
   - Jesus took our place, receiving our punishment so we don't have to. (**Penal Substitution Theory of Luther & Calvin**)
-  - Jesus suffered a representative (not a proportional punishment) to show God's displeasure with sin. (**Methodist Governmental Theory**)
+  - Jesus suffered a representative (not a proportional) punishment to show God's displeasure with sin. (**Methodist Governmental Theory**)
   - Jesus took the place as the victim of our crimes. (**Scapegoat Theory**)
 
 It seems likely that pieces of some or all these theories are all true. 
@@ -1333,7 +1333,7 @@ and the honoring of Fathers by the Growth Pattern. When we grow up from foolish 
 respectful adults, then we best honor the sacrifices made by our parents to get us there.
 It is now time to see that pattern in detail. The mystery that it helps explain is why the
 eternal equality of men and women is expressed in time as a process, as a goal achieved slowly
-on a time frame decreed and accomplished by God. We do not arrive at equality all at once.\
+on a time frame decreed and accomplished by God. We do not arrive at equality all at once.
 
 (Note: I explore the Fifth Commandment in detail in "Epilogue: The Fifth Commandment"
 in *Plague, Precept, Prophet, Peace*.)
