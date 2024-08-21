@@ -205,7 +205,7 @@ table.end-times td:nth-child(1), table.creation td:nth-child(2) {
 
 /* Growth Pattern for Women */
 
-table.growth {
+table.growth, table.growth p {
   font-family: Georgia, serif;
   border: 1px solid #FFFFFF;
   width: 95%;
@@ -217,11 +217,9 @@ table.growth td, table.growth th {
   border: 1px solid #FFFFFF;
   padding: 3px 2px;
 }
-table.growth tbody td {
+table.growth tbody td, table.growth tbody td p {
   font-size: 12px;
-}
-table.growth tbody td p {
-  line-height: 1.2em;
+  line-height: 1em;
 }
 table.growth tr:nth-child(even) {
   background: var(--wispy-blue);
