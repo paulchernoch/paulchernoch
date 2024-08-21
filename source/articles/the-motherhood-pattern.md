@@ -1386,6 +1386,7 @@ the path for men after that.
           <li>Housed...</li>
         </ul>
       </td>
+      <td>
         <ul>
           <li>... then provides it for her own.</li>
           <li>... then mourns her child's death.</li>
@@ -1412,11 +1413,16 @@ the path for men after that.
           <li>Build up</li>
         </ul>
       </td>
-      <td>Trained by his father, then trains his sons...</td>
-      <td>Trained by her mother, then trains her daughters & her sons.</td>
+      <td><p>Trained by his father,</p> <p>then trains his sons...</p></td>
+      <td><p>Trained by her mother,</p> <p>then trains her daughters & her sons.</p></td>
       <td>
-      <p>Spiritual Ability</p>
-      <p>(Charismatic Gifts)</p>
+        <strong>Spiritual Ability</strong>
+        <ul>
+          <li>Receive charismatic gifts</li>
+          <li>Use gifts pridefully</li>
+          <li>Quarrel, get disciplined</li>
+          <li>Learn humility</li>
+        </ul>
       </td>
     </tr>
     <tr>
@@ -1429,65 +1435,115 @@ the path for men after that.
           <li>Dance</li>
         </ul>
       </td>
-      <td>Puberty. Physical self-control is the major concern.</td>
-      <td>Puberty. Menarche. Verbal and emotional self-control is the major concern.</td>
+      <td><p>Puberty.</p> <p>Physical self-control is the major concern.</p></td>
       <td>
-      <p>Spiritual Stability</p>
+        <p>Puberty. Menarche.</p> 
+        <p>Verbal and emotional self-control is the major concern.</p>
+        <p>Marriage.</p>
+        <p>Conception.</p>
+      </td>
+      <td>
+      <p><strong>Spiritual Stability</strong></p>
       <p>(the God of all Comfort)</p>
       </td>
     </tr>
     <tr>
       <td>Amity</td>
       <td>
-      <p>Cast away&nbsp;stones</p>
-      <p>Gather stones</p>
-      <p>Embrace</p>
-      <p>Refrain from Embracing</p>
+        <ul>
+          <li>Cast away stones</li>
+          <li>Gather stones</li>
+          <li>Embrace</li>
+          <li>Refrain from Embracing</li>
+        </ul>
       </td>
-      <td>cell3_4</td>
-      <td>cell4_4</td>
       <td>
-      <p>Doctrinal Amity</p>
-      <p>(embracing the truth)</p>
+        <ul>
+          <li>Problems cooperating at practical tasks with coworkers, friends, girlfriends, wife.</li>
+          <li>Success at cooperating in practical tasks.</li>
+          <li>Enter friendships and relationships. Get married</li>
+          <li>Breakup with girlfriends, end friendships.</li>
+        </ul>
+      </td>
+      <td>All that, plus pregnant or caring for a newborn.</td>
+      <td>
+        <strong>Doctrinal Amity</strong>
+        <ul>
+          <li>Learn to discern truth doctrine from false</li>
+          <li>Embrace those in the church who follow the truth</li>
+          <li>Refuse to embrace those who follow error</li>
+        </ul>
       </td>
     </tr>
     <tr>
       <td>Opportunity</td>
       <td>
-      <p>Seek</p>
-      <p>Lose / Give Up</p>
-      <p>Keep</p>
-      <p>Throw away</p>
+        <ul>
+          <li>Seek</li>
+          <li>Lose / Give up</li>
+          <li>Keep</li>
+          <li>Throw away</li>
+        </ul>
       </td>
-      <td>cell3_5</td>
-      <td>cell4_5</td>
+      <td>Pursue a career. Acquire or spend money, goods and property.</td>
+      <td>Support husband in career, manage the house, plus be pregnant, care for newborns, toddlers and children.</td>
       <td>
-      <p>Calling</p>
-      <p>(Heavenly Treasures)</p>
+        <strong>Calling</strong>
+        <ul>
+          <li>Pursue your Christian calling</li>
+          <li>Reject opportunities that distract</li>
+          <li>Learn what are the heavenly treasures and pursue them</li>
+          <li>Throw away or donate earthly treasures</li>
+        </ul>
       </td>
     </tr>
     <tr>
       <td>Community</td>
       <td>
-      <p>Tear</p>
-      <p>Mend</p>
-      <p>Be silent</p>
-      <p>Speak</p>
+        <ul>
+          <li>Tear</li>
+          <li>Mend</li>
+          <li>Be Silent</li>
+          <li>Speak</li>
+        </ul>
       </td>
-      <td>cell3_6</td>
-      <td>cell4_6</td>
+      <td>
+        <ul>
+          <li>Argue. End relationships with friends, family, business associates, community members.</li>
+          <li>Reconcile and forgive.</li>
+          <li>Listen. Study. Learn.</li>
+          <li>Earn a right to be heard.</li>
+        </ul>
+      </td>
+      <td>Nearing end of childbearing years. The older children can help. Becomes more community focused. Starts to earn respect.</td>
       <td>Church Community</td>
     </tr>
     <tr>
       <td>Loyalty</td>
       <td>
-      <p>Love</p>
-      <p>Hate</p>
-      <p>War</p>
-      <p>Peace</p>
+        <ul>
+          <li>Love</li>
+          <li>Hate</li>
+          <li>War</li>
+          <li>Peace</li>
+        </ul>
       </td>
-      <td>cell3_7</td>
-      <td>cell4_7</td>
+      <td>
+        <ul>
+          <li>Firmly established loyalties in the community.</li>
+          <li>Takes stands on issues.</li>
+          <li>Leads others in a time of conflict.</li>
+          <li>An honored and respected member of the community.</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Firmly established loyalties in the community.</li>
+          <li>Takes stands on issues.</li>
+          <li>Leads others in a time of conflict.</li>
+          <li>An honored and respected member of the community.</li>
+        </ul>
+      </td>
       <td>Loyalty to Christ</td>
     </tr>
   </tbody>
