@@ -1393,6 +1393,7 @@ the path for men after that.
           <li>... then nurses her own children.</li>
           <li>... then keeps house for her children.</li>
         </ul>
+      </td>
       <td>
         <strong>Eternal Security:</strong>
         <ul>
@@ -1437,14 +1438,16 @@ the path for men after that.
       </td>
       <td><p>Puberty.</p> <p>Physical self-control is the major concern.</p></td>
       <td>
-        <p>Puberty. Menarche.</p> 
-        <p>Verbal and emotional self-control is the major concern.</p>
-        <p>Marriage.</p>
-        <p>Conception.</p>
+        <ul>
+          <li>Puberty. Verbal and emotional self-control is the major concern.</li>
+          <li>Menarche</li>
+          <li>Marriage</li>
+          <li>Conception</li>
+        </ul>
       </td>
       <td>
-      <p><strong>Spiritual Stability</strong></p>
-      <p>(the God of all Comfort)</p>
+        <p><strong>Spiritual Stability</strong></p>
+        <p>(the God of all Comfort)</p>
       </td>
     </tr>
     <tr>
@@ -1485,8 +1488,22 @@ the path for men after that.
           <li>Throw away</li>
         </ul>
       </td>
-      <td>Pursue a career. Acquire or spend money, goods and property.</td>
-      <td>Support husband in career, manage the house, plus be pregnant, care for newborns, toddlers and children.</td>
+      <td>
+        <ul>
+          <li>Pursue career advancement</li>
+          <li>Lose or reject some opportunities</li>
+          <li>Acquire money, goods and property</li>
+          <li>Spend money, give away or sell goods and property</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Support husband in his career</li>
+          <li>Lose out on her own career opportunities & advancement, and instead be pregnant, care for newborns, toddlers and children</li>
+          <li>Keep house, scrimp and save</li>
+          <li>Spend money wisely</li>
+        </ul>
+      </td>
       <td>
         <strong>Calling</strong>
         <ul>
