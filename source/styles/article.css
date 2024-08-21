@@ -203,6 +203,47 @@ table.end-times td:nth-child(1), table.creation td:nth-child(2) {
   text-align: left;
 }
 
+/* Growth Pattern for Women */
+
+table.growth {
+  font-family: Georgia, serif;
+  border: 1px solid #FFFFFF;
+  width: 95%;
+  height: 600px;
+  text-align: center;
+  border-collapse: collapse;
+}
+table.growth td, table.growth th {
+  border: 1px solid #FFFFFF;
+  padding: 3px 2px;
+}
+table.growth tbody td {
+  font-size: 12px;
+}
+table.growth tbody td p {
+  line-height: 1.2em;
+}
+table.growth tr:nth-child(even) {
+  background: var(--wispy-blue);
+}
+table.growth thead {
+  background: #0B528D;
+  border-bottom: 5px solid #FFFFFF;
+}
+table.growth thead th {
+  font-size: 17px;
+  font-weight: bold;
+  color: #FFFFFF;
+  text-align: center;
+  border-left: 2px solid #FFFFFF;
+}
+table.growth thead th:first-child {
+  border-left: none;
+}
+
+table.growth tfoot td {
+  font-size: 14px;
+}
 
 /* Clock Summary Table */
 
