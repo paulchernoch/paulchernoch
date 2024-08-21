@@ -1362,8 +1362,8 @@ the path for men after that.
     <tr>
       <th>Under the Sun</th>
       <th>A Time to...</th>
-      <th>Men</th>
-      <th>Women</th>
+      <th>A Man</th>
+      <th>A Woman</th>
       <th>Under Heaven</th>
     </tr>
   </thead>
@@ -1371,25 +1371,49 @@ the path for men after that.
     <tr>
       <td>Security</td>
       <td>
-      <p>Be born</p>
-      <p>Die</p>
-      <p>Plant</p>
-      <p>Uproot</p>
+        <ul>
+          <li>Be born</li>
+          <li>Die</li>
+          <li>Plant</li>
+          <li>Uproot</li>
+        </ul>
       </td>
-      <td>cell3_1</td>
-      <td>cell4_1</td>
-      <td>Eternal Security</td>
+      <td>
+        <ul>
+          <li>Receives newborn care...</li>
+          <li>Survives infant illnesses...</li>
+          <li>Fed...</li>
+          <li>Housed...</li>
+        </ul>
+      </td>
+        <ul>
+          <li>... then provides it for her own.</li>
+          <li>... then mourns her child's death.</li>
+          <li>... then nurses her own children.</li>
+          <li>... then keeps house for her children.</li>
+        </ul>
+      <td>
+        <strong>Eternal Security:</strong>
+        <ul>
+          <li>Born Again</li>
+          <li>Die to self (new identity in Christ)</li>
+          <li>Planted in Church by baptism</li>
+          <li>Uprooted from world, breaking relationships</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Ability</td>
       <td>
-      <p>Kill</p>
-      <p>Heal</p>
-      <p>Tear down</p>
-      <p>Build</p>
+        <ul>
+          <li>Kill</li>
+          <li>Heal</li>
+          <li>Tear down</li>
+          <li>Build up</li>
+        </ul>
       </td>
-      <td>cell3_2</td>
-      <td>cell4_2</td>
+      <td>Trained by his father, then trains his sons...</td>
+      <td>Trained by her mother, then trains her daughters & her sons.</td>
       <td>
       <p>Spiritual Ability</p>
       <p>(Charismatic Gifts)</p>
@@ -1398,13 +1422,15 @@ the path for men after that.
     <tr>
       <td>Stability</td>
       <td>
-      <p>Weep</p>
-      <p>Laugh</p>
-      <p>Mourn</p>
-      <p>Dance</p>
+        <ul>
+          <li>Weep</li>
+          <li>Laugh</li>
+          <li>Mourn</li>
+          <li>Dance</li>
+        </ul>
       </td>
-      <td>cell3_3</td>
-      <td>cell4_3</td>
+      <td>Puberty. Physical self-control is the major concern.</td>
+      <td>Puberty. Menarche. Verbal and emotional self-control is the major concern.</td>
       <td>
       <p>Spiritual Stability</p>
       <p>(the God of all Comfort)</p>

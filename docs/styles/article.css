@@ -217,6 +217,12 @@ table.growth, table.growth p {
   text-align: center;
 }
 
+table.growth li {
+  font-size: 12px;
+  font-family: Georgia, serif;
+  text-align: left;
+}
+
 table.growth td, table.growth th {
   border: 1px solid #FFFFFF;
   padding: 3px 2px;
@@ -227,6 +233,9 @@ table.growth tbody td, table.growth tbody td p {
 }
 table.growth tr:nth-child(even) {
   background: var(--wispy-blue);
+}
+table.growth tr:nth-child(odd) {
+  background: var(--sea-mist);
 }
 table.growth thead {
   background: #0B528D;
