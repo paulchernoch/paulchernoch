@@ -43,8 +43,10 @@ To quickly jump to each section of the article:
     <li> <a href="#4">A Woman's Journey by the Numbers</a> </li>
     <li> <a href="#5">The Law: A Woman's Honor</a> </li>
     <li> <a href="#6">Ecclesiastes 3: A Time for Women</a> </li>
-    <li> <a href="#7">Job as a Parable of Women's Suffering</a> </li>
-    <li> <a href="#8">Women do not Suffer for Naught</a> </li>
+    <li> <a href="#7">What should we teach children?</a> </li>
+    <li> <a href="#8">At what age should people get married?</a> </li>
+    <li> <a href="#9">Job as a Parable of Women's Suffering</a> </li>
+    <li> <a href="#10">Women do not Suffer for Naught</a> </li>
   </ol>
 
 </div>
@@ -1625,7 +1627,7 @@ I look at the Bible.
 
 The table above follows the steps of the Growth Pattern, extending it to include alternate
 experiences for women, especially for the times from a time to weep to a time to mend.
-Prior two the last two centuries, a woman's life diverged permanently and never 
+Prior to the last two centuries, a woman's life diverged permanently and never 
 resumed its God-intended course. In more recent times, the changes have become confined
 primarily to the period from a time to dance to a time to mend. Once the time for having children
 has passed (and that now largely under a woman's control), full participation in society
@@ -1638,33 +1640,33 @@ less than a year per time. Then I got married, had kids, left a church in disagr
 My life was chaotic and I went through some of the times out of order. After the dust settled, my progress 
 resumed at a much slower pace, about seven years per time.
 
-The times affect women more deeply than men because most times hit a woman twice. She lives through them
-the first time via her own experiences. The second time it is through her children. Their birth is more
-real to her than to a man. Not only do many infants succumb to illness during "a time to die", so
-do many women. Until modern times, one in eight women died either during childbirth or from 
-post partum bleeding or infection after the fact.
+The times affect women more deeply than men because most times hit a woman twice. 
+She lives through them the first time via her own experiences. The second time it is through her children. Their birth is more real to her than to a man. Not only do many infants succumb to 
+illness during "a time to die", so do many women. Until modern times, one in eight women died 
+either during childbirth or from post partum bleeding or infection after the fact.
 
-In an interesting twist, the pattern for a woman's life scales down to a single pregnancy, like a fractal.
-In this scheme, a woman becomes pregnant halfway through "a time to dance". Dancing symbolizes the 
-maternal glow of a woman carrying a child. That maps to an age of 20.3 years.
-A survey of the mean age at which a woman gives birth to her first child shows that in over a third of all nations,
-that age is under 22 years old, making the mean time of conception as coming at age 20. Those are the poorer, 
-less developed nations. Their numbers probably match the situation found throughout most of history
-and match this motherhood pattern perfectly.
+In an interesting twist, the pattern for a woman's life scales down to a single pregnancy, 
+like a fractal. In this scheme, a woman becomes pregnant halfway through "a time to dance". 
+Dancing symbolizes the maternal glow of a woman carrying a child. That maps to an age of 20.3 years.
+A survey of the mean age at which a woman gives birth to her first child shows that in over 
+a third of all nations, that age is under 22 years old, making the mean time of conception 
+as coming at age 20. Those are the poorer, less developed nations. Their numbers probably match 
+the situation found throughout most of history and conform to this motherhood pattern perfectly.
 
 If "a time to dance" is when a woman gets pregnant, "a time to tear" is when she gives birth
 and "a time to mend" is the laying in period when a woman heals. How many times are there from 
 halfway through "a time to dance" to "a time to tear"? Nine-and-a-half. That stretch of times
-takes up about seventeen years of a woman's life, from 20 to 37. The median age of the last child is 32 for hispanic women 
-in the US, possibly higher in other nations. That means that the median range for the childbearing years
-is 21 to 33. Add in a few more years (from a time to mend) to raise the last child up to a preteen, 
-and this Motherhood Pattern does a good job of defining the whole range of years when a woman is caring for you ng children.
+takes up about seventeen years of a woman's life, from 20 to 37. The median age of the last child 
+is 32 for hispanic women in the US, possibly higher in other nations. That means that the 
+median range for the childbearing years is 21 to 33. Add in a few more years (from a time to mend) to raise the last child up to a preteen, and this Motherhood Pattern does a good job of 
+defining the whole range of years when a woman is caring for young children.
 
-A woman's pregnancy lasts nine-and-a-half months. There is one month of pregnancy for each "time" of caring
-for children. This scaling is not accidental. When we get to the book of Job, we shall see that 
-the book is built according to both scales. The last twenty-eight chapters match Solomon's twenty-eight times, 
-but the speeches match the nine-and-a-half months. Thus the Motherhood Pattern plans out a woman's life
-twice; on the smaller scale for a single pregnancy and at the larger scale for her child-rearing years.
+A woman's pregnancy lasts nine-and-a-half months. There is one month of pregnancy for each "time" 
+of caring for children. This scaling is not accidental. When we get to the book of Job, 
+we shall see that the book is built according to both scales. The last twenty-eight chapters 
+match Solomon's twenty-eight times, but the speeches match the nine-and-a-half months. 
+Thus the Motherhood Pattern plans out a woman's life twice; on the smaller scale for a 
+single pregnancy and at the larger scale for her child-rearing years.
 
 Why all this fuss over months and years? It proves that God was sincere when He said this to Job:
 
@@ -1681,13 +1683,106 @@ Why all this fuss over months and years? It proves that God was sincere when He 
 God cares immensely about the painful struggles of women giving birth! To laud their 
 sacrifice and trumpet how important their trials are to Him and His plans, He 
 shaped all of human history to resemble that process. There are a lot of women and a lot of men
-who need to take that to heart. Job certainly did. 
+who need to take that to heart. Job certainly did, but before we get to him, there
+are two timely applications of the pattern that demonstrate its importance:
+
+  - The folly of teaching young children about sexual matters
+  - The age of consent in marriage
 
 <span id="7" />
 
-## Job as a Parable of Women's Suffering
+## What should we teach children?
+
+Do you believe that our culture is dooming the next generation to confusion, moral disorder 
+and in some cases bodily mutilation, depression and suicide in pursuit of a new understanding 
+of sexuality? Some parents who object have had their children taken from them. Teachers are
+instructed to lie to parents, whose rights to bring up their children and be informed about 
+what is going on in their lives are being abrogated. These new ideas run counter to biology,
+tradition, and the teachings of many religions. However, if asked to open the Bible to the 
+teachings of Moses, Jesus or Paul and justify these conservative views, could you? Can you 
+point to verses that define what is appropriate to teach children and what is not?
+
+The Growth and Motherhood Patterns provide a sociological model for human growth. 
+This model was given to us by our Creator. We must learn it and live by it if we
+are to flourish as human beings. The model enables us to make sound decisions about 
+how to structure our lives and raise our children.
+
+The key life phase for preteens is the Ability phase. The four times tell us the two areas
+of focus on which instruction by parents and teachers should focus.
+
+  - "a time to kill" and "a time to heal" are about training children how to use their bodies, to ride bicycles, use scissors, set the dinner table, make their beds, climb trees and run fast.
+  - "a time to tear down" and "a time to build up" are about training children how to use their minds, to read, write, calculate, follow an argument, learn about our society, laws, government and customs.
+
+Of course, maybe I have them reversed and the first pair are about training the mind and 
+the second pair about training the body!
+
+These analogies are the least obvious in Solomon's set of twenty-eight. When applied to history
+they make sense, as "a time to kill" was the attempted genocide of the Jews by Haman,
+"a time to tear down" was when Antiochus IV Epiphanes tried to tear down Judaism by
+banning its customs and desecrating the temple, and "a time to build up" was when Herod 
+rebuilt the temple and Jesus was born.
+
+In this case, the US Military talks about the six weeks of basic training as three phases: 
+tear down, stabilize, and build up. The Book of Proverbs has metaphorical uses of **kill**
+that tie this together. The first cause of a person being killed is complacency 
+and avoiding responsibility:
+
+#### For the simple are killed by their turning away, 
+##### and the complacency of fools destroys them;
+###### - Proverbs 1:32
+
+The second cause of being killed is laziness:
+
+#### The desire of the sluggard kills him, 
+##### for his hands refuse to labor.
+###### - Proverbs 21:25
+
+The third cause is like the first, but focuses on offering lame excuses
+that mask a resistance to doing anything difficult:
+
+#### The sluggard says, “There is a lion outside! 
+##### I shall be killed in the streets!”
+###### - Proverbs 22:13
+
+Those three attitudes of children are opposed to doing hard work and learning how to use 
+their hands productively. A parent's job is to drive it out of their children through discipline.
+As for healing, that is letting the callouses heal and the strained muscles rest so that 
+another cycle of work may begin.
+
+Thus the interpretation of the parable posed by those four times tells us what to teach 
+children under the age of about fourteen. When you get to the next phase of growth,
+the parables are obvious. Weeping and laughing are about learning verbal self control.
+In the case of girls, add the trauma of dealing with getting used to her period.
+Then mourning and dancing are about learning physical self-control. That includes
+boys learning to avoid violence (although these days, girls must be included here as well) 
+and both boys and girls learning how to control their sexual urges.
+
+It is obvious to all but the ideologically blinded that training about sexual mores, 
+behaviors, and the emotions that go with them should be taught during these years,
+roughly age 14 to 21. It should not be introduced to younger children who are not ready 
+for it. The reason we know that they are not ready for it is that we have God's plan
+for human growth and it is not complicated.
+
+So now you know where to turn in the Bible to defend this Christian idea of when children 
+should be taught about sexuality. That is not abstract. It is practical and it may 
+save a child's life or sanity.
 
 <span id="8" />
+
+## At what age should people get married?
+
+Does the Bible teach us when is the age of consent for people to marry?
+No and yes. It does not give us a fixed number but it does offer us wisdom.
+The Motherhood and Growth Patterns form the bedrock for exploring this question
+and other statements in the Bible provide elaboration.
+
+
+
+<span id="9" />
+
+## Job as a Parable of Women's Suffering
+
+<span id="10" />
 
 ## Women do not Suffer for Naught
 
