@@ -1343,14 +1343,14 @@ in *Plague, Precept, Prophet, Peace*.)
 ## Ecclesiastes 3: A Time for Women
 
 Protagoras of Abdera (ca 485-415 BC) is famed for saying, "Of all things the measure is Man, of the things that are, that they are, and of the things that are not, that they are not". 
-Being lazy and with poorer memories than our forbears, we Americans abbreviate this to
+Being lazy and with poorer memories than our forebears, we Americans abbreviate this to
 "Man is the Measure of All Things". It is by a parody of such thinking that I was
 slow to see the duality in Solomon's poem of the times and seasons in Ecclesiastes 3.
 
-God in His wisdom guided Solomon to use metaphors with alternate meanings for the twenty-eight times.
+God in His wisdom guided Solomon to use metaphors with multiple meanings for the twenty-eight times.
 There is a materialistic meaning for life "under the sun" and a spiritual meaning for life
 "under heaven". There is a personal meaning for individuals and a corporate meaning 
-for civilizations. Those two dimensions I found with moderate difficulty.
+for civilizations. Those two dimensions I found and comprehended with but moderate difficulty.
 
 My error was to frame the meanings of the twenty-eight times in masculine terms, not even considering
 feminine alternatives. The lives of women begin the same as those for men, then branch in
@@ -1391,8 +1391,8 @@ the path for men after that.
       </td>
       <td>
         <ul>
-          <li>... then provides it for her own.</li>
-          <li>... then mourns her child's death.</li>
+          <li>... then provides care for her own.</li>
+          <li>... then mourns her child's death or succumbs to post partum hemmhoraging.</li>
           <li>... then nurses her own children.</li>
           <li>... then keeps house for her children.</li>
         </ul>
@@ -1421,7 +1421,7 @@ the path for men after that.
         </ul>
       </td>
       <td><p>Trained by his father,</p> <p>then trains his sons...</p></td>
-      <td><p>Trained by her mother,</p> <p>then trains her daughters & her sons.</p></td>
+      <td><p>Trained by her mother,</p> <p>then trains daughters & sons.</p></td>
       <td>
         <strong>Spiritual Ability</strong>
         <ul>
@@ -1552,10 +1552,10 @@ the path for men after that.
       </td>
       <td>
         <ul>
-          <li>Nearing end of childbearing years</li>
-          <li>The older children can help</li>
+          <li>Tearing means a difficult pregnancy near the end of childbearing years</li>
+          <li>Mending is post partum recovery</li>
           <li>Becomes more community focused</li>
-          <li>Starts to earn respect</li>
+          <li>Now respected; earned the right to speak</li>
         </ul>
       </td>
       <td><strong>Church Community</strong></td>
@@ -1602,6 +1602,86 @@ the path for men after that.
   </tbody>
 </table>
 
+No passage in the Bible has surprised me more than the poem in Ecclesiastes 3:1-8.
+It is a sociological model for individual human development that respects the differences between men and women. 
+Seven wisdom books conform to its structure and Paul's first seven letters are arranged according to its themes. 
+It is the mainspring for God's prophetic clocks and schedules the rise and fall of civilizations. 
+For the pilgrim, it provides milestones to let them know how far they have come spiritually and how far it is 
+to the end of their journey. Only God could pack so much into so few words.
+
+The sheer normalcy of the materialistic categories can lull you into thinking there is nothing special
+to find there. The Infant & Toddler needs security, the Child needs to be trained, the Teen needs to learn self-control.
+Then the Newlywed, Careerist, Community activist, and Leader all face their challenges... We all
+know about these stages of life and the needs and challenges that go along with them.
+If you look to Ecclesiastes for profound meaning but overlook the mundane, you will miss the message.
+The mundane is a parable for the magnificent. A decade ago I looked at the poem, knew intuitively that
+it went to the heart of the message, but could not crack the riddle. Then in early 2020, I planned to 
+write a short book on Ecclesiastes but could not figure out how to structure it. I asked some fellow writers 
+how they organize their ideas into an outline. One suggested that I try mind mapping. I downloaded an app
+and began to use it. It worked! Then I decided to see if it could help me find a pattern in the twenty-eight times
+of the poem. A day or so later, I had it figured out (for men living under the sun). That was when I took a 
+leap and tried to see if it was a parable for long stretches of time. That decision changed much about how
+I look at the Bible.
+
+The table above follows the steps of the Growth Pattern, extending it to include alternate
+experiences for women, especially for the times from a time to weep to a time to mend.
+Prior two the last two centuries, a woman's life diverged permanently and never 
+resumed its God-intended course. In more recent times, the changes have become confined
+primarily to the period from a time to dance to a time to mend. Once the time for having children
+has passed (and that now largely under a woman's control), full participation in society
+is possible.
+
+The year ranges in the left column are typical ranges; for any given step you may mature faster or slower
+than it suggests. They only apply to the material growth "under the sun". The rate of spiritual growth "under heaven"
+varies from person to person. I made rapid spiritual progress through the first ten times, requiring
+less than a year per time. Then I got married, had kids, left a church in disagreement, and lost several jobs.
+My life was chaotic and I went through some of the times out of order. After the dust settled, my progress 
+resumed at a much slower pace, about seven years per time.
+
+The times affect women more deeply than men because most times hit a woman twice. She lives through them
+the first time via her own experiences. The second time it is through her children. Their birth is more
+real to her than to a man. Not only do many infants succumb to illness during "a time to die", so
+do many women. Until modern times, one in eight women died either during childbirth or from 
+post partum bleeding or infection after the fact.
+
+In an interesting twist, the pattern for a woman's life scales down to a single pregnancy, like a fractal.
+In this scheme, a woman becomes pregnant halfway through "a time to dance". Dancing symbolizes the 
+maternal glow of a woman carrying a child. That maps to an age of 20.3 years.
+A survey of the mean age at which a woman gives birth to her first child shows that in over a third of all nations,
+that age is under 22 years old, making the mean time of conception as coming at age 20. Those are the poorer, 
+less developed nations. Their numbers probably match the situation found throughout most of history
+and match this motherhood pattern perfectly.
+
+If "a time to dance" is when a woman gets pregnant, "a time to tear" is when she gives birth
+and "a time to mend" is the laying in period when a woman heals. How many times are there from 
+halfway through "a time to dance" to "a time to tear"? Nine-and-a-half. That stretch of times
+takes up about seventeen years of a woman's life, from 20 to 37. The median age of the last child is 32 for hispanic women 
+in the US, possibly higher in other nations. That means that the median range for the childbearing years
+is 21 to 33. Add in a few more years (from a time to mend) to raise the last child up to a preteen, 
+and this Motherhood Pattern does a good job of defining the whole range of years when a woman is caring for you ng children.
+
+A woman's pregnancy lasts nine-and-a-half months. There is one month of pregnancy for each "time" of caring
+for children. This scaling is not accidental. When we get to the book of Job, we shall see that 
+the book is built according to both scales. The last twenty-eight chapters match Solomon's twenty-eight times, 
+but the speeches match the nine-and-a-half months. Thus the Motherhood Pattern plans out a woman's life
+twice; on the smaller scale for a single pregnancy and at the larger scale for her child-rearing years.
+
+Why all this fuss over months and years? It proves that God was sincere when He said this to Job:
+
+#### Do you know when the mountain goats give birth?
+##### Do you observe the calving of the does?
+#### **Can you number the months that they fulfill**,
+##### and do you know the time when they give birth,
+#### when they crouch, bring forth their offspring,
+##### and are delivered of their young?
+#### Their young ones become strong; they grow up in the open;
+##### they go out and do not return to them.
+###### - Job 39:1-4
+
+God cares immensely about the painful struggles of women giving birth! To laud their 
+sacrifice and trumpet how important their trials are to Him and His plans, He 
+shaped all of human history to resemble that process. There are a lot of women and a lot of men
+who need to take that to heart. Job certainly did. 
 
 <span id="7" />
 
