@@ -881,7 +881,7 @@ That is true knowledge, knowing the savior, Jesus Christ, who has ascended to he
 
 In *Job Rises*, I discovered hidden in Job's words many statements that describe the nature of the coming savior.
 These words were Job's hopes. He didn't know if there was such a person but he needed there to be. They were his prayer for a savior. 
-They described his [Job Description for a Savior](./job-description-for-a-savior.md), 
+They described his [Job Description for a Savior](./job-description-for-a-savior.html), 
 as though he were interviewing candidates who could fulfill his requirements. His friends scoffed at his ideas.
 For example, Bildad denied that any "Son of Man" could save him:
 
@@ -1866,7 +1866,7 @@ marriage from the suffering of calamity. At last it is time to hear from Job.
 
 ## Job as a Parable of Women's Suffering
 
-This section summarizes insights from this article: [Identification](./identification.md)
+This section summarizes insights from this article: [Identification](./identification.html)
 
 **Suffering isolates**. This isolation long kept me from understanding the wider meaning of Job.
 In Romans, Paul recalls the complaint of the prophet Elijah:
@@ -2124,13 +2124,136 @@ and transmitting the Word of God to future generations. That is because those wo
 their redeemer lives and would eventually save them, too.
 
 It is now incontestable that the book of Job has a deep, prophetic message for women.
+So what is that message?
 
 <span id="10" />
 
 ## Women do not Suffer for Naught
 
+To understand the purpose of the suffering of women in God's plan, you must understand the 
+purpose of Job's suffering. Experience has taught me that logic is at the bottom of the things
+that bring comfort to a suffering soul, but I usually start at the bottom. The logic is
+not complicated.
 
+   1. Job suffered unjustly.
+   2. While suffering, Job held fast to his faith in God.
+   3. Because of that faith, God was able to communicate truths to Job through the medium of suffering. Those truths arise in Job's speeches.
+   4. The truths that God communicated to Job defined many features of the savior. (See [Job Description for a Savior](./job-description-for-a-savior.html))
+   5. Like a pregnant woman, Christ was formed inside Job.
+   6. The delivery of the baby was the bringing into the world in written form the first book of the Bible to be written: *The Book of Job*. (See Job 19:23-27)
+   7. The Sacramental impact was the appointment of Job as a priest who could forgive sins, foreshadowing the ministry of Christ.
+   8. After Job recovered from the delivery of this new body of truth, his suffering ended and his fortunes were restored.
+   9. Since the imagery of a woman giving birth pervades Job, this schema also applies to women of faith.
+   10. Therefore women of faith, through their suffering, have been receiving wisdom from God.
+   11. Consequently, once this message has been fully received, women can expect parallel blessings from God.
+   12. Women can expect relief from their physical sufferings.
+   13. Women can expect honor to replace their dishonor and equality to replace inequality.
+   14. Women can expect a commission to priestly service with the authority to forgive sins.
 
-This article should be completed by August 31, 2024
+Some of the above statements are controversial. Let's look at them.
 
-In progress...
+**Women have received wisdom**. *Peace, like Solomon Never Knew* identified seven
+books as being the Seven Pillars of Wisdom. According to my prophetic interpretation
+of Solomon's poem, the relief of women comes near the end of time, beginning with 
+"a time to mend". Since the pillar books are structured in part according to Solomon's times,
+that means that special references to women that appear near the ends of these books 
+reinforce this idea of women being both relieved and honored late in history.
+
+  - **Job**. We already discussed the state of equality between Job's daughter's and sons.
+  - **Ecclesiastes**. The core verse of the book is about marriage. It speaks of husband and wife as equals, toiling together to create a happy life:
+
+<p><em>
+Go, eat your food with gladness, and drink your wine with a joyful heart, for God has already approved what you do. 8 Always be clothed in white, and always anoint your head with oil. 9 Enjoy life with your wife, whom you love, all the days of this meaningless life that God has given you under the sun—all your meaningless days. For this is your lot in life and in your toilsome labor under the sun. 10 Whatever your hand finds to do, do it with all your might, for in the realm of the dead, where you are going, there is neither working nor planning nor knowledge nor wisdom. <br/>
+- Ecclesiastes 9:7-10
+</em></p>
+
+  - **Proverbs**. The final chapter, Proverbs 31, includes a mention of King Lemuel's mother, who taught him the wise sayings that he included in his chapter. She was a teacher of men. The chapter concludes with the description of a wife of noble character. Such a woman buys and sells property, creates and sells goods at market and is worthy of respect. She is described in terms that show she is the equal of any man.
+  - **Psalms**. The last mention of women in the Psalms is in Psalm 144:12. It says: *"May our sons in their youth be like plants full grown, our daughters like corner pillars cut for the structure of a palace..."* By describing the daughters as palace pillars, the Bible both extols not just their beauty but also their strength and wisdom, by connecting them to the pillars of wisdom. The most significant reference to women in the Psalms is in Psalm 68. In this psalm, the men are lazy and the women industrious. The men are cowards and the women, courageous. It is a mighty throng of women who broadcast the news of the gospel, fight the battle, and scatter the kings of the earth. Think about that...
+
+#### The Lord gives the word;
+##### the women who announce the news are a great host:
+##### “The kings of the armies—they flee, they flee!”
+##### The women at home divide the spoil—
+###### though you men lie among the sheepfolds—
+##### the wings of a dove covered with silver,
+###### its pinions with shimmering gold.
+##### When the Almighty scatters kings there,
+###### let snow fall on Zalmon.
+###### - Psalm 68:11-14, ESV
+
+  - **Song of Songs**. The main character is a woman to whom many come for advice. She tells them not to arouse or awaken love until it so desires. This was a prophecy of "a time for love". It has been during our current era, "a time for love", that women have made the greatest strides towards equality.
+  - **Matthew**. It is women who first see Jesus and report his resurrection. Yet there is another amazing event that is overlooked by people studying this gospel, the story of Jesus sending for a donkey to ride into Jerusalem.
+
+#### Now when they drew near to Jerusalem and came to Bethpage, 
+#### to the Mount of Olives, then Jesus sent two disciples, 
+#### saying to them, “Go into the village in front of you, 
+#### and immediately you will find a donkey tied, and a colt with her. 
+#### Untie them and bring them to me. If anyone says anything to you, 
+#### you shall say, 
+##### ‘The Lord needs them,’ and he will send them at once.” 
+#### This took place to fulfill what was spoken by the prophet, saying,
+##### “Say to the daughter of Zion,
+###### ‘Behold, your king is coming to you,
+##### humble, and mounted on a donkey,
+###### on a colt, the foal of a beast of burden.’”
+###### - Matthew 21:1-5
+
+Jesus is telling them that the daughter of Zion will be set free!
+In *Peace, like Solomon Never Knew*, I show how each of Matthew's twenty-eight chapters corresponds to a different one of Solomon's times, in order.
+This chapter of Matthew, chapter 21, corresponds to the twenty-first time, "a time to tear". 
+The time of tearing is the time when a woman gives birth and is set free from her burden.
+
+Why use a donkey as an image? Women were treated like beasts of burden, so that fits, 
+but there is a deeper reason. In Job 39, God speaks about his care for his animals. 
+This is what he says about the donkey:
+
+#### “Who has let the wild donkey go free?
+##### Who has loosed the bonds of the swift donkey,
+#### to whom I have given the arid plain for his home
+##### and the salt land for his dwelling place?
+#### He scorns the tumult of the city;
+##### he hears not the shouts of the driver.
+#### He ranges the mountains as his pasture,
+##### and he searches after every green thing.
+###### - Job 39:5-8
+
+God sets the donkey free! In my books, I argue that Job 39 corresponds to "a time for love".
+Again, "a time for love" began in 1920 AD with women getting the right to vote.
+Then in 1921, women in Louisiana gained the right to sit on a jury, followed soon by the other states.
+
+Matthew 21 has one more surprise:
+
+#### But when the chief priests and the scribes saw the wonderful things
+####  that he did, and the children crying out in the temple, 
+##### “Hosanna to the Son of David!” 
+#### they were indignant, and they said to him, 
+##### “Do you hear what these are saying?” 
+#### And Jesus said to them, 
+##### “Yes; have you never read,
+###### “‘Out of the mouth of infants and nursing babies
+###### you have prepared praise’?”
+###### - Matthew 21:15-16
+
+Again, the Bible draws our attention to infants and nursing babies. There is surely a message about God's plan for women hidden here.
+
+  - **Revelation**. In two of my books I show how the locusts with women's hair in Revelation 9 are Christian queens, sent to oppress the ungodly. That prophecy was fulfilled by Queen Victoria of England, Maria Theresa of Austria, and the women Tsars of Russia, like Catherine and Anna, to name a few. And of course, the final scene in Revelation is the wedding supper of the lamb, where the bride has made herself ready.
+
+Thus all seven of the Pillars of Wisdom hint at a time when the fortunes of women will change.
+Standing against this idea are difficult Bible passages, such as some in 1 Timothy.
+Traditional interpretations of these passages fail to take into account their prophetic 
+nature. They speak not of a static condition for woman, but a progressive change towards equality
+which includes ordination for service as pastors and elders.
+
+The full argument is addressed here:
+
+  - We must find [A Model for the Ordination of Women](./a-model-for-the-ordination-of-women.html)
+  - That model requires a sacrifice, which women have paid: [Submission](./submission.html)
+  - The Bible's several models for Ordination are examined and one in Job that may be applicable to women is found: [Consecration](./consecration.html)
+  - The propriety of identifying women as proper candidates for ordination according to this model of ordination is found in [Identification](./identification.html)
+  - The anchoring in time of the real sacrifice for ordination and the announcement of when the ordination could begin is found in prophecy. Those prophecies establish with exactitude the era when women could begin to serve as ministers, as explored in [Quantification](./quantification.html)
+  - This prophetic framework allows us to solve riddles in 1 & 2 Timothy, proving that those letters did not say to the women of Paul's time, "No!" but instead "Not yet!" And to the women of our time, they do say, "Now!": [Reconciliation](./reconciliation.html)
+
+The sacrifice of faithful women enabled the church to give birth to a new civilization 
+in which equality between women and men could be a reality - if we obey.
+Their suffering had a purpose, allowing God to pour into women - and via them the church - 
+the wisdom needed to reform the world. We must not refuse this precious gift of wisdom.

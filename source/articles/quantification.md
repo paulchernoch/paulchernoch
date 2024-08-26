@@ -215,7 +215,7 @@ As Revelation 13 reveals, Satan controls the beasts of the world, its evil empir
 Satan controlled the empire of Alexander, one of the beasts and one of the heads of Daniel’s visions. 
 The devil is full of hatred, even for his servants. 
 Job 20 is Satan’s *epitaphios logos*, his funeral oration, for the fallen “Lord of Asia”, the “Great King” and “Son of Zeus”. 
-In the case of [Alexander the Great](./alexander-the-great.md), we have the unusual situation that he was attended 
+In the case of [Alexander the Great](./alexander-the-great.html), we have the unusual situation that he was attended 
 by doctors and their notes about his medical condition were preserved by secular historians down through the ages, 
 such as Flavius Arrianus, Ptolemy, Plutarch, and Quintus Curtius. Because of that, we can match his known symptoms 
 to the prophecy of Job with precision. Here then are the profound connections between Job 20 (from the NIV) and 
