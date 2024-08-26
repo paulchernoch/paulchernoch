@@ -1737,7 +1737,7 @@ The second cause of being killed is laziness:
 ##### for his hands refuse to labor.
 ###### - Proverbs 21:25
 
-The third cause is like the first, but focuses on offering lame excuses
+The third cause is like the second, but focuses on offering lame excuses
 that mask a resistance to doing anything difficult:
 
 #### The sluggard says, “There is a lion outside! 
@@ -1745,13 +1745,14 @@ that mask a resistance to doing anything difficult:
 ###### - Proverbs 22:13
 
 Those three attitudes of children are opposed to doing hard work and learning how to use 
-their hands productively. A parent's job is to drive it out of their children through discipline.
-As for healing, that is letting the callouses heal and the strained muscles rest so that 
+their hands productively. A parent's job is to drive them out of their children through discipline.
+As for "a time to heal", that is letting the callouses heal and the strained muscles rest so that 
 another cycle of work may begin.
 
 Thus the interpretation of the parable posed by those four times tells us what to teach 
-children under the age of about fourteen. When you get to the next phase of growth,
-the parables are obvious. Weeping and laughing are about learning verbal self control.
+children under the age of about fourteen: matters of the hand and mind, but not of
+the heart. When you get to the next phase of growth, the parables are obvious. 
+Weeping and laughing are about learning verbal self control.
 In the case of girls, add the trauma of dealing with getting used to her period.
 Then mourning and dancing are about learning physical self-control. That includes
 boys learning to avoid violence (although these days, girls must be included here as well) 
@@ -1864,6 +1865,265 @@ marriage from the suffering of calamity. At last it is time to hear from Job.
 <span id="9" />
 
 ## Job as a Parable of Women's Suffering
+
+This section summarizes insights from this article: [Identification](./identification.md)
+
+**Suffering isolates**. This isolation long kept me from understanding the wider meaning of Job.
+In Romans, Paul recalls the complaint of the prophet Elijah:
+
+#### “Lord, they have killed your prophets, 
+#### they have demolished your altars, 
+#### and I alone am left, and they seek my life.”
+###### - Romans 11:3
+
+Elijah felt alone. When I was driven to read Job, my life's isolating pain had the same effect.
+I became like Job, abandoned by friends and family. I became like Elijah,
+hunted by king and country. What does God do when you feel alone?
+
+#### But what is God's reply to \[Elijah\]? 
+##### “I have kept for myself seven thousand men 
+##### who have not bowed the knee to Baal.”
+###### - Romans 11:4
+
+He tells you that you are not alone. He says: *"I will not leave you as orphans; I will come to you."* (John 14:18) In Job's case, he first sent word via Elihu (who spoke by the Holy Spirit), 
+then he showed up in person. As a result of that visit by God, was the reversal of Job's horrible
+plight the first thing on the agenda? No! God's first command was for the three friends to offer
+a sacrifice before Job, for Job to pray for their forgiveness and God to hear from heaven and
+accept Job's prayers. While this does begin the reversal of Job's fortune by vindicating him
+before the community, the first goal was the restoration of God's glory. The friends spoke wrongly
+about God and that had to be addressed.
+
+When weighing the other two effects, the friends' forgiveness and Job's vindication, which 
+is greater? With Job, he was told that he was on the right path and had remained so.
+With the friends, they are pointed to the right path, and there were three of them. Thus
+the greater benefit accrued not to Job but to the others. This is an essential insight. 
+When one suffers for His name, God uses this to enhance His glory and light a path for the 
+lost to follow. You want it to be all about you and your suffering. That selfish desire calls for a 
+vindication that would deepen your isolation instead of alleviating it. Job wanted vengeance.
+Vengeance is the seductive answer to suffering that deepens fissures and magnifies alienation.
+
+#### Pour out the overflowings of your anger,
+##### and look on everyone who is proud and abase him.
+#### Look on everyone who is proud and bring him low
+##### and tread down the wicked where they stand.
+#### Hide them all in the dust together;
+##### bind their faces in the world below.
+#### Then will I also acknowledge to you
+##### that your own right hand can save you.
+###### - Job 40:11-14
+
+God tells Job that he does not have what it takes to justly and comprehensively 
+execute vengeance against the wicked. We must leave that to the Almighty.
+
+As God labored to extricate me from the selfishness that festered during my years of suffering,
+the wisdom of His ways slowly dawned. He must first magnify His glory so that I may have a light
+to guide me to safety, to *"a spacious place free from restriction"* (Job 36:18, NIV).
+
+Only as I sought to share my experiences with others to help them overcome their suffering
+did my eyes open. Just as my story of suffering is not just about me, so Job's story of 
+suffering was not just about Job. It was also about the suffering of women.
+
+**Job is a parable about Women**. When I set the two ways of looking at Job side-by-side, 
+I am stunned. Before this realization came to me, I did not see any strong connection
+between Job and the suffering of women. Afterwards, the clues are so many and so obvious
+that I can scarcely believe my blindness. God does not concoct His riddles to trumpet
+his craftiness. He poses riddles to reveal our spiritual blindness. It is in the 
+opening of our eyes at the solving of the riddle that we learn who we are and who we must become.
+Here is the evidence...
+
+**Women grace the Conclusion**. We begin with the end. Job ends with Job's daughters being exalted. 
+At the start of the story, his first daughters visited their brothers' houses to celebrate. 
+That means that they did not have houses of their own. His three new daughters now receive 
+an equal share in the inheritance with their brothers (Job 42:15). This shows a change in Job.
+This also has God on record as demanding equality between men and women in the first book of the Bible to be written. Equality was not an afterthought!
+We learn the daughters' names but not the names of their brothers. In the Bible, which names many men but fewer women, this is a huge reversal.
+ 
+**Feminine Analogies in Job**. However, the Book of Job has much more to say about women than a footnote about his daughters' excellencies.
+In fact, **the Book of Job contains more feminine analogies than any other book in the Bible**. 
+If you are like me, my early thoughts on seeing references to women in Job were that his 
+suffering was being compared to the suffering of women as a simple analogy. He suffered *like* 
+a woman. He had no reputation, no authority and no property *like* a woman.
+It is not that way. The tragedies of women's lives are more than literary turns of phrase to be exploited in a clever poem. This book is many things:
+
+  1. a true story about the suffering of a righteous man
+  2. a parable about the sufferings of the Christ (as I show in my book *Job Rises: Thirteen Keys to a Resilient Life*)
+  3. a parable of the suffering of the Jewish people
+  4. a prophecy of the suffering of women throughout history and their redemption.
+
+I wrote a whole book about Job and never noticed the fourth. I didn't spot it until last year. 
+It is one of the hidden things of God that need to be searched out. Let's begin by looking at words.
+
+**Counting Words**.
+
+The word **womb** is found more times in Job than any other book of the Bible. 
+It is not the only word related to the life experiences of women to be found here. 
+When I at last decided to look and for the first time saw how often these words occur in Job,
+my eyes were opened. The book is pregnant with them!
+
+ - Womb (10) Most of any book in the Bible
+ - Woman (7), Women (2)
+ - Wife (3)
+ - Conceive(d) (2)
+ - Labor (of childbirth) (1)
+ - Born (8) including a “born of woman” reference to Jesus in Job 25
+ - Birth (8)
+ - Begotten (1)
+ - Delivered (of childbirth) (1), Deliver(s,ed) (from evil & suffering) (7)
+ - Breast(s) (2), Nursed (1)
+ - Mountain goats and does calving
+ - Firstborn (1)
+ - Child(ren) (15), Infants (1), Offspring (3)
+ - Daughter(s) (6)
+ - Son(s) (18)
+ - Mother(s) (3)
+ - Barren (3), Stillborn (1), Childless (1)
+ - Widow(s) (7)
+ - Fatherless (8)
+ - Total = 122
+
+**Figures of Speech**. In addition to direct words, there are clever turns of phrase. 
+In Job 1, the troubles begin when the oxen are plowing. Plowing with oxen is figure of speech 
+that can mean having sex and conceiving. Remember Samson, who posed a riddle to the 
+Philistines, only to have them cheat by getting his wife to cajole the answer out of him?
+
+#### And he said to them, 
+##### “If you had not plowed with my heifer, 
+##### you would not have found out my riddle.”
+###### - Judges 14:18b
+
+One more analogy is significant. In Job 32:19, Elihu says, 
+*"Behold, my belly is like wine that has no vent; like new wineskins ready to burst."*
+That is a clever way to speak about a woman's water getting ready to break. 
+Elihu was Job's spiritual midwife, to ensure that the wisdom God was forming in Job 
+would come to term and not be stillborn, with Job giving up in despair, 
+cursing His Maker and losing his reward, his baby.
+
+See God's love for women? He doesn't just care about whether they can give him children. 
+
+  - He care about widows (Job 24:3,21;29:13;31:16,18). 
+  - He cares about women who can't have babies (Job 24:21).
+  - He cares about the stillborn and the devastated woman whose hopes were dashed. 
+  - He cares about the fatherless, because that means that there is a single mother struggling to make ends meet. (Job 22:9;24:9;29:12;31:17,21)
+  - And the Lord stands by women as they watch their children grow up and move away, a bittersweet time, as related in Job 39.
+
+And in the person of Job's wife, you have the caretaker, overwhelmed by the burden of caring 
+for a sick husband after she also lost her ten children, her property, and her respect in 
+the community.
+
+The words alone should get the message across, but there is more.
+
+**Weeks and Months**
+
+I spent years deducing the structures of Job. It has more than one, each making a different point.
+Somehow I missed a big one. The whole book maps out, week by week and month by month, 
+the course of a woman's pregnancy. The words and phrases paint a **qualitative** picture of a pregnant woman. The structure makes it **quantitative**.
+
+To begin, how long does an average pregnancy last? Today it ranges from 276 to 285 days, 
+depending on measurement method. 
+Forty (40) weeks is thus an accurate definition for the length of a pregnancy.
+Hmmm. In the Bible, [forty](./40-is-for-suffering.html) is a number that signifies suffering, like:
+
+  - the forty days and nights of rain in the flood
+  - Jesus being tempted in the desert by Satan for forty days
+  - the Jews wandering in the desert for forty years
+
+After a woman gives birth, there is a laying-in period, a time to rest and heal from the birth. 
+This typically lasts two to three weeks.
+
+Thus the whole of a pregnancy plus the laying-in period lasts forty-two weeks.
+
+There are forty-two chapters in Job! Coincidence? No! What does God say in Job 39?
+
+#### “Do you know when the mountain goats give birth?
+##### Do you observe the calving of the does?
+#### **Can you number the months that they fulfill**,
+##### and do you know the time when they give birth,
+#### when they crouch, bring forth their offspring,
+##### and are delivered of their young?
+###### - Job 39:1-3
+
+In her thirty-ninth week, don't you think that women are counting the days until it is all over?
+Well God is right there alongside her, counting those days with just as much anticipation!
+
+The same analysis can be done to count the months.
+
+  - A half month for conception, chapters 1 & 2
+  - Nine speeches by Job, for the nine full months of pregnancy
+  - Elihu as midwife and God as expectant Father there for the delivery and post-partum period
+
+All the major aspects of a woman bearing a child and giving birth are present and slotted into the right chapters:
+
+  - Chapter 1, the plowing, is the time of conception. Chapters one and two are the first two weeks of pregnancy. In these chapters, evil comes upon Job. The coming of evil into life is called conception in Job 3:3 and Job 15:35.
+  - Chapter 3 has Job's first big speech. He spends most of it talking about not wishing he was born, speaks of his mother nursing him, and generally focuses his words on the analogy of childbirth, cementing it as the key theme of the book.
+  - The bulk of the book is a back and forth between Job's friends, who say hurtful lies, and Job, who looks to God for help. This alternation of good and bad symbolizes the labor pains.
+  - The last words from one of the friends specifically addresses birth, when Bildad says in Job 25:
+
+#### How then can man be in the right before God?
+#### How can he who is **born** of woman be pure?
+
+  - Elihu arrives to serve as midwife. 
+  - When Elihu talks about being a wineskin about to burst, that is the water ready to break. 
+  - Elihu announces the arrival of God in Job 37, which symbolizes the arrival of the baby.
+  - But what if the baby is stillborn, arriving too early in week 38, cold as ice? God even shows his care for women who endure this horror:
+
+#### From whose womb did the ice come forth,
+##### and who has given birth to the frost of heaven? 
+###### - Job 38:29, ESV
+
+  - God in chapter 39 speaks tenderly about caring for pregnant animals and counts the days until delivery.
+  - Job 40 shows God as a proud papa, boasting about his baby Behemoth. It is like God is saying, "My kid will be the strongest kid ever born! Nobody can touch him!"
+
+#### “He is the first of the works of God;
+##### let him who made him bring near his sword!"
+
+  - Job recovers his health in chapter 42, the end of the laying-in period. 
+  - His family members bring gifts, like people do to celebrate the birth of a child.
+  
+At the end of Job, the narrative traces out the family's future, which speaks of new generations to be born:
+
+#### And after this Job lived 140 years, and saw his sons, 
+##### and his sons' sons, four generations.
+#### And Job died, an old man, and full of days.
+###### - Job 42:16-17
+
+One curiosity is the words day and days, which occur 52 times in Job, suggesting the weeks in a full year, symbolizing time.
+
+When you get to the end, what is the full set of blessings that Job (and his daughters) received?
+Now compare it to the blessing that women have received in the last few centuries:
+
+  - Improved Health
+  - Long life
+  - Antibiotics and blood transfusions in mid 20th century reduced death in childbirth by more than fifty-fold.
+  - Wealth
+  - Property rights (to the daughters)
+  - restored Family relationships
+  - Honor in the community
+  - A priestly calling
+  - Ability to read the Word of God.
+
+This last one, the Word of God, is vital. Job prayed one of the most powerful prayers ever prayed in all of history.
+
+#### **“Oh that my words were written!**
+##### **Oh that they were inscribed in a book!**
+#### **Oh that with an iron pen and lead**
+##### **they were engraved in the rock forever!**
+#### For I know that my Redeemer lives,
+##### and at the last he will stand upon the earth.
+#### And after my skin has been thus destroyed,
+##### yet in my flesh I shall see God,
+#### whom I shall see for myself,
+##### and my eyes shall behold, and not another.
+#### My heart faints within me!
+###### - Job 19:23-27
+
+Job’s prayer created the Bible! His was the first Bible book written down. He declared that God can raise the dead.
+During medieval times women were prevented from doing many things, but one thing was not denied them.
+
+Women were permitted to be scribes and copy Bibles. Medieval nuns were active in preserving
+and transmitting the Word of God to future generations. That is because those women knew that 
+their redeemer lives and would eventually save them, too.
+
+It is now incontestable that the book of Job has a deep, prophetic message for women.
 
 <span id="10" />
 

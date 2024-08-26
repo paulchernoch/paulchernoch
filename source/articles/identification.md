@@ -357,7 +357,7 @@ At the end of Job, the narrative traces out the family's future, which speaks of
 #### And Job died, an old man, and full of days.
 ###### - Job 42:16-17
 
-One curiousity is the words day and days, which occur 52 times in Job, suggesting the weeks in a full year, symbolizing time.
+One curiosity is the words day and days, which occur 52 times in Job, suggesting the weeks in a full year, symbolizing time.
 
 When you get to the end, what is the full set of blessings that Job (and his daughters) received?
 Now compare it to the blessing that women have received in the last few centuries:
