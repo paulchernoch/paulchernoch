@@ -2,6 +2,8 @@
 title: About the Author
 quote: Moses said, “Please show me your glory.”<br/> - Exodus 33:18
 ---
+<img class="wide" src="images/paul-in-the-woods.png" alt="Paul in the Woods in Brookline, NH in August 2020"/>
+
 Who am I?
 
 My name is **Paul Anton Chernoch**. I love my savior, my family, and my church. When I get distracted from those important people, it is because of my other loves: numbers and words. My love for mathematics I learned from my mother, Martha, who earned a degree in that subject from Duke University. In third or fourth grade, she taught me how to extract square roots by hand. That made me the only kid in my school who could do that. That one thing she taught me made me feel special and gave me the confidence to excel at math. Pardon a bit of foolishness as I honor her memory with a "product" of my imagination.
