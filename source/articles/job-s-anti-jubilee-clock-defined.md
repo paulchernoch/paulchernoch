@@ -2,7 +2,8 @@
 title: Job's Anti-Jubilee Clock, Defined
 quote: Let it not rejoice among <br/> the days of the years; <br/> let it not come into <br/> the number of the months. - Job 3:6
 ---
-This article was originally published as the chapter "Job's Anti-Jubilee Clock, Defined" in *Plague, Precept, Prophet, Peace*.
+This article was originally published as the chapter "Job's Anti-Jubilee Clock, Defined" in 
+*Plague, Precept, Prophet, Peace*.
 It solves a tricky riddle, tackles some chronology issues and makes the case for the existence of a prophetic clock
 that runs from Abraham to Jesus and is hidden in the Book of Job.
 
@@ -221,7 +222,7 @@ final type, a Celestial clock. However, attempts to fit Job, Scripture and histo
 Celestial framework, with no overlap of generations, were unsuccessful. Instead, an
 additional Generational Clock was found.
 
-A**bout the clock period**. Generational clocks may have eras that overlap the
+**About the clock period**. Generational clocks may have eras that overlap the
 generations that precede and follow them, just as human generations and reigns of kings
 overlap. Also, in Generational clocks, the lengths of generations do not need to be equal,
 since people live for different lengths of time. Thus in Job’s Generation Clock, the first
@@ -385,12 +386,12 @@ Note: The above is from this paper:
 
 Osgood, Dr. A.J.M. "The Times of the Judges - A Chronology", Ex Nihilo Technical Journal, vol. 1, 1984, pp. 141-158
 
-**Sojourn of Israel**. Another conundrum is establishing when Abraham was born. The
-Bible is like a Sudoku puzzle. The numbers (dates) in some of the cells have been erased.
-We can restore them if we gather all the constraints (Bible statements with implications
-related to elapsed time) and eliminate inconsistent sets of conclusions. The missing cells in
-this case are the lifespans of the descendants of the children of Jacob leading up to the
-birth of Moses. The constraints are these verses:
+**[Sojourn of Israel](./soujourn-of-israel.html)**. Another conundrum is establishing when 
+Abraham was born. The Bible is like a Sudoku puzzle. The numbers (dates) in some of the cells 
+have been erased. We can restore them if we gather all the constraints (Bible statements 
+with implications related to elapsed time) and eliminate inconsistent sets of conclusions. 
+The missing cells in this case are the lifespans of the descendants of the children of Jacob 
+leading up to the birth of Moses. The constraints are these verses:
 
 The sojourn begins?
 

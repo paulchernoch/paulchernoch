@@ -116,8 +116,8 @@ The four times of the community phase were crucial for women:
 
 ## More Women!
 
-Just as women are being liberated as we near the end of history, so the ends of the books that constitute the seven pillars
-also show the progress of women.
+Just as women are being liberated as we near the end of history, so the ends of the books 
+that constitute the seven pillars also show the progress of women.
 
 **Proverbs**. The final chapter, Proverbs 31, includes a mention of King Lemuel's mother, who taught him the wise sayings that he included in his chapter.
  She was a teacher of men. The chapter concludes with the description of a wife of noble character. 
