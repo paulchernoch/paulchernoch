@@ -2000,7 +2000,7 @@ cursing His Maker and losing his reward, his baby.
 
 See God's love for women? He doesn't just care about whether they can give him children. 
 
-  - He care about widows (Job 24:3,21;29:13;31:16,18). 
+  - He cares about widows (Job 24:3,21;29:13;31:16,18). 
   - He cares about women who can't have babies (Job 24:21).
   - He cares about the stillborn and the devastated woman whose hopes were dashed. 
   - He cares about the fatherless, because that means that there is a single mother struggling to make ends meet. (Job 22:9;24:9;29:12;31:17,21)
@@ -2139,7 +2139,7 @@ not complicated.
    2. While suffering, Job held fast to his faith in God.
    3. Because of that faith, God was able to communicate truths to Job through the medium of suffering. Those truths arise in Job's speeches.
    4. The truths that God communicated to Job defined many features of the savior. (See [Job Description for a Savior](./job-description-for-a-savior.html))
-   5. Like a pregnant woman, Christ was formed inside Job.
+   5. Like a pregnant woman, Christ was formed inside Job. (See Galatians 4:19)
    6. The delivery of the baby was the bringing into the world in written form the first book of the Bible to be written: *The Book of Job*. (See Job 19:23-27)
    7. The Sacramental impact was the appointment of Job as a priest who could forgive sins, foreshadowing the ministry of Christ.
    8. After Job recovered from the delivery of this new body of truth, his suffering ended and his fortunes were restored.
@@ -2236,7 +2236,7 @@ Matthew 21 has one more surprise:
 
 Again, the Bible draws our attention to infants and nursing babies. There is surely a message about God's plan for women hidden here.
 
-  - **Revelation**. In two of my books I show how the locusts with women's hair in Revelation 9 are Christian queens, sent to oppress the ungodly. That prophecy was fulfilled by Queen Victoria of England, Maria Theresa of Austria, and the women Tsars of Russia, like Catherine and Anna, to name a few. And of course, the final scene in Revelation is the wedding supper of the lamb, where the bride has made herself ready.
+  - **Revelation**. In two of my books I show how the [locusts with women's hair](./industrial-revolution.html) in Revelation 9 are Christian queens, sent to oppress the ungodly. That prophecy was fulfilled by Queen Victoria of England, Maria Theresa of Austria, and the women Tsars of Russia, like Catherine and Anna, to name a few. And of course, the final scene in Revelation is the wedding supper of the lamb, where the bride has made herself ready.
 
 Thus all seven of the Pillars of Wisdom hint at a time when the fortunes of women will change.
 Standing against this idea are difficult Bible passages, such as some in 1 Timothy.
@@ -2253,7 +2253,8 @@ The full argument is addressed here:
   - The anchoring in time of the real sacrifice for ordination and the announcement of when the ordination could begin is found in prophecy. Those prophecies establish with exactitude the era when women could begin to serve as ministers, as explored in [Quantification](./quantification.html)
   - This prophetic framework allows us to solve riddles in 1 & 2 Timothy, proving that those letters did not say to the women of Paul's time, "No!" but instead "Not yet!" And to the women of our time, they do say, "Now!": [Reconciliation](./reconciliation.html)
 
-The sacrifice of faithful women enabled the church to give birth to a new civilization 
-in which equality between women and men could be a reality - if we obey.
+The sacrifice of faithful women led to [The Childbearing](./the-childbearing.html); 
+it enabled the church to give birth to a new civilization in which equality between women 
+and men could be a reality - if we obey.
 Their suffering had a purpose, allowing God to pour into women - and via them the church - 
 the wisdom needed to reform the world. We must not refuse this precious gift of wisdom.
