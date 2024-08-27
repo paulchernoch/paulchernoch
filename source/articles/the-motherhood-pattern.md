@@ -392,7 +392,7 @@ jibe with the course of empires?
 **Birth and Post partum recovery**. Most of these civilizations gave birth to another. The verdict is out on modern Israel.
 
   - *The World*. In Rome's "a time to be born" treatment above, that civilization was born in 753 BC with the founding of the city of Rome. In this treatment for the world's clock, Rome was "born" in 509 BC, when its last king was deposed and the Roman Republic was born. That seems more appropriate, as tearing can symbolize civil war and Rome had that in spades in this era. After that, the "time to mend" was Rome's acquisition of control over most of the Mediterranean as a result of the Punic Wars and the Roman-Seleucid War.
-  - *Rome*. Events in both halves of the Roman Empire signify the tearing. In 476 AD, Rome fell and the Western Roman Empire ceased to exist. In 532 AD, the Nika riots and other unrest nearly shattered the Eastern Roman Empire (Byzantium). The Plague of Justinian, numerous wars and the chilling effects of volcanic activity devastated the empire. What would become Europe was carved out of the remains odf the western empire and began to grow in a new direction. The post partum recovery would be Justinian's reversal of decline in the east and Pope Gregory the Great's brilliant diplomacy, vision and leadership in the west.
+  - *Rome*. Events in both halves of the Roman Empire signify the tearing. In 476 AD, Rome fell and the Western Roman Empire ceased to exist. In 532 AD, the Nika riots and other unrest nearly shattered the Eastern Roman Empire (Byzantium). The Plague of Justinian, numerous wars and the chilling effects of volcanic activity devastated the empire. What would become Europe was carved out of the remains of the western empire and began to grow in a new direction. The post partum recovery would be Justinian's reversal of decline in the east and Pope Gregory the Great's brilliant diplomacy, vision and leadership in the west.
   - *Europe*. None dispute that the Protestant Reformation of the 16th century was the birth of a new civilization. Many revolutions in philosophy, science and politics occurred in rapid succession, upending the world order. This includes the scientific revolution, the age of reason and eventually the industrial revolution. The wars of religion and the General Crisis of the 17 century spilled a lot of blood. This blood is the blood of post partum hemmhoraging, staunched only by the Peace of Westphalia and subsequent moves toward religious liberty and tolerance.
   - *Protestant Christendom*. This civilization gave birth to modern Israel in 1948. It also nearly killed its child. The postwar period and the Cold War were the time of recovery.
   - *Israel*. Will modern Israel give birth to another civilization? Only time will tell...
@@ -497,7 +497,7 @@ nation and firmly while it was one, surely he has shouted to the women of the ch
 
 <span id="3.1" />
 
-**Comprehensive?**. How can we evaluate whether the Holy Spirit's communication to women has been comprehensive or not?
+**Comprehensive?** How can we evaluate whether the Holy Spirit's communication to women has been comprehensive or not?
 Isaiah 11:2 names for us the [Seven Spirits of God](./seven-spirits.html). This section will show that each 
 spirit visited at least two women in the Bible, one during the time of the Patriarchs and one after that, 
 up until the time of the resurrection. Like the tides, the first seven were visited by the Spirits in one order and the second seven in reverse. This forward and reverse listing of matching ideas forms a chiasm, a common literary device
@@ -513,7 +513,7 @@ or Mary. Once again, the last spirit to visit will be the Fear of the Lord.
 The connection between the fourteen women whom we will soon study and the Seven Spirits of God is revealing. 
 *Peace, like Solomon Never Knew* provided evidence that each spirit has an affinity for one of the 
 seven Bible books that constitute the [Seven Pillars of Wisdom](./seven-pillars-of-wisdom.html). 
-Indeed the order of the spirits governs the proper order of the pillars. Likewise, each spirit has an affinity 
+Indeed, the order of the spirits governs the proper order of the pillars. Likewise, each spirit has an affinity 
 for a different time in Solomon's [Growth Pattern](./growth-pattern.html) and a different phase in 
 Jesus' [Harvest Pattern](./harvest-pattern.html). Again, the order of the spirits matches the order of 
 the steps in those two patterns. Also, when studying the drawing of [seven swords](./seven-spirits.html) 
@@ -563,7 +563,7 @@ brought down empires. If so, the likeliest sequence of events is that the famine
 of foreign oppression in Israel forced Naomi and her husband to flee to Moab. 
 
 Why Moab? After Ehud the Judge subdued Moab, Israel enjoyed eighty years of peace with Moab (Judges 3:30). 
-A subsequent wave of oppression by the Canaanites in given in Judges 4:1-20. Only after that oppression 
+A subsequent wave of oppression by the Canaanites is given in Judges 4:1-20. Only after that oppression 
 ceased and brought improved conditions in Israel would it make sense for Naomi to return. 
 That would only happen with the rise of a new judge in Israel. Based on the chronologies, 
 the closest judge is Deborah. Thus the trials of Ruth and Naomi began before Deborah became Judge, 
@@ -728,7 +728,7 @@ I stopped not because I got what I asked for or because I was giving up.
 I stopped because, like Hannah, in faith I believed that God had heard me and promised to give me what I needed.
 
   - The first such time was in 1991, after praying for about thirty minutes to be accepted on a mission trip that had already turned me down. 
-  - The second time was in 2005, after praying for over three weeks for healing when I lost hearing in my left ear and being told by a doctor that I would  not get my healing back.
+  - The second time was in 2005, after praying for over three weeks for healing when I lost hearing in my left ear and being told by a doctor that I would  not get my hearing back.
   - The third time was in the mid 2010's, after praying and fasting one day a week for three years to see God's glory.
 
 In each case, the Lord gave me what I asked for: a place on the mission trip was extended by phone call minutes after I ended my prayer, the miraculous healing of my ear came two days after the doctor's discouraging word, and deeper insight into God's word arrived a year or so after my fast ended and continues to this day. This is called the prayer of faith. Many people talk about it. They have no idea what they are talking about. Hannah prayed the prayer of faith. Listen to her.
