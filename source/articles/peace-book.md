@@ -96,7 +96,7 @@ a short excerpt of that chapter.
   - One Greater than Solomon
   - Peace in His Time
   - Epilogue: What Time is it?
-  - Aftertaste: Donner & Blitzen
+  - [Aftertaste: Donner & Blitzen](./seven-thunders.html)
   - The Seven Pillars of Wisdom
   - Appendix A: Heavenly Peace
   - Appendix B: Index of Prophetic Clocks
