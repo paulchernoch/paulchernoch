@@ -7,7 +7,7 @@ This article originally appeared as the chapter "Aftertaste: Donner & Blitzen" i
 one of the greatest mysteries in the Bible.
 
 Since this was the next to last chapter in that book, it draws frequently on ideas
-developed earlier in the book. 
+developed earlier in the book. Additional insights from Revelation 10 may also be found in [Theme of Thunders](./theme-of-thunders.html).
 
 <hr/>
 

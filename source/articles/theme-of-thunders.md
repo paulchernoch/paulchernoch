@@ -10,7 +10,7 @@ quote: Seal up what the <b>seven thunders</b> <br/> have said, and do not <br/> 
 In “Aftertaste: Donner & Blitzen”, many connections between thunder passages in Psalms, Job, Exodus and
 Revelation were enumerated. Now that we have identified Exodus as part of the floor of Lady Wisdom’s house, we see
 that this connection via the thunders helps secure the pillars to that floor. 
-(Bits and pieces of that chapter are covered [with the theme of songs](./theme-of-songs.html) and in [riddles](./riddles.html).  )
+(Bits and pieces of that chapter are covered [with the theme of songs](./theme-of-songs.html) and in [riddles](./riddles.html). The whole of this very long chapter with much more about the seven thunders may be found in [Seven Thunders](./seven-thunders.html))
 
 An extra connection is to Jeremiah.
 
