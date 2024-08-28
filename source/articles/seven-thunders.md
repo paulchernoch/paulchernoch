@@ -1,6 +1,6 @@
 ---
 title: Voice of the Seven Thunders
-quote: ... Seal up what the seven thunders have said, <br/> and do not write it down. <br/> - Revelation 10:4b
+quote: ... Seal up what the seven thunders <br/> have said, and do not <br/> write it down. <br/> - Revelation 10:4b
 ---
 This article originally appeared as the chapter "Aftertaste: Donner & Blitzen" in
 *Peace, like Solomon Never Knew*. It tackles the riddle of the Voice of the Seven Thunders,
@@ -10,6 +10,37 @@ Since this was the next to last chapter in that book, it draws frequently on ide
 developed earlier in the book. 
 
 <hr/>
+
+<div class="sections">
+
+<p>Sections in this article:<p>
+
+  <ol>
+    <li> <a href="#1">Aftertaste: Donner & Blitzen</a> </li>
+    <li> <a href="#2">In search of thunder</a> </li>
+    <li> <a href="#3">Psalms of Thunder: 18, 29, 68, 77, 81, 93 & 104</a> </li>
+    <li> <a href="#4">Unity of Psalms, Exodus, Job and Revelation</a> </li>
+    <li> <a href="#5">Plagues of Thunder</a> </li>
+    <li> <a href="#6">You can’t Steal Job’s Thunder</a> </li>
+    <li> <a href="#7">And now for Revelation…</a> </li>
+    <li> <a href="#8">A Harvest of Thunder</a> </li>
+    <li> <a href="#9">John’s Seven Signs</a> </li>
+    <li> <a href="#10">The Seven Thunders, Unsealed (sort of)</a> </li>
+    <li> <a href="#11">Psalm 18: Sing the Secret Song in the Key of Life</a> </li>
+    <li> <a href="#12">Psalm 29: The Secret Song will Glorify our Holy God</a> </li>
+    <li> <a href="#13">Psalm 68: The Secret Song is filled with Saving Words</a> </li>
+    <li> <a href="#14">Psalm 77: The Secret Song will both Recall and Render the Miraculous</a> </li>
+    <li> <a href="#15">Psalm 81: The Secret Song will Offer Worship to the Triune God</a> </li>
+    <li> <a href="#16">Psalm 93: The Secret Song will proclaim the Gospel</a> </li>
+    <li> <a href="#17">Psalm 104: The Secret Song will Resolve</a> </li>
+    <li> <a href="#18">Prophecies will cease…</a> </li>
+  </ol>
+
+</div>
+
+<hr/>
+
+<span id="1" />
 
 ## Aftertaste: Donner & Blitzen
 
@@ -127,6 +158,8 @@ throughout God’s Word. Here, then, are the ripples
 spreading out from the legs of the angel straddling the
 shore of our turbulent sea.
 
+<span id="2" />
+
 ## In search of thunder
 
 The tools to find the thunder are three: a Bible
@@ -202,6 +235,8 @@ First, I overlooked two psalms in my search, making seven
 thunder psalms, not five. Second, even if we don’t know
 what the seven thunders *say*, we can take comfort in what
 they *do*.
+
+<span id="3" />
 
 ## Psalms of Thunder: 18, 29, 68, 77, 81, 93 & 104
 
@@ -466,6 +501,8 @@ bit as important as we imagine it to be.
 
 Even Moses agrees.
 
+<span id="4" />
+
 ## Unity of Psalms, Exodus, Job and Revelation
 
 Before we focus on Moses, let’s look at all four sources
@@ -497,6 +534,8 @@ Combining the numbers four and seven, you get twenty-
 eight, the number of Ecclesiastes’ times. This numerical
 clue is helpful as we dive into Exodus, because Moses
 knows how to tell time.
+
+<span id="5" />
 
 ## Plagues of Thunder
 
@@ -1112,6 +1151,8 @@ immoral way forever, their choice will be free. No more will
 the fear of death give them pause and their true regard for
 God will show. Then the end will come.
 
+<span id="6" />
+
 ## You can’t Steal Job’s Thunder
 
 Let’s augment the previous, detailed analysis of Job.
@@ -1494,6 +1535,8 @@ By symmetry, the last, in Job 40, must be when the church
 is stripped of political power. That is Solomon’s “time to
 hate”, when the fifth seal will be broken and persecution
 breaks out, while Behemoth licks its chops.
+
+<span id="7" />
 
 ## And now for Revelation…
 
@@ -1911,6 +1954,8 @@ This final thunder occurs in the midst of a celebration:
 It comes just before the Word of God marches out on his
 white horse to the final battle.
 
+<span id="8" />
+
 ## A Harvest of Thunder
 
 Focusing on how the seven thunders are situated within
@@ -2130,6 +2175,8 @@ peace are heralded by this last thunder:
 #### **wages war**.
 ###### - Revelation 19:11
 
+<span id="9" />
+
 ## John’s Seven Signs
 
 If fitting the twenty-eight times to Revelation looks
@@ -2222,6 +2269,8 @@ Then Revelation proceeds in forward order, as Christ
 liberates his beloved and carries the church up to eternal
 peace in heaven.
 
+<span id="10" />
+
 ## The Seven Thunders, Unsealed (sort of)
 
 Why did God command John to seal up the seven
@@ -2237,7 +2286,8 @@ makes knowing what the seven thunders said impossible
 *if they never spoke before*.
 
 <div class="pullquote-centered">
-  <p>The seven thunders have not been silent;</p>
+  <p>The seven thunders </p>
+  <p>have not been silent;</p>
   <p>we have not been listening.</p>
 </div>
 
@@ -2414,6 +2464,8 @@ top the charts.
 In what follows, verses from each psalm alternate with
 matching verses from Revelation.
 
+<span id="11" />
+
 ## Psalm 18: Sing the Secret Song in the Key of Life
 
 The first thunder psalm tells us Jesus has the key to set
@@ -2456,6 +2508,8 @@ Revelation
 #### So shall it be! Amen.
 ###### - Revelation 1:7
 
+<span id="12" />
+
 ## Psalm 29: The Secret Song will Glorify our Holy God
 
 In this psalm, King David commanded the “heavenly
@@ -2496,6 +2550,8 @@ Revelation
 #### and by your will they were created
 #### and have their being.”
 ###### - Revelation 4:11
+
+<span id="13" />
 
 ## Psalm 68: The Secret Song is filled with Saving Words
 
@@ -2549,6 +2605,8 @@ Revelation:
 ##### and to the Lamb.”
 ###### - Revelation 7:10, NIV
 
+<span id="14" />
+
 ## Psalm 77: The Secret Song will both Recall and Render the Miraculous
 
 When King Jehoshaphat marched out against a much
@@ -2584,6 +2642,8 @@ Revelation:
 #### as often as they want.
 ###### - Revelation 11:5-6
 
+<span id="15" />
+
 ## Psalm 81: The Secret Song will Offer Worship to the Triune God
 
 Once in Revelation 13 do the inhabitants of the earth
@@ -2616,6 +2676,8 @@ Revelation:
 #### the earth and its inhabitants **worship the** 
 #### **first beast**, whose fatal wound had been healed.
 ###### - Revelation 13:4,8,12
+
+<span id="16" />
 
 ## Psalm 93: The Secret Song will proclaim the Gospel
 
@@ -2656,6 +2718,8 @@ Revelation:
 #### to proclaim to those who live on the earth—
 #### to every nation, tribe, language and people.
 ###### - Revelation 14:2,3,6
+
+<span id="17" />
 
 ## Psalm 104: The Secret Song will Resolve
 
@@ -2806,6 +2870,8 @@ Bible reader. This also means that he was forbidden to sing
 it at that time. He must wait to sing it and we must wait to
 hear it. And when John and James sing that song, the voice
 of thunder will be theirs, and they will shake the world.
+
+<span id="18" />
 
 ## Prophecies will cease…
 
