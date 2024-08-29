@@ -16,6 +16,7 @@ Topics covered include:
   - emotional healing through the Psalms
   - dreams
   - spiritual warfare
+  - living by the Golden Rule
 
 ## Growth Patterns
 
@@ -182,7 +183,7 @@ The times of Solomon are like that deodorant. **If the principles behind those t
 
 ## The Golden Rule
 
-Few sayings of Jesus are more widely known than the Golden Rule.
+Few sayings of Jesus are more widely known than the [Golden Rule](./golden-rule.html).
 It is so simple that it can be taught to children, yet adults struggle
 for decades to comprehend its meaning. 
 

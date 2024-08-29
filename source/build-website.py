@@ -5,6 +5,7 @@ import shutil
 import regex as re
 import markdown2
 from slugify import slugify
+from bs4 import BeautifulSoup
 
 from yaml import safe_load, dump
 try:
@@ -208,13 +209,16 @@ def is_config_valid(config) -> bool:
 
   return  valid
 
-# Add the metadata found in the markdown file.
+# Add the metadata found in the markdown file plus the computed wordcount.
 def add_metadata(sitemap: dict, html: str):
   sitemap['quote'] = None
+  sitemap['wordcount'] = 0
   if hasattr(html, 'metadata'):
     metadata = html.metadata
     if 'quote' in metadata:
       sitemap['quote'] = metadata['quote']
+    if 'wordcount' in metadata:
+      sitemap['wordcount'] = metadata['wordcount']
 
 
 # Load the article markdown for each title into 'words' and store it in the sitemap.
@@ -246,12 +250,33 @@ def load_articles(config: dict, sitemap: dict, found = {}, missing: list[str] = 
     load_articles(config, part, found, missing)
   return found, missing
 
+def count_words(html_content) -> int:
+  # Parse the HTML content
+  soup = BeautifulSoup(html_content, 'html.parser')
+
+  # Extract text from the parsed HTML
+  text = soup.get_text()
+
+  # Split the text into words
+  words = text.split()
+
+  # Count the number of words
+  word_count = len(words)
+
+  # Add the word count to the attached metadata (if there is any)
+  if hasattr(html_content, 'metadata'):
+    metadata = html_content.metadata
+    metadata['wordcount'] = word_count
+
+  return word_count
+
 # Load an article from a file that is in markdown format and convert it to HTML.
 # If the markdown has metadata, it will be attached to the returned HTML as the metadata property, a dict.
 def load_and_convert_article(path) -> str:
   with open(path) as f:
     markdown = f.read()
   html = markdown2.markdown(markdown, extras=["metadata","tables"])
+  count_words(html)
   return html
 
   
@@ -390,6 +415,7 @@ def build_toc_helper(page_record: dict, indent: int) -> str:
 #   - $ARTICLE_TITLE$ will also be replaced by the article title
 #   - $ARTICLE_SUBTITLE$ will be replaced by the article subtitle if present, or blanked if not
 #   - $ARTICLE_SYNOPSIS$ will be replaced by the article synopsis if present, or blanked if not
+#   - $ARTICLE_WORDCOUNT$ will be replaced by the wordcount if present and more than ten, or blanked if not
 #   - $ARTICLE_DATE$ will be replaced by the publication date if present, or blanked if not
 #   - $FOOTER$ will be replaced with the article footer if present, or a searchbar if not
 #   - $QUOTE$ will be replaced by a pull quote if present, or blanked if not
@@ -433,6 +459,13 @@ def apply_template(template: str, sitemap: dict, title: str) -> str:
   else:
     update_message = f'Published on {create_date}. Updated on {update_date}.'
     page = replace_macro("ARTICLE_DATE", update_message, page)
+
+  wordcount = page_record['wordcount']
+  if wordcount <= 10:
+    page = remove_macro("ARTICLE_WORDCOUNT", page)
+  else:
+    wordcount_message = f'{wordcount} words long.'
+    page = replace_macro("ARTICLE_WORDCOUNT", wordcount_message, page)
 
   footer = page_record['footer']
   if footer is None:

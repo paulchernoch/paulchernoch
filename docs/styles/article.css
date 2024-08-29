@@ -62,7 +62,7 @@
   text-align: left;
 }
 
-.date {
+.date, .wordcount {
   font-family: Optima, Helvetica, Arial, sans-serif;
   font-weight:bold;
   font-size   : 16px;
