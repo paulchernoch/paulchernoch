@@ -121,7 +121,8 @@ That is something I have learned and will share with you. Even though we may not
 
 ## Stuck in Time
 
-Lack of understanding of Solomon's times can cause you to become stuck. The times must be embraced, not avoided.
+Lack of understanding of Solomon's times can cause you to become stuck. 
+The times must be embraced, not avoided.
 When I had been a Christian only a few years, an appeal by my pastor to the church fell on deaf ears.
 He asked people in the congregation to visit a sick member who lived in a nursing facility.
 I had at that point suffered for about a decade with depression. Being saved weakened its hold 
@@ -179,37 +180,37 @@ The times of Solomon are like that deodorant. **If the principles behind those t
 **enough and wise enough for God to use in governing and guiding the whole world through its problems, do you**
 **think they might be good enough to guide you through yours?**
 
+## The Golden Rule
+
+Few sayings of Jesus are more widely known than the Golden Rule.
+It is so simple that it can be taught to children, yet adults struggle
+for decades to comprehend its meaning. 
+
+<hr/>
+
+<div class="sections">
+
+<p>Links to the other articles in this section:</p>
+
+  <ol>
+    <li> <a href="./spiritual-growth.html">Spiritual Growth</a> - Introduction to the articles about spiritual growth. </li>
+    <li> <a href="./most-important-questions.html">What are Life's Twelve Most Important Questions?</a> - If you can answer these questions, you know the way better than the Mandelorian. </li>
+    <li> <a href="./heavenly-treasures.html">What are the Heavenly Treasures?</a> - It is one thing to list these treasures, quite another to acquire them! </li>
+    <li> <a href="./harvest-pattern.html">The Harvest Pattern of Jesus</a> - A tactical pattern for overcoming an individual obstacle and reaping a single spiritual harvest.</li>
+    <li> <a href="./growth-pattern.html">The Growth Pattern of Solomon</a> - Overview of a strategic pattern to help you plan your whole life. </li>
+    <li> <a href="./there-is-a-season.html">There is a Season</a> - The chapter from <em>Peace, like Solomon Never Knew</em> where I first introduced the Growth Pattern.</li>
+    <li> <a href="./pauls-discipleship-program.html">The Apostle Paul's Discipleship Program</a> - Shows how the first seven letters of Paul to the churches are arranged according to the Growth Pattern. </li>
+    <li> <a href="./the-motherhood-pattern.html">The Motherhood Pattern</a> - A strategic pattern for women.</li>
+    <li> <a href="./law-pattern.html">The Law Pattern of Moses</a> - The law does more than restrict; it also guides.</li>
+    <li> <a href="./the-journey-pattern.html">The Journey Pattern</a> - It is a long journey back to Eden. </li>
+    <li> <a href="./emotional-prophecies-of-the-psalms.html">Emotional Prophecies of the Psalms</a> - God knows what we will be feeling in advance. </li>
+    <li> <a href="./talk-to-god.html">Job and the Ways to Talk to God</a> - To enjoy a healthy spiritual life we must maintain open lines of communication with God. </li>
+    <li> <a href="./job-description-for-a-savior.html">Job Description for a Savior</a> - Job knew what he needed in a savior. Do you? </li>
+    <li> <a href="./dreams.html">Dreams</a> - Dreams can guide you, paralyze you, or lead you astray. In my case, it was all three. </li>
+    <li> <a href="./spiritual-warfare.html">Spiritual Warfare</a> - Somebody IS out to get you. </li>
+    <li> <a href="./golden-rule.html">The Golden Rule</a> - Have you polished it lately? </li>
+  </ol>
+
+</div>
 
 <hr>
-
-Links to the other articles in this section:
-
-[Spiritual Growth](./spiritual-growth.html) Introduction to the articles about spiritual growth.
-
-[What are Life's Twelve Most Important Questions?](./most-important-questions.html) If you can answer these questions, you know the way better than the Mandelorian.
-
-[What are the Heavenly Treasures?](./heavenly-treasures.html) It is one thing to list these treasures, quite another to acquire them!
-
-[The Harvest Pattern of Jesus](./harvest-pattern.html) A tactical pattern for overcoming an individual obstacle and reaping a single spiritual harvest.
-
-[The Growth Pattern of Solomon](./growth-pattern.html) Overview of a strategic pattern to help you plan your whole life.
-
-  - [There is a Season](./there-is-a-season.html) The chapter from *Peace, like Solomon Never Knew* where I first introduced the Growth Pattern. 
-
-  - [The Apostle Paul's Discipleship Program](./pauls-discipleship-program.html) Shows how the first seven letters of Paul to the churches are arranged according to the Growth Pattern.
-
-[The Motherhood Pattern](./the-motherhood-pattern.html) A strategic pattern for women.
-
-[The Law Pattern of Moses](./law-pattern.html) The law does more than restrict; it also guides.
-
-[The Journey Pattern](./the-journey-pattern.html) It is a long journey back to Eden.
-
-[Emotional Prophecies of the Psalms](./emotional-prophecies-of-the-psalms.html)
-
-[Job and the Ways to Talk to God](./talk-to-god.html)
-
-[Job Description for a Savior](./job-description-for-a-savior.html) Job knew what he needed in a savior. Do you?
-
-[Dreams](./dreams.html) Dreams can guide you, paralyze you, or lead you astray. In my case, it was all three.
-
-[Spiritual Warfare](./spiritual-warfare.html) Somebody IS out to get you.
