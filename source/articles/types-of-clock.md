@@ -442,6 +442,24 @@ way to organize history. The chapter “Winding the Clock”
 will study the movements of the harvest clock of
 Ecclesiastes.
 
+### Commandment Clocks
+
+A few prophetic clocks are structured according to the Ten Commandments.
+They break a stretch of time into ten eras, one per commandment.
+Each era then has a key historical event that relates to that commandment.
+Some also relate to the corresponding Exodus plague.
+
+As a distinct kind of clock Commandment Clocks are not listed by Solomon in Ecclesiastes 1.
+These clocks fall under one of the other categories.
+Of the five Commandment clocks that have been discovered so far,
+four are celestial clocks (where each era is of the same duration) and one is an empire clock
+(where eras are of uneven duration and each follows the fate of a different world empire).
+
+See [Commandment Clocks](./commandment-clocks.html) for the details.
+
+
+### Other Clocks
+
 This leaves one more clock, one not found on Solomon’s
 list. We introduced it earlier, but it bears closer scrutiny.
 

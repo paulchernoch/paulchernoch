@@ -387,7 +387,7 @@ This is a survival issue.
 
 <div class="sections">
 
-Other articles in this Series:
+<p>Other articles in this Series:</p>
 
   <ol>
     <li> <a href="./against-complementarianism.html">Against Complementarianism</a> </li>
