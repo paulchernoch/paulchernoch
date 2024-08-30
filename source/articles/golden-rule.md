@@ -2,12 +2,12 @@
 title: The Golden Rule
 quote: Do unto others <br/> as you would have them <br/> do unto you. </br> - Jesus Christ
 ---
-I believe that the Golden Rule deserves its appellation.
-I did not always think that way. This article shares a little of my journey
-toward understanding how profound are the words of Jesus found in Matthew 7.
-
-The Golden Rule makes perfect sense until you realize that it is sandwiched in between
-other sayings that deepen its meaning:
+We strive to grow spiritually so that we may reach full maturity in the faith
+and be a source of light and love in this world. Jesus told us not to hide
+our light under a bushel (Matthew 5:15-16). If you take the basket off your head, 
+is there any light there to shine? There is a simple test of whether you are a 
+spiritually mature Christian. Do your thoughts, words and deeds follow the 
+Golden Rule of Jesus Christ?
 
 #### <sup>7</sup> “**Ask**, and it will be given to you; 
 ##### **seek**, and you will find; 
@@ -32,8 +32,27 @@ other sayings that deepen its meaning:
 #### that leads to life, and those who find it are few."
 ###### - Matthew 7:7-14
 
-I slowly worked my way outward from the core in verse 12 to get to the understanding I have today.
-Each step toward clarity required me to overcome an obstacle. Some of those obstacles were:
+I believe that the Golden Rule deserves its appellation. It is golden. 
+When it shines out from us it lights a path to guide the lost to safety.
+I did not always think that way. This article shares a little of my journey
+toward understanding how profound are the words of Jesus found in Matthew 7.
+After being steeped in the negative philosophy of Job, Ecclesiastes and Proverbs,
+my approach is simple. I will catalog a few of my failures to understand and apply this
+glorious teaching and how those failures guided me to the truth. 
+
+This is the engineer in me speaking. Each time a machine or a system fails, we learn 
+something useful about it. We learn the limits of its operating range. We learn how to improve it.
+So it is with the Golden Rule. It is not easy to follow. Each unsuccessful attempt to follow
+it teaches us what needs to change inside us so that we may do better the next time.
+Those changes must be made to:
+
+  - **our mind**, because we do not understand the details of how to apply the rule in a new situation
+  - **our heart**, because our values and priorities are not aligned with God's and we despair of ever measuring up
+  - **our hands**, because there is a lot for them to do and we must practice to use them skillfully
+
+The Golden Rule makes perfect sense until you realize that it is sandwiched in between
+other sayings that deepen its meaning, from the "ask-seek-knock" part to the narrowness of the gate.
+We are told straight away that it will not be easy. Some of the obstacles I run up against are:
 
   - Laziness
   - Pride
