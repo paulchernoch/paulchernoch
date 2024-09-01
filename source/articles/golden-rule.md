@@ -64,7 +64,7 @@ We are told straight away that it will not be easy. Some obstacles I ran up agai
   - A fuzzy picture of God 
 
 These spiritual deficits made it hard for me to believe and live according to this rule and
-believe that it means exactly what Jesus said it means. To make the significance crystal clear,
+accept that it means exactly what Jesus said it means. To make the significance crystal clear,
 I begin with this conundrum. After I made major progress in understanding the Golden Rule in the 
 early 1990's, I was convinced that I had just made a breakthrough and now understood one of the most
 important truths in Christianity. I was certain that - knowing this - there was nothing I couldn't
@@ -93,7 +93,7 @@ possible without divine assistance to love your neighbor as yourself. You will n
 that Jesus was right when he said, *"that you are wretched, pitiable, poor, blind, and naked."* (Revelation 3:17b)
 
 The challenge is to come to this point and plead with God for His resources to meet the 
-need that surround you. The challenge is to not give up.
+need that surrounds you. The challenge is to not give up.
 
 ## Depression
 

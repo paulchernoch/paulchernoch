@@ -2,6 +2,10 @@
 title: "Habakkuk: Part 7"
 quote: yet I will rejoice in the Lord; <br/> I will take joy in the God of my salvation. <br/> - Habakkuk 3:18
 ---
+<img class="wide" src="images/feet-like-the-deer.png" alt="Trinity of Deer photographed by Jaime Chernoch in August 2024"/>
+
+Photographed by Jaime Chernoch at Southwick's Zoo, August 31, 2024.
+
 ## Praise amid Barrenness
 
 One more observation about Habakkuk: the shepherd. The final section lists six agricultural failures. They were both literal and symbolic.
