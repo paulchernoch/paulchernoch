@@ -521,6 +521,8 @@ Links to the other articles in this section:
 
   - [The Apostle Paul's Discipleship Program](./pauls-discipleship-program.html) Shows how the first seven letters of Paul to the churches are arranged according to the Growth Pattern.
 
+  - [Seven Facets of Spirit-led Discipleship](./discipleship.html) The Sermon on the Mount conforms to the Growth Pattern.
+
 [The Motherhood Pattern](./the-motherhood-pattern.html) A strategic pattern for women.
 
 [The Law Pattern of Moses](./law-pattern.html) The law does more than restrict; it also guides.

@@ -162,6 +162,8 @@ Links to the other articles in this section:
   - [Which Ten Commandments?](./which-ten-commandments.html) The Harvest and Growth Patterns fit perfectly into the Law Pattern.
   - [Matthew and the Law of Christ](./matthew-and-the-law-of-christ.html) The Gospel of Matthew is a perfect realization of the Law Pattern. It helps us understand what the Apostle Paul meant by the phrase "the law of Christ".
 
+  - [Seven Facets of Spirit-led Discipleship](./discipleship.html) The Sermon on the Mount conforms to the Growth Pattern.
+
 [The Journey Pattern](./the-journey-pattern.html) It is a long journey back to Eden.
 
 [Emotional Prophecies of the Psalms](./emotional-prophecies-of-the-psalms.html)

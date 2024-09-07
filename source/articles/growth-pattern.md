@@ -12,8 +12,10 @@ must pass through before reaching full maturity.
 The details of what each phase in the pattern mean are then covered in an article based on the chapter
 ["There is a Season"](./there-is-a-season.html) from *Peace, like Solomon Never Knew*.
 
-The application of the pattern to Christian discipleship is then covered in the article
-[The Apostle Paul's Discipleship Program](./pauls-discipleship-program.html).
+The application of the pattern to Christian discipleship is then covered in two articles:
+
+ - [The Apostle Paul's Discipleship Program](./pauls-discipleship-program.html). Focus on Paul's Letters to the churches.
+ - [Seven Facets of Spirit-led Discipleship](./discipleship.html). Focus on the Sermon on the Mount.
 
 ## Solomon's Seasons of Life
 
@@ -328,6 +330,8 @@ Links to the other articles in this section:
   - [There is a Season](./there-is-a-season.html) The chapter from *Peace, like Solomon Never Knew* where I first introduced the Growth Pattern. 
 
   - [The Apostle Paul's Discipleship Program](./pauls-discipleship-program.html) Shows how the first seven letters of Paul to the churches are arranged according to the Growth Pattern.
+  
+  - [Seven Facets of Spirit-led Discipleship](./discipleship.html) The Sermon on the Mount conforms to the Growth Pattern.
 
 [The Motherhood Pattern](./the-motherhood-pattern.html) A strategic pattern for women.
 

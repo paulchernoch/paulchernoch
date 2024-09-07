@@ -201,6 +201,7 @@ for decades to comprehend its meaning.
     <li> <a href="./growth-pattern.html">The Growth Pattern of Solomon</a> - Overview of a strategic pattern to help you plan your whole life. </li>
     <li> <a href="./there-is-a-season.html">There is a Season</a> - The chapter from <em>Peace, like Solomon Never Knew</em> where I first introduced the Growth Pattern.</li>
     <li> <a href="./pauls-discipleship-program.html">The Apostle Paul's Discipleship Program</a> - Shows how the first seven letters of Paul to the churches are arranged according to the Growth Pattern. </li>
+    <li> <a href="./discipleship.htm">Seven Facets of Spirit-led Discipleship</a> - The Sermon on the Mount conforms to the Growth Pattern.</li>
     <li> <a href="./the-motherhood-pattern.html">The Motherhood Pattern</a> - A strategic pattern for women.</li>
     <li> <a href="./law-pattern.html">The Law Pattern of Moses</a> - The law does more than restrict; it also guides.</li>
     <li> <a href="./the-journey-pattern.html">The Journey Pattern</a> - It is a long journey back to Eden. </li>
