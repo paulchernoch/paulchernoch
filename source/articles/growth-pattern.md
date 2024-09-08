@@ -80,8 +80,11 @@ The prophetic implications of this pattern will be discussed in a separate secti
 I discovered and documented the Growth Pattern while writing *Peace, like Solomon Never Knew* and made some 
 elaborations to it in *Plague, Precept, Prophet, Peace*. The next article in this subsection is adapted from
 the chapter ["There is a Season"](./there-is-a-season.html) in the former book. 
-The concluding article in this subsection will explore new ground, and is titled 
-[The Apostle Paul's Discipleship Program](./pauls-discipleship-program.html).
+The concluding articles in this subsection will explore new ground, and are titled:
+
+  - [The Apostle Paul's Discipleship Program](./pauls-discipleship-program.html)
+  - [Seven Facets of Spirit-led Discipleship](./discipleship.html)
+  
 It will show how Paul's first seven letters, in the order found in your Bible, appear to have been divinely ordered
 so as to teach a discipleship course. They proceed from teaching the new Christian the essential truth
 of our eternal security in Christ and proceed all the way to how to hold fast to Christ in loyalty through every trial.

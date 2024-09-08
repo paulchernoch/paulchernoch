@@ -1,6 +1,9 @@
 ---
 title: Seven Facets of Spirit-led Discipleship
+quote: But in your hearts revere Christ as Lord... <br/> - Peter
 ---
+<img class="wide" src="images/seven-faceted-gem.png" alt="Seven-Faceted Gem"/>
+
 ## Synopsis
 
 Each of the seven spirits of God named in Revelation and listed in Isaiah 11 has a role
@@ -63,7 +66,7 @@ Consider the third facet (the Content). It contains the bulk of what a typical s
 
 ## The Economics of Service
 
-Jesus did not sugarcoat his message. He asked one man to sell his possessions and give to the poor. He warned of persecution and hardship. He preached and practiced love for his enemies. For whoever would save his life will lose it, but whoever loses his life for my sake will save it. (Luke 9:24, ESV) Dietrich Bonhoeffer set down his estimate in The Cost of Discipleship. I tried to put his words into practice and failed. That seems to be the point. Nobody can advance to the next stage if they are unwilling to try and fail.
+Jesus did not sugarcoat his message. He asked one man to sell his possessions and give to the poor. He warned of persecution and hardship. He preached and practiced love for his enemies. *For whoever would save his life will lose it, but whoever loses his life for my sake will save it*. (Luke 9:24, ESV) Dietrich Bonhoeffer set down his estimate in *The Cost of Discipleship*. I tried to put his words into practice and failed. That seems to be the point. Nobody can advance to the next stage if they are unwilling to try and fail.
 
 **Value**. When we fail, what is the Holy Spirit showing us? He is showing us what we value. We do not want to surrender the things we prize. Whether money, property, social position, power, prestige or baser desires, we limit how much we are willing to part with.
 

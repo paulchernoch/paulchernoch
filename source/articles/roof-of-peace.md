@@ -90,5 +90,6 @@ In the interim, I say a few more things about this aspect of Paul's Letters here
 
   - [Blueprint for Lady Wisdom's House](./blueprint.html)
   - [The Apostle Paul's Discipleship Program](./pauls-discipleship-program.html)
+  - [Seven Facets of Spirit-led Discipleship](./discipleship.html) The Sermon on the Mount conforms to the Growth Pattern.
 
 To be continued in 2025...
