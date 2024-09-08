@@ -50,6 +50,8 @@ So what? The guidance of the Holy Spirit is not like the guidance given by the F
 
 ## The Seven Facets Listed
 
+<img class="center" src="images/seven-faceted-gem-alone.png" alt="Seven-Faceted Gem Alone"/>
+
 The seven facets are deceptively simple.
 
   1. **The Center**: Put Jesus Christ at the center of your discipleship.
