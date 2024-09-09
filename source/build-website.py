@@ -6,6 +6,7 @@ import regex as re
 import markdown2
 from slugify import slugify
 from bs4 import BeautifulSoup
+from functools import lru_cache
 
 from yaml import safe_load, dump
 try:
@@ -564,14 +565,21 @@ def build_action(config, sitemap) -> bool:
 #                                   #
 #####################################
 
+@lru_cache(maxsize=1000)
+def get_compiled_pattern(pattern):
+    '''
+    Reuse regex patterns so that we do not need to create the same regex many times, which is slow.
+    '''
+    return re.compile(pattern)
 
 def has_citation_for(text: str, book: str, chapter) -> bool:
   '''
   Test if the given text contains a Bible citation for the given book and chapter.
   This does not recognize abbreviations of Bible books.
   '''
-  pattern = f"{book} ({chapter}|[-0-9,;: ]+[^0-9]{chapter})"
-  match = re.search(pattern, text)
+  pattern_text = f"{book} ({chapter}|[-0-9,;: ]+[^0-9]{chapter})[^0-9]"
+  pattern = get_compiled_pattern(pattern_text)
+  match = pattern.search(text)
   return bool(match)
 
 def all_books() -> list[str]:

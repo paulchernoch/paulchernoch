@@ -154,7 +154,7 @@ I share my ideas with others, to teach, lead Bible studies, and disciple younger
 When? Should I rush through my writing so I can get to that?
 Or am I supposed to keep sitting before my laptop for years longer?
 
-The Lord could tell me wait. He could tell me hurry up. He could tll me slow down. He could tell me
+The Lord could tell me wait. He could tell me hurry up. He could tell me slow down. He could tell me
 have faith and trust that He is guiding me. Today He surprised me.
 
 **Today the Lord told me his plan.**
@@ -237,7 +237,7 @@ average.
   - **a time to die**: Death to self, gaining a new identity in Christ from memorizing Galatians and a comforting dream, **September-October 1985**
   - **a time to plant**: Joined a church (Ruggles Baptist) in **March 1986**
   - **a time to uproot**: Ended friendships with some unbelieving friends, Graduated college, thus leaving my campus fellowship, **1986-1987**
-  - **times to kill & heal**, tear down & build up: Discipled by Christian roommates, books, church fellowship and Bible studies, healing from nightmares **1987-1988**
+  - **times to kill & heal, tear down & build up**: Discipled by Christian roommates, books, church fellowship and Bible studies, healing from nightmares **1987-1988**
   - **times to weep & laugh**: Baptized in the Holy Spirit, freed from depression by overwhelming joy, **1988-1991**
   - **a time to mourn**: Significant losses, like a romantic breakup, job loss, Bible study leader leaving the faith, **Early 1992**
   - **a time to dance**: Read *Our Sufficiency in Christ* by John MacArthur, attended Bible study on Romans 6, wrote a worship song, grew spiritually, **Late 1992**
