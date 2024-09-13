@@ -943,8 +943,8 @@ def format_citations_by_testament(citations: dict) -> str:
 
   citation_html = replace_macro("PAGE_TITLE", 'Scripture Index', template)
 
-  old_testament_books = old_testament_books()
-  new_testament_books = new_testament_books()
+  ot_books = old_testament_books()
+  nt_books = new_testament_books()
 
   # <details class="scripture">
   #     <summary><h2>Book name</h2></summary>
@@ -952,11 +952,11 @@ def format_citations_by_testament(citations: dict) -> str:
   # </details>
   old_testament_citations = ''
   new_testament_citations = ''
-  for book in old_testament_books:
+  for book in ot_books:
     if book in citations:
       old_testament_citations += citations_for_one_book(book, citations)
 
-  for book in new_testament_books:
+  for book in nt_books:
     if book in citations:
       new_testament_citations += citations_for_one_book(book, citations)
 
