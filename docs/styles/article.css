@@ -531,3 +531,35 @@ main.searchable{
   color: var(--dark-cerulean);
   background: var(--wispy-blue);
 }
+
+/* Scripture Index */
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  .citations li {
+    font-size: 11px;
+  }
+} 
+
+@media only screen and (min-device-width : 481px) and (max-device-width : 600px) {
+  .citations li {
+    font-size: 12px;
+  }
+}
+
+@media only screen and (min-device-width : 601px) and (max-device-width : 800px) {
+  .citations li {
+    font-size: 13px;
+  }
+}
+
+@media only screen and (min-device-width : 801px) and (max-device-width : 1200px) {
+  .citations li {
+    font-size: 14px;
+  }
+}
+
+@media only screen and (min-device-width : 1201px) {
+  .citations li {
+    font-size: 16px;
+  }
+}
