@@ -535,31 +535,61 @@ main.searchable{
 /* Scripture Index */
 
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
-  .citations li {
+  .citations.article h2 {
+    font-size: 16px;
+  }
+  .citations.article li {
+    font-size: 13px;
+  }
+  .citations.article li li {
     font-size: 11px;
   }
 } 
 
 @media only screen and (min-device-width : 481px) and (max-device-width : 600px) {
-  .citations li {
+  .citations.article h2 {
+    font-size: 20px;
+  }
+  .citations.article li {
+    font-size: 14px;
+  }
+  .citations.article li li {
     font-size: 12px;
   }
 }
 
 @media only screen and (min-device-width : 601px) and (max-device-width : 800px) {
-  .citations li {
+  .citations.article h2 {
+    font-size: 22px;
+  }
+  .citations.article li {
+    font-size: 15px;
+  }
+  .citations.article li li {
     font-size: 13px;
   }
 }
 
 @media only screen and (min-device-width : 801px) and (max-device-width : 1200px) {
-  .citations li {
+  .citations.article h2 {
+    font-size: 24px;
+  }
+  .citations.article li {
+    font-size: 16px;
+  }
+  .citations.article li li {
     font-size: 14px;
   }
 }
 
 @media only screen and (min-device-width : 1201px) {
-  .citations li {
+  .citations.article h2 {
+    font-size: 28px;
+  }
+  .citations.article li {
+    font-size: 18px;
+  }
+  .citations.article li li {
     font-size: 16px;
   }
 }
