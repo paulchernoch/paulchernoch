@@ -965,11 +965,13 @@ def format_citations_by_testament(citations: dict) -> str:
   return citation_html
 
 def write_citations(citations: dict, filename: str):
+  print(f'Write Scripture index to {filename}')
   # Single column, ignore template file, with both Old and New Testament together.
   # html = format_citations(citations)
 
   # Use template file, two columns, one for Old Testament, one for New Testament.
   html = format_citations_by_testament(citations)
+  print(f'Size of index file: {len(html)}')
   with open(filename, 'w') as f:
     f.write(html)
 
