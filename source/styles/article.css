@@ -569,7 +569,7 @@ main.searchable{
   }
   details.citations.article li li {
     font-size: 13px;
-    padding-left: 3px;
+    padding-left: 2px;
   }
 }
 
@@ -582,7 +582,7 @@ main.searchable{
   }
   details.citations.article li li {
     font-size: 14px;
-    padding-left: 5px;
+    padding-left: 3px;
   }
 }
 
@@ -595,6 +595,6 @@ main.searchable{
   }
   details.citations.article li li {
     font-size: 16px;
-    padding-left: 7px;
+    padding-left: 5px;
   }
 }
