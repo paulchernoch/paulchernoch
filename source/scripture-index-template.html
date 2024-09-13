@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!--from template: scripture-index-template.html -->
+  <title>$PAGE_TITLE$</title>
+  <link rel="stylesheet" href="./styles/tree.css" type="text/css">
+  <link rel="stylesheet" href="./styles/toc.css" type="text/css">
+  <link rel="stylesheet" href="./styles/article.css" type="text/css">
+  <!-- Font Awesome supplies the icons used in the TOC -->
+  <script src="https://kit.fontawesome.com/ecadd7b212.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="./styles/page.css" type="text/css">
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Two Column Layout</title>
+    <style>
+        header h1 {
+          font-family: Optima, Helvetica, Arial, sans-serif;
+          font-weight: bold;
+          font-size   : 50px;
+          font-style: normal;
+          text-align: center;
+          color: var(--dark-cerulean);
+        }
+      
+        footer h1 {
+          font-family: Optima, Helvetica, Arial, sans-serif;
+          font-weight: bold;
+          font-size   : 18px;
+          font-style: normal;
+          text-align: center;
+          color: var(--dark-cerulean);
+        }
+      
+      .column h1 {
+          font-family: Optima, Helvetica, Arial, sans-serif;
+          font-weight: bold;
+          font-size   : 32px;
+          font-style: normal;
+          text-align: center;
+          color: var(--dark-cerulean);
+      }
+      
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            width: 100%;
+            font-family: Arial, sans-serif;
+        }
+        header {
+            height: 15%;
+            width: 100%;
+            background-color: var(--coral-blue);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: black;
+        }
+        footer {
+            height: 10%;
+            width: 100%;
+            background-color: palegoldenrod;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: black;
+            font-size: 1.5em;
+        }
+        .container {
+            display: flex;
+            height: 75%;
+            width: 100%;
+        }
+        .column {
+            width: 50%;
+            height: 100%;
+            overflow-y: auto;
+            background-color: white;
+            color: black;
+            padding: 10px;
+            box-sizing: border-box;
+        }
+    </style>
+</head>
+<body>
+    <header><h1>Scripture Index</h1></header>
+    <div class="container">
+        <div class="column">
+            <h1>Old Testament</h1>
+            $OLD_TESTAMENT_LINKS$
+        </div>
+        <div class="column">
+            <h1>New Testament</h1>
+            $NEW_TESTAMENT_LINKS$
+        </div>
+    </div>
+    <footer><h1>Click Bible book name to expand list of links to articles citing each chapter.</h1> </footer>
+</body>
+</html>

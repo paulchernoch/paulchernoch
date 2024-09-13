@@ -686,5 +686,5 @@ God will by this act open the mind of some in the church to fathom knowledge of 
 Those Christians will be able to advise the church about things I will never understand.
 
 The most important thing to know is that Jesus is with us now. He promised to stay with us until the end of the age.
-His grace is sufficient for us. Then on e day, he will descend from the sky in bodily form in the same way 
+His grace is sufficient for us. Then one day, he will descend from the sky in bodily form in the same way 
 that the Apostles saw him leave. That is the end to which I look forward: the happy end.
