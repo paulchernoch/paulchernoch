@@ -541,8 +541,9 @@ main.searchable{
   .citations.article li {
     font-size: 13px;
   }
-  .citations.article li li {
+  details.citations.article li li {
     font-size: 11px;
+    padding-left: 1px;
   }
 } 
 
@@ -553,8 +554,9 @@ main.searchable{
   .citations.article li {
     font-size: 14px;
   }
-  .citations.article li li {
+  details.citations.article li li {
     font-size: 12px;
+    padding-left: 1px;
   }
 }
 
@@ -565,8 +567,9 @@ main.searchable{
   .citations.article li {
     font-size: 15px;
   }
-  .citations.article li li {
+  details.citations.article li li {
     font-size: 13px;
+    padding-left: 3px;
   }
 }
 
@@ -577,8 +580,9 @@ main.searchable{
   .citations.article li {
     font-size: 16px;
   }
-  .citations.article li li {
+  details.citations.article li li {
     font-size: 14px;
+    padding-left: 5px;
   }
 }
 
@@ -589,7 +593,8 @@ main.searchable{
   .citations.article li {
     font-size: 18px;
   }
-  .citations.article li li {
+  details.citations.article li li {
     font-size: 16px;
+    padding-left: 7px;
   }
 }
