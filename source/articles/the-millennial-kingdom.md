@@ -184,6 +184,24 @@ If he was ubound in 1380, then he must have been bound in 380 AD. What happened 
 That was the year that Rome became a Christian empire as a result of Theodosius I's Edict of Thessalonica.
 That was the backwards way that I discovered the year when Satan was bound and the Millennial Kingdom began.
 
+What's more, in 381 AD the church held the Council of Constantinople. One of the purposes was to oppose 
+a heresy of Marcellus that Christ was a temporary expression of God that would vanish when this age comes 
+to an end. Then Jesus would be absorbed into the Godhead and cease to have an individual existence as a 
+separate person. How did the church refute this heresy? They appealed to words spoken by the angel to Mary:
+
+#### and he will reign over the house of Jacob forever, 
+#### and of his kingdom there will be no end.
+###### - Luke 1:33
+
+To memorialize this, the counsel added words to the Nicene Creed, resulting in the
+Niceno-Constantinopolitan Creed of 381 AD. After the change, this is how one statement was amplified:
+
+#### He will come again in glory to judge
+#### the living and the dead, 
+#### **and his kingdom will have no end**.
+
+By this act the church unknowingly declared the commencement of the Millennial Kingdom of Christ.
+
 <span id="3"/>
 ## Why expect a pattern of years?
 
