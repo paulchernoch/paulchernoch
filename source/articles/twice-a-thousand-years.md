@@ -299,7 +299,7 @@ year for the clock, 960 BC, the year the temple was dedicated. Thus we have our 
   - 1 AD. **A time to weep**. Jesus crucified.
   - 120 AD. **A time to laugh**. Justin Martyr. “For I myself, when I discovered the wicked disguise which the evil spirits had thrown around the divine doctrines of the Christians, to turn aside others from joining them, **laughed** both at those who framed these falsehoods, and at the disguise itself and at popular opinion and I confess that I both boast and with all my strength strive to be found a Christian.”
   - 240 AD. **A time to mourn**. Diocletian’s persecution.
-  - 60 AD. **A time to dance**. Edict of Thessalonica (380 AD). Christianity becomes official state religion of Rome and persecution ends.
+  - 360 AD. **A time to dance**. Edict of Thessalonica (380 AD). Christianity becomes official state religion of Rome and persecution ends.
   - 480 AD. **A time to scatter stones**. Rome sacked by Alaric in 410 AD. Fall of Rome in 476 AD.
   - 600 AD. **A time to gather stones**. Dome of the Rock built, 688-691 AD.
   - 720 AD. **A time to embrace**. Seventh and Last Ecumenical Council, concerning proper worship, the embrace of God.

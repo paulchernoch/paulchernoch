@@ -216,7 +216,7 @@ for that.
 
 Over the next several years I uncovered over forty [Prophetic Clocks](./prophetic-clocks.html).
 This required that I synchronize all the clocks, otherwise the same prophesied event would be assigned to
-disjoint eras, producing an temporal inconsistency that would undermine everything. Part of that effort
+disjoint eras, producing a temporal inconsistency that would undermine everything. Part of that effort
 was expressed in the chapter "Let's Synchronize Our Watches" in *Peace, like Solomon Never Knew*.
 The difficulty with synchronization is the sheer number of combinations involved. If the range of dates
 for the Creation is 100 years, for Job another 100 years, for the Unbinding of Satan another 100 years,
