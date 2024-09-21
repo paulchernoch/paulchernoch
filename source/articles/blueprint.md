@@ -154,6 +154,8 @@ For an extended discussion of how the Law is so structured, see these articles:
   - [Which Ten Commandments?](./which-ten-commandments.html)
   - [Matthew and the Law of Christ](./matthew-and-the-law-of-christ.html)
 
+<span id="roof"/>
+
 ## Roof
 
 This feature of Wisdom’s house was the last to occur to me. Both the Harvest Pattern

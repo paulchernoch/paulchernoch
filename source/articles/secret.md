@@ -48,3 +48,9 @@ Click on the link to find out why.
     <summary>[In Job 22, over a thousand years before it happened, Zophar prophesied the painful death of which powerful king?](./alexander-the-great.html)</summary>
     <div>Alexander the Great.</div>
   </details>
+
+  <details class="spoiler" style="--hidden: 'The Apostle Paul.'">
+    <summary>[Which Bible writer speaks of peace the most?](./blueprint.html#roof)</summary>
+    <div>The Apostle Paul.</div>
+  </details>
+  

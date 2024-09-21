@@ -19,8 +19,8 @@ it is the perpetual presence of the one who embodies peace.
   - I wrote *Peace, like Solomon Never Knew* to learn what Solomon could teach me about the path to peace. I found his roadmap, the [Growth Pattern](./growth-pattern.html).
   - I wrote *Plague, Precept, Prophet, Peace* to explore the relationship between God's justice and peace. In the process, I discovered that the Psalms are a meditation on the Law. Composing and writing the Psalms was how David and others sought God, sought forgiveness and salvation - and sought peace.
 
-The perplexing thing is that in searching for peace, I spent the least amount of time reading the books that have the most 
-to say about peace: Paul's letters. I plan to remedy that omission soon.
+The perplexing thing is that in searching for peace, I spent the least amount of time reading the books 
+that have the most to say about peace: Paul's letters. I plan to remedy that omission soon.
 
 What does this have to do with Lady Wisdom's House? Plenty! The roof of a house must fit the frame below it. 
 In Lady Wisdom's house, the pillars are shaped by two patterns:
