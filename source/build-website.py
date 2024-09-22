@@ -554,6 +554,12 @@ def build_action(config, sitemap) -> bool:
   if isfile(index_from):
     shutil.copy2(src=index_from, dst=index_to)
 
+  # Copy the quotes.json file for the scriptoquotes
+  quotes_from = "quotes.json"
+  quotes_to = join(config['build'], quotes_from)
+  if isfile(quotes_from):
+    shutil.copy2(src=quotes_from, dst=quotes_to)
+
   # Copy the 404.html error page
   error_from = "404.html"
   error_to = join(config['build'], error_from)
