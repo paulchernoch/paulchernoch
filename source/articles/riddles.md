@@ -534,6 +534,7 @@ Other articles in this section:
 
   <ol>
     <li> <a href="./riddles.html">Riddles: Introduction to Biblical riddles</a> </li>
+    <li> <a href="./daily-scriptoquote.html">A Daily Bible verse in code</a> </li>
     <li> <a href="./the-righteous-fall-seven-times.html">The Righteous Fall Seven Times: Proverbs 24 tells us when the righteous will fall - and rise again.</a> </li>
     <li> <a href="./twice-a-thousand-years.html">Twice a Thousand Years: A Riddle from Ecclesiastes 6</a> </li>
     <li> <a href="./seven-pillars-riddle.html">The Seven Pillars of Wisdom: What holds up Lady Wisdom's House in Proverbs 9?</a> </li>

@@ -598,3 +598,33 @@ main.searchable{
     padding-left: 5px;
   }
 }
+
+/* Scriptoquote styling */
+.scriptoquote h1 {
+	text-align: center;
+	padding: 20px;
+}
+
+.grypt-host {
+	border: 1px solid #EEE;
+	padding: 15px;
+}
+
+.scriptoquote header {
+	width: 100%;
+	text-align: center;
+}
+
+@media all and (max-width: 640px) {
+	.scriptoquote h1 {
+		font-size: 20px;
+		padding: 8px;
+	}
+}
+
+@media all and (max-width: 360px) {
+	.scriptoquote h1 {
+		font-size: 14px;
+		padding: 2px;
+	}
+}

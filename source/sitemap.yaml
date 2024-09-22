@@ -342,6 +342,7 @@
     image: fas fa-question-circle
     dates: [2024-05-10]
     parts:
+    - title: Daily Scriptoquote
     - title: The Righteous Fall Seven Times
       sub:   "Proverbs 24:16"
       dates: [2024-05-11]

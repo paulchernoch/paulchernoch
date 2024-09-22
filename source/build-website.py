@@ -865,6 +865,7 @@ def citation_page_head():
 <head>
   <!--from template: default-page.html -->
   <title>Scripture Index</title>
+  <link rel="stylesheet" href="./styles/gryptocram.css" type="text/css">
   <link rel="stylesheet" href="./styles/tree.css" type="text/css">
   <link rel="stylesheet" href="./styles/toc.css" type="text/css">
   <link rel="stylesheet" href="./styles/article.css" type="text/css">

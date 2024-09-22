@@ -3,6 +3,7 @@
 <head>
   <!--from template: default-page.html -->
   <title>Commandment Clocks</title>
+  <link rel="stylesheet" href="./styles/gryptocram.css" type="text/css">
   <link rel="stylesheet" href="./styles/tree.css" type="text/css">
   <link rel="stylesheet" href="./styles/toc.css" type="text/css">
   <link rel="stylesheet" href="./styles/article.css" type="text/css">
@@ -277,6 +278,7 @@
                     <details>
                       <summary><i class="fas fa-question-circle"></i> <a href="riddles.html">Riddles</a></summary>
                         <ul>
+                          <li> <a href="daily-scriptoquote.html">Daily Scriptoquote</a></li>
                           <li> <a href="the-righteous-fall-seven-times.html">The Righteous Fall Seven Times</a></li>
                           <li> <a href="twice-a-thousand-years.html">Twice a Thousand Years</a></li>
                           <li> <a href="seven-pillars-riddle.html">The Seven Pillars of Wisdom</a></li>
@@ -556,5 +558,49 @@ so 240 years.</p>
 </p>
     </div>
   </div>
+
+  <!-- For the Scriptoquote, that only appears on one page -->
+	<script type="text/javascript" src="scripts/gryptocram.min.js"></script>
+	<script type="text/javascript" src="scripts/random-quote.js"></script>
+
+  <script>
+
+    var QUOTES = {};
+
+    // Some way to reference the Gryptocram object later, if we desire.
+    grypt = null;
+    var quote = null;
+
+    // Initialize the puzzle after the page loads.
+    onload = function() {
+      fetch('quotes.json')
+                .then(response => response.json())
+                .then(data => {
+                    // Process the JSON data here
+                    QUOTES = data; 
+                    
+                    // Make sure that the same randomly selected Bible quote shows up on a given day of the year, 
+                    // no matter how many times you refresh the page.
+                    quote = get_quote(QUOTES)
+                    
+                    code_map = letter_map()
+
+                    host_element = document.querySelector(".grypt-host")
+                    if (host_element) {
+                      // Create a Gryptocram instance.
+                      grypt = new Gryptocram({
+                        answer: quote,
+                        // encodedAnswer: myEncodedAnswer,
+                        encoding: code_map,  // This is an optional parameter that could be used instead of encodedAnswer()
+                        host: host_element
+                      });
+                    }
+
+                })
+                .catch(error => console.error('Error loading quotes.json:', error));	
+
+    };
+</script>
+
 </body>
 </html>
