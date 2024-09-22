@@ -1,5 +1,5 @@
 ---
-title: Daily Scriptoquote
+title: Daily Scryptoquote
 quote: It is the glory of God to conceal things, <br/> but the glory of kings is to search things out. <br/> - Proverbs 25:2
 ---
 
@@ -13,7 +13,7 @@ quote: It is the glory of God to conceal things, <br/> but the glory of kings is
 <hr/>
 
 A cryptogram is a message encoded using a single substitution cipher. Every occurrence of a given letter is replaced with a different letter of the alphabet. On this website, the original message is a short passage of Scripture,
-hence a **Scriptoquote**.
+hence a **Scryptoquote**.
 
 Type in your guesses for letters in the space above the coded letters and that guess will be replaced throughout the rest of the puzzle. When you solve the puzzle, the words will change color. To start over and clear all your guesses, click on the "Start Over" button below the puzzle. If you give up, you can click on the "See Answer" button.
 
