@@ -534,15 +534,19 @@ def build_action(config, sitemap) -> bool:
   images_build_dir = join(config['build'], 'images')
   styles_source_dir = config['styles']
   styles_build_dir = join(config['build'], 'styles')
+  scripts_source_dir = config['scripts']
+  scripts_build_dir = join(config['build'], 'scripts')
 
   # Make the target build directories
   Path(build_dir).mkdir(parents=True, exist_ok=True)
   Path(images_build_dir).mkdir(parents=True, exist_ok=True)
   Path(styles_build_dir).mkdir(parents=True, exist_ok=True)
+  Path(scripts_build_dir).mkdir(parents=True, exist_ok=True)
 
-  # Copy image and css files
+  # Copy image, css and script files
   shutil.copytree(images_source_dir, images_build_dir, dirs_exist_ok=True)
   shutil.copytree(styles_source_dir, styles_build_dir, dirs_exist_ok=True)
+  shutil.copytree(scripts_source_dir, scripts_build_dir, dirs_exist_ok=True)
 
   # Copy the index.html landing page
   index_from = "index.html"
