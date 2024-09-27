@@ -21,6 +21,12 @@
 	height: 20px;
 	text-align: center;
 	background: transparent;
+
+	/* Paul Chernoch - Fix bug caused by removing border: 0 for * selector */
+	border-left: 0px;
+	border-right: 0px;
+	border-top: 0px;
+	border-bottom: 1px;
 }
 
 .grypt-host span.overline {
@@ -36,9 +42,6 @@
 	margin: 5px 5px;
 	text-align: center;
 	transition: margin 2s;
-
-	/* Paul Chernoch - Fix bug caused by removing border: 0 for * selector */
-	border: 0;
 }
 
 /*
