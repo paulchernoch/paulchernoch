@@ -11,6 +11,8 @@ This part shows that God exercised his judgment against each empire for the brea
 This series of judgments proceeds across time in the same order as the commandments are listed 
 in Exodus 20.
 
+The article that began the argument continued here is [Job: The Course of Empires](./job-course-of-empires.html).
+
 <hr/>
 
 The Lord is not a purveyor of facts for the amusement of religious dilettantes. If He
