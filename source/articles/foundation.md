@@ -54,7 +54,7 @@ Here are a few ways in which the Ten Commandments are woven into Scripture that 
 Hannah's prayer is significant. She gives seven examples of people whose fortunes were reversed. 
 Those seven reversals conform to both the Growth and Harvest Patterns. Wrapped around the seven reversals are 
 additional verses that bring the total to ten and match the Ten Commandments. In two key places, there are references
-to the number seven and the pillars of the Lord, thus prophesying the existence of the Seven Pillars of Wisdom.
+to the number seven and the pillars of the earth, thus prophesying the existence of the Seven Pillars of Wisdom.
 By these stylistic flourishes we are taught that the commandments are the basis of all short term spiritual harvests 
 and long term spiritual growth and provide the matrix for all of God's wisdom.
 
@@ -88,16 +88,16 @@ While world building for those novels, I realized that I needed to design a cour
 where to send them. Not being a lawyer, I cast about for where to begin. I still remember my thought process. 
 I came up with a chain of questions that led me to my answer.
 
-  - Q: What is the purpose of the law?
-  - A: To uphold a moral code.
+**Q:** What is the purpose of the law? <br/>
+**A:** To uphold a moral code.
 
-  - Q: What is the purpose of a moral code?
-  - A: To defend what is valuable.
+**Q:** What is the purpose of a moral code? <br/>
+**A:** To defend what is valuable.
 
-  - Q: What is valuable?
-  - A: The heavenly treasures that Jesus spoke of in Matthew 6.
+**Q:** What is valuable? <br/>
+**A:** The heavenly treasures that Jesus spoke of in Matthew 6.
 
-  - Q: And what are those heavenly treasures?
+**Q:** And what are those heavenly treasures?
 
 I spent years searching my heart and the Scriptures to make up a list of those treasures. I wrote *The Endless Hunt* 
 to share my findings. My methodology was to find places in the Bible where Jesus, a prophet or apostle used language to
