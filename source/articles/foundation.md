@@ -325,13 +325,39 @@ That I could not do. Now I am learning how. Here then are a few ideas about what
 ##### You shall have no other gods before me."
 ###### - Exodus 20:1-3
 
-In the preamble, we learn that a primary goal of the Law is to preserve the freedom that God's
+**Freedom**. In the preamble, we learn that a primary goal of the Law is to preserve the freedom that God's
 wonders, the plagues against Egypt, purchased for Israel. Therefore the first treasure that is 
-protected is freedom. If you observe history, more God's tends to align with more obligations,
+protected is freedom. If you observe history, more gods tends to align with more obligations,
 hence less freedom. Worshiping one God is therefore not a burden, it is a blessing.
 
-The first words reveal another treasure. "God spoke" is a powerful truth; it guarantees that
+**Truth**. The first words reveal another treasure. "God spoke" is a powerful truth; it guarantees that
 the commandments are true and perfect. Thus those who keep the commandments protect the truth.
+
+**A Journey Home**. If you take the preamble along with two of the commandments they tell the story of a journey. 
+In an eery echo of my thoughts, the song I am listening to as I write - "One Day" by Cochren & Co - has these words:
+
+#### One day we'll be family standing hand in hand,
+#### And we will see the promised land;
+#### We will see the promised land.
+#### Hallelujah!
+
+That journey is from Egypt (in the preamble) to the promised land of the fifth commandment, 
+"*the land that the Lord your God is giving you*". How long would that journey last?
+The generation that crossed the Red Sea with Moses fell into idolatry when they forged the Golden Calf.
+What was the punishment for idolatry? From the second commandment tells us that God would visit 
+"*the iniquity of the fathers on the children to the third and the fourth generation of those who hate me...*"
+How long is one generation? It varies in the Bible, based on context, but for Solomon's Celestial Clock and several
+others, a generation is 120 years. It was about three and a half generations from the crossing of the Red Sea to
+the anointing of King Saul. It was exactly four generations (480 years) after the people left Egypt that Solomon
+began to build the temple, as given in 1 Kings 6:1. Thus it was between the start and end of the fourth generation
+that Israel enjoyed its greatest peace and prosperity; the people were at home and secure. Thus the origin of the journey,
+its duration and an indicator of the destination are all given. It is a prophecy that promised the people a home.
+A home given to you by God is a thing to treasure.
+
+**Purpose**. This is not a trivial observation! The commandments are not static rules to be followed. They have a direction.
+They point to a goal. They supply purpose to our lives. Having a God-given, eternal purpose, not one of the vain and temporary
+human plans for life that Solomon named and discarded in Ecclesiastes is an immensely wonderful treasure. 
+This idea of the commandments supplying purpose is worked out in [Matthew and the Law of Christ](./matthew-and-the-law-of-christ.html) .
 
 ## II. The Fear of the Lord, Courage & Spiritual Treasure
 
@@ -385,8 +411,8 @@ the commandments are true and perfect. Thus those who keep the commandments prot
 
 
 #### “Honor your father and your mother, 
-#### that your days may be long in the land 
-#### that the Lord your God is giving you.
+#### that your days may be long  
+#### in the land that the Lord your God is giving you.
 ###### - Exodus 20:12
 
 
