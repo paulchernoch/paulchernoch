@@ -318,38 +318,109 @@ That I could not do. Now I am learning how. Here then are a few ideas about what
 
 ## I. A God of Freedom
 
+#### And God spoke all these words, saying,
+##### “I am the Lord your God, who brought you 
+##### out of the land of Egypt, 
+##### **out of the house of slavery**.
+##### You shall have no other gods before me."
+###### - Exodus 20:1-3
 
+In the preamble, we learn that a primary goal of the Law is to preserve the freedom that God's
+wonders, the plagues against Egypt, purchased for Israel. Therefore the first treasure that is 
+protected is freedom. If you observe history, more God's tends to align with more obligations,
+hence less freedom. Worshiping one God is therefore not a burden, it is a blessing.
+
+The first words reveal another treasure. "God spoke" is a powerful truth; it guarantees that
+the commandments are true and perfect. Thus those who keep the commandments protect the truth.
 
 ## II. The Fear of the Lord, Courage & Spiritual Treasure
 
+#### **“You shall not make for yourself a carved image**, 
+##### or any likeness of anything that is in heaven above, 
+##### or that is in the earth beneath, 
+##### or that is in the water under the earth.
+#### **You shall not bow down to them or serve them**, 
+##### for I the Lord your God am a jealous God, 
+##### visiting the iniquity of the fathers on the children 
+##### to the third and the fourth generation of those who hate me,
+##### but showing steadfast love to thousands of 
+##### those who love me and keep my commandments."
+###### - Exodus 20:4-6
 
+
+
+#### Now when all the people saw the thunder and the flashes of lightning 
+#### and the sound of the trumpet and the mountain smoking, 
+#### the people were afraid and trembled, and they stood far off
+#### and said to Moses, 
+##### “You speak to us, and we will listen; 
+##### but do not let God speak to us, lest we die.”
+#### Moses said to the people,
+##### “Do not fear, for God has come to test you, 
+##### that the fear of him may be before you, 
+##### that you may not sin.” 
+###### - Exodus 20:18-20
 
 ## III. Authority & Forgiveness
 
-
+#### “You shall not take the name of the Lord your God in vain, 
+#### for the Lord will not hold him guiltless 
+#### who takes his name in vain."
+###### - Exodus 20:7
 
 ## IV. Wisdom, Purpose, Significance, Joy & Peace
 
-
+#### “Remember the Sabbath day, to keep it holy.
+#### Six days you shall labor, and do all your work,
+#### but the seventh day is a Sabbath to the Lord your God. 
+##### On it you shall not do any work, you, or your son, 
+##### or your daughter, your male servant, or your female servant, 
+##### or your livestock, or the sojourner who is within your gates.
+##### For in six days the Lord made heaven and earth, the sea, 
+##### and all that is in them, and rested on the seventh day. 
+##### Therefore the Lord blessed the Sabbath day and made it holy.
+###### - Exodus 20:8-11
 
 ## V. Family
+
+
+#### “Honor your father and your mother, 
+#### that your days may be long in the land 
+#### that the Lord your God is giving you.
+###### - Exodus 20:12
 
 
 ## VI. Life & Protection
 
 
+#### “You shall not murder."
+###### - Exodus 20:13
+
 ## VII. Loyalty
+
+#### “You shall not commit adultery."
+###### - Exodus 20:14
 
 
 ## VIII. Generosity
 
+#### “You shall not steal."
+###### - Exodus 20:15
+
 
 ## IX. Truth & Justice
+
+#### “You shall not bear false witness against your neighbor."
+###### - Exodus 20:16
 
 
 ## X. Happiness & Contentment
 
-
+#### “You shall not covet your neighbor's house; 
+#### you shall not covet your neighbor's wife, or his male servant, 
+#### or his female servant, or his ox, or his donkey, 
+#### or anything that is your neighbor's.”
+###### - Exodus 20:17
 
 ##  The Glory of God
 
