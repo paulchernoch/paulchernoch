@@ -344,7 +344,7 @@ In an eery echo of my thoughts, the song I am listening to as I write - "One Day
 That journey is from Egypt (in the preamble) to the promised land of the fifth commandment, 
 "*the land that the Lord your God is giving you*". How long would that journey last?
 The generation that crossed the Red Sea with Moses fell into idolatry when they forged the Golden Calf.
-What was the punishment for idolatry? From the second commandment tells us that God would visit 
+What was the punishment for idolatry? The second commandment tells us that God would visit 
 "*the iniquity of the fathers on the children to the third and the fourth generation of those who hate me...*"
 How long is one generation? It varies in the Bible, based on context, but for Solomon's Celestial Clock and several
 others, a generation is 120 years. It was about three and a half generations from the crossing of the Red Sea to
@@ -354,12 +354,32 @@ that Israel enjoyed its greatest peace and prosperity; the people were at home a
 the journey, its duration and an indicator of the destination are all given. It is a prophecy that promised the 
 people a home. A home given to you by God is a thing to treasure.
 
-**Purpose**. This is not a trivial observation! The commandments are not static rules to be followed. They have a direction.
-They point to a goal. They supply purpose to our lives. Having a God-given, eternal purpose, not one of the vain and temporary
-human plans for life that Solomon named and discarded in Ecclesiastes is an immensely wonderful treasure. 
-This idea of the commandments supplying purpose is worked out in [Matthew and the Law of Christ](./matthew-and-the-law-of-christ.html) .
+Were the Jews the only ones given a home? No! Consider the early church. Three generations after Jesus was 
+born (ca 4 BC) would be 360 years later, or 357 BC. Four generations after his birth would be 477 AD.
+Christians were persecuted by Rome for centuries, but then it stopped with Constantine's Edict of Milan in 313 AD.
+That reprieve would become permanent when Nicene Christianity became the state religion of Rome after the
+Edict of Thessalonica in 380 AD. That was near the beginning of the fourth generation. Our earthly home is 
+not permanent, so Rome fell in 476 AD, at the very end of that generation. Of course Europe would generally 
+remain the church's home for the next millennium. So the commandments promised the church a home where it 
+could grow and flourish and even defined the era when that would happen.
 
-## II. The Fear of the Lord, Courage & Spiritual Treasure
+Next, consider the Protestant Church. In the clock given earlier in this article, the period for an era was
+83 years. If you advance three generations (249 years) from 1450, you land on 1699 AD. If four generations 
+(332 years), then you reach 1782 AD. The major spiritual event in the fourth generation was revival,
+with the rise of the Methodists and the American Great Awakening. During the latter years of that 
+fourth generation, the American Revolution was fought, ending in its last full year. America was to be
+the new home for the Protestant Church \(and the Jews!\), a haven of religious liberty from which God's plan 
+to spread the gospel to the whole earth could be launched.
+
+Yes, at the right time, God always provides a home for His people.
+
+**Purpose**. This is not a trivial observation! The commandments are not static rules to be followed. 
+They have a direction. They point to a goal. They supply purpose to our lives. Having a God-given, eternal purpose, 
+not one of the vain and temporary human plans for life that Solomon named and discarded in Ecclesiastes is an 
+immensely wonderful treasure. This idea of the commandments supplying purpose is worked out in 
+[Matthew and the Law of Christ](./matthew-and-the-law-of-christ.html) .
+
+## II. The Fear of the Lord, Wisdom, Courage & Spiritual Treasure
 
 #### **“You shall not make for yourself a carved image**, 
 ##### or any likeness of anything that is in heaven above, 
@@ -373,19 +393,43 @@ This idea of the commandments supplying purpose is worked out in [Matthew and th
 ##### those who love me and keep my commandments."
 ###### - Exodus 20:4-6
 
+In Matthew 6:19-21, Jesus tells us that there are earthly treasures that moth and rust destroy.
+Those are the treasures that people make into idols. That tells us what this
+commandment is really about. It is about discovering what are the heavenly treasures
+that Jesus urges us to pursue and seeking them with our whole heart.
 
+The Lord threatens to visit generations of iniquity upon people for disregarding this commandment.
+Of all the commandments, this is the one phrased in the harshest terms. This command is meant to
+elicit fear. Scripture tells us that the fear of the Lord is the beginning of wisdom 
+(Psalm 111:10, Proverbs 9:10), of knowledge (Proverbs 1:17), and that we are to 
+"*Fear God and keep his commandments, for this is the whole duty of man.*" (Ecclesiastes 12:13)
+Consider the immediate response of the Jewish people after these commandments were delivered to them:
 
 #### Now when all the people saw the thunder and the flashes of lightning 
 #### and the sound of the trumpet and the mountain smoking, 
-#### the people were afraid and trembled, and they stood far off
+#### **the people were afraid and trembled**, and they stood far off
 #### and said to Moses, 
 ##### “You speak to us, and we will listen; 
 ##### but do not let God speak to us, lest we die.”
 #### Moses said to the people,
-##### “Do not fear, for God has come to test you, 
-##### that the fear of him may be before you, 
-##### that you may not sin.” 
+##### **“Do not fear, for God has come to test you,** 
+##### **that the fear of him may be before you**, 
+##### **that you may not sin**.” 
 ###### - Exodus 20:18-20
+
+Moses tells the people not to be afraid. What gives? This is the mysterious nature of 
+the Fear of the Lord. It is one of the Seven Spirits of God named in Isaiah 11:2.
+When you cooperate with that spirit, it triggers a chain of events. That fear teaches you wisdom,
+that wisdom turns you away from sin, which leads you to holiness, which protects you by God's favor, 
+and in the end builds you up in courage so that you need not fear. Recall the battle for Jericho.
+The people of Jericho melted with fear (Joshua 2:8-14) because they had heard about the miracles done by God 
+for His people. Rahab took in that fear, helped the Hebrew spies escape, and as a consequence she and 
+her whole family were spared after the city fell. She was embraced by Israel and became mother to an 
+ancestor of King David.
+
+The Fear of the Lord leads to courage! This commandment and all the rest are the guarantors of this courage.
+This commandment breaks the spell that the world's tawdry treasures hold over you and enables you to recognize
+true treasure.
 
 ## III. Authority & Forgiveness
 
