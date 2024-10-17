@@ -429,7 +429,9 @@ ancestor of King David.
 
 The Fear of the Lord leads to courage! This commandment and all the rest are the guarantors of this courage.
 This commandment breaks the spell that the world's tawdry treasures hold over you and enables you to recognize
-true treasure.
+true treasure. This commandment does not list all those heavenly treasures, but it names the one that counts:
+
+**GOD'S STEADFAST LOVE**
 
 ## III. Authority & Forgiveness
 
@@ -437,6 +439,31 @@ true treasure.
 #### for the Lord will not hold him guiltless 
 #### who takes his name in vain."
 ###### - Exodus 20:7
+
+Too few people understand this command. Using curse words is a trivial violation but by no means the worst.
+God's name is imbued with His authority. The one who rightly speaks a word received from God must be heard and
+obeyed. The false prophet who speaks lies that God has not spoken to them steals that authority and 
+enslaves people to their will. The priest or minister who by guile or folly interprets the Bible in a false
+manner does the same. This is worse than atheism, for the atheist listens to no one and is not led astray
+by false prophecies.
+
+This command protects a treasure of first importance: God's authority. It also teaches us to respect the
+other authorities that God has set over mankind. The opposite of taking God's name in vain is to revere 
+and bless it. If we need an example to follow, besides Jesus Christ there is no better guide than Job.
+Satan tried to get Job to curse God, but despite those unjust torments, this is what happened:
+
+#### Then Job arose and tore his robe and shaved his head
+#### and fell on the ground and worshiped. And he said, 
+##### “Naked I came from my mother's womb, and naked shall I return. 
+##### The Lord gave, and the Lord has taken away; 
+##### **blessed be the name of the Lord**.”
+###### Job 1:20-21
+
+Job accepted that God had the authority to treat him as he did and in the end that saved him.
+In the end, God called upon Job's three friends to offer sacrifices and beseech Job for forgiveness.
+If the curse for dishonoring God's name is to be found guilty, the blessing for revering God's name
+is forgiveness. Forgiveness is the treasure that this command protects. Forgiving words from our lips
+become treasures to the ones whom we set free.
 
 ## IV. Wisdom, Purpose, Significance & Peace
 
