@@ -350,9 +350,9 @@ How long is one generation? It varies in the Bible, based on context, but for So
 others, a generation is 120 years. It was about three and a half generations from the crossing of the Red Sea to
 the anointing of King Saul. It was exactly four generations (480 years) after the people left Egypt that Solomon
 began to build the temple, as given in 1 Kings 6:1. Thus it was between the start and end of the fourth generation
-that Israel enjoyed its greatest peace and prosperity; the people were at home and secure. Thus the origin of the journey,
-its duration and an indicator of the destination are all given. It is a prophecy that promised the people a home.
-A home given to you by God is a thing to treasure.
+that Israel enjoyed its greatest peace and prosperity; the people were at home and secure. Thus the origin of 
+the journey, its duration and an indicator of the destination are all given. It is a prophecy that promised the 
+people a home. A home given to you by God is a thing to treasure.
 
 **Purpose**. This is not a trivial observation! The commandments are not static rules to be followed. They have a direction.
 They point to a goal. They supply purpose to our lives. Having a God-given, eternal purpose, not one of the vain and temporary
@@ -394,7 +394,7 @@ This idea of the commandments supplying purpose is worked out in [Matthew and th
 #### who takes his name in vain."
 ###### - Exodus 20:7
 
-## IV. Wisdom, Purpose, Significance, Joy & Peace
+## IV. Wisdom, Purpose, Significance & Peace
 
 #### “Remember the Sabbath day, to keep it holy.
 #### Six days you shall labor, and do all your work,
@@ -440,13 +440,41 @@ This idea of the commandments supplying purpose is worked out in [Matthew and th
 ###### - Exodus 20:16
 
 
-## X. Happiness & Contentment
+## X. Happiness & Contentment & Joy
 
 #### “You shall not covet your neighbor's house; 
 #### you shall not covet your neighbor's wife, or his male servant, 
 #### or his female servant, or his ox, or his donkey, 
 #### or anything that is your neighbor's.”
 ###### - Exodus 20:17
+
+After I dropped my daughter off at work, I queued up Beethoven's Ninth Symphony. By the magic of modern tech
+a data drive in the cloud sends binary pulses of electricity to transmitters that bounce data streams off a satellite,
+into my phone, which send them to my car speakers to play sounds that enter my ear drums, travel up the
+auditory canal and into my appreciative brain. About three quarters of the way through, the bass starts to play 
+the main theme. Then the violins take over. The solar glare is terrible as I drive towards Boston, so I have to 
+squint my eyes to keep from getting in an accident on I-93. That is why I have to fight back the tears when 
+the trumpets explode and the orchestra launches into the Ode to Joy. My heart floods with emotion every time 
+I hear that trumpet blast. Joy! To me, they are the promise of the last trumpet, when raptured souls meet their 
+savior and all becomes joy forevermore.
+
+This commandment protects my neighbor from my ill will, but it does so much more. It calls me to a life of
+gratitude and contentment. It directs me to look not to my neighbor but to God my provider, Jehovah-Jireh, 
+for my supply. Years ago, I was writing a section for one of my books. The topic of the chapter was happiness 
+and I was stumped. What did I know? I was at the hair dressers where my daughter Danielle was getting her hair 
+done. With the noise of the hair dryers to drown out my voice, I started to sing some of my favorite hymns. 
+As I sang, a feeling began to rise within me. That feeling was happiness. Before long, my heart swelled with 
+a sweetness that cannot be described, only received and cherished. God gave me no words to describe happiness 
+that day, he gave me the thing itself. I was not happy over any small accomplishment or glad tidings. 
+I was happy for no reason and for the only reason: the Holy Spirit of God was shining unexpected
+favor upon my soul just so that I would have something to say that day. What wonderful news! Any heart in any
+situation at any moment can be touched by the grace of God and flooded with happiness. He is its true source;
+you need no counterfeits. Then with that happiness ruling your heart, you can be generous to your neighbors.
+You can turn coveting to giving and multiply the world's joys instead of spoiling them. If you do that,
+you can join the chorus. Whether baritone, tenor, alto or soprano, you can sing your own Ode to Joy - 
+and make me cry. Please, just not when I am driving on I-93! They don't call it the Southeast Distressway 
+for nothing.
+
 
 ##  The Glory of God
 
