@@ -478,6 +478,64 @@ become treasures to the ones whom we set free.
 ##### Therefore the Lord blessed the Sabbath day and made it holy.
 ###### - Exodus 20:8-11
 
+The fourth commandment is the most complex one. It alone consists of three imperatives,
+(1) to keep the Sabbath holy, (2) to work six days, and (3) to not work on the seventh day.
+If the fifth commandment declares God's authority over space ("*the land that the Lord your God is giving you*"),
+this commandment declares His authority over time. The ability to control time, sovereignly plan out events, 
+and predict the future are attributes belonging solely to God, as told us by Isaiah:
+
+#### Remember this and stand firm,
+##### recall it to mind, you transgressors,
+###### remember the former things of old;
+#### for I am God, and there is no other;
+##### I am God, and **there is none like me**,
+#### **declaring the end from the beginning**
+##### and from ancient times things not yet done,
+#### saying, ‘My counsel shall stand,
+##### and I will accomplish all my purpose,’
+#### calling a bird of prey from the east,
+##### the man of my counsel from a far country.
+#### I have spoken, and I will bring it to pass;
+##### I have purposed, and I will do it.
+###### - Isaiah 46:8-11
+
+A careful reading of Ecclesiastes reinforces this idea. The deepest wisdom is tied up with the
+understanding of God's plans for history. Our confusion over how to interpret Revelation is proof
+that the Church has not yet acquired this depth of wisdom.
+
+Alone among the commandments, this one shines forth the mystery of the Trinity. Keeping the Sabbath Holy
+is the domain of the Holy Spirit. Working six days is the domain of the Father, our Creator. The Father
+is the one whose discipline teaches us good habits. He roots out the thorns and thistles of distraction so
+that our time is well spent. Lastly, the Son calls us to rest with God in peace.
+That is because Jesus is the Prince of Peace who said these comforting words:
+
+#### Come to me, all who labor and are heavy laden, 
+#### and **I will give you rest.**
+#### Take my yoke upon you, and learn from me, 
+#### for I am gentle and lowly in heart, and 
+#### **you will find rest for your souls**.
+#### For my yoke is easy, and my burden is light.
+###### - Matthew 11:28-30
+
+By this commandment, God ennobles work. He sets His majestic power in creating an entire universe alongside
+our humble toil. Solomon lamented the futility of our temporary achievements, saying:
+
+#### There is no remembrance of former things,
+##### nor will there be any remembrance
+#### of later things yet to be
+##### among those who come after.
+###### - Ecclesiastes 1:11
+
+Yet when we join God in the Sabbath, he connects our work to his. 
+He blesses our efforts with eternal significance, if we labor with love, patience and humility to spread
+His fame and His love abroad. God grants us the treasure of an eternal purpose. By keeping the Sabbath
+and submitting to God's plans for our time, we protect that treasured purpose. We also show love
+for others when we relieve them of the burden of serving us.
+
+In the Law Pattern, there are two blessed outcomes. The second is peace with our neighbor (which springs from the Tenth Commandment against covetousness). The first is peace with God. For decades I wrestled with anxiety.
+By many lessons and missteps have I slowly approached that peace which will be perfected in Heaven.
+This commandment is the invitation to peace and our obedience is its protector.
+
 ## V. Family
 
 
