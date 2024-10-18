@@ -588,11 +588,23 @@ those extra years are precious.
 
 ## VI. Life & Protection
 
-
 #### “You shall not murder."
 ###### - Exodus 20:13
 
-## VII. Loyalty
+Murder. Genocide. Killing in self defense. Abortion. Infanticide. Suicide. Euthanasia. Capital punishment. War. Honor killing. 
+Medical rationing for the elderly. Every one of these has its proponents, but only some are defensible before God. All you need 
+to do is find a philosophical argument that denies the humanity and dignity of a given group or individual and you can convince 
+yourself that taking their life is acceptable. That is why to obey this commandment, we must protect both life and dignity. 
+Love always protects, therefore we must always protect life.
+
+The sudden unjust ending of a life is not the only thing we must protect against. What is life but time on this world?
+We must also protect people from things that shorten life.
+
+Human life is precious, but there is something that is more precious. Eternal life is worth more than this earthly life.
+Assaults against gospel message like persecution and forbidding people to share their faith must be resisted. 
+We must protect the right to lead people toward saving faith or all that work that we do in saving lives will be for naught.
+
+## VII. Loyalty & Glory
 
 #### “You shall not commit adultery."
 ###### - Exodus 20:14
