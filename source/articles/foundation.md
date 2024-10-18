@@ -601,8 +601,8 @@ The sudden unjust ending of a life is not the only thing we must protect against
 We must also protect people from things that shorten life.
 
 Human life is precious, but there is something that is more precious. Eternal life is worth more than this earthly life.
-Assaults against gospel message like persecution and forbidding people to share their faith must be resisted. 
-We must protect the right to lead people toward saving faith or all that work that we do in saving lives will be for naught.
+Assaults against the gospel message like persecution and forbidding people to share their faith must be resisted. 
+We must protect the right to lead people toward saving faith or all that work that we do in saving mortal lives will be for naught.
 
 ## VII. Loyalty & Glory
 
@@ -660,4 +660,17 @@ for nothing.
 
 ##  The Glory of God
 
-In progress...
+We are taught in the Shorter Westminster Catechism that "*the chief end of man ... is to glorify God, and to enjoy Him forever.*"
+Every time we violate any commandment, we blind ourselves to the glory of God and we deprive our unsaved neighbor
+from seeing the reflection of the glory of God shine forth from our lives. Every time we obey the commandments,
+we recognize, acquire and protect the heavenly treasures that Jesus urges us to pursue. We remove the basket that covers
+our lamp stand and let our light shine before men.
+
+The Law was delivered amid a fearful spectacle. The Fear of the Lord is given not to destroy us, but protect us. 
+What do I fear most? I fear not being able to enter into the forever-joy that is promised. That would be an infinite loss.
+That is what God labors to prevent. That is why His love is so precious. Paul said that nothing can separate us from the love of Christ.
+That promise is a great treasure. It takes the fear out of our fear of God. In the hands of Christ, the terrifying Law becomes 
+the solid rock on which we stand, a sure foundation which can never be shaken. All that is required of us is that 
+we stand on it to the end. Praise God! This strength to stand comes not from us. We can do all things through Christ who strengthens us.
+
+
