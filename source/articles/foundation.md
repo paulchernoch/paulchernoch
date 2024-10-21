@@ -609,18 +609,77 @@ We must protect the right to lead people toward saving faith or all that work th
 #### “You shall not commit adultery."
 ###### - Exodus 20:14
 
+The sequence by which God has arranged the commandments is pure genius. There is the two-part division into 
+commands to love God and love neighbor. There is the clever way that there are ten commands - which is man's number - 
+and also fourteen imperatives - which is twice the divine seven that represents the Spirit, again with seven 
+that describe our obligations to God and seven to men. There is the way that the first seven imperatives match
+the Harvest Pattern and the second seven match the Growth Pattern.
+
+By the ordering as commandments, the law against adultery is seventh. By the ordering as imperatives, this one is tenth.
+This reveals how important this command is both to our human relationships and our relationship with God. 
+Since both the divine and the human numbers govern it, we are made to expect that it has application to both.
+Throughout Scripture, adultery is used as a metaphor for breaking the covenant by worshiping other gods,
+most poignantly in Hosea. Of "the Twelve" (the so-called Minor Prophets), Hosea is listed first. This marks
+adultery as a specially heinous offense to God. Why?
+
+By severity, adultery is first a breach of loyalty, second, an expression of false worship. 
+However, by the order of events, it is a corruption of worship that leads to the disloyal actions of 
+sexual immorality. When we lust for a woman or a man who we have no right to unite with, that is a 
+debased form of worship. The typical progression when a person succumbs to lust is:
+
+  - **through the eyes**, one party shows beauty intentionally or unintentionally which solicits desire, while the other party sees beauty and desire is awakened,
+  - **through the ears** you hear agreeable words, like praise or sympathy which encourage one to proceed and make plans to go farther
+  - **then touch, and the other senses**, when the affair is consummated.
+
+With sexual immorality, unlike other sins, the whole of a person is involved. This behavior comes closest
+to worship in how it focuses the attention of a person on something that they admire and desire. Because
+the eyes are usually the starting point, this tells us what is the spiritual value that is being counterfeited.
+It is the glory of God. The chief end of man is to glorify God. That means that we are to intentionally
+place ourselves before Him in worship to pursue His glory and then respond with gratitude and obedience to 
+that glory. Any competition for His glory, however debased, short-circuits that worship. It severs us from 
+our purpose for existence. It makes the light that should guide us to joy into darkness.
+
+When I was a teen, I gave the baccalaureate sermon at a local church for my high school graduation.
+I preached on Jesus' command to be salt and light from the Sermon on the Mount. The illustration I used
+was of malicious scavengers who once prowled the coast off along the shores North Carolina.
+They carried lanterns and walked the beach hoping to trick a sea captain into thinking that their lantern was the nearby lighthouse. If the captain was fooled, he would run his ship aground. Then the scavengers would loot the
+ship, claiming right of salvage. Those thieves used light, which is meant to guide a person to safety in the dark, 
+instead to deceive and lead them into harm. I urged my classmates not to use the light from their lives to 
+lead others astray but to lead them to safety.
+
+That is what adultery is. It uses glorious things from God's creation to lead people to harm, instead of the 
+safe harbor of a faithful and lasting marriage free from scandal and deceit. It also leads people away
+from the light of the glory of God in the face of Christ. That is the only light, the only glory, the only
+true romance that can lead us to the safe harbors over Jordan, on Heaven's shores.
+
+In speaking of the marvelous sequence of God's commandments, we can say one thing more. We can follow the last seven
+in reverse:
+
+ - (Ten) In our heart we begin to covet our neighbor's success.
+ - (Nine) Through gossip, slander and false accusations, we begin to cut our neighbor down. 
+ - (Eight) We begin to steal his property.
+ - (Seven) Then we seduce his wife.
+ - (Six) Finally, like Claudius in Shakespeare's Hamlet, we kill our rival and take all that was once his.
+ - (Five) In the process, we have destroyed a family and robbed them of all honor.
+ - (Four) There shall be no Sabbath rest for such as these, only the rest of the grave.
+
+Yes, the Lord knows how sin grows in the human heart like a cancer and has laid it bare for us to see.
+We must see. Then we must fix our eyes on Jesus so that the inglorious lure of sin does not captivate our eyes
+and shipwreck our faith.
 
 ## VIII. Generosity
 
 #### “You shall not steal."
 ###### - Exodus 20:15
 
+In progress...
 
 ## IX. Truth & Justice
 
 #### “You shall not bear false witness against your neighbor."
 ###### - Exodus 20:16
 
+In progress...
 
 ## X. Happiness & Contentment & Joy
 
