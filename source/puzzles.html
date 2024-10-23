@@ -1,0 +1,313 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Gryptocram</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+<meta name="mobile-web-app-capable" content="yes" />
+<meta name="description" content="A working example of gryptocram.js, a simple JavaScript library for adding cryptogram puzzles to your webpage." />
+<link type="text/css" rel="stylesheet" href="styles/gryptocram.css" />
+<style>
+h1 {
+	text-align: center;
+	padding: 20px;
+}
+
+.grypt-host {
+	border: 1px solid #EEE;
+	padding: 15px;
+}
+
+header {
+	width: 100%;
+	text-align: center;
+}
+
+@media all and (max-width: 640px) {
+	h1 {
+		font-size: 20px;
+		padding: 8px;
+	}
+}
+
+@media all and (max-width: 360px) {
+	h1 {
+		font-size: 14px;
+		padding: 2px;
+	}
+}
+</style>
+<style>
+.hidden {
+    display: none;
+}
+
+.secret-container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica, sans-serif;
+}
+
+.fixed-box {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 220px;
+    height: 170px;
+    background-color: yellow;
+    border: 5px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+    color: black;
+    text-align: center;
+}
+
+.clue-box {
+  background-color: rgb(247, 247, 209);
+  border: 5px dashed red;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 10px;
+  padding: 20px;
+}
+
+.button-container {
+    position: fixed;
+    top: 50px;
+    left: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+button.picker {
+    width: 50px; /* Diameter of the circle */
+    height: 50px; /* Diameter of the circle */
+    border-radius: 50%;
+    border: none;
+    background-color: #4CAF50;
+    color: white;
+    font-size: 24px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button.picker:hover {
+    background-color: #45a049;
+}
+
+</style>
+
+</head>
+<body>
+	<header>
+		<h1>
+			Winter and Commuting Safety
+		</h1>
+		<span>
+			What do poets and songwriters have to say about safety? 
+      Select a puzzle by clicking on a numbered button. 
+      Each is a single-substitution cipher.
+      When the puzzle is completely solved, it will change color.
+		</span>
+
+    <div class="button-container">
+      <span>Pick a Puzzle:</span>
+      <button class="picker" onclick="load_puzzle(1)">1</button>
+      <button class="picker" onclick="load_puzzle(2)">2</button>
+      <button class="picker" onclick="load_puzzle(3)">3</button>
+      <button class="picker" onclick="load_puzzle(4)">4</button>
+      <button class="picker" onclick="load_puzzle(5)">5</button>
+      <button class="picker" onclick="load_puzzle(6)">6</button>
+      <button class="picker" onclick="load_puzzle(7)">7</button>
+      <button class="picker" onclick="load_puzzle(8)">8</button>
+      <button class="picker" onclick="load_puzzle(9)">9</button>
+      <button class="picker" onclick="load_puzzle(10)">10</button>
+    </div>
+
+	</header>
+  <div id="score" class="fixed-box">Score:<br/>100</div>
+	<br/>
+	<main>
+	
+		<!-- The host can be any block-level element where we want to store our puzzle. Add the "grypt-host" class to the element to use our default CSS as a base for the styling. -->
+		<div class="grypt-host">
+		</div>
+	
+    <br/>
+    
+    <div class="clue-box"> 
+
+    <table>
+      <tr>
+        <th colspan="2"><span style="font-size: 30px;">Clues (but it will cost you!)</span></th>
+     </tr>
+      <tr>
+        <td>
+          <div class="secret-container">
+            <button id="reveal-button-1">Clue prompt</button>
+            <p id="secret-1" class="hidden">Clue</p>
+          </div>
+        </td>
+        <td>
+          <div class="secret-container">
+            <button id="reveal-button-2">Clue prompt</button>
+            <p id="secret-2" class="hidden">Clue</p>
+          </div>
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          <div class="secret-container">
+            <button id="reveal-button-3">Clue prompt</button>
+            <p id="secret-3" class="hidden">Clue</p>
+          </div>
+        </td>
+        <td>
+          <div class="secret-container">
+            <button id="reveal-button-4">Clue prompt</button>
+            <p id="secret-4" class="hidden">Clue</p>
+          </div>
+        </td>
+      </tr>
+    </table>
+  </div>
+
+    <p>
+
+	</main>
+	<script type="text/javascript" src="scripts/gryptocram.min.js"></script>
+	<script type="text/javascript" src="scripts/random-quote.js"></script>
+
+<script>
+
+var PUZZLES = [];
+var PUZZLE_INDEX = 0;
+
+
+// Some way to reference the Gryptocram object later, if we desire.
+grypt = null;
+var quote = null;
+
+var score = 100;
+
+reduce_score = function(reduce_score_by) {
+  score -= reduce_score_by;
+  score_box = document.getElementById('score');
+  score_box.innerHTML = `Score:<br/>${score}`
+}
+
+reset_clue = function(clue_number) {
+  var secret = document.getElementById(`secret-${clue_number}`);
+  if (!secret.classList.contains('hidden')) {
+      secret.classList.add('hidden');
+  }
+}
+
+reset_score_and_clues = function() {
+  score = 100;
+  score_box = document.getElementById('score');
+  score_box.innerHTML = `Score:<br/>${score}`
+  reset_clue(1);
+  reset_clue(2);
+  reset_clue(3);
+  reset_clue(4);
+}
+
+show_puzzle = function(quote, host_element) {
+  code_map = letter_map();
+  if (host_element) {
+    host_element.innerHTML = "";
+    // Create a Gryptocram instance.
+    puzzle = new Gryptocram({
+      answer: quote,
+      encoding: code_map,  // This is an optional parameter that could be used instead of encodedAnswer()
+      host: host_element
+    });
+    return puzzle;
+  }
+  return null;
+}
+
+load_puzzle = function(puzzle_number) {
+  PUZZLE_INDEX = puzzle_number - 1
+  reset_score_and_clues();
+  set_clues(PUZZLE_INDEX);
+  grypt = show_puzzle(PUZZLES[PUZZLE_INDEX]['quote'], document.querySelector(".grypt-host"))
+}
+
+add_listener = function(clue_number) {
+  document.getElementById(`reveal-button-${clue_number}`).addEventListener('click', function() {
+    var clue_index = clue_number - 1;
+    var cost = PUZZLES[PUZZLE_INDEX]['clues'][clue_index]['cost']
+    var secret = document.getElementById(`secret-${clue_number}`);
+    if (secret.classList.contains('hidden')) {
+        secret.classList.remove('hidden');
+        reduce_score(cost)
+    } else {
+        secret.classList.add('hidden');
+    }
+  });
+}
+
+add_listeners = function() {
+  add_listener(1);
+  add_listener(2);
+  add_listener(3);
+  add_listener(4);
+}
+
+set_one_clue = function(puzzle_number, clue_number) {
+  clue_index = clue_number - 1
+  clue = PUZZLES[puzzle_number]['clues'][clue_index]
+  title = clue['title']
+  cost = clue['cost']
+  clue_text = clue['clue']
+  document.getElementById(`reveal-button-${clue_number}`).innerHTML = `${title} (${cost} points)`;
+  document.getElementById(`secret-${clue_number}`).innerHTML = clue_text;
+}
+
+set_clues = function(puzzle_number) {
+  set_one_clue(puzzle_number, 1);
+  set_one_clue(puzzle_number, 2);
+  set_one_clue(puzzle_number, 3);
+  set_one_clue(puzzle_number, 4);
+}
+
+// Initialize the puzzle after the page loads.
+onload = function() {
+  add_listeners();
+
+	fetch('puzzles.json')
+    .then(response => response.json())
+    .then(data => {
+        // Process the JSON data here
+        PUZZLES = data; 
+        PUZZLE_INDEX = 0;
+
+        set_clues(PUZZLE_INDEX);
+        load_puzzle(PUZZLE_INDEX + 1);
+
+    })
+    .catch(error => console.error('Error loading puzzles.json:', error));	
+
+};
+</script>
+</body>
+</html>

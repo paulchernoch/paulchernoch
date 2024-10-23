@@ -560,6 +560,18 @@ def build_action(config, sitemap) -> bool:
   if isfile(quotes_from):
     shutil.copy2(src=quotes_from, dst=quotes_to)
 
+  # Safety Crytogram Puzzles for work
+  puzzles_from = "puzzles.json"
+  puzzles_to = join(config['build'], puzzles_from)
+  if isfile(puzzles_from):
+    shutil.copy2(src=puzzles_from, dst=puzzles_to)
+
+  puzzles_page_from = "puzzles.html"
+  puzzles_page_to = join(config['build'], puzzles_page_from)
+  if isfile(puzzles_page_from):
+    shutil.copy2(src=puzzles_page_from, dst=puzzles_page_to)
+
+
   # Copy the 404.html error page
   error_from = "404.html"
   error_to = join(config['build'], error_from)

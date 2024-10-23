@@ -1,0 +1,253 @@
+[
+  { 
+    "quote": "There is a tide in the affairs of men, Which, taken at the flood, leads on to fortune; Omitted, all the voyage of their life Is bound in shallows and in miseries.",
+    "clues": [
+      { 
+        "title" : "It is from this Shakespeare play:", 
+        "clue": "Julius Caesar",
+        "cost": 5 
+      },
+      { 
+        "title" : "The eighth word from the end is...", 
+        "clue": "The cereal that Mikey likes", 
+        "cost": 10 
+      },
+      { 
+        "title" : "The first three-letter word is the...", 
+        "clue": "definite article in English", 
+        "cost": 10 
+      },
+      { 
+        "title" : "The eighteenth word is found in the name of...", 
+        "clue": "the game show Wheel of _ _ _ _ _ _ _", 
+        "cost": 15 
+      }
+    ]
+  },
+  { 
+    "quote": "Life is a highway, I wanna ride it all night long; If you're goin' my way, Well, I wanna drive it all night long",
+    "clues": [
+      { 
+        "title" : "This is the chorus of a song sung by...", 
+        "clue": "Rascal Flats", 
+        "cost": 20 
+      },
+      { 
+        "title" : "The seventh word is the last name of...", 
+        "clue": "a woman astronaut", 
+        "cost": 10 
+      },
+      { 
+        "title" : "A word near the end of the quote is the last word of the Beatles' song...", 
+        "clue": "A Hard Day's _ _ _ _ _", 
+        "cost": 15 
+      },
+      { 
+        "title" : "The last word of the quote is...", 
+        "clue": "an integral data type in C", 
+        "cost": 10 
+      }
+    ]
+  },
+  { 
+    "quote": "Here feel we but the penalty of Adam, The seasons' difference, as the icy fang And churlish chiding of the winter's wind, Which, when it bites and blows upon my body, Even till I shrink with cold, I smile.", 
+    "clues": [
+      { 
+        "title" : "This is a quote from this Shakespeare play:", 
+        "clue": "As You Like It", 
+        "cost": 5 
+      },
+      { 
+        "title" : "The 21st word is possessed by...", 
+        "clue": "the coldest season", 
+        "cost": 15
+      },
+      { 
+        "title" : "The 15th word is as sharp as...", 
+        "clue": "the bite of a vampire _ _ _ _", 
+        "cost": 15 
+      },
+      { 
+        "title" : "The last word is an upside down...", 
+        "clue": "frown", 
+        "cost": 20 
+      }
+    ]
+  },
+  { 
+    "quote": "If you should go skating On the thin ice of modern life Dragging behind you the silent reproach Of a million tear-stained eyes Don’t be surprised when a crack in the ice Appears under your feet.",
+    "clues": [
+      { 
+        "title" : "When life has you up against the wall, this is the band to listen to:", 
+        "clue": "Pink Floyd", 
+        "cost": 5
+      },
+      { 
+        "title" : "The fifth word is...", 
+        "clue": "a popular winter sport.", 
+        "cost": 15
+      },
+      { 
+        "title" : "The third word ought to rhyme with...", 
+        "clue": "wood", 
+        "cost": 10 
+      },
+      { 
+        "title" : "The first seven-letter word is the amount of...", 
+        "clue": "money for which Dr. Evil planned to hold the world ransom.", 
+        "cost": 20
+      }
+    ]
+  },
+  { 
+    "quote": "He said, 'Call the doctor, I think I'm gonna crash'. The doctor say he's comin', but you gotta pay in cash. They went rushin' down that freeway, messed around and got lost; They didn't care, they were just dyin' to get off and it was: Life in the fast lane, surely make you lose your mind...",
+
+    "clues": [
+      { 
+        "title" : "This song about a couple who didn't file a Journey Management Plan was sung by...", 
+        "clue": "The Eagles", 
+        "cost": 5 
+      },
+      { 
+        "title" : "The quote begins in the middle of a...", 
+        "clue": "She said, he said", 
+        "cost": 10 
+      },
+      { 
+        "title" : "The fifth word is what parents want their kids...", 
+        "clue": "to marry (other than a lawyer).", 
+        "cost": 15 
+      },
+      { 
+        "title" : "The 21st word is legal tender or the name of the man in black who walks the line.", 
+        "clue": "CLUE", 
+        "cost": 20 
+      }
+    ]
+  },
+  { 
+    "quote": "Well, I love a rainy night, I love a rainy night; I love to hear the thunder, Watch the lightnin' when it lights up the skies. You know it makes me feel good.",
+    "clues": [
+      { 
+        "title" : "The singer's last name was friends with Bambi.", 
+        "clue": "Eddie Rabbitt", 
+        "cost": 5 
+      },
+      { 
+        "title" : "The sixth word is what you get when...", 
+        "clue": "the sun goes down.", 
+        "cost": 10 
+      },
+      { 
+        "title" : "Want to know something about the last sentence?", 
+        "clue": "It is good for you and me.", 
+        "cost": 20 
+      },
+      { 
+        "title" : "The third word makes", 
+        "clue": "the world go 'round.", 
+        "cost": 15
+      }
+    ]
+  },
+  { 
+    "quote": "My power flurries through the air into the ground; My soul is spiraling in frozen fractals all around; And one thought crystallizes like an icy blast, I'm never going back, the past is in the past. Let it go, let it go!",
+    "clues": [
+      { 
+        "title" : "This song is from the popular animated movie", 
+        "clue": "Frozen", 
+        "cost": 10 
+      },
+      { 
+        "title" : "The second word is what the...", 
+        "clue": "electric grid supplies.", 
+        "cost": 15 
+      },
+      { 
+        "title" : "The sixth word is what you get when you mix...", 
+        "clue": "Nitrogen, oxygen, and a little CO2 together.", 
+        "cost": 15
+      },
+      { 
+        "title" : "The 16th word is the plural form of the generic term for ", 
+        "clue": "recursive figures like the Hilbert and Peano curves.", 
+        "cost": 20
+      }
+    ]
+  },
+  { 
+    "quote": "And what did you hear, my blue-eyed son? And what did you hear, my darling young one? I heard the sound of a thunder, it roared out a warnin’. Heard the roar of a wave that could drown the whole world.",
+    "clues": [
+      { 
+        "title" : "This song of inclement weather was written by...", 
+        "clue": "Bob Dylan", 
+        "cost": 5
+      },
+      { 
+        "title" : "The last two words also appear as words in an old hymn...", 
+        "clue": "He's got the _ _ _ _ _    _ _ _ _ _ in his hands.", 
+        "cost": 10 
+      },
+      { 
+        "title" : "The fifth word makes you think of the warning...", 
+        "clue": "They have ears, but do not _ _ _ _", 
+        "cost": 15 
+      },
+      { 
+        "title" : "The second seven-letter word is what you hope you...", 
+        "clue": "hear after you see the lightning.", 
+        "cost": 10 
+      }
+    ]
+  },
+  { 
+    "quote": "Green September, Burned to October brown; Bare November Led to December's frozen ground. The seasons stumbled round, Our drifting lives are bound To a falling crescent noon.",
+    "clues": [
+      { 
+        "title" : "From a hauntingly beautiful but melancholy song by...", 
+        "clue": "The Carpenters", 
+        "cost": 5
+      },
+      { 
+        "title" : "The 2nd, 5th, 8th and 11th words form an ordered sequence of...", 
+        "clue": "four months of the year", 
+        "cost": 20 
+      },
+      { 
+        "title" : "The first word is a...", 
+        "clue": "color and a political movement", 
+        "cost": 10 
+      },
+      { 
+        "title" : "The three double letters, taken in the order they appear, spell the name of the rock group...", 
+        "clue": "ELO", 
+        "cost": 10 
+      }
+    ]
+  },
+  { 
+    "quote": "I don't love you like that, I'm a careful driver; And I tell you all the time to keep your eyes on the road; But you love me like that, You're a reckless driver; And one day it will kill us if I don't let go",
+    "clues": [
+      { 
+        "title" : "This song by Lizzy McAlpine is called...", 
+        "clue": "'Reckless Driver' and that phrase appears in the lyrics.", 
+        "cost": 20
+      },
+      { 
+        "title" : "The words with contractions end with these letters:", 
+        "clue": "T M RE T", 
+        "cost": 10 
+      },
+      { 
+        "title" : "The fourth word...", 
+        "clue": "isn't me, it's _ _ _ .", 
+        "cost": 5 
+      },
+      { 
+        "title" : "The five words with doubled letters begin with these letters:", 
+        "clue": "T A K W K", 
+        "cost": 15 
+      }
+    ]
+  }
+]
