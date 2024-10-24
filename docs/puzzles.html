@@ -68,6 +68,8 @@ body {
     font-family: Helvetica, sans-serif;
 }
 
+/*  Score Box */
+
 .fixed-box {
     position: fixed;
     top: 0;
@@ -82,6 +84,30 @@ body {
     font-size: 60px;
     color: black;
     text-align: center;
+}
+
+@media all and (max-width: 1150px) {
+  .fixed-box {
+    width: 150px;
+    height: 120px;
+    font-size: 45px;
+  }
+}
+
+@media all and (max-width: 900px) {
+  .fixed-box {
+    width: 110px;
+    height: 85px;
+    font-size: 30px;
+  }
+}
+
+@media all and (max-width: 650px) {
+  .fixed-box {
+    width: 90px;
+    height: 75px;
+    font-size: 25px;
+  }
 }
 
 .clue-box {
