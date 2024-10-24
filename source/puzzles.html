@@ -44,7 +44,16 @@ header {
 
 .secret-container {
     text-align: center;
-    margin-top: 50px;
+    margin-top: 10px;
+}
+
+.secret-container button {
+    width: 70%;
+    background-color: rgb(159, 235, 235);
+}
+
+.secret-container p {
+    font-size: 24px;
 }
 
 button {
@@ -78,24 +87,35 @@ body {
 .clue-box {
   background-color: rgb(247, 247, 209);
   border: 5px dashed red;
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 60px;
+  margin-right: 60px;
   margin-bottom: 10px;
   padding: 20px;
+
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
 }
 
 .button-container {
     position: fixed;
-    top: 50px;
-    left: 10px;
     display: flex;
-    flex-direction: column;
-    gap: 10px;
+    flex-direction: row;
+    gap: 6px;
+}
+
+.button-row-1 {
+  top: 50px;
+  left: 10px;
+}
+.button-row-2 {
+  top: 96px;
+  left: 10px;
 }
 
 button.picker {
-    width: 50px; /* Diameter of the circle */
-    height: 50px; /* Diameter of the circle */
+    width: 40px; /* Diameter of the circle */
+    height: 40px; /* Diameter of the circle */
     border-radius: 50%;
     border: none;
     background-color: #4CAF50;
@@ -105,6 +125,10 @@ button.picker {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+button.selected {
+  background-color: #257f98;
 }
 
 button.picker:hover {
@@ -126,18 +150,19 @@ button.picker:hover {
       When the puzzle is completely solved, it will change color.
 		</span>
 
-    <div class="button-container">
-      <span>Pick a Puzzle:</span>
-      <button class="picker" onclick="load_puzzle(1)">1</button>
-      <button class="picker" onclick="load_puzzle(2)">2</button>
-      <button class="picker" onclick="load_puzzle(3)">3</button>
-      <button class="picker" onclick="load_puzzle(4)">4</button>
-      <button class="picker" onclick="load_puzzle(5)">5</button>
-      <button class="picker" onclick="load_puzzle(6)">6</button>
-      <button class="picker" onclick="load_puzzle(7)">7</button>
-      <button class="picker" onclick="load_puzzle(8)">8</button>
-      <button class="picker" onclick="load_puzzle(9)">9</button>
-      <button class="picker" onclick="load_puzzle(10)">10</button>
+    <div class="button-container button-row-1">
+      <button id="puzzle-1" class="picker selected" onclick="load_puzzle(1)">1</button>
+      <button id="puzzle-2" class="picker" onclick="load_puzzle(2)">2</button>
+      <button id="puzzle-3" class="picker" onclick="load_puzzle(3)">3</button>
+      <button id="puzzle-4" class="picker" onclick="load_puzzle(4)">4</button>
+      <button id="puzzle-5" class="picker" onclick="load_puzzle(5)">5</button>
+    </div>
+    <div class="button-container button-row-2">
+      <button id="puzzle-6" class="picker" onclick="load_puzzle(6)">6</button>
+      <button id="puzzle-7" class="picker" onclick="load_puzzle(7)">7</button>
+      <button id="puzzle-8" class="picker" onclick="load_puzzle(8)">8</button>
+      <button id="puzzle-9" class="picker" onclick="load_puzzle(9)">9</button>
+      <button id="puzzle-10" class="picker" onclick="load_puzzle(10)">10</button>
     </div>
 
 	</header>
@@ -153,40 +178,28 @@ button.picker:hover {
     
     <div class="clue-box"> 
 
-    <table>
-      <tr>
-        <th colspan="2"><span style="font-size: 30px;">Clues (but it will cost you!)</span></th>
-     </tr>
-      <tr>
-        <td>
+        <h1 style="font-size: 30px;">Clues (but it will cost you!)</h1>
+
           <div class="secret-container">
             <button id="reveal-button-1">Clue prompt</button>
             <p id="secret-1" class="hidden">Clue</p>
           </div>
-        </td>
-        <td>
+
           <div class="secret-container">
             <button id="reveal-button-2">Clue prompt</button>
             <p id="secret-2" class="hidden">Clue</p>
           </div>
-        </td>
-      </tr>
 
-      <tr>
-        <td>
           <div class="secret-container">
             <button id="reveal-button-3">Clue prompt</button>
             <p id="secret-3" class="hidden">Clue</p>
           </div>
-        </td>
-        <td>
+
           <div class="secret-container">
             <button id="reveal-button-4">Clue prompt</button>
             <p id="secret-4" class="hidden">Clue</p>
           </div>
-        </td>
-      </tr>
-    </table>
+
   </div>
 
     <p>
@@ -249,6 +262,7 @@ load_puzzle = function(puzzle_number) {
   PUZZLE_INDEX = puzzle_number - 1
   reset_score_and_clues();
   set_clues(PUZZLE_INDEX);
+  mark_selected_puzzle(puzzle_number);
   grypt = show_puzzle(PUZZLES[PUZZLE_INDEX]['quote'], document.querySelector(".grypt-host"))
 }
 
@@ -288,6 +302,18 @@ set_clues = function(puzzle_number) {
   set_one_clue(puzzle_number, 2);
   set_one_clue(puzzle_number, 3);
   set_one_clue(puzzle_number, 4);
+}
+
+mark_selected_puzzle = function(puzzle_number) {
+  for (let i = 1; i <= 10; i++) {
+    var b = document.getElementById(`puzzle-${i}`)
+    var has_selected = b.classList.contains('selected')
+    if (has_selected && puzzle_number != i) {
+        b.classList.remove('selected');
+    } else if (!has_selected && puzzle_number == i) {
+        b.classList.add('selected');
+    }
+  }
 }
 
 // Initialize the puzzle after the page loads.
