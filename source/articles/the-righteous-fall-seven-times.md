@@ -2,6 +2,8 @@
 title: The Righteous Fall Seven Times
 quote: for the righteous falls <br/> seven times and rises again, <br/> but the wicked stumble in <br/> times of calamity. - Proverbs 24:16
 ---
+<img class="wide" src="images/dinner-with-dog.png" alt="Family eating dinner while dog waits"/>
+
 The article on [Riddles](./riddles.html) introduced the idea of **Emotional Riddles**. The answer to
 such a riddle does not come easy because the way the riddle is phrased repels the reader.
 The riddle tries to wrestle itself from your grasp, like Jacob wrestling with the angel in
