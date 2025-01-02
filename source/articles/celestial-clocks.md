@@ -9,7 +9,7 @@ with mechanical precision, the attribute par excellence of the Celestial Clock. 
 ##### and hastens to the place where it rises.
 ###### - Ecclesiastes 1:5
 
-This article will summarize sections of *Peace, like Solomon Never Knew* and *Plague, Precept, Prophet, Peace* that were devoted to this type of clock.
+This article will summarize sections of *Peace, like Solomon Never Knew* and *Plague, Precept, Prophet, Peace* that were devoted to this type of clock. It will also introduce an more recently discovered clock based on the Beatitudes and Psalm 19, the Order of Salvation Clock.
 It will name each clock, block out the eras of history that it prophesies, point out where in those books it was developed, and (for a few) 
 point to an extended treatment in a separate article on this website.
 
@@ -36,6 +36,7 @@ To quickly jump to each clock:
     <li> <a href="#16">Timothy’s Freedom Clocks</a> </li>
     <li> <a href="#17">Song of Songs Clock</a> </li>
     <li> <a href="#18">Master Psalm Clock</a> </li>
+    <li> <a href="#19">The Order of Salvation Clock</a> </li>
   </ol>
 
 </div>
@@ -1934,3 +1935,113 @@ This was no mere poetic flourish but a solid truth. The Lord did it, and it is m
 Those are all the Celestial Clocks that I can remember. I may have defined a few in *Plague, Precept, Prophet, Peace*.
 If I stumble upon them again I will be sure to expand this article.
 
+
+<hr/>
+
+
+<div class="numbered-image">
+  <p id="19" class="numbered-image">19</p>
+  <p><img class="numbered-image" src="images/clock-pebbles.png" alt="Pebbles on a beach with clock faces" /></p>
+</div>
+
+<hr/>
+
+## Order of Salvation Clock
+
+  - Bible books: Psalm 19 and Matthew 5
+  - Defined in:
+    - This website
+    - *Plague, Precept, Prophet, Peace*
+  - Chapter: Psalm 19: the Glory of God's Law
+  - Timespan: 30 AD - 2280 AD
+  - Intervals: 9 (one per Beatitude)
+  - Period: 250 years
+
+**Notable facts**:
+
+While writing *Plague, Precept, Prophet, Peace*, I observed that when David prayed for salvation in Psalm 19, his prayer 
+touched on nine steps in the *Ordo Salutis*, the order of salvation. With one exception (the placement of Adoption 
+into God's household), that sequence matches the Reformed version of the order. The only Reformed steps missing are 
+Predestination and Election. The nine steps present are:
+
+ - Calling
+ - Regeneration
+ - Faith
+ - Repentance
+ - Justification
+ - Sanctification
+ - Adoption
+ - Perseverance
+ - Glorification
+
+The Reformed tradition puts Adoption before Sanctification. My explanation for this is that Sanctification comes in two parts.
+Positional Sanctification is declared by God after Justification and prior to Adoption. 
+Then Progressive Sanctification occurs over the course of a believer's life. This follows Adoption.
+
+As I was researching my next book (which shall be on discipleship), I discovered that the nine Beatitudes present the same nine steps.
+The connection is simple. David prayed for salvation and Jesus answered that prayer, step by step.
+With the Beatitudes of Matthew 5 laying out the complete process of salvation for an individual in logical -
+if not chronological - order, it begs a question. Do the Beatitudes also prophesy a longer process that 
+will mold the history of the Church?
+
+Yes! So what do they prophecy? The prophetic clock hidden in the Beatitudes predicted the slow process by which
+the church would wrestled with the doctrines behind each step of salvation. Each problem - poverty, mourning, hunger & thirst - 
+would be followed by a blessing. A problem suffered by the church is found in one era and the blessing that ameliorates 
+that problem comes in the next era. The corresponding doctrine is instrumental to facilitating the change.
+
+Because the ninth problem in the ninth era will be solved by a blessing in the era after it, that means that this clock
+breaks the time following Jesus' preaching of this sermon into ten eras. The last era is of indeterminate length,
+because Christ can return at any time. The last era will introduce no new problem, because once Christ returns, 
+the Kingdom of Heaven will be fully realized and all sorrows cease.
+
+Here is a brief analysis of each blessing.
+
+1. **Calling**: *Blessed are the poor in spirit, for theirs is the kingdom of heaven*.
+
+ - **Problem**: The powerlessness of the church of 30 - 280 AD whose belongings were often confiscated by the Romans. 
+ - **Blessing**: Came in the next era, 280 - 530 AD. The mechanism of that deliverance was God **calling** Constantine the Great to faith. The Roman emperor saw a vision of a cross of light in the sky before a battle along with the words, "By this conquer". By the end of the 4th century, Rome would be an officially Christian empire. The kingdoms of Armenia, Georgia and Iberia also converted to Christianity early in that century.
+
+2. **Regeneration**: *Blessed are those who mourn, for they shall be comforted*.
+
+ - **Problem**: In the middle of the era 280 - 530 AD, the Fall of Rome in 476 AD triggered the collapse of classical civilization, civil order and prosperity, resulting in the Dark Ages.
+ - **Blessing**: Regeneration began in the era 530 - 780 AD. In the east, Justinian I restored a measure of stability with *renovatio imperii*, his plan to regenerate the empire. His *Corpus Juris Civilis* simplified Roman law and simultaneously altered it to reflect Christian doctrines. So successful was this effort that his work serves as the basis of many modern legal systems. One change reflects the Christian belief that people are made in the *imago Dei*. There was also a greater emphasis on human rights and equality, including increased rights and access to emancipation for slaves, more rights for women, and the better protections for children. In the west, Pope Gregory the Great reformed and strengthened the church and send missionaries to England.
+
+3. **Faith**: *Blessed are the meek, for they shall inherit the earth*.
+
+ - **Problem**: In the middle of the era 530 - 780 AD, the armies of Islam captured a third of Christendom, including the ancient patriarchates of Jerusalem, Alexandria and Antioch and much of Spain. This crisis in part triggered the Iconoclasm Controversy, a religious civil war over the issue of idolatry in the church.
+ - **Blessing**: During the next era of 780 - 1030 AD, the meek began to inherit the earth, with these nations converting to the Christian faith: Saxons, Navarre, Moravia, Bulgaria, Serbia, Croatia, Bohemia, Normans, Denmark, Poland, Kievan Russia, Norway, Hungary, Iceland and Sweden.
+
+4. **Repentance**: *Blessed are those who hunger and thirst for righteousness, for they shall be satisfied*.
+
+ - **Problem**: In the era 780 - 1030 AD, Church corruption was rampant, such as during the Reign of the Harlots. 
+ - **Blessing**: In the era 1030 - 1280 AD, many church reforms were implemented. It began with the Cluniac reforms of monasteries late in the previous era. Then Pope Gregory VII made reforms to address sexual immorality among the clergy, simony, and the corrupting influences of civil investiture. The importance of repentance and righteousness also found its way into theology, with Anselm's Satisfaction Theory of Atonement. The Peace of God (989) and Truce of God (1027) movements of this time were the first large scale peace movement the world had ever seen, righteousness writ large. The Code of Chivalry (1170-1220) was a move towards treating women with dignity.
+
+5. **Justification**: *Blessed are the merciful, for they will be shown mercy*.
+
+ - **Problem**: In the era 1040 - 1280 AD, the sale of indulgences as part of a complex penitential system arose. 11th century scholastics like Peter Abelard and Peter Lombard worked out the doctrines, partly based on a belief in Purgatory. The idea that your money can pay for your sins was corrupting. The unrepentant rich became complacent in their sins and the poor were left a religion that could not gain them forgiveness for their sins. Thomas Aquinas made improvements to the understanding of Justification, but because the doctrines of justification and sanctification had since Augustine been hopelessly intertwined, he still left a place for human merit in the process. This left people to think that they were responsible for doing the things that will accomplish their justification before God. 
+ - **Blessing**: Near the end of the era 1280 - 1530 AD, Luther (in 1517) discovered that justification is by grace through faith. God does it all! This started the Protestant Reformation. 
+
+6. **Sanctification**: *Blessed are the pure in heart, for they shall see God.*
+
+ - **Problem**: In the era 1280 - 1530 AD (and continuing into the next century), legal, doctrinal and sacramental emphases robbed people of personal direct experience of communion with God.
+ - **Blessing**: In the second half of the era 1530 - 1780 AD, a revolutionary emphasis on personal reflection, repentance, holiness, prayer and Bible study arose. On the continent, this took the form of the Pietism Movement. In England it was the Methodist Revival. In America, it was the Great Awakening. Christians had direct, miraculous encounters with God. They believed that at last they could really "see God".
+
+7. **Adoption**: *Blessed are the peacemakers, for they shall be called sons of God*.
+
+ - **Problem**: In the era 1530 - 1780 AD, the wars of religion following the Reformation killed tens of millions, the worst civil war ever to ravage Christianity. The church needed peacemakers, but where could they be found? In ["The Theological History of Adoption"](https://biblicalstudies.org.uk/pdf/sbet/20-1_04.pdf), Tim J. R. Trumper argues that the doctrine of Adoption was the most neglected step in the process of salvation for a millennium. John Calvin mentioned it a little and the Westminster Confession of Faith had a section on it, but the powerful implications of us becoming sons of God and co-heirs with Christ were ignored.
+ - **Blessing**: We come to the era 1780 - 2030 AD - our current era, soon to end. If everyone in the household of faith is adopted by God into His family, what does that make us to each other? Brothers and sisters! Does brother have a right to enslave brother? Or brother oppress sister? The abolition, women's rights and anti-racism movements are the result of God DEMANDING that we take Adoption seriously. Also the spread of democracy and civil rights and the peace movement.
+
+8. **Perseverance**: *Blessed are those who are persecuted for righteousness sake, for theirs is the kingdom of heaven*.
+
+ - **Problem**: In the era 1780 - 2030 AD, many Christians were martyred. Many who fought for civil rights, Christian or otherwise, were also persecuted. Dr. Todd M Johnson of Gordon Conwell Theological Seminary estimates that 70 million Christians have been martyred since the beginning of the faith. Half that number died in the 20th century, mostly under totalitarian regimes.
+ - **Blessing**: The next era is 2030 - 2280 AD. The blessing, related to the kingdom of heaven, has yet to arrive. However, based on the other prophetic clocks, this era includes "a time to hate" and "a time for war". When the fifth seal of Revelation is opened, a great persecution will begin, which leads us into the last Beatitude. Surely if God enables Christians to persevere in this crisis, he must provide extraordinary means. 
+
+9. **Glorification**: *Blessed are you when others revile you and persecute you and utter all kinds of evil against you falsely on my account Rejoice and be glad, for your reward is great in heaven, for so they persecuted the prophets who were before you*.
+
+ - **Problem**: In the era 2030 - 2280 AD, persecution will worsen. With AI generated deepfakes getting more convincing all the time, the prospect is for wholesale perjury against Christians.
+ - **Blessing**: After 2280 AD, Jesus will return (if not sooner). The saints will then be glorified and all suffering for Christians will end.
+
+From this clock we learn that salvation is not solely an individual matter, and it is not a trifling thing.
+Every step in the path to salvation is governed by a separate doctrine, and each doctrine has the power to shake the world.
+
+For a more complete analysis that combines Psalm 19 and the Beatitudes, see [The Beatitudes and the Order of Salvation](./the-beatitudes.html).
