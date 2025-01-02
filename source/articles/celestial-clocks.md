@@ -1985,7 +1985,7 @@ if not chronological - order, it begs a question. Do the Beatitudes also prophes
 will mold the history of the Church?
 
 Yes! So what do they prophecy? The prophetic clock hidden in the Beatitudes predicted the slow process by which
-the church would wrestled with the doctrines behind each step of salvation. Each problem - poverty, mourning, hunger & thirst - 
+the church would wrestle with the doctrines behind each step of salvation. Each problem - poverty, mourning, hunger & thirst - 
 would be followed by a blessing. A problem suffered by the church is found in one era and the blessing that ameliorates 
 that problem comes in the next era. The corresponding doctrine is instrumental to facilitating the change.
 
@@ -1999,12 +1999,12 @@ Here is a brief analysis of each blessing.
 1. **Calling**: *Blessed are the poor in spirit, for theirs is the kingdom of heaven*.
 
  - **Problem**: The powerlessness of the church of 30 - 280 AD whose belongings were often confiscated by the Romans. 
- - **Blessing**: Came in the next era, 280 - 530 AD. The mechanism of that deliverance was God **calling** Constantine the Great to faith. The Roman emperor saw a vision of a cross of light in the sky before a battle along with the words, "By this conquer". By the end of the 4th century, Rome would be an officially Christian empire. The kingdoms of Armenia, Georgia and Iberia also converted to Christianity early in that century.
+ - **Blessing**: Came in the next era, 280 - 530 AD. The mechanism of that deliverance was God **calling** Constantine the Great to faith. The Roman emperor saw a vision of a cross of light in the sky before a battle along with the words, "By this conquer". By the end of the 4th century, Rome would officially be a Christian empire. The kingdoms of Armenia, Georgia and Iberia also converted to Christianity early in that century.
 
 2. **Regeneration**: *Blessed are those who mourn, for they shall be comforted*.
 
  - **Problem**: In the middle of the era 280 - 530 AD, the Fall of Rome in 476 AD triggered the collapse of classical civilization, civil order and prosperity, resulting in the Dark Ages.
- - **Blessing**: Regeneration began in the era 530 - 780 AD. In the east, Justinian I restored a measure of stability with *renovatio imperii*, his plan to regenerate the empire. His *Corpus Juris Civilis* simplified Roman law and simultaneously altered it to reflect Christian doctrines. So successful was this effort that his work serves as the basis of many modern legal systems. One change reflects the Christian belief that people are made in the *imago Dei*. There was also a greater emphasis on human rights and equality, including increased rights and access to emancipation for slaves, more rights for women, and the better protections for children. In the west, Pope Gregory the Great reformed and strengthened the church and send missionaries to England.
+ - **Blessing**: Regeneration began in the era 530 - 780 AD. In the east, Justinian I restored a measure of stability with *renovatio imperii*, his plan to regenerate the empire. His *Corpus Juris Civilis* simplified Roman law and simultaneously altered it to reflect Christian doctrines. So successful was this effort that his work serves as the basis of many modern legal systems. One change reflects the Christian belief that people are made in the *imago Dei*. There was also a greater emphasis on human rights and equality, including increased rights and access to emancipation for slaves, more rights for women, and better protections for children. In the west, Pope Gregory the Great reformed and strengthened the church and send missionaries to England.
 
 3. **Faith**: *Blessed are the meek, for they shall inherit the earth*.
 
