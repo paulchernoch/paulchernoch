@@ -207,13 +207,18 @@ as in Psalm 129:3 (*“Plowmen have plowed my back and made their furrows long�
 Ezekiel’s usage is powerful and on point, because it shows that even God’s judgment is intended to produce a blessing in the end. 
 Ezekiel includes five of the seven phases of the Harvest and collapses the other two into one:
 
-#### “ ‘But you, mountains of Israel, will produce branches and fruit for my people Israel, 
-#### **for they will soon come home**. I am concerned for you and will look on you with favor; 
-#### you will be **plowed and sown**, and I will cause many people to live on you—yes, all of Israel. 
-#### The towns will be inhabited and the **ruins rebuilt**. I will **increase** the number of 
-#### people and animals living on you, and they will be **fruitful** and become numerous. 
-#### I will settle people on you as in the past and will make you prosper more than before. 
-#### Then you will know that I am the LORD. I will cause people, my people Israel, to live on you. 
+#### “ ‘But you, mountains of Israel, will produce branches and fruit 
+#### for my people Israel, **for they will soon come home**.
+#### I am concerned for you and will look on you with favor; 
+#### you will be **plowed and sown**, and I will cause 
+#### many people to live on you—yes, all of Israel. 
+#### The towns will be inhabited and the **ruins rebuilt**. 
+#### I will **increase** the number of people and animals 
+#### living on you, and they will be **fruitful** and become numerous. 
+#### I will settle people on you as in the past 
+#### and will make you prosper more than before. 
+#### Then you will know that I am the LORD. 
+#### I will cause people, my people Israel, to live on you. 
 #### They will possess you, and you will be their inheritance; 
 #### **you will never again deprive them of their children**.
 ###### - Ezekiel 36:8-12, NIV
@@ -361,16 +366,20 @@ This change in me means that I had absorbed with partial awareness the connectio
 
 *A nagging question*. I have always loved the story of Joshua meeting the man with the drawn sword.
 
-#### When Joshua was by Jericho, he lifted up his eyes and looked, and behold, 
-#### **a man was standing before him with his drawn sword in his hand**.
+#### When Joshua was by Jericho, he lifted up his eyes and looked, 
+#### and behold, **a man was standing before him with**
+#### **his drawn sword in his hand**.
 #### And Joshua went to him and said to him, 
 ##### “Are you for us, or for our adversaries?” 
-### And he said, 
-##### “No; but I am the commander of the army of the Lord. Now I have come.”
-#### **And Joshua fell on his face to the earth and worshiped** and said to him, 
+#### And he said, 
+##### “No; but I am the commander of the army of the Lord. 
+#### Now I have come.”
+#### **And Joshua fell on his face to the earth and worshiped** 
+#### and said to him, 
 ##### “What does my lord say to his servant?” 
 #### And the commander of the Lord's army said to Joshua, 
-##### “Take off your sandals from your feet, for the place where you are standing is holy.” 
+##### “Take off your sandals from your feet, 
+##### for the place where you are standing is holy.” 
 #### And Joshua did so.
 ###### - Joshua 5:13-15, ESV
 
@@ -403,13 +412,16 @@ This amazing song prophesied a time when the Lord would draw His sword and fight
 He is described as one who can bring people back to life. When Moses delivered this prophecy, 
 who heard it, how important did he say that it was, and when did he say that it would take place?
 
-#### **Moses came and recited all the words of this song in the hearing of the people,**
-#### **he and Joshua the son of Nun.** And when Moses had finished speaking 
+#### **Moses came and recited all the words of this song**
+#### **in the hearing of the people,**
+#### **he and Joshua the son of Nun.** 
+#### And when Moses had finished speaking 
 #### all these words to all Israel, he said to them, 
 ##### “Take to heart all the words by which I am warning you today, 
-##### that you may command them to your children, that they may be careful to do 
-##### all the words of this law. **For it is no empty word for you**, 
-##### **but your very life, and by this word you shall live long in the land** 
+##### that you may command them to your children, that they 
+##### may be careful to do all the words of this law. 
+#### **For it is no empty word for you, but your very life,**
+##### **and by this word you shall live long in the land** 
 ##### **that you are going over the Jordan to possess**.”
 ###### - Deuteronomy 32:44-47
 
@@ -598,9 +610,9 @@ Jesus alludes to the bridegroom in his parable of the Ten Virgins in Matthew 25,
 #### Then the disciples of John came to him, saying, 
 ##### “Why do we and the Pharisees fast, but your disciples do not fast?” 
 #### And Jesus said to them, 
-##### “Can the wedding guests mourn as long as **the bridegroom** is with them? 
-##### The days will come when **the bridegroom** is taken away from them, 
-##### and then they will fast.
+##### “Can the wedding guests mourn as long as **the bridegroom** 
+##### is with them? The days will come when **the bridegroom** is 
+##### taken away from them, and then they will fast."
 ###### - Matthew 9:14-15
 
 Jesus is the Bridegroom who brings salvation! The Beatitudes are subtler.
@@ -825,9 +837,11 @@ To pursue a righteous life and promote that way of life to others even in the fa
 As I pondered this eighth beatitude, I wondered if it applied only to being persecuted for being a Christian or also to 
 any righteous actions taken by people. Bonhoeffer affirms the latter in his chapter on the Beatitudes in *The Cost of Discipleship*:
 
-#### It is important that Jesus gives his blessing not merely to suffering incurred directly 
-#### for the confession of his name, but to suffering in any just cause. 
-#### They receive the same promise as the poor, for in persecution they are their equals in poverty.
+#### It is important that Jesus gives his blessing not merely to 
+#### suffering incurred directly for the confession of his name, 
+#### but to suffering in any just cause. They receive the 
+#### same promise as the poor, for in persecution they are 
+#### their equals in poverty.
 ###### - Dietrich Bonhoeffer
 
 ### Step 9: Glorification
@@ -872,9 +886,10 @@ That is the great mystery that the Lord gave to Paul to proclaim:
 
 #### I became a minister according to the stewardship from God 
 #### that was given to me for you, to make the word of God fully known, 
-#### **the mystery hidden for ages and generations** but now revealed to his saints.
-#### To them God chose to make known how great among the Gentiles are 
-#### the riches of the glory of **this mystery**, 
+#### **the mystery hidden for ages and generations** but 
+#### now revealed to his saints.
+#### To them God chose to make known how great among the Gentiles 
+#### are the riches of the glory of **this mystery**, 
 #### which is **Christ in you, the hope of glory**. 
 ###### - Colossians 1:25-27
 
