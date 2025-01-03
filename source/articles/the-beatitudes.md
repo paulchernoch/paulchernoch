@@ -680,7 +680,67 @@ we who hunger and thirst are the ones who will be satisfied. How amazing is this
 
 ### Step 5: Justification
 
-In progress...
+**Psalm 19**. To be declared innocent by God; how great is that!
+
+#### **Declare me innocent** from hidden faults. 
+#### Keep back your servant also from presumptuous sins; 
+##### let them not have dominion over me!
+###### - Psalm 19:12b-13b
+
+For a thousand years or more, the church was confused. They conflated Justification and Sanctification.
+There are two main theories about how justification works, Infused Justification, and Imputed Justification. 
+Here is what Microsoft Copilot has to say about that:
+
+*In Christian theology, the concepts of infused and imputed justification are central to understanding different perspectives on how humans are made righteous before God.*
+
+**Imputed Justification:**
+
+ - *Protestant View*: This concept is primarily associated with Protestant theology, especially within Reformed traditions.
+ - *Definition*: Imputed justification means that the righteousness of Christ is credited to the believer's account. It is a legal declaration where God declares a sinner to be righteous based on the righteousness of Christ.
+ - *Mechanism*: This righteousness is external and is not based on the believer's own merits or actions. It is received by faith alone.
+ - *Key Verse*: Romans 4:3, "Abraham believed God, and it was credited to him as righteousness."
+
+**Infused Justification:**
+
+- *Catholic View*: This concept is primarily associated with Roman Catholic theology.
+- *Definition*: Infused justification means that God's grace is poured into the believer's soul, transforming them and making them inherently righteous.
+- *Mechanism*: This righteousness is internal and involves a process of sanctification where the believer cooperates with God's grace through faith and good works.
+- *Key Verse*: James 2:24, "You see that a person is justified by works and not by faith alone."
+
+*In summary, imputed justification is about being declared righteous through faith in Christ's righteousness, while infused justification is about becoming righteous through the transformative power of God's grace. Both views emphasize the importance of God's grace but differ in how that grace is applied and experienced in the believer's life.*
+
+One way to describe the difference is that the Reformed version is *monergistic*, meaning God alone is responsible, whereas the Catholic view is *synergistic*,
+a cooperative process where both God and the believer are at work together. The Reformed position came about by splitting one concept into two. 
+If Justification and Sanctification are two separate steps, then the first, Justification, can be monergistic and acquired instantly by faith alone, while the second,
+Sanctification, can be synergistic and accomplished over a long period.
+
+Which view is correct (and there are others)? The wording of the psalm seems clear. God declares the sinner innocent with no action required of the supplicant.
+Then, with the powerful joy of an innocent heart set free and the besetting presumptuous sins weakened in their potency, a person may proceed to the next step of sanctification.
+For so long as sin has **dominion** over the unforgiven soul, no sanctification is possible.
+
+**Beatitude**. The undeserving and unearned aspects of justification are stated in a different way by Jesus.
+
+#### Blessed are the merciful, 
+##### for they will be shown mercy.
+###### - Matthew 5:7
+
+We are justified as an act of mercy. However, there is a condition, which tilts the balance back toward the Catholic position.
+It is the merciful who are shown mercy. It is the people who practice forgiveness of others that are forgiven.
+This echoes the Lord's Prayer, which says, "Forgive us our trespasses as we forgive those who trespass against us."
+It also matches the parable of the unforgiving servant, who was forgiven a large debt but then oppressed another servant who owed him much less.
+That unforgiving servant had his debt reinstated.
+The cause and effect relationship is tricky to work out, but it seems to be this:
+
+ - God forgives us without condition
+ - In gratitude, we show forgiveness to others
+ - God confirms our forgiveness by making it permanent, in recognition of our response
+
+Does this mean that we can lose our salvation? No, rather it separates from the true believers those who seek forgiveness for selfish reasons, to escape punishment,
+but have no regard for righteousness. The merciful truly hunger and thirst for righteousness, thus begin to act righteously after they are freed from debtor's prison.
+It is what we do with our new liberty that proves who we are and confirms whether we have saving faith.
+
+It was this doctrine of Justification by faith that triggered the Protestant Reformation and upended the world.
+It is not a trifling idea.
 
 ### Step 6: Sanctification
 
