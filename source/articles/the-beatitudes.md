@@ -478,4 +478,154 @@ As we allow the Holy Spirit to lead us in repentance and wash us of all moral fi
 
 After you bring in a harvest at the end of the season, you can enjoy peace. In the harvest of the Beatitudes, we see the goodness of God at work. The human posture is that at the end of a harvest, you store your surplus away in barns and celebrate. Since the crops are yours, the peace is yours, too. Not so! We are called to be peacemakers. We must share our peace with others. That is evangelism, because our crop is souls. Without sharing the gospel with others, we have no crop! After we do share our peace, we can be called “sons of God”.
 
+## The *Ordo Salutis* according to Jesus
+
+Oh, I was ready to end the chapter here, but there are two more beatitudes and the phrase “be called sons of God” tickled a memory. That means to be adopted into God’s family. The doctrine of adoption is one that gave me trouble in my last book. While writing “Psalm 19: The Glory of God’s Law” for *Plague, Precept, Prophet, Peace*, I made a discovery. Verse by verse that Psalm gives the *Ordo Salutis*, the order of salvation. That sequence breaks the process of salvation into smaller steps and arranges them in order. Handy, no? Each denomination has its own version of the *Ordo Salutis* and they differ in the number of steps and their order. Of all the orders I have studied, none come closer to the order found in Psalm 19 than the Reformed order of eleven steps. Comparing Psalm 19 to the Reformed order, one step is missing (Predestination), one is vague (Election) and one is out of place (Adoption).
+
+So noticing a reference to Adoption in the Beatitudes, I had to see how much of the process of salvation was there and whether it matched what I had found when I studied Psalm 19. Surprise! Not only is most of the process also found in the Beatitudes, but it matches Psalm 19! Like the psalm, the first two Reformed steps – Predestination and Election – are missing. Again like Psalm 19, in the Beatitudes the step of Adoption is slightly out of order, coming after Sanctification, not before. The omitted steps happen to be the steps most in contention in the debates between those who hold to the Reformed tradition and the many others who argue against those doctrines. Thus the Beatitudes cannot be used to settle that debate. As for adoption, I am betting that it is the Reformed sequence that needs a tweak, not Jesus! So here is the Ordo Salutis according to Jesus, not a Christian denomination.
+
+Before diving into the order of the steps of salvation, a word of clarification. The Beatitudes may be used to compose the order of the steps but not to precisely define the meaning of each step. For example, each denomination attributes different meanings to justification and sanctification and this analysis alone is insufficient to choose among them.
+
+In what follows, each Step of salvation is followed by a quote from Psalm 19 that corresponds to that step of salvation and a blessing quoted from Matthew 5 with some commentary.
+By combining David's prayer and Jesus' promise, the association with that step of salvation and its meaning are sharpened.
+
+### Calling
+
+Before we even get to the Beatitudes, three of Jesus' initial statements in Matthew relate to calling. First, we have his response to John the Baptist, who
+questioned why Jesus needed to be baptized. His answer was, *"Let it be so now, for thus it is fitting for us to fulfill all righteousness.” *(Matthew 3:15)
+This tells us that we are called to righteousness.
+
+Second, we have the summary given to Jesus' initial preaching:
+
+#### From that time Jesus began to preach, saying, 
+##### “Repent, for the kingdom of heaven is at hand."
+###### - Matthew 4:17
+
+This tells us that Jesus' call is consists of a goal and a requirement. The goal is to enter the kingdom of heaven and the requirement is repentance. 
+
+Third, we have Jesus' final statement before the Beatitudes, spoken to Peter and Andrew:
+
+#### And he said to them, 
+##### “Follow me, and I will make you fishers of men.”
+###### - Matthew 4:19
+
+The final part of the call is to follow Jesus (to learn from him and imitate his way of life) and then become one who can make disciples of others by teaching them the same.
+
+**Psalm 19**. This psalm is a prayer of David, but it is constructed in a marvelous way. The first eleven verses are not a request, 
+they are a meditation on the good things that God does for him of His own initiative. Not until verses 12-14 does David present his own petition for help.
+
+#### Day to day pours out speech, and night to night reveals knowledge. 
+#### There is no speech, nor are there words, whose voice is not heard. 
+###### - Psalm 19:2-3
+
+In this Psalm we hear God's call going forth. What does Jesus add to this call?
+
+**Beatitude**. Jesus identifies who it is that he is calling. Not the rich, the proud or the strong, but the humble and poor.
+
+#### Blessed are the poor in spirit, 
+##### for theirs is the kingdom of heaven.
+###### - Matthew 5:3
+
+This is the call that invites the humble sinner to approach the gates of the kingdom of heaven. 
+They are called to repent, but that repentance does not happen yet.
+
+### Regeneration
+
+In progress...
+
+### Faith
+
+In progress...
+
+### Repentance
+
+In progress...
+
+### Justification
+
+In progress...
+
+### Sanctification
+
+In progress...
+
+### Adoption
+
+In progress...
+
+### Perseverance
+
+In progress...
+
+### Glorification
+
+In progress...
+
+### Reflections on the Process of Salvation
+
+When I pondered the eighth beatitude, I wondered if it applied only to being persecuted for being a Christian or also to any righteous actions taken by people. 
+Bonhoeffer affirms the latter in his chapter on the Beatitudes in *The Cost of Discipleship*:
+
+#### It is important that Jesus gives his blessing not merely to suffering incurred directly 
+#### for the confession of his name, but to suffering in any just cause. 
+#### They receive the same promise as the poor, for in persecution they are their equals in poverty.
+###### - Dietrich Bonhoeffer
+
+A few verses from Psalm 19 that were not quoted in the preceding table are magnificent:
+
+#### Their voice goes out through all the earth, 
+##### and their words to the end of the world.
+#### In them he has set a tent for the sun,
+#### **which comes out like a bridegroom leaving his chamber**, 
+##### **and, like a strong man, runs its course with joy**.
+#### Its rising is from the end of the heavens, 
+##### and its circuit to the end of them, 
+##### and there is nothing hidden from its heat.
+###### - Psalm 19:4-6
+
+These verses tell us not only that a call has gone out from heaven, they tell us who was sent to deliver that message. 
+God has sent a strong man called the Bridegroom, a man full of joy. Who is this Bridegroom? 
+Jesus alludes to the bridegroom in his parable of the Ten Virgins in Matthew 25, but owns the title here:
+
+#### Then the disciples of John came to him, saying, 
+##### “Why do we and the Pharisees fast, but your disciples do not fast?” 
+#### And Jesus said to them, 
+##### “Can the wedding guests mourn as long as **the bridegroom** is with them? 
+##### The days will come when **the bridegroom** is taken away from them, 
+##### and then they will fast.
+###### - Matthew 9:14-15
+
+Jesus is the Bridegroom who brings salvation! The Beatitudes are subtler.
+Not until we reach the last Beatitude do we find that the grantor of all these promises is Jesus:
+
+#### Blessed are you when others revile you and 
+#### persecute you and utter all kinds of evil against you 
+#### falsely **on my account**.
+
+All these blessings and promises, this great salvation, this “great reward” in heaven that is our glorification – 
+all are contingent on placing our faith specifically in Jesus Christ as our savior.
+
+In Psalm 19, King David prays to the Lord for salvation. In the Beatitudes, Jesus answers David’s prayer, point for point. 
+The Psalm begins by extolling the glory of God, a glory that David dare not ask for himself, for as the prophet said, 
+“My glory I will not give to another.” (Isaiah 48:11b) That is the mystery of God that Paul revealed: 
+
+#### To them God chose to make known how great among the Gentiles 
+#### are the riches of the glory of this mystery, 
+#### which is **Christ in you, the hope of glory**.
+###### - Colossians 1:27
+
+The glorification of the saints is that by Christ entering our hearts to live, though God does not share His glory with us, he shares His son and therefore the glory of God shines out of us by the agency of that indwelling spirit. Thus when David ends by calling upon God as his redeemer, he could not conceive how great that redemption would be! The divine glory of verse 1 would be given to us as a gift through the death of God’s Son.
+
+By this interpretation, we can see that the Beatitudes define the whole process of salvation and sanctification from the initial call to the final glorification of the saints at the time when Christ returns. Why is this helpful? First, wars have been fought over this process. How many steps should there be? In what order should we arrange them? Is there even an order or is it all simultaneous? The various theories rely on assembling clues scattered throughout the Bible and using human logic to fill in the gaps. Any one of the formulations could be right – or none of them. That means that even if the steps are Biblical the system is merely semi-Biblical.
+
+With the system in this chapter, we have a Bible passage where each verse corresponds to a single step in the *Ordo Salutis*. This single passage contains the whole of it, with additional details supplied by Psalm 19. That is systematic and Biblical. It also suggests objectively that we have all the steps, at least at this level of granularity, e.g. some people break the calling into two parts, an internal and external call. This makes the order easier to defend and understand. Furthermore, the close correspondence with Psalm 19 means that we have both Old and New Testament support for this order.
+
+There are subtleties that demand further investigation, however. It is commonly accepted that sanctification occurs in two parts: positional and progressive. We are instantly sanctified in God’s eyes at the time of salvation, but the changes to our behavior that follow this occur over the course of a lifetime. This bifurcation may also apply to other steps.
+
+The last thing to think about is who is responsible for accomplishing these steps of salvation. 
+The Beatitudes may speak of people showing mercy or being peacemakers, but each step begins and ends with a blessing.
+Each step begins and ends with the grace of God.
+
+## Saving the Church: The Beatitudes as Prophecy
+
 In progress...
