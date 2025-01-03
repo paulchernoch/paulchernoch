@@ -614,8 +614,11 @@ The key words are "on my account". All this depends on us proving our loyalty to
 All these blessings and promises, this great salvation, this “great reward” in heaven that is our glorification – 
 all are contingent on placing our faith specifically in Jesus Christ as our savior.
 
+How does David describe faith in the Lord? His term for placing your faith in the Lord is to fear the Lord.
+
 And how extensive is this salvation? Is it just for this life? No!
-We are told that "the fear of the Lord is clean, **enduring forever**." This salvation is the offer of eternal life.
+We are told that "the fear of the Lord is clean, **enduring forever**." 
+This salvation is the offer of eternal life.
 
 **Beatitude**. We are told two things in this Beatitude: the character of the acceptable believer and the character of the Lord.
 
@@ -638,7 +641,42 @@ That inheritance is eternal life and that belief is faith.
 
 ### Step 4: Repentance
 
-In progress...
+**Psalm 19**. David's faith is shown to be true by what he says next.
+
+#### Moreover, by them is your servant warned; 
+##### in keeping them there is great reward. 
+#### Who can discern his errors?
+###### - Psalm 19:11-12a
+
+The first part of repentance is to be warned of your sin. God tells you exactly what you have done wrong when
+the Holy Spirit convicts you of your sins.
+
+The second part of repentance is to discern your errors. This is to recognize in yourself and admit what you have done wrong.
+
+It is the third part of repentance that is the sticking point. It is tucked in between the first two.
+Who but a person of faith believes that by listening to the Lord, learning of your sins and then admitting them, you will receive a great reward?
+To act on that belief, you must be convinced that God is a loving and forgiving God, otherwise your confession will result only in punishment. 
+
+To heed the Lord’s warnings, of course, requires that you now keep his commands, showing the fruits of true repentance.
+
+**Beatitude**. Jesus tells us there is more to repentance than just believing God is loving and forgiving.
+
+#### Blessed are those who hunger and thirst for righteousness, 
+##### for they shall be satisfied. 
+###### - Matthew 5:6
+
+In some translations, in place of “satisfied” the word is “filled”. 
+True repentance is expressed as a hunger to be that which you are not, namely righteous. 
+It is a gift, thus a person must be filled with a spirit of repentance if they are to sincerely turn around.
+It is not just your actions that must change, but the things you crave in your soul.
+You must begin to pray along with Jesus, "Thy will be done on earth as it is in heaven."
+
+Saint Anselm despised the "Ransom Theory" in which it was thought that Jesus paid a ransom to the devil to reclaim our souls from hell.
+In place of it, he proposed the "Satisfaction Theory". The payment that is due belongs to the Father, not the devil.
+The glory that God deserves yet failed to receive from sinners who oppose him is a debt that must be satisfied.
+Jesus, by going beyond what was required in his own glorifying of his Father, made satisfaction for our sins.
+Yet here, the Lord shows his unselfishness and great love. Though God is the one who deserves to be "satisfied", 
+we who hunger and thirst are the ones who will be satisfied. How amazing is this grace!
 
 ### Step 5: Justification
 
