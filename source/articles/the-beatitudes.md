@@ -804,32 +804,98 @@ We will undergo such dangers, so we need to know He will come for us.
 
 ### Step 8: Perseverance
 
-In progress...
+**Psalm 19**. One part of verse 14 tells us that there is trouble ahead.
 
-### Step 9: Glorification
+#### Let the words of my mouth and the meditation of my heart 
+#### be acceptable in your sight, 
+#### O Lord, my rock and my redeemer.
+###### - Psalm 19:14
 
-In progress...
+We only run to hide behind, atop or inside a rock when we face persecution or hardship. 
+David hid from Saul in a cave. Having been perfected by God, may we persist in all subsequent actions 
+that we may remain "acceptable in \[God’s\] sight", hence persevere.
 
-### Reflections on the Process of Salvation
+**Beatitude**. The hint of persecution in Psalm 19 becomes an overt warning when Jesus speaks.
 
-When I pondered the eighth beatitude, I wondered if it applied only to being persecuted for being a Christian or also to any righteous actions taken by people. 
-Bonhoeffer affirms the latter in his chapter on the Beatitudes in *The Cost of Discipleship*:
+#### Blessed are those who are persecuted for righteousness’ sake, 
+##### for theirs is the kingdom of heaven.
+###### - Matthew 5:10
+
+To pursue a righteous life and promote that way of life to others even in the face of persecution is the essence of perseverance.
+As I pondered this eighth beatitude, I wondered if it applied only to being persecuted for being a Christian or also to 
+any righteous actions taken by people. Bonhoeffer affirms the latter in his chapter on the Beatitudes in *The Cost of Discipleship*:
 
 #### It is important that Jesus gives his blessing not merely to suffering incurred directly 
 #### for the confession of his name, but to suffering in any just cause. 
 #### They receive the same promise as the poor, for in persecution they are their equals in poverty.
 ###### - Dietrich Bonhoeffer
 
+### Step 9: Glorification
+
+**Psalm 19**. On the surface, it would seem that the theme of glory is out of place in our order of salvation, at least
+as it is spoken of in Psalm 19:
+
+#### The heavens declare the glory of God, 
+##### and the sky above proclaims his handiwork… 
+#### O Lord, my rock and my redeemer.
+###### - Psalm 19:1,14d
+
+David put glory first, in the first verse of the psalm. However, that is the glory of God as seen in nature by His actions as Creator. 
+This psalm reveals a second glory. That glory is the glory of God as our Redeemer. 
+That glory comes last, in verse 14. There is a mystery and it is the mystery that Paul revealed. There are many ways that God 
+could have accomplished that redemption but he chose a joyous and unexpected one.
+
+**Beatitude**. What does it mean when Jesus said, "your reward is great in heaven"?
+
+#### Blessed are you when others revile you and persecute you 
+#### and utter all kinds of evil against you falsely on my account. 
+#### Rejoice and be glad, for **your reward is great in heaven**, 
+#### for so they persecuted the prophets who were before you.
+###### - Matthew 5:11
+
+First, this Beatitude ties all the blessings to Jesus' name. It supplies the essential context for salvation.
+
+Second, while the previous Beatitude was about persecution, this one is not. It is about shame.
+Yes, it speaks about persecution - and that persecution may be severe - but the devil's goal and the world's goal
+in that persecution is to heap shame upon Christ and all who follow him. His goal is to rob the Son of God of
+his glory. Because shame is the devil's goal, God counters it by doing the unthinkable...
+
+The answer to what your reward can be may be found by inverting your suffering. 
+
+ - If your name is reviled by the world because you call on Jesus, God will praise your name.
+ - If you endure persecution and suffer pain and loss, God will give you joy and heavenly treasure.
+ - If evil lies are told of you, God will broadcast affirming truths about your faith.
+
+In short, God will glorify you. Being glorified is the opposite of being reviled. The great reward of the church 
+shall the glorification of the saints in heaven in their new bodies and status. 
+That is the great mystery that the Lord gave to Paul to proclaim:
+
+#### I became a minister according to the stewardship from God 
+#### that was given to me for you, to make the word of God fully known, 
+#### **the mystery hidden for ages and generations** but now revealed to his saints.
+#### To them God chose to make known how great among the Gentiles are 
+#### the riches of the glory of **this mystery**, 
+#### which is **Christ in you, the hope of glory**. 
+###### - Colossians 1:25-27
+
+The Psalm begins by extolling the Glory of God. The end result of that Glory is the gracious,
+undeserved glorification of fallen humanity through the divine act of redemption.
+Then Jesus calls this our great reward. But how was this possible? Did not God say this?
+
+#### For my own sake, for my own sake, I do it,
+##### for how should my name be profaned?
+##### **My glory I will not give to another**.
+###### - Isaiah 48:11
+
+If God will not give his glory to another, how can he give His glory to us?
+It is because he does not give us His glory, He gives it to Christ. But He gave us Jesus to live inside us, and 
+God's glory shines forth from Jesus. Thus the Spirit of Jesus in our hearts shines forth his glory
+and because we identify with his name by not rejecting it despite persecution, his glory shines forth from us.
+There is no better outcome in life or in death than to receive such a gift as this.
+
+### Reflections on the Process of Salvation
+
 In Psalm 19, King David prays to the Lord for salvation. In the Beatitudes, Jesus answers David’s prayer, point for point. 
-The Psalm begins by extolling the glory of God, a glory that David dare not ask for himself, for as the prophet said, 
-“My glory I will not give to another.” (Isaiah 48:11b) That is the mystery of God that Paul revealed: 
-
-#### To them God chose to make known how great among the Gentiles 
-#### are the riches of the glory of this mystery, 
-#### which is **Christ in you, the hope of glory**.
-###### - Colossians 1:27
-
-The glorification of the saints is that by Christ entering our hearts to live, though God does not share His glory with us, he shares His son and therefore the glory of God shines out of us by the agency of that indwelling spirit. Thus when David ends by calling upon God as his redeemer, he could not conceive how great that redemption would be! The divine glory of verse 1 would be given to us as a gift through the death of God’s Son.
 
 By this interpretation, we can see that the Beatitudes define the whole process of salvation and sanctification from the initial call to the final glorification of the saints at the time when Christ returns. Why is this helpful? First, wars have been fought over this process. How many steps should there be? In what order should we arrange them? Is there even an order or is it all simultaneous? The various theories rely on assembling clues scattered throughout the Bible and using human logic to fill in the gaps. Any one of the formulations could be right – or none of them. That means that even if the steps are Biblical the system is merely semi-Biblical.
 
