@@ -489,7 +489,7 @@ Before diving into the order of the steps of salvation, a word of clarification.
 In what follows, each Step of salvation is followed by a quote from Psalm 19 that corresponds to that step of salvation and a blessing quoted from Matthew 5 with some commentary.
 By combining David's prayer and Jesus' promise, the association with that step of salvation and its meaning are sharpened.
 
-### Calling
+### Step 1: Calling
 
 Before we even get to the Beatitudes, three of Jesus' initial statements in Matthew relate to calling. First, we have his response to John the Baptist, who
 questioned why Jesus needed to be baptized. His answer was, *"Let it be so now, for thus it is fitting for us to fulfill all righteousness.” *(Matthew 3:15)
@@ -529,49 +529,43 @@ In this Psalm we hear God's call going forth. What does Jesus add to this call?
 This is the call that invites the humble sinner to approach the gates of the kingdom of heaven. 
 They are called to repent, but that repentance does not happen yet.
 
-### Regeneration
+### Step 2: Regeneration
 
-In progress...
+What is regeneration? It is the born again transformation spoken of by the prophet Ezekiel:
 
-### Faith
+#### I will give you a new heart and put a new spirit in you; 
+#### I will remove from you your heart of stone and give you a heart of flesh. 
+#### And I will put my Spirit in you and move you to follow my decrees 
+##### and be careful to keep my laws.”
+###### - Ezekiel 36:26-27
 
-In progress...
+The spirit of death that was in us is replaced by a new and living spirit.
+Your deadened conscience is awakened, terrifying you as you become aware of the depth of your sin 
+because the laws of God are now written on your heart.
+This prepares you for the next step of faith in Jesus Christ.
 
-### Repentance
+**Psalm 19**. David tells us the same thing, but more concisely, calling regeneration the "reviving of the soul":
 
-In progress...
+#### The law of the Lord is perfect, reviving the soul...
+###### - Psalm 19:7a
 
-### Justification
+**Beatitude**. Whereas David speaks of what God shall do, Jesus speaks of the sinner's response.
 
-In progress...
+#### Blessed are those who mourn, 
+##### for they will be comforted. 
+###### - Matthew 5:4
 
-### Sanctification
+The revived soul mourns at a life of offending God and harming neighbors.
+All pretense of being a good person is ripped away and the damage to one's self image is a hard loss to bear.
+You are told that all you have worked for was in vain and of no value. That is cause to mourn.
+The comfort that such a soul needs is the regeneration that brings them to a place where the chains of sin are not so strong that they have
+no possibility of turning to God in faith. The terror of facing God is reduced because of the comforting tone and humble demeanor of the messenger,
+Jesus Christ.
 
-In progress...
+### Step 3: Faith
 
-### Adoption
-
-In progress...
-
-### Perseverance
-
-In progress...
-
-### Glorification
-
-In progress...
-
-### Reflections on the Process of Salvation
-
-When I pondered the eighth beatitude, I wondered if it applied only to being persecuted for being a Christian or also to any righteous actions taken by people. 
-Bonhoeffer affirms the latter in his chapter on the Beatitudes in *The Cost of Discipleship*:
-
-#### It is important that Jesus gives his blessing not merely to suffering incurred directly 
-#### for the confession of his name, but to suffering in any just cause. 
-#### They receive the same promise as the poor, for in persecution they are their equals in poverty.
-###### - Dietrich Bonhoeffer
-
-A few verses from Psalm 19 that were not quoted in the preceding table are magnificent:
+**Psalm 19**. Verses 4-9 tell us so much! As part of the call we are told the identity of the Lord (verse 5), then we are regenerated (verse 7a),
+and finally we turn to Jesus in faith (verse 8-9). 
 
 #### Their voice goes out through all the earth, 
 ##### and their words to the end of the world.
@@ -581,10 +575,24 @@ A few verses from Psalm 19 that were not quoted in the preceding table are magni
 #### Its rising is from the end of the heavens, 
 ##### and its circuit to the end of them, 
 ##### and there is nothing hidden from its heat.
-###### - Psalm 19:4-6
+#### The law of **the Lord** is perfect,
+##### reviving the soul;
+#### the testimony of **the Lord** is sure,
+##### making wise the simple;
+#### the precepts of **the Lord** are right,
+##### rejoicing the heart;
+#### the commandment of **the Lord** is pure,
+##### enlightening the eyes;
+#### the fear of **the Lord** is clean,
+##### enduring forever;
+#### the rules of **the Lord** are true,
+##### and righteous altogether.
+###### - Psalm 19:4-9
 
-These verses tell us not only that a call has gone out from heaven, they tell us who was sent to deliver that message. 
-God has sent a strong man called the Bridegroom, a man full of joy. Who is this Bridegroom? 
+How are we told who was sent to deliver that message?
+First, this passage six times uses the phrase "the Lord", out of the seven times it appears in the body of the Psalm.
+that is our first clue that we are being told something about the identity of the Lord.
+Second, we are told that God has sent a strong man called the Bridegroom, a man full of joy. Who is this Bridegroom? 
 Jesus alludes to the bridegroom in his parable of the Ten Virgins in Matthew 25, but owns the title here:
 
 #### Then the disciples of John came to him, saying, 
@@ -602,8 +610,65 @@ Not until we reach the last Beatitude do we find that the grantor of all these p
 #### persecute you and utter all kinds of evil against you 
 #### falsely **on my account**.
 
+The key words are "on my account". All this depends on us proving our loyalty to Jesus. 
 All these blessings and promises, this great salvation, this “great reward” in heaven that is our glorification – 
 all are contingent on placing our faith specifically in Jesus Christ as our savior.
+
+And how extensive is this salvation? Is it just for this life? No!
+We are told that "the fear of the Lord is clean, **enduring forever**." This salvation is the offer of eternal life.
+
+**Beatitude**. We are told two things in this Beatitude: the character of the acceptable believer and the character of the Lord.
+
+#### Blessed are the meek,
+##### for they will inherit the earth. 
+###### - Matthew 5:5
+
+This blessing of sovereignty over the earth is offered to the meek by the meek. How could Jesus inherit the earth (for it is from he, upon his death, that we inherit it)
+unless he were also meek?
+
+It is the step of faith that causes us to receive our inheritance. And what is that inheritance? It is more than land.
+It is the same thing that is offered in the Psalm. It is what the rich young ruler craved when he asked Jesus, 
+“Good teacher, what must I do to inherit eternal life?” It is what John so memorably declared: 
+
+#### For God so loved the world, that he gave his only Son, 
+##### that whoever believes in him should not perish but have eternal life.
+###### - John 3:16 
+
+That inheritance is eternal life and that belief is faith.
+
+### Step 4: Repentance
+
+In progress...
+
+### Step 5: Justification
+
+In progress...
+
+### Step 6: Sanctification
+
+In progress...
+
+### Step 7: Adoption
+
+In progress...
+
+### Step 8: Perseverance
+
+In progress...
+
+### Step 9: Glorification
+
+In progress...
+
+### Reflections on the Process of Salvation
+
+When I pondered the eighth beatitude, I wondered if it applied only to being persecuted for being a Christian or also to any righteous actions taken by people. 
+Bonhoeffer affirms the latter in his chapter on the Beatitudes in *The Cost of Discipleship*:
+
+#### It is important that Jesus gives his blessing not merely to suffering incurred directly 
+#### for the confession of his name, but to suffering in any just cause. 
+#### They receive the same promise as the poor, for in persecution they are their equals in poverty.
+###### - Dietrich Bonhoeffer
 
 In Psalm 19, King David prays to the Lord for salvation. In the Beatitudes, Jesus answers David’s prayer, point for point. 
 The Psalm begins by extolling the glory of God, a glory that David dare not ask for himself, for as the prophet said, 
@@ -625,6 +690,8 @@ There are subtleties that demand further investigation, however. It is commonly 
 The last thing to think about is who is responsible for accomplishing these steps of salvation. 
 The Beatitudes may speak of people showing mercy or being peacemakers, but each step begins and ends with a blessing.
 Each step begins and ends with the grace of God.
+
+And does that grace only save individuals? No, these Beatitudes prophesy a great, worldwide salvation of the church, of a people called out of the world into a visible kingdom...
 
 ## Saving the Church: The Beatitudes as Prophecy
 
