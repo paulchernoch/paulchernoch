@@ -724,7 +724,7 @@ For so long as sin has **dominion** over the unforgiven soul, no sanctification 
 ##### for they will be shown mercy.
 ###### - Matthew 5:7
 
-We are justified as an act of mercy. However, there is a condition, which tilts the balance back toward the Catholic position.
+We are justified as an act of mercy. However, there is a condition, which tilts the needle back toward the Catholic position.
 It is the merciful who are shown mercy. It is the people who practice forgiveness of others that are forgiven.
 This echoes the Lord's Prayer, which says, "Forgive us our trespasses as we forgive those who trespass against us."
 It also matches the parable of the unforgiving servant, who was forgiven a large debt but then oppressed another servant who owed him much less.
@@ -744,11 +744,63 @@ It is not a trifling idea.
 
 ### Step 6: Sanctification
 
-In progress...
+**Psalm 19**. The sanctified person is blameless and innocent; they have been made holy.
+
+#### Then I shall be blameless, and innocent of great transgression.
+###### - Psalm 19:13cd
+
+**Beatitude**.  Jesus promises us that we shall be blameless and innocent not just of great transgression but of all transgression!
+
+#### Blessed are the pure in heart, 
+##### for they shall see God. 
+###### - Matthew 5:8
+
+Sanctification is the process of being made holy and pure, through and through. 
+In an instant, our position is changed from unsanctified to sanctified. This is "positional sanctification". It is the way God sees us.
+It is monergistic and accomplished entirely by grace.
+
+Then over a lifetime, our attitudes, words and actions are progressively improved until we are perfect in every way. 
+This is "progressive sanctification". It is synergistic, meaning that we cooperate through our actions to further this work.
+
+This bifurcation of sanctification into an instant event and a process means that the next step, Adoption, is really sandwiched in between the two.
+
+As we become holier over the course of our lives, we are able to see God more clearly, not with our physical eyes, but by faith.
+His wisdom and ways become ever clearer. His Word makes more sense. Our conviction of His presence and our coming reward and reception into heaven
+become more certain. This is deeply satisfying. This is the part of our life when the Holy Spirit becomes a real person to us.
 
 ### Step 7: Adoption
 
-In progress...
+**Psalm 19**. As expressed in this psalm, the idea of adoption is weak, in comparison to the other doctrines.
+God is Lord, rock and redeemer, but not Father. The strongest word is "acceptable". Could anyone in David's time
+believe that God's full acceptance would extend to adopting us as His children?
+
+#### be acceptable in your sight, 
+#### O Lord, my rock and my redeemer.
+###### - Psalm 19:14cd
+
+**Beatitude**. Psalm and Beatitude could not be farther apart in clarity. 
+This is THE verse where Jesus introduces the idea that God adopts fallen human beings into his family.
+
+#### Blessed are the peacemakers, 
+##### for they shall be called sons of God.
+###### - Matthew 5:9
+
+This is the most revolutionary statement in the entirety of the Beatitudes!
+To be so at peace with God and so treasured that He would welcome you into His family - what better outcome could there possibly be for your life!
+The world casually presumes that we are all children of God, but the Bible does not back that up.
+
+#### 11 He came to his own, and his own people did not receive him.
+#### **But to all who did receive him, who believed in his name**, 
+#### he gave the right to become children of God, who were born, 
+#### not of blood nor of the will of the flesh nor of the will of man, 
+#### but of God.
+###### - John 1:11-13
+
+Only people people who believe in Jesus' name have the right to become children of God.
+You have to become a child of God; you don't start out that way. That is why you must be born again.
+Why is it important to believe that by faith in Jesus you become a child of God?
+When things get tough, what father will not do everything in his power to rescue one of his children?
+We will undergo such dangers, so we need to know He will come for us.
 
 ### Step 8: Perseverance
 
