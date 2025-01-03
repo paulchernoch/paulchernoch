@@ -51,7 +51,9 @@ It is curious that in the first four Beatitudes, the one to be blessed is descri
 
 That quest is to reap a spiritual harvest and the crop is named in the sixth blessing. The goal of that harvest is the impossible desire that drove Moses on: to see the face of God and live.
 
-Each blessing matches its corresponding phase in the [Harvest Pattern](./harvest-pattern.html). Collectively, these seven constitute the heart that a determined harvester must have if they are to fulfill Jesus’ command to make disciples of all nations. Before we see how this all fits together, there is a longer process of salvation at work: the path to glory.
+Each blessing matches its corresponding phase in the [Harvest Pattern](./harvest-pattern.html). 
+Collectively, these seven constitute the heart that a determined harvester must have if they are to fulfill Jesus’ command 
+to make disciples of all nations. Before we see how this all fits together, there is a longer process of salvation at work: the path to glory.
 
 ## The *Ordo Salutis*: Nine steps from Dishonor to Glory
 
@@ -66,10 +68,10 @@ Psalm 19 and Matthew 5:3-11.
 Why is this significant? You don't need a fancy system based on human logic and many assumptions
 to derive the plan of salvation. You only need the words of Jesus. Also, these are not just any words.
 Before delivering the Beatitudes, Jesus in Matthew has only uttered six sentences. One was to insist that John baptize him.
-Three were addressed to the devil. One was to call people to repent. The sixth one was to call Simon and Andrew to be his disciples.
+Three were addressed to the devil during his temptation. One was to call people to repent. The sixth one was to call Simon and Andrew to be his disciples.
 Thus these Beatitudes are Jesus' first major teaching. Isn't it fitting that they tell people, step by step, the way to be saved?
 
-Both passages have all nine steps. The only difference between these two passages is that
+Both Psalm 19 and Matthew 5 list all nine steps. The only difference between these two passages is that
 Adoption falls between Perseverance and Glorification in Psalm 19 and between Sanctification and Perseverance in Matthew 5.
 Since the reference to Adoption in Psalm 19 is subtle and appears in the same verse as the references to perseverance and glory,
 the clear and unambiguous listing of Matthew will be considered definitive. Here is that order:
@@ -92,8 +94,8 @@ The Bible also tells a more complicated story. The world as nations and peoples 
 has also cried out for someone to show them the way of salvation on a larger scale than just individuals. 
 Jesus has told us how he will save that part of the world that turns to him in faith. 
 The Beatitudes prophesy ten eras in the history of the church. Each Beatitude shouts the cry for help of one era 
-in the history of the church. The blessing in that Beatitude names the relief that the Lord promised to send in the following era.
-The final beatitude prophesies a blessed tenth time when there will be no more suffering, and that will be when Jesus returns.
+in church history. The blessing in that Beatitude names the relief that the Lord promised to send in the following era.
+The ninth and final beatitude prophesies a blessed tenth time when there will be no more suffering, and that will be when Jesus returns.
 
 As for David, his very prayer was a prophecy that can be used to identify the one who would answer it.
 Before we get to that, though, let's perform some accounting.
@@ -132,6 +134,15 @@ Each triplet of Beatitudes and their corresponding step toward salvation has one
   - The Son teaches the prayer of **repentance**, the Father **justifies**, and the Spirit **sanctifies**
   - The Father **adopts**, the Spirit enables **perseverance**, and the Son **glorifies** - *when he comes on that day to be **glorified** in his saints* (2 Thessalonians 1:10)
 
+In truth, all three persons participate in all phases, but one dominates each. For example, the sixth statement by Jesus and the last before the Beatitudes was Jesus calling his first 
+disciples. So Jesus is the one who calls, but the choice of whom to call was made by the Father, who gave them to him (John 10:29,17:9).
+Likewise, we are saved by faith in Jesus as our savior, but it is the Father who gives us that faith, for it is said:
+
+#### Every good gift and every perfect gift is from above, 
+#### coming down from the **Father of lights**, 
+#### with whom there is no variation or shadow due to change.
+###### - James 1:17
+
 **The Law**. Fourth, though there are nine Beatitudes, the last one is extra long. Each Beatitude corresponds to one of the Ten Commandments, 
 but the last one matches two (against lying and covetousness). This begins the transformation of a law that brings death into one the brings eternal life.
 
@@ -144,12 +155,18 @@ So back we go to the Harvest Pattern.
 
 ## The Harvest Pattern of the Beatitudes
 
+The Bible is filled with patterns and it is important to keep them straight. 
+
+  - The Growth Pattern of Solomon is a strategic pattern that covers your entire life. You live through it twice: once materially (life "under the sun") and once spiritually (as salvation followed by sanctification).
+  - The Harvest Pattern of Jesus is a tactical pattern. You reap many harvests in your life, and often they overlap. An individual harvest may last weeks, months, years or even decades. To successfully complete each step or phase of the Growth Pattern requires working through a separate harvest.
+  - The Ordo Salutis is a hybrid pattern. The first seven steps form a Harvest Pattern and are strategic. They carry you through salvation up to the first steps of sanctification. The final two steps of perseverance and glorification represent the completion of your sanctification across the majority of your faith life. Thus this pattern bridges both scales, tactical and strategic.
+
 As a refresher, the Harvest Pattern has these steps:
 
- 1. Preparation (of faith in the Lord and respect for the Law)
+ 1. Preparation (of faith in the Lord, respect for the Law, and deciding on what crop to grow this season)
  2. Plowing (of Suffering)
  3. Planting Seeds (of Gospel truth by the Son)
- 4. Pouring Water (of the Holy Spirit)
+ 4. Pouring Water (of emotional help and counsel by the Holy Spirit)
  5. Plucking Weeds (as discipline from the Father)
  6. Producing a Harvest
  7. Peace
@@ -157,5 +174,308 @@ As a refresher, the Harvest Pattern has these steps:
 This pattern is defined by Jesus in Matthew. It is employed structurally at least seventeen times in Matthew, from the overall outline
 of the whole book to the structure of short passages. The pattern's most complete realization is the overall structure of the Book of Job.
 
+### Preparation: The Poor in Spirit
+
+The poor in spirit have set aside their pride. They have been called upon to repent of their sins so that they may enter the kingdom of heaven and they now recognize the sovereignty of their new king. How do we know that this is the preparation for the harvest? We know this first because of what Matthew says about John the Baptist:
+
+#### In those days John the Baptist came preaching in the wilderness of Judea,
+##### “**Repent**, for **the kingdom of heaven** is at hand.” 
+#### For this is he who was spoken of by the prophet Isaiah when he said, 
+##### “The voice of one crying in the wilderness:
+###### ‘**Prepare** the way of the Lord;
+###### make his paths straight.’” 
+###### - Matthew 3:1-3, ESV
+
+We know this second because when Jesus began his ministry, his first words in the Gospel of Mark were, 
+*“The kingdom of God has come near. Repent and believe the good news!”*
+
+So to prepare for the harvest, you must consider all that you have to be worthless and seek from God a place in His kingdom. 
+You must listen to the first of the Seven Spirits of God, the Spirit of Lordship, 
+and take the first steps towards crowning him as the king of your life.
+
+### Plowing: The Mournful
+
+The second Spirit of God from Isaiah 11:2 is the Spirit of Wisdom; it is the spirit that guides us during the plowing phase. 
+Solomon said, *“The heart of the **wise** is in the **house of mourning**, but the heart of fools is in the house of mirth.” (Ecclesiastes 7:4, ESV)* 
+Wisdom flows from mourning – if you receive that suffering in faith and patience and do not deny your Lord. 
+Apart from Jesus, no one better exemplifies the miracles that mourning in faith can yield than Job.
+
+Why do we mourn? We mourn because we have lost something. Job learned of his first loss when he received word from a messenger 
+that his cattle had been stolen by raiders while *“the oxen were plowing”* (Job 1:14) 
+Ever since then, plowing has been used as an analogy for suffering or judgment, 
+as in Psalm 129:3 (*“Plowmen have plowed my back and made their furrows long”*), Jeremiah 26:18, Hosea 12:11, Micah 3:12, Isaiah 28:22-29 and Ezekiel 36:9. 
+Ezekiel’s usage is powerful and on point, because it shows that even God’s judgment is intended to produce a blessing in the end. 
+Ezekiel includes five of the seven phases of the Harvest and collapses the other two into one:
+
+#### “ ‘But you, mountains of Israel, will produce branches and fruit for my people Israel, 
+#### **for they will soon come home**. I am concerned for you and will look on you with favor; 
+#### you will be **plowed and sown**, and I will cause many people to live on you—yes, all of Israel. 
+#### The towns will be inhabited and the **ruins rebuilt**. I will **increase** the number of 
+#### people and animals living on you, and they will be **fruitful** and become numerous. 
+#### I will settle people on you as in the past and will make you prosper more than before. 
+#### Then you will know that I am the LORD. I will cause people, my people Israel, to live on you. 
+#### They will possess you, and you will be their inheritance; 
+#### **you will never again deprive them of their children**.
+###### - Ezekiel 36:8-12, NIV
+
+The words *“for they will soon come home”* mean more that a return from exile, they mean repenting and returning to faith in God, 
+the **preparation** for all that would follow, the first phase. Next we see that the land would be “plowed” which matches 
+the second phase of **plowing** perfectly. After that it will be “sown”, matching the third phase of **sowing** seed. 
+Then Ezekiel combines the **pouring** and **plucking** phases in the phrase “ruins rebuilt”. 
+The sixth phase of **producing** a harvest is captured by words like “increase” and “fruitful”. 
+Finally, the perpetual blessing of **peace** upon the generations to follow is captured by the promise 
+*“you will never again deprive them of their children”*. Of all the calamities that struck Job, the loss of his children was the hardest to bear, 
+so this is the greatest of promises.
+
+Isaiah’s word to the mournful focuses on the despairing attitude that the torment of plowing will never end.
+
+#### Now stop your mocking, or your chains will become heavier;
+#### the Lord, the LORD Almighty, has told me
+#### of the destruction decreed against the whole land.
+#### Listen and hear my voice;
+#### pay attention and hear what I say.
+#### **When a farmer plows for planting, does he plow continually?**
+#### **Does he keep on breaking up and working the soil?**
+#### When he has leveled the surface,
+#### **does he not sow** caraway and scatter cumin?
+#### **Does he not plant wheat** in its place,
+#### **barley** in its plot, and **spelt** in its field?
+#### **His God instructs him and teaches him the right way**.
+#### Caraway is not **threshed** with a sledge,
+#### nor is the wheel of a cart rolled over cumin;
+#### caraway is **beaten** out with a rod,
+#### and cumin with a stick.
+#### **Grain must be ground to make bread**;
+#### **so one does not go on threshing it forever**.
+#### The wheels of a threshing cart may be rolled over it,
+#### but one does not use horses to grind grain.
+#### **All this also comes from the LORD Almighty**,
+#### **whose plan is wonderful**,
+#### **whose wisdom is magnificent**. 
+###### - Isaiah 28:22-29, NIV
+
+Isaiah speaks of plowing, sowing, threshing and producing bread. He speaks of the magnificence of God’s wisdom 
+and how he instructs us in the right way. The plowing does not last forever. 
+As Jesus promised, the one who mourns will be comforted.
+
+### Planting: The Meek
+
+In the planting phase, what is planted is the seed of the gospel. How does that tie in with “Blessed are the meek”? How does that connect to inheriting the earth? Let’s start with the second. Among the people of this world, who conquers nations and extends their influence? It is the arrogant and greedy, the charismatic liars who gather multitudes to their cause, wage endless wars and build empires. How does Jesus stack up? In the desert, Satan tempted Jesus by offering him all the kingdoms of the earth in exchange for his worship. (Matthew 4:8-10) Jesus said no. He would go by what was written. He would only worship the Lord God. That was meekness. One day Jesus will return to conquer, but on the Father’s timetable, not his own or Satan’s. Thus an essential part of following the Beatitudes is to submit to God’s timing. This is emphasized in the psalm to which Jesus was referring when he pronounced his blessing:
+
+#### **Be still before the Lord and wait patiently for him**;
+##### fret not yourself over the one who prospers in his way,
+##### over the man who carries out evil devices!
+#### Refrain from anger, and forsake wrath!
+##### Fret not yourself; it tends only to evil.
+#### For the evildoers shall be cut off,
+##### **but those who wait for the Lord shall inherit the land**.
+###### - Psalm 37:7-9, ESV
+
+To be still and wait patiently upon the Lord and to turn away from human anger to acquire what we desire 
+is the very definition of what it is to be meek. A more pointed association to meekness is found in the life of Moses:
+
+#### Now the man Moses was very **meek**, 
+##### more than all people who were on the face of the earth.
+###### - Numbers 12:3, ESV
+
+Moses complained that he was *“slow of speech and tongue”* (Exodus 4:10). Planting is about taking the words God gives you 
+and speaking them to others so that they may be planted and flourish. Moses was the Lawgiver par excellence. 
+In meekness he planted. Did he inherit the land? God told Moses that he would die before reaching the Promised Land. 
+Instead, his successor Joshua would inherit the land:
+
+#### Be strong and courageous, for you shall cause this people 
+#### to **inherit the land** that I swore to their fathers to give them.
+###### - Joshua 1:6, ESV
+
+Many of the heroes of faith had to be content to look from afar on the things that they would not inherit until the final resurrection. (Hebrews 11:13-16). 
+However, before we inherit the earth, we inherit something of greater importance:
+
+#### And as he was setting out on his journey, a man ran up 
+#### and knelt before him and asked him, 
+##### “Good Teacher, what must I do to **inherit eternal life**?” 
+#### And Jesus said to him, 
+##### “Why do you call me good? No one is good except God alone.”
+###### - Mark 10:17-18, ESV
+
+Goodness is generosity, and Jesus, our “Good Teacher”, generously gives eternal life to all who come to him in meekness. 
+Not only does he give, but he presents a calm and reassuring demeanor so as not to scare off those 
+who come to him in need (Job 16:19-21; 33:6-7):
+
+#### Come unto me, all ye that labour and are heavy laden, 
+##### and I will give you rest. 
+#### Take my yoke upon you, and learn of me; 
+##### **for I am meek and lowly in heart**: 
+##### and ye shall find rest unto your souls. 
+#### For my yoke is easy, 
+##### and my burden is light. 
+###### - Matthew 11:28-30, KJV
+
+The meek can go to Jesus in safety because Jesus is not only meek, he is strong enough to protect 
+those who run to him from all enemies in pursuit; he is a king. 
+And if you are too weak to go to him, he will come to you. The doctor makes house calls:
+
+#### Tell ye the daughter of Sion, 
+##### Behold, **thy King cometh unto thee, meek**, 
+##### and sitting upon an ass, 
+##### and a colt the foal of an ass.
+###### - Matthew 21:5, KJV
+
+The spirit that attends this third harvest phase is the Spirit of Understanding. To understand is to “stand under”, 
+learning in humility the Word that proceeds from our good teacher. It is to learn through worship the mysteries of God. 
+This was not obvious to me.
+
+This is a good time to speak about the three kinds of insight that sound the same but aren’t: wisdom, understanding and knowledge. 
+They are respectively the second, third and sixth Spirits of God.
+
+**Wisdom**. Wisdom flows from suffering. Out of Job’s suffering he discovered all the qualities that he needed in a savior. 
+He needed a healer, a friend and mediator, one who could ransom his soul, follow him into the grave and raise him from the dead. 
+There are many dimensions to wisdom but it tends to encompass principles, not detailed action plans. 
+ey among these principles is grasping the way of salvation.
+
+**Knowledge**. This species of insight goes beyond wisdom down into the details of how God’s universe operates. Of all the subjects of knowledge, one is supreme: the knowledge of the Holy One.
+
+#### The fear of the Lord is the beginning of wisdom,
+##### and the **knowledge of the Holy One** is insight.
+###### - Proverbs 9:10
+
+#### I have not learned wisdom, 
+##### nor have I **knowledge of the Holy One**.
+###### - Proverbs 30:3
+
+The truest and highest knowledge is the knowledge of Jesus Christ. As first reported in *Peace, like Solomon Never Knew*, 
+seven books of the Bible constitute the seven pillars of wisdom which hold up Lady Wisdom’s house in Proverbs 9:1. 
+The sixth of those books, corresponding to the sixth spirit and the sixth phase of the Harvest Pattern, is the Gospel of Matthew. 
+You will find no better source for knowledge of the Holy One than one of the Gospels that chronicles his life.
+
+**Understanding**. How is understanding connected to worship? The answer came to me in pieces.
+
+ - First, it came to me through worship. 
+ - Second, through a nagging question. 
+ - Third, through the discovery of the seven pillars of wisdom and their relationship to the seven Spirits of God.
+
+*Worship*. From January to June 1988, I spent time every day reading, meditating and praying over the Book of Proverbs. 
+Towards the end, I began to relate to the text in a new way. I began to worship Jesus through Proverbs. 
+I reasoned that the wise principles in that book describe how Jesus thinks and acts. They express his values and his priorities.
+With each proverb I learned, I was getting to know my savior more. Before that, to worship God I would have turned to the Psalms. 
+This change in me means that I had absorbed with partial awareness the connection between worship and understanding.
+
+*A nagging question*. I have always loved the story of Joshua meeting the man with the drawn sword.
+
+#### When Joshua was by Jericho, he lifted up his eyes and looked, and behold, 
+#### **a man was standing before him with his drawn sword in his hand**.
+#### And Joshua went to him and said to him, 
+##### “Are you for us, or for our adversaries?” 
+### And he said, 
+##### “No; but I am the commander of the army of the Lord. Now I have come.”
+#### **And Joshua fell on his face to the earth and worshiped** and said to him, 
+##### “What does my lord say to his servant?” 
+#### And the commander of the Lord's army said to Joshua, 
+##### “Take off your sandals from your feet, for the place where you are standing is holy.” 
+#### And Joshua did so.
+###### - Joshua 5:13-15, ESV
+
+Many Christians believe that the swordsman was the pre-incarnate Christ. The question is, how did Joshua know? 
+What changed his mind in an instant about this total stranger? The man is not described as glowing or special in any way. 
+No miraculous sign was given. When I finally had the sense to investigate this question, the first clue was the word “worship”. 
+A short time later, Jericho would fall as the Israelites blew trumpets and marched about the city, worshiping Yahweh. There is power in worship.
+Only when I got curious about the use of swords as symbolism in Scripture did I crack this mystery. 
+I reported my discovery in “Swords, Seals & Surviving to Saturday” in my book *Peace, like Solomon Never Knew*. 
+It turns out that Moses prophesied this event in his final song:
+
+#### **“‘See now that I, even I, am he,**
+##### **and there is no god beside me;**
+#### **I kill and I make alive;**
+##### **I wound and I heal;**
+##### and there is none that can deliver out of my hand.
+#### For I lift up my hand to heaven
+##### and swear, As I live forever,
+#### if **I sharpen my flashing sword**
+##### and my hand takes hold on judgment,
+#### I will take vengeance on my adversaries
+##### and will repay those who hate me.
+#### I will make my arrows drunk with blood,
+##### **and my sword shall devour flesh**—
+#### with the blood of the slain and the captives,
+##### from the long-haired heads of the enemy.’
+###### - Deuteronomy 32:39-42
+
+This amazing song prophesied a time when the Lord would draw His sword and fight for his people. 
+He is described as one who can bring people back to life. When Moses delivered this prophecy, 
+who heard it, how important did he say that it was, and when did he say that it would take place?
+
+#### **Moses came and recited all the words of this song in the hearing of the people,**
+#### **he and Joshua the son of Nun.** And when Moses had finished speaking 
+#### all these words to all Israel, he said to them, 
+##### “Take to heart all the words by which I am warning you today, 
+##### that you may command them to your children, that they may be careful to do 
+##### all the words of this law. **For it is no empty word for you**, 
+##### **but your very life, and by this word you shall live long in the land** 
+##### **that you are going over the Jordan to possess**.”
+###### - Deuteronomy 32:44-47
+
+Joshua was there! The Bible makes it crystal clear that Joshua not only heard the words, but he helped recite the words for the people to hear. 
+Moses said that the words would be important when they crossed the Jordan and that is when they met the man with the drawn sword.
+
+Those words of Moses were a worship song. Because Joshua was a man who worshiped God, he took his marching orders from a song. 
+The understanding of who that swordsman was came through worship.
+
+*The Seven Pillars of Wisdom*. Once I discovered the Seven Pillars of Wisdom and attempted to match each one of 
+the Seven Spirits of God to a pillar book, the riddle of what understanding means became clear. 
+In the ESV, the words understand, understands and understanding appear 43 times in Proverbs, the most of any book in the Bible. 
+The clincher is in Proverbs 9, which tells us of the existence of the Seven Pillars (Proverbs 9:1) in the context of worship:
+
+#### “Come, eat of my **bread**
+##### and drink of the **wine** I have mixed.
+#### Leave your simple ways, and live,
+##### and walk in the way of insight.”
+###### - Proverbs 9:5-6
+
+Does this not remind you of the Christian communion celebration? Therefore to obtain deep understanding of the ways of God, you must worship Him in spirit and in truth.
+
+### Pouring: The Hungry & Thirsty
+
+What does it mean to hunger and thirst after righteousness? 
+It means to desire holiness in your own life and justice and equity in all your dealings with others. 
+In the economic Trinity:
+
+ - *The Planting Phase* was focused on the work of the Son because he is the Word of God, hence is both sower and seed. His domain is the mind and speech.
+ - *The Plucking Phase* will focus on the work of the Father. His domain is the physical realm of action, forming habits, defining priorities and managing time.
+ - *This Pouring Phase* is focused on the work of the Holy Spirit which is often symbolized by water, as in baptism. His domain is the heart and its passions, desires and dreams. Naturally, the Holy Spirit is all about holiness. The Spirit is our Counselor (or Comforter, Advocate, Intercessor, Strengthener, Standby, Helper, or Companion, as variously rendered by different translations for John 14:16), encouraging, advising, warning and convicting our souls. The prophets are types of the Holy Spirit. They, like the Spirit, do not speak their own words but instead apply and interpret the words of the Son in each given situation.
+
+To manage this special focus on counseling, this phase is governed by the fourth Spirit of God, the Spirit of Counsel. Thus when Jesus says that those who hunger and thirst for righteousness will be satisfied or filled, it is with the Holy Spirit that he intends to fill them. He uses that imagery of drinking because as the Holy Spirit is represented as water, one who drinks deeply is filled, just as Jesus said to the woman at the well, with living water. Jesus uses the imagery of hungering because he later calls himself the bread of life, the bread broken for his disciples. It is disciples of Jesus who will be filled.
+
+The essential truth to be learned here is that it is not willpower, hard work, ingenuity, conscientiousness, discipline, genius, education or any other admirable human quality that will fuel this drive toward holiness. It is hunger and thirst, the humble admission of need. The enemy is junk food, the food of this world that does not nourish your soul. If you feed perpetually on that food your belly will be full but your soul will wither from lack of nutrition.
+
+In the parable of the soils, the Pouring Phase matches the rocky soil that offers no protection form the sun. Only regular irrigation by the Holy Spirit can protect you from the heat of persecution or hardship and soften that rocky heart until it is a heart of flesh. Yet ponder the image of the sun. The trampled soil could not protect the seed from the bird, who is Satan. The sun is not Satan – it is the glory of God. The Old Testament often said that no one can see the face of God and live. We cannot withstand the withering gaze of all that energy pouring from the throne. We need the refreshment of the Holy Spirit to come between us and that glory so that we are not dried out and set ablaze. With that living water in us, we can photosynthesize the light and put it to productive use as we grow toward maturity.
+
+### Plucking: The Merciful
+
+The merciful take tangible action to help their neighbor. They move in the material plane, the domain of the Father. Their mercy towards men shall be rewarded with greater mercy from God. Yet I wonder, does this beatitude conceal a riddle?
+
+The fifth spirit of God is the Spirit of Might. God plucks thorns and weeds and prunes dead branches from us to make us fruitful. Those thorns and weeds are the distractions of life, like pleasure, wealth, worry and all the rest. If your time and energy are not wasted on unproductive or sinful pursuits, then you will have more strength to devote to the things that please God and expand His kingdom. You will become mighty. Your life will make an impact. Having not squandered your money on idle pursuits, you will have resources to devote to acts of mercy.
+
+The various translations of this beatitude say that the merciful will receive, be shown, obtain or get mercy, kindness or loving-kindness. I do not believed that such divine kindness is meant to end there. The Father is our teacher. When he shows us kindness He is also showing us how to be kind. He is teaching us the depths of mercy and imparting creative ways to bless our neighbor. How many charities have been started by Christians over the centuries? How many new ways to help have we discovered? We send teachers, we send doctors, we rescue orphans, we advocate for prisoners… God is forever opening our eyes to see what mercy is and how we can change to offer it. Mercy is not obvious or else the world would not have needed the church to teach it to them. That is the riddle.
+
+#### The righteous care for the needs of their animals, 
+##### but the kindest acts of the wicked are cruel.
+###### - Proverbs 12:10, NIV
+
+The wicked think that the best help for people suffering pain or depression is euthanasia. The wicked think that the best help for a woman with an unwanted pregnancy is to abort the child. The wicked think that the best way to combat the drug trade is to legalize drugs. The wicked think that the best way to serve failing students is to give them passing grades so they don’t feel bad. The wicked think that denying African nations loans to build low cost energy infrastructure as a means to save the environment is kind even if it costs the lives of millions dying or being unable to get jobs for lack of access to inexpensive electricity. The wicked think that mining rare metals is so important to their rich lifestyle that it is kind to do it using child or slave labor. The wicked think that dangerous drugs and surgeries can turn women into men and men into women in the hope of reducing suicides among people confused about their gender, when research shows that the opposite occurs, plus life threatening complications. Unwise and uncaring social policies, promulgated in the name of helping people, pass for the world’s idea of kindness. That kindness is cruel. We need God to teach us what true mercy is. Those who start down that road by following what is already clear in the Bible will be led down new paths that deliver greater depths of mercy to the poor who are desperate to receive it. 
+
+### Producing: The Pure in Heart
+
+The sixth spirit of God is the Spirit of Knowledge. It is the knowledge of the Holy One. One who is pure in heart has a holy heart. The blessing that they receive is to see God. Everyone in the audience that day when Jesus preached the Sermon on the Mount saw the face of a man. If any of them already had a pure heart, they would know that they were also looking at the face of God. It is not God’s absence that prevents us from seeing His face, it is our hearts. One who has pursued the previous blessings with great hunger and thirst and mercy will arrive at this stage with eyes that can perceive that face aright.
+
+#### For God, who said, 
+##### “Let light shine out of darkness,” 
+#### has shone in our hearts to give the light of  
+#### **the knowledge of the glory of God in the face of Jesus Christ**.
+###### - 2 Corinthians 4:6
+
+As we allow the Holy Spirit to lead us in repentance and wash us of all moral filth, our eyes will be cleaned of their filth and we shall see Jesus as he truly is. Just getting to the place where I realized that the pursuit of God’s glory is of first importance took me over twenty-five years. May it take you less time than I!
+
+### Peace: The Peacemakers
+
+After you bring in a harvest at the end of the season, you can enjoy peace. In the harvest of the Beatitudes, we see the goodness of God at work. The human posture is that at the end of a harvest, you store your surplus away in barns and celebrate. Since the crops are yours, the peace is yours, too. Not so! We are called to be peacemakers. We must share our peace with others. That is evangelism, because our crop is souls. Without sharing the gospel with others, we have no crop! After we do share our peace, we can be called “sons of God”.
 
 In progress...
