@@ -77,7 +77,7 @@ These are the first seven Beatitudes:
 #### Blessed are those who hunger and thirst for righteousness, 
 ##### for they shall be satisfied.
 #### Blessed are the merciful, 
-#### for they shall receive mercy.
+##### for they shall receive mercy.
 #### Blessed are the pure in heart, 
 ##### for they shall see God.
 #### Blessed are the peacemakers, 
@@ -185,7 +185,7 @@ Likewise, we are saved by faith in Jesus as our savior, but it is the Father who
 ###### - James 1:17
 
 **The Law**. Fourth, though there are nine Beatitudes, the last one is extra long. Each Beatitude corresponds to one of the Ten Commandments, 
-but the last one matches two (against lying and covetousness). This begins the transformation of a law that brings death into one the brings eternal life.
+but the last one matches two (against lying and covetousness). This begins the transformation of a law that brings death into one that brings eternal life.
 
 From the preceding, we can conclude that it is specifically the Trinitarian God that saves people, with all three persons cooperating seamlessly 
 in the process.
@@ -378,7 +378,7 @@ They are respectively the second, third and sixth Spirits of God.
 **Wisdom**. Wisdom flows from suffering. Out of Job’s suffering he discovered all the qualities that he needed in a savior. 
 He needed a healer, a friend and mediator, one who could ransom his soul, follow him into the grave and raise him from the dead. 
 There are many dimensions to wisdom but it tends to encompass principles, not detailed action plans. 
-ey among these principles is grasping the way of salvation.
+Key among these principles is grasping the way of salvation.
 
 **Knowledge**. This species of insight goes beyond wisdom down into the details of how God’s universe operates. Of all the subjects of knowledge, one is supreme: the knowledge of the Holy One.
 
@@ -416,7 +416,7 @@ This change in me means that I had absorbed with partial awareness the connectio
 ##### “Are you for us, or for our adversaries?” 
 #### And he said, 
 ##### “No; but I am the commander of the army of the Lord. 
-#### Now I have come.”
+##### Now I have come.”
 #### **And Joshua fell on his face to the earth and worshiped** 
 #### and said to him, 
 ##### “What does my lord say to his servant?” 
@@ -553,7 +553,7 @@ the association with that step of salvation and its meaning are sharpened.
 
 Before we even get to the Beatitudes, three of Jesus' initial statements in Matthew relate to calling. 
 First, we have his response to John the Baptist, who questioned why Jesus needed to be baptized. 
-His answer was, *"Let it be so now, for thus it is fitting for us to fulfill all righteousness.” *(Matthew 3:15)
+His answer was, *"Let it be so now, for thus it is fitting for us to fulfill all righteousness.”* (Matthew 3:15)
 This tells us that we are called to righteousness.
 
 Second, we have the summary given to Jesus' initial preaching:
@@ -866,7 +866,7 @@ As we become holier over the course of our lives, we are able to see God more cl
 His wisdom and ways become ever clearer. His Word makes more sense. Our conviction of His presence and our coming reward and reception into heaven
 become more certain. This is deeply satisfying. This is the part of our life when the Holy Spirit becomes a real person to us.
 
-**Commandment**. *You shall not murder.*.
+**Commandment**. *You shall not murder.*
 
 The darkest mark on any soul is murder, as King David knew well:
 
@@ -900,7 +900,7 @@ This is the most revolutionary statement in the entirety of the Beatitudes!
 To be so at peace with God and so treasured that He would welcome you into His family - what better outcome could there possibly be for your life!
 The world casually presumes that we are all children of God, but the Bible does not back that up.
 
-#### 11 He came to his own, and his own people did not receive him.
+#### He came to his own, and his own people did not receive him.
 #### **But to all who did receive him, who believed in his name**, 
 #### he gave the right to become children of God, who were born, 
 #### not of blood nor of the will of the flesh nor of the will of man, 
