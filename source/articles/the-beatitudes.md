@@ -21,6 +21,26 @@ of just the prophetic content of the Beatitudes.
 
 <hr/>
 
+<div class="sections">
+
+To quickly jump to each section:
+
+  <ol>
+    <li> <a href="#1">Admitting that You Need Help</a> </li>
+    <li> <a href="#2">The Ordo Salutis: Nine steps from Dishonor to Glory</a> </li>
+    <li> <a href="#3">Numbering the Beatitudes</a> </li>
+    <li> <a href="#4">The Harvest Pattern of the Beatitudes</a> </li>
+    <li> <a href="#5">The Ordo Salutis according to Jesus</a> </li>
+    <li> <a href="#6">Saving the Church: The Beatitudes as Prophecy</a> </li>
+    <li> <a href="#7">A Little Math</a> </li>
+  </ol>
+
+</div>
+
+<hr/>
+
+<span id="1"/>
+
 ## Admitting that You Need Help
 
 Decades ago I was sitting in a seminar related to my job. It had something to do with self-improvement and was based on ideas taken from psychology. The goal may have been to foster stronger teams in the workplace but the focus was on individual effort and advancement. Minutes before, the facilitator put up a slide on the projector with the neat and tidy steps that would get you to the goal. I had no background in this area, had taken no classes in psychology and human development and do not recall having read books related to the subject. All I had was an analytical mind and no sense of boundaries or the following of social norms, courtesy of my as yet undiagnosed Asperger’s. Give me a list and I will do four things. First, I will count it. Second, I will decide if any of the items are wrong or do not belong. Third, I will decide if any of them are out of sequence. Fourth and most difficult, I will search for holes. Are any steps in the process missing?
@@ -54,6 +74,8 @@ That quest is to reap a spiritual harvest and the crop is named in the sixth ble
 Each blessing matches its corresponding phase in the [Harvest Pattern](./harvest-pattern.html). 
 Collectively, these seven constitute the heart that a determined harvester must have if they are to fulfill Jesus’ command 
 to make disciples of all nations. Before we see how this all fits together, there is a longer process of salvation at work: the path to glory.
+
+<span id="2"/>
 
 ## The *Ordo Salutis*: Nine steps from Dishonor to Glory
 
@@ -99,6 +121,8 @@ The ninth and final beatitude prophesies a blessed tenth time when there will be
 
 As for David, his very prayer was a prophecy that can be used to identify the one who would answer it.
 Before we get to that, though, let's perform some accounting.
+
+<span id="3"/>
 
 ## Numbering the Beatitudes
 
@@ -152,6 +176,8 @@ in the process.
 Now that we have introduced two key structures in the Beatitudes, the Harvest Pattern and the Ordo Salutis, it is time for a deep dive.
 The rest of this article will show, verse by verse, how these ideas connect to the passage and what that means for Christians.
 So back we go to the Harvest Pattern.
+
+<span id="4"/>
 
 ## The Harvest Pattern of the Beatitudes
 
@@ -489,6 +515,8 @@ As we allow the Holy Spirit to lead us in repentance and wash us of all moral fi
 ### Peace: The Peacemakers
 
 After you bring in a harvest at the end of the season, you can enjoy peace. In the harvest of the Beatitudes, we see the goodness of God at work. The human posture is that at the end of a harvest, you store your surplus away in barns and celebrate. Since the crops are yours, the peace is yours, too. Not so! We are called to be peacemakers. We must share our peace with others. That is evangelism, because our crop is souls. Without sharing the gospel with others, we have no crop! After we do share our peace, we can be called “sons of God”.
+
+<span id="5"/>
 
 ## The *Ordo Salutis* according to Jesus
 
@@ -1007,6 +1035,8 @@ Each step begins and ends with the grace of God.
 
 And does that grace only save individuals? No, these Beatitudes prophesy a great, worldwide salvation of the church, of a people called out of the world into a visible kingdom...
 
+<span id="6"/>
+
 ## Saving the Church: The Beatitudes as Prophecy
 
 As I was researching my next book (which shall be on discipleship), I discovered that the nine Beatitudes present the same 
@@ -1092,6 +1122,8 @@ This clock shows that God's Word is shaping the history of the world according t
 His sovereignty is supreme and no power on earth or in the heavens or the depths can slow his plan down.
 Jesus is coming soon. Maranatha!
 
+<span id="7"/>
+
 ## A Little Math
 
 Assuming that there are skeptical people out there, how likely is it that the prophetic pattern just described arose from chance or 
@@ -1117,7 +1149,7 @@ of church history for each salvation step?
 Lets work backwards. The ninth era has not yet begun, so we start with the eighth.
 
  - **8. Perseverance and Persecution**. Half of all Christians who were ever martyred died in the 20th century, by far the worst era of all. **Check**.
- - **7. Adoption and Peacemakers.**. The problem era had the General Crisis, including the Thirty Years War, the worst civil war in Christendom. The outcome was the beginning of religious freedom, starting with the Peace of Westphalia. Then the promised relief in the next generation, the blessing era, being called sons of God (hence adopted), triggered the unprecedented movements to abolish slavery, advance women's rights, and oppose racism. This occurred after the doctrine of adoption had been neglected by theologians for over a millennium. **Check**.
+ - **7. Adoption and Peacemakers.** The problem era had the General Crisis, including the Thirty Years War, the worst civil war in Christendom. The outcome was the beginning of religious freedom, starting with the Peace of Westphalia. Then the promised relief in the next generation, the blessing era, being called sons of God (hence adopted), triggered the unprecedented movements to abolish slavery, advance women's rights, and oppose racism. This occurred after the doctrine of adoption had been neglected by theologians for over a millennium. **Check**.
  - **6. Sanctification.** In the problem era, theologians worked out the difference between justification and sanctification. The blessing era saw the advent of Pietism, Methodism and the Great Awakening. This outpouring of the Holy Spirit was unparalleled since the time of Pentecost, and it would produce the change of heart that ultimately led to abolition, democracy and other improvements. **Check**.
  - **5. Justification and mercy.** The problem era saw movements of people showing mercy to one another, like the Peace of God and Truce of God, and chivalry. The blessing era saw Luther discovering that justification is by faith alone, triggering the Protestant Reformation. **Check**.
  - **4. Repentance.** In the problem era, the church was at its most corrupt, in need of repentance. In the blessing era, many church reforms were undertaken by Pope Gregory VII. One figure who called the church to repentance was Saint Francis of Assisi. **Check**.
