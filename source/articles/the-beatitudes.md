@@ -498,13 +498,17 @@ So noticing a reference to Adoption in the Beatitudes, I had to see how much of 
 
 Before diving into the order of the steps of salvation, a word of clarification. The Beatitudes may be used to compose the order of the steps but not to precisely define the meaning of each step. For example, each denomination attributes different meanings to justification and sanctification and this analysis alone is insufficient to choose among them.
 
-In what follows, each Step of salvation is followed by a quote from Psalm 19 that corresponds to that step of salvation and a blessing quoted from Matthew 5 with some commentary.
-By combining David's prayer and Jesus' promise, the association with that step of salvation and its meaning are sharpened.
+In what follows, each Step of salvation is followed by a quote from Psalm 19 that corresponds to that step of salvation
+and a blessing quoted from Matthew 5 with some commentary. Then there is a comment linking that step and blessing to
+a corresponding word from the Ten Commandments, with the last step assigned to the last two commandments.
+By combining David's prayer, Jesus' promise, and the Ten Commandments,
+the association with that step of salvation and its meaning are sharpened.
 
 ### Step 1: Calling
 
-Before we even get to the Beatitudes, three of Jesus' initial statements in Matthew relate to calling. First, we have his response to John the Baptist, who
-questioned why Jesus needed to be baptized. His answer was, *"Let it be so now, for thus it is fitting for us to fulfill all righteousness.” *(Matthew 3:15)
+Before we even get to the Beatitudes, three of Jesus' initial statements in Matthew relate to calling. 
+First, we have his response to John the Baptist, who questioned why Jesus needed to be baptized. 
+His answer was, *"Let it be so now, for thus it is fitting for us to fulfill all righteousness.” *(Matthew 3:15)
 This tells us that we are called to righteousness.
 
 Second, we have the summary given to Jesus' initial preaching:
@@ -541,6 +545,11 @@ In this Psalm we hear God's call going forth. What does Jesus add to this call?
 This is the call that invites the humble sinner to approach the gates of the kingdom of heaven. 
 They are called to repent, but that repentance does not happen yet.
 
+**Commandment**. *You shall have no other Gods before me.*
+
+The blessing is to enter a kingdom, and that kingdom has but one king, the God who "spoke all these words" in Exodus 20.
+Just as He called out from Heaven to the Israelites, He calls us today.
+
 ### Step 2: Regeneration
 
 What is regeneration? It is the born again transformation spoken of by the prophet Ezekiel:
@@ -573,6 +582,10 @@ You are told that all you have worked for was in vain and of no value. That is c
 The comfort that such a soul needs is the regeneration that brings them to a place where the chains of sin are not so strong that they have
 no possibility of turning to God in faith. The terror of facing God is reduced because of the comforting tone and humble demeanor of the messenger,
 Jesus Christ.
+
+**Commandment**. No idols.
+
+The Psalm acknowledges that the Lord revives the soul; He brings life. Throughout Scripture idols are called lifeless.
 
 ### Step 3: Faith
 
@@ -651,6 +664,12 @@ It is the same thing that is offered in the Psalm. It is what the rich young rul
 
 That inheritance is eternal life and that belief is faith.
 
+**Commandment**. *You shall not take the name of the Lord your God in vain, for the Lord will not hold him guiltless who takes his name in vain*.
+
+Faith is all about trusting in the name of Jesus for salvation and no other.
+Only faith in that name will leave you guiltless, forgiven.
+In the Psalm, it says *the commandment of the Lord is pure*, an explicit mention of the commandments.
+
 ### Step 4: Repentance
 
 **Psalm 19**. David's faith is shown to be true by what he says next.
@@ -689,6 +708,18 @@ The glory that God deserves yet failed to receive from sinners who oppose him is
 Jesus, by going beyond what was required in his own glorifying of his Father, made satisfaction for our sins.
 Yet here, the Lord shows his unselfishness and great love. Though God is the one who deserves to be "satisfied", 
 we who hunger and thirst are the ones who will be satisfied. How amazing is this grace!
+
+**Commandment**. *Remember the Sabbath day, to keep it holy...*.
+
+The Sabbath is a time to rest in the presence of God. What does repentance have to do with rest?
+
+#### This is what the Sovereign Lord, the Holy One of Israel, says:
+#### “In **repentance** and **rest** is your **salvation**,
+##### in quietness and trust is your strength,
+##### but you would have none of it."
+###### - Isaiah 30:15
+
+To rest your weary soul, forsake your sins, which weigh down your heart with guilt and shame.
 
 ### Step 5: Justification
 
@@ -754,6 +785,16 @@ It is what we do with our new liberty that proves who we are and confirms whethe
 It was this doctrine of Justification by faith that triggered the Protestant Reformation and upended the world.
 It is not a trifling idea.
 
+**Commandment**. *Honor your father and your mother, that your days may be long in the land that the Lord your God is giving you.*.
+
+I cannot find a direct connection between honoring parents and the doctrine of justification.
+Yet surely one should be merciful to one's parents. They make mistakes which disappoint, alienate, wound and infuriate us.
+I once went three years without calling or visiting my father, so angry was I because he was rude to my wife.
+Forgiving him was hard but life changing, even life saving. In his later years, my wife's medical advice saved his and my mom's 
+lives multiple times, and I spent months with him the summer my mom died to console him and help through a nearly fatal illness.
+Because of those opportunities, I got to see the changes that God worked in him in those final years. 
+It is by forgiveness that we learn how to honor our parents.
+
 ### Step 6: Sanctification
 
 **Psalm 19**. The sanctified person is blameless and innocent; they have been made holy.
@@ -779,6 +820,19 @@ This bifurcation of sanctification into an instant event and a process means tha
 As we become holier over the course of our lives, we are able to see God more clearly, not with our physical eyes, but by faith.
 His wisdom and ways become ever clearer. His Word makes more sense. Our conviction of His presence and our coming reward and reception into heaven
 become more certain. This is deeply satisfying. This is the part of our life when the Holy Spirit becomes a real person to us.
+
+**Commandment**. *You shall not murder.*.
+
+The darkest mark on any soul is murder, as King David knew well:
+
+#### Create in me a clean heart, O God,
+##### and renew a **right spirit** within me...
+#### Deliver me from **bloodguiltiness**, O God,
+##### O God of my salvation,
+##### and my tongue will sing aloud of your righteousness.
+###### - Psalm 51:10,14
+
+The Holy Spirit's work in sanctification can clean even the heart of a murderer.
 
 ### Step 7: Adoption
 
@@ -814,6 +868,10 @@ Why is it important to believe that by faith in Jesus you become a child of God?
 When things get tough, what father will not do everything in his power to rescue one of his children?
 We will undergo such dangers, so we need to know He will come for us.
 
+**Commandment**. *You shall not commit adultery*.
+
+Adultery destroys families. Adoption makes a place in a family for someone who had none.
+
 ### Step 8: Perseverance
 
 **Psalm 19**. One part of verse 14 tells us that there is trouble ahead.
@@ -843,6 +901,10 @@ any righteous actions taken by people. Bonhoeffer affirms the latter in his chap
 #### same promise as the poor, for in persecution they are 
 #### their equals in poverty.
 ###### - Dietrich Bonhoeffer
+
+**Commandment**. *You shall not steal*.
+
+Persecution is theft. The persecuted lose security, jobs, reputation, property and sometimes their very lives.
 
 ### Step 9: Glorification
 
@@ -908,9 +970,30 @@ God's glory shines forth from Jesus. Thus the Spirit of Jesus in our hearts shin
 and because we identify with his name by not rejecting it despite persecution, his glory shines forth from us.
 There is no better outcome in life or in death than to receive such a gift as this.
 
+**Commandments**. This final step matches two:
+
+ - *You shall not bear false witness against your neighbor*.
+ - *You shall not covet ... anything that is your neighbor's*.
+
+First, the Beatitude speaks of people being reviled and having evil falsely spoken against them. 
+Such believers are being attacked with lies, contravening the ninth commandment.
+
+Second, the blessing is joy and a great reward. The opposite of coveting your neighbor's goods is to 
+trust in the promise of God that you will receive a righteous reward all your own.
+
 ### Reflections on the Process of Salvation
 
 In Psalm 19, King David prays to the Lord for salvation. In the Beatitudes, Jesus answers David’s prayer, point for point. 
+Later in the Sermon on the Mount, Jesus tells the people:
+
+#### Do not think that I have come to abolish the Law
+#### or the Prophets; I have not come to abolish them 
+#### but to fulfill them.
+###### - Matthew 5:17
+
+Jesus' respect for the Law did not begin in verse 17! No, in the Beatitudes he showed that in his hands, 
+the Law would be a powerful force for liberty, justice, protection and restoration. That was unlike any law
+the people knew and he was unlike any ruler the people had ever met.
 
 By this interpretation, we can see that the Beatitudes define the whole process of salvation and sanctification from the initial call to the final glorification of the saints at the time when Christ returns. Why is this helpful? First, wars have been fought over this process. How many steps should there be? In what order should we arrange them? Is there even an order or is it all simultaneous? The various theories rely on assembling clues scattered throughout the Bible and using human logic to fill in the gaps. Any one of the formulations could be right – or none of them. That means that even if the steps are Biblical the system is merely semi-Biblical.
 
