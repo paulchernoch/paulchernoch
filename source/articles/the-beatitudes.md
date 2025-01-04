@@ -47,7 +47,19 @@ To quickly jump to each section:
     <li> <a href="#2">The Ordo Salutis: Nine steps from Dishonor to Glory</a> </li>
     <li> <a href="#3">Numbering the Beatitudes</a> </li>
     <li> <a href="#4">The Harvest Pattern of the Beatitudes</a> </li>
-    <li> <a href="#5">The Ordo Salutis according to Jesus</a> </li>
+    <li> <a href="#5">The Ordo Salutis according to Jesus</a> 
+      <ul>
+        <li><a href="#step1">Calling</a></li>
+        <li><a href="#step2">Regeneration</a></li>
+        <li><a href="#step3">Faith</a></li>
+        <li><a href="#step4">Repentance</a></li>
+        <li><a href="#step5">Justification</a></li>
+        <li><a href="#step6">Sanctification</a></li>
+        <li><a href="#step7">Adoption</a></li>
+        <li><a href="#step8">Perseverance</a></li>
+        <li><a href="#step9">Glorification</a></li>
+      </ul>
+    </li>
     <li> <a href="#6">Saving the Church: The Beatitudes as Prophecy</a> </li>
     <li> <a href="#7">A Little Math</a> </li>
   </ol>
@@ -549,6 +561,8 @@ a corresponding word from the Ten Commandments, with the last step assigned to t
 By combining David's prayer, Jesus' promise, and the Ten Commandments,
 the association with that step of salvation and its meaning are sharpened.
 
+<span id="step1"/>
+
 ### Step 1: Calling
 
 Before we even get to the Beatitudes, three of Jesus' initial statements in Matthew relate to calling. 
@@ -595,6 +609,8 @@ They are called to repent, but that repentance does not happen yet.
 The blessing is to enter a kingdom, and that kingdom has but one king, the God who "spoke all these words" in Exodus 20.
 Just as He called out from Heaven to the Israelites, He calls us today.
 
+<span id="step2"/>
+
 ### Step 2: Regeneration
 
 What is regeneration? It is the born again transformation spoken of by the prophet Ezekiel:
@@ -631,6 +647,8 @@ Jesus Christ.
 **Commandment**. No idols.
 
 The Psalm acknowledges that the Lord revives the soul; He brings life. Throughout Scripture idols are called lifeless.
+
+<span id="step3"/>
 
 ### Step 3: Faith
 
@@ -715,6 +733,8 @@ Faith is all about trusting in the name of Jesus for salvation and no other.
 Only faith in that name will leave you guiltless, forgiven.
 In the Psalm, it says *the commandment of the Lord is pure*, an explicit mention of the commandments.
 
+<span id="step4"/>
+
 ### Step 4: Repentance
 
 **Psalm 19**. David's faith is shown to be true by what he says next.
@@ -765,6 +785,8 @@ The Sabbath is a time to rest in the presence of God. What does repentance have 
 ###### - Isaiah 30:15
 
 To rest your weary soul, forsake your sins, which weigh down your heart with guilt and shame.
+
+<span id="step5"/>
 
 ### Step 5: Justification
 
@@ -840,6 +862,8 @@ lives multiple times, and I spent months with him the summer my mom died to cons
 Because of those opportunities, I got to see the changes that God worked in him in those final years. 
 It is by forgiveness that we learn how to honor our parents.
 
+<span id="step6"/>
+
 ### Step 6: Sanctification
 
 **Psalm 19**. The sanctified person is blameless and innocent; they have been made holy.
@@ -879,6 +903,8 @@ The darkest mark on any soul is murder, as King David knew well:
 
 The Holy Spirit's work in sanctification can clean even the heart of a murderer.
 
+<span id="step7"/>
+
 ### Step 7: Adoption
 
 **Psalm 19**. As expressed in this psalm, the idea of adoption is weak, in comparison to the other doctrines.
@@ -917,6 +943,8 @@ We will undergo such dangers, so we need to know He will come for us.
 
 Adultery destroys families. Adoption makes a place in a family for someone who had none.
 
+<span id="step8"/>
+
 ### Step 8: Perseverance
 
 **Psalm 19**. One part of verse 14 tells us that there is trouble ahead.
@@ -950,6 +978,8 @@ any righteous actions taken by people. Bonhoeffer affirms the latter in his chap
 **Commandment**. *You shall not steal*.
 
 Persecution is theft. The persecuted lose security, jobs, reputation, property and sometimes their very lives.
+
+<span id="step9"/>
 
 ### Step 9: Glorification
 
