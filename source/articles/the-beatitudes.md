@@ -6,15 +6,32 @@ quote: Blessed are the poor in spirit, <br/> for theirs is the kingdom of heaven
 
 ## Synopsis
 
-The Beatitudes are more than scattered promises of divine help for people with different needs and 
-more than a summary of character qualities that are essential in a disciple of Christ. This article will
-show that the Beatitudes:
+When Jesus saves a person, how does he do it? What are all the steps? How are they ordered?
+Each Christian denomination has their own idea, assembled from scattered Bible verses, with the steps identified, 
+interpreted, connected and ordered according to their preferred systematic theology.
+This ordering of steps is called in Latin the *Ordo Salutis*, or in English the Order of Salvation. 
+Disagreements over how this process should be defined led to wars that claimed the lives of millions.
+Could this have been avoided? What would Jesus say? Or better yet, what *did* Jesus say? 
+Did he number the steps for us and tell us their order, but we weren't paying attention?
 
- - Are the answer to King David's prayer for salvation in Psalm 19
- - Follow the [Harvest Pattern](./harvest-pattern.html), showing the path from unbelief to peace with God
- - Line up with the Ten Commandments, point for point, in order
- - Define the *Ordo Salutis* (Order of salvation), the nine steps from God's initial call to a saint's glorification
+This article will show how two short and complementary passages of the Bible each define the full *Ordo Salutis*.
+We can set aside our competing systems and learn from the Good Teacher. The first passage is Psalm 19, where King David prays
+for redemption. The second passage is the Beatitudes of Matthew 5, where Jesus answers David's prayer, point for point.
+
+This discovery shows that the Beatitudes are more than scattered promises of divine help for people with different needs and 
+more than a summary of character qualities that are essential in a disciple of Christ. This article will:
+
+ - Present the Beatitudes as the answer to King David's prayer for salvation in Psalm 19
+ - Demonstrate that the Beatitudes follow the [Harvest Pattern](./harvest-pattern.html), showing the path from unbelief to peace with God
+ - Line the Beatitudes up with the Ten Commandments, point for point, in order
+ - Define the *Ordo Salutis* (Order of salvation) as nine steps from God's initial call to a saint's glorification
+ - Conclude that while the Reformed *Ordo Salutis* comes closest to matching Jesus' order, even it needs correction
  - Reveal God's prophetic plan to unveil each doctrine in the *Ordo Salutis* with power, in Chronological order, thereby shaking the world and carrying the Church toward maturity
+
+The big takeaway is that Jesus turned the Law that enslaves and brings death into a powerful force for liberty, protection and life.
+He has wielded this Law of Christ on behalf of individuals but also shaped the whole history of the church according to its principles.
+In each successive era, by the mediation of the Holy Spirit, Jesus has delivered to the church his nine blessings, in order. 
+One last blessing remains: the glorification of the saints that will occur at the time of our Lord's blessed, long awaited return.
 
 See [Celestial Clocks - The Order of Salvation Clock](./celestial-clocks.html#19) for a concise presentation 
 of just the prophetic content of the Beatitudes. 
