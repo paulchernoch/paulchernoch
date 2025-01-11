@@ -26,6 +26,7 @@ more than a summary of character qualities that are essential in a disciple of C
  - Line the Beatitudes up with the Ten Commandments, point for point, in order
  - Define the *Ordo Salutis* (Order of salvation) as nine steps from God's initial call to a saint's glorification
  - Conclude that while the Reformed *Ordo Salutis* comes closest to matching Jesus' order, even it needs correction
+ - Observe that the Beatitudes are a table of contents into the rest of the Sermon on the Mount - in reverse!
  - Reveal God's prophetic plan to unveil each doctrine in the *Ordo Salutis* with power, in Chronological order, thereby shaking the world and carrying the Church toward maturity
 
 The big takeaway is that Jesus turned the Law that enslaves and brings death into a powerful force for liberty, protection and life.
@@ -60,8 +61,9 @@ To quickly jump to each section:
         <li><a href="#step9">Glorification</a></li>
       </ul>
     </li>
-    <li> <a href="#6">Saving the Church: The Beatitudes as Prophecy</a> </li>
-    <li> <a href="#7">A Little Math</a> </li>
+    <li> <a href="#6">The Sermon on the Mount is a Chiasmus</a> </li>
+    <li> <a href="#7">Saving the Church: The Beatitudes as Prophecy</a> </li>
+    <li> <a href="#8">A Little Math</a> </li>
   </ol>
 
 </div>
@@ -113,8 +115,8 @@ The order presented here is closest to that taught by Reformed churches; in my l
 and one step (Adoption) is shifted by one position. The sequences presented by all denominations are the product of complex theological systems. 
 To my knowledge, none of these systems offer up a single Bible passage in which this order may be observed.
 Instead, they have composed it by drawing upon passages scattered throughout the Bible, applying logic and also factoring in key insights from
-their denominational system. In this article, an *Ordo Salutis* will be described and defended from but two passages: 
-Psalm 19 and Matthew 5:3-11. 
+their denominational system. In this article, an *Ordo Salutis* will be described and defended from two passages: 
+Psalm 19 and Matthew 5:3-11. It will also be buttressed by reference to the rest of the Sermon on the Mount.
 
 Why is this significant? You don't need a fancy system based on human logic and many assumptions
 to derive the plan of salvation. You only need the words of Jesus. Also, these are not just any words.
@@ -1080,9 +1082,211 @@ The last thing to think about is who is responsible for accomplishing these step
 The Beatitudes may speak of people showing mercy or being peacemakers, but each step begins and ends with a blessing.
 Each step begins and ends with the grace of God.
 
-And does that grace only save individuals? No, these Beatitudes prophesy a great, worldwide salvation of the church, of a people called out of the world into a visible kingdom...
+And does that grace only save individuals? No, these Beatitudes prophesy a great, worldwide salvation of the church, of a people called out of the world into a visible kingdom. But before we get to the prophecies, just in case you aren't convinced that the Beatitudes really 
+match the *Ordo Salutis* (that means you, Josh), there is one more line of evidence, distributed in the remainder of the Sermon on the Mount.
 
 <span id="6"/>
+
+## The Sermon on the Mount is a Chiasmus
+
+It was far from obvious to me that the Beatitudes form a table of contents into the rest of the Sermon on the Mount. 
+Such a thing would be logical. For example, the questions asked by Habakkuk in the first few lines of his book are answered in the 
+subsequent sections of the book, in the same order. The challenge here is that it is a reverse table of contents. 
+That is what made it hard to spot. In Biblical literature, we call this a *chiasmus*. It is named after the Greek letter chi, 
+which looks like an X. In a chiasmus, a series of ideas are presented in one order then revisited in the reverse order. 
+So if you had three topics, the pattern would be A B C C' B' A'. In the case of the Sermon on the Mount, there are nine ideas, 
+the nine steps to salvation. With a chiasmus, the main idea, the central idea, is the middle one, not the first or the last.
+With the Sermon on the Mount being a chiasmus, this gives us a clue as to what the main idea in Jesus' speech is.
+
+Earlier the Beatitudes were characterized as being grouped by threes. They describe three personas, the Seeker, the Servant, and the Son,
+So, before doing a deep dive into the structure of the sermon, let's spot the key verses that correspond to these three personas.
+
+*For the Seeker*, we have the preamble to the Golden Rule, where we are told to ask, seek and knock:
+
+#### Ask, and it will be given to you; 
+#### **seek, and you will find**; 
+#### knock, and it will be opened to you. 
+#### For everyone who asks receives, 
+#### **and the one who seeks finds**, 
+#### and to the one who knocks it will be opened.
+###### - Matthew 7:7-8
+
+*For the Servant*, we have a famous passage about serving two masters:
+
+#### **No one can serve two masters**, 
+##### for either he will hate the one and love the other, 
+##### or he will be devoted to the one and despise the other. 
+#### **You cannot serve God and money**.
+###### - Matthew 6:24
+
+For the Son, we have the command to love your enemy:
+
+#### You have heard that it was said, 
+##### "You shall love your neighbor and hate your enemy." 
+#### But I say to you, Love your enemies 
+#### and pray for those who persecute you, 
+#### so that you may **be sons of your Father who is in heaven**. 
+#### For he makes his sun rise on the evil and on the good, 
+#### and sends rain on the just and on the unjust.
+###### - Matthew 5:43-45
+
+Often in the sermon is God called Father, but here we are advised how to become his sons.
+
+These three passages for these three personas are nicely distributed in the three chapters of the sermon: 7, 6, 5, in the reverse
+of the order that they were found in the Beatitudes, thus suggesting that a chiasmus is present. Here is an outline of
+the chiastic structure:
+
+- 1. **Calling**: Poor in spirit... kingdom of heaven (5:3)
+ - 2. **Regeneration**: Mourn... comforted (5:4)
+  - 3. **Faith**: Meek... inherit the earth (5:5)
+   - 4. **Repentance**: Hunger and thirst for righteousness... satisfied (5:6)
+    - 5. **Justification**: merciful... shown mercy (5:7)
+     - 6. **Sanctification**: pure in heart... see God (5:8)
+      - 7. **Adoption**: peacemakers... called sons of God (5:9)
+       - 8. **Perseverance**: persecuted... kingdom of heaven (5:10)
+        - 9. **Glorification**: reviled... reward is great in heaven (5:11-12)
+        - 9. **Glorification**: Salt & light (5:13-16)
+       - 8. **Perseverance**: Until heaven & earth pass away, adultery, divorce, turn the other cheek (5:17-42)
+      - 7. **Adoption**: Love your enemies... so that you may be sons of your Father (5:43-48)
+     - 6. **Sanctification**: Giving to the needy & praying (6:1-11)
+    - 5. **Justification**: Forgive us our debts as we forgive our debtors (6:12)
+   - 4. **Repentance**: Temptation, Fasting, serving two masters, judge not (6:13-34; 7:1-6)
+  - 3. **Faith**: Ask, seek, knock, Golden Rule, narrow gate (7:7-14)
+ - 2. **Regeneration**: So, every healthy tree bears good fruit (7:15-20)
+- 1. **Calling**: False disciples "I never knew you", builders on rock & sand (7:21-29)
+
+From this structure, we see that the Glorification of the saints is at the heart of the chiasmus 
+and Jesus' astonishing authority in Matthew 7:28-29 comes last. This shows us the meek and loving heart of Jesus.
+He puts us first and himself last. Well, not exactly. In 5:11 we find the phrase "on my account". Jesus inserts himself in this
+verse about our glorification. The great blessing goes to those who walk with Jesus. The blessed and the one who blesses are one.
+
+We can learn something else from the place where Jesus puts himself last. In Matthew 7:28 we have the crowds, which are a mixture
+of people, good and bad. The last mention of a distinct group of people with a single fate in the sermon is in Matthew 7:26-27.
+Those are the people who build their house upon the sand and are destroyed. Thus Jesus stands in the middle of the chiasmus
+with the blessed as their benefactor and at the end of it with the accursed as their judge.
+
+Now let us look at each step in turn, showing how the cited passage illuminates that step toward salvation.
+In keeping with the order found in Matthew, we take the steps in reverse order.
+
+### Glorification
+
+#### You are the salt of the earth, but if salt has lost its taste, 
+##### how shall its saltiness be restored? 
+##### It is no longer good for anything except 
+##### to be thrown out and trampled under people's feet.
+#### You are the **light** of the world. A city set on a hill cannot be hidden.
+##### Nor do people **light** a **lamp** and put it under a basket, 
+##### but on a stand, and it gives **light** to all in the house. 
+##### In the same way, let your **light shine** before others, 
+##### so that they may **see** your good works and 
+##### give **glory** to your Father who is in heaven.
+###### Matthew 5:13-16
+
+The son glorifies us so that we may give that glory to the Father as we
+serve as lights to guide unbelievers towards the truth and eternal life.
+This passage mentions the Father's glory explicitly, the word light four times, and the word lamp once.
+Can you name a Bible passage that speaks more about God's declaration that it is His plan to glorify His saints?
+In Exodus 33, in the passage where Moses asks God to show him His glory, it says that God caused all his goodness 
+to pass before Moses. This passage speaks about our good works being glorious. In both places, goodness and glory go together.
+O, this is a glorius promise!
+
+### Perseverance
+
+#### Do not think that I have come to abolish the Law or the Prophets; 
+#### I have not come to abolish them but to fulfill them. 
+#### For truly, I say to you, **until heaven and earth pass away**, 
+#### not an iota, not a dot, will pass from the Law until all is accomplished.
+#### Therefore whoever relaxes one of the least of these commandments 
+#### and teaches others to do the same will be called least in the 
+#### **kingdom of heaven**, but whoever does them and teaches them will be called 
+#### great in the **kingdom of heaven**. For I tell you, unless your righteousness 
+#### exceeds that of the scribes and Pharisees, you will never enter 
+#### the **kingdom of heaven**.
+###### - Matthew 5:17-20
+
+The larger section on perseverance gives examples where perseverance is required in the life of faith.
+
+ - Perseverance is needed to defuse anger, reconcile with your brother and not end up like Cain, who slew his (Matthew 5:21-26). 
+ - Perseverance is needed to keep yourself pure from sexual immorality and lust (Matthew 5:27-30).
+ - Perseverance is needed to preserve a marriage and resist the temptation to divorce (Matthew 5:31-32). 
+ - Perseverance is needed to speak the truth in fraught situations without the gimmick of oaths to deflect from your cowardice and lies (Matthew 5:33-37).
+ - Perseverance is needed to defuse threats of force through meekness and cooperation (Matthew 5:38-42).
+
+It is easy to see the examples. It is hard to find the source of strength for doing the persevering. Jesus gives it up front
+and it is easy to miss. The source of power for perseverance is the Word. God's Word is eternal. It shall last **until heaven and earth pass away**.
+That eternal, unbreakable Word has the full power of the kingdom of God (mentioned three times above) backing it up. 
+Our oaths count for nothing. God's oath to uphold His law counts for everything. Remember it is "Blessed are those who are persecuted..." 
+It is by God's grace that we are able to persevere.
+
+### Adoption
+
+#### You have heard that it was said, 
+##### "You shall love your neighbor and hate your enemy." 
+#### But I say to you,
+##### Love your enemies and pray for those who persecute you, 
+##### **so that you may be sons of your Father who is in heaven**. 
+#### For he makes his sun rise on the evil and on the good, 
+#### and sends rain on the just and on the unjust. 
+#### For if you love those who love you, what reward do you have? 
+#### Do not even the tax collectors do the same? 
+#### And if you greet only your brothers, 
+#### what more are you doing than others? 
+#### Do not even the Gentiles do the same? 
+#### You therefore must be perfect, **as your heavenly Father is perfect**.
+###### - Matthew 5:43-48
+
+If glorification is the icing on the cake, adoption is the cake. To help clarify what he means for 
+someone to be an adopted son, Jesus sets up the most revolutionary standard of righteousness in the Bible,
+indeed in all of history. Love your enemies! It is impossible to do this, yet Jesus insists on it.
+Love for enemies is what distinguishes the sons and daughters of God from all others. 
+That is what you must do if you want to *be sons of your Father who is in heaven*. 
+There are three ways to look at this. The first is to be dismayed and give up in the face of an impossible demand.
+The second is to try to do it on your own strength, fail and then give up. That was nearly my fate.
+The third, walking in the spirit and relying on God's grace, turns a command into a delightful blessing. 
+This amazing person so full of love, courage and perseverance that they can love even their enemies is
+who God has promised to make me into! This is no mere command, it is a promise!
+
+Crucially, this passage is in agreement with John 1. We do not start out as sons and daughters of God.
+We must become sons of God. When we do, the benefits and privileges of that blessed state are immense!
+
+### Sanctification
+
+In Matthew 6:1-11, righteous deeds are compared to hypocritical actions done for selfish reasons like fame and admiration. 
+This is applied to all charitable deeds in general, to gifts for the poor, and to prayer. Then in the Lord's prayer,
+we are shown the true source of righteous deeds:
+
+#### Our Father in heaven,
+##### hallowed be your name.
+#### Your kingdom come,
+##### your will be done,
+##### on earth as it is in heaven.
+###### - Matthew 6:9-10
+
+This sanctifying impulse springs from hallowing God's name, not your own rep.
+It springs from causing your will to conform to God's will.
+Only good deeds approved by the Father are really good, because only He knows the real impact that they will have.
+
+### Justification
+
+In progress...
+
+### Repentance
+
+In progress...
+
+### Faith
+
+In progress...
+
+### Regeneration
+
+In progress...
+
+### Calling
+
+In progress...
+
+<span id="7"/>
 
 ## Saving the Church: The Beatitudes as Prophecy
 
@@ -1169,7 +1373,7 @@ This clock shows that God's Word is shaping the history of the world according t
 His sovereignty is supreme and no power on earth or in the heavens or the depths can slow his plan down.
 Jesus is coming soon. Maranatha!
 
-<span id="7"/>
+<span id="8"/>
 
 ## A Little Math
 
