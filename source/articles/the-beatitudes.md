@@ -1149,7 +1149,7 @@ the chiastic structure:
        - 8. **Perseverance**: Until heaven & earth pass away, adultery, divorce, turn the other cheek (5:17-42)
       - 7. **Adoption**: Love your enemies... so that you may be sons of your Father (5:43-48)
      - 6. **Sanctification**: Giving to the needy & praying (6:1-11)
-    - 5. **Justification**: Forgive us our debts as we forgive our debtors (6:12)
+    - 5. **Justification**: Forgive us our debts as we forgive our debtors (6:12-14)
    - 4. **Repentance**: Temptation, Fasting, serving two masters, judge not (6:13-34; 7:1-6)
   - 3. **Faith**: Ask, seek, knock, Golden Rule, narrow gate (7:7-14)
  - 2. **Regeneration**: So, every healthy tree bears good fruit (7:15-20)
@@ -1204,19 +1204,29 @@ O, this is a glorius promise!
 #### the **kingdom of heaven**.
 ###### - Matthew 5:17-20
 
-The larger section on perseverance gives examples where perseverance is required in the life of faith.
+The larger section on perseverance gives examples where perseverance is required in the life of faith:
 
  - Perseverance is needed to defuse anger, reconcile with your brother and not end up like Cain, who slew his (Matthew 5:21-26). 
  - Perseverance is needed to keep yourself pure from sexual immorality and lust (Matthew 5:27-30).
  - Perseverance is needed to preserve a marriage and resist the temptation to divorce (Matthew 5:31-32). 
  - Perseverance is needed to speak the truth in fraught situations without the gimmick of oaths to deflect from your cowardice and lies (Matthew 5:33-37).
- - Perseverance is needed to defuse threats of force through meekness and cooperation (Matthew 5:38-42).
+ - Perseverance is needed to defuse threats of force through meekness, cooperation and going the extra mile (Matthew 5:38-42).
 
-It is easy to see the examples. It is hard to find the source of strength for doing the persevering. Jesus gives it up front
-and it is easy to miss. The source of power for perseverance is the Word. God's Word is eternal. It shall last **until heaven and earth pass away**.
+How does this passage match the Beatitude's emphasis on persecution? Persecution is so ordinary and pervasive that we 
+often don't see it. In the examples of perseverance, who is the persecutor? It is your brother, your husband, or your wife. 
+It is the neighbor who takes you to court or the government official who lays inequitable burdens on you, 
+the proverbial soldier who makes you carry his armour for a mile. It is the overflow from the persecution of the people around you, 
+like the relative twisting your arm for money to bail him out of the trials that he is enduring. Persecution comes from every
+direction and it can show up any hour of any day. It makes the days long. Persecution and perseverance are about time, 
+so what is the remedy? 
+
+It is easy to spot the examples that call for perseverance. It is harder to find the source of strength for doing the persevering. 
+Jesus gives it up front and it is easy to miss. The answer for problems of time are graces that are eternal. 
+The source of power for perseverance is the Word. How long shall that Word endure? It shall last **until heaven and earth pass away**. 
 That eternal, unbreakable Word has the full power of the kingdom of God (mentioned three times above) backing it up. 
-Our oaths count for nothing. God's oath to uphold His law counts for everything. Remember it is "Blessed are those who are persecuted..." 
-It is by God's grace that we are able to persevere.
+Our oaths count for nothing. God's oath to uphold His law counts for everything. By that oath we are promised the steadfast love of the Father. 
+Remember it is "*Blessed are those who are persecuted...*" It is by God's grace that we are able to persevere.
+
 
 ### Adoption
 
@@ -1268,11 +1278,117 @@ Only good deeds approved by the Father are really good, because only He knows th
 
 ### Justification
 
-In progress...
+#### and forgive us our debts,
+##### as we also have forgiven our debtors.
+#### and **forgive** us our debts,
+##### as we also have **forgiven** our debtors.
+#### And lead us not into temptation,
+##### but deliver us from evil.
+#### For if you **forgive** others their trespasses,
+##### your heavenly Father will also **forgive** you,
+#### but if you do not **forgive** others their trespasses,
+##### neither will your Father **forgive** your trespasses.
+###### - Matthew 6:12-15
+
+The Beatitude blessed the merciful, who will be shown mercy. That cast a wide net, for mercy takes many forms and goes to different extents
+that may fall short of a full pardon. Mercy implies an undeserved grace, but these verses from the Lord's prayer focus our attention.
+They reach for the stars. The highest form of mercy is forgiveness and that is what Jesus invites us to call upon the Father to give.
+The main clue that we are to connect Matthew 5:7 with 6:12 is the parallel form. As a small mercy begets a greater mercy, 
+so a small forgiveness begets a greater forgiveness. Six times is forgiveness named in this passage. Do you think Jesus thought it important?
+
+Verse 12 is a mystery. Jesus instructs us to ask the Father for forgiveness. Can He just give it? Is it so simple as that?
+No, it was not simple, and yes, we are to ask for it. What is the mystery? The mystery is how that forgiveness was delivered to us.
+It was delivered to us by the sending of Jesus, God's only begotten Son, to the cross. So, when Jesus calls upon us to pray, 
+"Forgive us our debts", he is calling for us to ask the Father to send him to his death. The next time you recite the Lord's prayer,
+remember that its words were not cost-free religious pleasantries handed to soothe a sorrowful heart for a few moments.
+The giving of this verse to the world in a prayer was the most expensive transaction in history.
+
+By this verse, we are bound to Christ. The injustices that we have endured, the persecutions and other crimes committed against us,
+these we must also forgive. The cost of being forgiven is to become one with the one who forgives and like him in our
+disposition and actions. To make sure we did not misunderstand or undervalue this, Jesus followed it up with a stern warning in verses 14-15.
+It is possible through an unforgiving heart to forfeit the forgiveness of God. 
+So, the next time you recite the Lord's prayer, remember that it is a costly prayer to recite.
+
+Verse 13 bids us pray for a benevolent safeguard. If we are forgiven for our past, what of our future? By submitting to the Lord,
+we allow ourselves to be led around the temptations that would wreck our resolve and destroy us. 
+This shepherding of our lives saves us from having to pay the cost of the many future sins we thereby avoid and the great harm 
+that we may cause to others. Yes, we pay a cost for forgiving others, but we reap a greater reward.
 
 ### Repentance
 
-In progress...
+With each match of a Beatitude to its follow-up passage, something is learned. The very match teaches us new truths. 
+The harder the match is to understand, the greater the insight. The scope of repentance is as vast as the variety of sins that we commit. 
+To my bewilderment, the lengthy passage that goes with repentance bounces all over the place, to fasting, money, possessions, 
+anxiety and judgementalism.
+
+Repentance means change. It means turning around and going in the right direction after having long walked in the wrong one.
+This requires more than a change in actions. It requires a change in your core values, the things that matter to you most and which
+you pursue through all your hoping, planning, and working. Unless those values change, your actions will inevitably revert to the old ways
+you are trying to forsake.
+
+#### Do not lay up for yourselves treasures on earth, 
+#### where moth and rust destroy and where thieves break in and steal,
+#### but lay up for yourselves **treasures in heaven**, 
+#### where neither moth nor rust destroys 
+#### and where thieves do not break in and steal.
+#### **For where your treasure is, there your heart will be also.**
+###### - Matthew 6:19-21
+
+After reflecting on Bonhoeffer's *The Cost of Discipleship* and later memorizing the Sermon on the Mount, the preceding passage 
+seized my attention. By those words, the Lord convinced me that they were of first importance. I then spent twenty years searching 
+for those heavenly treasures. Once I found the list, what was the first thing I did? I fasted once a week for the next three years. Why?
+
+Nobody told me to fast. I can't recall receiving any teaching on fasting that clued me into the usefulness of doing it in that particular
+situation. I am convinced that the Holy Spirit put it in my heart to do, but had I studied the Sermon on the Mount more carefully, 
+I would have known why. Now the purpose of my weekly fast was expressed in my prayer, which never varied for those three years, 
+"Lord, show me your glory." It was the same prayer that Moses prayed in Exodus. I prayed it because I had discovered that the glory of God 
+is the most precious of all the heavenly treasures, but it was not the most precious treasure to me. I knew that I needed my heart to change. 
+I needed to rearrange my priorities and make God's glory my dearest treasure.
+
+That is what fasting is for. You fast when you need to make a big change. You fast when confronted by an impossible obstacle.
+You fast when you don't know what else to do. How does that relate to the Sermon on the Mount? Before the call to pursue heavenly treasures,
+before the call to turn from anxiety, before the call to "*seek first the kingdom of God and his righteousness*" (Matthew 6:33) came
+instructions on fasting. This should have been obvious from reading the rest of the Bible, but I am obtuse.
+
+  - Receiving the Ten Commandments and a new covenant from God on Mount Sinai was a call to an entire nation to change their ways. Therefore Moses fasted for forty days. (Exodus 34:28)
+  - Daniel fasted and prayed for **mercy**, understanding and guidance from God, and to know when the Babylonian exile would end. (Daniel 9:3-19)
+  - When returning to Jerusalem from exile, the Jews were exposed to great danger. Ezra the scribe and his companions fasted for God's protection during their journey. (Ezra 8:21-23)1.
+  - To save the Jews from genocide, Queen Esther called for a three-day fast among the Jews to seek the favor of God and the king. (Esther 4:16)
+  - The king and people of Nineveh fasted and **repented** of their sin after Jonah's warning, to spare their city from destruction. (Jonah 3:5-10)
+  - King David fasted and prayed and confessed his sins on behalf of his ill child, but the child did not survive. (2 Samuel 12:16-23)
+  - Jesus fasted for 40 days and nights in the wilderness to prepare for His ministry and resist Satan's temptations. (Matthew 4:1-11)
+
+In the first six examples, common threads included humility, mourning over the current state of affairs and God's threatened or ongoing wrath, 
+admission of sin, and a commitment to repentance. In each case, the supplicants sought a major change in the fortunes of their people. 
+Fasting was a way to jumpstart repentance and declare total reliance on God for the answer.
+
+The seventh example stands apart. Jesus did not need to repent for any sin. Jesus had no personal shortcoming over which to mourn.
+Jesus had no pride that needed humbling. What Jesus had was a people in sin who needed to repent. What Jesus had was a people in distress
+for whom he mourned. What Jesus had was a change in his life, from private worker to controversial public figure.
+His was a repentance not from sin but from a quiet life to a strenuous life of self sacrifice.
+
+After we repent of hypocrisy, of serving money and prizing and pursuing the insignificant, there is one last thing from which we must repent.
+We must turn from being judgmental. Here is a new hypocrisy, a new self-righteousness that we must reject. Why does Jesus put this last?
+All people are judgmental, but the worst are the religious and the nearly-wise. A person who has made progress in following what Jesus said in 
+Matthew 6 faces a new level of sin. Once you know some of the heavenly treasures, once you have marched forth to acquire them, once you have set
+your sights on the kingdom, if you turn and look at your neighbor then you have taken your eyes off of Jesus and are liable to sink
+below the waves. You think you have treasure to share and are a fit guide for your neighbor, but are you ready for that?
+Have you cleaned your heart, wiped the dust from your eyes, and unstopped your ears enough to render loving assistance?
+
+When Jesus says, "*Judge not, that you be not judged*" (Matthew 7:1) he is inverting the admonition in the Lord's prayer.
+We are to ask that the Father forgive us as we forgive others. Judging others is the opposite of forgiveness. 
+Then in a seeming paradox, Jesus tells us that we must judge, but it is a different kind of judgment:
+
+#### Do not give dogs what is holy, 
+#### and do not throw your **pearls** before pigs, 
+#### lest they trample them underfoot and turn to attack you.
+###### - Matthew 7:6
+
+Here the pearls are an analogy to the heavenly treasures of Matthew 6. We are urged to train our our critical faculties upon ourselves.
+We are to judge whether we should or should not apply the wisdom we have learned to the case of our neighbor. 
+We must judge our own judgment. To get to the place where we can do that in kindness and humility requires a deep repentance.
+It is the salvation of our neighbor that is at stake. Spend your pearls with care. And if you are at a loss as to what to do, pray and fast,
+so that your heavenly Father may remove all obstacles to changing your heart's desires and your life's direction.
 
 ### Faith
 
