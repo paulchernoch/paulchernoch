@@ -1441,7 +1441,7 @@ in due time. Faith is relying on God's love for us when we love our neighbors, a
 #### and God in them.
 ###### - 1 John 4:16, NIV
 
-Believing that God will answer our questions, show us the path we seek and open the door of fellowship when we are lonely 
+Believing that God will answer our questions and material needs, show us the path we seek and open the door of fellowship when we are lonely 
 and in need of protection sounds like it is talking about faith, but there is more to faith than that. 
 Faith means listening via the Holy Spirit as Jesus questions us. Faith means relief at knowing that Jesus seeks us when we are lost.
 Faith means excitement at hearing the knock at the door when Jesus comes for a visit. Jesus is like us. 
@@ -1458,7 +1458,7 @@ He asks, seeks and knocks, too. Faith is a two-sided affair. Here are the receip
 #### Jesus said to them, 
 ##### “I will **ask** you one **question**; **answer** me, and I will tell you 
 ##### by what authority I do these things. Was the baptism of John 
-##### from heaven or from man? Answer me.”
+##### from heaven or from man? **Answer** me.”
 #### And they discussed it with one another, saying, 
 ##### “If we say, 'From heaven,' he will say, 
 ##### 'Why then did you not believe him?'
@@ -1496,7 +1496,7 @@ When Jesus returns to earth, will he find any faith? By this parable, we know wh
 is seeking. This is a hard verse to read and a hard question to stomach. Jesus doesn't tell us the answer.
 It is an honest question and it tells us what we should be seeking. If we seek riches or personal glory,
 it benefits us little if we find them. If Jesus seeks faith, that is what we should seek.
-We should seek to be transformed from faithless people in to ones who are ready for the day he returns
+We should seek to be transformed from faithless people into ones who are ready for the day he returns
 because we have become the ones he is looking for.
 
 **KNOCK / OPEN**.
@@ -1509,7 +1509,7 @@ because we have become the ones he is looking for.
 ##### will seek to enter and will not be able. When once the 
 ##### master of the house has risen and shut the door, and you begin 
 ##### to stand outside and to **knock at the door**, saying, 
-###### 'Lord, open to us,' 
+###### 'Lord, **open** to us,' 
 ##### then he will answer you, 
 ###### 'I do not know where you come from.'
 ##### Then you will begin to say, 
@@ -1533,7 +1533,7 @@ that the topic is faith, how many will be saved. Again we hear of the narrow doo
 time meet the people who knock on the door but it is not opened. The answer that Jesus
 gives is ironic. The curious person thinks in terms of odds. Lots of people in this world are like him and 
 can't be troubled to fight for certainty, to wrestle the angel like Jacob until they win the blessing.
-These people figure that most people are good enough to get into heaven, so they have a good shot 
+These gamblers figure that most people are good enough to get into heaven, so they have a good shot 
 and that is enough to satisfy them. No extreme effort on their part is warranted.
 What does Jesus' answer tell us? It tells us that playing the odds will not work. It is no way to live. 
 Playing the odds is not faith, despite what Blaise Pascal may have argued with his famous wager.
@@ -1545,7 +1545,7 @@ will be saved, but not many Americans. No matter where you live, the answer is t
 For people who play the odds, no matter where you live the odds will be terrible. But if you trust in Jesus,
 the odds are 100%.
 
-Sixty odd years after speaking to a complacent Jew, Jesus in a vision spoke to a complacent church, the church of Laodicea. 
+Sixty odd years after speaking to that complacent Jew, Jesus in a vision spoke to a complacent church, the church of Laodicea. 
 They thought themselves a prosperous, successful church. He thought otherwise. After a lengthy scold, he made that church an offer:
 
 #### Behold, I stand at the door and **knock**. 
@@ -1557,7 +1557,8 @@ We are invited to ask for help. Jesus asks us who we think that helper is.
 
 We are invited to seek direction. Jesus is seeking to find if that direction proceeds from faith in him and leads towards loving our neighbor.
 
-We are invited to knock on his door. Jesus and a hundred others will come to knock on our door. Can we tell which voice is his?
+We are invited to knock on his door. Jesus and a hundred others will come to knock on our door. Among all those clamoring voices, 
+can we tell which voice is his?
 
 Asking, seeking and knocking go both ways. Faith is being certain that when you do these things from your side,
 the Lord is on the other side saying, "Right back atcha."
