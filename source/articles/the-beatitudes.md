@@ -1565,7 +1565,44 @@ the Lord is on the other side saying, "Right back atcha."
 
 ### Regeneration
 
-In progress...
+#### Beware of false prophets, who come to you 
+#### in sheep's clothing but inwardly are ravenous wolves. 
+#### You will recognize them by their fruits. 
+#### Are grapes gathered from thornbushes, 
+##### or figs from thistles? 
+#### So, every **healthy tree** bears good fruit, 
+##### but the **diseased tree** bears bad fruit. 
+#### A **healthy tree** cannot bear bad fruit, 
+##### nor can a **diseased tree** bear good fruit.
+#### Every tree that does not bear good fruit 
+##### is cut down and thrown into the fire. 
+#### Thus you will recognize them by their fruits.
+###### - Matthew 7:15-20
+
+What are the good fruits that Jesus is speaking about?
+They are faith in the Lord, repentance, holiness, and love for God and neighbor.
+In our normal state, from birth, are any of us capable of bearing these good fruits?
+No, as Paul told us in Romans, "For all have sinned and fallen short of the glory of God." 
+If we all start out as diseased trees, what use is this passage?
+This passage tells us that the Lord expects there to be healthy trees in his orchard and vines in his vineyard.
+He means to make it so. So, even though no mention of a divine act of transformation 
+is named, it hides behind every word that Jesus speaks. The Lord - via an act of the Holy Spirit - 
+will regenerate diseased trees so that they become healthy and capable of bearing good fruit. 
+Then we are to use his words to spot these regenerated trees. This knowledge shows us who they are.
+A person who longs to be a healthy tree or a healthy vine, having discerned who these healthy people are
+will be shown the way to the gardener and vinedresser who accomplished this marvelous result.
+This wise person who seeks God is one who has peeled back the sermon's truth, layer by layer:
+
+  - They see the light of the world shining forth from the Father's true children and walk toward it. 
+  - They grasp for the strength of those children of God who courageously endure all things without losing heart.
+  - They are jealous of the fellowship of the family of God, the church of adopted sons and daughters.
+  - They crave the freedom from shame of transformed lives sanctified from sin.
+  - They weep at seeing a forgiven people, whose joy testifies to their freedom from guilt before God.
+  - They are staggered to see a people willingly confessing their dark secrets, unafraid of what others will think. 
+  - They - wrestling with doubts - are confounded by people with a faith in things they cannot see or touch.
+  - They perceive within the deadness of their own soul and without an unconquerable new life and cry out!
+
+All those things that they have glimpsed, bring them face to face with he who calls. How will they answer?
 
 ### Calling
 
