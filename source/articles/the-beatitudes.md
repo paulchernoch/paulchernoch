@@ -1397,7 +1397,7 @@ The magnitude of these next words hit me in the early 1990's, the first fruit of
 This knowledge rocked my world. I knew that I had just learned one of the great secrets of the faith. Indeed these words 
 form the core of our faith. They define faith. I was confident that knowing this truth would liberate me so that I would be
 far more effective and fruitful as a Christian. I thought that this truth was so comprehensive and so powerful 
-that there were no more questions that I needed God to answer. That last though was optimistic but wrong. Even so,
+that there were no more questions that I needed God to answer. That last thought was optimistic but wrong. Even so,
 these words from Jesus are powerful. While they do not answer all questions, they promise that every question I ask will be answered.
 And that assurance is liberating.
 
@@ -1449,7 +1449,8 @@ He asks, seeks and knocks, too. Faith is a two-sided affair. Here are the receip
 
 **ASK / ANSWER**.
 
-#### And they came again to Jerusalem. And as he was walking in the temple, 
+#### And they came again to Jerusalem. 
+#### And as he was walking in the temple, 
 #### the chief priests and the scribes and the elders came to him, 
 #### and they said to him, 
 ##### “By what authority are you doing these things, 
@@ -1512,14 +1513,16 @@ because we have become the ones he is looking for.
 ##### then he will answer you, 
 ###### 'I do not know where you come from.'
 ##### Then you will begin to say, 
-###### 'We ate and drank in your presence, and you taught in our streets.' 
+###### 'We ate and drank in your presence, 
+###### and you taught in our streets.' 
 ##### But he will say, 
 ###### 'I tell you, I do not know where you come from. 
 ###### Depart from me, all you workers of evil!'
 ##### In that place there will be weeping and gnashing of teeth, 
 ##### when you see Abraham and Isaac and Jacob and all the prophets 
 ##### in the kingdom of God but you yourselves cast out. 
-##### And people will come from east and west, and from north and south, 
+##### And people will come from east and west, 
+##### and from north and south, 
 ##### and recline at table in the kingdom of God. 
 ##### And behold, some are last who will be first, 
 ##### and some are first who will be last.”
