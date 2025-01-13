@@ -1606,7 +1606,79 @@ All those things that they have glimpsed, bring them face to face with he who ca
 
 ### Calling
 
-In progress...
+If any part of the Sermon on the Mount aligns crisply with its place in the *Ordo Salutis*,
+it is the conclusion. It is all about the Lord calling people to faith and how they respond.
+
+**The Uncalled**
+
+#### “Not everyone who says to me, 
+##### 'Lord, Lord,' 
+#### will enter the kingdom of heaven, but the one 
+#### who does the will of my Father who is in heaven.
+#### On that day many will say to me, 
+##### 'Lord, Lord, did we not prophesy in your name, 
+##### and cast out demons in your name, 
+##### and do many mighty works in your name?'
+#### And then will I declare to them,
+##### 'I never knew you; 
+##### depart from me, you workers of lawlessness.'
+
+**Build Your House on the Rock**
+
+#### **“Everyone then who hears these words of mine** 
+#### and does them will be like a wise man 
+#### who built his house on the rock.
+#### And the rain fell, and the floods came, 
+#### and the winds blew and beat on that house, 
+#### but it did not fall, because it had been 
+#### founded on the rock.
+#### **And everyone who hears these words of mine** 
+#### and does not do them will be like a foolish man 
+#### who built his house on the sand. 
+#### And the rain fell, and the floods came, 
+#### and the winds blew and beat against that house, 
+#### and it fell, and great was the fall of it.”
+
+**The Authority of Jesus**
+
+#### And when Jesus finished these sayings, the crowds 
+#### were astonished at his teaching, for he was teaching them 
+#### as **one who had authority**, and not as their scribes.
+###### - Matthew 7:21-29
+
+In the passage, there are three who call and there are four responses. The three who call are:
+
+  - The Prideful, Self-directed (the False prophets)
+  - The World's Experts (the Scribes)
+  - The Lord
+
+Religion pays well. False prophets crave fame, fortune and power over others. They may parrot some of Jesus' teachings,
+but they mean to direct those impulses to get people to follow them, not Jesus. Some may sincerely believe what they
+teach but being self-deluded is no defense before the Lord. Whether or not they have ever heard Jesus' call,
+it is not that call that they are following, so all who follow them are similarly mis-called.
+
+The experts, the religious authorities, scribes, pharisees and others like them have a megaphone. They are the
+cultural forces that have called us since birth. They have laid hold of some of the old truths and use them
+to lure in followers. The more cautious among them do not invent new truths or speak false prophecies.
+They lack true allegiance to God, true authority, and true power to implement those truths, thus robbing
+them of their vitality and discouraging people from believing and following that truth where it leads.
+
+Those two false callers are included here because without them, we cannot recognize our peril. We live in 
+a crowd of competing voices. All are calling out to us, but so is the Lord. Distinguishing his voice
+above the din is **the** challenge. Jesus makes the stakes clear: salvation or destruction.
+These are the ways that people respond:
+
+  - The cynic or atheist or ruined soul hears the voices and dismisses all of them. They refuse to build at all.
+  - The religious person goes along with the call of the False Prophets or the World's Experts and builds their life on their teachings.
+  - The faithless person hears the call of Jesus, affirms that it makes sense, but does not obey. He builds on something else, but may think he is building it on the rock.
+  - The faithful person hears the call of Jesus and in faith obeys his teachings, building on the rock.
+
+It all comes down to recognizing the voice of Jesus. The crowds were astonished, but most did not follow his call.
+What is sadder still is how even inside the church, many do not recognize his call.
+To address this, Jesus has ridden forth throughout church history to save his church again and again.
+In a way that resembles on a large scale the actions that he takes in saving a single sinner, 
+Jesus has poured out his blessings, his Beatitudes, upon his beloved church.
+He means for his church to be built upon the rock, starting with Peter and extending until he returns.
 
 <span id="7"/>
 
