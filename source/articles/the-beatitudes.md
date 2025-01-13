@@ -74,11 +74,11 @@ To quickly jump to each section:
 
 ## Admitting that You Need Help
 
-Decades ago I was sitting in a seminar related to my job. It had something to do with self-improvement and was based on ideas taken from psychology. The goal may have been to foster stronger teams in the workplace but the focus was on individual effort and advancement. Minutes before, the facilitator put up a slide on the projector with the neat and tidy steps that would get you to the goal. I had no background in this area, had taken no classes in psychology and human development and do not recall having read books related to the subject. All I had was an analytical mind and no sense of boundaries or the following of social norms, courtesy of my as yet undiagnosed Asperger’s. Give me a list and I will do four things. First, I will count it. Second, I will decide if any of the items are wrong or do not belong. Third, I will decide if any of them are out of sequence. Fourth and most difficult, I will search for holes. Are any steps in the process missing?
+Decades ago I was sitting in a seminar related to my job. It had something to do with self-improvement and was based on ideas taken from psychology. The goal may have been to foster stronger teams in the workplace but the focus was on individual effort and advancement. Minutes before, the facilitator put up a slide on the projector with the neat and tidy steps that would get you to the goal. I had no background in this area, had taken no classes in psychology and human development and do not recall having read books related to the subject. All I had was an analytical mind and no sense of boundaries or the following of social norms, courtesy of my as yet undiagnosed Asperger's. Give me a list and I will do four things. First, I will count it. Second, I will decide if any of the items are wrong or do not belong. Third, I will decide if any of them are out of sequence. Fourth and most difficult, I will search for holes. Are any steps in the process missing?
 
-Before the lecturer had a chance to finish summarizing these ideas which were the outline of the entire seminar, ideas which I had never seen before, I raised my hand and said, “You’re missing a step.” The man was a bit dumb-founded but humored me by asking what that step might be. I said, “The first step is that you have to want to change.”
+Before the lecturer had a chance to finish summarizing these ideas which were the outline of the entire seminar, ideas which I had never seen before, I raised my hand and said, “You're missing a step.” The man was a bit dumb-founded but humored me by asking what that step might be. I said, “The first step is that you have to want to change.”
 
-Isn’t that what repentance is? It is recognizing that you need to go in a new direction and to do that you need to change. Going beyond psychology, that recognition must be coupled with an admission that you cannot make those changes by yourself. You need God. No human program of self-improvement will succeed. You must admit you are poor and turn in faith to the God who is rich in forgiveness and grace. The lecturer in my seminar (and the authors of the course who stood behind him) missed that crucial first step. In Matthew 5-7 we get to listen in on a different seminar, taught by someone who did not miss. And yes, Jesus put that first step first. We call that first step of realizing that you have needs that only God can meet the Beatitudes.
+Isn't that what repentance is? It is recognizing that you need to go in a new direction and to do that you need to change. Going beyond psychology, that recognition must be coupled with an admission that you cannot make those changes by yourself. You need God. No human program of self-improvement will succeed. You must admit you are poor and turn in faith to the God who is rich in forgiveness and grace. The lecturer in my seminar (and the authors of the course who stood behind him) missed that crucial first step. In Matthew 5-7 we get to listen in on a different seminar, taught by someone who did not miss. And yes, Jesus put that first step first. We call that first step of realizing that you have needs that only God can meet the Beatitudes.
 
 These are the first seven Beatitudes:
 
@@ -103,7 +103,7 @@ It is curious that in the first four Beatitudes, the one to be blessed is descri
 That quest is to reap a spiritual harvest and the crop is named in the sixth blessing. The goal of that harvest is the impossible desire that drove Moses on: to see the face of God and live.
 
 Each blessing matches its corresponding phase in the [Harvest Pattern](./harvest-pattern.html). 
-Collectively, these seven constitute the heart that a determined harvester must have if they are to fulfill Jesus’ command 
+Collectively, these seven constitute the heart that a determined harvester must have if they are to fulfill Jesus' command 
 to make disciples of all nations. Before we see how this all fits together, there is a longer process of salvation at work: the path to glory.
 
 <span id="2"/>
@@ -239,8 +239,8 @@ The poor in spirit have set aside their pride. They have been called upon to rep
 ##### “**Repent**, for **the kingdom of heaven** is at hand.” 
 #### For this is he who was spoken of by the prophet Isaiah when he said, 
 ##### “The voice of one crying in the wilderness:
-###### ‘**Prepare** the way of the Lord;
-###### make his paths straight.’” 
+###### '**Prepare** the way of the Lord;
+###### make his paths straight.'” 
 ###### - Matthew 3:1-3, ESV
 
 We know this second because when Jesus began his ministry, his first words in the Gospel of Mark were, 
@@ -261,10 +261,10 @@ Why do we mourn? We mourn because we have lost something. Job learned of his fir
 that his cattle had been stolen by raiders while *“the oxen were plowing”* (Job 1:14) 
 Ever since then, plowing has been used as an analogy for suffering or judgment, 
 as in Psalm 129:3 (*“Plowmen have plowed my back and made their furrows long”*), Jeremiah 26:18, Hosea 12:11, Micah 3:12, Isaiah 28:22-29 and Ezekiel 36:9. 
-Ezekiel’s usage is powerful and on point, because it shows that even God’s judgment is intended to produce a blessing in the end. 
+Ezekiel's usage is powerful and on point, because it shows that even God's judgment is intended to produce a blessing in the end. 
 Ezekiel includes five of the seven phases of the Harvest and collapses the other two into one:
 
-#### “ ‘But you, mountains of Israel, will produce branches and fruit 
+#### “ 'But you, mountains of Israel, will produce branches and fruit 
 #### for my people Israel, **for they will soon come home**.
 #### I am concerned for you and will look on you with favor; 
 #### you will be **plowed and sown**, and I will cause 
@@ -289,7 +289,7 @@ Finally, the perpetual blessing of **peace** upon the generations to follow is c
 *“you will never again deprive them of their children”*. Of all the calamities that struck Job, the loss of his children was the hardest to bear, 
 so this is the greatest of promises.
 
-Isaiah’s word to the mournful focuses on the despairing attitude that the torment of plowing will never end.
+Isaiah's word to the mournful focuses on the despairing attitude that the torment of plowing will never end.
 
 #### Now stop your mocking, or your chains will become heavier;
 #### the Lord, the LORD Almighty, has told me
@@ -316,13 +316,13 @@ Isaiah’s word to the mournful focuses on the despairing attitude that the torm
 #### **whose wisdom is magnificent**. 
 ###### - Isaiah 28:22-29, NIV
 
-Isaiah speaks of plowing, sowing, threshing and producing bread. He speaks of the magnificence of God’s wisdom 
+Isaiah speaks of plowing, sowing, threshing and producing bread. He speaks of the magnificence of God's wisdom 
 and how he instructs us in the right way. The plowing does not last forever. 
 As Jesus promised, the one who mourns will be comforted.
 
 ### Planting: The Meek
 
-In the planting phase, what is planted is the seed of the gospel. How does that tie in with “Blessed are the meek”? How does that connect to inheriting the earth? Let’s start with the second. Among the people of this world, who conquers nations and extends their influence? It is the arrogant and greedy, the charismatic liars who gather multitudes to their cause, wage endless wars and build empires. How does Jesus stack up? In the desert, Satan tempted Jesus by offering him all the kingdoms of the earth in exchange for his worship. (Matthew 4:8-10) Jesus said no. He would go by what was written. He would only worship the Lord God. That was meekness. One day Jesus will return to conquer, but on the Father’s timetable, not his own or Satan’s. Thus an essential part of following the Beatitudes is to submit to God’s timing. This is emphasized in the psalm to which Jesus was referring when he pronounced his blessing:
+In the planting phase, what is planted is the seed of the gospel. How does that tie in with “Blessed are the meek”? How does that connect to inheriting the earth? Let's start with the second. Among the people of this world, who conquers nations and extends their influence? It is the arrogant and greedy, the charismatic liars who gather multitudes to their cause, wage endless wars and build empires. How does Jesus stack up? In the desert, Satan tempted Jesus by offering him all the kingdoms of the earth in exchange for his worship. (Matthew 4:8-10) Jesus said no. He would go by what was written. He would only worship the Lord God. That was meekness. One day Jesus will return to conquer, but on the Father's timetable, not his own or Satan's. Thus an essential part of following the Beatitudes is to submit to God's timing. This is emphasized in the psalm to which Jesus was referring when he pronounced his blessing:
 
 #### **Be still before the Lord and wait patiently for him**;
 ##### fret not yourself over the one who prospers in his way,
@@ -386,15 +386,15 @@ The spirit that attends this third harvest phase is the Spirit of Understanding.
 learning in humility the Word that proceeds from our good teacher. It is to learn through worship the mysteries of God. 
 This was not obvious to me.
 
-This is a good time to speak about the three kinds of insight that sound the same but aren’t: wisdom, understanding and knowledge. 
+This is a good time to speak about the three kinds of insight that sound the same but aren't: wisdom, understanding and knowledge. 
 They are respectively the second, third and sixth Spirits of God.
 
-**Wisdom**. Wisdom flows from suffering. Out of Job’s suffering he discovered all the qualities that he needed in a savior. 
+**Wisdom**. Wisdom flows from suffering. Out of Job's suffering he discovered all the qualities that he needed in a savior. 
 He needed a healer, a friend and mediator, one who could ransom his soul, follow him into the grave and raise him from the dead. 
 There are many dimensions to wisdom but it tends to encompass principles, not detailed action plans. 
 Key among these principles is grasping the way of salvation.
 
-**Knowledge**. This species of insight goes beyond wisdom down into the details of how God’s universe operates. Of all the subjects of knowledge, one is supreme: the knowledge of the Holy One.
+**Knowledge**. This species of insight goes beyond wisdom down into the details of how God's universe operates. Of all the subjects of knowledge, one is supreme: the knowledge of the Holy One.
 
 #### The fear of the Lord is the beginning of wisdom,
 ##### and the **knowledge of the Holy One** is insight.
@@ -405,7 +405,7 @@ Key among these principles is grasping the way of salvation.
 ###### - Proverbs 30:3
 
 The truest and highest knowledge is the knowledge of Jesus Christ. As first reported in *Peace, like Solomon Never Knew*, 
-seven books of the Bible constitute the seven pillars of wisdom which hold up Lady Wisdom’s house in Proverbs 9:1. 
+seven books of the Bible constitute the seven pillars of wisdom which hold up Lady Wisdom's house in Proverbs 9:1. 
 The sixth of those books, corresponding to the sixth spirit and the sixth phase of the Harvest Pattern, is the Gospel of Matthew. 
 You will find no better source for knowledge of the Holy One than one of the Gospels that chronicles his life.
 
@@ -448,7 +448,7 @@ Only when I got curious about the use of swords as symbolism in Scripture did I 
 I reported my discovery in “Swords, Seals & Surviving to Saturday” in my book *Peace, like Solomon Never Knew*. 
 It turns out that Moses prophesied this event in his final song:
 
-#### **“‘See now that I, even I, am he,**
+#### **“'See now that I, even I, am he,**
 ##### **and there is no god beside me;**
 #### **I kill and I make alive;**
 ##### **I wound and I heal;**
@@ -462,7 +462,7 @@ It turns out that Moses prophesied this event in his final song:
 #### I will make my arrows drunk with blood,
 ##### **and my sword shall devour flesh**—
 #### with the blood of the slain and the captives,
-##### from the long-haired heads of the enemy.’
+##### from the long-haired heads of the enemy.'
 ###### - Deuteronomy 32:39-42
 
 This amazing song prophesied a time when the Lord would draw His sword and fight for his people. 
@@ -529,11 +529,11 @@ The various translations of this beatitude say that the merciful will receive, b
 ##### but the kindest acts of the wicked are cruel.
 ###### - Proverbs 12:10, NIV
 
-The wicked think that the best help for people suffering pain or depression is euthanasia. The wicked think that the best help for a woman with an unwanted pregnancy is to abort the child. The wicked think that the best way to combat the drug trade is to legalize drugs. The wicked think that the best way to serve failing students is to give them passing grades so they don’t feel bad. The wicked think that denying African nations loans to build low cost energy infrastructure as a means to save the environment is kind even if it costs the lives of millions dying or being unable to get jobs for lack of access to inexpensive electricity. The wicked think that mining rare metals is so important to their rich lifestyle that it is kind to do it using child or slave labor. The wicked think that dangerous drugs and surgeries can turn women into men and men into women in the hope of reducing suicides among people confused about their gender, when research shows that the opposite occurs, plus life threatening complications. Unwise and uncaring social policies, promulgated in the name of helping people, pass for the world’s idea of kindness. That kindness is cruel. We need God to teach us what true mercy is. Those who start down that road by following what is already clear in the Bible will be led down new paths that deliver greater depths of mercy to the poor who are desperate to receive it. 
+The wicked think that the best help for people suffering pain or depression is euthanasia. The wicked think that the best help for a woman with an unwanted pregnancy is to abort the child. The wicked think that the best way to combat the drug trade is to legalize drugs. The wicked think that the best way to serve failing students is to give them passing grades so they don't feel bad. The wicked think that denying African nations loans to build low cost energy infrastructure as a means to save the environment is kind even if it costs the lives of millions dying or being unable to get jobs for lack of access to inexpensive electricity. The wicked think that mining rare metals is so important to their rich lifestyle that it is kind to do it using child or slave labor. The wicked think that dangerous drugs and surgeries can turn women into men and men into women in the hope of reducing suicides among people confused about their gender, when research shows that the opposite occurs, plus life threatening complications. Unwise and uncaring social policies, promulgated in the name of helping people, pass for the world's idea of kindness. That kindness is cruel. We need God to teach us what true mercy is. Those who start down that road by following what is already clear in the Bible will be led down new paths that deliver greater depths of mercy to the poor who are desperate to receive it. 
 
 ### Producing: The Pure in Heart
 
-The sixth spirit of God is the Spirit of Knowledge. It is the knowledge of the Holy One. One who is pure in heart has a holy heart. The blessing that they receive is to see God. Everyone in the audience that day when Jesus preached the Sermon on the Mount saw the face of a man. If any of them already had a pure heart, they would know that they were also looking at the face of God. It is not God’s absence that prevents us from seeing His face, it is our hearts. One who has pursued the previous blessings with great hunger and thirst and mercy will arrive at this stage with eyes that can perceive that face aright.
+The sixth spirit of God is the Spirit of Knowledge. It is the knowledge of the Holy One. One who is pure in heart has a holy heart. The blessing that they receive is to see God. Everyone in the audience that day when Jesus preached the Sermon on the Mount saw the face of a man. If any of them already had a pure heart, they would know that they were also looking at the face of God. It is not God's absence that prevents us from seeing His face, it is our hearts. One who has pursued the previous blessings with great hunger and thirst and mercy will arrive at this stage with eyes that can perceive that face aright.
 
 #### For God, who said, 
 ##### “Let light shine out of darkness,” 
@@ -541,7 +541,7 @@ The sixth spirit of God is the Spirit of Knowledge. It is the knowledge of the H
 #### **the knowledge of the glory of God in the face of Jesus Christ**.
 ###### - 2 Corinthians 4:6
 
-As we allow the Holy Spirit to lead us in repentance and wash us of all moral filth, our eyes will be cleaned of their filth and we shall see Jesus as he truly is. Just getting to the place where I realized that the pursuit of God’s glory is of first importance took me over twenty-five years. May it take you less time than I!
+As we allow the Holy Spirit to lead us in repentance and wash us of all moral filth, our eyes will be cleaned of their filth and we shall see Jesus as he truly is. Just getting to the place where I realized that the pursuit of God's glory is of first importance took me over twenty-five years. May it take you less time than I!
 
 ### Peace: The Peacemakers
 
@@ -551,7 +551,7 @@ After you bring in a harvest at the end of the season, you can enjoy peace. In t
 
 ## The *Ordo Salutis* according to Jesus
 
-Oh, I was ready to end the chapter here, but there are two more beatitudes and the phrase “be called sons of God” tickled a memory. That means to be adopted into God’s family. The doctrine of adoption is one that gave me trouble in my last book. While writing “Psalm 19: The Glory of God’s Law” for *Plague, Precept, Prophet, Peace*, I made a discovery. Verse by verse that Psalm gives the *Ordo Salutis*, the order of salvation. That sequence breaks the process of salvation into smaller steps and arranges them in order. Handy, no? Each denomination has its own version of the *Ordo Salutis* and they differ in the number of steps and their order. Of all the orders I have studied, none come closer to the order found in Psalm 19 than the Reformed order of eleven steps. Comparing Psalm 19 to the Reformed order, one step is missing (Predestination), one is vague (Election) and one is out of place (Adoption).
+Oh, I was ready to end the chapter here, but there are two more beatitudes and the phrase “be called sons of God” tickled a memory. That means to be adopted into God's family. The doctrine of adoption is one that gave me trouble in my last book. While writing “Psalm 19: The Glory of God's Law” for *Plague, Precept, Prophet, Peace*, I made a discovery. Verse by verse that Psalm gives the *Ordo Salutis*, the order of salvation. That sequence breaks the process of salvation into smaller steps and arranges them in order. Handy, no? Each denomination has its own version of the *Ordo Salutis* and they differ in the number of steps and their order. Of all the orders I have studied, none come closer to the order found in Psalm 19 than the Reformed order of eleven steps. Comparing Psalm 19 to the Reformed order, one step is missing (Predestination), one is vague (Election) and one is out of place (Adoption).
 
 So noticing a reference to Adoption in the Beatitudes, I had to see how much of the process of salvation was there and whether it matched what I had found when I studied Psalm 19. Surprise! Not only is most of the process also found in the Beatitudes, but it matches Psalm 19! Like the psalm, the first two Reformed steps – Predestination and Election – are missing. Again like Psalm 19, in the Beatitudes the step of Adoption is slightly out of order, coming after Sanctification, not before. The omitted steps happen to be the steps most in contention in the debates between those who hold to the Reformed tradition and the many others who argue against those doctrines. Thus the Beatitudes cannot be used to settle that debate. As for adoption, I am betting that it is the Reformed sequence that needs a tweak, not Jesus! So here is the Ordo Salutis according to Jesus, not a Christian denomination.
 
@@ -755,7 +755,7 @@ It is the third part of repentance that is the sticking point. It is tucked in b
 Who but a person of faith believes that by listening to the Lord, learning of your sins and then admitting them, you will receive a great reward?
 To act on that belief, you must be convinced that God is a loving and forgiving God, otherwise your confession will result only in punishment. 
 
-To heed the Lord’s warnings, of course, requires that you now keep his commands, showing the fruits of true repentance.
+To heed the Lord's warnings, of course, requires that you now keep his commands, showing the fruits of true repentance.
 
 **Beatitude**. Jesus tells us there is more to repentance than just believing God is loving and forgiving.
 
@@ -958,11 +958,11 @@ Adultery destroys families. Adoption makes a place in a family for someone who h
 
 We only run to hide behind, atop or inside a rock when we face persecution or hardship. 
 David hid from Saul in a cave. Having been perfected by God, may we persist in all subsequent actions 
-that we may remain "acceptable in \[God’s\] sight", hence persevere.
+that we may remain "acceptable in \[God's\] sight", hence persevere.
 
 **Beatitude**. The hint of persecution in Psalm 19 becomes an overt warning when Jesus speaks.
 
-#### Blessed are those who are persecuted for righteousness’ sake, 
+#### Blessed are those who are persecuted for righteousness' sake, 
 ##### for theirs is the kingdom of heaven.
 ###### - Matthew 5:10
 
@@ -1060,7 +1060,7 @@ trust in the promise of God that you will receive a righteous reward all your ow
 
 ### Reflections on the Process of Salvation
 
-In Psalm 19, King David prays to the Lord for salvation. In the Beatitudes, Jesus answers David’s prayer, point for point. 
+In Psalm 19, King David prays to the Lord for salvation. In the Beatitudes, Jesus answers David's prayer, point for point. 
 Later in the Sermon on the Mount, Jesus tells the people:
 
 #### Do not think that I have come to abolish the Law
@@ -1076,7 +1076,7 @@ By this interpretation, we can see that the Beatitudes define the whole process 
 
 With the system in this chapter, we have a Bible passage where each verse corresponds to a single step in the *Ordo Salutis*. This single passage contains the whole of it, with additional details supplied by Psalm 19. That is systematic and Biblical. It also suggests objectively that we have all the steps, at least at this level of granularity, e.g. some people break the calling into two parts, an internal and external call. This makes the order easier to defend and understand. Furthermore, the close correspondence with Psalm 19 means that we have both Old and New Testament support for this order.
 
-There are subtleties that demand further investigation, however. It is commonly accepted that sanctification occurs in two parts: positional and progressive. We are instantly sanctified in God’s eyes at the time of salvation, but the changes to our behavior that follow this occur over the course of a lifetime. This bifurcation may also apply to other steps.
+There are subtleties that demand further investigation, however. It is commonly accepted that sanctification occurs in two parts: positional and progressive. We are instantly sanctified in God's eyes at the time of salvation, but the changes to our behavior that follow this occur over the course of a lifetime. This bifurcation may also apply to other steps.
 
 The last thing to think about is who is responsible for accomplishing these steps of salvation. 
 The Beatitudes may speak of people showing mercy or being peacemakers, but each step begins and ends with a blessing.
@@ -1195,11 +1195,12 @@ O, this is a glorius promise!
 #### Do not think that I have come to abolish the Law or the Prophets; 
 #### I have not come to abolish them but to fulfill them. 
 #### For truly, I say to you, **until heaven and earth pass away**, 
-#### not an iota, not a dot, will pass from the Law until all is accomplished.
-#### Therefore whoever relaxes one of the least of these commandments 
-#### and teaches others to do the same will be called least in the 
-#### **kingdom of heaven**, but whoever does them and teaches them will be called 
-#### great in the **kingdom of heaven**. For I tell you, unless your righteousness 
+#### not an iota, not a dot, will pass from the Law 
+#### until all is accomplished. Therefore whoever relaxes one of 
+#### the least of these commandments and teaches others to do the same 
+#### will be called least in the **kingdom of heaven**, but whoever 
+#### does them and teaches them will be called great in the 
+#### **kingdom of heaven**. For I tell you, unless your righteousness 
 #### exceeds that of the scribes and Pharisees, you will never enter 
 #### the **kingdom of heaven**.
 ###### - Matthew 5:17-20
@@ -1392,7 +1393,171 @@ so that your heavenly Father may remove all obstacles to changing your heart's d
 
 ### Faith
 
-In progress...
+The magnitude of these next words hit me in the early 1990's, the first fruit of memorizing the Sermon on the Mount.
+This knowledge rocked my world. I knew that I had just learned one of the great secrets of the faith. Indeed these words 
+form the core of our faith. They define faith. I was confident that knowing this truth would liberate me so that I would be
+far more effective and fruitful as a Christian. I thought that this truth was so comprehensive and so powerful 
+that there were no more questions that I needed God to answer. That last though was optimistic but wrong. Even so,
+these words from Jesus are powerful. While they do not answer all questions, they promise that every question I ask will be answered.
+And that assurance is liberating.
+
+#### **Ask**, and it will be given to you; 
+##### **seek**, and you will find; 
+###### **knock**, and it will be opened to you.
+#### For everyone who **asks** receives, 
+##### and the one who **seeks** finds, 
+###### and to the one who **knocks** it will be opened.
+#### Or which one of you, if his son asks him for bread, 
+##### will give him a stone? 
+#### Or if he asks for a fish, 
+##### will give him a serpent?
+#### If you then, who are evil, 
+##### know how to give good gifts to your children, 
+#### how much more will your Father who is in heaven 
+##### give good things to those who ask him!
+#### So whatever you wish that others would do to you, 
+##### do also to them, 
+###### for this is the Law and the Prophets.
+#### Enter by the **narrow gate**. 
+#### For the gate is wide and the way is easy
+##### that leads to destruction, 
+###### and those who enter by it are many. 
+#### For the gate is narrow and the way is hard 
+##### that leads to life, 
+###### and those who find it are few.
+###### - Matthew 7:7-14
+
+The narrow gate is the path of faith in Jesus, for Jesus is the gate of the sheep (John 10:7).
+Seems simple enough. The complication is that it is possible to walk a narrow path that does not lead to life.
+The Golden Rule of verse 12 is impossible to follow. It is impossible because after a few hours or days of
+"doing unto others", the pump symbol on your soul's dashboard blinks orange. Then your spiritual gas tank hits empty.
+An atheistic humanist can follow that path, because the energy to serve your neighbor is coming from yourself, not from God.
+The insight that amazed me was in the first verses. We are to ask, seek and knock on heaven's door for the resources
+to love our neighbor, then begin our work in faith before all the resources arrive, trusting that the Father will resupply us
+in due time. Faith is relying on God's love for us when we love our neighbors, as the Apostle John so wonderfully put it:
+
+#### And so **we know and rely on the love God has for us**.
+#### God is love. Whoever lives in love lives in God, 
+#### and God in them.
+###### - 1 John 4:16, NIV
+
+Believing that God will answer our questions, show us the path we seek and open the door of fellowship when we are lonely 
+and in need of protection sounds like it is talking about faith, but there is more to faith than that. 
+Faith means listening via the Holy Spirit as Jesus questions us. Faith means relief at knowing that Jesus seeks us when we are lost.
+Faith means excitement at hearing the knock at the door when Jesus comes for a visit. Jesus is like us. 
+He asks, seeks and knocks, too. Faith is a two-sided affair. Here are the receipts.
+
+**ASK / ANSWER**.
+
+#### And they came again to Jerusalem. And as he was walking in the temple, 
+#### the chief priests and the scribes and the elders came to him, 
+#### and they said to him, 
+##### “By what authority are you doing these things, 
+##### or who gave you this authority to do them?”
+#### Jesus said to them, 
+##### “I will **ask** you one **question**; **answer** me, and I will tell you 
+##### by what authority I do these things. Was the baptism of John 
+##### from heaven or from man? Answer me.”
+#### And they discussed it with one another, saying, 
+##### “If we say, 'From heaven,' he will say, 
+##### 'Why then did you not believe him?'
+##### But shall we say, 'From man'?” -
+#### they were afraid of the people, for they all held 
+#### that John really was a prophet.
+###### - Mark 11:26-32
+
+In Mark, Jesus is asked a question but in return asks a bigger question. 
+It is not he who needs to decide from where his authority derives, it is us.
+Our answer is not an exercise in logic, the flashing of a government badge, or a miraculous sign.
+Our answer is a decision, our decision. We decide if Jesus is to hold authority over us, then we obey.
+
+**SEEK / FIND**.
+
+#### And he told them a parable to the effect that they ought always 
+#### to pray and not lose heart. He said, 
+##### “In a certain city there was a judge who neither feared God 
+##### nor respected man. And there was a widow in that city who 
+##### kept coming to him and saying, 
+###### 'Give me justice against my adversary.' 
+##### For a while he refused, but afterward he said to himself, 
+###### 'Though I neither fear God nor respect man, yet because 
+###### this widow keeps bothering me, I will give her justice, 
+###### so that she will not beat me down by her continual coming.'”
+#### And the Lord said, 
+##### “Hear what the unrighteous judge says. And will not God 
+##### give justice to his elect, who cry to him day and night? 
+##### Will he delay long over them? I tell you, he will give justice 
+##### to them speedily. Nevertheless, **when the Son of Man comes**, 
+##### **will he find faith on earth**?”
+###### - Luke 18:1-8
+
+When Jesus returns to earth, will he find any faith? By this parable, we know what Jesus
+is seeking. This is a hard verse to read and a hard question to stomach. Jesus doesn't tell us the answer.
+It is an honest question and it tells us what we should be seeking. If we seek riches or personal glory,
+it benefits us little if we find them. If Jesus seeks faith, that is what we should seek.
+We should seek to be transformed from faithless people in to ones who are ready for the day he returns
+because we have become the ones he is looking for.
+
+**KNOCK / OPEN**.
+
+#### He went on his way through towns and villages, teaching and 
+#### journeying toward Jerusalem. And someone said to him, 
+##### **“Lord, will those who are saved be few?**” 
+#### And he said to them, 
+##### “Strive to enter through the **narrow door**. For many, I tell you, 
+##### will seek to enter and will not be able. When once the 
+##### master of the house has risen and shut the door, and you begin 
+##### to stand outside and to **knock at the door**, saying, 
+###### 'Lord, open to us,' 
+##### then he will answer you, 
+###### 'I do not know where you come from.'
+##### Then you will begin to say, 
+###### 'We ate and drank in your presence, and you taught in our streets.' 
+##### But he will say, 
+###### 'I tell you, I do not know where you come from. 
+###### Depart from me, all you workers of evil!'
+##### In that place there will be weeping and gnashing of teeth, 
+##### when you see Abraham and Isaac and Jacob and all the prophets 
+##### in the kingdom of God but you yourselves cast out. 
+##### And people will come from east and west, and from north and south, 
+##### and recline at table in the kingdom of God. 
+##### And behold, some are last who will be first, 
+##### and some are first who will be last.”
+###### - Luke 13:22-30
+
+This is the counterpoint to the Sermon on the Mount. The question put to Jesus makes it certain
+that the topic is faith, how many will be saved. Again we hear of the narrow door but this
+time meet the people who knock on the door but it is not opened. The answer that Jesus
+gives is ironic. The curious person thinks in terms of odds. Lots of people in this world are like him and 
+can't be troubled to fight for certainty, to wrestle the angel like Jacob until they win the blessing.
+These people figure that most people are good enough to get into heaven, so they have a good shot 
+and that is enough to satisfy them. No extreme effort on their part is warranted.
+What does Jesus' answer tell us? It tells us that playing the odds will not work. It is no way to live. 
+Playing the odds is not faith, despite what Blaise Pascal may have argued with his famous wager.
+Playing the odds is complacency. Jesus told this man that people from all around the world would find faith and be saved. 
+Awesome! Great odds then, yes? No! Jesus is telling him that many Gentiles will be saved, but
+many Jews will not! The odds are great for the Gentiles, but not for him! So, as an American Protestant, shall I take
+comfort from Jesus' answer? No, because to me Jesus would answer that billions of people from around the world
+will be saved, but not many Americans. No matter where you live, the answer is the same. 
+For people who play the odds, no matter where you live the odds will be terrible. But if you trust in Jesus,
+the odds are 100%.
+
+Sixty odd years after speaking to a complacent Jew, Jesus in a vision spoke to a complacent church, the church of Laodicea. 
+They thought themselves a prosperous, successful church. He thought otherwise. After a lengthy scold, he made that church an offer:
+
+#### Behold, I stand at the door and **knock**. 
+#### If anyone hears my voice and **opens the door**, 
+#### I will come in to him and eat with him, and he with me.
+###### - Revelation 3:20
+
+We are invited to ask for help. Jesus asks us who we think that helper is.
+
+We are invited to seek direction. Jesus is seeking to find if that direction proceeds from faith in him and leads towards loving our neighbor.
+
+We are invited to knock on his door. Jesus and a hundred others will come to knock on our door. Can we tell which voice is his?
+
+Asking, seeking and knocking go both ways. Faith is being certain that when you do these things from your side,
+the Lord is on the other side saying, "Right back atcha."
 
 ### Regeneration
 
