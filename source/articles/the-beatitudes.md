@@ -185,9 +185,9 @@ When we consider how the Beatitudes reveal the Order of Salvation, it will be ap
 
 Each triplet of Beatitudes and their corresponding step toward salvation has one devoted to each member of the Trinity:
 
-  - The Son **calls**, the Spirit **regenerates**, and the Father grants **faith**
+  - The Son **calls**, the Spirit **regenerates**, and the Father grants **faith** (in the Son)
   - The Son teaches the prayer of **repentance**, the Father **justifies**, and the Spirit **sanctifies**
-  - The Father **adopts**, the Spirit enables **perseverance**, and the Son **glorifies** - *when he comes on that day to be **glorified** in his saints* (2 Thessalonians 1:10)
+  - The Spirit **adopts**, the Son models **perseverance**, and the Father **glorifies**
 
 In truth, all three persons participate in all phases, but one dominates each. For example, the sixth statement by Jesus and the last before the Beatitudes was Jesus calling his first 
 disciples. So Jesus is the one who calls, but the choice of whom to call was made by the Father, who gave them to him (John 10:29,17:9).
@@ -197,6 +197,30 @@ Likewise, we are saved by faith in Jesus as our savior, but it is the Father who
 #### coming down from the **Father of lights**, 
 #### with whom there is no variation or shadow due to change.
 ###### - James 1:17
+
+The last three steps of Salvation gave me the most trouble. In my first version of this article, I had the Father adopting, 
+the Spirit persevering, and the Son glorifying. It felt right, but I had not bothered to check Scripture. 
+Jesus speaks of his own glorification in John at least five times, and each time he says that it is the Father who glorifies him, 
+such as here:
+
+#### Jesus answered,
+##### "If I glorify myself, my glory is nothing.
+#####  It is my Father who glorifies me, of whom you say, 
+###### 'He is our God.'"
+###### - John 8:54
+
+As for adoption, that one was trickier. In Ephesians 1:5 we learn that the Father is the one who predestines a person for adoption, 
+but it is done through the Son. Romans 8:15,23 speaks of "the Spirit of Adoption" and calls our adoption the "firstfruits of the Spirit".  
+Galatians is clearer, saying,
+
+#### to redeem those who were under the law, 
+#### so that we might receive adoption as sons. 
+#### And because you are sons, God has sent the 
+#### Spirit of his Son into our hearts, crying, 
+##### “Abba! Father!” 
+###### - Galatians 4:5-6
+
+Adoption is not something that is done, it is something that is received, and what is received is the Holy Spirit. 
 
 **The Law**. Fourth, though there are nine Beatitudes, the last one is extra long. Each Beatitude corresponds to one of the Ten Commandments, 
 but the last one matches two (against lying and covetousness). This begins the transformation of a law that brings death into one that brings eternal life.
