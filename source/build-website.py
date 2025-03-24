@@ -363,12 +363,12 @@ def get_scripture_index_template() -> str:
 # HTML element by an empty string.
 # This also assumes that the macro_name does not contain the dollar signs that wrap it.
 def remove_macro(macro_name: str, text: str) -> str:
-  regex = f'<[^<$]+\${macro_name}\$<[^>]+>'
-  return re.sub(regex, "", text)
+  pattern = f'<[^<$]+[$]{macro_name}[$]<[^>]+>'
+  return re.sub(pattern, "", text)
 
 def replace_macro(macro_name: str, macro_value: str, text: str) -> str:
-  regex = f'\${macro_name}\$'
-  return re.sub(regex, macro_value, text)
+  pattern = f'[$]{macro_name}[$]'
+  return re.sub(pattern, macro_value, text)
 
 def build_toc(sitemap: dict, title: str, do_select: bool = True) -> str:
   # If caller has already selected the title, no need to repeat.
