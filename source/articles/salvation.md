@@ -36,7 +36,8 @@ One thing worth mentioning is that the nine steps of Salvation can be broken int
   - A Believer whose condition is that of a servant, like an heir whose fortune is supervised by a custodian while waiting until they reach adulthood
   - A Son who has been adopted into God's family, reached majority and enjoys full privileges concerining their inheritance
 
-![Salvation Pattern Personas](images/salvation-decalogue.png)
+<p><img class="wide" src="images/salvation-model.png" alt="Salvation Model"/></p>
+
 
 To give you a flavor of how each salvation list reveals a different facet of this gem:
 
