@@ -147,6 +147,7 @@ Other articles in this section:
     <li> <a href="./riddles.html">Riddles: Introduction to Biblical riddles</a> </li>
     <li> <a href="./the-righteous-fall-seven-times.html">The Righteous Fall Seven Times: Proverbs 24 tells us when the righteous will fall - and rise again.</a> </li>
     <li> <a href="./twice-a-thousand-years.html">Twice a Thousand Years: A Riddle from Ecclesiastes 6</a> </li>
+    <li> <a href="./solomon-s-countdown.html">Solomon Keeps Perfect Time</a> </li>
     <li> <a href="./seven-pillars-riddle.html">The Seven Pillars of Wisdom: What holds up Lady Wisdom's House in Proverbs 9?</a> </li>
     <li> <a href="./riddle-of-153-fish.html">Why 153 Fish?: The Miraculous Catch of Fish from John 21</a> </li>
     <li> <a href="./riddles-of-war.html">Riddles of War: The Battle Cry of Proverbs 30</a> </li>

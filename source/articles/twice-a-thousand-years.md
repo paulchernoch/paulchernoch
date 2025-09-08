@@ -329,6 +329,12 @@ The endpoints of the final two times are not certain. In Mark it says:
 For this reason, Christ may return at any time. Most agreeable would be to cut short the
 time for war.
 
+The above list of times are shown in a linear fashion, like a clock ticking off equal intervals.
+There is another way to look at the twenty-eight times: as a cohntdown timer.
+
+See <a href="./solomon-s-countdown.html">Solomon Keeps Perfect Time</a> for that countdown timeer. 
+It argues that God has been overturning civilizations at an accelerating rate, pointing to the end when he returns.
+
 </hr>
 
 ## A Proper Burial
@@ -382,6 +388,7 @@ Other articles in this section:
     <li> <a href="./riddles.html">Riddles: Introduction to Biblical riddles</a> </li>
     <li> <a href="./the-righteous-fall-seven-times.html">The Righteous Fall Seven Times: Proverbs 24 tells us when the righteous will fall - and rise again.</a> </li>
     <li> <a href="./twice-a-thousand-years.html">Twice a Thousand Years: A Riddle from Ecclesiastes 6</a> </li>
+    <li> <a href="./solomon-s-countdown.html">Solomon Keeps Perfect Time</a> </li>
     <li> <a href="./seven-pillars-riddle.html">The Seven Pillars of Wisdom: What holds up Lady Wisdom's House in Proverbs 9?</a> </li>
     <li> <a href="./riddle-of-153-fish.html">Why 153 Fish?: The Miraculous Catch of Fish from John 21</a> </li>
     <li> <a href="./riddles-of-war.html">Riddles of War: The Battle Cry of Proverbs 30</a> </li>

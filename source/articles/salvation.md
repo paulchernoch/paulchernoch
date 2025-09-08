@@ -54,13 +54,13 @@ To give you a flavor of how each salvation list reveals a different facet of thi
 The Salvation Pattern has nine steps:
 
   1. Calling
-  2. Regeneration (Being Born again). Also includes Illumination.
+  2. Regeneration (Being Born again). Also includes Illumination, Effective Call.
   3. Faith
   4. Repentance
   5. Justification (Forgiveness of sins, imputation of righteousness, peace with God)
   6. Sanctification
   7. Adoption (Becoming a child of God)
   8. Perseverance
-  9. Glorification (Resurrection or Rapture wjhen Christ returns)
+  9. Glorification (Resurrection or Rapture when Christ returns)
 
 Under construction...
