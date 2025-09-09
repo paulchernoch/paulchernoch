@@ -51,7 +51,7 @@ To give you a flavor of how each salvation list reveals a different facet of thi
   - The Rest of the Sermon on the Mount shows that salvation is by faith, but faith is proven by our works
   - Ephesians sets the salvation of the church as a body alongside the salvation of individual Christians
 
-The Salvation Pattern has nine steps:
+The Salvation Pattern has from nine to twelve steps. The short versin is:
 
   1. Calling
   2. Regeneration (Being Born again). Also includes Illumination, Effective Call.
@@ -62,5 +62,25 @@ The Salvation Pattern has nine steps:
   7. Adoption (Becoming a child of God)
   8. Perseverance
   9. Glorification (Resurrection or Rapture when Christ returns)
+
+The preceding version combines Illumination with Regeneration, which is common in Bible passages that list the steps. On other occasions, Illumination is inserted as the third step, between Regeneration and Faith. The longer version has twelve steps:
+
+  1. Election
+  2. Predestination
+  3. Calling
+  4. Regeneration (Being Born again)
+  5. Illumination (the Effective Call)
+  6. Faith
+  7. Repentance
+  8. Justification
+  9. Sanctification
+  10. Adoption
+  11. Perseverance
+  12. Glorification
+
+Election and Predestination occur before you were born. Technically, since you did not yet exist, you did not need saving, so those are essential planning steps before salvation. There are a few places in the Bible where all twelve steps are listed, a few more where ten are given, very many where nine are given, and a few shorter lists. These "salvation lists" seldom use the theological terms to name what they are about. Justification may be simply "mercy" or "forgiveness" and Illumination "the light of the world". It is by comparing its place in the rest of the list that the context makes clear what step is intended in a given verse or paragraph. Here is a table showing where these salvation lists may be found in the Bible:
+
+<img class="center" src="./images/ordo-salutis-is-everywhere.png" alt="The Ordo Salutis is everywhere" />
+
 
 Under construction...
