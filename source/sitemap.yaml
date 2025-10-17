@@ -207,6 +207,14 @@
     named: salvation.md
     image: fa-solid fa-cross
     dates: [2025-03-24]
+  - title: Discipleship
+    named: discipleship-model.md
+    image: fas fa-hands-helping
+    dates: [2025-10-17]
+    parts:
+    - title: The Yoke of Jesus
+      named: yoke-of-jesus.md
+      dates: [2025-10-17]
   - title: The End Times
     image: fas fa-hourglass-half
     dates: [2024-07-15]

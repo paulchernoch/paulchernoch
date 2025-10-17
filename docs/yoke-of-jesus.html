@@ -1,0 +1,504 @@
+
+<!DOCTYPE html>
+<head>
+  <!--from template: default-page.html -->
+  <title>The Yoke of Jesus</title>
+  <link rel="stylesheet" href="./styles/gryptocram.css" type="text/css">
+  <link rel="stylesheet" href="./styles/tree.css" type="text/css">
+  <link rel="stylesheet" href="./styles/toc.css" type="text/css">
+  <link rel="stylesheet" href="./styles/article.css" type="text/css">
+  <!-- Font Awesome supplies the icons used in the TOC -->
+  <script src="https://kit.fontawesome.com/ecadd7b212.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="./styles/page.css" type="text/css">
+
+  <!-- Pagefind code for search bar -->
+  <meta http-equiv="Content-Security-Policy" content="default-src *; img-src 'self' data:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' 'unsafe-eval' *">
+  <link href="./pagefind/pagefind-ui.css" rel="stylesheet">
+  <script src="./pagefind/pagefind-ui.js"></script>
+
+  <script>
+    /* Search for a css class name in an HTML element and replace it with a second class. */
+    function replace_class(element, from_class, to_class) {
+      element.classList.remove(from_class)
+      element.classList.add(to_class)
+    }
+
+    /* Show or hide the table of contents menu in the left sidebar by changing the style classes.
+       Also show and hide the buttons used to open and close the menu.
+     */
+    function toggleLeftSidebar(open) {
+      const sidebar = document.getElementById("leftsidebar");
+      const open_button = document.getElementById("leftsidebaropen");
+      const close_button = document.getElementById("leftsidebarclose");
+      const body = document.getElementById("articlebody")
+     
+      if (open) {
+        replace_class(sidebar, "leftsidebar-closed", "leftsidebar-open")
+        replace_class(open_button, "show-toggle", "hide-toggle")
+        replace_class(close_button, "hide-toggle", "show-toggle")
+        replace_class(body, "body-wide", "body-narrow")
+      }
+      else {
+        replace_class(sidebar, "leftsidebar-open", "leftsidebar-closed")
+        replace_class(open_button, "hide-toggle", "show-toggle")
+        replace_class(close_button, "show-toggle", "hide-toggle")
+        replace_class(body, "body-narrow", "body-wide")
+      }
+   }
+
+  </script>
+  <script>
+    // Ctrl-F, Cmd-F or Option-F will scroll the document so that the user can see the search bar, which is in the footer.
+    document.addEventListener("keydown", function(event) {
+    if ((event.ctrlKey || event.altKey || event.metaKey) && event.key === "f") {
+        const searchParagraph = document.getElementById("searchbar");
+        if (searchParagraph) {
+            searchParagraph.scrollIntoView({ behavior: "smooth" });
+        }
+    }
+});
+  </script>
+</head>
+<html>
+
+
+<body>
+  <!-- Floating buttons to open and close the TOC -->
+  <div id="toggle">
+    <div class="tooltip">
+
+      <a id="leftsidebaropen" class="hide-toggle" role="button" tabindex="1" onclick="toggleLeftSidebar(true)" >
+        <i class="fas fa-angle-double-right"></i>
+        <span class="tooltiptext">Show</span>
+      </a>
+      <a id="leftsidebarclose" class="show-toggle" role="button" tabindex="2" onclick="toggleLeftSidebar(false)">
+        <i class="fas fa-angle-double-left"></i>
+        <span class="tooltiptext">Hide</span>
+      </a>
+    </div>
+  </div>
+  <!-- Page Header -->
+  <div class="header header-colors">
+    <a href="index.html">
+      <img src="images/wisdom-house.png" width="676" height="250"/>
+    </a>
+
+    <div class="quote">Take my yoke upon you, <br/> and learn from me, <br/> for I am gentle and lowly in heart, <br/> and you will find rest for your souls. <br/> - Matthew 11:29</div>
+
+  </div>
+  <!-- Left Sidebar TOC -->
+  <div class="container">
+    <div id="leftsidebar" class="leftsidebar-open left-side-colors" tabindex="0">
+        <ul class="tree-padding tree-vertical-lines tree-horizontal-lines tree-summaries tree-markers tree-buttons">
+          <li>
+            <details open="">
+              <summary><i class="fa-solid fa-house-chimney"></i> <a href="home.html">Home</a></summary>
+                <ul>
+                  <li><i class="fas fa-address-card"></i> <a href="about.html">About this Site</a></li>
+                  <li><i class="fas fa-feather-alt"></i> <a href="author.html">Author</a></li>
+                  <li><i class="fa-solid fa-envelope"></i> <a href="contact.html">Contact</a></li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-book"></i> <a href="books.html">Books</a></summary>
+                        <ul>
+                          <li> <a href="the-endless-hunt.html">The Endless Hunt</a></li>
+                          <li> <a href="job-rises.html">Job Rises</a></li>
+                          <li> <a href="peace-book.html">Peace, Like Solomon Never Knew</a></li>
+                          <li> <a href="plague-book.html">Plague, Precept, Prophet, Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li><i class="fa-solid fa-user-secret"></i> <a href="secret.html">Shhhh! Secret!</a></li>
+                  <li>
+                    <details>
+                      <summary><i class="fa-solid fa-building-columns"></i> <a href="lady-wisdom-s-house.html">Lady Wisdom's House</a></summary>
+                        <ul>
+                          <li> <a href="lady-wisdom.html">Lady Wisdom</a></li>
+                          <li> <a href="hannah-s-song.html">Hannah's Song</a></li>
+                          <li> <a href="blueprint.html">Blueprint for Lady Wisdom's House</a></li>
+                          <li> <a href="foundation.html">Foundation: The Commandments</a></li>
+                          <li> <a href="seven-spirits.html">Lanterns: The Seven Spirits of God</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="seven-pillars-of-wisdom.html">Seven Pillars of Wisdom</a></summary>
+                                <ul>
+                                  <li> <a href="theme-of-books.html">Theme of Books</a></li>
+                                  <li> <a href="theme-of-swords.html">Theme of Swords</a></li>
+                                  <li> <a href="theme-of-pillars.html">Theme of Pillars</a></li>
+                                  <li> <a href="theme-of-thunders.html">Theme of Thunders</a></li>
+                                  <li> <a href="theme-of-spirits.html">Theme of Spirits</a></li>
+                                  <li> <a href="theme-of-songs.html">Theme of Songs</a></li>
+                                  <li> <a href="theme-of-treasures.html">Theme of Treasures</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="roof-of-peace.html">Roof: Paul's Gospel of Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-seedling"></i> <a href="spiritual-growth.html">Spiritual Growth</a></summary>
+                        <ul>
+                          <li> <a href="most-important-questions.html">What are life's Most Important Questions?</a></li>
+                          <li> <a href="heavenly-treasures.html">What are the Heavenly Treasures?</a></li>
+                          <li> <a href="harvest-pattern.html">The Harvest Pattern of Jesus</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="growth-pattern.html">The Growth Pattern of Solomon</a></summary>
+                                <ul>
+                                  <li> <a href="there-is-a-season.html">There is a Season</a></li>
+                                  <li> <a href="pauls-discipleship-program.html">The Apostle Paul's Discipleship Program</a></li>
+                                  <li> <a href="discipleship.html">Seven Facets of Spirit-led Discipleship</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="the-beatitudes.html">The Beatitudes and the Order of Salvation</a></li>
+                          <li> <a href="the-motherhood-pattern.html">The Motherhood Pattern</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="law-pattern.html">The Law Pattern of Moses</a></summary>
+                                <ul>
+                                  <li> <a href="which-ten-commandments.html">Which Ten Commandments?</a></li>
+                                  <li> <a href="matthew-and-the-law-of-christ.html">Matthew and the Law of Christ</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="the-journey-pattern.html">The Journey Pattern</a></li>
+                          <li> <a href="emotional-prophecies-of-the-psalms.html">Emotional Prophecies of the Psalms</a></li>
+                          <li> <a href="talk-to-god.html">Job and the Ways to Talk to God</a></li>
+                          <li> <a href="job-description-for-a-savior.html">Job Description for a Savior</a></li>
+                          <li> <a href="dreams.html">Dreams</a></li>
+                          <li> <a href="spiritual-warfare.html">Spiritual Warfare</a></li>
+                          <li> <a href="golden-rule.html">The Golden Rule</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li><i class="fa-solid fa-cross"></i> <a href="salvation.html">The Salvation Pattern</a></li>
+                  <li>
+                    <details open="">
+                      <summary><i class="fas fa-hands-helping"></i> <a href="discipleship-model.html">Discipleship</a></summary>
+                        <ul>
+                          <li> <a href="yoke-of-jesus.html">The Yoke of Jesus</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-hourglass-half"></i> <a href="the-end-times.html">The End Times</a></summary>
+                        <ul>
+                          <li> <a href="seven-cycles-of-judgment.html">Seven Cycles of Judgment</a></li>
+                          <li> <a href="the-millennial-kingdom.html">The Millennial Kingdom</a></li>
+                          <li> <a href="four-horsemen.html">The Four Horsemen of the Apocalypse</a></li>
+                          <li> <a href="industrial-revolution.html">The Fifth Trumpet and the Industrial Revolution</a></li>
+                          <li> <a href="the-fifth-seal.html">The Fifth Seal</a></li>
+                          <li> <a href="seven-thunders.html">Voice of the Seven Thunders</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-list-ol"></i> <a href="numerology.html">Numerology</a></summary>
+                        <ul>
+                          <li> <a href="to-number-our-days.html">To Number our Days</a></li>
+                          <li> <a href="2-is-for-jesus.html">2 is for Jesus</a></li>
+                          <li> <a href="3-is-for-the-father.html">3 is for the Father</a></li>
+                          <li> <a href="4-is-for-cycles-of-nature.html">4 is for Cycles of Nature</a></li>
+                          <li> <a href="5-is-for-grace.html">5 is for Grace</a></li>
+                          <li> <a href="6-is-for-man.html">6 is for Man</a></li>
+                          <li> <a href="7-is-for-the-holy-spirit.html">7 is for the Holy Spirit</a></li>
+                          <li> <a href="17-is-for-victory.html">17 is for Victory</a></li>
+                          <li> <a href="28-is-for-time.html">28 is for Time</a></li>
+                          <li> <a href="40-is-for-suffering.html">40 is for Suffering</a></li>
+                          <li> <a href="42-is-for-the-journey.html">42 is for the Journey</a></li>
+                          <li> <a href="120-is-for-consecration.html">120 is for Consecration</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="153-is-for-total-victory.html">153 is for Total Victory</a></summary>
+                                <ul>
+                                  <li> <a href="153-connections.html">153 Connections</a></li>
+                                  <li> <a href="defining-153.html">Defining 153</a></li>
+                                  <li> <a href="153-and-fear.html">153 and Fear</a></li>
+                                  <li> <a href="153-and-hope.html">153 and Hope</a></li>
+                                  <li> <a href="habakkuk-part-1.html">Habakkuk Part 1</a></li>
+                                  <li> <a href="habakkuk-part-2.html">Habakkuk Part 2</a></li>
+                                  <li> <a href="habakkuk-part-3.html">Habakkuk Part 3</a></li>
+                                  <li> <a href="habakkuk-part-4.html">Habakkuk Part 4</a></li>
+                                  <li> <a href="habakkuk-part-5.html">Habakkuk Part 5</a></li>
+                                  <li> <a href="habakkuk-part-6.html">Habakkuk Part 6</a></li>
+                                  <li> <a href="habakkuk-part-7.html">Habakkuk Part 7</a></li>
+                                  <li> <a href="153-and-the-fifth-trumpet.html">153 and the Fifth Trumpet</a></li>
+                                  <li> <a href="habakkuk-s-war.html">Habakkuk's War</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="210-is-for-peace.html">210 is for Peace</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-scroll"></i> <a href="prophetic-clocks.html">Prophetic Clocks</a></summary>
+                        <ul>
+                          <li> <a href="types-of-clock.html">Types of Clock</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="generational-clocks.html">Generational Clocks</a></summary>
+                                <ul>
+                                  <li> <a href="job-s-anti-jubilee-clock-defined.html">Job's Anti-Jubilee Clock, Defined</a></li>
+                                  <li> <a href="alexander-the-great.html">The Death of Alexander the Great</a></li>
+                                  <li> <a href="psalm-119.html">Psalm 119: The Shepherd's Clock</a></li>
+                                  <li> <a href="generations-come-and-go.html">Generations Come and Go</a></li>
+                                  <li> <a href="two-patterns-in-history.html">Two Patterns in History</a></li>
+                                  <li> <a href="acrostic-clock.html">The Acrostic Clock</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li>
+                            <details>
+                              <summary> <a href="celestial-clocks.html">Celestial Clocks</a></summary>
+                                <ul>
+                                  <li> <a href="grandfather-clock.html">A Grand Father Clock & a Silver Cord</a></li>
+                                  <li> <a href="psalm-107.html">Psalm 107: Where is the Love?</a></li>
+                                  <li> <a href="psalm-102.html">Psalm 102</a></li>
+                                  <li> <a href="proverbs-1-to-3.html">Proverbs 1 to 3</a></li>
+                                  <li> <a href="proverbs-4-to-19.html">Proverbs 4 to 19</a></li>
+                                  <li> <a href="proverbs-20-to-29.html">Proverbs 20 to 29</a></li>
+                                  <li> <a href="proverbs-30-to-31.html">Proverbs 30 to 31</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="spiritual-clocks.html">Spiritual Clocks</a></li>
+                          <li>
+                            <details>
+                              <summary> <a href="empire-clocks.html">Empire Clocks</a></summary>
+                                <ul>
+                                  <li> <a href="timeless.html">Timeless?</a></li>
+                                  <li> <a href="job-course-of-empires.html">Job: The Course of Empires</a></li>
+                                  <li> <a href="the-meaning-of-the-beasts-of-job.html">The Meaning of the Beasts of Job</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                          <li> <a href="commandment-clocks.html">Commandment Clocks</a></li>
+                          <li> <a href="other-clocks.html">Other Clocks</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-question-circle"></i> <a href="riddles.html">Riddles</a></summary>
+                        <ul>
+                          <li> <a href="daily-scriptoquote.html">Daily Scryptoquote</a></li>
+                          <li> <a href="the-righteous-fall-seven-times.html">The Righteous Fall Seven Times</a></li>
+                          <li> <a href="twice-a-thousand-years.html">Twice a Thousand Years</a></li>
+                          <li> <a href="solomon-s-countdown-timer.html">Solomon's Countdown Timer</a></li>
+                          <li> <a href="seven-pillars-riddle.html">The Seven Pillars of Wisdom</a></li>
+                          <li> <a href="riddle-of-153-fish.html">Why 153 Fish?</a></li>
+                          <li> <a href="riddles-of-war.html">Riddles of War</a></li>
+                          <li> <a href="building-a-house.html">Building a House</a></li>
+                          <li> <a href="hannah-s-song.html">Hannah's Song</a></li>
+                          <li> <a href="satan-s-taunt.html">Satan's Taunt</a></li>
+                          <li> <a href="vineyard-parable.html">Parable of the Workers in the Vineyard</a></li>
+                          <li> <a href="wedding-parable.html">The Parable of the Wedding Feast</a></li>
+                          <li> <a href="the-childbearing.html">The Childbearing</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fa-solid fa-person-harassing"></i> <a href="a-divided-world.html">A Divided World</a></summary>
+                        <ul>
+                          <li>
+                            <details>
+                              <summary> <a href="against-complementarianism.html">Against Complementarianism</a></summary>
+                                <ul>
+                                  <li> <a href="a-model-for-the-ordination-of-women.html">A Model for the Ordination of Women</a></li>
+                                  <li> <a href="submission.html">Submission</a></li>
+                                  <li> <a href="consecration.html">Consecration</a></li>
+                                  <li> <a href="identification.html">Identification</a></li>
+                                  <li> <a href="quantification.html">Quantification</a></li>
+                                  <li> <a href="reconciliation.html">Reconciliation</a></li>
+                                </ul>
+                            </details>
+                          </li>
+                        </ul>
+                    </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary><i class="fas fa-calendar-alt"></i> <a href="chronology.html">Chronology</a></summary>
+                        <ul>
+                          <li> <a href="dating-the-creation.html">Dating the Creation</a></li>
+                          <li> <a href="sojourn-of-israel.html">Sojourn of Israel</a></li>
+                          <li> <a href="chronology-of-judges.html">Chronology of Judges</a></li>
+                          <li> <a href="lifespan-of-solomon.html">Lifespan of Solomon</a></li>
+                        </ul>
+                    </details>
+                  </li>
+                </ul>
+            </details>
+          </li>
+
+        </ul>
+    </div>
+
+    <!-- data-pagefind-body defines which content pagefind indexes -->
+
+    <!-- Article Text -->
+    <div id="articlebody" class="body-narrow" tabindex="3" data-pagefind-body>
+      <div class="article">
+
+          <h1>The Yoke of Jesus</h1>
+          
+          <p class="wordcount">2103 words long.</p>
+          <p class="date">Published on 2025-10-17</p>
+          
+          <p>What is the yoke of Jesus in Matthew 11? This article is an excerpt from "Teaching: Reaping a Harvest in Matthew", a chapter in an upcoming book on all the ways to speak with God.</p>
+
+<p><sup>28</sup> Come to me, all who labor and are heavy laden, and I will give you <strong>rest</strong>. <sup>29</sup>  Take my <strong>yoke</strong> upon you, and learn from me, for I am gentle and lowly in heart, and you will find <strong>rest</strong> for your souls. <sup>30</sup>  For my <strong>yoke</strong> is easy, and my burden is light.”*</p>
+
+<p><em>– Matthew 11:28-30</em></p>
+
+<p>What on earth does Jesus mean by the word yoke? This parable refers to the agricultural practice of wrapping a curved wooden or metal bar around the neck of a draught animal and then joining it by ropes or chains to a load to be pulled. To pull even heavier loads, multiple oxen or horses would be yoked together. This would be done to train young animals. The older, stronger and more experienced beast would set the pace and pull the majority of the load while the one in training would follow along and learn the technique. The common interpretation is that Jesus is the strong animal who is teaching us. We experience rest not from absence of labor but from having a strong teammate to bear the brunt of the work. By this way of thinking, the yoke is Jesus’ teachings of grace that are superior to the yoke of the law, a burden too heavy for us to pull. The parable is a model for discipleship.</p>
+
+<p>Where is the Holy Spirit in all this? Many scholars say that the characteristic helps of the Holy Spirit are here, such as cementing unity by adoption, providing peace as the fruit of the spirit, and so forth. They agree that the Spirit plays a role. Almost none explicitly identify the yoke as the Holy Spirit. This is a mistake.</p>
+
+<p>Matthew 11 ends by speaking of work and rest. Then chapter 12 plunges into the controversy of how to keep the Sabbath (another means of communicating with God by making yourself available for communion). Jesus heals on the Sabbath to give people rest and in a prolepsis anticipates that people will say he casts out evil spirits by the the use of an evil spirit, most blasphemous. The Jewish practice of observing the Sabbath was giving people more work to do, not the rest they needed. This entire chapter makes no sense unless Matthew 11:28-30 is also principally about the Holy Spirit. The flow is clear if we look at it like this:</p>
+
+<ul>
+<li><p>Jesus tells us what the Spirit does to bring rest (yoking us to Jesus), </p></li>
+<li><p>then shows this Spirit-breathed Sabbath in action by several healings (of a man with a withered hand and a demon-oppressed man), </p></li>
+<li><p>then addresses the Jewish objections to his actions which are grounded in their misunderstanding of the Sabbath, their restless Sabbath,</p></li>
+<li><p>And finally condemns blasphemy against the Holy Spirit. </p></li>
+</ul>
+
+<p>Here is why the yoke must be identified with the Holy Spirit. Matthew 11:25-27 speaks of the Father and the Son. This sets us Trinitarians up for a mention of the Holy Spirit, but where is he? He has been deconstructed.</p>
+
+<p><strong>Reconstructing the Holy Spirit in Ephesians 1:15-23</strong>. What does it mean to deconstruct the Holy Spirit? It means to show many aspects of the Holy Spirit’s ministry in a short passage to convey that the Spirit is present without naming him. In this way, the Spirit is present but hidden, a mystery to be discerned by careful study. Before showing how the Spirit is deconstructed in Matthew 11, let us look at a simpler example from Ephesians, to show that this is not an isolated technique in Scripture. The bolded names of the seven spirits have been added for clarity.</p>
+
+<p>Please note that all seven spirits named in Isaiah 11:2 are present and in matching order. The number seven is important, because the spirits are identified by number for us in Revelation 1:4, 3:1, 4:5, and 5:6.</p>
+
+<p><em>For this reason, because I have heard of your faith in the Lord Jesus and your love toward all the saints, I do not cease to give thanks for you, remembering you in my prayers,</em></p>
+
+<p><strong>Spirit of the Lord</strong>: <em>that the God of our Lord Jesus Christ, the Father of glory,</em></p>
+
+<p><strong>Spirit of Wisdom</strong>: <em>may give you the Spirit of wisdom</em></p>
+
+<p><strong>Spirit of Understanding</strong>: <em>and of revelation in the knowledge of him, having the eyes of your hearts <strong>enlightened</strong>,</em></p>
+
+<p><strong>Spirit of Counsel</strong>: <em>that you may know what is the <strong>hope</strong> to which he has called you, what are the <strong>riches</strong> <strong>of his glorious inheritance</strong> in the saints,</em></p>
+
+<p><strong>Spirit of Might</strong>: <em>and what is the immeasurable greatness of his <strong>power</strong> toward us who believe, according to the working of his great <strong>might</em></strong></p>
+
+<p><strong>Spirit of Knowledge</strong>: <em>that he worked in <strong>Christ</strong> when he raised him from the dead and seated him at his right hand in the heavenly places, far above all rule and authority and power and dominion, and above every name that is named, not only in this age but also in the one to come.</em></p>
+
+<p><strong>Spirit of the Fear of the Lord</strong>:  And he put all things under his feet and gave him as head over all things to the church, which is his body, the fullness of him who fills all in all.*</p>
+
+<p><em>– Ephesians 1:15-23</em></p>
+
+<p>The connections between most verses and the corresponding spirit are pretty clear. The first phrase names the Lord Jesus Christ, so matches the <strong>Spirit of the Lord</strong>. Next, the <strong>Spirit of Wisdom</strong> is named explicitly. The <strong>Spirit of Understanding</strong> is about the enlightenment that comes into our spiritual eyes through worship as we behold the glory of God in worship, another good match. The <strong>Spirit of Counsel’s</strong> job is to teach us what is treasure and what is not and so redirect our passions, therefore “the riches of his glorious inheritance” is most appropriate; also, that spirit comforts us and delivers hope, which is also listed. The <strong>Spirit of Might</strong> is evident in the words power and might. The <strong>Spirit of Knowledge</strong> is specifically about knowledge of the Holy One, who is Jesus. To see him seated at God’s right hand, lauded for having a name above all others – that is to gain real knowledge of Jesus’ true identity. Finally, the process of “putting all things under his feet” will spread fear among all his enemies as they are defeated for all time, the work of the <strong>Spirit of the Fear of the Lord</strong>.</p>
+
+<p><strong>Wisdom, Understanding and Knowledge</strong>. Before we reconstruct the Holy Spirit in Matthew 11:28-30, a word about three confusing words: wisdom, understanding and knowledge. These words seem to be synonyms, but they are often used in the Bible to mean different things. Wisdom is the insight that flows from suffering, such as what Job learned. Knowledge is “knowledge of the Holy One” (Proverbs 9:10, 30:3), that is, of Jesus, who was ironically identified as the holy one of God by demons! Understanding is the trickiest one of the lot. It is the insight connected to worship. True understanding allows us to worship God properly, and true worship enables us to receive insight from God. Here are a few examples:</p>
+
+<ul>
+<li><p>The psalmist is confused why the wicked prosper and says, “<em>But when I thought how to <strong>understand</strong> this, it seemed to me a wearisome task, <strong>until I went into the sanctuary of God</strong>; then I discerned their end.</em>” (Psalm 73:16–17) Worship in God’s presence brings you understanding.</p></li>
+<li><p>After Daniel and his friends worship God (in Daniel 2), He reveals to him the mystery of Nebuchadnezzar’s dream. When jealous rivals want to destroy Daniel and his friends, they attack them over their worship practices. The courage to worship God even when forbidden and threatened with death was the hallmark of Daniel’s character. After Proverbs and Job, Daniel mentions understanding the third most.</p></li>
+<li><p>In 1 Kings 3, Solomon offered a great sacrifice and worshiped God, then in a dream petitioned God in verse 9, “<em>Give your servant therefore an <strong>understanding</strong> mind to govern your people, that I may discern between good and evil, for who is able to govern this your great people?</em>”</p></li>
+<li><p>In Luke 24:30–32, 45, as the disciples who met Jesus on the road to Emmaus broke bread with the Lord, “<em>their eyes were opened, and they recognized him.</em>” Later, with more disciples present, he eats fish in their presence and then “<em>he opened their minds to <strong>understand</strong> the Scriptures</em>.” Worship practices, such as eating communion, facilitate understanding.</p></li>
+</ul>
+
+<p>To complete the causal chain, the soul that worships God is granted understanding which enables their soul to find rest and peace. Solomon’s name is related to the word shalom, which means peace, and the great sacrifices he offered to the Lord led to him being granted more understanding than any other man, which led to his kingdom living at peace.</p>
+
+<p><strong>Reconstructing the Holy Spirit in Matthew 11:28-30.</strong></p>
+
+<p><strong>The Spirit of the Lord</strong>: *Come to me, *</p>
+
+<p><strong>The Spirit of Wisdom</strong>: <em>all who labor and are heavy laden,</em></p>
+
+<p><strong>The Spirit of Understanding</strong>: <em>and I will give you rest.</em></p>
+
+<p><strong>The Spirit of Counsel</strong>: <em>Take my yoke upon you,</em></p>
+
+<p><strong>The Spirit of Might</strong>: <em>and learn from me,</em></p>
+
+<p><strong>The Spirit of Knowledge</strong>: <em>for I am gentle and lowly in heart,</em></p>
+
+<p><strong>The Spirit of the Fear of the Lord</strong>: <em>and you will find rest for your souls. For my <strong>yoke</strong> is easy, and my burden is light.”</em></p>
+
+<p><em>– Matthew 11:28-30</em></p>
+
+<p>Let’s unpack the passage. The call “Come to me” is made by the Lord Jesus, so its force is applied by the <strong>Spirit of the Lord</strong>, whose mission is to promote faith in Jesus and draw us in to worship him. Next, since wisdom comes from suffering, it is the ones who labor under heavy loads whom the <strong>Spirit of Wisdom</strong> comes to bless. Then in accordance with what was said previously, our worship which made us receptive of understanding from God enables us to find rest, a blessing of the <strong>Spirit of Understanding</strong>. The <strong>Spirit of Counsel</strong> bluntly urges us to listen to sound advice, namely obedience to the Word of Christ, which constitutes acquiescing to the yoke being placed upon your shoulders. Next, the invitation to “learn from me” can only occur with that yoke firmly fastened.   Then you as the young animal can be mentored by the older, stronger animal and slowly grow in strength yourself, courtesy of the <strong>Spirit of Might</strong>. After a long period of working alongside Jesus on a daily basis, sharing the same harness, you get to know his character well. By the <strong>Spirit of Knowledge</strong> you can see that he is not a proud tyrant, he is “<em>gentle and lowly in heart</em>”. Finally, at the end you find “<em>rest for your souls</em>”, courtesy of the <strong>Spirit of the Fear of the Lord</strong>. This is a deeper rest than the earlier rest that flowed only from understanding by worship. That was based on faith. This is based on sight, on experience. You will have worked at length with the Lord and now know that his yoke is easy. You will have brought in many harvests together and can rest in the joy of that increase.</p>
+
+<p>By the Spirit you call him Lord (Matthew 22:43). By the Spirit you find patience to keep up your labors (Galatians 5:22) and by that same spirit find rest from them (Revelation 14:13). By the unity of the Spirit (Ephesians 4:3) you are yoked to Jesus. That Spirit teaches you (John 14:26) and empowers you (Acts 1:8). The Holy Spirit delivers “revelation in the knowledge of him” (Ephesians 1:17). Finally, by “walking in the fear of the Lord and in the comfort of the Holy Spirit” your grace will be multiplied. (Acts 9:31)</p>
+
+<p>The many facets of the work of the Holy Spirit are captured concisely by Matthew 11:28-30. By reconstructing the one spirit from his seven manifestations, we see that the whole Trinity is involved in this work, not just the Father and Son. The Holy Spirit facilitates an entire harvest in those three short verses.</p>
+
+<p>The yoke of Jesus is not a band of wood or iron. The yoke is not a set of rules or principles or even an AI agent. The yoke is a person and can guide you sensitively, competently and compassionately like only a person can. Jesus really is humble. He is not asking you to take on him as yoke and master, but to work under the same yoke that he works, the Holy Spirit.</p>
+
+
+      </div>
+
+    </div>
+
+
+    <!-- Page Footer -->
+    <div class="footer faint">
+      <p id="searchbar">
+<div id="search"></div>
+<script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI({ element: "#search", showSubResults: true });
+    });
+</script>
+<p><a href="scripture-index.html">
+  <img src="images/scripture-index-button.png" style="margin-left: 25px;" alt="Scripture Index" height="50px" />
+</a></p>
+</p>
+    </div>
+  </div>
+
+  <!-- For the Scriptoquote, that only appears on one page -->
+	<script type="text/javascript" src="scripts/gryptocram.min.js"></script>
+	<script type="text/javascript" src="scripts/random-quote.js"></script>
+
+  <script>
+
+    var QUOTES = {};
+
+    // Some way to reference the Gryptocram object later, if we desire.
+    grypt = null;
+    var quote = null;
+
+    // Initialize the puzzle after the page loads.
+    onload = function() {
+      fetch('quotes.json')
+                .then(response => response.json())
+                .then(data => {
+                    // Process the JSON data here
+                    QUOTES = data; 
+                    
+                    // Make sure that the same randomly selected Bible quote shows up on a given day of the year, 
+                    // no matter how many times you refresh the page.
+                    quote = get_quote(QUOTES)
+                    
+                    code_map = letter_map()
+
+                    host_element = document.querySelector(".grypt-host")
+                    if (host_element) {
+                      // Create a Gryptocram instance.
+                      grypt = new Gryptocram({
+                        answer: quote,
+                        // encodedAnswer: myEncodedAnswer,
+                        encoding: code_map,  // This is an optional parameter that could be used instead of encodedAnswer()
+                        host: host_element
+                      });
+                    }
+
+                })
+                .catch(error => console.error('Error loading quotes.json:', error));	
+
+    };
+</script>
+
+</body>
+</html>
