@@ -43,7 +43,7 @@ Please note that all seven spirits named in Isaiah 11:2 are present and in match
 
 **Spirit of Knowledge**: *that he worked in **Christ** when he raised him from the dead and seated him at his right hand in the heavenly places, far above all rule and authority and power and dominion, and above every name that is named, not only in this age but also in the one to come.*
 
-**Spirit of the Fear of the Lord**:  And he put all things under his feet and gave him as head over all things to the church, which is his body, the fullness of him who fills all in all.*
+**Spirit of the Fear of the Lord**:  *And he put all things under his feet and gave him as head over all things to the church, which is his body, the fullness of him who fills all in all.*
 
 *– Ephesians 1:15-23*
 
@@ -63,7 +63,7 @@ To complete the causal chain, the soul that worships God is granted understandin
 
  **Reconstructing the Holy Spirit in Matthew 11:28-30.**
 
-**The Spirit of the Lord**: *Come to me, *
+**The Spirit of the Lord**: *Come to me,*
 
 **The Spirit of Wisdom**: *all who labor and are heavy laden,*
 
