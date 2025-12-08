@@ -960,7 +960,7 @@ and been a leader among the people of Israel. She was Moses' sister. Sadly, she 
 <p><em>
 Miriam and Aaron spoke against Moses because of the Cushite woman whom he had married, for he had married a Cushite woman. And they said, “Has the Lord indeed spoken only through Moses? Has he not spoken through us also?” And the Lord heard it. Now the man Moses was very meek, more than all people who were on the face of the earth. And suddenly the Lord said to Moses and to Aaron and Miriam, “Come out, you three, to the tent of meeting.” And the three of them came out. And the Lord came down in a pillar of cloud and stood at the entrance of the tent and called Aaron and Miriam, and they both came forward. And he said, “Hear my words: If there is a prophet among you, I the Lord make myself known to him in a vision; I speak with him in a dream. Not so with my servant Moses. He is faithful in all my house. With him I speak mouth to mouth, clearly, and not in riddles, and he beholds the form of the Lord. <strong>Why then were you not afraid to speak against my servant Moses?</strong>” And the anger of the Lord was kindled against them, and he departed. <br/>
 - Numbers 12:1-9 
-</p></em>
+</em></p>
 
 Miriam would be struck with leprosy and forced to leave the camp for a week. 
 That is how the Spirit of the Fear of the Lord entered Miriam.
@@ -978,7 +978,7 @@ in return for protection during and after the battle. This was the reason she ga
 Before the men lay down, she came up to them on the roof and said to the men, “I know that the Lord has given you the land, and that <strong>the fear of you has fallen upon us, and that all the inhabitants of the land melt away before you.</strong> For we have heard how the Lord dried up the water of the Red Sea before you when you came out of Egypt, and what you did to the two kings of the Amorites who were beyond the Jordan, to Sihon and Og, whom you devoted to destruction. And as soon as we heard it, <strong>our hearts melted, and there was no spirit left in any man because of you, for the Lord your God, he is God in the heavens above and on the earth beneath.</strong> Now then, please swear to me by the Lord that, as I have dealt kindly with you, you also will deal kindly with my father's house, and give me a sure sign that you will save alive my father and mother, my brothers and sisters, and all who belong to them, and deliver our lives from death.” And the men said to her, “Our life for yours even to death! If you do not tell this business of ours, then when the Lord gives us the land we will deal kindly and faithfully with you.”
 <br/>
 - Joshua 2:8-14
-</p></em>
+</em></p>
 
 Rahab was terrified. She was afraid of the God of Israel and so she changed her allegiance. 
 Many people are uncomfortable with the fear of the Lord. They don't like it. They try to downplay it.
