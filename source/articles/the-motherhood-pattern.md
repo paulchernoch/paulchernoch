@@ -980,6 +980,7 @@ Before the men lay down, she came up to them on the roof and said to the men, â€
 - Joshua 2:8-14
 </em></p>
 
+
 Rahab was terrified. She was afraid of the God of Israel and so she changed her allegiance. 
 Many people are uncomfortable with the fear of the Lord. They don't like it. They try to downplay it.
 They try to make it into something more palatable like respect. True, respect is part of it, but so is real fear.
