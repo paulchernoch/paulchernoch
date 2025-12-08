@@ -1485,7 +1485,7 @@ the path for men after that.
       </td>
       <td>All that, plus pregnant or caring for a newborn.</td>
       <td>
-        <strong>Doctrinal Amity</strong>
+        <strong>Doctrinal Affinity</strong>
         <ul>
           <li>Learn to discern truth doctrine from false</li>
           <li>Embrace those in the church who follow the truth</li>
@@ -1565,7 +1565,7 @@ the path for men after that.
     </tr>
     <tr>
       <td>
-        <p><strong>Community</strong></p>
+        <p><strong>Loyalty</strong></p>
         <p>(Age 42 to 49)
       </td>
       <td>
