@@ -174,11 +174,11 @@ body::before {{
    ============================================================ */
 .track {{
   display: flex;
+  width: max-content;
   gap: 20px;
   padding: 8px 24px 16px;
   cursor: grab;
   user-select: none;
-  /* width set by JS */
 }}
 .track:active {{ cursor: grabbing; }}
 
@@ -188,8 +188,8 @@ body::before {{
 @media (max-aspect-ratio: 3/4) {{
   body {{ overflow: hidden; }}
 
+  /* wrapper stays flex-column; track overflows it and is clipped */
   .carousel-wrapper {{
-    flex-direction: row;
     overflow: hidden;
   }}
 
@@ -198,7 +198,6 @@ body::before {{
     padding: 8px 16px 16px;
     height: max-content;
     width: 100% !important;
-    /* horizontal gap repurposed as row gap */
     gap: 16px;
   }}
 
@@ -433,9 +432,8 @@ function buildPips(count) {{
   }}
 }}
 
-function updatePip(activeIndex) {{
-  const pips = document.querySelectorAll(".pip");
-  pips.forEach((p, i) => p.classList.toggle("active", i === activeIndex));
+function updatePip(idx) {{
+  document.querySelectorAll(".pip").forEach((p, i) => p.classList.toggle("active", i === idx));
 }}
 
 /* ============================================================
@@ -444,59 +442,54 @@ function updatePip(activeIndex) {{
 (function () {{
   const articles = shuffle([...ARTICLES]);
   buildTiles(articles);
-
-  const isPortrait = () => window.innerWidth / window.innerHeight < (3 / 4);
-  const TILE_VISIBLE = () => isPortrait() ? 2 : 3;
-
-  // How many "pips" / positions to show
   buildPips(articles.length);
-
-  let paused        = false;
-  let idleTimer     = null;
-  let pauseTimer    = null;
-  let animFrameId   = null;
-  let lastTimestamp = null;
-  let accumulated   = 0;   /* px accumulated since last step */
-  let currentPos    = 0;   /* scroll offset in px */
-  let pauseCountdown = 0;  /* ms remaining in current pause */
-  let inPause       = false;
 
   const track   = document.getElementById("track");
   const badge   = document.getElementById("pauseBadge");
   const wrapper = document.getElementById("carouselWrapper");
 
-  /* --- scroll axis helpers --- */
+  /* ---- axis helpers ---- */
+  const isPortrait = () => (window.innerWidth / window.innerHeight) < (3 / 4);
+
+  /* Total scrollable distance: how far the track extends past the viewport */
   function getScrollMax() {{
-    if (isPortrait()) {{
-      return track.scrollHeight - wrapper.clientHeight;
-    }} else {{
-      return track.scrollWidth - wrapper.clientWidth;
-    }}
+    return isPortrait()
+      ? Math.max(0, track.scrollHeight - wrapper.clientHeight)
+      : Math.max(0, track.scrollWidth  - wrapper.clientWidth);
   }}
 
+  /* Move the track with CSS transform — reliable on all browsers including iOS Safari.
+     Using scrollLeft/scrollTop on overflow:hidden elements is unreliable on iOS. */
   function applyPos(px) {{
-    currentPos = Math.max(0, Math.min(px, getScrollMax() || 0));
+    const max  = getScrollMax();
+    currentPos = Math.max(0, Math.min(px, max));
     if (isPortrait()) {{
-      wrapper.scrollTop  = currentPos;
-      wrapper.scrollLeft = 0;
+      track.style.transform = `translateY(-${{currentPos}}px)`;
     }} else {{
-      wrapper.scrollLeft = currentPos;
-      wrapper.scrollTop  = 0;
+      track.style.transform = `translateX(-${{currentPos}}px)`;
     }}
-    // pip
-    const max = getScrollMax();
-    const frac = max > 0 ? currentPos / max : 0;
+    const frac   = max > 0 ? currentPos / max : 0;
     const pipIdx = Math.round(frac * (articles.length - 1));
     updatePip(pipIdx);
   }}
 
-  /* --- pause / resume --- */
-  function showBadge()  {{ badge.classList.add("visible"); }}
-  function hideBadge()  {{ badge.classList.remove("visible"); }}
+  /* ---- state ---- */
+  let paused         = false;
+  let idleTimer      = null;
+  let animFrameId    = null;
+  let lastTimestamp  = null;
+  let accumulated    = 0;
+  let currentPos     = 0;
+  let pauseCountdown = 0;
+  let inPause        = false;
+  let prevPortrait   = isPortrait();
+
+  /* ---- pause / resume ---- */
+  function showBadge() {{ badge.classList.add("visible"); }}
+  function hideBadge() {{ badge.classList.remove("visible"); }}
 
   function pauseAuto() {{
-    paused    = true;
-    inPause   = false;
+    paused        = true;
     lastTimestamp = null;
     showBadge();
     clearTimeout(idleTimer);
@@ -504,21 +497,19 @@ function updatePip(activeIndex) {{
   }}
 
   function resumeAuto() {{
-    paused    = false;
-    inPause   = false;
+    paused        = false;
+    inPause       = false;
     lastTimestamp = null;
     hideBadge();
     clearTimeout(idleTimer);
-    if (!animFrameId) animate(performance.now());
   }}
 
-  /* --- animation loop --- */
+  /* ---- animation loop ---- */
   function animate(ts) {{
     animFrameId = requestAnimationFrame(animate);
-
     if (paused) {{ lastTimestamp = null; return; }}
-
     if (lastTimestamp === null) {{ lastTimestamp = ts; return; }}
+
     const delta = ts - lastTimestamp;
     lastTimestamp = ts;
 
@@ -532,98 +523,121 @@ function updatePip(activeIndex) {{
     if (accumulated >= 1) {{
       const step = Math.floor(accumulated);
       accumulated -= step;
+      const max = getScrollMax();
+      if (max <= 0) {{ accumulated = 0; return; }}  /* layout not ready */
       const newPos = currentPos + step;
-      if (newPos >= getScrollMax()) {{
-        // reached end — jump back to start
-        currentPos = 0;
+      if (newPos >= max) {{
+        /* Reached end — jump back to start with a pause */
         applyPos(0);
-        inPause = true;
+        inPause        = true;
         pauseCountdown = SCROLL_PAUSE_MS;
       }} else {{
         applyPos(newPos);
-        // brief pause every ~300px scroll
+        /* Brief pause every ~300 px so each tile is readable */
         if (Math.floor(newPos / 300) > Math.floor((newPos - step) / 300)) {{
-          inPause = true;
+          inPause        = true;
           pauseCountdown = SCROLL_PAUSE_MS;
         }}
       }}
     }}
   }}
 
-  /* ---- pointer / touch drag ---- */
-  let dragStartClient = null;
-  let dragStartPos    = null;
+  /* ---- drag / touch ---- */
+  let dragStartClient = 0;
+  let dragStartPos    = 0;
   let isDragging      = false;
   let dragMoved       = false;
 
-  function clientCoord(e) {{
-    if (e.touches) {{
-      return isPortrait() ? e.touches[0].clientY : e.touches[0].clientX;
-    }}
-    return isPortrait() ? e.clientY : e.clientX;
+  /* Return the scroll-axis coordinate from any pointer or touch event */
+  function getCoord(e) {{
+    const src = (e.touches && e.touches.length > 0)
+               ? e.touches[0]
+               : (e.changedTouches && e.changedTouches.length > 0)
+               ? e.changedTouches[0]
+               : e;
+    return isPortrait() ? src.clientY : src.clientX;
   }}
 
-  function onDragStart(e) {{
-    if (e.button !== undefined && e.button !== 0) return;
-    dragStartClient = clientCoord(e);
+  function onPointerDown(e) {{
+    if (e.type === "mousedown" && e.button !== 0) return;
+    dragStartClient = getCoord(e);
     dragStartPos    = currentPos;
     isDragging      = true;
     dragMoved       = false;
-    clearTimeout(idleTimer);
-    paused = true;
-    lastTimestamp = null;
+    paused          = true;
+    lastTimestamp   = null;
     showBadge();
-    e.preventDefault();
+    clearTimeout(idleTimer);
+    /* Auto-resume if the user doesn't drag or navigate within idle timeout */
+    idleTimer = setTimeout(resumeAuto, RESUME_IDLE_MS);
+    /* Block text-selection on mouse drag; do NOT preventDefault for touch
+       so the browser can still synthesise click/tap events for short taps */
+    if (e.type === "mousedown") e.preventDefault();
   }}
 
-  function onDragMove(e) {{
+  function onPointerMove(e) {{
     if (!isDragging) return;
-    const diff = dragStartClient - clientCoord(e);
-    if (Math.abs(diff) > 4) dragMoved = true;
-    applyPos(dragStartPos + diff);
-  }}
-
-  function onDragEnd(e) {{
-    if (!isDragging) return;
-    isDragging = false;
+    const coord = getCoord(e);
+    const diff  = dragStartClient - coord;
+    if (Math.abs(diff) > 6) {{
+      dragMoved = true;
+      /* Now confirmed drag — prevent native scroll / page pan */
+      e.preventDefault();
+    }}
     if (dragMoved) {{
-      // swipe ended — resume after idle timeout
+      applyPos(dragStartPos + diff);
+      /* Reset idle timer while dragging */
       clearTimeout(idleTimer);
       idleTimer = setTimeout(resumeAuto, RESUME_IDLE_MS);
     }}
-    // If no movement it was a tap — handled by click event on tile
   }}
 
-  /* mouse events on track */
-  track.addEventListener("mousedown",   onDragStart, {{ passive: false }});
-  window.addEventListener("mousemove",  onDragMove);
-  window.addEventListener("mouseup",    onDragEnd);
+  function onPointerUp(e) {{
+    if (!isDragging) return;
+    isDragging = false;
+    /* idleTimer is already running and will auto-resume */
+  }}
 
-  /* touch events on track */
-  track.addEventListener("touchstart",  onDragStart, {{ passive: false }});
-  track.addEventListener("touchmove",   onDragMove,  {{ passive: false }});
-  track.addEventListener("touchend",    onDragEnd);
+  /* Mouse */
+  track.addEventListener("mousedown",  onPointerDown, {{ passive: false }});
+  window.addEventListener("mousemove", onPointerMove);
+  window.addEventListener("mouseup",   onPointerUp);
 
-  /* hover pause (mouse only) */
-  track.addEventListener("mouseenter", () => {{
-    if (!isDragging) {{ paused = true; lastTimestamp = null; showBadge(); }}
-  }});
-  track.addEventListener("mouseleave", () => {{
-    if (!isDragging) resumeAuto();
-  }});
+  /* Touch — touchstart is passive so the browser handles taps normally;
+     only touchmove calls preventDefault (after drag threshold is exceeded) */
+  track.addEventListener("touchstart", onPointerDown, {{ passive: true }});
+  track.addEventListener("touchmove",  onPointerMove, {{ passive: false }});
+  track.addEventListener("touchend",   onPointerUp);
 
-  /* tile click — only navigate if not dragging */
+  /* Hover: pause on enter, resume on leave (mouse only) */
+  track.addEventListener("mouseenter", () => {{ if (!isDragging) pauseAuto(); }});
+  track.addEventListener("mouseleave", () => {{ if (!isDragging) resumeAuto(); }});
+
+  /* Click: block navigation only when a real drag just occurred */
   track.addEventListener("click", (e) => {{
-    if (dragMoved) {{ e.preventDefault(); return; }}
-    // Allow default anchor navigation
+    if (dragMoved) e.preventDefault();
   }});
 
-  /* ---- responsive rebuild ---- */
+  /* Orientation / resize: reset scroll position when portrait<->landscape flips */
   window.addEventListener("resize", () => {{
+    const nowPortrait = isPortrait();
+    if (nowPortrait !== prevPortrait) {{
+      prevPortrait          = nowPortrait;
+      currentPos            = 0;
+      accumulated           = 0;
+      inPause               = false;
+      track.style.transform = "";
+    }}
     applyPos(currentPos);
   }});
 
-  /* ---- kick off ---- */
+  /* bfcache: when the user presses Back to return to this page,
+     resume scrolling immediately rather than staying paused */
+  window.addEventListener("pageshow", (e) => {{
+    if (e.persisted) resumeAuto();
+  }});
+
+  /* Kick off */
   animate(performance.now());
 }})();
 </script>
