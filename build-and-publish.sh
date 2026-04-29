@@ -6,7 +6,12 @@
 echo "Commit message for git:"
 read user_input
 
+# Build the new index-2.html file from the template and markdown files.
+# PUT CALL TO make-index-2.py HERE
+python make-index-2.py --force Y
+
 cd source
+
 
 # Build the HTML files from the templates and markdown files.
 python build-website.py force

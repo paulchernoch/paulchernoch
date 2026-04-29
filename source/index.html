@@ -96,6 +96,21 @@
       line-height: 1pt;
     }
   </style>
+  <script>
+    (function () {
+      var REDIRECT_DELAY_MS = 20000;
+      var timer = setTimeout(function () {
+        window.location.href = "index-2.html";
+      }, REDIRECT_DELAY_MS);
+
+      /* Cancel the redirect if the user clicks any anchor on the page */
+      document.addEventListener("click", function (e) {
+        if (e.target.closest("a")) {
+          clearTimeout(timer);
+        }
+      });
+    })();
+  </script>
 </head>
 <html>
   <body>

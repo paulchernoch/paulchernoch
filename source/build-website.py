@@ -554,6 +554,14 @@ def build_action(config, sitemap) -> bool:
   if isfile(index_from):
     shutil.copy2(src=index_from, dst=index_to)
 
+  # Copy index-2.html, the new landing page
+  index_2_from = "index-2.html"
+  index_2_to = join(config['build'], index_2_from)
+  if isfile(index_2_from):
+    shutil.copy2(src=index_2_from, dst=index_2_to)
+
+  
+
   # Copy the quotes.json file for the scriptoquotes
   quotes_from = "quotes.json"
   quotes_to = join(config['build'], quotes_from)
