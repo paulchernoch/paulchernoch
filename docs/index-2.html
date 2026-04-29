@@ -121,16 +121,17 @@ body::before {
 @media (max-aspect-ratio: 3/4) {
   body { overflow: hidden; }
 
-  /* wrapper stays flex-column; track overflows it and is clipped */
-  .carousel-wrapper {
-    overflow: hidden;
-  }
-
+  /* Pull the track out of flex flow so it can be taller than the wrapper
+     and get moved upward with translateY without flexbox constraining it.
+     .carousel-wrapper already has position:relative and overflow:hidden. */
   .track {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: auto !important;   /* let left/right constraints set the width */
     flex-direction: column;
     padding: 8px 16px 16px;
-    height: max-content;
-    width: 100% !important;
     gap: 16px;
   }
 
